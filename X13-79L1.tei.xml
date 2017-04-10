@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TO DR. SHERIDAN.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-X13-79L1-footnote-1"/>
+          <link target="#spp-X13-79L1-footnote-1 #spp-X13-79L1-line-4"/>
+        </linkGrp>
+        <div n="X13-79L1" type="poem"><head type="note" n="1" xml:id="spp-X13-79L1-headnote-1"><lg n="1" xml:id="spp-X13-79L1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X13-79L1-headnote-1-line-group-1-line-1">Dec. 14, 1719<ref target="#spp-X13-79L1-footnote-1">1</ref><note n="1" xml:id="spp-X13-79L1-footnote-1" place="foot">This is probably dated too early</note>, 9 at night.</l></lg></head><head type="note" n="2" xml:id="spp-X13-79L1-headnote-2"><lg n="1" xml:id="spp-X13-79L1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X13-79L1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X13-79L1-headnote-3"><lg n="1" xml:id="spp-X13-79L1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X13-79L1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X13-79L1-line-1"> S<hi rend="SMALL-CAPS">IR</hi>,</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-X13-79L1-line-2"><hi rend="display-initial">I</hi>T is impossible to know by your letter whether the wine is to be bottled to-morrow, or no.</l><l n="3" xml:id="spp-X13-79L1-line-3"> If it be, or be not, why did not you, in plain English, tell us so?</l><l n="4" xml:id="spp-X13-79L1-line-4"> For my part, it was by mere chance I came to sit with the ladies <ref target="#spp-X13-79L1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-X13-79L1-footnote-1">Mrs. Dingley and Mrs. Johnson.</note> this night:</l><l n="5" xml:id="spp-X13-79L1-line-5"> And if they had not told me there was a letter from you; and your man Alexander had not gone, and come back from the deanry; and the boy here had not been sent to let Alexander know I was here; I should have missed the letter out-right.</l><l n="6" xml:id="spp-X13-79L1-line-6"> Truly I don't know who·'s bound to be sending for corks to stop your bottles, with a vengeance.</l><l n="7" xml:id="spp-X13-79L1-line-7"> Make a page of your own age, and send your man Alexander to buy corks; for Saunders already has gone above ten jaunts.</l><l n="8" xml:id="spp-X13-79L1-line-8"> Mrs. Dingley and Mrs. Johnson say, truly they don't care for your wife's company, though they like your wine; but they had rather have it at their own house to drink in quiet.</l><l n="9" xml:id="spp-X13-79L1-line-9"> However, they own it is very civil in Mr. Sheridan to make the offer; and they cannot deny it.</l><l n="10" xml:id="spp-X13-79L1-line-10"> I wish Alexander safe at St. Catharine's to-night, with all my heart and soul, upon my word and honour:</l><l n="11" xml:id="spp-X13-79L1-line-11"> But I think it base in you to send a poor fellow out so late at this time of year, when one would not turn out a dog that one valued; I appeal to your friend Mr. Connor.</l><l n="12" xml:id="spp-X13-79L1-line-12"> I would present my humble service to my lady Mountcashel; but truly I thought she would have made advances to have been acquainted with me, as she pretended.</l><l n="13" xml:id="spp-X13-79L1-line-13" rend="align(center)"> But now I can write no more, for you see plainly my paper is ended.1 P.S.</l></lg><lg n="3" type="stanza"><l n="14" xml:id="spp-X13-79L1-line-14" rend="flush left">I wish, when you prated, your letter you·'d dated:&#13;</l><l n="15" xml:id="spp-X13-79L1-line-15"> Much plague it created. I scolded and rated;</l><l n="16" xml:id="spp-X13-79L1-line-16"> My soul is much grated; for your man I long waited.</l><l n="17" xml:id="spp-X13-79L1-line-17"> I think you are fated, like a bear to be baited:</l><l n="18" xml:id="spp-X13-79L1-line-18"> Your man is belated; the case I have stated;</l><l n="19" xml:id="spp-X13-79L1-line-19"> And me you have cheated. My stable·'s unslated.</l><l n="20" xml:id="spp-X13-79L1-line-20"> Come back t' us well freighted.</l><l n="21" xml:id="spp-X13-79L1-line-21"> I remember my late head; and wish you translated,</l><l n="22" xml:id="spp-X13-79L1-line-22" rend="align(center)"> For teazing me.2 P.S.</l></lg><lg n="4" type="stanza"><l n="23" xml:id="spp-X13-79L1-line-23" rend="flush left">Mrs Dingley desires me singly&#13;</l><l n="24" xml:id="spp-X13-79L1-line-24"> Her service to present you; hopes that will content you;</l><l n="25" xml:id="spp-X13-79L1-line-25"> But Johnson madam is grown a sad dame,</l><l n="26" xml:id="spp-X13-79L1-line-26" rend="align(center)"> For want of converse, and cannot send one verse.3 P.S.</l></lg><lg n="5" type="stanza"><l n="27" xml:id="spp-X13-79L1-line-27" rend="flush left">You keep such a twattling with you and your bottling;&#13;</l><l n="28" xml:id="spp-X13-79L1-line-28"> But I see the sum total, we shall ne'er have a bottle;</l><l n="29" xml:id="spp-X13-79L1-line-29"> The long and the short, we shall not have a quart.</l><l n="30" xml:id="spp-X13-79L1-line-30"> I wish you would sign·'t, that we have a pint.</l><l n="31" xml:id="spp-X13-79L1-line-31"> For all your colloguing, I·'d be glad of a knoggin:</l><l n="32" xml:id="spp-X13-79L1-line-32"> But I doubt 'tis a sham; you won't give us a dram.</l><l n="33" xml:id="spp-X13-79L1-line-33"> 'Tis of shine a month moon-full, you won't part with a spoonfull,</l><l n="34" xml:id="spp-X13-79L1-line-34"> And I must be nimble, if I can fill my thimble.</l><l n="35" xml:id="spp-X13-79L1-line-35"> You see I won't stop, till I come to a drop;</l><l n="36" xml:id="spp-X13-79L1-line-36"> But I doubt the oraculum is a poor supernaculum;</l><l n="37" xml:id="spp-X13-79L1-line-37" rend="flush right"> Though perhaps you tell it for a grace, if we smell it.S<hi rend="SMALL-CAPS">TELLA</hi>.X13-79L1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

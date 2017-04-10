@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>* Newgate'<hi rend="underline">s</hi> G<hi rend="SMALL-CAPS">ARLAND</hi>: <hi rend="underline">Being a</hi></title>
+        <title><hi rend="underline">new Ballad, shewing how Mr. </hi>Jona-</title>
+        <title>than Wild<hi rend="underline">'s Throat was cut from Ear</hi></title>
+        <title><hi rend="underline">to Ear with a Penknife, by Mr. </hi>Blake<hi rend="underline">,</hi></title>
+        <title><hi rend="underline">alias </hi>Blueskin<hi rend="underline">, the bold Highwayman,</hi></title>
+        <title><hi rend="underline">as he stood at his Trial in the</hi> Old-Baily,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y13-04M1" type="poem"><head type="note" n="1" xml:id="spp-Y13-04M1-headnote-1"><lg n="1" xml:id="spp-Y13-04M1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y13-04M1-headnote-1-line-group-1-line-1"><hi rend="underline">To the Tune of the</hi> Cut-purse.</l></lg></head><head type="note" n="2" xml:id="spp-Y13-04M1-headnote-2"><lg n="1" xml:id="spp-Y13-04M1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y13-04M1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y13-04M1-headnote-3"><lg n="1" xml:id="spp-Y13-04M1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y13-04M1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y13-04M1-line-1" rend="align(center)">I.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-Y13-04M1-line-2" rend="flush left"><hi rend="display-initial">Y</hi>E Gallants of <hi rend="underline">Newgate</hi>, whose Fingers are nice,</l><l n="3" xml:id="spp-Y13-04M1-line-3"> In diving in Pockets, or cogging of Dice;</l><l n="4" xml:id="spp-Y13-04M1-line-4"> Ye Sharpers so rich, who can buy off the Noose,</l><l n="5" xml:id="spp-Y13-04M1-line-5"> Ye honester poor Rogues, who die in your Shoes,Attend and draw near,Good News ye shall hear,How <hi rend="underline">Jonathan</hi>'s Throat was cut from Ear to Ear.</l><l n="6" xml:id="spp-Y13-04M1-line-6"> How <hi rend="underline">Blueskin</hi>'s sharp Penknife hath set you at Ease,</l><l n="7" xml:id="spp-Y13-04M1-line-7"> And every Man round me may rob, if he please.</l></lg><lg n="3" type="stanza"><l n="8" xml:id="spp-Y13-04M1-line-8" rend="align(center)">II.</l></lg><lg n="4" type="stanza"><l n="9" xml:id="spp-Y13-04M1-line-9" rend="flush left">When to the <hi rend="underline">Old-Baily</hi> this <hi rend="underline">Blueskin</hi> was led,</l><l n="10" xml:id="spp-Y13-04M1-line-10"> He held up his Hand, his Indictment was read,</l><l n="11" xml:id="spp-Y13-04M1-line-11"> Loud rattled his Chains, near him <hi rend="underline">Jonathan</hi> stood,</l><l n="12" xml:id="spp-Y13-04M1-line-12"> For full Forty Pounds was the Price of his Blood.Then hopeless of Life,He drew his Penknife,And made a sad Widow of <hi rend="underline">Jonathan</hi>'s Wife.</l><l n="13" xml:id="spp-Y13-04M1-line-13"> But Forty Pounds paid her, her Grief shall appease,</l><l n="14" xml:id="spp-Y13-04M1-line-14"> And every Man round me may rob, if he please.</l></lg><lg n="5" type="stanza"><l n="15" xml:id="spp-Y13-04M1-line-15" rend="align(center)">III.</l></lg><lg n="6" type="stanza"><l n="16" xml:id="spp-Y13-04M1-line-16" rend="flush left">Some say there are Courtiers of highest Renown,&#13;</l><l n="17" xml:id="spp-Y13-04M1-line-17"> Who steal the King's Gold, and leave him but a <hi rend="underline">Crown</hi>;</l><l n="18" xml:id="spp-Y13-04M1-line-18"> Some say there are Peers, and some Parliament Men,</l><l n="19" xml:id="spp-Y13-04M1-line-19"> Who meet once a Year to rob Courtiers agen:Let them all take their Swing,To pillage the King,And get a Blue Ribbon instead of a String.</l><l n="20" xml:id="spp-Y13-04M1-line-20"> Now <hi rend="underline">Blueskin</hi>'s sharp Penknife hath set you at Ease,</l><l n="21" xml:id="spp-Y13-04M1-line-21"> And ev'ry Man round me may rob, if he please.</l></lg><lg n="7" type="stanza"><l n="22" xml:id="spp-Y13-04M1-line-22" rend="align(center)">IV.</l></lg><lg n="8" type="stanza"><l n="23" xml:id="spp-Y13-04M1-line-23" rend="flush left">Knaves of old, to hide Guilt by their cunning Inventions,&#13;</l><l n="24" xml:id="spp-Y13-04M1-line-24"> Call'd Briberies Grants, and plain Robberies Pensions;</l><l n="25" xml:id="spp-Y13-04M1-line-25"> Physicians and Lawyers (who take their Degrees,)</l><l n="26" xml:id="spp-Y13-04M1-line-26"> To be Learned Rogues (call'd their Pilfering Fees;)Since this happy Day,Now ev'ry Man mayRob (as safe as in Office) upon the Highway.</l><l n="27" xml:id="spp-Y13-04M1-line-27"> For <hi rend="underline">Blueskin</hi>'s sharp Penknife hath set you at Ease,</l><l n="28" xml:id="spp-Y13-04M1-line-28"> And ev'ry Man round me may rob, if he please.</l></lg><lg n="9" type="stanza"><l n="29" xml:id="spp-Y13-04M1-line-29" rend="align(center)">V.</l></lg><lg n="10" type="stanza"><l n="30" xml:id="spp-Y13-04M1-line-30" rend="flush left">Some cheat in the Customs, some rob the Excise,&#13;</l><l n="31" xml:id="spp-Y13-04M1-line-31"> But he who robs both is esteemed most wise.</l><l n="32" xml:id="spp-Y13-04M1-line-32"> Church-Wardens, too prudent to hazard the Halter,</l><l n="33" xml:id="spp-Y13-04M1-line-33"> As yet only venture to steal from the Altar:But now to get Gold,They may be more bold,And rob on the Highway, since <hi rend="underline">Jonathan</hi>'s cold.</l><l n="34" xml:id="spp-Y13-04M1-line-34"> For <hi rend="underline">Blueskin</hi>'s sharp Penknife hath set you at Ease,</l><l n="35" xml:id="spp-Y13-04M1-line-35"> And ev'ry Man round me may rob, if he please.</l></lg><lg n="11" type="stanza"><l n="36" xml:id="spp-Y13-04M1-line-36" rend="align(center)">VI.</l></lg><lg n="12" type="stanza"><l n="37" xml:id="spp-Y13-04M1-line-37" rend="flush left">Some by publick Revenues, which pass'd thro' their Hands,&#13;</l><l n="38" xml:id="spp-Y13-04M1-line-38"> Have purchas'd clean Houses, and bought dirty Lands.</l><l n="39" xml:id="spp-Y13-04M1-line-39"> Some to steal from a Charity think it no Sin,</l><l n="40" xml:id="spp-Y13-04M1-line-40"> Which, at Home (says the Proverb does always begin;)But, if ever you beAssign'd a Trustee,Treat not Orphans like Masters of the Chancery,</l><l n="41" xml:id="spp-Y13-04M1-line-41"> But take the Highway, and more honestly seize,</l><l n="42" xml:id="spp-Y13-04M1-line-42"> For ev'ry Man round me may rob, if he please.</l></lg><lg n="13" type="stanza"><l n="43" xml:id="spp-Y13-04M1-line-43" rend="align(center)">VII.</l></lg><lg n="14" type="stanza"><l n="44" xml:id="spp-Y13-04M1-line-44" rend="flush left">What a Pother has here been with <hi rend="underline">Wood</hi> and his Brass,</l><l n="45" xml:id="spp-Y13-04M1-line-45"> Who would modestly make a few Half-pennies pass?</l><l n="46" xml:id="spp-Y13-04M1-line-46"> The Patent is good, and the Precedent's old,</l><l n="47" xml:id="spp-Y13-04M1-line-47"> For <hi rend="underline">Diomede</hi> changed his Copper for Gold:But, if <hi rend="underline">Ireland</hi> despiseThe new Half-pennies,With more Safety to rob on the Road I advise.</l><l n="48" xml:id="spp-Y13-04M1-line-48"> For <hi rend="underline">Blueskin</hi>'s sharp Penknife hath set thee at Ease;</l><l n="49" xml:id="spp-Y13-04M1-line-49"> And ev'ry Man round me may rob, if he please.Y13-04M1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

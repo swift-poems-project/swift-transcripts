@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>D──n <hi rend="underline">S</hi>────'s Answer</title>
+        <title>TO THE</title>
+        <title>Reverend Doctor <hi rend="underline">SH────N</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="972-WILH" type="poem"><head type="note" n="1" xml:id="spp-972-WILH-headnote-1"><lg n="1" xml:id="spp-972-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-972-WILH-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-972-WILH-headnote-2"><lg n="1" xml:id="spp-972-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-972-WILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-972-WILH-headnote-3"><lg n="1" xml:id="spp-972-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-972-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-972-WILH-line-1"><hi rend="underline">SIR</hi>,</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-972-WILH-line-2"><hi rend="display-initial">I</hi>N reading your Letter alone in my Hackny,</l><l n="3" xml:id="spp-972-WILH-line-3"> Your damnable Riddle, my poor Brains did rack nigh.</l><l n="4" xml:id="spp-972-WILH-line-4"> And when with much Labour the Matter I crackt,</l><l n="5" xml:id="spp-972-WILH-line-5"> I found you mistaken in Matter of Fact.</l></lg><lg n="3" type="stanza"><l n="6" xml:id="spp-972-WILH-line-6">A W<hi rend="SMALL-CAPS">OMAN</hi>'s no Sieve (for with that you begin)</l><l n="7" xml:id="spp-972-WILH-line-7"> Because she let's out more, than e'er she takes in.</l><l n="8" xml:id="spp-972-WILH-line-8"> And that she's a Riddle, can never be right,</l><l n="9" xml:id="spp-972-WILH-line-9"> For a Riddle is dark, but a Woman is <hi rend="underline">light</hi>.</l><l n="10" xml:id="spp-972-WILH-line-10"> But grant her a Sieve, I can say something archer,</l><l n="11" xml:id="spp-972-WILH-line-11"> Pray what is a Man? he's a fine-Linen <hi rend="underline">Searcher</hi>.</l></lg><lg n="4" type="stanza"><l n="12" xml:id="spp-972-WILH-line-12">N<hi rend="SMALL-CAPS">OW</hi> tell me a Thing that wants Interpretation,</l><l n="13" xml:id="spp-972-WILH-line-13"> What Name for a Maid, was the first Man's Damnation?</l><l n="14" xml:id="spp-972-WILH-line-14"> If your Worship will please to explain me this <hi rend="underline">Rebus</hi>,</l><l n="15" xml:id="spp-972-WILH-line-15"> I swear from henceforward you shall be my <hi rend="underline">Ph<unclear>oe</unclear>bus</hi>.</l></lg><lg n="5" type="stanza"><l n="16" xml:id="spp-972-WILH-line-16" rend="indent(1) indent(1)"><hi rend="underline">From my </hi>Hackney-Coach<hi rend="underline">,_Sept. </hi>11, 1718<hi rend="underline">. Past </hi>12<hi rend="underline">_at Noon</hi>.972-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

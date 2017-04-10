@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">Dr. </hi>Sw<hi rend="underline">──to Mr. </hi>P──e<hi rend="underline">,</hi></title>
+        <title><hi rend="underline">While he was writing the</hi> Dunciad.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="405B04P1" type="poem"><head type="note" n="1" xml:id="spp-405B04P1-headnote-1"><lg n="1" xml:id="spp-405B04P1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-405B04P1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-405B04P1-headnote-2"><lg n="1" xml:id="spp-405B04P1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-405B04P1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-405B04P1-headnote-3"><lg n="1" xml:id="spp-405B04P1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-405B04P1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-405B04P1-line-1"><hi rend="display-initial">P</hi><hi rend="underline">Ope</hi> has the Talent well to speak,But not to reach the Ear;</l><l n="2" xml:id="spp-405B04P1-line-2"> His loudest Voice is low and weak,The <hi rend="underline">Dean</hi> too deaf to hear.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-405B04P1-line-3">A while they on each other look,&#13;Then diff'rent Studies chuse,</l><l n="4" xml:id="spp-405B04P1-line-4"> The <hi rend="underline">Dean</hi> sits plodding on a Book,<hi rend="underline">Pope</hi> walks, and courts the Muse.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-405B04P1-line-5">Now Backs of Letters, though design'd&#13;For those who more will need 'em,</l><l n="6" xml:id="spp-405B04P1-line-6"> Are fill'd with Hints, and interlin'd,Himself can hardly read 'em.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-405B04P1-line-7">Each Atom by some other struck,&#13;All Turns and Motion tries;</l><l n="8" xml:id="spp-405B04P1-line-8"> Till in a Lump together stuck,Behold a <hi rend="underline">Poem</hi> rise!</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-405B04P1-line-9" rend="indent(1)">Yet to the <hi rend="underline">Dean</hi> his Share allot;He claims it by a Canon;<hi rend="underline">That, without which a Thing is not</hi>Is<hi rend="underline">, causa sine quâ non</hi>.</l></lg><lg n="6" type="stanza"><l n="10" xml:id="spp-405B04P1-line-10">Thus, <hi rend="underline">Pope</hi>, in vain you boast your Wit;For, had our deaf Divine</l><l n="11" xml:id="spp-405B04P1-line-11"> Been for your Conversation fit,You had not writ a Line.</l></lg><lg n="7" type="stanza"><l n="12" xml:id="spp-405B04P1-line-12">Of Prelate thus, for preaching fam'd,&#13;The Sexton reason'd well,</l><l n="13" xml:id="spp-405B04P1-line-13"> And justly half the Merit claim'dBecause he <hi rend="underline">rang the Bell</hi>.405B04P1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

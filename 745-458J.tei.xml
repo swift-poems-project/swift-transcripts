@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="745-458J" type="poem"><head type="note" n="1" xml:id="spp-745-458J-headnote-1"><lg n="1" xml:id="spp-745-458J-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-745-458J-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-745-458J-headnote-2"><lg n="1" xml:id="spp-745-458J-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-745-458J-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-745-458J-headnote-3"><lg n="1" xml:id="spp-745-458J-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-745-458J-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-745-458J-line-1"><unclear>illegible line</unclear><unclear>illegible</unclear> Stella to his <unclear>illegible</unclear> invite</l><l n="2" xml:id="spp-745-458J-line-2"> He entertaind her half a year</l><l n="3" xml:id="spp-745-458J-line-3"> With richest Wines and costly Cheer</l><l n="4" xml:id="spp-745-458J-line-4"> Surpris'd with every day a hott meal</l><l n="5" xml:id="spp-745-458J-line-5"> She thought that all the World was Oatmeal<gap/><gap/></l><l n="6" xml:id="spp-745-458J-line-6"> Don Carlos made her chief Director</l><l n="7" xml:id="spp-745-458J-line-7"> She now can o're the Servants hector</l><l n="8" xml:id="spp-745-458J-line-8"> In half a Week the Dame grew Nice</l><l n="9" xml:id="spp-745-458J-line-9"> Got all things at the highest price</l><l n="10" xml:id="spp-745-458J-line-10"> Now at the Table Head she sitts</l><l n="11" xml:id="spp-745-458J-line-11"> Presented with the choicest bitts</l><l n="12" xml:id="spp-745-458J-line-12"> She lookt on Partridges with scorn</l><l n="13" xml:id="spp-745-458J-line-13"> Except they taisted of the Corn</l><l n="14" xml:id="spp-745-458J-line-14"> A ha<add>u</add>nch of Venison made her sweat</l><l n="15" xml:id="spp-745-458J-line-15"> Unless it had the right Fumett</l><l n="16" xml:id="spp-745-458J-line-16"> Don Carlos earnestly would beg</l><l n="17" xml:id="spp-745-458J-line-17"> Dear Madam try this Pidgeons leg</l><l n="18" xml:id="spp-745-458J-line-18"> Was happy when he could prevayl</l><l n="19" xml:id="spp-745-458J-line-19"> To make her only touch a Quayl</l><l n="20" xml:id="spp-745-458J-line-20"> Through Candle-light she view'd the wine</l><l n="21" xml:id="spp-745-458J-line-21"> To see that every Glass was fineAt last grown prouder than the Divil</l><l n="22" xml:id="spp-745-458J-line-22"> With feeding high, and Treatment Civil</l><l n="23" xml:id="spp-745-458J-line-23"> Too soon arrives the Dismall Day</l><l n="24" xml:id="spp-745-458J-line-24"> She must return to Ormond-Key<gap/><gap/><gap/><gap/><gap/><gap/></l><l n="25" xml:id="spp-745-458J-line-25"> Don Carlos now began to find</l><l n="26" xml:id="spp-745-458J-line-26"> His med'cine work as he designed</l><l n="27" xml:id="spp-745-458J-line-27"> As the coach stopt she look't and swore</l><l n="28" xml:id="spp-745-458J-line-28"> The Rascall had mistook the Dore</l><l n="29" xml:id="spp-745-458J-line-29"> At going in you saw her stoop</l><l n="30" xml:id="spp-745-458J-line-30"> The Narrow Entry brusht her Hoop</l><l n="31" xml:id="spp-745-458J-line-31"> She curst the dark and winding stairs</l><l n="32" xml:id="spp-745-458J-line-32"> And still encreasing in her Airs</l><l n="33" xml:id="spp-745-458J-line-33"> Began a thousand faults to spy</l><l n="34" xml:id="spp-745-458J-line-34"> The C<unclear>illegible</unclear>ling hardly six foot hi<unclear>illegible</unclear>h</l><l n="35" xml:id="spp-745-458J-line-35"> The smoaky Wainscote f<unclear>illegible</unclear> of <unclear>illegible</unclear></l><l n="36" xml:id="spp-745-458J-line-36"> And half the Chairs wit<unclear>illegible</unclear> backs</l><l n="37" xml:id="spp-745-458J-line-37"> The Cupbord fastned <unclear>illegible</unclear>h a Peg</l><l n="38" xml:id="spp-745-458J-line-38"> The rusty Tongs <unclear>illegible</unclear> lost a leg</l><l n="39" xml:id="spp-745-458J-line-39"> Her quarters out a<unclear>illegible</unclear>ady Day</l><l n="40" xml:id="spp-745-458J-line-40"> She'll have em k<unclear>illegible</unclear>w she scorns to stay</l><l n="41" xml:id="spp-745-458J-line-41"> (While there are <unclear>illegible</unclear>ses to be lett)</l><l n="42" xml:id="spp-745-458J-line-42"> In lodgings like <unclear>illegible</unclear> poor Grisette</l><l n="43" xml:id="spp-745-458J-line-43"> Mean time t<unclear>hole</unclear><unclear>illegible</unclear>eep her spirits up<gap/></l><l n="44" xml:id="spp-745-458J-line-44"> She sends for company to sup;<gap/><unclear>illegible</unclear> all the while, you might remark<gap/><gap/></l><l n="45" xml:id="spp-745-458J-line-45"> She strove in vain to Ape Woodpark</l><l n="46" xml:id="spp-745-458J-line-46"> Two bottles calld for (half her Store<del>)</del></l><l n="47" xml:id="spp-745-458J-line-47"> The Cellar <subst reason="overwriting"><add>could</add><del>would</del></subst> contain but four)</l><l n="48" xml:id="spp-745-458J-line-48"> A supper worthy of her self,</l><l n="49" xml:id="spp-745-458J-line-49"> Five Nothings in five plates of Delf,</l><l n="50" xml:id="spp-745-458J-line-50"> thus for a week the farce went on<gap/><gap/></l><l n="51" xml:id="spp-745-458J-line-51"> When the whole Moneths allowance gone</l><l n="52" xml:id="spp-745-458J-line-52"> She fell into the former scene</l><l n="53" xml:id="spp-745-458J-line-53"> Small beer a hering and the Dean.Since J must la<add>u</add>gh, or cannot live,</l><l n="54" xml:id="spp-745-458J-line-54"> Good Natured Stella will forgive,</l><l n="55" xml:id="spp-745-458J-line-55"> Wee Poets when a Hint is new</l><l n="56" xml:id="spp-745-458J-line-56"> Regard not what is false or true,</l><l n="57" xml:id="spp-745-458J-line-57"> No Raillery gives just offence</l><l n="58" xml:id="spp-745-458J-line-58"> Where truth <subst reason="overwriting"><add>has</add><del>had</del></subst> not the least pretence</l><l n="59" xml:id="spp-745-458J-line-59"> Nor can be more securly plac't</l><l n="60" xml:id="spp-745-458J-line-60"> Than or a Nimph of Stella's taist</l><l n="61" xml:id="spp-745-458J-line-61"> J must confess your wine and Vittle</l><l n="62" xml:id="spp-745-458J-line-62"> J was to hard upon──a little</l><l n="63" xml:id="spp-745-458J-line-63"> And you must know in what J writt</l><l n="64" xml:id="spp-745-458J-line-64"> J <subst reason="overwriting"><add>had</add><del>has</del></subst> some anger in my witt</l><l n="65" xml:id="spp-745-458J-line-65"> For when you sigh to leave Woodpark</l><l n="66" xml:id="spp-745-458J-line-66"> The Place, the wellcom, and the spark,</l><l n="67" xml:id="spp-745-458J-line-67"> To languish in this odious Town</l><l n="68" xml:id="spp-745-458J-line-68"> And pull your haughty stomach down,</l><l n="69" xml:id="spp-745-458J-line-69"> You shew Don Carlos where to dwell,</l><l n="70" xml:id="spp-745-458J-line-70"> And grieve he ever left Pell-mell.</l><l n="71" xml:id="spp-745-458J-line-71"> Yet granting all J sayd were true,</l><l n="72" xml:id="spp-745-458J-line-72"> A Cottage is Woodpark with you745-458J   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>$$A</title>
+        <title>Friendly Apology</title>
+        <title>FOR A</title>
+        <title>Certain Justice of Peace;</title>
+        <title>BY WAY OF</title>
+        <title>DEFENCE</title>
+        <title>OF</title>
+        <title><hi rend="underline">H────y H────n</hi>, Esq;</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-Y34AB270-footnote-1 #spp-Y34AB270-line-34"/>
+        </linkGrp>
+        <div n="Y34AB270" type="poem"><head type="note" n="1" xml:id="spp-Y34AB270-headnote-1"><lg n="1" xml:id="spp-Y34AB270-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y34AB270-headnote-1-line-group-1-line-1"><hi rend="underline">But he, by bauling News about,</hi></l><lg n="2" xml:id="spp-Y34AB270-headnote-1-line-group-2" type="headnote"><l n="1" xml:id="spp-Y34AB270-headnote-1-line-group-2-line-1"><hi rend="underline">And aptly using Brush and Clout,</hi></l><lg n="3" xml:id="spp-Y34AB270-headnote-1-line-group-3" type="headnote"><l n="1" xml:id="spp-Y34AB270-headnote-1-line-group-3-line-1"><hi rend="underline">A </hi>Justice<hi rend="underline"> of the </hi>Peace<hi rend="underline"> became,</hi></l><lg n="4" xml:id="spp-Y34AB270-headnote-1-line-group-4" type="headnote"><l n="1" xml:id="spp-Y34AB270-headnote-1-line-group-4-line-1"><hi rend="underline">To punish Rogues who do the same</hi>.</l></lg><lg n="5" xml:id="spp-Y34AB270-headnote-1-line-group-5" type="headnote"><l n="1" xml:id="spp-Y34AB270-headnote-1-line-group-5-line-1"><note rend="flush right">H<hi rend="SMALL-CAPS">UDIBRAS</hi>.</note></l></lg></lg></lg></lg></head><head type="note" n="2" xml:id="spp-Y34AB270-headnote-2"><lg n="1" xml:id="spp-Y34AB270-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y34AB270-headnote-2-line-group-1-line-1">By J<hi rend="SMALL-CAPS">AMES</hi> B<hi rend="SMALL-CAPS">LACKWELL</hi>, Operator for the Feet.</l></lg></head><head type="note" n="3" xml:id="spp-Y34AB270-headnote-3"><lg n="1" xml:id="spp-Y34AB270-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y34AB270-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y34AB270-line-1"><hi rend="display-initial">I</hi> Sing the Man, of Courage try'd,</l><l n="2" xml:id="spp-Y34AB270-line-2"> O'er-run with Ignorance, and Pride,</l><l n="3" xml:id="spp-Y34AB270-line-3"> Who boldly hunted out Disgrace,</l><l n="4" xml:id="spp-Y34AB270-line-4"> With canker'd Mind, and hideous Face,</l><l n="5" xml:id="spp-Y34AB270-line-5"> The first who made, (let none deny it,)</l><l n="6" xml:id="spp-Y34AB270-line-6"> The Libel-vending Rogues be quiet.</l></lg><lg n="2" type="stanza"><l n="7" xml:id="spp-Y34AB270-line-7">The Fact was Glorious we must own,&#13;</l><l n="8" xml:id="spp-Y34AB270-line-8"> For <hi rend="underline">H──────y</hi> was before unknown,</l><l n="9" xml:id="spp-Y34AB270-line-9"> Contemn'd I mean,──for who wou'd chuse</l><l n="10" xml:id="spp-Y34AB270-line-10"> So vile a Subject for the Muse?</l></lg><lg n="3" type="stanza"><l n="11" xml:id="spp-Y34AB270-line-11">'Twas once the noblest of his Wishes,&#13;</l><l n="12" xml:id="spp-Y34AB270-line-12"> To fill his Paunch with Scraps from Dishes,</l><l n="13" xml:id="spp-Y34AB270-line-13"> For which he'd Parch before the Grate,</l><l n="14" xml:id="spp-Y34AB270-line-14"> Or wind the <hi rend="underline">Jack</hi>'s slow-rising weight,</l><l n="15" xml:id="spp-Y34AB270-line-15"> (Such Toils as best his Talents fit,</l><l n="16" xml:id="spp-Y34AB270-line-16"> Or polish <hi rend="underline">Shoes</hi>, or turn the <hi rend="underline">Spit</hi>;</l><l n="17" xml:id="spp-Y34AB270-line-17"> But unexpectedly grown Rich in</l><l n="18" xml:id="spp-Y34AB270-line-18"> Squire <hi rend="underline">D──────e</hi>'s Family and Kitchin,</l><l n="19" xml:id="spp-Y34AB270-line-19"> He Pants to Eternize his Name,</l><l n="20" xml:id="spp-Y34AB270-line-20"> And takes the dirty Road to Fame,</l><l n="21" xml:id="spp-Y34AB270-line-21"> Believes that persecuting Wit,</l><l n="22" xml:id="spp-Y34AB270-line-22"> Will prove the surest way to it;</l><l n="23" xml:id="spp-Y34AB270-line-23"> So with a C-l---l at his Back,</l><l n="24" xml:id="spp-Y34AB270-line-24"> The <hi rend="underline">Libel</hi> feels his first Attack,</l><l n="25" xml:id="spp-Y34AB270-line-25"> He calls it a seditious Paper,</l><l n="26" xml:id="spp-Y34AB270-line-26"> Writ by another <hi rend="underline">Patriot Drapier</hi>,</l><l n="27" xml:id="spp-Y34AB270-line-27"> Then Raves, and Blunders Nonsense thicker</l><l n="28" xml:id="spp-Y34AB270-line-28"> Than Justices o'er charg'd with Liquor:</l><l n="29" xml:id="spp-Y34AB270-line-29"> And all this with Design, no doubt,</l><l n="30" xml:id="spp-Y34AB270-line-30"> To hear his Praises hawk'd about,</l><l n="31" xml:id="spp-Y34AB270-line-31"> To send his Name thro' ev'ry Street,</l><l n="32" xml:id="spp-Y34AB270-line-32"> Which erst he roam'd with naked Feet,</l><l n="33" xml:id="spp-Y34AB270-line-33"> Well pleas'd to Live to future times,</l><l n="34" xml:id="spp-Y34AB270-line-34"> Tho' but in keen Statyric Rhymes,So <ref target="#spp-Y34AB270-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-Y34AB270-footnote-1">Vide Illiad vi. Ver. 645.</note><hi rend="underline">Ajax</hi>, who, for aught we know,</l><l n="35" xml:id="spp-Y34AB270-line-35"> Was Justice many Years ago,</l><l n="36" xml:id="spp-Y34AB270-line-36"> And minded then no earthly things,</l><l n="37" xml:id="spp-Y34AB270-line-37"> But killing Libellers of Kings,</l><l n="38" xml:id="spp-Y34AB270-line-38"> Or, if he wanted Work to do,</l><l n="39" xml:id="spp-Y34AB270-line-39"> To run a bauling News-Boy thro',</l><l n="40" xml:id="spp-Y34AB270-line-40"> Yet he, when wrap'd up in a Cloud,</l><l n="41" xml:id="spp-Y34AB270-line-41"> Entreated Father <hi rend="underline">Jove</hi> aloud,</l><l n="42" xml:id="spp-Y34AB270-line-42"> Only in Light to shew his Face,</l><l n="43" xml:id="spp-Y34AB270-line-43"> Tho' it might tend to his Disgrace.And so, th' <hi rend="underline">Ephesian</hi> Villain fir'd</l><l n="44" xml:id="spp-Y34AB270-line-44"> The Temple, which the World admir'd,</l><l n="45" xml:id="spp-Y34AB270-line-45"> Contemning Death, despising Shame,</l><l n="46" xml:id="spp-Y34AB270-line-46"> To gain an ever-odious Name.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

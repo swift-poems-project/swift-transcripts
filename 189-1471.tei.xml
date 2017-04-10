@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="189-1471" type="letter"><head type="note" n="1" xml:id="spp-189-1471-headnote-1"><lg n="1" xml:id="spp-189-1471-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-189-1471-headnote-1-line-group-1-line-1">In this letter the duchess alludes to the division then subsisting among the ministers at court; and it is probable, that the hint <hi rend="underline">about the story of the arrows</hi>, produced the poem called <hi rend="underline">the faggot</hi>, which the dean wrote about this time. It is said, under the title, to have been written in the year 1713, when the queen's ministers were quarrelling among themselves. It begins thus:</l></lg></head><head type="note" n="2" xml:id="spp-189-1471-headnote-2"><lg n="1" xml:id="spp-189-1471-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-189-1471-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-189-1471-headnote-3"><lg n="1" xml:id="spp-189-1471-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-189-1471-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-189-1471-line-1"> Observe the dying father speak;&#13;</l><l n="2" xml:id="spp-189-1471-line-2"> Try, lads, can you this bundle break?</l><l n="3" xml:id="spp-189-1471-line-3"> Then bids the youngest of the six</l><l n="4" xml:id="spp-189-1471-line-4"> Take up a heap of well-bound sticks.</l><l n="5" xml:id="spp-189-1471-line-5"> They thought it was an old man's maggot,</l><l n="6" xml:id="spp-189-1471-line-6"> And strove by turns to break the faggot.</l><l n="7" xml:id="spp-189-1471-line-7"> In vain: the complicated wands,</l><l n="8" xml:id="spp-189-1471-line-8"> Were much too strong for all their hands.</l><l n="9" xml:id="spp-189-1471-line-9"> See, said the sire, how soon 'tis done:</l><l n="10" xml:id="spp-189-1471-line-10"> Then took and broke them one by one.</l></lg><lg n="2" type="verse-paragraph"><l n="11" xml:id="spp-189-1471-line-11" rend="align(center) flush left"><hi rend="underline">&amp;c</hi>.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>189-1471   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

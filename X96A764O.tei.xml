@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Occasionall Conformity.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X96A764O" type="poem"><head type="note" n="1" xml:id="spp-X96A764O-headnote-1"><lg n="1" xml:id="spp-X96A764O-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X96A764O-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X96A764O-headnote-2"><lg n="1" xml:id="spp-X96A764O-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X96A764O-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X96A764O-headnote-3"><lg n="1" xml:id="spp-X96A764O-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X96A764O-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X96A764O-line-1">Occasion'ly as we discours'd of Queen, &amp; Church, &amp; Nation,&#13;</l><l n="2" xml:id="spp-X96A764O-line-2"> Occasion'ly we took in view that Engin, call'd Occasion.</l><l n="3" xml:id="spp-X96A764O-line-3"> Occasion fram'd for nothing<del>,</del> els but to occasion mischief,</l><l n="4" xml:id="spp-X96A764O-line-4"> A Cloak to cover Hypocrites, of whom the Devil is Chiefe.</l><l n="5" xml:id="spp-X96A764O-line-5"> Occasion for a Loop-hole Serve's when ever there's occasion</l><l n="6" xml:id="spp-X96A764O-line-6"> To leave Plain Dealing in the Lurch, &amp; fly to dear Evasion.</l><l n="7" xml:id="spp-X96A764O-line-7"> The Loy<unclear>o overa</unclear>list may hang himself, and damn<unclear>'s overe</unclear>t Equivocation,</l><l n="8" xml:id="spp-X96A764O-line-8"> That fusty Ware's now throw'n aside, Occasion's all y<hi rend="sup">ẹ</hi> fashion.</l><l n="9" xml:id="spp-X96A764O-line-9"> Let England prize her Native Wares, &amp; not be for Out-Comers,</l><l n="10" xml:id="spp-X96A764O-line-10"> W'·ave home-spun Jesuits of our own more fine y<hi rend="sup">ṇ</hi> from S<hi rend="sup">ṭ</hi> Omers.</l><l n="11" xml:id="spp-X96A764O-line-11"> These Saints of fresher Date devis'd this new Trick Call'd Occasion,</l><l n="12" xml:id="spp-X96A764O-line-12"> By this they have refin'd upon all formall Reformation.</l><l n="13" xml:id="spp-X96A764O-line-13"> Dull martyrs spilt their Blood in vain for want of this Devise, Sir,</l><l n="14" xml:id="spp-X96A764O-line-14"> By this they might have Heathens been, &amp; Christians in a trice, Sir.</l><l n="15" xml:id="spp-X96A764O-line-15"> Occasion more Faces has upon Occasion Surely</l><l n="16" xml:id="spp-X96A764O-line-16"> Than ever Hough or Burgess had, who taught the Gospell purely.</l><l n="17" xml:id="spp-X96A764O-line-17"> True Scot upon Occasion can look like an English Bishop,</l><l n="18" xml:id="spp-X96A764O-line-18"> And Quack out-doe's with Whiggish Wares all Such as come to his Shop.</l><l n="19" xml:id="spp-X96A764O-line-19"> Occasion can make a man with little or no trouble</l><l n="20" xml:id="spp-X96A764O-line-20"> Sincere as Canting Whitaker, or honest as Tom Double.</l><l n="21" xml:id="spp-X96A764O-line-21"> Occasion permit's the Saints occasionly to lye, Sir,</l><l n="22" xml:id="spp-X96A764O-line-22"> And fathom mysteries too deep for either You or J, Sir,</l><l n="23" xml:id="spp-X96A764O-line-23"> Occasionly they shall conform, occasionly dissent, Sir,</l><l n="24" xml:id="spp-X96A764O-line-24"> Occasionly shall take an Oath to break it with Jntent, Sir.</l><l n="25" xml:id="spp-X96A764O-line-25"> Occasionly shall go to Church, occasionly to Meeting,</l><l n="26" xml:id="spp-X96A764O-line-26"> Occasionly betray their Lord while they like Judas greet him.</l><l n="27" xml:id="spp-X96A764O-line-27"> Occasionly deny him too in open view of men, Sir,</l><l n="28" xml:id="spp-X96A764O-line-28"> And where's the harm? for when 'tis fit, they own him can agen, Sir.</l><l n="29" xml:id="spp-X96A764O-line-29"> Occasionly Communicate, occasionly refrain, Sir,</l><l n="30" xml:id="spp-X96A764O-line-30"> But constantly Communicate when 'twill Occasion gain, Sir,</l><l n="31" xml:id="spp-X96A764O-line-31"> When 'twill Occasion Godly men to Parliament to ride-a,</l><l n="32" xml:id="spp-X96A764O-line-32"> And they with Great Sincerity to take Occasion's Side-a.</l><l n="33" xml:id="spp-X96A764O-line-33"> When 'twill Occasions Cheats to 'Scape, &amp; hinder fair accompting,</l><l n="34" xml:id="spp-X96A764O-line-34"> When 'twill Occasion Lets and Rubs past Honesty's Surmounting.</l><l n="35" xml:id="spp-X96A764O-line-35"> On such occasion they can Kneell like rankest Jdolaters,</l><l n="36" xml:id="spp-X96A764O-line-36"> But Turn once serv'd, and Place obtain'd, no stiffer Jdol-haters.</l><l n="37" xml:id="spp-X96A764O-line-37"> Thus 'Casion'ly for God they are, &amp; 'Casion'ly for Devil,</l><l n="38" xml:id="spp-X96A764O-line-38"> Occasionly for Good again, occasionly for Evill.</l><l n="39" xml:id="spp-X96A764O-line-39"> Occasionly for Heav'n bound, Occasionly for Hell, S<hi rend="sup">ṛ</hi>,</l><l n="40" xml:id="spp-X96A764O-line-40"> But Surely 't wou'd be sad to have Occasion there to dwell S<hi rend="sup">ṛ</hi>X96A764O   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

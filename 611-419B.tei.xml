@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>By D<hi rend="sup">r</hi> Swift upon the presents made him</title>
+        <title>by the Earl of Orrery and D<hi rend="sup">r</hi> Delany on<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="611-419B" type="poem"><head type="note" n="1" xml:id="spp-611-419B-headnote-1"><lg n="1" xml:id="spp-611-419B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-611-419B-headnote-1-line-group-1-line-1">Nov<hi rend="sup">r</hi> 30<hi rend="sup">th</hi> 08. 1732.</l></lg></head><head type="note" n="2" xml:id="spp-611-419B-headnote-2"><lg n="1" xml:id="spp-611-419B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-611-419B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-611-419B-headnote-3"><lg n="1" xml:id="spp-611-419B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-611-419B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-611-419B-line-1"> A Paper book is sent by Boyle&#13;</l><l n="2" xml:id="spp-611-419B-line-2"> Too richly gilt for me to soil</l><l n="3" xml:id="spp-611-419B-line-3"> Delany sends a Silver Standish</l><l n="4" xml:id="spp-611-419B-line-4"> When I no more a pen can brandish</l><l n="5" xml:id="spp-611-419B-line-5"> Let both around my tomb be plac't</l><l n="6" xml:id="spp-611-419B-line-6"> For Trophies of a Muse deceas't</l><l n="7" xml:id="spp-611-419B-line-7"> And let the friendly Lines they writ</l><l n="8" xml:id="spp-611-419B-line-8"> In praise of long departed Wit</l><l n="9" xml:id="spp-611-419B-line-9"> Be gravd on either side in Columns</l><l n="10" xml:id="spp-611-419B-line-10"> More to my fame than all my Volumes</l><l n="11" xml:id="spp-611-419B-line-11"> To burst with Envy, Spight and Rage</l><l n="12" xml:id="spp-611-419B-line-12"> The Vandals of the present Age.611-419B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

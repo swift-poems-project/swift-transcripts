@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Happy L<hi rend="SMALL-CAPS">IFE</hi> of a C<hi rend="SMALL-CAPS">OUNTRY</hi> P<hi rend="SMALL-CAPS">ARSON</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M00159L2" type="poem"><head type="note" n="1" xml:id="spp-M00159L2-headnote-1"><lg n="1" xml:id="spp-M00159L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M00159L2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-M00159L2-headnote-2"><lg n="1" xml:id="spp-M00159L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M00159L2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M00159L2-headnote-3"><lg n="1" xml:id="spp-M00159L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M00159L2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-M00159L2-line-1"><hi rend="black-letter">P</hi><hi rend="underline">ARSON</hi>, these Things in thy possessing</l><l n="2" xml:id="spp-M00159L2-line-2"> Are better than the Bishop's Blessing.</l><l n="3" xml:id="spp-M00159L2-line-3"> A Wife that makes conserves; a Steed</l><l n="4" xml:id="spp-M00159L2-line-4"> That carries double when there's need:<hi rend="underline">October</hi> store, and best <hi rend="underline">Virginia</hi>,</l><l n="5" xml:id="spp-M00159L2-line-5"> Tythe-Pig, and mortuary <hi rend="underline">Guinea</hi>:<hi rend="underline">Gazette</hi>'s sent gratis down, and frank'd,</l><l n="6" xml:id="spp-M00159L2-line-6"> For which thy Patron's weekly thank'd:</l><l n="7" xml:id="spp-M00159L2-line-7"> A large Concordance, bound long since,</l><l n="8" xml:id="spp-M00159L2-line-8"> Sermons to <hi rend="underline">Charles</hi> the First, when Prince;</l><l n="9" xml:id="spp-M00159L2-line-9"> A <hi rend="underline">Chronicle</hi> of ancient standing,</l><l n="10" xml:id="spp-M00159L2-line-10"> A Chrysostom to smooth thy band in.</l><l n="11" xml:id="spp-M00159L2-line-11"> The Polyglott,──three Parts,──my Text,</l><l n="12" xml:id="spp-M00159L2-line-12"> Howbeit,──likewise──now to my next.</l><l n="13" xml:id="spp-M00159L2-line-13"> Lo here the Septuagint,──and Paul,</l><l n="14" xml:id="spp-M00159L2-line-14"> To sum the whole,──the close of all.</l></lg><lg n="2" type="stanza"><l n="15" xml:id="spp-M00159L2-line-15">He that has these, may pass his Life,&#13;</l><l n="16" xml:id="spp-M00159L2-line-16"> Drink with the 'Squire, and kiss his Wife;</l><l n="17" xml:id="spp-M00159L2-line-17"> On <hi rend="underline">Sunday</hi>'s preach, and eat his fill;</l><l n="18" xml:id="spp-M00159L2-line-18"> And fast on <hi rend="underline">Fridays</hi>──if he will;</l><l n="19" xml:id="spp-M00159L2-line-19"> Toast Church and Queen, explain the News,</l><l n="20" xml:id="spp-M00159L2-line-20"> Talk with Church Wardens about Pews;</l><l n="21" xml:id="spp-M00159L2-line-21"> Pray heartily for some new Gift,</l><l n="22" xml:id="spp-M00159L2-line-22"> And shake his Head at Doctor <hi rend="underline">S──t</hi>.M00159L2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

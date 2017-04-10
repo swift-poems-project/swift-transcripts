@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the Same.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-350A0204-footnote-1 #spp-350A0204-line-1"/>
+        </linkGrp>
+        <div n="350A0204" type="poem"><head type="note" n="1" xml:id="spp-350A0204-headnote-1"><lg n="1" xml:id="spp-350A0204-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-350A0204-headnote-1-line-group-1-line-1">The Judge speaks.</l></lg></head><head type="note" n="2" xml:id="spp-350A0204-headnote-2"><lg n="1" xml:id="spp-350A0204-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-350A0204-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-350A0204-headnote-3"><lg n="1" xml:id="spp-350A0204-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-350A0204-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-350A0204-line-1"><hi rend="display-initial">I</hi>'M not the Grandson of that Ass <ref target="#spp-350A0204-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-350A0204-footnote-1">An Alderman.</note><hi rend="underline">Quin</hi>;</l><l n="2" xml:id="spp-350A0204-line-2"> Nor can you prove it, Mr. <hi rend="underline">Pasquin</hi>.</l><l n="3" xml:id="spp-350A0204-line-3"> My Grand-dame had Gallants by Twenties,</l><l n="4" xml:id="spp-350A0204-line-4"> And bore my Mother by a 'Prentice.</l><l n="5" xml:id="spp-350A0204-line-5"> This, when my Grandsire knew; they tell us, he</l><l n="6" xml:id="spp-350A0204-line-6"> In <hi rend="underline">Christ-Church</hi> cut his Throat for Jealousy.</l><l n="7" xml:id="spp-350A0204-line-7"> And since the Alderman was mad you say,</l><l n="8" xml:id="spp-350A0204-line-8"> Then I must be so too, <hi rend="underline">ex traduce</hi>.350A0204   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

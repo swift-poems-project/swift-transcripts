@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The ANSWER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="440-14H1" type="poem"><head type="note" n="1" xml:id="spp-440-14H1-headnote-1"><lg n="1" xml:id="spp-440-14H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-440-14H1-headnote-1-line-group-1-line-1">By Dr. SWIFT.</l></lg></head><head type="note" n="2" xml:id="spp-440-14H1-headnote-2"><lg n="1" xml:id="spp-440-14H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-440-14H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-440-14H1-headnote-3"><lg n="1" xml:id="spp-440-14H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-440-14H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-440-14H1-line-1"><hi rend="display-initial">D</hi>ARE you dispute</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-440-14H1-line-2"> you sawcy brute?&#13;And think there's no rebelling,</l><l n="3" xml:id="spp-440-14H1-line-3"> Your scurvy lays,</l></lg><lg n="3" type="stanza"><l n="4" xml:id="spp-440-14H1-line-4"> and senseless praise,&#13;You give to <hi rend="underline">Ballyspellin</hi>?</l></lg><lg n="4" type="stanza"><l n="5" xml:id="spp-440-14H1-line-5">Howe'er you bounce,</l></lg><lg n="5" type="stanza"><l n="6" xml:id="spp-440-14H1-line-6"> I here pronounce,&#13;Your med'cine is repelling;</l><l n="7" xml:id="spp-440-14H1-line-7"> Your water's mud,</l></lg><lg n="6" type="stanza"><l n="8" xml:id="spp-440-14H1-line-8"> and scours the blood,&#13;When drank at <hi rend="underline">Ballyspellin</hi>.</l></lg><lg n="7" type="stanza"><l n="9" xml:id="spp-440-14H1-line-9">Those pocky drabs,</l></lg><lg n="8" type="stanza"><l n="10" xml:id="spp-440-14H1-line-10"> to cure their scabs,&#13;You thither are compelling;</l><l n="11" xml:id="spp-440-14H1-line-11"> Will back be sent,</l></lg><lg n="9" type="stanza"><l n="12" xml:id="spp-440-14H1-line-12"> worse than they went,&#13;From nasty <hi rend="underline">Ballyspellin</hi>.</l></lg><lg n="10" type="stanza"><l n="13" xml:id="spp-440-14H1-line-13"><hi rend="underline">Llewellyn</hi> why?</l></lg><lg n="11" type="stanza"><l n="14" xml:id="spp-440-14H1-line-14"> As well may I&#13;Name honest doctor <hi rend="underline">Pellin</hi>;</l><l n="15" xml:id="spp-440-14H1-line-15"> So hard sometimes,</l></lg><lg n="12" type="stanza"><l n="16" xml:id="spp-440-14H1-line-16"> you tug for rhimes&#13;To bring in <hi rend="underline">Ballyspellin</hi>.</l></lg><lg n="13" type="stanza"><l n="17" xml:id="spp-440-14H1-line-17">No subject fit</l></lg><lg n="14" type="stanza"><l n="18" xml:id="spp-440-14H1-line-18"> to try your wit,&#13;When you went colonelling;</l><l n="19" xml:id="spp-440-14H1-line-19"> But dull intrigues</l></lg><lg n="15" type="stanza"><l n="20" xml:id="spp-440-14H1-line-20"> 'twixt jades and teagues,&#13;That met at <hi rend="underline">Ballyspellin</hi>.</l></lg><lg n="16" type="stanza"><l n="21" xml:id="spp-440-14H1-line-21">Our lasses fair,</l></lg><lg n="17" type="stanza"><l n="22" xml:id="spp-440-14H1-line-22"> say what you dare,&#13;Who sowing make with shelling,</l><l n="23" xml:id="spp-440-14H1-line-23"> At <hi rend="underline">Market-Hill</hi></l></lg><lg n="18" type="stanza"><l n="24" xml:id="spp-440-14H1-line-24"> more beaus can kill,&#13;Than yours at <hi rend="underline">Ballyspellin</hi>.</l></lg><lg n="19" type="stanza"><l n="25" xml:id="spp-440-14H1-line-25">Would I was whipt,</l></lg><lg n="20" type="stanza"><l n="26" xml:id="spp-440-14H1-line-26"> when <hi rend="underline">Sheelah</hi> stript,To wash herself our well in;</l><l n="27" xml:id="spp-440-14H1-line-27"> A bum so white,</l></lg><lg n="21" type="stanza"><l n="28" xml:id="spp-440-14H1-line-28"> ne'er came in sight,&#13;At paultry <hi rend="underline">Ballyspellin</hi>.</l></lg><lg n="22" type="stanza"><l n="29" xml:id="spp-440-14H1-line-29">Your mawkins there,</l></lg><lg n="23" type="stanza"><l n="30" xml:id="spp-440-14H1-line-30"> smocks <hi rend="underline">hempen</hi> wearOf <hi rend="underline">Holland</hi>, not an ell in,</l><l n="31" xml:id="spp-440-14H1-line-31"> No, not a rag,</l></lg><lg n="24" type="stanza"><l n="32" xml:id="spp-440-14H1-line-32"> what·e'er you brag,&#13;Is found at <hi rend="underline">Ballyspellin</hi>.</l></lg><lg n="25" type="stanza"><l n="33" xml:id="spp-440-14H1-line-33">But <hi rend="underline">Tom</hi> will prate</l></lg><lg n="26" type="stanza"><l n="34" xml:id="spp-440-14H1-line-34"> at any rate,&#13;All other nymphs expelling:</l><l n="35" xml:id="spp-440-14H1-line-35"> Because he gets</l></lg><lg n="27" type="stanza"><l n="36" xml:id="spp-440-14H1-line-36"> a few <hi rend="underline">Grisets</hi>,At lousy <hi rend="underline">Ballyspellin</hi>.</l></lg><lg n="28" type="stanza"><l n="37" xml:id="spp-440-14H1-line-37">There's bony <hi rend="underline">Jane</hi></l></lg><lg n="29" type="stanza"><l n="38" xml:id="spp-440-14H1-line-38"> in yonder lane,&#13;Just o'er against the <hi rend="underline">Bell Inn</hi>;</l><l n="39" xml:id="spp-440-14H1-line-39"> Where can you meet</l></lg><lg n="30" type="stanza"><l n="40" xml:id="spp-440-14H1-line-40"> a lass so sweet,&#13;Round all your <hi rend="underline">Ballyspellin</hi>.</l></lg><lg n="31" type="stanza"><l n="41" xml:id="spp-440-14H1-line-41">We have a girl,</l></lg><lg n="32" type="stanza"><l n="42" xml:id="spp-440-14H1-line-42"> deserves an earl,&#13;She came from <hi rend="underline">Enniskillin</hi>;</l><l n="43" xml:id="spp-440-14H1-line-43"> So fair, so young,</l></lg><lg n="33" type="stanza"><l n="44" xml:id="spp-440-14H1-line-44"> no such among&#13;The belles at <hi rend="underline">Ballyspellin</hi>.</l></lg><lg n="34" type="stanza"><l n="45" xml:id="spp-440-14H1-line-45">How would you stare,</l></lg><lg n="35" type="stanza"><l n="46" xml:id="spp-440-14H1-line-46"> to see her there,&#13;The foggy mist dispelling;</l><l n="47" xml:id="spp-440-14H1-line-47"> That cloud the brows,</l></lg><lg n="36" type="stanza"><l n="48" xml:id="spp-440-14H1-line-48"> of ev'ry blowse&#13;Who lives at <hi rend="underline">Ballyspellin</hi>.</l></lg><lg n="37" type="stanza"><l n="49" xml:id="spp-440-14H1-line-49">Now as I live,</l></lg><lg n="38" type="stanza"><l n="50" xml:id="spp-440-14H1-line-50"> I would not give&#13;A <hi rend="underline">Stiver</hi> for a <hi rend="underline">Skellin</hi>,</l><l n="51" xml:id="spp-440-14H1-line-51"> To towse, and kiss,</l></lg><lg n="39" type="stanza"><l n="52" xml:id="spp-440-14H1-line-52"> the fairest miss&#13;That leaks at <hi rend="underline">Ballyspellin</hi>.</l></lg><lg n="40" type="stanza"><l n="53" xml:id="spp-440-14H1-line-53">Who e'er will raise</l></lg><lg n="41" type="stanza"><l n="54" xml:id="spp-440-14H1-line-54"> such lies as these,&#13;Deserves a good cudgelling:</l><l n="55" xml:id="spp-440-14H1-line-55"> Who falsly boasts</l></lg><lg n="42" type="stanza"><l n="56" xml:id="spp-440-14H1-line-56"> of belles and toasts,&#13;At dirty <hi rend="underline">Ballyspellin</hi>.</l></lg><lg n="43" type="stanza"><l n="57" xml:id="spp-440-14H1-line-57">My rhimes are gone,</l></lg><lg n="44" type="stanza"><l n="58" xml:id="spp-440-14H1-line-58"> to all but one,&#13;Which is, our trees are felling.</l><l n="59" xml:id="spp-440-14H1-line-59"> As proper quite,</l></lg><lg n="45" type="stanza"><l n="60" xml:id="spp-440-14H1-line-60"> as those you write,&#13;To force in <hi rend="underline">Ballyspellin</hi>.440-14H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

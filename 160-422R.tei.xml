@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ATLAS:<lb/>OR, THE<lb/>Minister of S<hi rend="SMALL-CAPS">TATE</hi>.<lb/>TO THE<lb/>Lord Treasurer <hi rend="underline">OXFORD</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SB"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="160-422R"><head type="note" n="1" xml:id="spp-160-422R-headnote-1"><lg n="1" xml:id="spp-160-422R-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-160-422R-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-160-422R-headnote-2"><lg n="1" xml:id="spp-160-422R-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-160-422R-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-160-422R-headnote-3"><lg n="1" xml:id="spp-160-422R-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-160-422R-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-160-422R-line-1" rend="flush right"><hi rend="display-initial">A</hi><hi rend="underline">TLAS</hi>, we read in antient Song,<unclear>S pencilled right margin, above line</unclear></l><l/><l n="2" xml:id="spp-160-422R-line-2">Was so exceeding tall and strong,</l><l/><l n="3" xml:id="spp-160-422R-line-3">He bore the Skies upon his Back,</l><l/><l n="4" xml:id="spp-160-422R-line-4">Just as a Pedlar does his Pack:</l><l/><l n="5" xml:id="spp-160-422R-line-5">But, as a Pedlar overprest,</l><l/><l n="6" xml:id="spp-160-422R-line-6">Unloads upon a Stall to rest;</l><l/><l n="7" xml:id="spp-160-422R-line-7">Or, when he can no longer stand,</l><l/><l n="8" xml:id="spp-160-422R-line-8">Desires a Friend to lend a Hand;</l><l/><l n="9" xml:id="spp-160-422R-line-9">So <hi rend="underline">Atlas</hi>, lest the pond'rous Spheres</l><l/><l n="10" xml:id="spp-160-422R-line-10">Should sink, and fall about his Ears,</l><l/><l n="11" xml:id="spp-160-422R-line-11">Got <hi rend="underline">Hercules</hi> to bear the Pile,</l><l/><l n="12" xml:id="spp-160-422R-line-12">That he might sit and rest a while.</l><l/><l n="13" xml:id="spp-160-422R-line-13"/></lg><lg n="2" type="stanza"><l>Yet <hi rend="underline">Hercules</hi> was not so strong,</l><l/><l n="14" xml:id="spp-160-422R-line-14">Nor could have born it half so long.</l><l/><l n="15" xml:id="spp-160-422R-line-15"/></lg><lg n="3" type="stanza"><l>Great Statesmen are in this Condition,&#13;</l><l/><l n="16" xml:id="spp-160-422R-line-16">And <hi rend="underline">Atlas</hi> is a Politician,</l><l/><l n="17" xml:id="spp-160-422R-line-17">A <hi rend="underline">premier</hi> Minister of State;</l><l/><l n="18" xml:id="spp-160-422R-line-18"><hi rend="underline">Alcides</hi> one of second Rate.</l><l/><l n="19" xml:id="spp-160-422R-line-19">Suppose then <hi rend="underline">Atlas</hi> ne'er so wise,</l><l/><l n="20" xml:id="spp-160-422R-line-20">Yet when the Weight of Kingdoms lies</l><l/><l n="21" xml:id="spp-160-422R-line-21">Too long, upon his single Shoulders,</l><l/><l n="22" xml:id="spp-160-422R-line-22">Sink down he must, or find <hi rend="underline">Upholders</hi>.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

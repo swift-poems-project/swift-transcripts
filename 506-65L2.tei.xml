@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To a Friend, who had been abus'd by a Libel.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="506-65L2" type="poem"><head type="note" n="1" xml:id="spp-506-65L2-headnote-1"><lg n="1" xml:id="spp-506-65L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-506-65L2-headnote-1-line-group-1-line-1"><hi rend="underline">By the same</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-506-65L2-headnote-2"><lg n="1" xml:id="spp-506-65L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-506-65L2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-506-65L2-headnote-3"><lg n="1" xml:id="spp-506-65L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-506-65L2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-506-65L2-line-1"><hi rend="display-initial">T</hi>HE greatest monarch may be stabb'd by night,</l><l n="2" xml:id="spp-506-65L2-line-2"> And fortune help the murderer in his flight;<gap/><gap/></l><l n="3" xml:id="spp-506-65L2-line-3"> And calumny, by working under ground,</l><l n="4" xml:id="spp-506-65L2-line-4"> Can, unreveng'd, the greatest merit wound.What's to be done? Shall wit and learning chuse</l><l n="5" xml:id="spp-506-65L2-line-5"> To live obscure, and have no fame to lose?</l><l n="6" xml:id="spp-506-65L2-line-6"> By censure frighted, quit fair honour's road,</l><l n="7" xml:id="spp-506-65L2-line-7"> Nor dare to use the gifts by Heav'n bestow'd;</l><l n="8" xml:id="spp-506-65L2-line-8"> Or fearless enter in──thro' virtue's gate,</l><l n="9" xml:id="spp-506-65L2-line-9"> And buy <hi rend="underline">distinction</hi>, at the dearest rate.506-65L2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

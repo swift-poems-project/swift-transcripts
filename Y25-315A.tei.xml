@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Poem upon a Lady's Spaniel call'd Rover.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y25-315A" type="poem"><head type="note" n="1" xml:id="spp-Y25-315A-headnote-1"><lg n="1" xml:id="spp-Y25-315A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y25-315A-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y25-315A-headnote-2"><lg n="1" xml:id="spp-Y25-315A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y25-315A-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y25-315A-headnote-3"><lg n="1" xml:id="spp-Y25-315A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y25-315A-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y25-315A-line-1"> Happiest of the Spaniel race,&#13;</l><l n="2" xml:id="spp-Y25-315A-line-2"> Painter, with thy colours grace,</l><l n="3" xml:id="spp-Y25-315A-line-3"> Draw his forehead large &amp; high,</l><l n="4" xml:id="spp-Y25-315A-line-4"> Draw his blue &amp; humid eye,</l><l n="5" xml:id="spp-Y25-315A-line-5"> Draw his neck so smooth &amp; round,</l><l n="6" xml:id="spp-Y25-315A-line-6"> Little neck with ribbons bound,</l><l n="7" xml:id="spp-Y25-315A-line-7"> And the muscly swelling breast,</l><l n="8" xml:id="spp-Y25-315A-line-8"> Where the loves &amp; graces rest,</l><l n="9" xml:id="spp-Y25-315A-line-9"> And the spreading even back</l><l n="10" xml:id="spp-Y25-315A-line-10"> Soft &amp; sleek &amp; glossy black,</l><l n="11" xml:id="spp-Y25-315A-line-11"> And the tail, that gently twines</l><l n="12" xml:id="spp-Y25-315A-line-12"> Like the tendrils of the Vines,</l><l n="13" xml:id="spp-Y25-315A-line-13"> And the silky twisted hair</l><l n="14" xml:id="spp-Y25-315A-line-14"> Shadowing thick the velvet ear,</l><l n="15" xml:id="spp-Y25-315A-line-15"> Velvet ears, which hanging low</l><l n="16" xml:id="spp-Y25-315A-line-16"> O'er the veiny temples flow.</l><l n="17" xml:id="spp-Y25-315A-line-17"> With a proper light &amp; shade</l><l n="18" xml:id="spp-Y25-315A-line-18"> Let the winding hoop be laid,</l><l n="19" xml:id="spp-Y25-315A-line-19"> And within that arching Bow'r</l><l n="20" xml:id="spp-Y25-315A-line-20"> (sacred Circle, mystick pow'r)</l><l n="21" xml:id="spp-Y25-315A-line-21"> In a downy slumber-place,</l><l n="22" xml:id="spp-Y25-315A-line-22"> Happiest of the Spaniel Race,</l><l n="23" xml:id="spp-Y25-315A-line-23"> While the soft perspiring dame,</l><l n="24" xml:id="spp-Y25-315A-line-24"> Glowing with the softest flame,</l><l n="25" xml:id="spp-Y25-315A-line-25"> On the ravish'd favourite pow'rs</l><l n="26" xml:id="spp-Y25-315A-line-26"> Balmy dews, ambrosial show'rs.</l><l n="27" xml:id="spp-Y25-315A-line-27"> With thy utmost skill express</l><l n="28" xml:id="spp-Y25-315A-line-28"> Nature in her richest dress</l><l n="29" xml:id="spp-Y25-315A-line-29"> Limped rivers smoothly flowing<del>s</del>,</l><l n="30" xml:id="spp-Y25-315A-line-30"> Orchards by those rivers blowing,</l><l n="31" xml:id="spp-Y25-315A-line-31"> Curlin woodbine, myrtle shade,</l><l n="32" xml:id="spp-Y25-315A-line-32"> And the gay enamel'd Mead,</l><l n="33" xml:id="spp-Y25-315A-line-33"> Where the Linnets sit &amp; sing,</l><l n="34" xml:id="spp-Y25-315A-line-34"> Little sportlings of the spring,</l><l n="35" xml:id="spp-Y25-315A-line-35"> Where the breathing field &amp; grove</l><l n="36" xml:id="spp-Y25-315A-line-36"> Sooth's the heart &amp; kindles love;</l><l n="37" xml:id="spp-Y25-315A-line-37"> Here for me &amp; for the Muse,</l><l n="38" xml:id="spp-Y25-315A-line-38"> Colours of resemblance chuse,</l><l n="39" xml:id="spp-Y25-315A-line-39"> Make of lineaments divine</l><l n="40" xml:id="spp-Y25-315A-line-40"> Dapply female spaniels shine,</l><l n="41" xml:id="spp-Y25-315A-line-41"> Pretty fondlings of the fair,</l><l n="42" xml:id="spp-Y25-315A-line-42"> Gentle damsels, gentle care,</l><l n="43" xml:id="spp-Y25-315A-line-43"> But to one alone impart</l><l n="44" xml:id="spp-Y25-315A-line-44"> All the flatt'ry of thy art,</l><l n="45" xml:id="spp-Y25-315A-line-45"> Crowd each feature, crowd each grace,</l><l n="46" xml:id="spp-Y25-315A-line-46"> Which compleat the desp'rate face;</l><l n="47" xml:id="spp-Y25-315A-line-47"> Let the sported, wanton dame</l><l n="48" xml:id="spp-Y25-315A-line-48"> Feel a new resistless flame</l><l n="49" xml:id="spp-Y25-315A-line-49"> Let the happiest of his race</l><l n="50" xml:id="spp-Y25-315A-line-50"> Win the fair to his embrace;</l><l n="51" xml:id="spp-Y25-315A-line-51"> But in shade the rest conceal,</l><l n="52" xml:id="spp-Y25-315A-line-52"> Nor to sight their joys reveal,</l><l n="53" xml:id="spp-Y25-315A-line-53"> Lest the pencil &amp; the Muse</l><l n="54" xml:id="spp-Y25-315A-line-54"> Lose desires &amp; thoughts infuse.Y25-315A   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

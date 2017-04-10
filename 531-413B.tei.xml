@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="531-413B" type="poem"><head type="note" n="1" xml:id="spp-531-413B-headnote-1"><lg n="1" xml:id="spp-531-413B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-531-413B-headnote-1-line-group-1-line-1">Your Scituation is an odd one. The Dutchess is your Treasurer, and M<hi rend="sup">r</hi> Pope tells me you are the Duke's. And I had gone on a good way in some verses on the Occasion, prescribing Lessons to direct your Conduct, in a negative way, not to do so and so &amp;<hi rend="sup">c</hi> 08. like other Treasurers; how to deal with Servants, Tenants and Neigboring Squires, which I take to be Courtiers, Parlm<hi rend="sup">t</hi> 08. and Princes in Alliance, and so the Parallell goes on; but grew too long to please me. \I will copy some Lines.·<hi rend="underline">added·in·a·very·small·hand,</hi> <hi rend="underline">which·according·to·Williams·is·Lord·Oxford's</hi>\</l></lg></head><head type="note" n="2" xml:id="spp-531-413B-headnote-2"><lg n="1" xml:id="spp-531-413B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-531-413B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-531-413B-headnote-3"><lg n="1" xml:id="spp-531-413B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-531-413B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-531-413B-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> Let some reward to merit be allow'd;&#13;</l><l n="2" xml:id="spp-531-413B-line-2"> Nor with your Kindred half y<hi rend="sup">e</hi> Palace crowd:</l><l n="3" xml:id="spp-531-413B-line-3"> Nor think your self secure in doing wrong,</l><l n="4" xml:id="spp-531-413B-line-4"> By telling Noses with a Party strong;</l><l n="5" xml:id="spp-531-413B-line-5"> Be rich; but of your Wealth make no parade</l><l n="6" xml:id="spp-531-413B-line-6"> At least before Your Master's debts are paid.</l><l n="7" xml:id="spp-531-413B-line-7"> Nor in a Palace built with Charge immense</l><l n="8" xml:id="spp-531-413B-line-8"> Presume to treat him at his own Expence &amp;c</l></lg><lg n="2" type="stanza"><l n="9" xml:id="spp-531-413B-line-9">Then I prove that Poets are <add>the</add> fittest Persons to be Treasurers and Managers to great Persons, from their Virtue and contempt of money, &amp;<hi rend="sup">c</hi>────Pray why did not you get a new heel to your Shoe; unless you would make your Court at S<hi rend="sup">ṭ</hi> James's, by affecting to imitate the Prince of Lilliput────But the rest of your letter being wholly taken up <del>with a</del><add>in</add> very bad Character of y<hi rend="sup">e</hi> Dutchess, I shall say no more to You, but apply Myself to her Grace.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>531-413B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

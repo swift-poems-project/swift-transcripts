@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">On the Busts in </hi>Merlin's<hi rend="underline"> Cave. Spoken </hi>Extempore<hi rend="underline">,</hi></title>
+        <title><hi rend="underline">at the Time of a remarkable Opposition to the Ministry</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="664D60A3" type="poem"><head type="note" n="1" xml:id="spp-664D60A3-headnote-1"><lg n="1" xml:id="spp-664D60A3-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-664D60A3-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-664D60A3-headnote-2"><lg n="1" xml:id="spp-664D60A3-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-664D60A3-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-664D60A3-headnote-3"><lg n="1" xml:id="spp-664D60A3-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-664D60A3-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-664D60A3-line-1"><hi rend="underline">W──le, P──lt──y </hi>and<hi rend="underline"> Sh──pp──n</hi>, do fret and do rave,And so do the rest of the Nation,</l><l n="2" xml:id="spp-664D60A3-line-2"> That so many wise Heads shou'd be plac'd in a Cave,And none in the Administration.664D60A3   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

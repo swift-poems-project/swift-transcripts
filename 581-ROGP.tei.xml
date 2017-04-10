@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">A Beautiful Young Nymph Going to Bed</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="581-ROGP" type="poem"><head type="note" n="1" xml:id="spp-581-ROGP-headnote-1"><lg n="1" xml:id="spp-581-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-581-ROGP-headnote-1-line-group-1-line-1">WRITTEN FOR THE HONOUR OF THE FAIR SEX</l></lg></head><head type="note" n="2" xml:id="spp-581-ROGP-headnote-2"><lg n="1" xml:id="spp-581-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-581-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-581-ROGP-headnote-3"><lg n="1" xml:id="spp-581-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-581-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-581-ROGP-line-1"> Corinna, pride of Drury Lane,&#13;</l><l n="2" xml:id="spp-581-ROGP-line-2"> For whom no shepherd sighs in vain;</l><l n="3" xml:id="spp-581-ROGP-line-3"> Never did Covent Garden boast</l><l n="4" xml:id="spp-581-ROGP-line-4"> So bright a battered, strolling toast;</l><l n="5" xml:id="spp-581-ROGP-line-5"> No drunken rake to pick her up,</l><l n="6" xml:id="spp-581-ROGP-line-6"> No cellar where on tick to sup;</l><l n="7" xml:id="spp-581-ROGP-line-7"> Returning at the midnight hour;</l><l n="8" xml:id="spp-581-ROGP-line-8"> Four storeys climbing to her bower;</l><l n="9" xml:id="spp-581-ROGP-line-9"> Then, seated on a three-legged chair,</l><l n="10" xml:id="spp-581-ROGP-line-10"> Takes off her artificial hair:</l><l n="11" xml:id="spp-581-ROGP-line-11"> Now, picking out a crystal eye,</l><l n="12" xml:id="spp-581-ROGP-line-12"> She wipes it clean, and lays it by.</l><l n="13" xml:id="spp-581-ROGP-line-13"> Her eyebrows from a mouse's hide,</l><l n="14" xml:id="spp-581-ROGP-line-14"> Stuck on with art on either side,</l><l n="15" xml:id="spp-581-ROGP-line-15"> Pulls off with care, and first displays 'em,</l><l n="16" xml:id="spp-581-ROGP-line-16"> Then in a play-book smoothly lays 'em.</l><l n="17" xml:id="spp-581-ROGP-line-17"> Now dexterously her plumpers draws,</l><l n="18" xml:id="spp-581-ROGP-line-18"> That serve to fill her hollow jaws.</l><l n="19" xml:id="spp-581-ROGP-line-19"> Untwists a wire; and from her gums</l><l n="20" xml:id="spp-581-ROGP-line-20"> A set of teeth completely comes.</l><l n="21" xml:id="spp-581-ROGP-line-21"> Pulls out the rags contrived to prop</l><l n="22" xml:id="spp-581-ROGP-line-22"> Her flabby dugs, and down they drop.</l><l n="23" xml:id="spp-581-ROGP-line-23"> Proceeding on, the lovely goddess</l><l n="24" xml:id="spp-581-ROGP-line-24"> Unlaces next her steel-ribbed bodice;</l><l n="25" xml:id="spp-581-ROGP-line-25"> Which by the operator's skill,</l><l n="26" xml:id="spp-581-ROGP-line-26"> Press down the lumps, the hollows fill.</l><l n="27" xml:id="spp-581-ROGP-line-27"> Up goes her hand, and off she slips</l><l n="28" xml:id="spp-581-ROGP-line-28"> The bolsters that supply her hips.</l><l n="29" xml:id="spp-581-ROGP-line-29"> With gentlest touch, she next explores</l><l n="30" xml:id="spp-581-ROGP-line-30"> Her shankers, issues, running sores;</l><l n="31" xml:id="spp-581-ROGP-line-31"> Effects of many a sad disaster,</l><l n="32" xml:id="spp-581-ROGP-line-32"> And then to each applies a plaster.</l><l n="33" xml:id="spp-581-ROGP-line-33"> But must, before she goes to bed,</l><l n="34" xml:id="spp-581-ROGP-line-34"> Rub off the daubs of white and red.</l><l n="35" xml:id="spp-581-ROGP-line-35"> And smooth the furrows in her front,</l><l n="36" xml:id="spp-581-ROGP-line-36"> With greasy paper stuck upon't.</l><l n="37" xml:id="spp-581-ROGP-line-37"> She takes a bolus e'er she sleeps;</l><l n="38" xml:id="spp-581-ROGP-line-38"> And then between two blankets creeps.</l><l n="39" xml:id="spp-581-ROGP-line-39"> With pains of love tormented lies;</l><l n="40" xml:id="spp-581-ROGP-line-40"> Or if she chance to close her eyes,</l><l n="41" xml:id="spp-581-ROGP-line-41"> Of Bridewell and the compter dreams,</l><l n="42" xml:id="spp-581-ROGP-line-42"> And feels the lash, and faintly screams.</l><l n="43" xml:id="spp-581-ROGP-line-43"> Or, by a faithless bully drawn,</l><l n="44" xml:id="spp-581-ROGP-line-44"> At some hedge-tavern lies in pawn.</l><l n="45" xml:id="spp-581-ROGP-line-45"> Or to Jamaica seems transported,</l><l n="46" xml:id="spp-581-ROGP-line-46"> Alone, and by no planter courted;</l><l n="47" xml:id="spp-581-ROGP-line-47"> Or, near Fleet Ditch's oozy brinks,</l><l n="48" xml:id="spp-581-ROGP-line-48"> Surrounded with a hundred stinks,</l><l n="49" xml:id="spp-581-ROGP-line-49"> Belated, seems on watch to lie,</l><l n="50" xml:id="spp-581-ROGP-line-50"> And snap some cully passing by;</l><l n="51" xml:id="spp-581-ROGP-line-51"> Or, struck with fear, her fancy runs</l><l n="52" xml:id="spp-581-ROGP-line-52"> On watchmen, constables and duns,</l><l n="53" xml:id="spp-581-ROGP-line-53"> From whom she meets with frequent rubs;</l><l n="54" xml:id="spp-581-ROGP-line-54"> But, never from religious clubs;</l><l n="55" xml:id="spp-581-ROGP-line-55"> Whose favour she is sure to find,</l><l n="56" xml:id="spp-581-ROGP-line-56"> Because she pays them all in kind.</l></lg><lg n="2" type="stanza"><l n="57" xml:id="spp-581-ROGP-line-57">Corinna wakes. A dreadful sight!&#13;</l><l n="58" xml:id="spp-581-ROGP-line-58"> Behold the ruins of the night!</l><l n="59" xml:id="spp-581-ROGP-line-59"> A wicked rat her plaster stole,</l><l n="60" xml:id="spp-581-ROGP-line-60"> Half ate, and dragged it to his hole.</l><l n="61" xml:id="spp-581-ROGP-line-61"> The crystal eye, alas, was missed;</l><l n="62" xml:id="spp-581-ROGP-line-62"> And Puss had on her plumpers pissed.</l><l n="63" xml:id="spp-581-ROGP-line-63"> A pigeon picked her issue-peas,</l><l n="64" xml:id="spp-581-ROGP-line-64"> And Shock her tresses filled with fleas.</l></lg><lg n="3" type="stanza"><l n="65" xml:id="spp-581-ROGP-line-65">The nymph, though in this mangled plight,&#13;</l><l n="66" xml:id="spp-581-ROGP-line-66"> Must every morn her limbs unite.</l><l n="67" xml:id="spp-581-ROGP-line-67"> But how shall I describe her arts</l><l n="68" xml:id="spp-581-ROGP-line-68"> To recollect the scattered parts?</l><l n="69" xml:id="spp-581-ROGP-line-69"> Or show the anguish, toil, and pain,</l><l n="70" xml:id="spp-581-ROGP-line-70"> Of gathering up herself again?</l><l n="71" xml:id="spp-581-ROGP-line-71"> The bashful muse will never bear</l><l n="72" xml:id="spp-581-ROGP-line-72"> In such a scene to interfere.</l><l n="73" xml:id="spp-581-ROGP-line-73"> Corinna in the morning dizened,</l><l n="74" xml:id="spp-581-ROGP-line-74"> Who sees, will spew; who smells, be poisoned.581-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

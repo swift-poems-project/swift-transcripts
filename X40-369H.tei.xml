@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To the Dean of St Patricks.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X40-369H" type="poem"><head type="note" n="1" xml:id="spp-X40-369H-headnote-1"><lg n="1" xml:id="spp-X40-369H-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X40-369H-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X40-369H-headnote-2"><lg n="1" xml:id="spp-X40-369H-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X40-369H-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X40-369H-headnote-3"><lg n="1" xml:id="spp-X40-369H-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X40-369H-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X40-369H-line-1"> How few can be of Grandeur sure!&#13;</l><l n="2" xml:id="spp-X40-369H-line-2"> The high may fall, the rich be poor.</l><l n="3" xml:id="spp-X40-369H-line-3"> The only Fav'rite at Court</l><l n="4" xml:id="spp-X40-369H-line-4"> To morrow may be Fortune·'s Sport;</l><l n="5" xml:id="spp-X40-369H-line-5"> For all her Pleasure &amp; her Aim</l><l n="6" xml:id="spp-X40-369H-line-6"> Is to destroy both Pow'r &amp; Fame.Of this the Dean is an Example</l><l n="7" xml:id="spp-X40-369H-line-7"> No instance is more plain &amp; ample</l><l n="8" xml:id="spp-X40-369H-line-8"> The World did never yet produce</l><l n="9" xml:id="spp-X40-369H-line-9"> For Courts a Man of greater Use.</l><l n="10" xml:id="spp-X40-369H-line-10"> Nor has the World supply'd us yet</l><l n="11" xml:id="spp-X40-369H-line-11"> With more vivacity &amp; Wit;</l><l n="12" xml:id="spp-X40-369H-line-12"> Merry alternatly &amp; wise,</l><l n="13" xml:id="spp-X40-369H-line-13"> To please the Statesman &amp; advise.</l><l n="14" xml:id="spp-X40-369H-line-14"> Thro' all the last &amp; glorious Reign</l><l n="15" xml:id="spp-X40-369H-line-15"> Was nothing done without the Dean;</l><l n="16" xml:id="spp-X40-369H-line-16"> The Courtiers Prop, the Nation·'s Pride,</l><l n="17" xml:id="spp-X40-369H-line-17"> But now alass he·'s thrown aside<unclear>! over,</unclear></l><l n="18" xml:id="spp-X40-369H-line-18"> He·'s quite forgot &amp; So·'s the Queen,</l><l n="19" xml:id="spp-X40-369H-line-19"> As if they both had never been.To see him now a Mountaineer!</l><l n="20" xml:id="spp-X40-369H-line-20"> O w<hi rend="sup">t</hi> a mighty fall is here!</l><l n="21" xml:id="spp-X40-369H-line-21"> From set'ling Governments &amp; Thrones</l><l n="22" xml:id="spp-X40-369H-line-22"> To splitting Rocks &amp; piling stones</l><l n="23" xml:id="spp-X40-369H-line-23"> Instead of Bolinbroke &amp; Anna,</l><l n="24" xml:id="spp-X40-369H-line-24"> Shane Tunelly &amp; Bryan Granna,</l><l n="25" xml:id="spp-X40-369H-line-25"> Oxford &amp; Ormond he supplies</l><l n="26" xml:id="spp-X40-369H-line-26"> In ev·'ry Irish Teague he spies;</l><l n="27" xml:id="spp-X40-369H-line-27"> So far forgetting his <del>old</del> station</l><l n="28" xml:id="spp-X40-369H-line-28"> He seems to like their Conversation.</l><l n="29" xml:id="spp-X40-369H-line-29"> Conforming to the tatter'd Rable</l><l n="30" xml:id="spp-X40-369H-line-30"> He learns their Irish Tongue to gable,</l><l n="31" xml:id="spp-X40-369H-line-31"> And w<hi rend="sup">t</hi> our Anger more provokes</l><l n="32" xml:id="spp-X40-369H-line-32"> He·'s pleas'd with their insipid jokes.</l><l n="33" xml:id="spp-X40-369H-line-33"> Then turns &amp; asks them who does lack a</l><l n="34" xml:id="spp-X40-369H-line-34"> Good Plug, or Pipe full of tobacca,</l><l n="35" xml:id="spp-X40-369H-line-35"> All cry they want, to ev'ry Man</l><l n="36" xml:id="spp-X40-369H-line-36"> He gives extravagant a span.</l><l n="37" xml:id="spp-X40-369H-line-37"> Thus are they grown more fond than ever,</l><l n="38" xml:id="spp-X40-369H-line-38"> And he is highly in their Favour.Bright Stella Quilcah·'s greatest Pride</l><l n="39" xml:id="spp-X40-369H-line-39"> For them he Scorns, &amp; lays aside;</l><l n="40" xml:id="spp-X40-369H-line-40"> And Sheridan is left alone</l><l n="41" xml:id="spp-X40-369H-line-41"> All day to gape &amp; stretch and groan.</l><l n="42" xml:id="spp-X40-369H-line-42"> While grumbling poor complaining Dingly</l><l n="43" xml:id="spp-X40-369H-line-43"> Is left to Care &amp; Trouble Singly.All o'er the Mountains Spreads the Rumor</l><l n="44" xml:id="spp-X40-369H-line-44"> Both of his Bounty, &amp; good Humor,</l><l n="45" xml:id="spp-X40-369H-line-45"> So that each Sheperdess &amp; Swain</l><l n="46" xml:id="spp-X40-369H-line-46"> Comes flocking here to see the Dean.</l><l n="47" xml:id="spp-X40-369H-line-47"> All spread around the Land, you'd Swear</l><l n="48" xml:id="spp-X40-369H-line-48"> That ev'ry day was kept a Fair.</l><l n="49" xml:id="spp-X40-369H-line-49"> My Fields are <unclear>b overp</unclear>rought to such a pass</l><l n="50" xml:id="spp-X40-369H-line-50"> I have not left one blade of Grass,</l><l n="51" xml:id="spp-X40-369H-line-51"> That all my Weathers &amp; my Beeves</l><l n="52" xml:id="spp-X40-369H-line-52"> Are Slighted by the very Thieves.At Night, right loath to quit the Park,</l><l n="53" xml:id="spp-X40-369H-line-53"> His work just ended by the Dark</l><l n="54" xml:id="spp-X40-369H-line-54"> With all his Pioneers he comes,</l><l n="55" xml:id="spp-X40-369H-line-55"> To make more Work for Whisks &amp; Brooms.</l><l n="56" xml:id="spp-X40-369H-line-56"> Then, Seated in an elbow-chair,</l><l n="57" xml:id="spp-X40-369H-line-57"> To take a Nap he does prepare,</l><l n="58" xml:id="spp-X40-369H-line-58"> While two fair Damsells from the Lawns</l><l n="59" xml:id="spp-X40-369H-line-59"> Lull him asleep with soft Cronawns.Thus are his Days in Delving spent,</l><l n="60" xml:id="spp-X40-369H-line-60"> His Nights in Musick &amp; Content.</l><l n="61" xml:id="spp-X40-369H-line-61"> He Seems to gain by his Distress</l><l n="62" xml:id="spp-X40-369H-line-62"> His Friends are more, his Honours Less.X40-369H   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

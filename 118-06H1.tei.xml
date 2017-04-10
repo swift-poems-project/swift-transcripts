@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On Mrs. BIDDY LLOYD.</title>
+        <title>OR, THE<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="118-06H1" type="poem"><head type="note" n="1" xml:id="spp-118-06H1-headnote-1"><lg n="1" xml:id="spp-118-06H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-118-06H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-118-06H1-headnote-2"><lg n="1" xml:id="spp-118-06H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-118-06H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-118-06H1-headnote-3"><lg n="1" xml:id="spp-118-06H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-118-06H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-118-06H1-line-1"><hi rend="display-initial">W</hi>HEN <hi rend="underline">Cupid</hi> did his grandsire <hi rend="underline">Jove</hi> intreat</l><l n="2" xml:id="spp-118-06H1-line-2"> To form some beauty by a new receipt,<hi rend="underline">Jove</hi> sent, and found far in a country scene</l><l n="3" xml:id="spp-118-06H1-line-3"> Truth, innocence, good-nature, look serene:</l><l n="4" xml:id="spp-118-06H1-line-4"> From which ingredients first the dex'trous boy</l><l n="5" xml:id="spp-118-06H1-line-5"> Pick'd the demure, the aukward, and the coy.</l><l n="6" xml:id="spp-118-06H1-line-6"> The <hi rend="underline">Graces</hi> from the court did next provide</l><l n="7" xml:id="spp-118-06H1-line-7"> Breeding, and wit, and air, and decent pride:</l><l n="8" xml:id="spp-118-06H1-line-8"> These <hi rend="underline">Venus</hi> cleans'd from ev'ry spurious grain</l><l n="9" xml:id="spp-118-06H1-line-9"> Of nice, coquet, affected, pert, and vain.<hi rend="underline">Jove</hi> mix'd up all, and his best clay employ'd;</l><l n="10" xml:id="spp-118-06H1-line-10"> Then call'd the happy composition <hi rend="underline">Lloyd</hi>.118-06H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

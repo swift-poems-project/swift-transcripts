@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A PROLOGUE, as it was spoken by Mr. <hi rend="underline">Elrington</hi>,</title>
+        <title>at the <hi rend="underline">Theatre-Royal</hi> in Dublin, on <hi rend="underline">Saturday</hi> the 1st</title>
+        <title>of <hi rend="underline">April</hi>, 1721, in the Behalf of the distressed<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S05321ME" type="poem"><head type="note" n="1" xml:id="spp-S05321ME-headnote-1"><lg n="1" xml:id="spp-S05321ME-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-S05321ME-headnote-1-line-group-1-line-1">The following very justly applauded Performance coming to Hand this Week from a Person of Dictinction in Ireland, with an Assurance of its being genuine and correct, we present it to our Readers as such, not doubting their Approbation.</l></lg></head><head type="note" n="2" xml:id="spp-S05321ME-headnote-2"><lg n="1" xml:id="spp-S05321ME-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-S05321ME-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-S05321ME-headnote-3"><lg n="1" xml:id="spp-S05321ME-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-S05321ME-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-S05321ME-line-1"><hi rend="display-initial">G</hi>Reat Cry and little Wooll──────is now become,</l><l n="2" xml:id="spp-S05321ME-line-2"> The <hi rend="underline">Plague</hi> and <hi rend="underline">Proverb</hi> of the <hi rend="underline">Weavers</hi> Lo<gap/></l><l n="3" xml:id="spp-S05321ME-line-3"> No <hi rend="underline">Wooll</hi> to work on, neither <hi rend="underline">Weft</hi> nor Warp,</l><l n="4" xml:id="spp-S05321ME-line-4"> Their Pockets empty, and their Stomachs sharp.</l><l n="5" xml:id="spp-S05321ME-line-5"> Provok'd, in loud Complaints, to you they cry,</l><l n="6" xml:id="spp-S05321ME-line-6"> Ladies relieve the <hi rend="underline">Weavers</hi>, or they dye.</l><l n="7" xml:id="spp-S05321ME-line-7"> Forsake your <hi rend="underline">Silks</hi> for <hi rend="underline">Stuffs</hi> nor think it strange,</l><l n="8" xml:id="spp-S05321ME-line-8"> To shift your Cloaths, since you delight in Change.</l><l n="9" xml:id="spp-S05321ME-line-9"> One thing with Freedom I'll presume to tell,</l><l n="10" xml:id="spp-S05321ME-line-10"> The Men will like you ev'ry Bit as well.See, I am dress'd from Top to Toe in Stuff,</l><l n="11" xml:id="spp-S05321ME-line-11"> And, by my <hi rend="underline">Troth</hi>, I think I'm fine enough;</l><l n="12" xml:id="spp-S05321ME-line-12"> My Wife admires me more, and swears she never</l><l n="13" xml:id="spp-S05321ME-line-13"> In any Dress beheld me look so clever.</l><l n="14" xml:id="spp-S05321ME-line-14"> And, if a Man be better in such Ware,</l><l n="15" xml:id="spp-S05321ME-line-15"> What great Advantage must it give the Fair!</l><l n="16" xml:id="spp-S05321ME-line-16"> Our <hi rend="underline">Wooll</hi> from <hi rend="underline">Lambs</hi> of Innocence proceeds,<hi rend="underline">Silk</hi> comes from <hi rend="underline">Maggots, Callicoes</hi> are Weeds,</l><l n="17" xml:id="spp-S05321ME-line-17"> Hence 'tis, by sad Experience that we find,</l><l n="18" xml:id="spp-S05321ME-line-18"> Ladies in <hi rend="underline">Silks</hi> to Vapours much inclin'd,</l><l n="19" xml:id="spp-S05321ME-line-19"> And what are they but Maggots in the Mind?</l><l n="20" xml:id="spp-S05321ME-line-20"> For which I think it Reason to conclude,</l><l n="21" xml:id="spp-S05321ME-line-21"> That Clothes may change our Tempers like our Food.<hi rend="underline">Chintses</hi> are gawdy, and engage our Eyes</l><l n="22" xml:id="spp-S05321ME-line-22"> Too much about the Party-colour'd Dyes.</l><l n="23" xml:id="spp-S05321ME-line-23"> Altho' the Lustre is from you begun,</l><l n="24" xml:id="spp-S05321ME-line-24"> We see the Rainbow, and neglect the Sun.How sweet and innocent's the Country-Maid,</l><l n="25" xml:id="spp-S05321ME-line-25"> With small Expence in native Wooll array'd;</l><l n="26" xml:id="spp-S05321ME-line-26"> Who copies from the Fields, her homely Green,</l><l n="27" xml:id="spp-S05321ME-line-27"> While by her Shepherd with Delight she's seen?</l><l n="28" xml:id="spp-S05321ME-line-28"> Should our fair Ladies dress like her in Wooll,</l><l n="29" xml:id="spp-S05321ME-line-29"> How much more lovely, and how beautiful?</l><l n="30" xml:id="spp-S05321ME-line-30"> Without their <hi rend="underline">Indian</hi> Drapery they'd prove,</l><l n="31" xml:id="spp-S05321ME-line-31"> And <hi rend="underline">Wooll</hi> would help to warm us into Love.</l><l n="32" xml:id="spp-S05321ME-line-32"> Then, like the famous <hi rend="underline">Argonauts</hi> of <hi rend="underline">Greece</hi>,</l><l n="33" xml:id="spp-S05321ME-line-33"> We'd all contend to gain the Golden-Fleece.S05321ME   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

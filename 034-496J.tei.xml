@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Swift's beginning to an ode on the fall of Sancroft</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="034-496J" type="poem"><head type="note" n="1" xml:id="spp-034-496J-headnote-1"><lg n="1" xml:id="spp-034-496J-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-034-496J-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-034-496J-headnote-2"><lg n="1" xml:id="spp-034-496J-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-034-496J-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-034-496J-headnote-3"><lg n="1" xml:id="spp-034-496J-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-034-496J-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-034-496J-line-1">Truth, the eternal child of holiest heaven!&#13;</l><l n="2" xml:id="spp-034-496J-line-2"> Brightest effluence of the immortal ray!</l><l n="3" xml:id="spp-034-496J-line-3"> Chief cherub &amp; chief lamp of that high screen</l><l n="4" xml:id="spp-034-496J-line-4"> Which guard the throne by night, &amp; use its light by day!</l><l n="5" xml:id="spp-034-496J-line-5"> First of God's mighty attributes</l><l n="6" xml:id="spp-034-496J-line-6"> Thou daily seest Him face to face,</l><l n="7" xml:id="spp-034-496J-line-7"> Nor does thy essence fixed depend on giddy circumstance</l><l n="8" xml:id="spp-034-496J-line-8"> Of time or place:<gap/></l><l n="9" xml:id="spp-034-496J-line-9"> How shall we find thee then in dark disputes?</l><l n="10" xml:id="spp-034-496J-line-10"> How shall we search thee in a battle gained?</l><l n="11" xml:id="spp-034-496J-line-11"> ··Or a weak argument by force maintained,<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>034-496J   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

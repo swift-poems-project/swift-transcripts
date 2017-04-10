@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Further Account of the Life of Dr. Swift.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y47A1101" type="poem"><head type="note" n="1" xml:id="spp-Y47A1101-headnote-1"><lg n="1" xml:id="spp-Y47A1101-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y47A1101-headnote-1-line-group-1-line-1">The D<hi rend="SMALL-CAPS">EAN</hi> in his Tour through <hi rend="underline">Ireland</hi>, visiting <hi rend="underline">Waterford</hi>, enquired who were the Clergy resident there? Amongst them <hi rend="underline">Robinson</hi> was his Acquaintance, and accepted the Dean's Invitation to shew him the City. Passing near the Remains of an old publick Building, the Dean observed a carved Stone; it was at some small Distance, but the Way to it so covered with the most nauseous Filth, that he prevailed on <hi rend="underline">Robinson</hi> to carry him thither on his Back. When he had satisfied his Curiosity, by viewing the Arms of the City, with this Motto,</l></lg></head><head type="note" n="2" xml:id="spp-Y47A1101-headnote-2"><lg n="1" xml:id="spp-Y47A1101-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y47A1101-headnote-2-line-group-1-line-1"><hi rend="underline">Urbs intacta manet</hi>.</l></lg></head><head type="note" n="3" xml:id="spp-Y47A1101-headnote-3"><lg n="1" xml:id="spp-Y47A1101-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y47A1101-headnote-3-line-group-1-line-1">He returned to his Inn, and wrote the following Stanza.</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y47A1101-line-1"> U<hi rend="SMALL-CAPS">RBS INTACTA MANET</hi>────<hi rend="underline">semperque intacta manebit:</hi>?Y47A1101   </l><l n="2" xml:id="spp-Y47A1101-line-2"> Tangere Crabrones quis bene sanus amat</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

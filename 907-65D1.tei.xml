@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TWELVE ARTICLES.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="907-65D1" type="poem"><head type="note" n="1" xml:id="spp-907-65D1-headnote-1"><lg n="1" xml:id="spp-907-65D1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-907-65D1-headnote-1-line-group-1-line-1">BEING A SEQUEL To the POEM inserted in <hi rend="underline">Page</hi> 176, intitled, <hi rend="underline">DAPHNE</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-907-65D1-headnote-2"><lg n="1" xml:id="spp-907-65D1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-907-65D1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-907-65D1-headnote-3"><lg n="1" xml:id="spp-907-65D1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-907-65D1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-907-65D1-line-1" rend="align(center)">I,</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-907-65D1-line-2" rend="flush left"><hi rend="display-initial">L</hi>EST it may more Quarrels breed,</l><l n="3" xml:id="spp-907-65D1-line-3"> I will never hear you read.</l></lg><lg n="3" type="stanza"><l n="4" xml:id="spp-907-65D1-line-4" rend="align(center)">II.</l></lg><lg n="4" type="stanza"><l n="5" xml:id="spp-907-65D1-line-5" rend="flush left">By disputing I will never,&#13;</l><l n="6" xml:id="spp-907-65D1-line-6"> To convince you, once endeavour.</l></lg><lg n="5" type="stanza"><l n="7" xml:id="spp-907-65D1-line-7" rend="align(center)">III.</l></lg><lg n="6" type="stanza"><l n="8" xml:id="spp-907-65D1-line-8" rend="flush left">When a Paradox you stick to,&#13;</l><l n="9" xml:id="spp-907-65D1-line-9"> I will never contradict you.</l></lg><lg n="7" type="stanza"><l n="10" xml:id="spp-907-65D1-line-10" rend="align(center)">IV.</l></lg><lg n="8" type="stanza"><l n="11" xml:id="spp-907-65D1-line-11" rend="flush left">When I talk, and you are heedless,&#13;</l><l n="12" xml:id="spp-907-65D1-line-12"> I will shew no Anger needless.</l></lg><lg n="9" type="stanza"><l n="13" xml:id="spp-907-65D1-line-13" rend="align(center)">V.</l></lg><lg n="10" type="stanza"><l n="14" xml:id="spp-907-65D1-line-14" rend="flush left">When your Speeches are absurd,&#13;</l><l n="15" xml:id="spp-907-65D1-line-15"> I will ne'er object a Word.</l></lg><lg n="11" type="stanza"><l n="16" xml:id="spp-907-65D1-line-16" rend="align(center)">VI.</l></lg><lg n="12" type="stanza"><l n="17" xml:id="spp-907-65D1-line-17" rend="flush left">When you furious argue wrong,&#13;</l><l n="18" xml:id="spp-907-65D1-line-18"> I will grieve, and hold my Tongue.</l></lg><lg n="13" type="stanza"><l n="19" xml:id="spp-907-65D1-line-19" rend="align(center)">VII.</l></lg><lg n="14" type="stanza"><l n="20" xml:id="spp-907-65D1-line-20" rend="flush left">Not a Jest, or hum'rous Story,&#13;</l><l n="21" xml:id="spp-907-65D1-line-21"> Will I ever tell before ye:</l><l n="22" xml:id="spp-907-65D1-line-22"> To be chidden for explaining</l><l n="23" xml:id="spp-907-65D1-line-23"> When you quite mistake the Meaning.</l></lg><lg n="15" type="stanza"><l n="24" xml:id="spp-907-65D1-line-24" rend="align(center)">VIII.</l></lg><lg n="16" type="stanza"><l n="25" xml:id="spp-907-65D1-line-25" rend="flush left">Never more will I suppose&#13;</l><l n="26" xml:id="spp-907-65D1-line-26"> You can taste my Verse or Prose:</l></lg><lg n="17" type="stanza"><l n="27" xml:id="spp-907-65D1-line-27" rend="align(center)">IX.</l></lg><lg n="18" type="stanza"><l n="28" xml:id="spp-907-65D1-line-28" rend="flush left">You no more at me shall fret,&#13;</l><l n="29" xml:id="spp-907-65D1-line-29"> While I teach, and you forget.</l></lg><lg n="19" type="stanza"><l n="30" xml:id="spp-907-65D1-line-30" rend="align(center)">X.</l></lg><lg n="20" type="stanza"><l n="31" xml:id="spp-907-65D1-line-31" rend="flush left">You shall never hear me thunder,&#13;</l><l n="32" xml:id="spp-907-65D1-line-32"> When you blunder on, and blunder.</l></lg><lg n="21" type="stanza"><l n="33" xml:id="spp-907-65D1-line-33" rend="align(center)">XI.</l></lg><lg n="22" type="stanza"><l n="34" xml:id="spp-907-65D1-line-34" rend="flush left">Shew your Poverty of Spirit,&#13;</l><l n="35" xml:id="spp-907-65D1-line-35"> And in Dress place all your Merit;</l><l n="36" xml:id="spp-907-65D1-line-36"> Give yourself ten thousand Airs,</l><l n="37" xml:id="spp-907-65D1-line-37"> That with me shall break no Squares.</l></lg><lg n="23" type="stanza"><l n="38" xml:id="spp-907-65D1-line-38" rend="align(center)">XII.</l></lg><lg n="24" type="stanza"><l n="39" xml:id="spp-907-65D1-line-39" rend="flush left">Never will I give Advice,&#13;</l><l n="40" xml:id="spp-907-65D1-line-40"> 'Till you please to ask me thrice;</l><l n="41" xml:id="spp-907-65D1-line-41"> Which, if you in Scorn reject,</l><l n="42" xml:id="spp-907-65D1-line-42"> 'Twill be just as I expect.</l></lg><lg n="25" type="stanza"><l n="43" xml:id="spp-907-65D1-line-43">Thus we both shall have our Ends,&#13;</l><l n="44" xml:id="spp-907-65D1-line-44"> And continue special Friends.907-65D1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Holyhead. Sept. 25. 1727</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="420-WILH" type="poem"><head type="note" n="1" xml:id="spp-420-WILH-headnote-1"><lg n="1" xml:id="spp-420-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-420-WILH-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-420-WILH-headnote-2"><lg n="1" xml:id="spp-420-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-420-WILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-420-WILH-headnote-3"><lg n="1" xml:id="spp-420-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-420-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-420-WILH-line-1"> Lo here I sit at holy head&#13;</l><l n="2" xml:id="spp-420-WILH-line-2"> With muddy ale and mouldy bread</l><l n="3" xml:id="spp-420-WILH-line-3"> All Christian vittals stink of fish</l><l n="4" xml:id="spp-420-WILH-line-4"> I'm where my enemyes would wish</l><l n="5" xml:id="spp-420-WILH-line-5"> Convict of lyes is every sign,</l><l n="6" xml:id="spp-420-WILH-line-6"> The Inn has not one drop of wine</l><l n="7" xml:id="spp-420-WILH-line-7"> I'm fasnd both by wind and tide</l><l n="8" xml:id="spp-420-WILH-line-8"> I see the ship at anchor ride</l><l n="9" xml:id="spp-420-WILH-line-9"> The Captain swears the sea's too rough</l><l n="10" xml:id="spp-420-WILH-line-10"> He has not passengers enough.</l><l n="11" xml:id="spp-420-WILH-line-11"> And thus the Dean is forc't to stay</l><l n="12" xml:id="spp-420-WILH-line-12"> Till others come to help the pay</l><l n="13" xml:id="spp-420-WILH-line-13"> In Dublin they'd be glad to see</l><l n="14" xml:id="spp-420-WILH-line-14"> A packet though it brings in me.</l><l n="15" xml:id="spp-420-WILH-line-15"> They cannot say the winds are cross</l><l n="16" xml:id="spp-420-WILH-line-16"> Your Politicians at a loss</l><l n="17" xml:id="spp-420-WILH-line-17"> For want of matter swears and fretts,</l><l n="18" xml:id="spp-420-WILH-line-18"> Are forced to read the old gazettes.</l><l n="19" xml:id="spp-420-WILH-line-19"> I never was in hast before</l><l n="20" xml:id="spp-420-WILH-line-20"> To reach that slavish hateful shore</l><l n="21" xml:id="spp-420-WILH-line-21"> Before, I always found the wind</l><l n="22" xml:id="spp-420-WILH-line-22"> To me was most malicious kind</l><l n="23" xml:id="spp-420-WILH-line-23"> But now, the danger of a friend</l><l n="24" xml:id="spp-420-WILH-line-24"> On whom my fears and hopes depend</l><l n="25" xml:id="spp-420-WILH-line-25"> Absent from whom all Clymes are curst</l><l n="26" xml:id="spp-420-WILH-line-26"> With whom I'm happy in the worst</l><l n="27" xml:id="spp-420-WILH-line-27"> With rage impatient makes me wait</l><l n="28" xml:id="spp-420-WILH-line-28"> A passage to the land I hate.</l><l n="29" xml:id="spp-420-WILH-line-29"> Else, rather on this bleaky shore</l><l n="30" xml:id="spp-420-WILH-line-30"> Where loudest winds incessant roar</l><l n="31" xml:id="spp-420-WILH-line-31"> Where neither herb nor tree will thrive,</l><l n="32" xml:id="spp-420-WILH-line-32"> Where nature hardly seems alive.</l><l n="33" xml:id="spp-420-WILH-line-33"> I'd go in freedom to my grave,</l><l n="34" xml:id="spp-420-WILH-line-34"> Than Rule yon Isle and be a Slave.420-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

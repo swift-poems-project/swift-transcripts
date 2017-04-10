@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Reverse</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X82A407P" type="poem"><head type="note" n="1" xml:id="spp-X82A407P-headnote-1"><lg n="1" xml:id="spp-X82A407P-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X82A407P-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X82A407P-headnote-2"><lg n="1" xml:id="spp-X82A407P-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X82A407P-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X82A407P-headnote-3"><lg n="1" xml:id="spp-X82A407P-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X82A407P-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X82A407P-line-1">Venus one day as story goes&#13;But for what reason no man knows</l><l n="2" xml:id="spp-X82A407P-line-2"> In sullen mood <unclear>and over&amp;</unclear> grave deport</l><l n="3" xml:id="spp-X82A407P-line-3"> Trudg'd it away to Ioves high Court</l><l n="4" xml:id="spp-X82A407P-line-4"> And there his Godship did intreat</l><l n="5" xml:id="spp-X82A407P-line-5"> To look out for his best receipt</l><l n="6" xml:id="spp-X82A407P-line-6"> And make a monster strange &amp; odd</l><l n="7" xml:id="spp-X82A407P-line-7"> Abhorr'd by man and ev'ry God</l><l n="8" xml:id="spp-X82A407P-line-8"> Jove ever kind to all the Fair</l><l n="9" xml:id="spp-X82A407P-line-9"> Nor e're refused a Ladys Prayer</l><l n="10" xml:id="spp-X82A407P-line-10"> Straight Op'd Scrutore &amp; forth he took</l><l n="11" xml:id="spp-X82A407P-line-11"> A neatly bound &amp; well gilt Book.</l><l n="12" xml:id="spp-X82A407P-line-12"> Sure Sign y<hi rend="sup">t</hi> nothing entered there</l><l n="13" xml:id="spp-X82A407P-line-13"> But what was very choice &amp; rare.</l><l n="14" xml:id="spp-X82A407P-line-14"> Scarce had he turned a page or two</l><l n="15" xml:id="spp-X82A407P-line-15"> It might be more for ought J know</l><l n="16" xml:id="spp-X82A407P-line-16"> But be y<hi rend="sup">e</hi> matter more or Less</l><l n="17" xml:id="spp-X82A407P-line-17"> 'Mongst friends 'twill break no Squares J guess</l><l n="18" xml:id="spp-X82A407P-line-18"> Then smiling to y<hi rend="sup">e</hi> Dame quoth he</l><l n="19" xml:id="spp-X82A407P-line-19"> Heres one will fit you to a T.</l><l n="20" xml:id="spp-X82A407P-line-20"> But as y<hi rend="sup">e</hi> writing doth prescribe</l><l n="21" xml:id="spp-X82A407P-line-21"> 'Tis fit th'Jngredients we provide</l><l n="22" xml:id="spp-X82A407P-line-22"> Away he went &amp; searched the Stewes</l><l n="23" xml:id="spp-X82A407P-line-23"> And ev'ry street about the Meuse</l><l n="24" xml:id="spp-X82A407P-line-24"> Diseases, Impudence, &amp; Lyes</l><l n="25" xml:id="spp-X82A407P-line-25"> Are found &amp; brought him in a trice</l><l n="26" xml:id="spp-X82A407P-line-26"> From Hackney then he did provide</l><l n="27" xml:id="spp-X82A407P-line-27"> A Clumsey Air &amp; awkard Pride</l><l n="28" xml:id="spp-X82A407P-line-28"> From Ladies Toylette next he brought</l><l n="29" xml:id="spp-X82A407P-line-29"> Noise Scandal &amp; malitious thought</l><l n="30" xml:id="spp-X82A407P-line-30"> These Iove put in an old Closestool</l><l n="31" xml:id="spp-X82A407P-line-31"> And with them mixt the vain y<hi rend="sup">e</hi> Fool</l><l n="32" xml:id="spp-X82A407P-line-32"> But now came on his greatest Care</l><l n="33" xml:id="spp-X82A407P-line-33"> Of w<hi rend="sup">t</hi> he should his past prepare</l><l n="34" xml:id="spp-X82A407P-line-34"> For common Clay a finer mould</l><l n="35" xml:id="spp-X82A407P-line-35"> Was much too good such stuff to hold</l><l n="36" xml:id="spp-X82A407P-line-36"> At last he wisely thought on mud</l><l n="37" xml:id="spp-X82A407P-line-37"> So rais'd it up &amp; call'd it <hi rend="black-letter">Clud</hi>With this y<hi rend="sup">e</hi> Lady well contentLow Courtsy'd &amp; away she wentX82A407P   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

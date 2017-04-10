@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>SONG LXXIV.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y09C37L6" type="poem"><head type="note" n="1" xml:id="spp-Y09C37L6-headnote-1"><lg n="1" xml:id="spp-Y09C37L6-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y09C37L6-headnote-1-line-group-1-line-1"><hi rend="underline">Which no Body can deny</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-Y09C37L6-headnote-2"><lg n="1" xml:id="spp-Y09C37L6-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y09C37L6-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y09C37L6-headnote-3"><lg n="1" xml:id="spp-Y09C37L6-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y09C37L6-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y09C37L6-line-1"><hi rend="display-initial">Y</hi>E People of <hi rend="underline">Ireland</hi>, both country and city,</l><l n="2" xml:id="spp-Y09C37L6-line-2"> Come listen with patience, and hear out my ditty,</l><l n="3" xml:id="spp-Y09C37L6-line-3"> At this time I'll chuse to be wiser than witty,<hi rend="underline">Which no body can deny</hi>.</l><l n="4" xml:id="spp-Y09C37L6-line-4"> The half-pence are coining, the nation's undoing,</l><l n="5" xml:id="spp-Y09C37L6-line-5"> There's an end of your ploughing, and baking, and brewing,</l><l n="6" xml:id="spp-Y09C37L6-line-6"> In short you must all go to rack and to ruin,<hi rend="underline">Which</hi>, &amp;c.</l><l n="7" xml:id="spp-Y09C37L6-line-7"> Both high men, and low men, and thick men, and tall men,</l><l n="8" xml:id="spp-Y09C37L6-line-8"> And rich men, and poor men, and free men, and thrall men</l><l n="9" xml:id="spp-Y09C37L6-line-9"> Will suffer, and this man, and that man, and all men,<hi rend="underline">Which</hi>, &amp;c.</l><l n="10" xml:id="spp-Y09C37L6-line-10"> The soldier is ruin'd, poor man! by his pay,</l><l n="11" xml:id="spp-Y09C37L6-line-11"> His five-pence will prove but a farthing a day,</l><l n="12" xml:id="spp-Y09C37L6-line-12"> For meat, or for drink, or he must run away,<hi rend="underline">Which</hi>, &amp;c.</l><l n="13" xml:id="spp-Y09C37L6-line-13"> When he pulls out his two-pence, the tapster says not,</l><l n="14" xml:id="spp-Y09C37L6-line-14"> That ten times as much he must pay for his shot,</l><l n="15" xml:id="spp-Y09C37L6-line-15"> And thus the poor soldier he must go to pot,<hi rend="underline">Which</hi>, &amp;c.</l><l n="16" xml:id="spp-Y09C37L6-line-16"> If he goes to the baker, the baker will huff,</l><l n="17" xml:id="spp-Y09C37L6-line-17"> And twenty-pence have for a two-penny loaf,</l><l n="18" xml:id="spp-Y09C37L6-line-18"> Then dog, rogue, and rascal, and so kick and cuff,<hi rend="underline">Which</hi>, &amp;c.</l><l n="19" xml:id="spp-Y09C37L6-line-19"> Again, to the market whenever he goes,</l><l n="20" xml:id="spp-Y09C37L6-line-20"> The butcher and soldier must be mortal foes,</l><l n="21" xml:id="spp-Y09C37L6-line-21"> One cuts off an ear, and the other a nose,<hi rend="underline">Which</hi>, &amp;c.</l><l n="22" xml:id="spp-Y09C37L6-line-22"> The butcher is stout, and he values no swagger,</l><l n="23" xml:id="spp-Y09C37L6-line-23"> A cleaver's a match any time for a dagger,</l><l n="24" xml:id="spp-Y09C37L6-line-24"> And a blue sleeve may give a cuff as may stagger,<hi rend="underline">Which</hi>, &amp;c.</l><l n="25" xml:id="spp-Y09C37L6-line-25"> The beggars themselves will be broke in a trice,</l><l n="26" xml:id="spp-Y09C37L6-line-26"> When thus their poor farthings are sunk in their price,</l><l n="27" xml:id="spp-Y09C37L6-line-27"> When nothing is left, they must live on their lice,<hi rend="underline">Which</hi>, &amp;c.</l><l n="28" xml:id="spp-Y09C37L6-line-28"> The 'squire who's got him twelve thousand a year,</l><l n="29" xml:id="spp-Y09C37L6-line-29"> O lord, what a mountain his rents wou'd appear!</l><l n="30" xml:id="spp-Y09C37L6-line-30"> Shou'd he take them, he wou'd not have house-room, I fear,<hi rend="underline">Which</hi>, &amp;c.</l><l n="31" xml:id="spp-Y09C37L6-line-31"> Tho' at present he lives in a very large house,</l><l n="32" xml:id="spp-Y09C37L6-line-32"> There wou'd not be room in it left for a mouse;</l><l n="33" xml:id="spp-Y09C37L6-line-33"> But the 'squire's too wise, he won't take a souse,<hi rend="underline">Which</hi>, &amp;c.</l><l n="34" xml:id="spp-Y09C37L6-line-34"> The farmer who comes with his rent in this cash,</l><l n="35" xml:id="spp-Y09C37L6-line-35"> For taking these counters, and being so rash,</l><l n="36" xml:id="spp-Y09C37L6-line-36"> Will be kick'd out of doors, both himself and his trash,<hi rend="underline">Which</hi>, &amp;c.</l><l n="37" xml:id="spp-Y09C37L6-line-37"> For in all the leases, that ever we hold,</l><l n="38" xml:id="spp-Y09C37L6-line-38"> We must pay our rent in good silver and gold,</l><l n="39" xml:id="spp-Y09C37L6-line-39"> And not in brass tokens of such a base mould,<hi rend="underline">Which</hi>, &amp;c.</l><l n="40" xml:id="spp-Y09C37L6-line-40"> The wisest of lawyers all swear, they will warrant</l><l n="41" xml:id="spp-Y09C37L6-line-41"> No money but silver and gold can be current;</l><l n="42" xml:id="spp-Y09C37L6-line-42"> And since they will swear it, we all may be sure on't,<hi rend="underline">Which</hi>, &amp;c.</l><l n="43" xml:id="spp-Y09C37L6-line-43"> And I think after all, it wou'd be very strange,</l><l n="44" xml:id="spp-Y09C37L6-line-44"> To give current money for base in exchange,</l><l n="45" xml:id="spp-Y09C37L6-line-45"> Like a fine lady swapping her moles for the mange,<hi rend="underline">Which</hi>, &amp;c.</l><l n="46" xml:id="spp-Y09C37L6-line-46"> But read the King's patent, and there you will find,</l><l n="47" xml:id="spp-Y09C37L6-line-47"> That no man need take 'em, but who has a mind,</l><l n="48" xml:id="spp-Y09C37L6-line-48"> For which we must say, his Majesty's kind,<hi rend="underline">Which</hi>, &amp;c.</l><l n="49" xml:id="spp-Y09C37L6-line-49"> Now God bless the <hi rend="underline">Draper</hi>, who open'd our eyes,</l><l n="50" xml:id="spp-Y09C37L6-line-50"> I am sure by his Book, that the Writer is wise,</l><l n="51" xml:id="spp-Y09C37L6-line-51"> He shews us the cheat, from the end to the rise,<hi rend="underline">Which</hi>, &amp;c.</l><l n="52" xml:id="spp-Y09C37L6-line-52"> Nay farther, he shews it a very hard case,</l><l n="53" xml:id="spp-Y09C37L6-line-53"> That this fellow <hi rend="underline">Wood</hi>, of a very bad race,</l><l n="54" xml:id="spp-Y09C37L6-line-54"> Should of all the fine gentry of <hi rend="underline">Ireland</hi> take place,<hi rend="underline">Which</hi>, &amp;c.</l><l n="55" xml:id="spp-Y09C37L6-line-55"> That he and his Half-pence should come to weigh down</l><l n="56" xml:id="spp-Y09C37L6-line-56"> Our subjects so loyal and true to the crown;</l><l n="57" xml:id="spp-Y09C37L6-line-57"> But I hope after all, that they will be his own,<hi rend="underline">Which</hi>, &amp;c.</l><l n="58" xml:id="spp-Y09C37L6-line-58"> This Book, I do tell you, is writ for your goods,</l><l n="59" xml:id="spp-Y09C37L6-line-59"> And a very good Book against Mr. <hi rend="underline">Wood</hi>'s,</l><l n="60" xml:id="spp-Y09C37L6-line-60"> If you stand together, he's left in the suds,<hi rend="underline">Which</hi>, &amp;c.</l><l n="61" xml:id="spp-Y09C37L6-line-61"> Ye shopmen, and tradesmen, and farmers, go read it,</l><l n="62" xml:id="spp-Y09C37L6-line-62"> For I think in my soul at this time you will need it,</l><l n="63" xml:id="spp-Y09C37L6-line-63"> Or egad, if you don't, there's an end of your credit.<hi rend="underline">Which</hi>, &amp;c.Y09C37L6   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

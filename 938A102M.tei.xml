@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="938A102M" type="poem"><head type="note" n="1" xml:id="spp-938A102M-headnote-1"><lg n="1" xml:id="spp-938A102M-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-938A102M-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-938A102M-headnote-2"><lg n="1" xml:id="spp-938A102M-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-938A102M-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-938A102M-headnote-3"><lg n="1" xml:id="spp-938A102M-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-938A102M-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-938A102M-line-1"> I reach all things near me &amp; far off to boot,&#13;</l><l n="2" xml:id="spp-938A102M-line-2"> Without stretching a finger, or stirring a foot;</l><l n="3" xml:id="spp-938A102M-line-3"> I take them all in too (to add to your wonder)</l><l n="4" xml:id="spp-938A102M-line-4"> Tho many &amp; various, &amp; large, &amp; asunder;</l><l n="5" xml:id="spp-938A102M-line-5"> Without jostling or crowding, they pass side by side</l><l n="6" xml:id="spp-938A102M-line-6"> Thro a wonderful wicket not half an inch wide<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>938A102M   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

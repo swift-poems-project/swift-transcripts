@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>VERSES <hi rend="underline">said to be written on<lb/>the</hi> UNION.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-096-0801-footnote-1 #spp-096-0801-line-1"/>
+        </linkGrp>
+        <div n="096-0801"><head type="note" n="1" xml:id="spp-096-0801-headnote-1"><lg n="1" xml:id="spp-096-0801-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-096-0801-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-096-0801-headnote-2"><lg n="1" xml:id="spp-096-0801-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-096-0801-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-096-0801-headnote-3"><lg n="1" xml:id="spp-096-0801-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-096-0801-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-096-0801-line-1"><hi rend="display-initial">T</hi>HE <ref target="#spp-096-0801-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-096-0801-footnote-1">Anne.</note> Queen has lately lost a Part</l><l/><l n="2" xml:id="spp-096-0801-line-2">Of her entirely-<hi rend="underline">English</hi> Heart,</l><l/><l n="3" xml:id="spp-096-0801-line-3">For want of which by way of Botch,</l><l/><l n="4" xml:id="spp-096-0801-line-4">She piec'd it up again with <hi rend="underline">Scotch</hi>.</l><l/><l n="5" xml:id="spp-096-0801-line-5">Blest Revolution, which creates</l><l/><l n="6" xml:id="spp-096-0801-line-6">Divided Hearts, united States.</l><l/><l n="7" xml:id="spp-096-0801-line-7">See how the double Nation lies;</l><l/><l n="8" xml:id="spp-096-0801-line-8">Like a rich Coat with Skirts of Frize:</l><l/><l n="9" xml:id="spp-096-0801-line-9">As if a Man in making Posies</l><l/><l n="10" xml:id="spp-096-0801-line-10">Should bundle Thistles up with Roses.</l><l/><l n="11" xml:id="spp-096-0801-line-11">Whoever yet a Union saw</l><l/><l n="12" xml:id="spp-096-0801-line-12">Of Kingdoms, without Faith or Law.</l><l/><l n="13" xml:id="spp-096-0801-line-13">Henceforward let no Statesman dare,</l><l/><l n="14" xml:id="spp-096-0801-line-14">A Kingdom to a Ship compare;</l><l/><l n="15" xml:id="spp-096-0801-line-15">Lest he should call our Commonweal,</l><l/><l n="16" xml:id="spp-096-0801-line-16">A Vessel with a double Keel:</l><l/><l n="17" xml:id="spp-096-0801-line-17">Which just like ours, new rigg'd and man'd,</l><l/><l n="18" xml:id="spp-096-0801-line-18">And got about a League from Land,</l><l/><l n="19" xml:id="spp-096-0801-line-19">By Change of Wind to Leeward Side</l><l/><l n="20" xml:id="spp-096-0801-line-20">The Pilot knew not how to guide.</l><l/><l n="21" xml:id="spp-096-0801-line-21">So tossing Faction will o'erwhelm</l><l/><l n="22" xml:id="spp-096-0801-line-22">Our crazy double-bottom'd Realm.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>XXXIV. THE AMOF MODERN<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CCalella"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y45C04B1" type="poem"><head type="note" n="1" xml:id="spp-Y45C04B1-headnote-1"><lg n="1" xml:id="spp-Y45C04B1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y45C04B1-headnote-1-line-group-1-line-1">This is another of those bagatelles for which Swift was so distinguished. The description unhappily still has its application.</l></lg></head><head type="note" n="2" xml:id="spp-Y45C04B1-headnote-2"><lg n="1" xml:id="spp-Y45C04B1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y45C04B1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y45C04B1-headnote-3"><lg n="1" xml:id="spp-Y45C04B1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y45C04B1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y45C04B1-line-1"> Gaming, talking, swearing, drinking,&#13;</l><l n="2" xml:id="spp-Y45C04B1-line-2"> Hunting, shooting, never thinking;</l><l n="3" xml:id="spp-Y45C04B1-line-3"> Chattering nonsense all day long,</l><l n="4" xml:id="spp-Y45C04B1-line-4"> Humming half an opera song;</l><l n="5" xml:id="spp-Y45C04B1-line-5"> Chusing baubles, rings, and jewels;</l><l n="6" xml:id="spp-Y45C04B1-line-6"> Writing verses, fighting duels.</l><l n="7" xml:id="spp-Y45C04B1-line-7"> Mincing words in conversation,</l><l n="8" xml:id="spp-Y45C04B1-line-8"> Ridiculing all the nation.</l><l n="9" xml:id="spp-Y45C04B1-line-9"> Admiring their own pretty faces,</l><l n="10" xml:id="spp-Y45C04B1-line-10"> As if possess'd of all the graces;</l><l n="11" xml:id="spp-Y45C04B1-line-11"> And, though no bigger than a rat,</l><l n="12" xml:id="spp-Y45C04B1-line-12"> Peeping under each girl's hat.Y45C04B1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>SONG XIII.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y09C35UH" type="poem"><head type="note" n="1" xml:id="spp-Y09C35UH-headnote-1"><lg n="1" xml:id="spp-Y09C35UH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y09C35UH-headnote-1-line-group-1-line-1"><hi rend="underline">Which no body can deny</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-Y09C35UH-headnote-2"><lg n="1" xml:id="spp-Y09C35UH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y09C35UH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y09C35UH-headnote-3"><lg n="1" xml:id="spp-Y09C35UH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y09C35UH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y09C35UH-line-1"><hi rend="display-initial">Y</hi>E people of Ireland, both country and city,</l><l n="2" xml:id="spp-Y09C35UH-line-2"> Come listen with patience, and here out my ditty;</l><l n="3" xml:id="spp-Y09C35UH-line-3" rend="flush right"> At this time I'll chuse to be wiser than witty.<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="2" type="stanza"><l n="4" xml:id="spp-Y09C35UH-line-4">The half-pence are coining the nation's undoing,&#13;</l><l n="5" xml:id="spp-Y09C35UH-line-5"> There's an end of your ploughing, and baking, and brewing;</l><l n="6" xml:id="spp-Y09C35UH-line-6" rend="flush right"> In short you must all go to rack and to ruin,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="3" type="stanza"><l n="7" xml:id="spp-Y09C35UH-line-7">But high men, and low men, and thick men, and tall men,&#13;</l><l n="8" xml:id="spp-Y09C35UH-line-8"> And rich men, and poor men, and free men, and thrall men,</l><l n="9" xml:id="spp-Y09C35UH-line-9" rend="flush right"> Will suffer, and this man, and that man, and all men,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-Y09C35UH-line-10">The soldier is ruin'd, poor man by his pay,&#13;</l><l n="11" xml:id="spp-Y09C35UH-line-11"> His five pence will prove but a farthing a day,</l><l n="12" xml:id="spp-Y09C35UH-line-12" rend="flush right"> For meat or for drink, or he must run away,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="5" type="stanza"><l n="13" xml:id="spp-Y09C35UH-line-13">When he pulls out his two-pence, the tapster says not,&#13;</l><l n="14" xml:id="spp-Y09C35UH-line-14"> That ten times as much he must pay for his shot,</l><l n="15" xml:id="spp-Y09C35UH-line-15" rend="flush right"> And thus the poor soldier he must go to pot,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="6" type="stanza"><l n="16" xml:id="spp-Y09C35UH-line-16">If he goes to the baker, the baker will huff,&#13;</l><l n="17" xml:id="spp-Y09C35UH-line-17"> And twenty-pence have for a two-penny loaf,</l><l n="18" xml:id="spp-Y09C35UH-line-18" rend="flush right"> Then dog, rogue and rascal, and so kick and cuff,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="7" type="stanza"><l n="19" xml:id="spp-Y09C35UH-line-19">Again to the market whenever he goes,&#13;</l><l n="20" xml:id="spp-Y09C35UH-line-20"> The butcher and soldier must be mortal foes,</l><l n="21" xml:id="spp-Y09C35UH-line-21" rend="flush right"> One cuts off an ear, and the other a nose,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="8" type="stanza"><l n="22" xml:id="spp-Y09C35UH-line-22">The butcher is stout, and he values no swagger,&#13;</l><l n="23" xml:id="spp-Y09C35UH-line-23"> A cleaver's a match any time for a dagger,</l><l n="24" xml:id="spp-Y09C35UH-line-24" rend="flush right"> And a blue sleeve may give such a cuff as may stagger,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="9" type="stanza"><l n="25" xml:id="spp-Y09C35UH-line-25">The beggars themselves will be broke in a trice,&#13;</l><l n="26" xml:id="spp-Y09C35UH-line-26"> When thus their poor farthings are sunk in their price;</l><l n="27" xml:id="spp-Y09C35UH-line-27" rend="flush right"> When nothing is left, they must live on their lice,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="10" type="stanza"><l n="28" xml:id="spp-Y09C35UH-line-28">The 'squire who's got him twelve thousand a year,&#13;</l><l n="29" xml:id="spp-Y09C35UH-line-29"> O lord, what a mountain his rents wou'd appear!</l><l n="30" xml:id="spp-Y09C35UH-line-30" rend="flush right"> Shou'd he take 'em, he would not have house room I fear,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="11" type="stanza"><l n="31" xml:id="spp-Y09C35UH-line-31">Tho' at present he lives in a very large house&#13;</l><l n="32" xml:id="spp-Y09C35UH-line-32"> There would not be room in it left for a mouse;</l><l n="33" xml:id="spp-Y09C35UH-line-33" rend="flush right"> But the 'squire's too wise, he won't take a souse,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="12" type="stanza"><l n="34" xml:id="spp-Y09C35UH-line-34">The farmer who comes with his rent in this Cash,&#13;</l><l n="35" xml:id="spp-Y09C35UH-line-35"> For taking these counters and being so rash,</l><l n="36" xml:id="spp-Y09C35UH-line-36" rend="flush right"> Will be kick'd out of doors, both himself and his trash,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="13" type="stanza"><l n="37" xml:id="spp-Y09C35UH-line-37">For in all the leases that ever we hold,&#13;</l><l n="38" xml:id="spp-Y09C35UH-line-38"> We must pay our rent in good silver and gold,</l><l n="39" xml:id="spp-Y09C35UH-line-39" rend="flush right"> And not in brass tokens of such a base mould,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="14" type="stanza"><l n="40" xml:id="spp-Y09C35UH-line-40">The wisest of lawyers all swear they will warrant&#13;</l><l n="41" xml:id="spp-Y09C35UH-line-41"> No money but silver and gold can be current,</l><l n="42" xml:id="spp-Y09C35UH-line-42" rend="flush right"> And since they will swear it, we all may be sure on't,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="15" type="stanza"><l n="43" xml:id="spp-Y09C35UH-line-43">And I think, after all, it wou'd be very strange,&#13;</l><l n="44" xml:id="spp-Y09C35UH-line-44"> To give current money for base, in exchange,</l><l n="45" xml:id="spp-Y09C35UH-line-45" rend="flush right"> Like a fine lady swapping her moles for the mange,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="16" type="stanza"><l n="46" xml:id="spp-Y09C35UH-line-46">But read the king's patent, and there you will find,&#13;</l><l n="47" xml:id="spp-Y09C35UH-line-47"> That no man need take them, but who has a mind,</l><l n="48" xml:id="spp-Y09C35UH-line-48" rend="flush right"> For which we must say his majesty's kind,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="17" type="stanza"><l n="49" xml:id="spp-Y09C35UH-line-49">Now God bless the Draper who open'd our eyes,&#13;</l><l n="50" xml:id="spp-Y09C35UH-line-50"> I am sure by his book that the writer is wise;</l><l n="51" xml:id="spp-Y09C35UH-line-51" rend="flush right"> He shews us the cheat, from the end to the rise,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="18" type="stanza"><l n="52" xml:id="spp-Y09C35UH-line-52">Nay farther he shews us a very hard case,&#13;</l><l n="53" xml:id="spp-Y09C35UH-line-53"> That this fellow, Wood, of a very bad race,</l><l n="54" xml:id="spp-Y09C35UH-line-54" rend="flush right"> Should of all the fine gentry of Ireland take place,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="19" type="stanza"><l n="55" xml:id="spp-Y09C35UH-line-55">That he and his half-pence should come to weigh down&#13;</l><l n="56" xml:id="spp-Y09C35UH-line-56"> Our subjects so loyal and true to the crown;</l><l n="57" xml:id="spp-Y09C35UH-line-57" rend="flush right"> But I hope, after all, that they will be his own,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="20" type="stanza"><l n="58" xml:id="spp-Y09C35UH-line-58">This book, I do tell you, is writ for your goods,&#13;</l><l n="59" xml:id="spp-Y09C35UH-line-59"> And a very good book against Mr. Wood's;</l><l n="60" xml:id="spp-Y09C35UH-line-60" rend="flush right"> If you stand together he's left in the suds,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="21" type="stanza"><l n="61" xml:id="spp-Y09C35UH-line-61">Ye shopmen and tradesmen, and farmer's go read it,&#13;</l><l n="62" xml:id="spp-Y09C35UH-line-62"> For I think, in my soul, at this time you will need it;</l><l n="63" xml:id="spp-Y09C35UH-line-63" rend="flush right"> Or, I gad, if you don't, there's an end of your credit,<hi rend="underline">Which no body can deny</hi>.Y09C35UH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

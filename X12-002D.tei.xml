@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>P: S:</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X12-002D" type="poem"><head type="note" n="1" xml:id="spp-X12-002D-headnote-1"><lg n="1" xml:id="spp-X12-002D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X12-002D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X12-002D-headnote-2"><lg n="1" xml:id="spp-X12-002D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X12-002D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X12-002D-headnote-3"><lg n="1" xml:id="spp-X12-002D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X12-002D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X12-002D-line-1"> Lean Tom: when I saw him last week on his horse a-wry&#13;</l><l n="2" xml:id="spp-X12-002D-line-2"> Threaten'd loudly to turn me to stone w<hi rend="sup">th</hi>.  his sorcery;</l><l n="3" xml:id="spp-X12-002D-line-3"> But I think little Dan: that in spight of what our Foe says</l><l n="4" xml:id="spp-X12-002D-line-4"> He'll find I read Ovid and his Metamorphosis.</l><l n="5" xml:id="spp-X12-002D-line-5"> For omitting the first (where I make a Comparison</l><l n="6" xml:id="spp-X12-002D-line-6"> With a sort of Allusion to Putland and Harrison)</l><l n="7" xml:id="spp-X12-002D-line-7"> Yet by my Description You'll find he in short is</l><l n="8" xml:id="spp-X12-002D-line-8"> A Pack and a Garran, a Top and a Tortoise</l><l n="9" xml:id="spp-X12-002D-line-9"> So I hope for henceforward Y<hi rend="sup">u</hi> ne'er will ask can I mawl</l><l n="10" xml:id="spp-X12-002D-line-10"> This teazing, Conceited, rude, Insolent Animal</l><l n="11" xml:id="spp-X12-002D-line-11"> But if this Rebuke might turn to his benefit</l><l n="12" xml:id="spp-X12-002D-line-12"> (For I pitty the Man) I should be glad then of it.X12-002D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-X30B17H2-title-1">Dr. HELSHAM to Dr. SWIFT<ref target="#spp-X30B17H2-footnote-title-1">1</ref><note n="1" xml:id="spp-X30B17H2-footnote-title-1" place="foot">Dr. <hi rend="underline">Helsham</hi> first wrote twenty lines; which Dr. <hi rend="underline">Swift</hi> answered by sending thirty-three (printed in vol. VI. part ii. p. 169.), and challenging Dr. <hi rend="underline">Helsham</hi> to exceed him by returning fourteen more (thirty-four in all); which Dr. <hi rend="underline">Helsham</hi> accordingly here performs.──These are some of the puerilities for which the Dean has since been severely censured; but the foibles of such a writer as Dr. <hi rend="underline">Swift</hi> are amusing, even in the few instances where they are not instructive. N</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X30B17H2-footnote-title-1 #spp-X30B17H2-title-1"/>
+        </linkGrp>
+        <div n="X30B17H2"><head type="note" n="1" xml:id="spp-X30B17H2-headnote-1"><lg n="1" xml:id="spp-X30B17H2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X30B17H2-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-X30B17H2-headnote-2"><lg n="1" xml:id="spp-X30B17H2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X30B17H2-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-X30B17H2-headnote-3"><lg n="1" xml:id="spp-X30B17H2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X30B17H2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X30B17H2-line-1"><hi rend="display-initial">T</hi>HE Doctor's first rhyme would make any <hi rend="underline">Jew</hi> sick:</l><l/><l n="2" xml:id="spp-X30B17H2-line-2">I know it has made a fine lady in blue sick,</l><l/><l n="3" xml:id="spp-X30B17H2-line-3">For which she is gone in a coach to <hi rend="underline">Killbrew</hi> sick,</l><l/><l n="4" xml:id="spp-X30B17H2-line-4">Like a hen I once had, from a fox when she flew sick:</l><l/><l n="5" xml:id="spp-X30B17H2-line-5">Last <hi rend="underline">Monday</hi> a lady at <hi rend="underline">St. Patrick's</hi> did spew sick;</l><l/><l n="6" xml:id="spp-X30B17H2-line-6">And made all the rest of the folks in the pew sick;</l><l/><l n="7" xml:id="spp-X30B17H2-line-7">The surgeon who bled her his lancet out drew sick,</l><l/><l n="8" xml:id="spp-X30B17H2-line-8">And stopt the distemper, as being but new sick,</l><l/><l n="9" xml:id="spp-X30B17H2-line-9">The yacht, the last storm, had all her whole crew sick;</l><l/><l n="10" xml:id="spp-X30B17H2-line-10">Had we two been there, it would have made me and you sick:</l><l/><l n="11" xml:id="spp-X30B17H2-line-11">A lady that long'd, is by eating of glew sick;</l><l/><l n="12" xml:id="spp-X30B17H2-line-12">Did you ever know one in a very good Q sick?</l><l/><l n="13" xml:id="spp-X30B17H2-line-13">I'm told that my wife is by winding a clue sick;</l><l/><l n="14" xml:id="spp-X30B17H2-line-14">The doctors have made her by rhyme and by rue sick.</l><l/><l n="15" xml:id="spp-X30B17H2-line-15">There's a gamester in town, for a throw that he threw sick,</l><l/><l n="16" xml:id="spp-X30B17H2-line-16">And yet the old trade of his dice he'll pursue sick;</l><l/><l n="17" xml:id="spp-X30B17H2-line-17">I've known an old miser for paying his due sick;</l><l/><l n="18" xml:id="spp-X30B17H2-line-18">At present I am grown by a pinch of my shoe sick,</l><l/><l n="19" xml:id="spp-X30B17H2-line-19">And what would you have me with verses todo sick?</l><l/><l n="20" xml:id="spp-X30B17H2-line-20">Send rhymes, and I'll send you some others in lieu sick.</l><l/><l n="21" xml:id="spp-X30B17H2-line-21">Of rhymes I've a plenty,</l><l/><l n="22" xml:id="spp-X30B17H2-line-22">And therefore send twenty.</l><l/><l n="23" xml:id="spp-X30B17H2-line-23">Answered the same day when sent, <hi rend="underline">Nov</hi>. 23.</l><l/><l n="24" xml:id="spp-X30B17H2-line-24"><gap/></l><l/><l n="25" xml:id="spp-X30B17H2-line-25"/></lg><lg n="2" type="stanza"><l>I desire you will carry both these to the Doctor, together with his own, and let him know we are not persons to be insulted.&#13;</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

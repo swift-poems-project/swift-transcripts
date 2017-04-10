@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>D<hi rend="SMALL-CAPS">EATH</hi> and <hi rend="underline">Daphne</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RPeres"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-903-05P1-footnote-1 #spp-903-05P1-line-23"/>
+        </linkGrp>
+        <div n="903-05P1" type="poem"><head type="note" n="1" xml:id="spp-903-05P1-headnote-1"><lg n="1" xml:id="spp-903-05P1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-903-05P1-headnote-1-line-group-1-line-1">To an agreeable young Lady, but extremely lean.</l></lg></head><head type="note" n="2" xml:id="spp-903-05P1-headnote-2"><lg n="1" xml:id="spp-903-05P1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-903-05P1-headnote-2-line-group-1-line-1">Written in the Year 1730.</l></lg></head><head type="note" n="3" xml:id="spp-903-05P1-headnote-3"><lg n="1" xml:id="spp-903-05P1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-903-05P1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-903-05P1-line-1"><hi rend="display-initial">D</hi>E<hi rend="SMALL-CAPS">ATH</hi> went upon a solemn Day,</l><l n="2" xml:id="spp-903-05P1-line-2"> At <hi rend="underline">Pluto</hi>'s Hall, his Court to pay:</l><l n="3" xml:id="spp-903-05P1-line-3"> The Phantom, having humbly kist</l><l n="4" xml:id="spp-903-05P1-line-4"> His grisly Monarch's sooty Fist,</l><l n="5" xml:id="spp-903-05P1-line-5"> Presented him the weekly Bills</l><l n="6" xml:id="spp-903-05P1-line-6"> Of Doctors, Fevers, Plagues, and Pills.<hi rend="underline">Pluto</hi> observing since the Peace,</l><l n="7" xml:id="spp-903-05P1-line-7"> The Burial Article decrease;</l><l n="8" xml:id="spp-903-05P1-line-8"> And, vext to see Affairs miscarry,</l><l n="9" xml:id="spp-903-05P1-line-9"> Declar'd in Council, <hi rend="underline">Death</hi> must marry:</l><l n="10" xml:id="spp-903-05P1-line-10"> Vow'd, he no longer could support</l><l n="11" xml:id="spp-903-05P1-line-11"> Old Batchelors about his Court:</l><l n="12" xml:id="spp-903-05P1-line-12"> The Int'rest of his Realm had need</l><l n="13" xml:id="spp-903-05P1-line-13"> That <hi rend="underline">Death</hi> should get a num'rous Breed;</l><l n="14" xml:id="spp-903-05P1-line-14"> Young <hi rend="underline">Deathlings</hi>, who, by Practice made</l><l n="15" xml:id="spp-903-05P1-line-15"> Proficient in their Father's Trade,</l><l n="16" xml:id="spp-903-05P1-line-16"> With Colonies might stock around,</l><l n="17" xml:id="spp-903-05P1-line-17"> His large Dominions under Ground.</l></lg><lg n="2" type="stanza"><l n="18" xml:id="spp-903-05P1-line-18">A C<hi rend="SMALL-CAPS">ONSULT</hi> of Coquets below</l><l n="19" xml:id="spp-903-05P1-line-19"> Was call'd, to rig him out a Beau:</l><l n="20" xml:id="spp-903-05P1-line-20"> From her own Head, <hi rend="underline">Meg<unclear>ae</unclear>ra</hi> takes;</l><l n="21" xml:id="spp-903-05P1-line-21"> A Perriwig of twisted Snakes;</l><l n="22" xml:id="spp-903-05P1-line-22"> Which in the nicest Fashion curl'd,</l><l n="23" xml:id="spp-903-05P1-line-23"> Like <ref target="#spp-903-05P1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-903-05P1-footnote-1"><hi rend="underline">The Periwigs now in Fashion are so called</hi>.</note><hi rend="underline">Toupets</hi> of this upper World;</l><l n="24" xml:id="spp-903-05P1-line-24"> (With Flow'r of Sulphur powder'd well,</l><l n="25" xml:id="spp-903-05P1-line-25"> That graceful on his Shoulders fell)</l><l n="26" xml:id="spp-903-05P1-line-26"> An Adder of the sable Kind,</l><l n="27" xml:id="spp-903-05P1-line-27"> In Line direct, hung down behind.</l><l n="28" xml:id="spp-903-05P1-line-28"> The Owl, the Raven, and the Bat,</l><l n="29" xml:id="spp-903-05P1-line-29"> Club'd for a Feather to his Hat;</l><l n="30" xml:id="spp-903-05P1-line-30"> His Coat, an Us'rer's Velvet Pall,</l><l n="31" xml:id="spp-903-05P1-line-31"> Bequeath'd to <hi rend="underline">Pluto</hi>, Corps and all.</l><l n="32" xml:id="spp-903-05P1-line-32"> But loth his Person to expose</l><l n="33" xml:id="spp-903-05P1-line-33"> Bare, like a Carcase pickt by Crows,</l><l n="34" xml:id="spp-903-05P1-line-34"> A Lawyer o'er his Hands and Face,</l><l n="35" xml:id="spp-903-05P1-line-35"> Stuck artfully a Parchment Case.</l><l n="36" xml:id="spp-903-05P1-line-36"> No new-fluxt Rake shew'd fairer Skin;</l><l n="37" xml:id="spp-903-05P1-line-37"> Not <hi rend="underline">Phyllis</hi> after lying-in.</l><l n="38" xml:id="spp-903-05P1-line-38"> With Snuff was fill'd his Ebon Box,</l><l n="39" xml:id="spp-903-05P1-line-39"> Of Shin-Bones rotted by the Pox.</l><l n="40" xml:id="spp-903-05P1-line-40"> Nine Spirits of blaspheming Fops,</l><l n="41" xml:id="spp-903-05P1-line-41"> With Aconite anoint his Chops:</l><l n="42" xml:id="spp-903-05P1-line-42"> And give him Words of dreadful Sounds,</l><l n="43" xml:id="spp-903-05P1-line-43"> G──d──n his Blood, and Bl──and W──ds.</l></lg><lg n="3" type="stanza"><l n="44" xml:id="spp-903-05P1-line-44">T<hi rend="SMALL-CAPS">HUS</hi> furnisht out, he sent his Train</l><l n="45" xml:id="spp-903-05P1-line-45"> To take a House in <hi rend="underline">Warwick</hi>-Lane:</l><l n="46" xml:id="spp-903-05P1-line-46"> The <hi rend="underline">Faculty</hi>, his humble Friends,</l><l n="47" xml:id="spp-903-05P1-line-47"> A complimental Message sends:</l><l n="48" xml:id="spp-903-05P1-line-48"> Their President, in Scarlet Gown,</l><l n="49" xml:id="spp-903-05P1-line-49"> Harangu'd, and welcom'd him to Town.</l></lg><lg n="4" type="stanza"><l n="50" xml:id="spp-903-05P1-line-50">B<hi rend="SMALL-CAPS">UT</hi>, <hi rend="underline">Death</hi> had Bus'ness to dispatch:</l><l n="51" xml:id="spp-903-05P1-line-51"> His Mind was running on his Match.</l><l n="52" xml:id="spp-903-05P1-line-52"> And, hearing much of <hi rend="underline">Daphne</hi>'s Fame,</l><l n="53" xml:id="spp-903-05P1-line-53"> His <hi rend="underline">Majesty of Terrors</hi> came,</l><l n="54" xml:id="spp-903-05P1-line-54"> Fine as a Col'nel of the Guards,</l><l n="55" xml:id="spp-903-05P1-line-55"> To visit where she sat at Cards:</l><l n="56" xml:id="spp-903-05P1-line-56"> She, as he came into the Room,</l><l n="57" xml:id="spp-903-05P1-line-57"> Thought him <hi rend="underline">Adonis</hi> in his Blo<gap/></l><l n="58" xml:id="spp-903-05P1-line-58"> And now her Heart with Pleasure jumps,</l><l n="59" xml:id="spp-903-05P1-line-59"> She scarce remembers what is Trumps.</l><l n="60" xml:id="spp-903-05P1-line-60"> For, such a Shape of Skin and Bone</l><l n="61" xml:id="spp-903-05P1-line-61"> Was never seen except her own:</l><l n="62" xml:id="spp-903-05P1-line-62"> Charm'd with his Eyes and Chin and Snout,</l><l n="63" xml:id="spp-903-05P1-line-63"> Her Pocket-Glass drew slily out;</l><l n="64" xml:id="spp-903-05P1-line-64"> And grew enamour'd with her Phiz,</l><l n="65" xml:id="spp-903-05P1-line-65"> As just the Counterpart of his.</l><l n="66" xml:id="spp-903-05P1-line-66"> She darted many a private Glance,</l><l n="67" xml:id="spp-903-05P1-line-67"> And freely made the first Advance:</l><l n="68" xml:id="spp-903-05P1-line-68"> Was of her Beauty grown so vain,</l><l n="69" xml:id="spp-903-05P1-line-69"> She doubted not to win the <hi rend="underline">Swain</hi>,</l><l n="70" xml:id="spp-903-05P1-line-70"> Nothing she thought cou'd sooner gain him,</l><l n="71" xml:id="spp-903-05P1-line-71"> Than with her Wit to entertain him.</l><l n="72" xml:id="spp-903-05P1-line-72"> She askt about her Friends below;</l><l n="73" xml:id="spp-903-05P1-line-73"> This meagre Fop, that batter'd Beau:</l><l n="74" xml:id="spp-903-05P1-line-74"> Whether some late departed Toasts</l><l n="75" xml:id="spp-903-05P1-line-75"> Had got Gallants among the Ghosts?</l><l n="76" xml:id="spp-903-05P1-line-76"> If <hi rend="underline">Chloe</hi> were a Sharper still,</l><l n="77" xml:id="spp-903-05P1-line-77"> As great as ever, at Quadrille?</l><l n="78" xml:id="spp-903-05P1-line-78"> (The Ladies there must needs be Rooks,</l><l n="79" xml:id="spp-903-05P1-line-79"> For, Cards we know, are <hi rend="underline">Pluto</hi>'s Books)</l><l n="80" xml:id="spp-903-05P1-line-80"> If <hi rend="underline">Florimel</hi> had found her Love</l><l n="81" xml:id="spp-903-05P1-line-81"> For whom she hang'd herself above?</l><l n="82" xml:id="spp-903-05P1-line-82"> How oft a Week was kept a Ball</l><l n="83" xml:id="spp-903-05P1-line-83"> By <hi rend="underline">Proserpine</hi>, at <hi rend="underline">Pluto</hi>'s Hall?</l><l n="84" xml:id="spp-903-05P1-line-84"> She fancy'd, those <hi rend="underline">Elysian</hi> Shades</l><l n="85" xml:id="spp-903-05P1-line-85"> The sweetest Place for Masquerades:</l><l n="86" xml:id="spp-903-05P1-line-86"> How pleasant on the Banks of Styx,</l><l n="87" xml:id="spp-903-05P1-line-87"> To troll it in a Coach and Six!</l></lg><lg n="5" type="stanza"><l n="88" xml:id="spp-903-05P1-line-88">W<hi rend="SMALL-CAPS">HAT</hi> Pride a Female Heart enflames!</l><l n="89" xml:id="spp-903-05P1-line-89"> How endless are Ambition's Aims!</l><l n="90" xml:id="spp-903-05P1-line-90"> Cease haughty Nymph; the Fates decree<hi rend="underline">Death</hi> must not be a Spouse for thee:</l><l n="91" xml:id="spp-903-05P1-line-91"> For, when by chance the meagre Shade</l><l n="92" xml:id="spp-903-05P1-line-92"> Upon thy Hand his Finger laid;</l><l n="93" xml:id="spp-903-05P1-line-93"> Thy Hand as dry and cold as Lead,</l><l n="94" xml:id="spp-903-05P1-line-94"> His matrimonial Spirit fled;</l><l n="95" xml:id="spp-903-05P1-line-95"> He felt about his Heart a Damp,</l><l n="96" xml:id="spp-903-05P1-line-96"> That quite extinguisht <hi rend="underline">Cupid</hi>'s Lamp:</l><l n="97" xml:id="spp-903-05P1-line-97"> Away the frighted Spectre scuds,</l><l n="98" xml:id="spp-903-05P1-line-98"> And leaves my Lady in the Suds.903-05P1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

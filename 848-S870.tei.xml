@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A</title>
+        <title>POEM</title>
+        <title>ON</title>
+        <title>Cutting down the O<hi rend="SMALL-CAPS">LD </hi>T<hi rend="SMALL-CAPS">HORN</hi> at <hi rend="underline">Market Hill</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-848-S870-footnote-1 #spp-848-S870-line-40"/>
+        </linkGrp>
+        <div n="848-S870" type="poem"><head type="note" n="1" xml:id="spp-848-S870-headnote-1"><lg n="1" xml:id="spp-848-S870-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-848-S870-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-848-S870-headnote-2"><lg n="1" xml:id="spp-848-S870-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-848-S870-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-848-S870-headnote-3"><lg n="1" xml:id="spp-848-S870-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-848-S870-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-848-S870-line-1"><hi rend="display-initial">A</hi>T <hi rend="underline">Market Hill</hi>, as well appearsBy Chronicle of antient Date,</l><l n="2" xml:id="spp-848-S870-line-2"> There stood for many a hundred YearsA spacious Thorn before the Gate.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-848-S870-line-3">Hither came every Village Maid,&#13;And on the Boughs her Garland hung,</l><l n="4" xml:id="spp-848-S870-line-4"> And here, beneath the spreading Shade,Secure from Satyrs sat and sung.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-848-S870-line-5">Sir <hi rend="underline">Archibald</hi>, that val'rous Knight,The Lord of all the fruitful Plain,</l><l n="6" xml:id="spp-848-S870-line-6"> Would come and listen with Delight,For he was fond of rural Strain.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-848-S870-line-7">(Sir <hi rend="underline">Archibald</hi> whose fav'rite NameShall stand for Ages on Record,</l><l n="8" xml:id="spp-848-S870-line-8"> By <hi rend="underline">Scotish</hi> Bards of highest Fame,Wise <hi rend="underline">Hawthorden</hi> and <hi rend="underline">Sterline</hi>'s Lord.)</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-848-S870-line-9">But Time with Iron Teeth, I ween,&#13;Has canker'd all its Branches round;</l><l n="10" xml:id="spp-848-S870-line-10"> No Fruit or Blossom to be seen,Its Head reclining towards the Ground.</l></lg><lg n="6" type="stanza"><l n="11" xml:id="spp-848-S870-line-11">This aged, sickly, sapless Thorn,&#13;Which must, alas, no longer stand,</l><l n="12" xml:id="spp-848-S870-line-12"> Behold the cruel Dean in ScornCuts down with sacrilegious Hand.</l></lg><lg n="7" type="stanza"><l n="13" xml:id="spp-848-S870-line-13">Dame Nature, when she saw the Blow,&#13;Astonish'd gave a dreadful Shriek;</l><l n="14" xml:id="spp-848-S870-line-14"> And Mother <hi rend="underline">Tellus</hi> trembled so,She scarce recover'd in a Week.</l></lg><lg n="8" type="stanza"><l n="15" xml:id="spp-848-S870-line-15">The <hi rend="underline">Silvan</hi> Powers, with Fear perplex'd,In Prudence and Compassion sent</l><l n="16" xml:id="spp-848-S870-line-16"> (For none could tell whose Turn was next)Sad Omens of the dire Event.</l></lg><lg n="9" type="stanza"><l n="17" xml:id="spp-848-S870-line-17">The Magpye lighting on the Stock&#13;</l><l n="18" xml:id="spp-848-S870-line-18"> Stood chatt'ring with incessant Din;</l><l n="19" xml:id="spp-848-S870-line-19"> And with her Beak gave many a Knock</l><l n="20" xml:id="spp-848-S870-line-20"> To rouse and warn the Nymph within.</l></lg><lg n="10" type="stanza"><l n="21" xml:id="spp-848-S870-line-21">The Owl foresaw in pensive Mood&#13;</l><l n="22" xml:id="spp-848-S870-line-22"> The Ruin of her antient Seat;</l><l n="23" xml:id="spp-848-S870-line-23"> And fled in Haste with all her Brood</l><l n="24" xml:id="spp-848-S870-line-24"> To seek a more secure Retreat.</l></lg><lg n="11" type="stanza"><l n="25" xml:id="spp-848-S870-line-25">Last trotted forth a gentle Swine&#13;</l><l n="26" xml:id="spp-848-S870-line-26"> To ease her Itch against the Stump,</l><l n="27" xml:id="spp-848-S870-line-27"> And dismally was heard to whine</l><l n="28" xml:id="spp-848-S870-line-28"> All as she scrubb'd her meazly Rump.</l></lg><lg n="12" type="stanza"><l n="29" xml:id="spp-848-S870-line-29">The Nymph who dwells in every Tree,&#13;</l><l n="30" xml:id="spp-848-S870-line-30"> (If all be true that Poets chant)</l><l n="31" xml:id="spp-848-S870-line-31"> Condemn'd by Fates supreme DecreeMust die with her expiring Plant.</l></lg><lg n="13" type="stanza"><l n="32" xml:id="spp-848-S870-line-32">Thus when the gentle <hi rend="underline">Spina</hi> foundThe Thorn, committed to her Care,</l><l n="33" xml:id="spp-848-S870-line-33"> Receive its last and deadly Wound,She fled and vanish'd into Air.</l></lg><lg n="14" type="stanza"><l n="34" xml:id="spp-848-S870-line-34">But from the Root a dismal Groan&#13;First issuing struck the Murd'rer's Ears;</l><l n="35" xml:id="spp-848-S870-line-35"> And in a shrill revengeful Tone,This Prophecy he trembling hears.</l></lg><lg n="15" type="stanza"><l n="36" xml:id="spp-848-S870-line-36">“Thou chief Contriver of my Fall,&#13;“Relentless Dean to Mischief born,</l><l n="37" xml:id="spp-848-S870-line-37"> “My Kindred oft' thy Hide shall gall;“Thy Gown and Cassock oft be torn;</l></lg><lg n="16" type="stanza"><l n="38" xml:id="spp-848-S870-line-38">“And thy confed'rate Dame, who brags&#13;“That she condemn'd me to the Fire,</l><l n="39" xml:id="spp-848-S870-line-39"> “Shall rent her Petticoats to Rags,“And wound her Legs with ev'ry Bry'r.</l></lg><lg n="17" type="stanza"><l n="40" xml:id="spp-848-S870-line-40">“Nor thou, Lord <hi rend="underline">Arthur</hi><ref target="#spp-848-S870-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-848-S870-footnote-1">Sir <hi rend="underline">Arthur Archeson</hi>, mentioned in the <hi rend="underline">Soldier</hi> and <hi rend="underline">Scholar</hi>.</note>, shalt escape:“To thee I often call'd in vain,</l><l n="41" xml:id="spp-848-S870-line-41"> “Against that Assassin in Crape,“Yet thou could'st tamely see me slain,</l></lg><lg n="18" type="stanza"><l n="42" xml:id="spp-848-S870-line-42">“Nor, when I felt the dreadful Blow,&#13;“Or chid the Dean, or pinch'd thy Spouse.</l><l n="43" xml:id="spp-848-S870-line-43"> “Since you could see me treated so,“An old Retainer to your House,</l></lg><lg n="19" type="stanza"><l n="44" xml:id="spp-848-S870-line-44">“May that fell Dean, by whose Command&#13;“Was formed this <hi rend="underline">Machi'villian</hi> Plot,</l><l n="45" xml:id="spp-848-S870-line-45"> “Not leave a Thistle on the Land;“Then who will own thee for a <hi rend="underline">Scot</hi>?</l></lg><lg n="20" type="stanza"><l n="46" xml:id="spp-848-S870-line-46">“Pigs and Fanaticks, Cows, and Teagues&#13;“Through all thy Empire I foresee,</l><l n="47" xml:id="spp-848-S870-line-47"> “To tear thy Hedges join in Leagues,“Sworn to revenge my Thorn and me.</l></lg><lg n="21" type="stanza"><l n="48" xml:id="spp-848-S870-line-48">“And thou, the Wretch ordain'd by Fate,&#13;“<hi rend="underline">Neal Gahagan, Hibernian</hi> Clown,</l><l n="49" xml:id="spp-848-S870-line-49"> “With Hatchet blunter than thy Pate“To hack my hallow'd Timber down;</l></lg><lg n="22" type="stanza"><l n="50" xml:id="spp-848-S870-line-50">“When thou, suspended high in Air,&#13;“Dy'st on a more ignoble Tree,</l><l n="51" xml:id="spp-848-S870-line-51"> “(For thou shalt steal my Landlord's Mare)“Then bloody <hi rend="underline">Caitiff</hi> think on me.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

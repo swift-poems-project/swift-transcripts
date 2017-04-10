@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Epitaph on y<hi rend="sup">e</hi> Bp. of S──m.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y49-741O" type="poem"><head type="note" n="1" xml:id="spp-Y49-741O-headnote-1"><lg n="1" xml:id="spp-Y49-741O-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-741O-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y49-741O-headnote-2"><lg n="1" xml:id="spp-Y49-741O-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-741O-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y49-741O-headnote-3"><lg n="1" xml:id="spp-Y49-741O-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-741O-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y49-741O-line-1"> Here Sarum Lies,&#13;</l><l n="2" xml:id="spp-Y49-741O-line-2"> of late as wise,</l><l n="3" xml:id="spp-Y49-741O-line-3"> As learn'd as Tom Aquinus;</l><l n="4" xml:id="spp-Y49-741O-line-4"> Lawn Sleeves he wore,</l><l n="5" xml:id="spp-Y49-741O-line-5"> yet was no more,</l><l n="6" xml:id="spp-Y49-741O-line-6"> a Christian than So·cinus</l></lg><lg n="2" type="stanza"><l n="7" xml:id="spp-Y49-741O-line-7">Oaths Pro and con,&#13;</l><l n="8" xml:id="spp-Y49-741O-line-8"> He Swallow'd down,</l><l n="9" xml:id="spp-Y49-741O-line-9"> Lov'd Gold Like any Layman;</l><l n="10" xml:id="spp-Y49-741O-line-10"> Who Preach'd &amp; Pray'd,</l><l n="11" xml:id="spp-Y49-741O-line-11"> and yet Betray'd,</l><l n="12" xml:id="spp-Y49-741O-line-12"> Gods Holy Church for mammon.</l></lg><lg n="3" type="stanza"><l n="13" xml:id="spp-Y49-741O-line-13">of every Vice,&#13;</l><l n="14" xml:id="spp-Y49-741O-line-14"> he had a Spice,</l><l n="15" xml:id="spp-Y49-741O-line-15"> Altho a Reverend Prelate,</l><l n="16" xml:id="spp-Y49-741O-line-16"> Yet Liv'd and dy'd,</l><l n="17" xml:id="spp-Y49-741O-line-17"> if not Bely'd,</l><l n="18" xml:id="spp-Y49-741O-line-18"> A true Dissenting Zealot.</l></lg><lg n="4" type="stanza"><l n="19" xml:id="spp-Y49-741O-line-19">If such a soul,&#13;</l><l n="20" xml:id="spp-Y49-741O-line-20"> To Heaven be Stole,</l><l n="21" xml:id="spp-Y49-741O-line-21"> And Scap'd old Satan Clutches;</l><l n="22" xml:id="spp-Y49-741O-line-22"> We'll then presume</l><l n="23" xml:id="spp-Y49-741O-line-23"> Ther may be roome</l><l n="24" xml:id="spp-Y49-741O-line-24"> For M──────────h</l></lg><lg n="5" type="stanza"><l n="25" xml:id="spp-Y49-741O-line-25">And his D──────────s&#13;Y49-741O   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

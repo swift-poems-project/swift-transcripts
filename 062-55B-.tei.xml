@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">The</hi> D<hi rend="SMALL-CAPS">ISCOVERY</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-062-55B--footnote-1 #spp-062-55B--line-5"/>
+          <link target="#spp-062-55B--footnote-2 #spp-062-55B--line-6"/>
+          <link target="#spp-062-55B--footnote-3 #spp-062-55B--line-12"/>
+        </linkGrp>
+        <div n="062-55B-" type="poem"><head type="note" n="1" xml:id="spp-062-55B--headnote-1"><lg n="1" xml:id="spp-062-55B--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-062-55B--headnote-1-line-group-1-line-1">But another person had so far insinuated himself into the earl's favour, by telling him that the post of secretary was not proper for a clergyman, nor would be of any advantage to one whose aim was directed only at church preferment, that his lordship after a poor apology gave that office to the other. S<hi rend="SMALL-CAPS">WIFT</hi> fired with indignation at this injurious treatment, writ the following satyrical copy of verses, entitled <hi rend="underline">The Discovery</hi>; which, although privately shewn to some particular friends, was never, I think, printed in any collection of his works until the year 1751.</l></lg></head><head type="note" n="2" xml:id="spp-062-55B--headnote-2"><lg n="1" xml:id="spp-062-55B--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-062-55B--headnote-2-line-group-1-line-1">This poem as well as the subsequent in B<hi rend="SMALL-CAPS">ATHURST</hi>'s edition, which is entitled the Problem, and which indeed is far from being the most delicate of all his performances, were both written in the year 1699.</l></lg></head><head type="note" n="3" xml:id="spp-062-55B--headnote-3"><lg n="1" xml:id="spp-062-55B--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-062-55B--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-062-55B--line-1"> When wise Lord B<hi rend="SMALL-CAPS">ERKELEY</hi> first came here,Statesmen and mob expected wonders,</l><l n="2" xml:id="spp-062-55B--line-2"> Nor thought to find so great a peer,E're a week pass'd committing blunders.</l><l n="3" xml:id="spp-062-55B--line-3"> Till on a day cut out by fateWhen folks came thick to make their court,</l><l n="4" xml:id="spp-062-55B--line-4"> Out slipt a mystery of state,To give the town and country sport.</l><l n="5" xml:id="spp-062-55B--line-5"> Now enters B<hi rend="SMALL-CAPS">USH</hi><ref target="#spp-062-55B--footnote-1">1</ref><note place="foot" n="1" xml:id="spp-062-55B--footnote-1">My lord's wise secretary.</note> with new state airs,His lordship's premier minister;</l><l n="6" xml:id="spp-062-55B--line-6"> And who in all profound affairs,Is held as needful as his c──ter.<ref target="#spp-062-55B--footnote-2">2</ref><note place="foot" n="2" xml:id="spp-062-55B--footnote-2">Always taken before my lord went to council.</note></l><l n="7" xml:id="spp-062-55B--line-7"> With head reclining on his shoulder,He deals and hears mysterious chat,</l><l n="8" xml:id="spp-062-55B--line-8"> While ev'ry ignorant beholderAsks of his neighbour, who is that?</l><l n="9" xml:id="spp-062-55B--line-9"> With this he puts up to my lord,The courtiers kept their distance due,</l><l n="10" xml:id="spp-062-55B--line-10"> He twitch'd his sleeve, and stole a word;Then to a corner both withdrew.</l><l n="11" xml:id="spp-062-55B--line-11"> Imagine now my lord and B<hi rend="SMALL-CAPS">USH</hi>Whisp'ring in junto most profound,</l><l n="12" xml:id="spp-062-55B--line-12"> Like good king P<hi rend="SMALL-CAPS">HYZ</hi><ref target="#spp-062-55B--footnote-3">3</ref><note place="foot" n="3" xml:id="spp-062-55B--footnote-3">Vid the Rehearsal.</note>, and good king U<hi rend="SMALL-CAPS">SH</hi>,While all the rest stood gaping round.</l><l n="13" xml:id="spp-062-55B--line-13"> At length a spark, not too well bred,Of forward face, and ear acute,</l><l n="14" xml:id="spp-062-55B--line-14"> Advanc'd on tiptoe, lean'd his head,To over-hear the grand dispute.</l><l n="15" xml:id="spp-062-55B--line-15"> To learn what northern kings design,Or from <hi rend="underline">Whitehall</hi> some new express,</l><l n="16" xml:id="spp-062-55B--line-16"> Papists disarm'd, or fall of coin,For sure (thought he) it can't be less.</l><l n="17" xml:id="spp-062-55B--line-17"> My lord, said B<hi rend="SMALL-CAPS">USH</hi>, a friend and IDisguis'd in two old thread-bare coats,</l><l n="18" xml:id="spp-062-55B--line-18"> E're morning's dawn stole out to spyHow markets went for hay and oats:</l><l n="19" xml:id="spp-062-55B--line-19"> With that he draws two handfuls out,The one was oats, the other hay;</l><l n="20" xml:id="spp-062-55B--line-20"> Puts this to's excellency's snout,And begs he wou'd the other weigh.</l><l n="21" xml:id="spp-062-55B--line-21"> My lord seems pleas'd, but still directsBy all means to bring down the rates;</l><l n="22" xml:id="spp-062-55B--line-22"> Then with a congee circumflex,B<hi rend="SMALL-CAPS">USH</hi>, smiling round on all, retreats.</l><l n="23" xml:id="spp-062-55B--line-23"> Our list'ner stood a while confus'd,But gath'ring spirits wisely ran for't,</l><l n="24" xml:id="spp-062-55B--line-24"> Enrag'd to see the world abus'dBy two such whisp'ring kings of <hi rend="underline">Brentford</hi>.062-55B-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

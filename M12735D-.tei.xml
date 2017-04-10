@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">To a </hi>Clergyman<hi rend="underline">, Residing in a beauti-</hi></title>
+        <title><hi rend="underline">ful </hi>Vale<hi rend="underline"> in </hi>Norfolk<hi rend="underline">, on his resolving</hi></title>
+        <title><hi rend="underline">to live in </hi>London.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M12735D-" type="poem"><head type="note" n="1" xml:id="spp-M12735D--headnote-1"><lg n="1" xml:id="spp-M12735D--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M12735D--headnote-1-line-group-1-line-1"><hi rend="underline">Heu! fuge crudeles terras, &amp; littus avarum</hi>. Virg.</l></lg></head><head type="note" n="2" xml:id="spp-M12735D--headnote-2"><lg n="1" xml:id="spp-M12735D--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M12735D--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M12735D--headnote-3"><lg n="1" xml:id="spp-M12735D--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M12735D--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-M12735D--line-1"><hi rend="display-initial">S</hi>INCE you're resolv'd, dear Sir, t' abandon</l><l n="2" xml:id="spp-M12735D--line-2"> Your <hi rend="underline">North-East Coast</hi>, and live in <hi rend="underline">London</hi>;</l><l n="3" xml:id="spp-M12735D--line-3"> Here, in your Coach, to make a Figure,</l><l n="4" xml:id="spp-M12735D--line-4"> (Your <hi rend="underline">Purse</hi> and <hi rend="underline">Belly</hi> ne'er the bigger)</l><l n="5" xml:id="spp-M12735D--line-5"> Consider, well, th' important Step,</l><l n="6" xml:id="spp-M12735D--line-6"> And look, I pray, before you leap.Supposing, now, remitted clear,<hi rend="underline">Three Hundred Pounds</hi>, my Friend, a Year:</l><l n="7" xml:id="spp-M12735D--line-7"> Tho', if I am not ill instructed,<hi rend="underline">Exchange on Bills</hi>, being first deducted;</l><l n="8" xml:id="spp-M12735D--line-8"> The <hi rend="underline">Proctor</hi> next, then <hi rend="underline">Curate</hi> paid;</l><l n="9" xml:id="spp-M12735D--line-9"> There is not so much to be had.</l><l n="10" xml:id="spp-M12735D--line-10"> Deduct, too, <hi rend="underline">Tythe of Pigs</hi> and <hi rend="underline">Geese</hi>;</l><l n="11" xml:id="spp-M12735D--line-11"> Some <hi rend="underline">Fish</hi>, some <hi rend="underline">Eggs</hi>, and things like these;</l><l n="12" xml:id="spp-M12735D--line-12"> Which (with <hi rend="underline">Book-Dues</hi>) I dare aver it,</l><l n="13" xml:id="spp-M12735D--line-13"> Would pay your <hi rend="underline">annual Cost of Claret</hi>.Suppose, again, then, which is true,</l><l n="14" xml:id="spp-M12735D--line-14"> Instead of <hi rend="underline">Three</hi>, but <hi rend="underline">Hundreds Two</hi>:</l><l n="15" xml:id="spp-M12735D--line-15"> Are you so much, Sir, in the Dark yet,</l><l n="16" xml:id="spp-M12735D--line-16"> To think this Sum will go to Market</l><l n="17" xml:id="spp-M12735D--line-17"> Twelve Months, without your being undone,</l><l n="18" xml:id="spp-M12735D--line-18"> Where every thing's so dear, in <hi rend="underline">London</hi>?</l><l n="19" xml:id="spp-M12735D--line-19"> Where it confounds the deepest Sages,</l><l n="20" xml:id="spp-M12735D--line-20"> To pay <hi rend="underline">House-Rent</hi> and <hi rend="underline">Servants Wages</hi>!</l><l n="21" xml:id="spp-M12735D--line-21"> To lay in <hi rend="underline">Coals</hi>, both <hi rend="underline">small</hi> and <hi rend="underline">great</hi>;</l><l n="22" xml:id="spp-M12735D--line-22"> Which keep you warm, and dress your Meat:</l><l n="23" xml:id="spp-M12735D--line-23"> Where great Estates away are swept,</l><l n="24" xml:id="spp-M12735D--line-24"> By running in the <hi rend="underline">Tradesmens Debt</hi>.</l><l n="25" xml:id="spp-M12735D--line-25"> Believe me, Sir, 'twill never do here;</l><l n="26" xml:id="spp-M12735D--line-26"> Consider <hi rend="underline">Baker</hi> first, then <hi rend="underline">Brewer</hi>,</l><l n="27" xml:id="spp-M12735D--line-27"> Bethink the Charge it does create,</l><l n="28" xml:id="spp-M12735D--line-28"> Only of one <hi rend="underline">plain Joint</hi> to eat;</l><l n="29" xml:id="spp-M12735D--line-29"> And that a <hi rend="underline">Tip-top Dish</hi>, well drest,</l><l n="30" xml:id="spp-M12735D--line-30"> Costs more, than makes a <hi rend="underline">Norfolk Feast</hi>.Besides, Sir, you can have no Notion</l><l n="31" xml:id="spp-M12735D--line-31"> Of the Expence of <hi rend="underline">Local Motion</hi>:</l><l n="32" xml:id="spp-M12735D--line-32"> Pause well, before you do begin it;</l><l n="33" xml:id="spp-M12735D--line-33"> A Farthing is (for every Minute)</l><l n="34" xml:id="spp-M12735D--line-34"> The Price, to set you barely down,</l><l n="35" xml:id="spp-M12735D--line-35"> In paultry <hi rend="underline">Hacks</hi> and <hi rend="underline">Chairs</hi> in Town;</l><l n="36" xml:id="spp-M12735D--line-36"> And this would keep a <hi rend="underline">Coach</hi> with you,<hi rend="underline">And Six────Coachman, Posiilion</hi> too;</l><l n="37" xml:id="spp-M12735D--line-37"> But <hi rend="underline">Sawce</hi> and <hi rend="underline">Pickles</hi>, when you dine,</l><l n="38" xml:id="spp-M12735D--line-38"> A <hi rend="underline">Dram</hi>, and <hi rend="underline">Glass or Two of Wine</hi>.</l><l n="39" xml:id="spp-M12735D--line-39"> Again, <hi rend="underline">Contingent Charges</hi> are</l><l n="40" xml:id="spp-M12735D--line-40"> So numerous, they'd make you stare:</l><l n="41" xml:id="spp-M12735D--line-41"> To <hi rend="underline">Plays</hi> and <hi rend="underline">Operas</hi> you must steal;</l><l n="42" xml:id="spp-M12735D--line-42"> And, if you're led by <hi rend="underline">Sabbath Zeal</hi></l><l n="43" xml:id="spp-M12735D--line-43"> To <hi rend="underline">Church</hi>, 'twill cost you, deadly dear,</l><l n="44" xml:id="spp-M12735D--line-44"> For <hi rend="underline">Elbow Room</hi>, to say your <hi rend="underline">Prayer</hi>.</l><l n="45" xml:id="spp-M12735D--line-45"> And there are <hi rend="underline">Taverns, Toy-shops, Shows</hi>,<hi rend="underline">Monsters, Abortions, Embryo's</hi>;</l><l n="46" xml:id="spp-M12735D--line-46"> The <hi rend="underline">Tow'r</hi> and <hi rend="underline">Wax-work</hi>, that command</l><l n="47" xml:id="spp-M12735D--line-47"> Your Pence, and <hi rend="underline">Fawks's Sleight of Hand</hi>.<hi rend="underline">News──Journals, Books</hi>, (if you're inclin'd)</l><l n="48" xml:id="spp-M12735D--line-48"> Thieves, Beggars, Cheats, of various kind;</l><l n="49" xml:id="spp-M12735D--line-49"> From <hi rend="underline">Lilly</hi>, fam'd for <hi rend="underline">Tongue-Pad</hi> Skill,</l><l n="50" xml:id="spp-M12735D--line-50"> To the <hi rend="underline">Orators on Ludgate-Hill</hi>.</l><l n="51" xml:id="spp-M12735D--line-51"> With Thousand <hi rend="underline">Taxes</hi>, they amerce one;</l><l n="52" xml:id="spp-M12735D--line-52"> To starve the <hi rend="underline">Poor</hi>, and glut the <hi rend="underline">Parson</hi>.Again, your Friends make constant Sport on,<hi rend="underline">Five thousand Pounds</hi>! your <hi rend="underline">Yorkshire Fortune</hi>.</l><l n="53" xml:id="spp-M12735D--line-53"> And say, in short, you're fairly Bit;</l><l n="54" xml:id="spp-M12735D--line-54"> Had better ta'en a <hi rend="underline">Norfolk</hi> Tit.</l><l n="55" xml:id="spp-M12735D--line-55"> With <hi rend="underline">half five hundred</hi>; and staid there,</l><l n="56" xml:id="spp-M12735D--line-56"> To wake and sleep, secure; and cheer</l><l n="57" xml:id="spp-M12735D--line-57"> Your Heart, with cheap or unbought Food;<hi rend="underline">And save your Saul by doing Good</hi>.</l><l n="58" xml:id="spp-M12735D--line-58"> Behold the Pleasures of the <hi rend="underline">Vale</hi>!</l><l n="59" xml:id="spp-M12735D--line-59"> The <hi rend="underline">Racy Cyder, Amber Ale</hi>;<hi rend="underline">Fresh Fish</hi>, accounted so inviting,</l><l n="60" xml:id="spp-M12735D--line-60"> From largest <hi rend="underline">Cod</hi>, to smallest <hi rend="underline">Whiteing</hi>.</l><l n="61" xml:id="spp-M12735D--line-61"> And <hi rend="underline">Turbot boil'd</hi>! delicious Food!</l><l n="62" xml:id="spp-M12735D--line-62"> And <hi rend="underline">Turbot sous'd</hi>! so wond'rous good!</l><l n="63" xml:id="spp-M12735D--line-63"> And <hi rend="underline">Pilcher</hi> dry'd;────itself a Feast!</l><l n="64" xml:id="spp-M12735D--line-64"> Or freshest <hi rend="underline">Eggs</hi>, with saltest <hi rend="underline">Ling</hi>:</l><l n="65" xml:id="spp-M12735D--line-65"> To pass by many other Thing;</l><l n="66" xml:id="spp-M12735D--line-66"> And so I'll end my tedious Story,</l><l n="67" xml:id="spp-M12735D--line-67"> Both Cases being laid before ye.M12735D-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

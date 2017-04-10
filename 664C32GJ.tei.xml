@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">On Her </hi>MAJESTY's<hi rend="underline"> setting up the Bustoes of</hi></title>
+        <title><hi rend="underline">Mr</hi> L<hi rend="SMALL-CAPS">OCK</hi>, <hi rend="underline">Sir</hi> I<hi rend="SMALL-CAPS">SAAC </hi>N<hi rend="SMALL-CAPS">EWTON<hi rend="underline">, Mr</hi> W<hi rend="SMALL-CAPS">OO-</hi></hi></title>
+        <title>
+          <hi rend="SMALL-CAPS">LASTON<hi rend="underline">, and Dr</hi> C<hi rend="SMALL-CAPS">LARK</hi>, <hi rend="underline">in the</hi> H<hi rend="SMALL-CAPS">ERMI-</hi></hi>
+        </title>
+        <title><hi rend="SMALL-CAPS">TAGE</hi> <hi rend="underline">at</hi> R<hi rend="SMALL-CAPS">ICHMOND</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="664C32GJ" type="poem"><head type="note" n="1" xml:id="spp-664C32GJ-headnote-1"><lg n="1" xml:id="spp-664C32GJ-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-664C32GJ-headnote-1-line-group-1-line-1"><hi rend="underline">Sic siti lætantur Dacti.</hi></l></lg></head><head type="note" n="2" xml:id="spp-664C32GJ-headnote-2"><lg n="1" xml:id="spp-664C32GJ-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-664C32GJ-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-664C32GJ-headnote-3"><lg n="1" xml:id="spp-664C32GJ-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-664C32GJ-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-664C32GJ-line-1"><hi rend="display-initial">W</hi>ITH Honour, thus by <hi rend="underline">Carolina</hi> plac'd,</l><l n="2" xml:id="spp-664C32GJ-line-2"> How are those venerable Bustoes grac'd!</l><l n="3" xml:id="spp-664C32GJ-line-3"> O Queen! with more than regal Title crown'd,</l><l n="4" xml:id="spp-664C32GJ-line-4"> For Love of Arts and Piety renown'd!</l><l n="5" xml:id="spp-664C32GJ-line-5"> How do the Friends of Virtue joy to see</l><l n="6" xml:id="spp-664C32GJ-line-6"> Her darling Sons exalted thus by Thee!</l><l n="7" xml:id="spp-664C32GJ-line-7"> Nought to their Fame can now be added more,</l><l n="8" xml:id="spp-664C32GJ-line-8"> Rever'd by her whom all Mankind adore.664C32GJ   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

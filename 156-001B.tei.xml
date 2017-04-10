@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Fable of Midas. Written AD. 1711.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KZeigler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="156-001B" type="poem"><head type="note" n="1" xml:id="spp-156-001B-headnote-1"><lg n="1" xml:id="spp-156-001B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-156-001B-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-156-001B-headnote-2"><lg n="1" xml:id="spp-156-001B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-156-001B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-156-001B-headnote-3"><lg n="1" xml:id="spp-156-001B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-156-001B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-156-001B-line-1">Midas, we are in Story told,&#13;</l><l n="2" xml:id="spp-156-001B-line-2"> Turn'd ev'ry thing he touch't to <hi rend="underline">Gold</hi>:</l><l n="3" xml:id="spp-156-001B-line-3"> He <hi rend="underline">chip't</hi> his <hi rend="underline">Bread</hi>, the Pieces round</l><l n="4" xml:id="spp-156-001B-line-4"> Glitter'd like Spangles on the Ground:</l><l n="5" xml:id="spp-156-001B-line-5"> A Codling e'er it went his Lip in,</l><l n="6" xml:id="spp-156-001B-line-6"> Would Strait become a <hi rend="underline">Golden</hi> Pippin:</l><l n="7" xml:id="spp-156-001B-line-7"> He call'd for Drink, you saw him sup<hi rend="underline">Potable Gold</hi> in <hi rend="underline">Golden Cup</hi>.</l><l n="8" xml:id="spp-156-001B-line-8"> His empty Paunch that he might fill,</l><l n="9" xml:id="spp-156-001B-line-9"> He suck't his Vittels thro' a Quill;</l><l n="10" xml:id="spp-156-001B-line-10"> Untouch't it pass't between his Grinders,</l><l n="11" xml:id="spp-156-001B-line-11"> Or't had been happy for <hi rend="underline">Gold-finders</hi>.</l><l n="12" xml:id="spp-156-001B-line-12"> He cock't his Hat, you would have said<hi rend="underline">Mambrino</hi>'s Helm adorn'd his Head.</l><l n="13" xml:id="spp-156-001B-line-13"> Whene'er he chanc'd his Hands to lay,</l><l n="14" xml:id="spp-156-001B-line-14"> On Magazines of <hi rend="underline">Corn</hi> or <hi rend="underline">Hay<unclear>character obliterated</unclear>,</hi> ready Coyn'd appear'd, instead</l><l n="15" xml:id="spp-156-001B-line-15"> Gold</l><l n="16" xml:id="spp-156-001B-line-16"> Of paultry <hi rend="underline">Provender</hi> and <hi rend="underline">Bread</hi>:</l><l n="17" xml:id="spp-156-001B-line-17"> Hence we are by wise Farmers told,<hi rend="underline">Old </hi>Hay<hi rend="underline"> is equal to Old</hi> Gold;</l><l n="18" xml:id="spp-156-001B-line-18"> And hence a Critick deep maintains,</l><l n="19" xml:id="spp-156-001B-line-19"> We learn't to weigh our <hi rend="underline">Gold</hi> by <hi rend="underline">Grains</hi>.This <hi rend="underline">Fool</hi> had got a <hi rend="underline">lucky Hit</hi>,</l><l n="20" xml:id="spp-156-001B-line-20"> And People fancy'd he had Wit:</l><l n="21" xml:id="spp-156-001B-line-21"> Two Gods their Skill in Musick try'd<hi rend="underline">,</hi></l><l n="22" xml:id="spp-156-001B-line-22"> And both chose <hi rend="underline">Midas</hi> to decide;</l><l n="23" xml:id="spp-156-001B-line-23"> He against <hi rend="underline">Phebus</hi> Harp decreed,</l><l n="24" xml:id="spp-156-001B-line-24"> And gave it for <hi rend="underline">Pan</hi>'s oaten Reed:</l><l n="25" xml:id="spp-156-001B-line-25"> The God of Wit to shew his Grudge,</l><l n="26" xml:id="spp-156-001B-line-26"> Clap't <hi rend="underline">Asses</hi> Ears upon the Iudge,</l><l n="27" xml:id="spp-156-001B-line-27"> A goodly pair, erect and wide,</l><l n="28" xml:id="spp-156-001B-line-28"> Which he could neither <hi rend="underline">Gild</hi> nor hide.And now the Virtue of his <hi rend="underline">Hands</hi>,</l><l n="29" xml:id="spp-156-001B-line-29"> Was lost among <hi rend="underline">Pactolus</hi> Sands,</l><l n="30" xml:id="spp-156-001B-line-30"> Against whose Torrent while he swims,</l><l n="31" xml:id="spp-156-001B-line-31"> The Golden Scurf peels off his Limbs:</l><l n="32" xml:id="spp-156-001B-line-32"> Fame spreads the News, and People travel</l><l n="33" xml:id="spp-156-001B-line-33"> From far, to gather <hi rend="underline">golden</hi> Gravel;<hi rend="underline">Midas</hi>, expos'd to all their Iears,</l><l n="34" xml:id="spp-156-001B-line-34"> Had lost his <hi rend="underline">Art</hi>, and kept his Ears.This Tale inclines the gentle Reader;</l><l n="35" xml:id="spp-156-001B-line-35"> To think upon a certain <hi rend="underline">Leader</hi>,</l><l n="36" xml:id="spp-156-001B-line-36"> To whom from <hi rend="underline">Midas</hi> down, descends</l><l n="37" xml:id="spp-156-001B-line-37"> That Virtue in the Fingers ends:</l><l n="38" xml:id="spp-156-001B-line-38"> What else by <hi rend="underline">Perquisites</hi> are meant,</l><l n="39" xml:id="spp-156-001B-line-39"> By <hi rend="underline">Pensions, Bribes</hi>, and <hi rend="underline">three per Cent</hi>?</l><l n="40" xml:id="spp-156-001B-line-40"> By <hi rend="underline">Places</hi> and <hi rend="underline">Commissions</hi> sold,</l><l n="41" xml:id="spp-156-001B-line-41"> And turning <hi rend="underline">Dung</hi> it Self to <hi rend="underline">Gold</hi>?</l><l n="42" xml:id="spp-156-001B-line-42"> By Starving in the midst of Store,</l><l n="43" xml:id="spp-156-001B-line-43"> As t'other <hi rend="underline">Midas</hi> did before?None e'er did modern <hi rend="underline">Midas</hi> chuse,</l><l n="44" xml:id="spp-156-001B-line-44"> Subject or Patron of his Muse,</l><l n="45" xml:id="spp-156-001B-line-45"> But found him thus <unclear>word scrawled over</unclear>their Merit Scan,</l><l n="46" xml:id="spp-156-001B-line-46"> That <hi rend="underline">Phebus</hi> must give Place to <hi rend="underline">Pan</hi>:</l><l n="47" xml:id="spp-156-001B-line-47"> He values not the Poet's Praise,</l><l n="48" xml:id="spp-156-001B-line-48"> Nor will exchange His <hi rend="underline">Plumbs</hi> for <hi rend="underline">Bays</hi>:</l><l n="49" xml:id="spp-156-001B-line-49"> To Pan alone rich Misers call,</l><l n="50" xml:id="spp-156-001B-line-50"> And there's the jest, for <hi rend="underline">Pan</hi> is <hi rend="underline">All</hi>:</l><l n="51" xml:id="spp-156-001B-line-51"> Here <hi rend="underline">English</hi> Wits will be to seek,</l><l n="52" xml:id="spp-156-001B-line-52"> Howe'er, '<hi rend="underline">tis all one in the</hi> Greek.Besides, it plainly now appears,</l><l n="53" xml:id="spp-156-001B-line-53"> Our Midas too has Asses Ears;</l><l n="54" xml:id="spp-156-001B-line-54"> Where every Fool his Mouth applies,</l><l n="55" xml:id="spp-156-001B-line-55"> And whispers in a thousand Lies;</l><l n="56" xml:id="spp-156-001B-line-56"> Such gross Delusions could not pass,</l><l n="57" xml:id="spp-156-001B-line-57"> Thro' any Ears but of an <hi rend="underline">Ass</hi>.But <hi rend="underline">Gold</hi> defiles with frequent Touch,</l><l n="58" xml:id="spp-156-001B-line-58"> There's nothing fouls the Hands so much:</l><l n="59" xml:id="spp-156-001B-line-59"> And Scholars give it for the Cause,</l><l n="60" xml:id="spp-156-001B-line-60"> Of <hi rend="underline">British Midas</hi> dirty Paws;</l><l n="61" xml:id="spp-156-001B-line-61"> Which while the Senate Strove to Scower,</l><l n="62" xml:id="spp-156-001B-line-62"> They washt away the <hi rend="underline">Chymick</hi> Power.</l><l n="63" xml:id="spp-156-001B-line-63"> While He his utmost Strength apply'd,</l><l n="64" xml:id="spp-156-001B-line-64"> To Swim against this <hi rend="underline">Pop'lar Tide</hi>,</l><l n="65" xml:id="spp-156-001B-line-65"> The <hi rend="underline">Golden</hi> Spoils flew off apace,</l><l n="66" xml:id="spp-156-001B-line-66"> Here fell a <hi rend="underline">Pension</hi>, there a <hi rend="underline">Place</hi>:</l><l n="67" xml:id="spp-156-001B-line-67"> The Torrent, merciless, imbibes<hi rend="underline">Commissions, Perquisites</hi>, and <hi rend="underline">Bribes</hi>,</l><l n="68" xml:id="spp-156-001B-line-68"> By their own Weight Sunk to the Bottom;</l><l n="69" xml:id="spp-156-001B-line-69"> Much good may do 'em that have caught 'um.</l><l n="70" xml:id="spp-156-001B-line-70"> And <hi rend="underline">Midas</hi> now neglected stands,</l><l n="71" xml:id="spp-156-001B-line-71"> With <hi rend="underline">Asses Ears</hi>, and <hi rend="underline">dirty Hands</hi>.156-001B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

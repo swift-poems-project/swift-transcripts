@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">A </hi>BALLAD<hi rend="underline"> on the Game of</hi> T<hi rend="SMALL-CAPS">RAFFICK</hi>:</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-074-0801-footnote-1 #spp-074-0801-line-1"/>
+        </linkGrp>
+        <div n="074-0801"><head type="note" n="1" xml:id="spp-074-0801-headnote-1"><lg n="1" xml:id="spp-074-0801-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-074-0801-headnote-1-line-group-1-line-1"><hi rend="underline">Written at the Castle of </hi>Dublin<hi rend="underline">, in the Time of the Earl of </hi>Berkeley's<hi rend="underline"> Government</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-074-0801-headnote-2"><lg n="1" xml:id="spp-074-0801-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-074-0801-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-074-0801-headnote-3"><lg n="1" xml:id="spp-074-0801-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-074-0801-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-074-0801-line-1"><hi rend="black-letter">M</hi><hi rend="underline">Y </hi><ref target="#spp-074-0801-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-074-0801-footnote-1">The Earl of Berkeley.</note><hi rend="underline"> Lord</hi> to find out who must deal</l><l/><l n="2" xml:id="spp-074-0801-line-2">Delivers Cards about,</l><l/><l n="3" xml:id="spp-074-0801-line-3">But the first Knave does seldom fail</l><l/><l n="4" xml:id="spp-074-0801-line-4">To find the <hi rend="underline">Doctor</hi> out.</l><l/><l n="5" xml:id="spp-074-0801-line-5"/></lg><lg n="2" type="stanza"><l>But then his <hi rend="underline">Honour</hi> cry'd, Godzooks!</l><l/><l n="6" xml:id="spp-074-0801-line-6">And seem'd to knit his Brow;</l><l/><l n="7" xml:id="spp-074-0801-line-7">For on a Knave he never looks</l><l/><l n="8" xml:id="spp-074-0801-line-8">But H' thinks upon <hi rend="underline">Jack How</hi>.</l><l/><l n="9" xml:id="spp-074-0801-line-9"/></lg><lg n="3" type="stanza"><l>My <hi rend="underline">Lady</hi> tho' she is no Player</l><l/><l n="10" xml:id="spp-074-0801-line-10">Some bungling Partner takes,</l><l/><l n="11" xml:id="spp-074-0801-line-11">And wedg'd in Corner of a Chair</l><l/><l n="12" xml:id="spp-074-0801-line-12">Takes Snuff, and holds the Stakes.</l><l/><l n="13" xml:id="spp-074-0801-line-13"/></lg><lg n="4" type="stanza"><l>Dame <hi rend="underline">Floyd</hi> looks out in grave Suspence</l><l/><l n="14" xml:id="spp-074-0801-line-14">For Pair-royals and Sequents;</l><l/><l n="15" xml:id="spp-074-0801-line-15">But wisely cautious of her Pence,</l><l/><l n="16" xml:id="spp-074-0801-line-16">The Castle seldom frequents.</l><l/><l n="17" xml:id="spp-074-0801-line-17"/></lg><lg n="5" type="stanza"><l>Quoth <hi rend="underline">Herries</hi>, fairly putting Cases,</l><l/><l n="18" xml:id="spp-074-0801-line-18">I'd won it on my Word,</l><l/><l n="19" xml:id="spp-074-0801-line-19">If I had put a Pair of Aces,</l><l/><l n="20" xml:id="spp-074-0801-line-20">And could pick up a Third.</l><l/><l n="21" xml:id="spp-074-0801-line-21"/></lg><lg n="6" type="stanza"><l>But <hi rend="underline">Weston</hi> has a new-cast Gown</l><l/><l n="22" xml:id="spp-074-0801-line-22">On <hi rend="underline">Sundays</hi> to be fine in,</l><l/><l n="23" xml:id="spp-074-0801-line-23">And if she can but win a <hi rend="underline">Crown</hi>,</l><l/><l n="24" xml:id="spp-074-0801-line-24">'Twill just new dye the Lining.</l><l/><l n="25" xml:id="spp-074-0801-line-25"/></lg><lg n="7" type="stanza"><l>“With these is Parson <hi rend="underline">Swift</hi>,</l><l/><l n="26" xml:id="spp-074-0801-line-26">“Not knowing how to spend his Time,</l><l/><l n="27" xml:id="spp-074-0801-line-27">“Does make a wretched Shift,</l><l/><l n="28" xml:id="spp-074-0801-line-28">“To deafen 'em with Puns and Rhime.</l><l/><l n="29" xml:id="spp-074-0801-line-29"/></lg><lg n="8" type="stanza"><l><hi rend="underline">Lady </hi>Betty Berkeley<hi rend="underline"> finding this Ballad in the Author's Room unfinished, she underwrit the last Stanza, and left the Paper where she had found it; which occasioned the following Song, that the Author wrote in a counterfeit Hand, as if a third Person had done it.</hi></l></lg><lg n="9" type="stanza"><l/></lg><lg n="10" type="stanza"><l rend="align(center)">A SONG, to the Tune of the Cut-purse.</l></lg><lg n="11" type="stanza"><l rend="flush left"/></lg><lg n="12" type="stanza"><l rend="flush right"><hi rend="underline">See Swift's Poems</hi></l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

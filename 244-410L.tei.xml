@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>O Rourke's noble Feast will ne'er be forgot</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="244-410L" type="poem"><head type="note" n="1" xml:id="spp-244-410L-headnote-1"><lg n="1" xml:id="spp-244-410L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-244-410L-headnote-1-line-group-1-line-1">from a literal translation of the original Irish</l></lg></head><head type="note" n="2" xml:id="spp-244-410L-headnote-2"><lg n="1" xml:id="spp-244-410L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-244-410L-headnote-2-line-group-1-line-1">by Dean Swift</l></lg></head><head type="note" n="3" xml:id="spp-244-410L-headnote-3"><lg n="1" xml:id="spp-244-410L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-244-410L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-244-410L-line-1"> O Rourke's noble fare will ne'er be forgot&#13;</l><l n="2" xml:id="spp-244-410L-line-2"> By those who were there or those who were not</l><l n="3" xml:id="spp-244-410L-line-3"> His revels to keep we sup &amp; we dine</l><l n="4" xml:id="spp-244-410L-line-4"> On seven score sheep fat bullocks &amp; Swine</l><l n="5" xml:id="spp-244-410L-line-5"> Usquebagh to our feast in pails is brought up</l><l n="6" xml:id="spp-244-410L-line-6"> A hundred at least &amp; a Madder our Cup<gap/><gap/><gap/><gap/><gap/><gap/></l></lg><lg n="2" type="stanza"><l n="7" xml:id="spp-244-410L-line-7">Come Harper strike up, but first by your favor&#13;</l><l n="8" xml:id="spp-244-410L-line-8"> Boy give us a Cup, Ah, this has some savour</l><l n="9" xml:id="spp-244-410L-line-9"> O'Rourke's jolly boys ne'er dream't of the matter</l><l n="10" xml:id="spp-244-410L-line-10"> Till rous'd by the noise &amp; musical clatter<gap/><gap/></l><l n="11" xml:id="spp-244-410L-line-11"> They·<del>bounce from their nest, no longer will tarry</del> dance in a round cutting Capers &amp; ramping<del>They are ready drest without one Ave Mary</del>·A mercy the Ground did not burst with their stamping<gap/><gap/><gap/><gap/></l></lg><lg n="3" type="stanza"><l n="12" xml:id="spp-244-410L-line-12">Bring Straw for our bed, shake it down to the feet&#13;</l><l n="13" xml:id="spp-244-410L-line-13"> Then over us spread the winnowing sheet</l><l n="14" xml:id="spp-244-410L-line-14"> To shew I dont flinch fill the bowl up again</l><l n="15" xml:id="spp-244-410L-line-15"> Then give us a pinch of your sneeshin, a yean</l><l n="16" xml:id="spp-244-410L-line-16"> Good Lord! what a sight after all their good cheer</l><l n="17" xml:id="spp-244-410L-line-17"> For people to fight in the midst of their Beer!<gap/><gap/><gap/><gap/><gap/><gap/></l></lg><lg n="4" type="stanza"><l n="18" xml:id="spp-244-410L-line-18">You Churl, I'll maintain my Father built <unclear>Lusk overLeek inpencil</unclear></l><l n="19" xml:id="spp-244-410L-line-19"> The Castle of Slane &amp; Carrick Drumrusk</l><l n="20" xml:id="spp-244-410L-line-20"> The Earl of Kildare &amp; Mo<unclear>y overg inpencil</unclear>nalta his brother</l><l n="21" xml:id="spp-244-410L-line-21"> As great as they are, I was nurs'd by their Mother</l><l n="22" xml:id="spp-244-410L-line-22"> Ask that of old Madam, she'll tell you who's who</l><l n="23" xml:id="spp-244-410L-line-23"> As far up as Adam, she knows it is true<gap/><gap/>244-410L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

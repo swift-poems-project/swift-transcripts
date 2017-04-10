@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ocasional Conformity.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X96A904A" type="poem"><head type="note" n="1" xml:id="spp-X96A904A-headnote-1"><lg n="1" xml:id="spp-X96A904A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X96A904A-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X96A904A-headnote-2"><lg n="1" xml:id="spp-X96A904A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X96A904A-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X96A904A-headnote-3"><lg n="1" xml:id="spp-X96A904A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X96A904A-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X96A904A-line-1"> Occasionally as we discourst&#13;Of State; &amp; Church, &amp; Nation;</l><l n="2" xml:id="spp-X96A904A-line-2"> Occasionally we took to viewThat Engin, call'd Occasion.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-X96A904A-line-3">Occasion fram'd for nothing else&#13;But to Occasion mischief;</l><l n="4" xml:id="spp-X96A904A-line-4"> A Cloak to Cover Hipocrites,O whom y<hi rend="sup">e</hi> Devil is chief.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-X96A904A-line-5">Occasion for a Loop-hole serves,&#13;When·Ever ther's Occasion</l><l n="6" xml:id="spp-X96A904A-line-6"> To leave Plain Dealing in y<hi rend="sup">e</hi> Lurch,And fly to dear Evasion.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-X96A904A-line-7">The Iesuit may hang him·self,&#13;And his Equivocation;</l><l n="8" xml:id="spp-X96A904A-line-8"> That fusty Ware's now thrown aside,Occasion's all y<hi rend="sup">e</hi> Fashion.<gap/><gap/><gap/><gap/></l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-X96A904A-line-9">Some Sophisters of late devis'd&#13;This new Trick, call'd Occasion,</l><l n="10" xml:id="spp-X96A904A-line-10"> By W<hi rend="sup">cḥ</hi> they have refin'd uponAll former Reformation.</l></lg><lg n="6" type="stanza"><l n="11" xml:id="spp-X96A904A-line-11">Dull Martyrs spilt thier Blood in vain&#13;For want of this Device sir,</l><l n="12" xml:id="spp-X96A904A-line-12"> By this they might have Heathens beenAnd Christians in a trice Sir.</l></lg><lg n="7" type="stanza"><l n="13" xml:id="spp-X96A904A-line-13">Occasion more Faces hath&#13;Upon Occasion surely,</l><l n="14" xml:id="spp-X96A904A-line-14"> Than any Canting Quaker makesWhen he holds forth demurely.</l></lg><lg n="8" type="stanza"><l n="15" xml:id="spp-X96A904A-line-15">True Sc──t upon Occasion&#13;Can look like English Bishop,</l><l n="16" xml:id="spp-X96A904A-line-16"> And so he cheats w<hi rend="sup">tḥ</hi> Noise &amp; ToneAll such as come to His-shop.</l></lg><lg n="9" type="stanza"><l n="17" xml:id="spp-X96A904A-line-17">Occasion can make a Man&#13;With little or no Trouble,</l><l n="18" xml:id="spp-X96A904A-line-18"> Sincere as any Hipocrite,And honest as Tom Double.</l></lg><lg n="10" type="stanza"><l n="19" xml:id="spp-X96A904A-line-19">Occasion permits some Men&#13;Occasionally to lye Sir,</l><l n="20" xml:id="spp-X96A904A-line-20"> And practice things y<hi rend="sup">t</hi> are too vileFor such as you &amp; I Sir.</l></lg><lg n="11" type="stanza"><l n="21" xml:id="spp-X96A904A-line-21">Occasionally they shall conform,&#13;Occsionally dissent Sir,</l><l n="22" xml:id="spp-X96A904A-line-22"> Occasionally shall take an OathTo break it w<hi rend="sup">tḥ</hi> intent Sir.</l></lg><lg n="12" type="stanza"><l n="23" xml:id="spp-X96A904A-line-23">Occasionally shall go to Church,&#13;Occasionally to Meeting;</l><l n="24" xml:id="spp-X96A904A-line-24"> Occasionally betray their LordWhile they like Iudas greet Him.</l></lg><lg n="13" type="stanza"><l n="25" xml:id="spp-X96A904A-line-25">Occasionally deny him too,&#13;In open view of Men Sir;</l><l n="26" xml:id="spp-X96A904A-line-26"> And where's y<hi rend="sup">e</hi> harm? for when 'tis fitThey own him can again Sir.</l></lg><lg n="14" type="stanza"><l n="27" xml:id="spp-X96A904A-line-27">Occasionally comunicate,&#13;Occasionally refrain Sir;</l><l n="28" xml:id="spp-X96A904A-line-28"> But Constantly ComunicateWhen 'twill Occasion gain Sir.</l></lg><lg n="15" type="stanza"><l n="29" xml:id="spp-X96A904A-line-29">When 'twill occasion Godly Men&#13;To Parl──────t to ride a,</l><l n="30" xml:id="spp-X96A904A-line-30"> And there w<hi rend="sup">tḥ</hi> great SincerityTo take Occasions Side a.</l></lg><lg n="16" type="stanza"><l n="31" xml:id="spp-X96A904A-line-31">On such Occasions they can kneel&#13;Like rankest Idol-aters,</l><l n="32" xml:id="spp-X96A904A-line-32"> But Turn once serv'd, &amp; Place Obtain'd,No stiffer Idol-haters.</l></lg><lg n="17" type="stanza"><l n="33" xml:id="spp-X96A904A-line-33">Thus 'Casionally for God they are,&#13;And 'Casionally for Devil;</l><l n="34" xml:id="spp-X96A904A-line-34"> Occasionally for Good again,Occasionally for Evil.</l></lg><lg n="18" type="stanza"><l n="35" xml:id="spp-X96A904A-line-35">Occasionally for Heaven bound,&#13;Occasionally for Hell Sir;</l><l n="36" xml:id="spp-X96A904A-line-36"> But surely 'twill be sad to haveOccasion there to dwell Sir.X96A904A   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

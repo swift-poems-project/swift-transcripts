@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The</title>
+        <title>··u··al</title>
+        <title>of a<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="Andrew Carpenter"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="444-070B" type="poem"><head type="note" n="1" xml:id="spp-444-070B-headnote-1"><lg n="1" xml:id="spp-444-070B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-444-070B-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-444-070B-headnote-2"><lg n="1" xml:id="spp-444-070B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-444-070B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-444-070B-headnote-3"><lg n="1" xml:id="spp-444-070B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-444-070B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-444-070B-line-1"> ·t was a most unfriendly part&#13;</l><l n="2" xml:id="spp-444-070B-line-2"> ·· ···· ··· ought to know my heart</l><l n="3" xml:id="spp-444-070B-line-3"> ·· ···· ···uaint'd with my Zeal</l><l n="4" xml:id="spp-444-070B-line-4"> ··· ··· ··· female Commonweal</l><l n="5" xml:id="spp-444-070B-line-5"> ··· ····d it come into your mind</l><l n="6" xml:id="spp-444-070B-line-6"> ·· ··tch on me of all Mankind</l><l n="7" xml:id="spp-444-070B-line-7"> ······· ··· ··· to write a Satyr</l><l n="8" xml:id="spp-444-070B-line-8"> ··· ····· ·· ··· · ··man Hater</l><l n="9" xml:id="spp-444-070B-line-9"> ·· ··· ··· ····· ···· ··· so Fair<gap/><gap/><gap/></l><l n="10" xml:id="spp-444-070B-line-10"> M······· · ···· ··· ······ ···</l><l n="11" xml:id="spp-444-070B-line-11"> Will ·· ··· ········ bely·</l><l n="12" xml:id="spp-444-070B-line-12"> Must nev·· ··· ···fort····· ···</l><l n="13" xml:id="spp-444-070B-line-13"> Aand ···· ··· ···· ··· ···· ······</l><l n="14" xml:id="spp-444-070B-line-14"> Ah lov··· ······· ······ ···· ·····</l><l n="15" xml:id="spp-444-070B-line-15"> No mor· ··· ···· ····· ······ ·····</l><l n="16" xml:id="spp-444-070B-line-16"> Sooner ····· ···<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>444-070B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">Bounce to Fop</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R556ROGP" type="poem"><head type="note" n="1" xml:id="spp-R556ROGP-headnote-1"><lg n="1" xml:id="spp-R556ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-R556ROGP-headnote-1-line-group-1-line-1">AN HEROIC EPISTLE FROM A DOG AT TWICKENHAM TO A DOG AT COURT</l></lg></head><head type="note" n="2" xml:id="spp-R556ROGP-headnote-2"><lg n="1" xml:id="spp-R556ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-R556ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-R556ROGP-headnote-3"><lg n="1" xml:id="spp-R556ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-R556ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-R556ROGP-line-1"> To thee, sweet Fop, these lines I send,&#13;</l><l n="2" xml:id="spp-R556ROGP-line-2"> Who, though no spaniel, am a friend.</l><l n="3" xml:id="spp-R556ROGP-line-3"> Though, once my tail in wanton play,</l><l n="4" xml:id="spp-R556ROGP-line-4"> Now frisking this, and then that way,</l><l n="5" xml:id="spp-R556ROGP-line-5"> Chanced, with a touch of just the tip,</l><l n="6" xml:id="spp-R556ROGP-line-6"> To hurt your lady-lap-dogship;</l><l n="7" xml:id="spp-R556ROGP-line-7"> Yet thence to think I'd bite your head off!</l><l n="8" xml:id="spp-R556ROGP-line-8"> Sure Bounce is one you never read of.</l></lg><lg n="2" type="stanza"><l n="9" xml:id="spp-R556ROGP-line-9">Fop! you can dance, and make a leg,&#13;</l><l n="10" xml:id="spp-R556ROGP-line-10"> Can fetch and carry, cringe and beg,</l><l n="11" xml:id="spp-R556ROGP-line-11"> And (what's the top of all your tricks)</l><l n="12" xml:id="spp-R556ROGP-line-12"> Can stoop to pick up <hi rend="underline">strings</hi> and <hi rend="underline">sticks</hi>.</l><l n="13" xml:id="spp-R556ROGP-line-13"> We country dogs love nobler sport,</l><l n="14" xml:id="spp-R556ROGP-line-14"> And scorn the pranks of dogs at court.</l><l n="15" xml:id="spp-R556ROGP-line-15"> Fie, naughty Fop! where e'er you come</l><l n="16" xml:id="spp-R556ROGP-line-16"> To fart and piss about the room,</l><l n="17" xml:id="spp-R556ROGP-line-17"> To lay your head in every lap,</l><l n="18" xml:id="spp-R556ROGP-line-18"> And, when they think not of you, snap!</l><l n="19" xml:id="spp-R556ROGP-line-19"> The worst that envy, or that spite</l><l n="20" xml:id="spp-R556ROGP-line-20"> E'er said of me, is, I can bite:</l><l n="21" xml:id="spp-R556ROGP-line-21"> That sturdy vagrants, rogues in rags,</l><l n="22" xml:id="spp-R556ROGP-line-22"> Who poke at me, can make no brags;</l><l n="23" xml:id="spp-R556ROGP-line-23"> And that to touse such things as <hi rend="underline">flutter</hi>,</l><l n="24" xml:id="spp-R556ROGP-line-24"> To honest Bounce is bread and butter.</l></lg><lg n="3" type="stanza"><l n="25" xml:id="spp-R556ROGP-line-25">While you, and every courtly fop,&#13;</l><l n="26" xml:id="spp-R556ROGP-line-26"> Fawn on the devil for a chop,</l><l n="27" xml:id="spp-R556ROGP-line-27"> I've the humanity to hate</l><l n="28" xml:id="spp-R556ROGP-line-28"> A butcher, though he brings me meat;</l><l n="29" xml:id="spp-R556ROGP-line-29"> And let me tell you, have a nose,</l><l n="30" xml:id="spp-R556ROGP-line-30"> (Whatever stinking fops suppose)</l><l n="31" xml:id="spp-R556ROGP-line-31"> That under cloth of gold or tissue,</l><l n="32" xml:id="spp-R556ROGP-line-32"> Can smell a plaster, or an issue.</l></lg><lg n="4" type="stanza"><l n="33" xml:id="spp-R556ROGP-line-33">Your pilfering lord, with simple pride,&#13;</l><l n="34" xml:id="spp-R556ROGP-line-34"> May wear a picklock at his side;</l><l n="35" xml:id="spp-R556ROGP-line-35"> My master wants no key of state,</l><l n="36" xml:id="spp-R556ROGP-line-36"> For Bounce can keep his house and gate.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l></lg><lg n="5" type="stanza"><l n="37" xml:id="spp-R556ROGP-line-37">When all such dogs have had their days,&#13;</l><l n="38" xml:id="spp-R556ROGP-line-38"> As knavish Pams and fawning Trays;</l><l n="39" xml:id="spp-R556ROGP-line-39"> When pampered Cupids, beastly Veni's,</l><l n="40" xml:id="spp-R556ROGP-line-40"> And motley, squinting Harvequini's,</l><l n="41" xml:id="spp-R556ROGP-line-41"> Shall lick no more their lady's breech,</l><l n="42" xml:id="spp-R556ROGP-line-42"> But die of looseness, claps, or itch;</l><l n="43" xml:id="spp-R556ROGP-line-43"> Fair Thames from either echoing shore</l><l n="44" xml:id="spp-R556ROGP-line-44"> Shall hear, and dread my manly roar.</l></lg><lg n="6" type="stanza"><l n="45" xml:id="spp-R556ROGP-line-45">See Bounce, like Berecynthia, crowned&#13;</l><l n="46" xml:id="spp-R556ROGP-line-46"> With thundering offspring all around,</l><l n="47" xml:id="spp-R556ROGP-line-47"> Beneath, beside me, and atop,</l><l n="48" xml:id="spp-R556ROGP-line-48"> A hundred sons! and not one Fop.</l></lg><lg n="7" type="stanza"><l n="49" xml:id="spp-R556ROGP-line-49">Before my children set your beef,&#13;</l><l n="50" xml:id="spp-R556ROGP-line-50"> Not one true Bounce will be a thief;</l><l n="51" xml:id="spp-R556ROGP-line-51"> Not one without permission feed,</l><l n="52" xml:id="spp-R556ROGP-line-52"> (Though some of J──'s hungry breed)</l><l n="53" xml:id="spp-R556ROGP-line-53"> But whatsoe'er the father's race,</l><l n="54" xml:id="spp-R556ROGP-line-54"> From me they suck a little grace.</l><l n="55" xml:id="spp-R556ROGP-line-55"> While your fine whelps learn all to steal,</l><l n="56" xml:id="spp-R556ROGP-line-56"> Bred up by hand on chick and veal.</l></lg><lg n="8" type="stanza"><l n="57" xml:id="spp-R556ROGP-line-57">My eldest-born resides not far,&#13;</l><l n="58" xml:id="spp-R556ROGP-line-58"> Where shines great Strafford's glittering star:<gap/><gap/></l><l n="59" xml:id="spp-R556ROGP-line-59"> My second (child of fortune!) waits</l><l n="60" xml:id="spp-R556ROGP-line-60"> At Burlington's Palladian gates:</l><l n="61" xml:id="spp-R556ROGP-line-61"> A third majestically stalks</l><l n="62" xml:id="spp-R556ROGP-line-62"> (Happiest of dogs!) in Cobham's walks:</l><l n="63" xml:id="spp-R556ROGP-line-63"> One ushers friends to Bathurst's door;</l><l n="64" xml:id="spp-R556ROGP-line-64"> One fawns, at Oxford's, on the poor.</l></lg><lg n="9" type="stanza"><l n="65" xml:id="spp-R556ROGP-line-65">Nobles, whom arms or arts adorn,&#13;</l><l n="66" xml:id="spp-R556ROGP-line-66"> Wait for my infants yet unborn.</l><l n="67" xml:id="spp-R556ROGP-line-67"> None but a peer of wit and grace,</l><l n="68" xml:id="spp-R556ROGP-line-68"> Can hope a puppy of my race.</l></lg><lg n="10" type="stanza"><l n="69" xml:id="spp-R556ROGP-line-69">And O! would fate the bliss decree&#13;</l><l n="70" xml:id="spp-R556ROGP-line-70"> To mine (a bliss too great for me)</l><l n="71" xml:id="spp-R556ROGP-line-71"> That two, my tallest sons, might grace</l><l n="72" xml:id="spp-R556ROGP-line-72"> Attending each with stately pace,</l><l n="73" xml:id="spp-R556ROGP-line-73"> Iülus' side, as erst Evander's,</l><l n="74" xml:id="spp-R556ROGP-line-74"> To keep off flatterers, spies, and panders,</l><l n="75" xml:id="spp-R556ROGP-line-75"> To let no noble slave come near,</l><l n="76" xml:id="spp-R556ROGP-line-76"> And scare Lord Fannies from his ear:</l><l n="77" xml:id="spp-R556ROGP-line-77"> Then might a royal youth, and true,</l><l n="78" xml:id="spp-R556ROGP-line-78"> Enjoy at least a friend──or two:</l><l n="79" xml:id="spp-R556ROGP-line-79"> A treasure, which, of royal kind,</l><l n="80" xml:id="spp-R556ROGP-line-80"> Few but himself deserve to find.</l></lg><lg n="11" type="stanza"><l n="81" xml:id="spp-R556ROGP-line-81">Then Bounce ('tis all that Bounce can crave)&#13;</l><l n="82" xml:id="spp-R556ROGP-line-82"> Shall wag her tail within the grave.</l></lg><lg n="12" type="stanza"><l n="83" xml:id="spp-R556ROGP-line-83">And though no doctors, Whig or Tory ones,&#13;</l><l n="84" xml:id="spp-R556ROGP-line-84"> Except the sect of Pythagoreans,</l><l n="85" xml:id="spp-R556ROGP-line-85"> Have immortality assigned</l><l n="86" xml:id="spp-R556ROGP-line-86"> To any beast but Dryden's hind:</l><l n="87" xml:id="spp-R556ROGP-line-87"> Yet Master Pope, whom Truth and Sense</l><l n="88" xml:id="spp-R556ROGP-line-88"> Shall call their friend some ages hence,</l><l n="89" xml:id="spp-R556ROGP-line-89"> Though now on loftier themes he sings</l><l n="90" xml:id="spp-R556ROGP-line-90"> Than to bestow a word on kings,</l><l n="91" xml:id="spp-R556ROGP-line-91"> Has sworn by sticks (the poet's oath,</l><l n="92" xml:id="spp-R556ROGP-line-92"> And dread of dogs and poets both)</l><l n="93" xml:id="spp-R556ROGP-line-93"> Man and his works he'll soon renounce,</l><l n="94" xml:id="spp-R556ROGP-line-94"> And roar in numbers worthy Bounce.R556ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>VERSES LEFT WITH A SILVER</title>
+        <title>ON THE DEAN OF ST. PATRICK'S DESK,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-610-79L2-footnote-1 #spp-610-79L2-line-10"/>
+        </linkGrp>
+        <div n="610-79L2" type="poem"><head type="note" n="1" xml:id="spp-610-79L2-headnote-1"><lg n="1" xml:id="spp-610-79L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-610-79L2-headnote-1-line-group-1-line-1">BY DR. DELANY.</l></lg></head><head type="note" n="2" xml:id="spp-610-79L2-headnote-2"><lg n="1" xml:id="spp-610-79L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-610-79L2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-610-79L2-headnote-3"><lg n="1" xml:id="spp-610-79L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-610-79L2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-610-79L2-line-1"><hi rend="display-initial">H</hi>ITHER from Mexico I came,</l><l n="2" xml:id="spp-610-79L2-line-2"> To serve a proud Iernian dame:</l><l n="3" xml:id="spp-610-79L2-line-3"> Was long submitted to her will;</l><l n="4" xml:id="spp-610-79L2-line-4"> At length she lost me at <hi rend="underline">quadrille</hi>.</l><l n="5" xml:id="spp-610-79L2-line-5"> Through various shapes I often pass'd,</l><l n="6" xml:id="spp-610-79L2-line-6"> Still hoping to have rest at last;</l><l n="7" xml:id="spp-610-79L2-line-7"> And still ambitious to obtain</l><l n="8" xml:id="spp-610-79L2-line-8"> Admittance to the patriot dean;</l><l n="9" xml:id="spp-610-79L2-line-9"> And sometimes got within his door,</l><l n="10" xml:id="spp-610-79L2-line-10"> But soon turn'd out to serve the poor<ref target="#spp-610-79L2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-610-79L2-footnote-1">Alluding to 500 <hi rend="underline">l</hi>. a year lent by the Dean, without interest, to poor tradesmen. F.</note>;</l><l n="11" xml:id="spp-610-79L2-line-11"> Not stroling Idleness to aid,</l><l n="12" xml:id="spp-610-79L2-line-12"> But honest Industry decay'd.</l><l n="13" xml:id="spp-610-79L2-line-13"> At length an artist purchas'd me,</l><l n="14" xml:id="spp-610-79L2-line-14"> And wrought me to the shape you see.This done, to Hermes, I apply'd:</l><l n="15" xml:id="spp-610-79L2-line-15"> “O Hermes! gratify my pride;</l><l n="16" xml:id="spp-610-79L2-line-16"> “Be it my fate to serve a sage,</l><l n="17" xml:id="spp-610-79L2-line-17"> “The greatest genius of his age;</l><l n="18" xml:id="spp-610-79L2-line-18"> “That matchless pen let me supply,</l><l n="19" xml:id="spp-610-79L2-line-19"> “Whose living lines will never die!”I grant your suit; the God reply'd,</l><l n="20" xml:id="spp-610-79L2-line-20"> And here he left me to reside.610-79L2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

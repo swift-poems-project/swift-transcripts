@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To a Lady.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z730090A" type="poem"><head type="note" n="1" xml:id="spp-Z730090A-headnote-1"><lg n="1" xml:id="spp-Z730090A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Z730090A-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Z730090A-headnote-2"><lg n="1" xml:id="spp-Z730090A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Z730090A-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Z730090A-headnote-3"><lg n="1" xml:id="spp-Z730090A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Z730090A-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Z730090A-line-1"> 1·<hi rend="display-initial">I</hi>N Beauty, or wit, no mortal as yetTo question your Empire has dard</l><l n="2" xml:id="spp-Z730090A-line-2"> But men of discerning have thought that in larningTo yield to a Lady was hard.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-Z730090A-line-3">2·Impertinent schools with musty dull rules&#13;Have reading to females deny'd</l><l n="4" xml:id="spp-Z730090A-line-4"> So Papists refuse the Bible to use,Lest flocks shoud be wise as their guide.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-Z730090A-line-5">3·'Twas Woman at first (indeed she was curs'd)&#13;In knowledge that tasted delight;</l><l n="6" xml:id="spp-Z730090A-line-6"> And Sages agree that laws shoud decreeTo the first possessor the right.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-Z730090A-line-7">4·Then bravely fair Dame, resume the old claim,&#13;Which to your whole Sex does belong;</l><l n="8" xml:id="spp-Z730090A-line-8"> And let me receive from a second bright Eve.The Knowledge of right and of wrong.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-Z730090A-line-9">5·But if the first Eve hard doom did receive&#13;When only one apple had she,</l><l n="10" xml:id="spp-Z730090A-line-10"> What a punishment new shall be found out for youWho, tasting have rob'd the whole tree.Z730090A   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dean S<hi rend="SMALL-CAPS">WIFT</hi>'s answer to the Reverend Dr<lb/>S<hi rend="SMALL-CAPS">HERIDAN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-972-06E2-footnote-1 #spp-972-06E2-line-12"/>
+        </linkGrp>
+        <div n="972-06E2"><head type="note" n="1" xml:id="spp-972-06E2-headnote-1"><lg n="1" xml:id="spp-972-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-972-06E2-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-972-06E2-headnote-2"><lg n="1" xml:id="spp-972-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-972-06E2-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-972-06E2-headnote-3"><lg n="1" xml:id="spp-972-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-972-06E2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-972-06E2-line-1"><hi rend="underline">SIR</hi>,</l></lg><lg n="2" type="stanza"><l><hi rend="display-initial">I</hi>N reading your letter alone in my hackney,</l><l/><l n="2" xml:id="spp-972-06E2-line-2">Your damnable riddle my poor brains did rack nigh.</l><l/><l n="3" xml:id="spp-972-06E2-line-3">And when with much labour the matter I crackt,</l><l/><l n="4" xml:id="spp-972-06E2-line-4">I found you mistaken in matter of fact.</l><l/><l n="5" xml:id="spp-972-06E2-line-5"/></lg><lg n="3" type="stanza"><l>A woman's no sieve, (for with that you begin),&#13;</l><l/><l n="6" xml:id="spp-972-06E2-line-6">Because she lets out more than e'er she takes in.</l><l/><l n="7" xml:id="spp-972-06E2-line-7">And that she's a riddle, can never be right;</l><l/><l n="8" xml:id="spp-972-06E2-line-8">For a riddle is dark, but a woman is <hi rend="underline">light</hi>.</l><l/><l n="9" xml:id="spp-972-06E2-line-9">But grant her a sieve, I can say something archer;</l><l/><l n="10" xml:id="spp-972-06E2-line-10">Pray what is a man? he's a fine linen <hi rend="underline">searcher</hi>.</l><l/><l n="11" xml:id="spp-972-06E2-line-11"/></lg><lg n="4" type="stanza"><l>Now tell me a thing that wants interpretation,&#13;</l><l/><l n="12" xml:id="spp-972-06E2-line-12">What name for a maid<ref target="#spp-972-06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-972-06E2-footnote-1">Vir Gin, Man-Trap.</note>, was the first man's damnation?</l><l/><l n="13" xml:id="spp-972-06E2-line-13">If your Worship will please to explain me this <hi rend="underline">rebus</hi>,</l><l/><l n="14" xml:id="spp-972-06E2-line-14">I swear from henceforward you shall be my Ph<unclear>oe</unclear>bus.</l><l/><l n="15" xml:id="spp-972-06E2-line-15"/></lg><lg n="5" type="stanza"><l><hi rend="underline">From my hackney-coarch, Sept</hi>. 11.</l></lg><lg n="6" type="stanza"><l n="171" xml:id="spp-972-06E2-line-171">2, <hi rend="underline">past</hi> 12 <hi rend="underline">at noon</hi>.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

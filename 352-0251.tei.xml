@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ON</title>
+        <title><hi rend="underline">WOOD</hi> the Iron-monger.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWhite"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="352-0251" type="poem"><head type="note" n="1" xml:id="spp-352-0251-headnote-1"><lg n="1" xml:id="spp-352-0251-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-352-0251-headnote-1-line-group-1-line-1">Written in the Year 1725.</l></lg></head><head type="note" n="2" xml:id="spp-352-0251-headnote-2"><lg n="1" xml:id="spp-352-0251-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-352-0251-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-352-0251-headnote-3"><lg n="1" xml:id="spp-352-0251-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-352-0251-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-352-0251-line-1"><hi rend="display-initial">S</hi><hi rend="underline">ALMONEUS</hi>, as the <hi rend="underline">Grecian</hi> Tale is,</l><l n="2" xml:id="spp-352-0251-line-2"> Was a mad Copper-Smith of <hi rend="underline">Elis</hi>:</l><l n="3" xml:id="spp-352-0251-line-3"> Up at his Forge by Morning-peep,</l><l n="4" xml:id="spp-352-0251-line-4"> No Creature in the Lane could sleep.</l><l n="5" xml:id="spp-352-0251-line-5"> Among a Crew of royst'ring Fellows</l><l n="6" xml:id="spp-352-0251-line-6"> Would sit whole Ev'nings at the Ale-house:</l><l n="7" xml:id="spp-352-0251-line-7"> His Wife and Children wanted Bread,</l><l n="8" xml:id="spp-352-0251-line-8"> While he went always drunk to Bed.</l><l n="9" xml:id="spp-352-0251-line-9"> This vap'ring Scab must needs devise</l><l n="10" xml:id="spp-352-0251-line-10"> To ape the Thunder of the Skies;</l><l n="11" xml:id="spp-352-0251-line-11"> With <hi rend="underline">Brass</hi> two fiery Steeds he shod,</l><l n="12" xml:id="spp-352-0251-line-12"> To make a Clatt'ring as they trod.</l><l n="13" xml:id="spp-352-0251-line-13"> Of polish't <hi rend="underline">Brass</hi>, his flaming Car,</l><l n="14" xml:id="spp-352-0251-line-14"> Like Light'ning dazzled from a-far:</l><l n="15" xml:id="spp-352-0251-line-15"> And up he mounts into the Box,</l><l n="16" xml:id="spp-352-0251-line-16"> And He must thunder with a Pox.</l><l n="17" xml:id="spp-352-0251-line-17"> Then, furious he begins his March;</l><l n="18" xml:id="spp-352-0251-line-18"> Drives rattling o'er a brazen Arch:</l><l n="19" xml:id="spp-352-0251-line-19"> With Squibs and Crackers arm'd, to throw</l><l n="20" xml:id="spp-352-0251-line-20"> Among the trembling Croud below.</l><l n="21" xml:id="spp-352-0251-line-21"> All ran to Pray'rs, both Priests and Laity,</l><l n="22" xml:id="spp-352-0251-line-22"> To pacify this angry Deity;</l><l n="23" xml:id="spp-352-0251-line-23"> When <hi rend="underline">Jove</hi> in Pity to the Town,</l><l n="24" xml:id="spp-352-0251-line-24"> With real Thunder knock'd him down.</l><l n="25" xml:id="spp-352-0251-line-25"> Then what a huge Delight were all in,</l><l n="26" xml:id="spp-352-0251-line-26"> To see the wicked Varlet sprawling;</l><l n="27" xml:id="spp-352-0251-line-27"> They search't his Pockets on the Place,</l><l n="28" xml:id="spp-352-0251-line-28"> And found his Copper all was base;</l><l n="29" xml:id="spp-352-0251-line-29"> They laught at such an <hi rend="underline">Irish</hi> Blunder,</l><l n="30" xml:id="spp-352-0251-line-30"> To take the Noise of Brass for Thunder!</l></lg><lg n="2" type="stanza"><l n="31" xml:id="spp-352-0251-line-31">T<hi rend="SMALL-CAPS">HE</hi> Moral of this Tale is proper,</l><l n="32" xml:id="spp-352-0251-line-32"> Apply'd to <hi rend="underline">Wood</hi>'s adult'rate Copper.</l><l n="33" xml:id="spp-352-0251-line-33"> Which, as he scatter'd, we like Dolts,</l><l n="34" xml:id="spp-352-0251-line-34"> Mistook at first for Thunder-Bolts;</l><l n="35" xml:id="spp-352-0251-line-35"> Before the <hi rend="underline">Drapier</hi> shot a Letter,</l><l n="36" xml:id="spp-352-0251-line-36"> (Nor <hi rend="underline">Jove</hi> himself could do it better)</l><l n="37" xml:id="spp-352-0251-line-37"> Which lighting on th' Impostor's Crown,</l><l n="38" xml:id="spp-352-0251-line-38"> Like real Thunder knock't him down.352-0251   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

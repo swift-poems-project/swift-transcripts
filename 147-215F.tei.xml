@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Windsor Prophecy. Anno 1712.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-147-215F-footnote-1 #spp-147-215F-line-1"/>
+          <link target="#spp-147-215F-footnote-2 #spp-147-215F-line-3"/>
+          <link target="#spp-147-215F-footnote-3 #spp-147-215F-line-4"/>
+          <link target="#spp-147-215F-footnote-4 #spp-147-215F-line-5"/>
+          <link target="#spp-147-215F-footnote-5 #spp-147-215F-line-6"/>
+          <link target="#spp-147-215F-footnote-6 #spp-147-215F-line-9"/>
+          <link target="#spp-147-215F-footnote-7 #spp-147-215F-line-10"/>
+          <link target="#spp-147-215F-footnote-8 #spp-147-215F-line-13"/>
+          <link target="#spp-147-215F-footnote-9 #spp-147-215F-line-15"/>
+          <link target="#spp-147-215F-footnote-10 #spp-147-215F-line-16"/>
+          <link target="#spp-147-215F-footnote-11 #spp-147-215F-line-17"/>
+          <link target="#spp-147-215F-footnote-12 #spp-147-215F-line-18"/>
+          <link target="#spp-147-215F-footnote-13 #spp-147-215F-line-19"/>
+          <link target="#spp-147-215F-footnote-14 #spp-147-215F-line-21"/>
+          <link target="#spp-147-215F-footnote-15 #spp-147-215F-line-23"/>
+          <link target="#spp-147-215F-footnote-16 #spp-147-215F-line-25"/>
+        </linkGrp>
+        <div n="147-215F" type="poem"><head type="note" n="1" xml:id="spp-147-215F-headnote-1"><lg n="1" xml:id="spp-147-215F-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-147-215F-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-147-215F-headnote-2"><lg n="1" xml:id="spp-147-215F-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-147-215F-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-147-215F-headnote-3"><lg n="1" xml:id="spp-147-215F-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-147-215F-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-147-215F-line-1"> When a <ref target="#spp-147-215F-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-147-215F-footnote-1">Dc<unclear>tittle</unclear>or Robinson Bishop of Bristoll Lord Privy Seal and Plenipotentiary for the treaty of peace at Utrecth in 1712</note> holy black Sweede, the son of Bob,</l><l n="2" xml:id="spp-147-215F-line-2"> With a Saint at his Chin, and a Seal in his Fob,</l><l n="3" xml:id="spp-147-215F-line-3"> Shall not see <ref target="#spp-147-215F-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-147-215F-footnote-2">he went over to Utrecth before our New Years Day and arrived there after theirs.</note> one new years Day in that Year,</l><l n="4" xml:id="spp-147-215F-line-4"> Then let old England make good Cheer.<ref target="#spp-147-215F-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-147-215F-footnote-3">he was Dean of Windsor and Bishop of Bristoll when he was sent over to</note> Windsor and Bristol then shall be</l><l n="5" xml:id="spp-147-215F-line-5"> Joyn'd together in the Low <ref target="#spp-147-215F-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-147-215F-footnote-4">Utrecth</note> Countrey.</l><l n="6" xml:id="spp-147-215F-line-6"> Then shall the tall black <ref target="#spp-147-215F-footnote-5">5</ref><note place="foot" n="5" xml:id="spp-147-215F-footnote-5">Lord Nottingham.</note> Daventry Bird</l><l n="7" xml:id="spp-147-215F-line-7"> Speak against Peace right many a Word;</l><l n="8" xml:id="spp-147-215F-line-8"> And some shall admire his cunning Witt,</l><l n="9" xml:id="spp-147-215F-line-9"> For many good Groats <ref target="#spp-147-215F-footnote-6">6</ref><note place="foot" n="6" xml:id="spp-147-215F-footnote-6">said to be bought off by the Dutchesse of Malborough to speak against the peace.</note> his tongue shall slitt:</l><l n="10" xml:id="spp-147-215F-line-10"> But in Spite of the <ref target="#spp-147-215F-footnote-7">7</ref><note place="foot" n="7" xml:id="spp-147-215F-footnote-7">Duke of Malborough.</note> Harpy, that cralls on all four,</l><l n="11" xml:id="spp-147-215F-line-11"> We shall have peace perdie, and War no more.</l><l n="12" xml:id="spp-147-215F-line-12"> But England must cry alack and well a day,</l><l n="13" xml:id="spp-147-215F-line-13"> Jf the Stick <ref target="#spp-147-215F-footnote-8">8</ref><note place="foot" n="8" xml:id="spp-147-215F-footnote-8">Harley Earl of Oxford Baron Mortimer and then Lord Treasurer.</note> be taken from the dead Sea.</l><l n="14" xml:id="spp-147-215F-line-14"> But O Englond, if ought J understand,</l><l n="15" xml:id="spp-147-215F-line-15"> Beware of <ref target="#spp-147-215F-footnote-9">9</ref><note place="foot" n="9" xml:id="spp-147-215F-footnote-9">The Dutchess of Somermett <unclear>sic</unclear> heir to Northumberland.</note> Carrots from Northumberland:</l><l n="16" xml:id="spp-147-215F-line-16"> Carrotts sown <ref target="#spp-147-215F-footnote-10">10</ref><note place="foot" n="10" xml:id="spp-147-215F-footnote-10">Thynne assassinated in Somersett house by Coninsmark by the Dutchess of Somersett's order</note> Thynne, a deep root may gett,</l><l n="17" xml:id="spp-147-215F-line-17"> Jf so be they are in <ref target="#spp-147-215F-footnote-11">11</ref><note place="foot" n="11" xml:id="spp-147-215F-footnote-11"><unclear>same as note 10</unclear></note> Somer-sett;</l><l n="18" xml:id="spp-147-215F-line-18"> Their <ref target="#spp-147-215F-footnote-12">12</ref><note place="foot" n="12" xml:id="spp-147-215F-footnote-12"><unclear>same as note 10</unclear></note> Conings-mark thou, for as J have been told,</l><l n="19" xml:id="spp-147-215F-line-19"> They <ref target="#spp-147-215F-footnote-13">13</ref><note place="foot" n="13" xml:id="spp-147-215F-footnote-13">the Dutchess of Somersett is said to have poisoned one of her servants who had lain with her that he might not ever discover it.</note> assasin when Young, and poison when Old.</l><l n="20" xml:id="spp-147-215F-line-20"> Root out those Carrotts, oh thou, whose Name</l><l n="21" xml:id="spp-147-215F-line-21"> is Backwards and forwards alwaies the <ref target="#spp-147-215F-footnote-14">14</ref><note place="foot" n="14" xml:id="spp-147-215F-footnote-14">Queen Anna.</note> same,</l><l n="22" xml:id="spp-147-215F-line-22"> And keep close unto Thee, alwaies that Name,</l><l n="23" xml:id="spp-147-215F-line-23"> Which backward and forward is almost the <ref target="#spp-147-215F-footnote-15">15</ref><note place="foot" n="15" xml:id="spp-147-215F-footnote-15">M<hi rend="sup">ris</hi>.  Masham.</note> same.</l><l n="24" xml:id="spp-147-215F-line-24"> And Englond, would thou be happy still,</l><l n="25" xml:id="spp-147-215F-line-25"> Bury these Carrotts under <ref target="#spp-147-215F-footnote-16">16</ref><note place="foot" n="16" xml:id="spp-147-215F-footnote-16">M<hi rend="sup">ris</hi>.  Masham's sister to be putt in Somersett's places at Court.</note> a hill.147-215F   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

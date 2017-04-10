@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<hi rend="SMALL-CAPS">DVICE</hi> to the G<hi rend="SMALL-CAPS">RUBSTREET</hi> V<hi rend="SMALL-CAPS">ERSE-<lb/>WRITERS</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-394-06E2-footnote-1 #spp-394-06E2-line-15"/>
+        </linkGrp>
+        <div n="394-06E2"><head type="note" n="1" xml:id="spp-394-06E2-headnote-1"><lg n="1" xml:id="spp-394-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-394-06E2-headnote-1-line-group-1-line-1">Written in the year 1726.&#13;</l></lg></head><head type="note" n="2" xml:id="spp-394-06E2-headnote-2"><lg n="1" xml:id="spp-394-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-394-06E2-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-394-06E2-headnote-3"><lg n="1" xml:id="spp-394-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-394-06E2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-394-06E2-line-1"><hi rend="display-initial">Y</hi>E poets ragged and forlorn,</l><l/><l n="2" xml:id="spp-394-06E2-line-2">Down from your garrets haste;</l><l/><l n="3" xml:id="spp-394-06E2-line-3">Ye rhymers, dead as soon as born,</l><l/><l n="4" xml:id="spp-394-06E2-line-4">Not yet consign'd to paste,</l><l/><l n="5" xml:id="spp-394-06E2-line-5"/></lg><lg n="2" type="stanza"><l>I know a trick to make you thrive;&#13;</l><l/><l n="6" xml:id="spp-394-06E2-line-6">O, 'tis a quaint device:</l><l/><l n="7" xml:id="spp-394-06E2-line-7">Your stillborn poems shall revive,</l><l/><l n="8" xml:id="spp-394-06E2-line-8">And scorn to wrap up spice.</l><l/><l n="9" xml:id="spp-394-06E2-line-9"/></lg><lg n="3" type="stanza"><l>Get all your verses printed fair,&#13;</l><l/><l n="10" xml:id="spp-394-06E2-line-10">Then let them well be dry'd;</l><l/><l n="11" xml:id="spp-394-06E2-line-11">And Curll must have a special care</l><l/><l n="12" xml:id="spp-394-06E2-line-12">To leave the margin wide.</l><l/><l n="13" xml:id="spp-394-06E2-line-13"/></lg><lg n="4" type="stanza"><l>Lend these to paper-sparing Pope;&#13;</l><l/><l n="14" xml:id="spp-394-06E2-line-14">And when he sits to write,</l><l/><l n="15" xml:id="spp-394-06E2-line-15">No letter with an <hi rend="underline">envelope</hi><ref target="#spp-394-06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-394-06E2-footnote-1">A blank cover.</note></l><l/><l n="16" xml:id="spp-394-06E2-line-16">Could give him more delight.</l><l/><l n="17" xml:id="spp-394-06E2-line-17"/></lg><lg n="5" type="stanza"><l>When Pope has fill'd the margins round,&#13;</l><l/><l n="18" xml:id="spp-394-06E2-line-18">Why then recal your loan;</l><l/><l n="19" xml:id="spp-394-06E2-line-19">Sell them to Curll for fifty pound,</l><l/><l n="20" xml:id="spp-394-06E2-line-20">And swear they are your own.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

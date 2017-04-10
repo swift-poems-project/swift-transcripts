@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To Their Excellencies &amp;.c.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-069-651B-footnote-1 #spp-069-651B-line-25"/>
+          <link target="#spp-069-651B-footnote-2 #spp-069-651B-line-26"/>
+        </linkGrp>
+        <div n="069-651B" type="poem"><head type="note" n="1" xml:id="spp-069-651B-headnote-1"><lg n="1" xml:id="spp-069-651B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-069-651B-headnote-1-line-group-1-line-1"><lb/><lb/>The Humble Petition of Frances Harris, <lb/> who must starve, and Dy a Maid if it Miscarries.</l></lg></head><head type="note" n="2" xml:id="spp-069-651B-headnote-2"><lg n="1" xml:id="spp-069-651B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-069-651B-headnote-2-line-group-1-line-1">see page 258</l></lg></head><head type="note" n="3" xml:id="spp-069-651B-headnote-3"><lg n="1" xml:id="spp-069-651B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-069-651B-headnote-3-line-group-1-line-1">Sept: 10<hi rend="sup">th</hi> 08. 1708.</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-069-651B-line-1">Humbly sheweth.</l></lg><lg n="2" type="triplet"><l n="2" xml:id="spp-069-651B-line-2">That I went to warm my self in Lady Betty's Chamber, because I was Cold&#13;</l><l n="3" xml:id="spp-069-651B-line-3"> And I had in a purse 7<hi rend="sup">ḷ</hi> 8<hi rend="sup">ṣ</hi> 4<hi rend="sup">ḍ</hi> (beside Farthings) in Mony and Gold.</l><l n="4" xml:id="spp-069-651B-line-4"> So because I had been buying Things for my Lady last Night</l><l n="5" xml:id="spp-069-651B-line-5"> I was Resolv'd to tell my Mony to see if it was Right.</l><l n="6" xml:id="spp-069-651B-line-6"> Now you must know because my Trunk has a uery Bad Lock</l><l n="7" xml:id="spp-069-651B-line-7"> Therfore all the Mony I have which <hi rend="underline">Alas</hi>, is a uery small Stock</l><l n="8" xml:id="spp-069-651B-line-8"> I keep in a Pocket ty'd about my Middle next my Smock</l><l n="9" xml:id="spp-069-651B-line-9"> So when I put up my purse as <hi rend="underline">ill luck</hi> wou'd have it, my Shift was unripp'd</l><l n="10" xml:id="spp-069-651B-line-10"> And instead of putting it into my Pocket down it slipt</l><l n="11" xml:id="spp-069-651B-line-11"> Then the Bell rung and I went down to put my Lady to Bed</l><l n="12" xml:id="spp-069-651B-line-12"> When I <hi rend="underline">verily</hi> thought my Mony was as Safe as my Maiden-Head.</l><l n="13" xml:id="spp-069-651B-line-13"> So when I came up agen, I found my Pocket very light</l><l n="14" xml:id="spp-069-651B-line-14"> But when I search'd and Missed my Purse, I thought I shou'd ha' sunk outright.</l><l n="15" xml:id="spp-069-651B-line-15"> Lord Madam says Mary, How Do you doe? Indeed says I neuer worse</l><l n="16" xml:id="spp-069-651B-line-16"> But pray Mary Can you tell what I have Done with my Purse.</l><l n="17" xml:id="spp-069-651B-line-17"> Lord help me said Mary I neuer stirr'd out of this Place.</l><l n="18" xml:id="spp-069-651B-line-18"> Nay said I, I had it in Lady Betty's Chamber that's a Plain Case.So Mary gott me to Bed and Cover'd me up warm</l><l n="19" xml:id="spp-069-651B-line-19"> Howeuer she stole away my Garters, That I might Do my self no Harm.</l><l n="20" xml:id="spp-069-651B-line-20"> So I tumbl'd and toss'd all the Night, as you may very well think</l><l n="21" xml:id="spp-069-651B-line-21"> But hardly euer set my Eies togather, or slept a wink.So I was Dream'd methoughts that we went and search'd y<hi rend="sup">e</hi> folks round</l><l n="22" xml:id="spp-069-651B-line-22"> And in a Corner of M<hi rend="sup">rs</hi> Duke's Box, ty'd in a Rag, the Mony was Found.So next Morning wee told Whittle, and He fell a Swearing;</l><l n="23" xml:id="spp-069-651B-line-23"> Than M<hi rend="sup">rs</hi> Wadgar Comes, and She you must know is Thick of Hearing.</l><l n="24" xml:id="spp-069-651B-line-24"> Dame said I as loud as I Cou'd Bawl, do y<hi rend="sup">u</hi> know w<hi rend="sup">t</hi> a loss I have had,</l><l n="25" xml:id="spp-069-651B-line-25"> Nay, said she my L<hi rend="sup">ḍ</hi><ref target="#spp-069-651B-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-069-651B-footnote-1">Ld: Galloway.</note><hi rend="underline">Colway</hi>'s Folks are all uery Sad──</l><l n="26" xml:id="spp-069-651B-line-26"> For my Lord <ref target="#spp-069-651B-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-069-651B-footnote-2">Ld: Drogheda.</note><hi rend="underline">Dromedary</hi> Comes a Tusday without Fail──Puh said I, but thats not the Business I ail.</l><l n="27" xml:id="spp-069-651B-line-27"> Says Cary, says He, I have been a Serv<hi rend="sup">ṭ</hi> this 5. an 20 years Come Spring</l><l n="28" xml:id="spp-069-651B-line-28"> And in all the Places I liv'd, I neuer heard of such a Thing.</l><l n="29" xml:id="spp-069-651B-line-29"> Yes, says the Steward when I was at my Lady Shrewsbury's</l><l n="30" xml:id="spp-069-651B-line-30"> Such a Thing as this happen'd, just about the time of Goosburys.</l><l n="31" xml:id="spp-069-651B-line-31"> So I went to the Party suspected, and found her full of greif.</l><l n="32" xml:id="spp-069-651B-line-32"> Now you must know of all Things in the World, I hate a Theif.</l><l n="33" xml:id="spp-069-651B-line-33"> However I was resolu'd to bring the Discourse Slily about</l><l n="34" xml:id="spp-069-651B-line-34"> M<hi rend="sup">rs</hi> Duke's said I, here's an Vgly Accident happen'd out;</l><l n="35" xml:id="spp-069-651B-line-35"> 'Tis not that I value the Mony three Skips of a Lowse,</l><l n="36" xml:id="spp-069-651B-line-36"> But the Thing I stand upon is the Credit of the Howse.</l><l n="37" xml:id="spp-069-651B-line-37"> 'Tis true 7<hi rend="sup">ḷ</hi> an 4<hi rend="sup">ṣ</hi> an 6<hi rend="sup">ḍ</hi> makes a great Hole in my Wages</l><l n="38" xml:id="spp-069-651B-line-38"> Besides as they say, service is no Inheritance in these Ages;</l><l n="39" xml:id="spp-069-651B-line-39"> Now M<hi rend="sup">rs</hi>:  Dukes you know and every Body Vnderstands</l><l n="40" xml:id="spp-069-651B-line-40"> That tho' 'tis hard to judg──Mony Can't go without Hands.</l><l n="41" xml:id="spp-069-651B-line-41"> The Devil take me said she (Blessing herself) if I euer saw't</l><l n="42" xml:id="spp-069-651B-line-42"> So she roar'd like a Bedlam, as tho'f I had Call'd Her to Naught.</l><l n="43" xml:id="spp-069-651B-line-43"> So, you know what cou'd I say to her any more</l><l n="44" xml:id="spp-069-651B-line-44"> I e'en left her; and came away as wise as I was before.</l><l n="45" xml:id="spp-069-651B-line-45"> Well; but then they wou'd have had me gone to the Cunning Man</l><l n="46" xml:id="spp-069-651B-line-46"> No said I tis the same Thing, The Chaplain will be here anon.</l><l n="47" xml:id="spp-069-651B-line-47"> So the Chaplain Came in, Now the Servants say, He is my Sweet-HeartBecause hee's alwaies in my Chamber, and I alwaies take his part.</l><l n="48" xml:id="spp-069-651B-line-48"> So, as the Devil wou'd haue it, before I was aware, out I blunder'd</l><l n="49" xml:id="spp-069-651B-line-49"> Parson said I, can you Cast a Nativity when a Body's Plunder'd.</l><l n="50" xml:id="spp-069-651B-line-50"> Now you must know, He hates to be Call'd Parson like y<hi rend="sup">e</hi> Devil;</l><l n="51" xml:id="spp-069-651B-line-51"> Truly said he, M<hi rend="sup">rṣ</hi> Nab; it might become you to be more Civill.</l><l n="52" xml:id="spp-069-651B-line-52"> If your Mony be gone; As a Learned Divine say's d'ye see</l><l n="53" xml:id="spp-069-651B-line-53"> You are no Text for my handling, take that from mee.</l><l n="54" xml:id="spp-069-651B-line-54"> I was neuer taken for a Conjuror before, I'd haue you to know</l><l n="55" xml:id="spp-069-651B-line-55"> Lord said I, don't be Angry, I'm sure I never Thought you So.</l><l n="56" xml:id="spp-069-651B-line-56"> You know I honour the Cloath; I design to be a Parsons Wife;</l><l n="57" xml:id="spp-069-651B-line-57"> I neuer took one in your Coat, for a Conjurer in all my Life.</l><l n="58" xml:id="spp-069-651B-line-58"> With that He Twisted his Girdle like a Rope, as who shou'd say</l><l n="59" xml:id="spp-069-651B-line-59"> Now you may go Hang your self for me, and so went away.</l><l n="60" xml:id="spp-069-651B-line-60"> Well, I thought I shou'd have Swoon'd, Lord said I, what shall I Do?</l><l n="61" xml:id="spp-069-651B-line-61"> I've lost my Mony, and I shall loose my True-Love too.</l><l n="62" xml:id="spp-069-651B-line-62"> Then my Lord Call'd me, Harris said my Lord, don't Cry</l><l n="63" xml:id="spp-069-651B-line-63"> I'le give somthing toward thy loss, and says my Lady so will I.</l><l n="64" xml:id="spp-069-651B-line-64"> Oh but said I, what if after all, my Chaplain won't come too</l><l n="65" xml:id="spp-069-651B-line-65"> For that He said, (an't please your Excellencys) I must Petition you.</l></lg><lg n="3" type="stanza"><l n="66" xml:id="spp-069-651B-line-66">The Premisses tenderly Consider'd, I desire y<hi rend="sup">r</hi> Excellencys Protection</l><l n="67" xml:id="spp-069-651B-line-67"> And that I may haue a share in Next Sundays Collection.</l><l n="68" xml:id="spp-069-651B-line-68"> And ouer and aboue, that I may haue your Excellencys Letter</l><l n="69" xml:id="spp-069-651B-line-69"> With an Order for the Chaplain aforesaid, or (instead of Him) a Better.</l><l n="70" xml:id="spp-069-651B-line-70"> And then your Poor Petitioner both Night and Day,</l><l n="71" xml:id="spp-069-651B-line-71"> Or the Chaplain (for 'tis His Trade) as in Duty Bound shall euer pray.069-651B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

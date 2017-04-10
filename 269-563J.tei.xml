@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On y<hi rend="sup">e</hi> late Countess of Donegal. Published upon her Ladyship's interment in her family vault at Garrick-fergus by Dean Swift.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="269-563J" type="letter"><head type="note" n="1" xml:id="spp-269-563J-headnote-1"><lg n="1" xml:id="spp-269-563J-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-269-563J-headnote-1-line-group-1-line-1">Sir</l></lg></head><head type="note" n="2" xml:id="spp-269-563J-headnote-2"><lg n="1" xml:id="spp-269-563J-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-269-563J-headnote-2-line-group-1-line-1">I should be glad to see a compleat Edition of D<hi rend="sup">r</hi> 08. Swift's works. I have y<hi rend="sup">r</hi>fore sent you these two copys of Verses &amp; an account of some other things w<hi rend="sup">ch</hi> are not in his works. I am Sir</l></lg></head><head type="note" n="3" xml:id="spp-269-563J-headnote-3"><lg n="1" xml:id="spp-269-563J-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-269-563J-headnote-3-line-group-1-line-1">y<hi rend="sup">rs</hi> 08. Tho<hi rend="sup">s</hi> 08. Johnson.</l></lg></head><head type="note" n="4" xml:id="spp-269-563J-headnote-4"><lg n="1" xml:id="spp-269-563J-headnote-4-line-group-1" type="headnote"><l n="1" xml:id="spp-269-563J-headnote-4-line-group-1-line-1">1743.</l></lg></head><head type="note" n="5" xml:id="spp-269-563J-headnote-5"><lg n="1" xml:id="spp-269-563J-headnote-5-line-group-1" type="headnote"><l n="1" xml:id="spp-269-563J-headnote-5-line-group-1-line-1">Item Letters amongst Pope's works ────Item a Letter of Swift's in his youth Published in y<hi rend="sup">e</hi> Gent. Magazine ──Item several things published in y<hi rend="sup">e</hi> 4<hi rend="sup">th</hi> 08. volume of y<hi rend="sup">e</hi> \<hi rend="underline">del·character</hi>\ English Minor Poets.</l></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-269-563J-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> Unerring Heaven w<hi rend="sup">tḥ</hi> bounteous hand,</l><l n="2" xml:id="spp-269-563J-line-2"> Hath formed a model for your land,</l><l n="3" xml:id="spp-269-563J-line-3"> Whom Jove endowed with every grace;</l><l n="4" xml:id="spp-269-563J-line-4"> The Glory of the Granard Race:</l><l n="5" xml:id="spp-269-563J-line-5"> Now destined by y<hi rend="sup">e</hi> powers divine,</l><l n="6" xml:id="spp-269-563J-line-6"> The blessing of another line.</l><l n="7" xml:id="spp-269-563J-line-7"> Then would you paint a matchless dame,</l><l n="8" xml:id="spp-269-563J-line-8"> Whom you would consign to endless fame?</l><l n="9" xml:id="spp-269-563J-line-9"> Invoke not Cythereas aid,</l><l n="10" xml:id="spp-269-563J-line-10"> Nor borrow from y<hi rend="sup">e</hi> blue-eyed maid;</l><l n="11" xml:id="spp-269-563J-line-11"> Nor need you on y<hi rend="sup">e</hi> Graces call</l><l n="12" xml:id="spp-269-563J-line-12"> Take qualitys from Donegall.269-563J   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

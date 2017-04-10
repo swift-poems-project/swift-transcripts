@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Newgates Garland</title>
+        <title>Being</title>
+        <title>A New Ballad</title>
+        <title>Shewing</title>
+        <title>How M<hi rend="sup">r</hi> 08. <hi rend="black-letter">Jonathan Wild's</hi> Throat was cut from Ear to Ear with a</title>
+        <title>Penknife by <hi rend="black-letter">M<hi rend="sup">r</hi> 08. <hi rend="black-letter">Blake alias Blewskin</hi> the bold Highwayman,<lb/></hi></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y13-760L" type="poem"><head type="note" n="1" xml:id="spp-Y13-760L-headnote-1"><lg n="1" xml:id="spp-Y13-760L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y13-760L-headnote-1-line-group-1-line-1">To the Tune of the Cut-Purse.</l></lg></head><head type="note" n="2" xml:id="spp-Y13-760L-headnote-2"><lg n="1" xml:id="spp-Y13-760L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y13-760L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y13-760L-headnote-3"><lg n="1" xml:id="spp-Y13-760L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y13-760L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y13-760L-line-1" rend="align(center)">1.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-Y13-760L-line-2" rend="flush left">Ye Fellows of Newgate, whose Fingers are nice,&#13;</l><l n="3" xml:id="spp-Y13-760L-line-3"> In diving in Pockets, or cogging of Dice,</l><l n="4" xml:id="spp-Y13-760L-line-4"> Ye Sharpers so rich, who can buy of the Noose,</l><l n="5" xml:id="spp-Y13-760L-line-5"> Ye honester poor Rogues, who die in your Shoes,Attend and draw near,Good news ye shall hear,</l><l n="6" xml:id="spp-Y13-760L-line-6"> How <hi rend="black-letter">Jonathan's</hi> Throat was cut, from Ear to Ear,</l><l n="7" xml:id="spp-Y13-760L-line-7"> How <hi rend="black-letter">Blewskin's</hi> sharp Penknife hath set you at Ease,</l><l n="8" xml:id="spp-Y13-760L-line-8" rend="align(center)"> And every Man round me may rob, if they please.2.</l></lg><lg n="3" type="stanza"><l n="9" xml:id="spp-Y13-760L-line-9" rend="flush left">When to the Old Bailey this <hi rend="black-letter">Blewskin</hi> was led,</l><l n="10" xml:id="spp-Y13-760L-line-10"> He held up his Hand, his Indictment was read,</l><l n="11" xml:id="spp-Y13-760L-line-11"> Loud rattl'd his Chains, near him <hi rend="black-letter">Jonathan</hi> stood,</l><l n="12" xml:id="spp-Y13-760L-line-12"> For full forty Pounds, was the Price of his Blood:Then hopeless of Life,He drew his Penknife,And made a sad Widdow of <hi rend="black-letter">Jonathan's</hi> Wife,</l><l n="13" xml:id="spp-Y13-760L-line-13"> But forty Pounds paid her, her Grief shall appease,</l><l n="14" xml:id="spp-Y13-760L-line-14" rend="align(center)"> And every man round me may rob, if they please.3.</l></lg><lg n="4" type="stanza"><l n="15" xml:id="spp-Y13-760L-line-15" rend="flush left">Some say there are Courtiers of highest Renown,&#13;</l><l n="16" xml:id="spp-Y13-760L-line-16"> Who steal the <hi rend="black-letter">King's Gold</hi>, and leave him but a <hi rend="black-letter">Crown</hi>,</l><l n="17" xml:id="spp-Y13-760L-line-17"> Some say there are <hi rend="black-letter">Peers</hi>, and some Parliament Men,</l><l n="18" xml:id="spp-Y13-760L-line-18"> Who meet once a Year to rob <hi rend="black-letter">Courtiers</hi> again.Let them all take their Swing,To pillage the <hi rend="black-letter">King</hi>And get a Blew Ribbon instead of a <hi rend="black-letter">String</hi>.</l><l n="19" xml:id="spp-Y13-760L-line-19"> Now <hi rend="black-letter">Blewskin's</hi> sharp Penknife hath set you at Ease</l><l n="20" xml:id="spp-Y13-760L-line-20" rend="align(center)"> And every man round me may rob, if they please.4.</l></lg><lg n="5" type="stanza"><l n="21" xml:id="spp-Y13-760L-line-21" rend="flush left">Knaves of Old to hide Guilt by their cunning Inventions&#13;</l><l n="22" xml:id="spp-Y13-760L-line-22"> Call'd Briberies <hi rend="black-letter">Grants</hi> and──plain Robberies <hi rend="black-letter">Pensions</hi>:</l><l n="23" xml:id="spp-Y13-760L-line-23"> Physitians and Lawyers (who take their Degrees</l><l n="24" xml:id="spp-Y13-760L-line-24"> To be Learned <hi rend="black-letter">Rogues</hi>) call'd their Pilfering──Fees;Since this happy Day,Now every man mayRob (as safe as in Office) upon the Highway.</l><l n="25" xml:id="spp-Y13-760L-line-25" rend="align(center)"> For <hi rend="black-letter">Blewskin's</hi> sharp Penknife, &amp;c.<gap/>5.</l></lg><lg n="6" type="stanza"><l n="26" xml:id="spp-Y13-760L-line-26" rend="flush left">Some cheat in the <hi rend="black-letter">Customs</hi>, some rob the <hi rend="black-letter">Excise</hi></l><l n="27" xml:id="spp-Y13-760L-line-27"> But he who robs both, is esteemed most wise,<hi rend="black-letter">Church-Wardens</hi> who always have dreaded the <hi rend="black-letter">Halter</hi></l><l n="28" xml:id="spp-Y13-760L-line-28"> As yet only venture to steal from the <hi rend="black-letter">Altar</hi>:But now to get Gold,They may be more bold,And rob on the Highway since <hi rend="black-letter">Jonathan's</hi> cold.</l><l n="29" xml:id="spp-Y13-760L-line-29" rend="align(center)"> For <hi rend="black-letter">Blewskin's</hi> sharp Penknife, &amp;c.<gap/>6.</l></lg><lg n="7" type="stanza"><l n="30" xml:id="spp-Y13-760L-line-30" rend="flush left">Some by Publick <hi rend="black-letter">Revenues</hi> which pass'd through their Hands,</l><l n="31" xml:id="spp-Y13-760L-line-31"> Have Purchas'd clean Houses, and bought dirty Lands,</l><l n="32" xml:id="spp-Y13-760L-line-32"> Some to steal from a <hi rend="black-letter">Charity</hi> think it no Sin,</l><l n="33" xml:id="spp-Y13-760L-line-33"> Which at home (says the Proverb) does always beginBut if ever you be,Assign'd a <hi rend="black-letter">Trustee</hi>,Treat not <hi rend="black-letter">Orphans</hi> like Masters of the Chancery:</l><l n="34" xml:id="spp-Y13-760L-line-34"> But take the Highway and more honestly seise,</l><l n="35" xml:id="spp-Y13-760L-line-35" rend="align(center)"> For every man round me may rob, if they please.7.</l></lg><lg n="8" type="stanza"><l n="36" xml:id="spp-Y13-760L-line-36" rend="flush left">What a Pother has here been with <hi rend="black-letter">Wood</hi> and his Brass</l><l n="37" xml:id="spp-Y13-760L-line-37"> Who would modestly make a few Half-pennies pass.</l><l n="38" xml:id="spp-Y13-760L-line-38"> The Patent is good, and the Precedents old</l><l n="39" xml:id="spp-Y13-760L-line-39"> For <hi rend="black-letter">Diomede</hi> changed his Copper for Gold.But if <hi rend="black-letter">Ireland</hi> despise,Thy new Half-pennies,With more safety to rob on the Road I advise.</l><l n="40" xml:id="spp-Y13-760L-line-40"> For <hi rend="black-letter">Blewskin's</hi> sharp Penknife has set you at Ease</l><l n="41" xml:id="spp-Y13-760L-line-41"> And ev'ry Man round me may rob, if they please.Y13-760L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="193-001M" type="poem"><head type="note" n="1" xml:id="spp-193-001M-headnote-1"><lg n="1" xml:id="spp-193-001M-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-193-001M-headnote-1-line-group-1-line-1">In Volume the 2<hi rend="sup">d</hi> 08. Page 129<hi rend="sup">th</hi> 08. Is a very severe poem, that evidently proves the violence of <hi rend="underline">Swift's</hi> resentment, The two first Lines may be read thus,</l></lg></head><head type="note" n="2" xml:id="spp-193-001M-headnote-2"><lg n="1" xml:id="spp-193-001M-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-193-001M-headnote-2-line-group-1-line-1">\after line 2:\<lb/>And again in Page 131<hi rend="sup">st</hi> 08, Line ··· of the same Poem, The Asterisks are to be thus filled up,</l></lg></head><head type="note" n="3" xml:id="spp-193-001M-headnote-3"><lg n="1" xml:id="spp-193-001M-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-193-001M-headnote-3-line-group-1-line-1">\after line 54:\This alludes to the murder of M<hi rend="sup">r</hi> Thynne (<hi rend="underline">Tom</hi> of ten thousand) who sometime before his death, had been privately married to Lady <hi rend="underline">Ogle</hi>, (widow of Lord <hi rend="underline">Ogle</hi>) afterwards Dutchess of <hi rend="underline">Somerset</hi>. M<hi rend="sup">r</hi> <hi rend="underline">Thynne</hi> was killed in Pall-Mall: Shot in his coach: by Count <hi rend="underline">Coningsmark</hi>. His Lady was, entirely innocent of his death: but <hi rend="underline">Swifts</hi>' revenge knew no limits: his motto was,</l></lg><lg n="2" xml:id="spp-193-001M-headnote-3-line-group-2" type="headnote"><l n="1" xml:id="spp-193-001M-headnote-3-line-group-2-line-1"><note rend="align(center)"><hi rend="underline">Flectere Si nequeo Superos Acheronta movebo</hi>.<note rend="flush left"/></note></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-193-001M-line-1">By an old redhair'd, murd'ring Hag pursued,&#13;</l><l n="2" xml:id="spp-193-001M-line-2"> A crazy Prelate, and a royal Prude.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l><l n="3" xml:id="spp-193-001M-line-3"> Now <unclear>del illegible addMadam Coningsmark</unclear> her vengeance vows,</l><l n="4" xml:id="spp-193-001M-line-4"> On <hi rend="underline">Swift's</hi> reproaches for her murdered spouse.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>193-001M   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

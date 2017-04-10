@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verses Writt on y<hi rend="sup">e</hi> Deanery House Window of St Patrick's.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="261-280A" type="poem"><head type="note" n="1" xml:id="spp-261-280A-headnote-1"><lg n="1" xml:id="spp-261-280A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-261-280A-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-261-280A-headnote-2"><lg n="1" xml:id="spp-261-280A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-261-280A-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-261-280A-headnote-3"><lg n="1" xml:id="spp-261-280A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-261-280A-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-261-280A-line-1">Are y<hi rend="sup">e</hi> Guests of this House Still doom'd to be cheated?</l><l n="2" xml:id="spp-261-280A-line-2"> Sure y<hi rend="sup">e</hi> Fates have decreed they by halves should be treated.</l><l n="3" xml:id="spp-261-280A-line-3"> In y<hi rend="sup">e</hi> days of good John, if You came here to dine,</l><l n="4" xml:id="spp-261-280A-line-4"> You had choice of good meat; not choice of <del>Good</del> Wine.</l><l n="5" xml:id="spp-261-280A-line-5"> In Ionathan's Reign, if You come here to eat,</l><l n="6" xml:id="spp-261-280A-line-6"> You have choice of good wine; no choice of good meat.</l><l n="7" xml:id="spp-261-280A-line-7"> Oh Jove, then how fully might all Sides be blest,</l><l n="8" xml:id="spp-261-280A-line-8"> Wouldst thou but agree to this humble request;</l><l n="9" xml:id="spp-261-280A-line-9"> Put both Deans in one, or if that's too much trouble</l><l n="10" xml:id="spp-261-280A-line-10"> Jnstead of y<hi rend="sup">e</hi> Deans, make y<hi rend="sup">e</hi> Deanery double.261-280A   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

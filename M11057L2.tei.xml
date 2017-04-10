@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CCCCLXIX.</title>
+        <title>G<hi rend="SMALL-CAPS">ALLSTOWN</hi>-H<hi rend="SMALL-CAPS">OUSE</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M11057L2" type="poem"><head type="note" n="1" xml:id="spp-M11057L2-headnote-1"><lg n="1" xml:id="spp-M11057L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M11057L2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-M11057L2-headnote-2"><lg n="1" xml:id="spp-M11057L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M11057L2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M11057L2-headnote-3"><lg n="1" xml:id="spp-M11057L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M11057L2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-M11057L2-line-1"><hi rend="display-initial">'T</hi>IS so old and so ugly, and yet so convenient,</l><l n="2" xml:id="spp-M11057L2-line-2"> You're sometimes in Pleasure tho' often in Pain in't;</l><l n="3" xml:id="spp-M11057L2-line-3"> 'Tis so large you may lodge a Friend or two with Ease in't;</l><l n="4" xml:id="spp-M11057L2-line-4"> You may turn and may stretch at your Length if you please in't.</l><l n="5" xml:id="spp-M11057L2-line-5"> 'Tis so little the Family live in a Press in't,</l><l n="6" xml:id="spp-M11057L2-line-6"> And poor <hi rend="underline">Lady Betty</hi> has scarce Room to dress in't;</l><l n="7" xml:id="spp-M11057L2-line-7"> 'Tis so cold in the Winter you can't bear to lye in't;</l><l n="8" xml:id="spp-M11057L2-line-8"> And so hot in the Summer you're ready to fry in't.</l><l n="9" xml:id="spp-M11057L2-line-9"> 'Tis so brittle 'twould scarce bear the Weight of a Tun,</l><l n="10" xml:id="spp-M11057L2-line-10"> Yet so staunch that it keeps out a great Deal of Sun.</l><l n="11" xml:id="spp-M11057L2-line-11"> 'Tis so crazy, the Weather with Ease beats quite thro' it.</l><l n="12" xml:id="spp-M11057L2-line-12"> And you're forc'd ev'ry Year in some Part to renew it.</l><l n="13" xml:id="spp-M11057L2-line-13"> 'Tis so ugly, so useful, so big, and so little,</l><l n="14" xml:id="spp-M11057L2-line-14"> 'Tis so staunch and so crazy, so strong, and so brittle,</l><l n="15" xml:id="spp-M11057L2-line-15"> 'Tis at one Time so hot, and another so cold,</l><l n="16" xml:id="spp-M11057L2-line-16"> It is Part of the new and Part of the old,</l><l n="17" xml:id="spp-M11057L2-line-17"> It is just half a Blessing, and just half a Curse,</l><l n="18" xml:id="spp-M11057L2-line-18"> I wish then, dear <hi rend="underline">George</hi>, it were better or worse.</l></lg><lg n="2" type="stanza"><l n="19" xml:id="spp-M11057L2-line-19" rend="flush right">Dr. D<hi rend="SMALL-CAPS">ELANY</hi>.M11057L2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-715-0852-title-1"><hi rend="underline">A </hi>REBUS<hi rend="underline"> written by a</hi> <ref target="#spp-715-0852-footnote-title-1">1</ref><note n="1" xml:id="spp-715-0852-footnote-title-1" place="foot">Mrs.<hi rend="underline"> Vanhomrigh.</hi></note> L<hi rend="SMALL-CAPS">ADY</hi>, <hi rend="underline">on the Revd.</hi></title>
+        <title><hi rend="underline">D──n S────<hi rend="SMALL-CAPS">T</hi>. </hi>With his«MDNM» ANSWER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-715-0852-footnote-title-1 #spp-715-0852-title-1"/>
+        </linkGrp>
+        <div n="715-0852" type="poem"><head type="note" n="1" xml:id="spp-715-0852-headnote-1"><lg n="1" xml:id="spp-715-0852-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-715-0852-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-715-0852-headnote-2"><lg n="1" xml:id="spp-715-0852-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-715-0852-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-715-0852-headnote-3"><lg n="1" xml:id="spp-715-0852-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-715-0852-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-715-0852-line-1" rend="flush right"><hi rend="display-initial">C</hi>UT the Name of the M<hi rend="SMALL-CAPS">AN</hi> who his M<hi rend="SMALL-CAPS">ISTRESS</hi> deny'd,<hi rend="underline">Jo──seph</hi>.</l><l n="2" xml:id="spp-715-0852-line-2"> And let the first of it be only apply'd</l><l n="3" xml:id="spp-715-0852-line-3" rend="flush right"> To join with the P<hi rend="SMALL-CAPS">ROPHET</hi> who D<hi rend="SMALL-CAPS">AVID</hi> did chide.<hi rend="underline">Nathan</hi>.</l><l n="4" xml:id="spp-715-0852-line-4"> Then say what a <hi rend="underline">Horse</hi> is that runs very <hi rend="underline">fast</hi>,</l><l n="5" xml:id="spp-715-0852-line-5"> And that which deserves to be <hi rend="underline">first</hi> put the last;</l><l n="6" xml:id="spp-715-0852-line-6"> Spell all then, and put them together to find</l><l n="7" xml:id="spp-715-0852-line-7"> The <hi rend="underline">Name</hi> and the <hi rend="underline">Virtue</hi> of <hi rend="underline">Him</hi> I design'd.</l><l n="8" xml:id="spp-715-0852-line-8"> Like the <hi rend="underline">Patriarch</hi> in <hi rend="underline">Egypt</hi>, he's vers'd in the <hi rend="underline">State</hi>,</l><l n="9" xml:id="spp-715-0852-line-9"> Like the <hi rend="underline">Prophet</hi> in <hi rend="underline">Jeury</hi>, he's free with the <hi rend="underline">Great</hi>.</l><l n="10" xml:id="spp-715-0852-line-10"> Like a <hi rend="underline">Racer</hi> he flies to succour with Speed,</l><l n="11" xml:id="spp-715-0852-line-11"> When his <hi rend="underline">Friends</hi> want his Aid, or <hi rend="underline">Desert</hi> is in Need.715-0852   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

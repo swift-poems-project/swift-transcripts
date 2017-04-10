@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="553K910O" type="letter"><head type="note" n="1" xml:id="spp-553K910O-headnote-1"><lg n="1" xml:id="spp-553K910O-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-553K910O-headnote-1-line-group-1-line-1">Natus. 30<hi rend="sup">o</hi> Novris\<hi rend="underline">tittle over the "ri"</hi>\ 166\<hi rend="underline">del</hi>·8·<hi rend="underline">add</hi>·7\. Denatus. Oct.····· 1745.\<hi rend="underline">on title page, under edition statement\</hi></l></lg></head><head type="note" n="2" xml:id="spp-553K910O-headnote-2"><lg n="1" xml:id="spp-553K910O-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-553K910O-headnote-2-line-group-1-line-1">Feb 12<hi rend="sup">o</hi> 1738 JG. \<hi rend="underline">at foot of title page, under imprint; presumably the date of the original purchaser IG or JG's purchase</hi>\</l></lg></head><head type="note" n="3" xml:id="spp-553K910O-headnote-3"><lg n="1" xml:id="spp-553K910O-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-553K910O-headnote-3-line-group-1-line-1">chose\<hi rend="underline">printed letter del</hi>·s\ \<hi rend="underline">correcting the La Rochefoucauld maxim</hi>\</l></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-553K910O-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> And <unclear>printed word underlined</unclear> ···· ·<del>undon</del> ·· ··· ······ Kind Lady Suffolk</l><l n="2" xml:id="spp-553K910O-line-2"> ···· ········ ·· ·· ···· ···. d<gap/><gap/></l><l n="3" xml:id="spp-553K910O-line-3"> Why If he's dead, e'en let him rott,</l><l n="4" xml:id="spp-553K910O-line-4"> I'm glad The Medals were forgot;</l><l n="5" xml:id="spp-553K910O-line-5"> 'Tis true I promis'd him, but when?</l><l n="6" xml:id="spp-553K910O-line-6"> I only was a P········ then.</l><l n="7" xml:id="spp-553K910O-line-7"> But now as consort of a K</l><l n="8" xml:id="spp-553K910O-line-8"> You know 'tis quite another thing.··· ········· ·· S<hi rend="sup">r</hi> R ······<gap/><gap/></l><l n="9" xml:id="spp-553K910O-line-9"> ······ Bobb ··· ····· ··· ··· ·····<gap/><gap/><gap/><gap/><gap/><gap/><gap/></l><l n="10" xml:id="spp-553K910O-line-10"> d <unclear>written above Tibbalds</unclear> d <unclear>written above Moore</unclear><gap/><gap/><gap/><gap/><gap/><gap/></l><l n="11" xml:id="spp-553K910O-line-11"> d <unclear>written above Pope</unclear> d <unclear>written above Gay</unclear></l><l n="12" xml:id="spp-553K910O-line-12"> d <unclear>written above Arbuthnot</unclear><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l><l n="13" xml:id="spp-553K910O-line-13"> d <unclear>written above Lintot</unclear><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>553K910O   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE</title>
+        <title>Description of Dunkirk</title>
+        <title>WITH</title>
+        <title><hi rend="underline">Squash</hi>'s and Dismal's<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X98AD235" type="poem"><head type="note" n="1" xml:id="spp-X98AD235-headnote-1"><lg n="1" xml:id="spp-X98AD235-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X98AD235-headnote-1-line-group-1-line-1">How easily <hi rend="underline">Prince Eugene</hi> may retake it, and <lb/> many other matters of the last <hi rend="underline">Importance</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-X98AD235-headnote-2"><lg n="1" xml:id="spp-X98AD235-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X98AD235-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X98AD235-headnote-3"><lg n="1" xml:id="spp-X98AD235-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X98AD235-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-X98AD235-line-1"><hi rend="display-initial">H</hi>ARLEY at length has reapd the Fame,</l><l n="2" xml:id="spp-X98AD235-line-2"> His Father sow'd in Actions Just,</l><l n="3" xml:id="spp-X98AD235-line-3"> And raisd his Family a Name</l><l n="4" xml:id="spp-X98AD235-line-4"> Renownd for faithfulness in Trust.</l><l n="5" xml:id="spp-X98AD235-line-5"> Dunkirk to save for <hi rend="underline">Englands</hi> good</l><l n="6" xml:id="spp-X98AD235-line-6"> Sir Edward strove with Might and Main,</l><l n="7" xml:id="spp-X98AD235-line-7"> Which without Cost, and without Blood</l><l n="8" xml:id="spp-X98AD235-line-8"> His Son dos gloriously Regain.</l><l n="9" xml:id="spp-X98AD235-line-9"> Our <hi rend="underline">Whigs</hi> are mad the <hi rend="underline">Dutch</hi> repine</l><l n="10" xml:id="spp-X98AD235-line-10"> The Germans gnash their teeth to see,</l><l n="11" xml:id="spp-X98AD235-line-11"> His measures Crownd in each design</l><l n="12" xml:id="spp-X98AD235-line-12"> In spite of their Inveteracie.</l><l n="13" xml:id="spp-X98AD235-line-13"> All <hi rend="underline">Britain</hi> by his Actions knows</l><l n="14" xml:id="spp-X98AD235-line-14"> Her Friends from such as are her Foes,</l><l n="15" xml:id="spp-X98AD235-line-15"> For <hi rend="underline">Patriots</hi> are by Actions shown</l><l n="16" xml:id="spp-X98AD235-line-16"> As by their fruits the Trees are known.</l><l n="17" xml:id="spp-X98AD235-line-17"> Thus <hi rend="underline">Harleys</hi> deeds are Great and Good</l><l n="18" xml:id="spp-X98AD235-line-18"> Not Chargable nor staind with Blood,</l><l n="19" xml:id="spp-X98AD235-line-19"> So that his Wisdom's better far</l><l n="20" xml:id="spp-X98AD235-line-20"> Than Malbro's Swords and Guns in War.</l><l n="21" xml:id="spp-X98AD235-line-21"> Since <hi rend="underline">Oxford</hi>'s Wisdom <hi rend="underline">Dunkirk</hi> won</l><l n="22" xml:id="spp-X98AD235-line-22"> A work too Great for Fighting John.</l><l n="23" xml:id="spp-X98AD235-line-23"> And <hi rend="underline">France</hi> so long Declar'd a Foe</l><l n="24" xml:id="spp-X98AD235-line-24"> To Peace, her love of Peace dos show.</l><l n="25" xml:id="spp-X98AD235-line-25"> And proves in Treaties she's sincere</l><l n="26" xml:id="spp-X98AD235-line-26"> Now Knaves and Rebels Disappear</l><l n="27" xml:id="spp-X98AD235-line-27"> For none but Ideots would trust</l><l n="28" xml:id="spp-X98AD235-line-28"> The Coveteous and the unjust.</l><l n="29" xml:id="spp-X98AD235-line-29"> But when such Enemies they have</l><l n="30" xml:id="spp-X98AD235-line-30"> Like <hi rend="underline">Harley</hi> Loyal <hi rend="underline">Ormond</hi> Brave,<hi rend="underline">Dunkirk</hi> the Richest Gem in <hi rend="underline">France</hi></l><l n="31" xml:id="spp-X98AD235-line-31"> They yield, that Peace they may Advance.</l><l n="32" xml:id="spp-X98AD235-line-32"> The <hi rend="underline">Dutch</hi> therein to see our Banners</l><l n="33" xml:id="spp-X98AD235-line-33"> Displayd, begin to mend their Manners,</l><l n="34" xml:id="spp-X98AD235-line-34"> To eat their words and stink for fear</l><l n="35" xml:id="spp-X98AD235-line-35"> And own in the wrong Box they were.</l><l n="36" xml:id="spp-X98AD235-line-36"> To Treat great <hi rend="underline">Ormond</hi> as they've done</l><l n="37" xml:id="spp-X98AD235-line-37"> And lye i'th' Face of the Bright Sun,</l><l n="38" xml:id="spp-X98AD235-line-38"> First the half Charge o'th' War's to sore</l><l n="39" xml:id="spp-X98AD235-line-39"> Next they can pay the whole and more.</l><l n="40" xml:id="spp-X98AD235-line-40"> And in Comtempt of <hi rend="underline">Heaven</hi> and <hi rend="underline">ANNE</hi></l><l n="41" xml:id="spp-X98AD235-line-41"> Prevaricate with God and Man,</l><l n="42" xml:id="spp-X98AD235-line-42"> As Snug at Roost as sets a Pullet<hi rend="underline">Eugene</hi> on Cock-Horse fears no Bullet.</l><l n="43" xml:id="spp-X98AD235-line-43"> One Leg o'er's Saddle Pommel throws</l><l n="44" xml:id="spp-X98AD235-line-44"> With Snuff sets Charging of his Nose,</l><l n="45" xml:id="spp-X98AD235-line-45"> As safe behind his Horses head</l><l n="46" xml:id="spp-X98AD235-line-46"> As any Crispin in a shed.</l><l n="47" xml:id="spp-X98AD235-line-47"> Yet he himself for all his Cunning</l><l n="48" xml:id="spp-X98AD235-line-48"> Much fears our <hi rend="underline">English</hi> way of Gunning,</l><l n="49" xml:id="spp-X98AD235-line-49"> And finding he has been mistaken</l><l n="50" xml:id="spp-X98AD235-line-50"> Grows Complaisant to save his Bacon.</l><l n="51" xml:id="spp-X98AD235-line-51"> But th' other Day in Height of Pride</l><l n="52" xml:id="spp-X98AD235-line-52"> The <hi rend="underline">English</hi> thus he did deride,</l><l n="53" xml:id="spp-X98AD235-line-53"> They send a Warlike Plenipo</l><l n="54" xml:id="spp-X98AD235-line-54"> To make a Peace and for a show.</l><l n="55" xml:id="spp-X98AD235-line-55"> (As if <hi rend="underline">Dutch</hi> limits they'd extend)</l><l n="56" xml:id="spp-X98AD235-line-56"> A Peacefull General they send,</l><l n="57" xml:id="spp-X98AD235-line-57"> For all <hi rend="underline">Eugene</hi> is grown so Witty</l><l n="58" xml:id="spp-X98AD235-line-58"> The little Man must Change his Ditty.</l><l n="59" xml:id="spp-X98AD235-line-59"> When he shall know from France and Spain</l><l n="60" xml:id="spp-X98AD235-line-60"> How much for <hi rend="underline">Britain</hi>'s good we Gain.</l><l n="61" xml:id="spp-X98AD235-line-61"> For one Pacifick grand Campaign</l><l n="62" xml:id="spp-X98AD235-line-62"> Shall do great <hi rend="underline">Britain</hi> far more good.</l><l n="63" xml:id="spp-X98AD235-line-63"> Then all that Cost us so much Blood</l><l n="64" xml:id="spp-X98AD235-line-64"> When Homebred Vipers without Measure</l><l n="65" xml:id="spp-X98AD235-line-65"> Made prey and Plunder of our Treasure</l><l n="66" xml:id="spp-X98AD235-line-66"> And every thing was wrong or Right.</l><l n="67" xml:id="spp-X98AD235-line-67"> Claim'd as one Subject's Perquisite<hi rend="underline">Eugene</hi> shall own all this is True,</l><l n="68" xml:id="spp-X98AD235-line-68"> Repent and beg our Pardon too</l><l n="69" xml:id="spp-X98AD235-line-69"> Or he and Mercenary Bands.</l><l n="70" xml:id="spp-X98AD235-line-70"> Shall have the lash from Villars hands</l><l n="71" xml:id="spp-X98AD235-line-71"> And then reswingd to Common sence,</l><l n="72" xml:id="spp-X98AD235-line-72"> Fly to Brave Ormond for Defence.</l><l n="73" xml:id="spp-X98AD235-line-73"> Nor longer shall our <hi rend="underline">Whiggs</hi> make Boast</l><l n="74" xml:id="spp-X98AD235-line-74"> That <hi rend="underline">Dunkirk</hi>'s but a Butter'd Toast</l><l n="75" xml:id="spp-X98AD235-line-75"> And scarce will serve (mark but their spleen)</l><l n="76" xml:id="spp-X98AD235-line-76"> To make a Breakfast for <hi rend="underline">Eugene</hi> will take't Cries <hi rend="underline">Squash</hi> by Mars,</l><l n="77" xml:id="spp-X98AD235-line-77"> Eugene</l><l n="78" xml:id="spp-X98AD235-line-78"> As Easily as Kiss his A────se.</l><l n="79" xml:id="spp-X98AD235-line-79"> Which I can the more safely swear</l><l n="80" xml:id="spp-X98AD235-line-80"> Since I and my dear Lord were there,</l><l n="81" xml:id="spp-X98AD235-line-81"> Like Chimney Sweepers Drest that we</l><l n="82" xml:id="spp-X98AD235-line-82"> Might with our Dismal Hopes agree.</l><l n="83" xml:id="spp-X98AD235-line-83"> But Tears gusht from my Eyes in floods</l><l n="84" xml:id="spp-X98AD235-line-84"> To see my Lord was in the Suds,</l><l n="85" xml:id="spp-X98AD235-line-85"> And that his Face wellwash'd at last</l><l n="86" xml:id="spp-X98AD235-line-86"> Renewd it's shallow Brownish Cast.</l><l n="87" xml:id="spp-X98AD235-line-87"> Which made him known thus all our Hopes</l><l n="88" xml:id="spp-X98AD235-line-88"> Of gathering Flourishes and Tropes</l><l n="89" xml:id="spp-X98AD235-line-89"> Without Ladders without Ropes.</l><l n="90" xml:id="spp-X98AD235-line-90"> For Winter Speeches now are o'er.</l><l n="91" xml:id="spp-X98AD235-line-91"> I provd it was in no Mans Power</l><l n="92" xml:id="spp-X98AD235-line-92"> To wash till white a Blackamoor.</l><l n="93" xml:id="spp-X98AD235-line-93"> But what most makes my Spirits Droop</l><l n="94" xml:id="spp-X98AD235-line-94"> Folks cry my Lord's a NinecomePoop,</l><l n="95" xml:id="spp-X98AD235-line-95"> A Truth they safely may Maintain</l><l n="96" xml:id="spp-X98AD235-line-96"> Since all His Speeches, Shifts and Pain</l><l n="97" xml:id="spp-X98AD235-line-97"> Are like their Washing me in Vain.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

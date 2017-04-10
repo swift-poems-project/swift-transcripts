@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">The Furniture of a Woman's MIND. Written</hi>
+        </title>
+        <title><hi rend="underline">by Dean</hi> SWIFT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-415-35HB-footnote-1 #spp-415-35HB-line-59"/>
+        </linkGrp>
+        <div n="415-35HB" type="poem"><head type="note" n="1" xml:id="spp-415-35HB-headnote-1"><lg n="1" xml:id="spp-415-35HB-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-415-35HB-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-415-35HB-headnote-2"><lg n="1" xml:id="spp-415-35HB-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-415-35HB-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-415-35HB-headnote-3"><lg n="1" xml:id="spp-415-35HB-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-415-35HB-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-415-35HB-line-1"><hi rend="display-initial">A</hi> Set of Phrases learn't by Rote;</l><l n="2" xml:id="spp-415-35HB-line-2"> A Passion for a Scarlet Coat;</l><l n="3" xml:id="spp-415-35HB-line-3"> When at a Play to laugh, or cry,</l><l n="4" xml:id="spp-415-35HB-line-4"> You cannot tell the Reason why:</l><l n="5" xml:id="spp-415-35HB-line-5"> Never to hold her Tongue a Minute;</l><l n="6" xml:id="spp-415-35HB-line-6"> While all she prates has nothing in it.</l><l n="7" xml:id="spp-415-35HB-line-7"> Whole Hours can with a Coxcomb sit,</l><l n="8" xml:id="spp-415-35HB-line-8"> And take his Nonsense all for Wit:</l><l n="9" xml:id="spp-415-35HB-line-9"> Her Learning mounts to read a Song,</l><l n="10" xml:id="spp-415-35HB-line-10"> But, half the Words pronouncing wrong;</l><l n="11" xml:id="spp-415-35HB-line-11"> Has ev'ry Repartee in Store,</l><l n="12" xml:id="spp-415-35HB-line-12"> She spoke ten thousand Times before.</l><l n="13" xml:id="spp-415-35HB-line-13"> Can ready Compliments supply</l><l n="14" xml:id="spp-415-35HB-line-14"> On all Occasions, cut and dry.</l><l n="15" xml:id="spp-415-35HB-line-15"> Such Hatred to a Parson's Gown,</l><l n="16" xml:id="spp-415-35HB-line-16"> The Sight will put her in a Swoon.</l><l n="17" xml:id="spp-415-35HB-line-17"> For Conversation well endu'd;</l><l n="18" xml:id="spp-415-35HB-line-18"> She calls it witty to be rude;</l><l n="19" xml:id="spp-415-35HB-line-19"> And, placing Raillery in Railing,</l><l n="20" xml:id="spp-415-35HB-line-20"> Will tell aloud your greatest Failing;</l><l n="21" xml:id="spp-415-35HB-line-21"> Nor make a Scruple to expose</l><l n="22" xml:id="spp-415-35HB-line-22"> Your bandy Leg, or crooked Nose;</l><l n="23" xml:id="spp-415-35HB-line-23"> Can, at her Morning Tea, run o'er</l><l n="24" xml:id="spp-415-35HB-line-24"> The Scandal of the Day before.</l><l n="25" xml:id="spp-415-35HB-line-25"> Improving hourly in her Skill,</l><l n="26" xml:id="spp-415-35HB-line-26"> To cheat and wrangle at Quadrille.</l></lg><lg n="2" type="stanza"><l n="27" xml:id="spp-415-35HB-line-27">In chusing Lace a Critick nice,&#13;</l><l n="28" xml:id="spp-415-35HB-line-28"> Knows to a Groat the lowest Price;</l><l n="29" xml:id="spp-415-35HB-line-29"> Can in her Female Clubs dispute</l><l n="30" xml:id="spp-415-35HB-line-30"> What Lining best the Silk will suit,</l><l n="31" xml:id="spp-415-35HB-line-31"> What Colours each Complexion match:</l><l n="32" xml:id="spp-415-35HB-line-32"> And where, with Art, to place a Patch.</l></lg><lg n="3" type="stanza"><l n="33" xml:id="spp-415-35HB-line-33">If chance a Mouse creeps in her Sight,&#13;</l><l n="34" xml:id="spp-415-35HB-line-34"> Can finely counterfeit a Fright;</l><l n="35" xml:id="spp-415-35HB-line-35"> So sweetly screams if it comes near her,</l><l n="36" xml:id="spp-415-35HB-line-36"> She ravishes all Hearts to hear her.</l><l n="37" xml:id="spp-415-35HB-line-37"> Can dex'rously her Husband teize,</l><l n="38" xml:id="spp-415-35HB-line-38"> By taking Fits whene'er she please:</l><l n="39" xml:id="spp-415-35HB-line-39"> By frequent Practice learns the Trick,</l><l n="40" xml:id="spp-415-35HB-line-40"> At proper Seasons to be sick;</l><l n="41" xml:id="spp-415-35HB-line-41"> Thinks nothing gives one Airs so pretty;</l><l n="42" xml:id="spp-415-35HB-line-42"> At once creating Love and Pity.</l><l n="43" xml:id="spp-415-35HB-line-43"> If <hi rend="underline">Molly</hi> happens to be careless,</l><l n="44" xml:id="spp-415-35HB-line-44"> And but neglects to warm her Hair Lace,</l><l n="45" xml:id="spp-415-35HB-line-45"> She gets a Cold as sure as Death,</l><l n="46" xml:id="spp-415-35HB-line-46"> And vows she scarce can fetch her Breath.</l><l n="47" xml:id="spp-415-35HB-line-47"> Admires how modest Women can</l><l n="48" xml:id="spp-415-35HB-line-48"> Be so <hi rend="underline">robustious</hi> like a Man.</l></lg><lg n="4" type="stanza"><l n="49" xml:id="spp-415-35HB-line-49">In Party, furious to her Power;&#13;</l><l n="50" xml:id="spp-415-35HB-line-50"> A bitter Whig, or a Tory sow'r;</l><l n="51" xml:id="spp-415-35HB-line-51"> Her Arguments directly tend</l><l n="52" xml:id="spp-415-35HB-line-52"> Against the Side she would defend:</l><l n="53" xml:id="spp-415-35HB-line-53"> Will prove herself a Tory plain,</l><l n="54" xml:id="spp-415-35HB-line-54"> From Principles the Whigs maintain;</l><l n="55" xml:id="spp-415-35HB-line-55"> And, to defend the Whiggish Cause,</l><l n="56" xml:id="spp-415-35HB-line-56"> Her Topicks from the Tories draws.</l></lg><lg n="5" type="stanza"><l n="57" xml:id="spp-415-35HB-line-57">O yes! If any Man can find&#13;</l><l n="58" xml:id="spp-415-35HB-line-58"> More Virtues in a Woman's Mind,</l><l n="59" xml:id="spp-415-35HB-line-59"> Let them be sent to Mrs. <ref target="#spp-415-35HB-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-415-35HB-footnote-1"><hi rend="underline">A Printer</hi>.</note><hi rend="underline">Harding</hi>;</l><l n="60" xml:id="spp-415-35HB-line-60"> She'll pay the Charges to a Farthing:</l><l n="61" xml:id="spp-415-35HB-line-61"> Take Notice, she has my Commission</l><l n="62" xml:id="spp-415-35HB-line-62"> To add them in the next Edition;</l><l n="63" xml:id="spp-415-35HB-line-63"> They may out-sell a better Thing;</l><l n="64" xml:id="spp-415-35HB-line-64"> So, Holla Boys; God save the King.415-35HB   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

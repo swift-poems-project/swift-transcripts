@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Description of an Jrish Feast, Translated almost<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-244-715L-footnote-1 #spp-244-715L-line-3"/>
+          <link target="#spp-244-715L-footnote-2 #spp-244-715L-line-14"/>
+        </linkGrp>
+        <div n="244-715L" type="letter"><head type="note" n="1" xml:id="spp-244-715L-headnote-1"><lg n="1" xml:id="spp-244-715L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-244-715L-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-244-715L-headnote-2"><lg n="1" xml:id="spp-244-715L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-244-715L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-244-715L-headnote-3"><lg n="1" xml:id="spp-244-715L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-244-715L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-244-715L-line-1"> O Ruark's noble Fare, will ne'er be forgot&#13;by those who were there, or those who were not</l><l n="2" xml:id="spp-244-715L-line-2"> His Revells to keep, we sup and we Dineon seven score sheep, fat Bullocks and Swine</l><l n="3" xml:id="spp-244-715L-line-3"> Usquebaugh to our feast. in Pails was brought upan hundred at least. and <ref target="#spp-244-715L-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-244-715L-footnote-1">a wooden Vessell</note> a Madder our Cup</l><l n="4" xml:id="spp-244-715L-line-4"> O there is the sport. we rise with the Lightin disorderly sort. from snoring all Night</l><l n="5" xml:id="spp-244-715L-line-5"> O how was I trick't, my Pipe it was brokMy Pocket was pick't: I lost my new Cloak</l><l n="6" xml:id="spp-244-715L-line-6"> I'm rifled quoth Nell. of Mantle and Kercherwhy then fare them well, the De'el take the Searcher</l><l n="7" xml:id="spp-244-715L-line-7"> Come Harper strike up. but first by your favourBoy give us a Cup. ay. this has some Savour</l><l n="8" xml:id="spp-244-715L-line-8"> O Ruarks jolly Boys. ne'er dream't of the Mattertill rouz'd by the noise, and Musical Clatter</l><l n="9" xml:id="spp-244-715L-line-9"> They bounce from their Nest. no longer will tarrythey rise ready drest, without one Ave Mary</l><l n="10" xml:id="spp-244-715L-line-10"> They dance in around, cutting Capers and rampingA mercy the ground, did not burst with their Stamping</l><l n="11" xml:id="spp-244-715L-line-11"> The floor is all wet, with leaps and with jumpswhile the Water and Sweat. Splish splash in their pumps</l><l n="12" xml:id="spp-244-715L-line-12"> Bless you late and early. Laughlin o Enakinby my hand you dance rarely. Margery Greenagan</l><l n="13" xml:id="spp-244-715L-line-13"> Bring straw for our Bed. shake it down to the Feetthen over us spread. the Winnowing Sheet</l><l n="14" xml:id="spp-244-715L-line-14"> To shew I don't flinch. fill the Bowl up againthen give us a pinch. of your Sneezing <ref target="#spp-244-715L-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-244-715L-footnote-2">an Irish name for a woman.</note> A Yean</l><l n="15" xml:id="spp-244-715L-line-15"> Good Lord what a sight. after all their good cheerfor people to fight. in the midst of their Beer</l><l n="16" xml:id="spp-244-715L-line-16"> They rise from their feast. and hot are their Brainsa Cubit at least. the length of their Skeans</l><l n="17" xml:id="spp-244-715L-line-17"> What stabs and what Cuts, with clattering of stickswhat strokes on the Guts. what Basting and kicks</l><l n="18" xml:id="spp-244-715L-line-18"> With Cudgels of Oak. well harden'd in flamean hundred heads broke. an hundred struck lame</l><l n="19" xml:id="spp-244-715L-line-19"> You churl I'll maintain, my father built Luskthe Castle of slane. and Carrick Drumrusk</l><l n="20" xml:id="spp-244-715L-line-20"> The Earl of Kildare, and Moynalta his Brotheras great as they are. I was nurs'd by their mother</l><l n="21" xml:id="spp-244-715L-line-21"> Ask that of old madam. She'll tell you who's whoas far up as Adam. she knows it is true</l><l n="22" xml:id="spp-244-715L-line-22"> Come down with that Beam. if Cudgels are Scarcea blow on the Weam. and a Kick on the A──se.244-715L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

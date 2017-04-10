@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>PAULUS. <hi rend="underline">By Mr</hi>. L<hi rend="SMALL-CAPS">YNDSAY</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="432A62LI" type="poem"><head type="note" n="1" xml:id="spp-432A62LI-headnote-1"><lg n="1" xml:id="spp-432A62LI-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-432A62LI-headnote-1-line-group-1-line-1">Dublin, Sept. 7, 1728.</l></lg></head><head type="note" n="2" xml:id="spp-432A62LI-headnote-2"><lg n="1" xml:id="spp-432A62LI-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-432A62LI-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-432A62LI-headnote-3"><lg n="1" xml:id="spp-432A62LI-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-432A62LI-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-432A62LI-line-1"><hi rend="display-initial">A</hi> SLAVE to crowds, scorch d with the summer heats,</l><l n="2" xml:id="spp-432A62LI-line-2"> In courts the wretched lawyer toils and sweats;</l><l n="3" xml:id="spp-432A62LI-line-3"> While smiling nature, in her best attire,</l><l n="4" xml:id="spp-432A62LI-line-4"> Regales each sense, and vernal joys inspire.</l><l n="5" xml:id="spp-432A62LI-line-5"> Can he who knows that real good should please,</l><l n="6" xml:id="spp-432A62LI-line-6"> Barter for gold his liberty and ease?</l><l n="7" xml:id="spp-432A62LI-line-7"> Thus Paulus preach'd:──When, entering at the door,</l><l n="8" xml:id="spp-432A62LI-line-8"> Upon his board a client pours the ore:</l><l n="9" xml:id="spp-432A62LI-line-9"> He grasps the shining gift, pores o'er the cause,</l><l n="10" xml:id="spp-432A62LI-line-10"> Forgets the sun, and dozeth on the laws.432A62LI   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE<lb/>DESCRIPTION<lb/>OF A<lb/>SALAMANDER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="082-422R"><head type="note" n="1" xml:id="spp-082-422R-headnote-1"><lg n="1" xml:id="spp-082-422R-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-082-422R-headnote-1-line-group-1-line-1"><hi rend="underline">Out of </hi>Pliny's<hi rend="underline"> Nat. Hist. </hi>lib.10.c.67<hi rend="underline">. &amp; </hi>lib.29.c.4.</l></lg></head><head type="note" n="2" xml:id="spp-082-422R-headnote-2"><lg n="1" xml:id="spp-082-422R-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-082-422R-headnote-2-line-group-1-line-1">\<hi rend="underline">penclled</hi> S <hi rend="underline">in right margin</hi>\</l></lg></head><head type="note" n="3" xml:id="spp-082-422R-headnote-3"><lg n="1" xml:id="spp-082-422R-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-082-422R-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-082-422R-line-1"><hi rend="display-initial">A</hi>S Mastive Dogs in modern Phrase are</l><l/><l n="2" xml:id="spp-082-422R-line-2">Call'd <hi rend="underline">Pompey, Scipio</hi>, and <hi rend="underline">C<unclear>ae</unclear>sar</hi>;</l><l/><l n="3" xml:id="spp-082-422R-line-3">As <hi rend="underline">Pyes</hi> and <hi rend="underline">Daws</hi> are often styl'd</l><l/><l n="4" xml:id="spp-082-422R-line-4">With Christian Nick-names like a Child;</l><l/><l n="5" xml:id="spp-082-422R-line-5">As we say <hi rend="underline">Monsieur</hi> to an <hi rend="underline">Ape</hi>,</l><l/><l n="6" xml:id="spp-082-422R-line-6">Without Offence to human Shape:</l><l/><l n="7" xml:id="spp-082-422R-line-7">So Men have got from Bird and Brute</l><l/><l n="8" xml:id="spp-082-422R-line-8">Names that would best their Natures suit.</l><l/><l n="9" xml:id="spp-082-422R-line-9">The <hi rend="underline">Lion, Eagle, Fox</hi>, and <hi rend="underline">Boar</hi></l><l/><l n="10" xml:id="spp-082-422R-line-10">Were Heroes Titles heretofore,</l><l/><l n="11" xml:id="spp-082-422R-line-11">Bestow'd as Hi'roglyphicks fit</l><l/><l n="12" xml:id="spp-082-422R-line-12">T' express their Valour, Strength, or Wit.</l><l/><l n="13" xml:id="spp-082-422R-line-13">For what is understood by <hi rend="underline">Fame</hi></l><l/><l n="14" xml:id="spp-082-422R-line-14">Besides the getting of a <hi rend="underline">Name</hi>?</l><l/><l n="15" xml:id="spp-082-422R-line-15">But e'er since Men invented Guns,</l><l/><l n="16" xml:id="spp-082-422R-line-16">A different Way their Fancy runs:</l><l/><l n="17" xml:id="spp-082-422R-line-17">To paint a Hero, we enquire</l><l/><l n="18" xml:id="spp-082-422R-line-18">For something that will conquer <hi rend="underline">Fire</hi>.</l><l/><l n="19" xml:id="spp-082-422R-line-19">Would you describe <hi rend="underline">Turenne</hi> or <hi rend="underline">Trump</hi>,</l><l/><l n="20" xml:id="spp-082-422R-line-20">Think of a Bucket, or a Pump.</l><l/><l n="21" xml:id="spp-082-422R-line-21">Are these too low?--- then find out grander,</l><l/><l n="22" xml:id="spp-082-422R-line-22">Call my Lord <hi rend="underline">C</hi>---- a <hi rend="underline">Salamander</hi>.</l><l/><l n="23" xml:id="spp-082-422R-line-23">'Tis well:---- But since we live among</l><l/><l n="24" xml:id="spp-082-422R-line-24">Detractors with an evil Tongue,</l><l/><l n="25" xml:id="spp-082-422R-line-25">Who may object against the Term;</l><l/><l n="26" xml:id="spp-082-422R-line-26"><hi rend="underline">Pliny</hi> shall prove what we affirm:</l><l/><l n="27" xml:id="spp-082-422R-line-27"><hi rend="underline">Pliny</hi> shall prove, and we'll apply,</l><l/><l n="28" xml:id="spp-082-422R-line-28">And I'll be judg'd by Standers-by.</l><l/><l n="29" xml:id="spp-082-422R-line-29"/></lg><lg n="2" type="stanza"><l>First then, our Author has defin'd&#13;</l><l/><l n="30" xml:id="spp-082-422R-line-30">This Reptil of the Serpent Kind,</l><l/><l n="31" xml:id="spp-082-422R-line-31">With gaudy Coat and shining Train,</l><l/><l n="32" xml:id="spp-082-422R-line-32">But loathsome Spots his Body stain:</l><l/><l n="33" xml:id="spp-082-422R-line-33">Out from some Hole obscure he flies,</l><l/><l n="34" xml:id="spp-082-422R-line-34">When Rains descend, and Tempests rise,</l><l/><l n="35" xml:id="spp-082-422R-line-35">Till the Sun clears the Air; and then</l><l/><l n="36" xml:id="spp-082-422R-line-36">Crawls back neglected to his Den.</l><l/><l n="37" xml:id="spp-082-422R-line-37"/></lg><lg n="3" type="stanza"><l>So when the War has rais'd a Storm,&#13;</l><l/><l n="38" xml:id="spp-082-422R-line-38">I've seen a <hi rend="underline">Snake</hi> in human Form,</l><l/><l n="39" xml:id="spp-082-422R-line-39">All stain'd with Infamy and Vice,</l><l/><l n="40" xml:id="spp-082-422R-line-40">Leap from the Dunghill in a Trice,</l><l/><l n="41" xml:id="spp-082-422R-line-41">Burnish, and make a gaudy Show,</l><l/><l n="42" xml:id="spp-082-422R-line-42">Become a General, Peer, and Beau;</l><l/><l n="43" xml:id="spp-082-422R-line-43">Till Peace hath made the Sky serene,</l><l/><l n="44" xml:id="spp-082-422R-line-44">Then shrink into its Hole again.</l><l/><l n="45" xml:id="spp-082-422R-line-45"/></lg><lg n="4" type="stanza"><l><hi rend="underline">All this we grant--- why then look yonder,&#13;</hi>Salamander!</l><l/><l n="46" xml:id="spp-082-422R-line-46">Sure that must be a </l><l/><l n="47" xml:id="spp-082-422R-line-47"/></lg><lg n="5" type="stanza"><l>Farther we are by <hi rend="underline">Pliny</hi> told,</l><l/><l n="48" xml:id="spp-082-422R-line-48">This <hi rend="underline">Serpent</hi> is extreamly cold,</l><l/><l n="49" xml:id="spp-082-422R-line-49">So cold, that put it in the Fire,</l><l/><l n="50" xml:id="spp-082-422R-line-50">'Twill make the very Flames expire:</l><l/><l n="51" xml:id="spp-082-422R-line-51">Beside, it spews a filthy Froth,</l><l/><l n="52" xml:id="spp-082-422R-line-52">(Whether thro' Rage, or Love, or both,)</l><l/><l n="53" xml:id="spp-082-422R-line-53">Of Matter purulent and white,</l><l/><l n="54" xml:id="spp-082-422R-line-54">Which happen<add>ing<figure><figDesc>caret</figDesc></figure></add><del>d</del> on the Skin to light,</l><l/><l n="55" xml:id="spp-082-422R-line-55">And there corrupting to a Wound,</l><l/><l n="56" xml:id="spp-082-422R-line-56">Spreads Leprosy and Baldness round.</l><l/><l n="57" xml:id="spp-082-422R-line-57"/></lg><lg n="6" type="stanza"><l>So have I seen a batter'd Beau,&#13;</l><l/><l n="58" xml:id="spp-082-422R-line-58">By Age and Claps grown cold as Snow,</l><l/><l n="59" xml:id="spp-082-422R-line-59">Whose Breath or Touch, where'er he came,</l><l/><l n="60" xml:id="spp-082-422R-line-60">Blew out Love's Torch, or chill'd the Flame.</l><l/><l n="61" xml:id="spp-082-422R-line-61">And should some Nymph who ne'er was cruel,</l><l/><l n="62" xml:id="spp-082-422R-line-62">Like <hi rend="underline">Carleton</hi> cheap, or fam'd <hi rend="underline">Du-Ruel</hi>,</l><l/><l n="63" xml:id="spp-082-422R-line-63">Receive the Filth which he ejects;</l><l/><l n="64" xml:id="spp-082-422R-line-64">She soon would find the same Effects</l><l/><l n="65" xml:id="spp-082-422R-line-65">Her tainted Carcass to pursue,</l><l/><l n="66" xml:id="spp-082-422R-line-66">As from the <hi rend="underline">Salamander</hi>'s Spue:</l><l/><l n="67" xml:id="spp-082-422R-line-67">A dismal Shedding of her Locks,</l><l/><l n="68" xml:id="spp-082-422R-line-68">And, if no Leprosy, a Pox.</l><l/><l n="69" xml:id="spp-082-422R-line-69"/></lg><lg n="7" type="stanza"><l><hi rend="underline">Then I'll appeal to each By-Stander,&#13;</hi>Salamander?</l><l/><l n="70" xml:id="spp-082-422R-line-70">Is not this same a </l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

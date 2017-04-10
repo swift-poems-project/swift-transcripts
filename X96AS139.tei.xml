@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <lb/>
+          <lb/>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X96AS139" type="poem"><head type="note" n="1" xml:id="spp-X96AS139-headnote-1"><lg n="1" xml:id="spp-X96AS139-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X96AS139-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X96AS139-headnote-2"><lg n="1" xml:id="spp-X96AS139-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X96AS139-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X96AS139-headnote-3"><lg n="1" xml:id="spp-X96AS139-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X96AS139-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X96AS139-line-1"><hi rend="display-initial">O</hi>Ccasionaly as we discourst,</l><l n="2" xml:id="spp-X96AS139-line-2"> Of State. and Church and Nation,</l><l n="3" xml:id="spp-X96AS139-line-3"> Occasionaly we took to view.That Engine call'd Occasion.</l><l n="4" xml:id="spp-X96AS139-line-4"> Occasion fram'd for nothing else,</l><l n="5" xml:id="spp-X96AS139-line-5"> But to Occasion Mischief:</l><l n="6" xml:id="spp-X96AS139-line-6"> A Cloak to cover Hypocrites,Of whom the Devil is chief,</l><l n="7" xml:id="spp-X96AS139-line-7"> Occasion for a Loop-hole serves,</l><l n="8" xml:id="spp-X96AS139-line-8"> Whenever there's Occasion,</l><l n="9" xml:id="spp-X96AS139-line-9"> To leave plain dailing in the Lurch,And fly to dear Evasion,</l><l n="10" xml:id="spp-X96AS139-line-10"> The Jesuit may Hang himself,</l><l n="11" xml:id="spp-X96AS139-line-11"> And his Equivocation:</l><l n="12" xml:id="spp-X96AS139-line-12"> That fusty Ware's·is now thrown aside,Occasions all the Fashion.<gap/><gap/><gap/><gap/></l><l n="13" xml:id="spp-X96AS139-line-13"> Some Sophisters of late divis'd,</l><l n="14" xml:id="spp-X96AS139-line-14"> This new trick call'd Occasion.</l><l n="15" xml:id="spp-X96AS139-line-15"> By which they have refin'd upon,All former Reformation</l><l n="16" xml:id="spp-X96AS139-line-16"> Dull Martyrs spilt their Blood in vain,</l><l n="17" xml:id="spp-X96AS139-line-17"> For want of this device Sir,</l><l n="18" xml:id="spp-X96AS139-line-18"> By this they might have Heathens been,And Christians in a Trice Sir,</l><l n="19" xml:id="spp-X96AS139-line-19"> Occasion more Faces hath,</l><l n="20" xml:id="spp-X96AS139-line-20"> Upon Occasion surely.</l><l n="21" xml:id="spp-X96AS139-line-21"> Than any C<unclear>anting</unclear> Quaker makes.When he holds forth demurely,</l><l n="22" xml:id="spp-X96AS139-line-22"> True SCOT upon <hi rend="underline">O</hi>ccasion.</l><l n="23" xml:id="spp-X96AS139-line-23"> Can look like English Bishop.</l><l n="24" xml:id="spp-X96AS139-line-24"> And so Impose with noise and Tone,On all that come to his Shop,</l><l n="25" xml:id="spp-X96AS139-line-25"> Occasion can make a Man,</l><l n="26" xml:id="spp-X96AS139-line-26"> With little or no Trouble,</l><l n="27" xml:id="spp-X96AS139-line-27"> Sincere, as who Acts Cat in Pan,And honest as <hi rend="underline">Tom Double</hi>,</l><l n="28" xml:id="spp-X96AS139-line-28"> Occasion permits some Men,</l><l n="29" xml:id="spp-X96AS139-line-29"> Occasionally to Lye Sir,</l><l n="30" xml:id="spp-X96AS139-line-30"> And practice things that are too vile,For such as you and I Sir,</l><l n="31" xml:id="spp-X96AS139-line-31"> Occasionally they shall conform,</l><l n="32" xml:id="spp-X96AS139-line-32"> Occasionally Dissent Sir,</l><l n="33" xml:id="spp-X96AS139-line-33"> Occasionally take an Oath,To break it with intent Sir.</l><l n="34" xml:id="spp-X96AS139-line-34"> Occasionally shall go to Church,</l><l n="35" xml:id="spp-X96AS139-line-35"> Occasionally to Meeting,</l><l n="36" xml:id="spp-X96AS139-line-36"> Occasionally betray the Lord,While they like Judas Greet him.</l><l n="37" xml:id="spp-X96AS139-line-37"> Occasionally deny him too,</l><l n="38" xml:id="spp-X96AS139-line-38"> In open View of Men Sir,</l><l n="39" xml:id="spp-X96AS139-line-39"> And where's the Harm? for when 'tis fitThey own him can agen Sir.</l><l n="40" xml:id="spp-X96AS139-line-40"> Occasionally, Communicate,</l><l n="41" xml:id="spp-X96AS139-line-41"> Occasionally refrain Sir.</l><l n="42" xml:id="spp-X96AS139-line-42"> But Constantly Communicat,<gap/>When 'twill OCCASION Geudly Men</l><l n="43" xml:id="spp-X96AS139-line-43"> To Parlirment to ride -----a,</l><l n="44" xml:id="spp-X96AS139-line-44"> And there with great Sincerity,</l><l n="45" xml:id="spp-X96AS139-line-45"> To take Occasions Side -----a,On such Occasions they can Kneel,</l><l n="46" xml:id="spp-X96AS139-line-46"> Like rankest Idolaters,</l><l n="47" xml:id="spp-X96AS139-line-47"> But Turn once serv'd, and place obtain'd.</l><l n="48" xml:id="spp-X96AS139-line-48"> No stiffer Idol-HatersThus Occasionally for God they are</l><l n="49" xml:id="spp-X96AS139-line-49"> And Occasionally for Devil,</l><l n="50" xml:id="spp-X96AS139-line-50"> Occasionally for God again.</l><l n="51" xml:id="spp-X96AS139-line-51"> Occasionally for EvilOccasionally for Heaven bound,</l><l n="52" xml:id="spp-X96AS139-line-52"> Occasionally for Hell Sir,But surely 'twill be sad to have,</l><l n="53" xml:id="spp-X96AS139-line-53"> Occasion there to dwell Sir.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

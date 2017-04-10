@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">The Beau's Reply to the Five Ladies' Answer</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="428-ROGP" type="poem"><head type="note" n="1" xml:id="spp-428-ROGP-headnote-1"><lg n="1" xml:id="spp-428-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-428-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-428-ROGP-headnote-2"><lg n="1" xml:id="spp-428-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-428-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-428-ROGP-headnote-3"><lg n="1" xml:id="spp-428-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-428-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-428-ROGP-line-1"> Why, how now dapper black,&#13;I smell your gown and cassock,</l><l n="2" xml:id="spp-428-ROGP-line-2"> As strong upon your backAs Tisdall smells of a sock.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-428-ROGP-line-3">To write such scurvy stuff!&#13;Fine ladies never do't;</l><l n="4" xml:id="spp-428-ROGP-line-4"> I know you well enough,And eke your cloven foot.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-428-ROGP-line-5">Fine ladies when they write,&#13;Nor scold, or keep a splutter.</l><l n="6" xml:id="spp-428-ROGP-line-6"> Their verses give delight,Are soft and sweet as butter.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-428-ROGP-line-7">But Satan never saw&#13;Such haggard lines as these;</l><l n="8" xml:id="spp-428-ROGP-line-8"> They stick athwart my mawAs bad as Suffolk cheese.428-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

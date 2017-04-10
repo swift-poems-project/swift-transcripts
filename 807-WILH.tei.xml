@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Advice to a PARSON.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="807-WILH" type="poem"><head type="note" n="1" xml:id="spp-807-WILH-headnote-1"><lg n="1" xml:id="spp-807-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-807-WILH-headnote-1-line-group-1-line-1"><hi rend="underline">AN EPIGRAM</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-807-WILH-headnote-2"><lg n="1" xml:id="spp-807-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-807-WILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-807-WILH-headnote-3"><lg n="1" xml:id="spp-807-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-807-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-807-WILH-line-1"><hi rend="display-initial">W</hi>OU'D you rise in the <hi rend="underline">Church</hi>, be <hi rend="underline">Stupid</hi> and <hi rend="underline">Dull</hi>,</l><l n="2" xml:id="spp-807-WILH-line-2"> Be empty of <hi rend="underline">Learning</hi>, of <hi rend="underline">Insolence</hi> full:</l><l n="3" xml:id="spp-807-WILH-line-3"> Tho' Lewd and Immoral, be Formal and Grave,</l><l n="4" xml:id="spp-807-WILH-line-4"> In <hi rend="underline">Flatt'ry</hi> an <hi rend="underline">Artist</hi>, in <hi rend="underline">Fawning</hi> a <hi rend="underline">Slave</hi>,</l><l n="5" xml:id="spp-807-WILH-line-5"> No Merit, no Science, no Virtue is wanting</l><l n="6" xml:id="spp-807-WILH-line-6"> In him, that's accomplish'd in <hi rend="underline">Cringing</hi> and <hi rend="underline">Canting</hi>:</l><l n="7" xml:id="spp-807-WILH-line-7"> Be studious to practice true <hi rend="underline">Meanness of Spirit</hi>;</l><l n="8" xml:id="spp-807-WILH-line-8"> For who but <hi rend="underline">Lord Bolton</hi> was <hi rend="underline">mitred</hi> for <hi rend="underline">Merit?</hi></l><l n="9" xml:id="spp-807-WILH-line-9"> Wou'd you wish to be wrap'd in a <hi rend="underline">Rochet</hi>──In short.</l><l n="10" xml:id="spp-807-WILH-line-10"> Be as <hi rend="underline">Pox'd</hi> and <hi rend="underline">Profane</hi> as <hi rend="underline">Fanatical H</hi>──807-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

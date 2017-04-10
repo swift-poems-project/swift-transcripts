@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>EPITAPH.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="DMills"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="235-35GK" type="poem"><head type="note" n="1" xml:id="spp-235-35GK-headnote-1"><lg n="1" xml:id="spp-235-35GK-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-235-35GK-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-235-35GK-headnote-2"><lg n="1" xml:id="spp-235-35GK-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-235-35GK-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-235-35GK-headnote-3"><lg n="1" xml:id="spp-235-35GK-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-235-35GK-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-235-35GK-line-1"><hi rend="display-initial">W</hi>ITHIN this Dormitory lies<hi rend="underline">Barbara</hi>, wealthy, tho' not wise,</l><l n="2" xml:id="spp-235-35GK-line-2"> Her friends for winding sheet bestow'd</l><l n="3" xml:id="spp-235-35GK-line-3"> Her money bags togther sew'd.</l><l n="4" xml:id="spp-235-35GK-line-4"> And that she may securely rest,</l><l n="5" xml:id="spp-235-35GK-line-5"> They now have clap'd her in a chest:</l><l n="6" xml:id="spp-235-35GK-line-6"> The very same, in which they say,</l><l n="7" xml:id="spp-235-35GK-line-7"> Her t'other self, her money lay;</l><l n="8" xml:id="spp-235-35GK-line-8"> And if her friends continue kind,</l><l n="9" xml:id="spp-235-35GK-line-9"> To that dear self she left behind,</l><l n="10" xml:id="spp-235-35GK-line-10"> I dare believe that four in five,</l><l n="11" xml:id="spp-235-35GK-line-11" rend="flush right"> Will think her better half alive.T. P.235-35GK   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

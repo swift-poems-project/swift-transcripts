@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">Lady </hi>B────B<hi rend="underline">────finding in</hi></title>
+        <title>
+          <hi rend="underline">the Authors Room some Verses</hi>
+        </title>
+        <title>
+          <hi rend="underline">Unfinished, underwrit a Stanza</hi>
+        </title>
+        <title>
+          <hi rend="underline">of her own, with Railery upon</hi>
+        </title>
+        <title>
+          <hi rend="underline">him, which gave Occasion to this</hi>
+        </title>
+        <title><hi rend="underline">Ballade</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="076-WILH" type="poem"><head type="note" n="1" xml:id="spp-076-WILH-headnote-1"><lg n="1" xml:id="spp-076-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-076-WILH-headnote-1-line-group-1-line-1"><hi rend="underline">August</hi>, 1702.</l></lg></head><head type="note" n="2" xml:id="spp-076-WILH-headnote-2"><lg n="1" xml:id="spp-076-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-076-WILH-headnote-2-line-group-1-line-1"><hi rend="underline">To the Tune of the Cutpurse</hi>.</l></lg></head><head type="note" n="3" xml:id="spp-076-WILH-headnote-3"><lg n="1" xml:id="spp-076-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-076-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-076-WILH-line-1" rend="align(center)">I.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-076-WILH-line-2" rend="flush left"><hi rend="display-initial">O</hi>NCE on a time, as old Stories reherse,A Fryer would needs show his Talent in <hi rend="underline">Latin</hi>;</l><l n="3" xml:id="spp-076-WILH-line-3"> But was sorely put to't in the midst of a Verse,Because he could find no Word to come pat in.Then all in the PlaceHe left a void Space,And so went to Bed in a desperate Case.</l><l n="4" xml:id="spp-076-WILH-line-4"> When, Behold the next Morning, a wonderful Riddle,</l><l n="5" xml:id="spp-076-WILH-line-5"> He found it was strangely fill'd in the Middle.</l></lg><lg n="3" type="stanza"><l n="6" xml:id="spp-076-WILH-line-6" rend="align(center) indent(1)">Cho. <hi rend="underline">Let Censuring Criticks then think what they list on't,Who would not Write Verses with such an assistant</hi>.II.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-076-WILH-line-7" rend="flush left">This put me the Fryar into an Amazement,&#13;For he wisely consider'd it must be a Sprite,</l><l n="8" xml:id="spp-076-WILH-line-8"> That came through the Key-Hole, or in at the Casement,And it needs must be one that could both Read and Write:Yet he did not knowIf it were Friend or Foe,Or whether it came from Above or Below.</l><l n="9" xml:id="spp-076-WILH-line-9"> Howe'er it was civil in Angel or Elf,</l><l n="10" xml:id="spp-076-WILH-line-10"> For he ne're could have fill'd it so well of himself.</l><l n="11" xml:id="spp-076-WILH-line-11" rend="align(center)"> Cho. <hi rend="underline">Let Censuring</hi>, &amp;c.<gap/>III.</l></lg><lg n="5" type="stanza"><l n="12" xml:id="spp-076-WILH-line-12" rend="flush left"/></lg><lg n="6" type="stanza"><l n="13" xml:id="spp-076-WILH-line-13">Even so Master Doctor had Puzzled his Brains&#13;In making a Ballad, but was at a Stand,</l><l n="14" xml:id="spp-076-WILH-line-14"> He had mixt little Wit with a great deal of Pains,When he found a new Help from Invisible Hand,Then Good Dr. <hi rend="underline">S</hi>────Pay Thanks for the Gift,For you freely must own you were at a Dead lift;</l><l n="15" xml:id="spp-076-WILH-line-15"> And tho' some Malicious Young Spirit did do't,</l><l n="16" xml:id="spp-076-WILH-line-16"> You may know by the Hand, it had no Cloven Foot.</l><l n="17" xml:id="spp-076-WILH-line-17" rend="indent(1)"> Cho. <hi rend="underline">Let Censuring Criticks then think what they list on't,Who would not Write Verses with such an assistant</hi>.076-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

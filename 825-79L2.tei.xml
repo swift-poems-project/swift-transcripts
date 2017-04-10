@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>HORACE, PART OF BOOK I. SAT. VI.<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-825-79L2-footnote-1 #spp-825-79L2-line-1"/>
+          <link target="#spp-825-79L2-footnote-2 #spp-825-79L2-line-7"/>
+          <link target="#spp-825-79L2-footnote-3 #spp-825-79L2-line-9"/>
+          <link target="#spp-825-79L2-footnote-4 #spp-825-79L2-line-11"/>
+          <link target="#spp-825-79L2-footnote-5 #spp-825-79L2-line-13"/>
+          <link target="#spp-825-79L2-footnote-6 #spp-825-79L2-line-16"/>
+          <link target="#spp-825-79L2-footnote-7 #spp-825-79L2-line-18"/>
+          <link target="#spp-825-79L2-footnote-8 #spp-825-79L2-line-19"/>
+        </linkGrp>
+        <div n="825-79L2" type="poem"><head type="note" n="1" xml:id="spp-825-79L2-headnote-1"><lg n="1" xml:id="spp-825-79L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-825-79L2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-825-79L2-headnote-2"><lg n="1" xml:id="spp-825-79L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-825-79L2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-825-79L2-headnote-3"><lg n="1" xml:id="spp-825-79L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-825-79L2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-825-79L2-line-1"><hi rend="display-initial">I</hi>F noisy Tom <ref target="#spp-825-79L2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-825-79L2-footnote-1">Sir Thomas Prendergast. I<hi rend="SMALL-CAPS">RISH</hi> E<hi rend="SMALL-CAPS">D</hi>.</note> should in the senate prate,</l><l n="2" xml:id="spp-825-79L2-line-2"> “That he would answer both for church and state;</l><l n="3" xml:id="spp-825-79L2-line-3"> “And, further to demonstrate his affection,</l><l n="4" xml:id="spp-825-79L2-line-4"> “Would take the kingdom into his protection:”</l><l n="5" xml:id="spp-825-79L2-line-5"> All mortals must be curious to inquire,</l><l n="6" xml:id="spp-825-79L2-line-6"> Who could this coxcomb be, and who his sire?</l><l n="7" xml:id="spp-825-79L2-line-7"> “What! thou, the spawn of him <ref target="#spp-825-79L2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-825-79L2-footnote-2">The father of Sir Thomas P────, who engaged in a plot to murder king William III; but, to avoid being hanged, turned informer against his associates, for which he was rewarded with a good estate, and made a baronet. Ibid.</note> who sham'd our isle,</l><l n="8" xml:id="spp-825-79L2-line-8"> “That traitor, assassin, informer vile!</l><l n="9" xml:id="spp-825-79L2-line-9"> “Though by the female side <ref target="#spp-825-79L2-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-825-79L2-footnote-3">Cadogan's family. I<hi rend="SMALL-CAPS">RISH</hi> E<hi rend="SMALL-CAPS">D</hi>.</note> you proudly bring,</l><l n="10" xml:id="spp-825-79L2-line-10"> “To mend your breed, the murderer of a king:</l><l n="11" xml:id="spp-825-79L2-line-11"> “What was thy grandsire <ref target="#spp-825-79L2-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-825-79L2-footnote-4">A poor thieving cottager under Mr. Moore, condemned at Clonmell assizes to be hanged for stealing cows. Ibid.</note> but a mountaineer,</l><l n="12" xml:id="spp-825-79L2-line-12"> “Who held a cabbin for ten groats a year;</l><l n="13" xml:id="spp-825-79L2-line-13"> “Whose master Moore <ref target="#spp-825-79L2-footnote-5">5</ref><note place="foot" n="5" xml:id="spp-825-79L2-footnote-5">The grandfather of Guy Moore, esq; who procured him a pardon. Ibid.`</note> preserv'd him from the halter,</l><l n="14" xml:id="spp-825-79L2-line-14"> “For stealing cows; nor could he read the Psalter!</l><l n="15" xml:id="spp-825-79L2-line-15"> “Durst thou, ungrateful, from the senate chace</l><l n="16" xml:id="spp-825-79L2-line-16"> “Thy founder's grandson <ref target="#spp-825-79L2-footnote-6">6</ref><note place="foot" n="6" xml:id="spp-825-79L2-footnote-6">Guy Moore was fairly elected member of parliament for Clonme, but Sir Thomas, depending upon his interest with a certain party then prevailing, and since known by the title of Parson-hunters, petitioned the house against him; out of which he was turned upon pretence of bribery, which the paying of his lawful debts was then voted to be. Ibid.</note>, and usurp his place?</l><l n="17" xml:id="spp-825-79L2-line-17"> “Just heaven! to see the dunghill bastard brood</l><l n="18" xml:id="spp-825-79L2-line-18"> “Survive in thee, and make the proverb good<ref target="#spp-825-79L2-footnote-7">7</ref><note place="foot" n="7" xml:id="spp-825-79L2-footnote-7">“Save a thief from the gallows, and he will cut your throat.” Ibid.</note>!</l><l n="19" xml:id="spp-825-79L2-line-19"> “Then vote a worthy citizen <ref target="#spp-825-79L2-footnote-8">8</ref><note place="foot" n="8" xml:id="spp-825-79L2-footnote-8">Mr. George Faulkner. See the verses in the following page. N.</note> to jail,</l><l n="20" xml:id="spp-825-79L2-line-20"> “In spite of justice, and refuse his bail!”825-79L2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Upon the Report of the New Order</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="389-400L" type="poem"><head type="note" n="1" xml:id="spp-389-400L-headnote-1"><lg n="1" xml:id="spp-389-400L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-389-400L-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-389-400L-headnote-2"><lg n="1" xml:id="spp-389-400L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-389-400L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-389-400L-headnote-3"><lg n="1" xml:id="spp-389-400L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-389-400L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-389-400L-line-1"> Quoth King Robbin, our Ribbands I see are so few,&#13;</l><l n="2" xml:id="spp-389-400L-line-2"> Of S<hi rend="sup">ṭ</hi> Andrew the Green, &amp; S<hi rend="sup">t</hi>. George the Blew,</l><l n="3" xml:id="spp-389-400L-line-3"> I must find out a Red one, a Colour more Gay,</l><l n="4" xml:id="spp-389-400L-line-4"> Which will tye up my Subjects, with Pride to Obey.</l><l n="5" xml:id="spp-389-400L-line-5"> Tho: the Chequer may Suffer, for prodigall Donors,</l><l n="6" xml:id="spp-389-400L-line-6"> Yet the King ne're Exhausted, that fountain of Honours;</l><l n="7" xml:id="spp-389-400L-line-7"> Men of more Wit, than Money our Pensions will fit,</l><l n="8" xml:id="spp-389-400L-line-8"> But this will bribe those of more money than Wit,</l><l n="9" xml:id="spp-389-400L-line-9"> Who with Faith most Implicit, Obeys my Commands,</l><l n="10" xml:id="spp-389-400L-line-10"> Tho as Empty as Young, or as Saucy as S────ds</l><l n="11" xml:id="spp-389-400L-line-11"> Who will soonest Leape over a stick for the King,</l><l n="12" xml:id="spp-389-400L-line-12"> Shall be Qualified best, for a Dog in a string.389-400L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

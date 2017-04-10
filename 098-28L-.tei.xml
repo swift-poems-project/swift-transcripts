@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="098-28L-" type="poem"><head type="note" n="1" xml:id="spp-098-28L--headnote-1"><lg n="1" xml:id="spp-098-28L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-098-28L--headnote-1-line-group-1-line-1">\<hi rend="underline">from Gulliveriana's introductory "Critique," and printed above 23</hi>\ <lb/>Another Comparison, four Pages after, \<hi rend="underline">referencing 03P1</hi>\ must not be overlook'd: It is between A K<hi rend="SMALL-CAPS">ING AND </hi>A C<hi rend="SMALL-CAPS">OBLER</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-098-28L--headnote-2"><lg n="1" xml:id="spp-098-28L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-098-28L--headnote-2-line-group-1-line-1">\<hi rend="underline">after 26</hi>\ <lb/><hi rend="underline">Unhappy Bays</hi>! who diedst before the <hi rend="underline">Captain</hi> flourish'd: Of what infinite Service had his Writing been to thy <hi rend="underline">Rehearsal</hi>?</l></lg></head><head type="note" n="3" xml:id="spp-098-28L--headnote-3"><lg n="1" xml:id="spp-098-28L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-098-28L--headnote-3-line-group-1-line-1">\<hi rend="underline">above 39</hi>\ <lb/>But how excellently surprizing and new, is what follows!</l></lg></head><head type="note" n="4" xml:id="spp-098-28L--headnote-4"><lg n="1" xml:id="spp-098-28L--headnote-4-line-group-1" type="headnote"><l n="1" xml:id="spp-098-28L--headnote-4-line-group-1-line-1">\<hi rend="underline">after 40</hi>\ <lb/>And how d'ye think the <hi rend="underline">Captain</hi> proves this Similitude? Why because the <hi rend="underline">Romans</hi> wore <hi rend="underline">Half-Moons</hi> upon their Shoes.</l></lg><lg n="2" xml:id="spp-098-28L--headnote-4-line-group-2" type="headnote"><l n="1" xml:id="spp-098-28L--headnote-4-line-group-2-line-1"><lb/><hi rend="underline">Lunatos Calceos! &amp; O! ter Lunatum caput <lb/> Gulliverianum</hi>!</l></lg></head><head type="note" n="5" xml:id="spp-098-28L--headnote-5"><lg n="1" xml:id="spp-098-28L--headnote-5-line-group-1" type="headnote"><l n="1" xml:id="spp-098-28L--headnote-5-line-group-1-line-1">\<hi rend="underline">above 37</hi>\ <lb/>But pray let us follow these Shoes one Step futher, for now we tread upon nothing, but <hi rend="underline">Wit</hi> and <hi rend="underline">Invention</hi>.</l></lg><lg n="2" xml:id="spp-098-28L--headnote-5-line-group-2" type="headnote"><l n="1" xml:id="spp-098-28L--headnote-5-line-group-2-line-1"><lb/>Pray see, how useful these Shoes were to the <hi rend="underline">Romans</hi>;</l></lg></head><head type="note" n="6" xml:id="spp-098-28L--headnote-6"><lg n="1" xml:id="spp-098-28L--headnote-6-line-group-1" type="headnote"><l n="1" xml:id="spp-098-28L--headnote-6-line-group-1-line-1">\<hi rend="underline">above 38</hi>\ <lb/>Again, see how useful they are to us!</l></lg></head><head type="note" n="7" xml:id="spp-098-28L--headnote-7"><lg n="1" xml:id="spp-098-28L--headnote-7-line-group-1" type="headnote"><l n="1" xml:id="spp-098-28L--headnote-7-line-group-1-line-1">\<hi rend="underline">after 38 and above 83</hi>\ <lb/>Admirable! indeed. The modern Invention of the <hi rend="underline">Instrument</hi>, of our getting a <hi rend="underline">strait Shoe</hi> on, was owing to the <hi rend="underline">horned Moon</hi>, on the Out-side of a wide <hi rend="underline">slip-slop Roman Shoe</hi>! O! O <hi rend="underline">Hone</hi>! Here's a Figure, call'd <hi rend="underline">The Genuine</hi>, for you. A <hi rend="underline">mother Production</hi>! and your very <hi rend="underline">Saint Patricism</hi>.</l></lg><lg n="2" xml:id="spp-098-28L--headnote-7-line-group-2" type="headnote"><l n="1" xml:id="spp-098-28L--headnote-7-line-group-2-line-1"><lb/>Again! was ever any thing brought forth in <hi rend="underline">Africa</hi>, so monstrous and unknown, and so frightful, as his making <hi rend="underline">Mercury</hi> cure <hi rend="underline">Mars</hi> and <hi rend="underline">Venus</hi> of a <hi rend="underline">Clap</hi>, and his reconciling <hi rend="underline">Cobling</hi> and <hi rend="underline">Star-gazing</hi> together, by such abominable, far-fetched and unnatural Allusions, as he has heap'd up to this End, <hi rend="underline">viz. The Bull's lending his Hide, when</hi> P<hi rend="SMALL-CAPS">HOEBUS</hi> <hi rend="underline">had Tann'd it: Ariadne's lending her Hair for</hi>E<hi rend="SMALL-CAPS">NDS</hi>; <hi rend="underline">Sagittarius his Dart for an</hi> A<hi rend="SMALL-CAPS">WL</hi>; V<hi rend="SMALL-CAPS">ULCAN</hi>'<hi rend="underline">s finding a </hi>paring Knife<hi rend="underline">; and as for what the Heavenly</hi> V<hi rend="SMALL-CAPS">IRGO</hi> <hi rend="underline">does, it is not fit to be nam'd</hi>; And yet above all, the <hi rend="underline">Captain</hi>'s Invention shines most in procuring <hi rend="underline">Wax for his Celestial Cobler</hi>! The <hi rend="underline">Bee</hi>, you must know, is not exalted, as yet, to the <hi rend="underline">Spheres</hi>: Well! how then d'ye think he gets <hi rend="underline">Wax</hi>? Why he gets <hi rend="underline">Pitch</hi>.──────Ah! <hi rend="underline">Dear Joy</hi>, what a Wit are you? And how think you he gets this <hi rend="underline">Pitch</hi>? Why, from the <hi rend="underline">Bottom of a Ship</hi>.</l></lg></head><head type="note" n="8" xml:id="spp-098-28L--headnote-8"><lg n="1" xml:id="spp-098-28L--headnote-8-line-group-1" type="headnote"><l n="1" xml:id="spp-098-28L--headnote-8-line-group-1-line-1">\<hi rend="underline">after 84</hi>\ <lb/>Was ever any thing finer, Mr. <hi rend="underline">Johnson</hi>? Oh! that my Lungs were made of Leather, that I might laugh as loud as a Tempest.</l></lg></head><head type="note" n="9" xml:id="spp-098-28L--headnote-9"><lg n="1" xml:id="spp-098-28L--headnote-9-line-group-1" type="headnote"><l n="1" xml:id="spp-098-28L--headnote-9-line-group-1-line-1"><lb/>And now, wretchedly low and bad as all this is, I can assure the Reader, that this very inimitable, original Poem, has been, ever, plac'd amongst the <hi rend="underline">Captain</hi>'s most <hi rend="underline">favourite pieces</hi>, by himself.</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-098-28L--line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><hi rend="underline">A</hi> L<hi rend="SMALL-CAPS">IST</hi><hi rend="underline">the Coblers Temple ties,</hi>.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><hi rend="underline">Whose wideness kept their Toes from Corns:</hi>:</l><l n="2" xml:id="spp-098-28L--line-2"> To keep the Hair out of their Eyes;</l><l n="3" xml:id="spp-098-28L--line-3"> From whence, 'tis plain, the Diadem</l><l n="4" xml:id="spp-098-28L--line-4"> That Princes wear, derives from them</l><l n="5" xml:id="spp-098-28L--line-5"> And whence we claim our Shoing-horns</l></lg><lg n="2" type="stanza"><l n="6" xml:id="spp-098-28L--line-6">────<hi rend="underline">The Art of Cobling bears</hi>.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><hi rend="underline">For thee, they </hi>A<hi rend="SMALL-CAPS">RGOS<hi rend="underline"> Hulk will tax,</hi></hi>.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>098-28L-   </l><l n="7" xml:id="spp-098-28L--line-7"> A near Resemblance to the Spheres</l><l n="8" xml:id="spp-098-28L--line-8"> And scrape her pitchy Sides for Wax</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

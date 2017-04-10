@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">On reading Dr. </hi>Young<hi rend="underline">'s Satyrs, called</hi></title>
+        <title><hi rend="underline">the </hi>Universal Passion<hi rend="underline">, by which he</hi></title>
+        <title><hi rend="underline">means Pride</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SS"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-391-0201-footnote-1 #spp-391-0201-line-3"/>
+          <link target="#spp-391-0201-footnote-2 #spp-391-0201-line-5"/>
+        </linkGrp>
+        <div n="391-0201" type="poem"><head type="note" n="1" xml:id="spp-391-0201-headnote-1"><lg n="1" xml:id="spp-391-0201-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-391-0201-headnote-1-line-group-1-line-1">Written in the Year 1726.</l></lg></head><head type="note" n="2" xml:id="spp-391-0201-headnote-2"><lg n="1" xml:id="spp-391-0201-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-391-0201-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-391-0201-headnote-3"><lg n="1" xml:id="spp-391-0201-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-391-0201-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-391-0201-line-1"><hi rend="display-initial">I</hi>F there be Truth in what you sing;</l><l n="2" xml:id="spp-391-0201-line-2"> Such God-like Virtues in the King:</l><l n="3" xml:id="spp-391-0201-line-3"> A <ref target="#spp-391-0201-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-391-0201-footnote-1">Walpole.</note> Minister so fill'd with Zeal</l><l n="4" xml:id="spp-391-0201-line-4"> And Wisdom for the Common-weal:</l><l n="5" xml:id="spp-391-0201-line-5"> If he who in the <ref target="#spp-391-0201-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-391-0201-footnote-2">Compton, <hi rend="underline">the Speaker</hi>.</note> Chair presides,</l><l n="6" xml:id="spp-391-0201-line-6"> So steadily the Senate guides:</l><l n="7" xml:id="spp-391-0201-line-7"> If others whom you make your Theme;</l><l n="8" xml:id="spp-391-0201-line-8"> Are Seconds in this glorious Scheme:</l><l n="9" xml:id="spp-391-0201-line-9"> If ev'ry Peer whom you commend,</l><l n="10" xml:id="spp-391-0201-line-10"> To Worth and Learning be a Friend.</l><l n="11" xml:id="spp-391-0201-line-11"> If this be Truth, as you attest,</l><l n="12" xml:id="spp-391-0201-line-12"> What Land was ever half so blest!</l><l n="13" xml:id="spp-391-0201-line-13"> No Falshood now among the Great,</l><l n="14" xml:id="spp-391-0201-line-14"> And Tradesmen now no longer cheat;</l><l n="15" xml:id="spp-391-0201-line-15"> Now on the Bench fair <hi rend="underline">Justice</hi> shines,</l><l n="16" xml:id="spp-391-0201-line-16"> Her Scale to neither Side inclines.</l><l n="17" xml:id="spp-391-0201-line-17"> Now Pride and Cruelty are flown,</l><l n="18" xml:id="spp-391-0201-line-18"> And <hi rend="underline">Mercy</hi> here exalts her Throne.</l><l n="19" xml:id="spp-391-0201-line-19"> For such is good Example's Power,</l><l n="20" xml:id="spp-391-0201-line-20"> It does its Office ev'ry Hour,</l><l n="21" xml:id="spp-391-0201-line-21"> Where Governors are good and wise,</l><l n="22" xml:id="spp-391-0201-line-22"> Or else the truest Maxim lies;</l><l n="23" xml:id="spp-391-0201-line-23"> For, so we find, all antient Sages</l><l n="24" xml:id="spp-391-0201-line-24"> Decree, that <hi rend="underline">ad exemplum Regis</hi>,</l><l n="25" xml:id="spp-391-0201-line-25"> Through all the Realm his Virtues run,</l><l n="26" xml:id="spp-391-0201-line-26"> Rip'ning and kindling like the Sun.</l><l n="27" xml:id="spp-391-0201-line-27"> If this be true, then how much more.</l><l n="28" xml:id="spp-391-0201-line-28"> When you have named at least a Score</l><l n="29" xml:id="spp-391-0201-line-29"> Of Courtiers, each in their Degree</l><l n="30" xml:id="spp-391-0201-line-30"> If possible as good as he.</l></lg><lg n="2" type="stanza"><l n="31" xml:id="spp-391-0201-line-31">Or, take it in a diff'rent View:&#13;</l><l n="32" xml:id="spp-391-0201-line-32"> I ask, if what you say be true,</l><l n="33" xml:id="spp-391-0201-line-33"> If you affirm the present Age</l><l n="34" xml:id="spp-391-0201-line-34"> Deserves your Satyr's keenest Rage:</l><l n="35" xml:id="spp-391-0201-line-35"> If that same <hi rend="underline">Universal Passion</hi>,</l><l n="36" xml:id="spp-391-0201-line-36"> With ev'ry Vice hath fill'd the Nation:</l><l n="37" xml:id="spp-391-0201-line-37"> If Virtue dares not venture down</l><l n="38" xml:id="spp-391-0201-line-38"> A single Step below the Crown:</l><l n="39" xml:id="spp-391-0201-line-39"> If Clergymen, to shew their Wit,</l><l n="40" xml:id="spp-391-0201-line-40"> Praise <hi rend="underline">Classicks</hi> more than Holy Writ:</l><l n="41" xml:id="spp-391-0201-line-41"> If Bankrupts, when they are undone,</l><l n="42" xml:id="spp-391-0201-line-42"> Into the Senate-house can run;</l><l n="43" xml:id="spp-391-0201-line-43"> And sell their Votes at such a Rate</l><l n="44" xml:id="spp-391-0201-line-44"> As will retrieve a lost Estate.</l><l n="45" xml:id="spp-391-0201-line-45"> If Law be such a partial Whore,</l><l n="46" xml:id="spp-391-0201-line-46"> To spare the Rich, and plague the Poor.</l><l n="47" xml:id="spp-391-0201-line-47"> If these be of all Crimes the worst;</l><l n="48" xml:id="spp-391-0201-line-48"> What Land was ever half so curst?391-0201   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

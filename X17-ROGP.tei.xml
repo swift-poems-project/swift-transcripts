@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dr Swift's Answer to Dr Sheridan</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X17-ROGP" type="poem"><head type="note" n="1" xml:id="spp-X17-ROGP-headnote-1"><lg n="1" xml:id="spp-X17-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X17-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X17-ROGP-headnote-2"><lg n="1" xml:id="spp-X17-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X17-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X17-ROGP-headnote-3"><lg n="1" xml:id="spp-X17-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X17-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X17-ROGP-line-1"> The verses you sent on the bottling your wine&#13;</l><l n="2" xml:id="spp-X17-ROGP-line-2"> Were in everyone's judgement exceedingly fine,</l><l n="3" xml:id="spp-X17-ROGP-line-3"> And I must confess as a dean and divine,</l><l n="4" xml:id="spp-X17-ROGP-line-4"> I think you inspired by the muses all nine.</l><l n="5" xml:id="spp-X17-ROGP-line-5"> I nicely examined them every line,</l><l n="6" xml:id="spp-X17-ROGP-line-6"> And the worst of them all like a barn-door did shine.</l><l n="7" xml:id="spp-X17-ROGP-line-7"> Oh, that Jove would give me such a talent as thine!</l><l n="8" xml:id="spp-X17-ROGP-line-8"> With Delany or Dan I would scorn to combine;</l><l n="9" xml:id="spp-X17-ROGP-line-9"> I know they have many a wicked design,</l><l n="10" xml:id="spp-X17-ROGP-line-10"> And give Satan his due, Dan begins to refine.</l><l n="11" xml:id="spp-X17-ROGP-line-11"> However I wish, honest comrade of mine,</l><l n="12" xml:id="spp-X17-ROGP-line-12"> You would really on Thursday leave St Catherine,</l><l n="13" xml:id="spp-X17-ROGP-line-13"> Where I hear you are crammed every day like a swine.</l><l n="14" xml:id="spp-X17-ROGP-line-14"> But the loss of your cough will be the best sign;</l><l n="15" xml:id="spp-X17-ROGP-line-15"> With me you'll no more have a stomach to dine,</l><l n="16" xml:id="spp-X17-ROGP-line-16"> Nor after your victuals lie sleeping supine;</l><l n="17" xml:id="spp-X17-ROGP-line-17"> So I wish you were toothless like Lord Massereene.</l><l n="18" xml:id="spp-X17-ROGP-line-18"> But were you as wicked as lewd Aretine</l><l n="19" xml:id="spp-X17-ROGP-line-19"> I wish you would tell me which way you incline.</l><l n="20" xml:id="spp-X17-ROGP-line-20"> If when you return, your road you don't line,</l><l n="21" xml:id="spp-X17-ROGP-line-21"> On Thursday I'll pay my respects at your shrine,</l><l n="22" xml:id="spp-X17-ROGP-line-22"> Wherever you bend, wherever you twine,</l><l n="23" xml:id="spp-X17-ROGP-line-23"> In square or in opposite circle, or trine,</l><l n="24" xml:id="spp-X17-ROGP-line-24"> Your beef will on Thursday be salter than brine.</l><l n="25" xml:id="spp-X17-ROGP-line-25"> I hope you have swilled with new milk from the kine</l><l n="26" xml:id="spp-X17-ROGP-line-26"> As much as the Liffey's outdone by the Rhine:</l><l n="27" xml:id="spp-X17-ROGP-line-27"> And Dan shall be with us with nose aquiline.</l><l n="28" xml:id="spp-X17-ROGP-line-28"> If you do not come back we shall weep out our eyn,</l><l n="29" xml:id="spp-X17-ROGP-line-29"> Or may your gown never be good Lutherine.</l><l n="30" xml:id="spp-X17-ROGP-line-30"> The beef you have got, which I hear is a chine,</l><l n="31" xml:id="spp-X17-ROGP-line-31"> But if too many come your madam will whine;</l><l n="32" xml:id="spp-X17-ROGP-line-32"> And then you may kiss the low end of her spine.</l><l n="33" xml:id="spp-X17-ROGP-line-33"> But enough of this poetry Alexandrine:</l><l n="34" xml:id="spp-X17-ROGP-line-34"> I hope you will not think this a pasquine.X17-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

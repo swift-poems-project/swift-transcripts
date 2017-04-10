@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The First of April:<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="320-WILH" type="poem"><head type="note" n="1" xml:id="spp-320-WILH-headnote-1"><lg n="1" xml:id="spp-320-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-320-WILH-headnote-1-line-group-1-line-1">Inscrib'd to Mrs. E. C.</l></lg></head><head type="note" n="2" xml:id="spp-320-WILH-headnote-2"><lg n="1" xml:id="spp-320-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-320-WILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-320-WILH-headnote-3"><lg n="1" xml:id="spp-320-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-320-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-320-WILH-line-1"><hi rend="display-initial">T</hi>HIS morn the <hi rend="underline">God of Wit</hi> and Joke,</l><l n="2" xml:id="spp-320-WILH-line-2"> Thus to his <hi rend="underline">Choir of Muses</hi> spoke;</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-320-WILH-line-3">“Go, Sisters Nine, into that Cabbin,&#13;</l><l n="4" xml:id="spp-320-WILH-line-4"> “Where most true Sons of <hi rend="underline">Ph<unclear>oe</unclear>bus</hi> ha' bin.</l><l n="5" xml:id="spp-320-WILH-line-5"> “Each take a Child into her Care,</l><l n="6" xml:id="spp-320-WILH-line-6"> “There's one for each and one to spare:</l><l n="7" xml:id="spp-320-WILH-line-7"> “Tho' there's a Boy whom a Lord chuses,</l><l n="8" xml:id="spp-320-WILH-line-8"> “Who is as good as all the Muses;</l><l n="9" xml:id="spp-320-WILH-line-9"> “And beauteous <hi rend="underline">Bess</hi> a diff'rent case is,</l><l n="10" xml:id="spp-320-WILH-line-10"> “For she belongs to all the Graces;</l><l n="11" xml:id="spp-320-WILH-line-11"> “Divide the rest, but then take care,</l><l n="12" xml:id="spp-320-WILH-line-12"> “Ye don't fall out about the Heir.</l></lg><lg n="3" type="stanza"><l n="13" xml:id="spp-320-WILH-line-13">They dropp'd low Court'sies, One and All,&#13;</l><l n="14" xml:id="spp-320-WILH-line-14"> And took their Progress tow'rds <hi rend="underline">L──ll</hi>.<hi rend="underline">Apollo</hi> laugh'd till he was sick,</l><l n="15" xml:id="spp-320-WILH-line-15"> That he had serv'd the Prudes a Trick.</l></lg><lg n="4" type="stanza"><l n="16" xml:id="spp-320-WILH-line-16">“With due Submission to the God,&#13;</l><l n="17" xml:id="spp-320-WILH-line-17"> “<hi rend="underline">Thalia</hi> said, 'tis somewhat odd,</l><l n="18" xml:id="spp-320-WILH-line-18"> “We all shou'd march on this Occasion,</l><l n="19" xml:id="spp-320-WILH-line-19"> “And not leave one for Invocation.</l><l n="20" xml:id="spp-320-WILH-line-20"> “Poets till they grow hoarse may bawl,</l><l n="21" xml:id="spp-320-WILH-line-21"> “And not a Muse will hear their Call:</l><l n="22" xml:id="spp-320-WILH-line-22"> “Besides, to me this seems a Bubble,</l><l n="23" xml:id="spp-320-WILH-line-23"> “'Tis all to save their Mother trouble;</l><l n="24" xml:id="spp-320-WILH-line-24"> “I'll warrant she's some flaunting Dame,</l><l n="25" xml:id="spp-320-WILH-line-25"> “Regardless of her House and Fame;</l><l n="26" xml:id="spp-320-WILH-line-26"> “When we come there we'll stand unseen,</l><l n="27" xml:id="spp-320-WILH-line-27"> “T' observe her Management within.</l></lg><lg n="5" type="stanza"><l n="28" xml:id="spp-320-WILH-line-28">They peep'd, and saw a Lady there&#13;</l><l n="29" xml:id="spp-320-WILH-line-29"> Pinning on Coifs and combing Hair;</l><l n="30" xml:id="spp-320-WILH-line-30"> Soft'ning with Songs to Son or Daughter,</l><l n="31" xml:id="spp-320-WILH-line-31"> The persecution of cold Water.</l><l n="32" xml:id="spp-320-WILH-line-32"> Still pleas'd with the <hi rend="underline">good-natur'd Noise</hi>,</l><l n="33" xml:id="spp-320-WILH-line-33"> And <hi rend="underline">harmless Frolicks</hi> of her <hi rend="underline">Boys</hi>;<hi rend="underline">Equal</hi> to all in <hi rend="underline">Care</hi> and <hi rend="underline">Love</hi>,</l><l n="34" xml:id="spp-320-WILH-line-34"> Which all <hi rend="underline">deserve</hi> and all <hi rend="underline">improve</hi>.</l><l n="35" xml:id="spp-320-WILH-line-35"> To <hi rend="underline">Kitchin, Parlour, Nurs'ry</hi> flies,</l><l n="36" xml:id="spp-320-WILH-line-36"> And seems all <hi rend="underline">Feet</hi>, and <hi rend="underline">Hands</hi>, and <hi rend="underline">Eyes</hi>.</l><l n="37" xml:id="spp-320-WILH-line-37"> No Thought of her's does ever <hi rend="underline">roam</hi>,</l><l n="38" xml:id="spp-320-WILH-line-38"> But for her 'Squire when he's <hi rend="underline">from home</hi>;</l><l n="39" xml:id="spp-320-WILH-line-39"> And scarce a <hi rend="underline">Day</hi>, can spare a <hi rend="underline">Minute</hi></l><l n="40" xml:id="spp-320-WILH-line-40"> From <hi rend="underline">Husband, Children, Wheel</hi>, or <hi rend="underline">Spinnet</hi>.</l><l n="41" xml:id="spp-320-WILH-line-41"> The Muses when they saw <hi rend="underline">her</hi> care,</l><l n="42" xml:id="spp-320-WILH-line-42"> Wonder'd the God had sent them there.</l><l n="43" xml:id="spp-320-WILH-line-43"> And said, “His Worship might ha' told us,</l><l n="44" xml:id="spp-320-WILH-line-44"> “This House don't <hi rend="underline">want</hi>, nor will it <hi rend="underline">hold</hi> us.</l><l n="45" xml:id="spp-320-WILH-line-45"> “We govern here! where she presides</l><l n="46" xml:id="spp-320-WILH-line-46"> “With <hi rend="underline">Virtue, Prudence, Wit</hi> besides;</l><l n="47" xml:id="spp-320-WILH-line-47"> “A Wife as good as Heart cou'd wish one,</l><l n="48" xml:id="spp-320-WILH-line-48"> “What need we open our Commission,</l><l n="49" xml:id="spp-320-WILH-line-49"> “There's no occasion here for us,</l><l n="50" xml:id="spp-320-WILH-line-50"> “Can <hi rend="underline">we</hi> do more than what <hi rend="underline">she</hi> does.</l></lg><lg n="6" type="stanza"><l n="51" xml:id="spp-320-WILH-line-51"><hi rend="underline">Thalia</hi> now began to smoke,</l><l n="52" xml:id="spp-320-WILH-line-52"> That all this Bus'ness was a Joke.</l></lg><lg n="7" type="stanza"><l n="53" xml:id="spp-320-WILH-line-53">“Sisters, said she, my Life I'll lay,&#13;</l><l n="54" xml:id="spp-320-WILH-line-54"> “Ye have forgot this <hi rend="underline">Month</hi> and <hi rend="underline">Day</hi>.──</l><l n="55" xml:id="spp-320-WILH-line-55"> “'Tis a <hi rend="underline">fair Trick</hi>, by <hi rend="underline">ancient</hi> Rules──</l><l n="56" xml:id="spp-320-WILH-line-56"> “The God has made us <hi rend="underline">April-Fools</hi>.320-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

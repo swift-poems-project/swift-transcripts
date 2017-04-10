@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Riddle y<hi rend="sup">e</hi> 7<hi rend="sup">th</hi> to A Lady</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="936-303B" type="poem"><head type="note" n="1" xml:id="spp-936-303B-headnote-1"><lg n="1" xml:id="spp-936-303B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-936-303B-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-936-303B-headnote-2"><lg n="1" xml:id="spp-936-303B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-936-303B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-936-303B-headnote-3"><lg n="1" xml:id="spp-936-303B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-936-303B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-936-303B-line-1"> Of all Inhabitants of Earth&#13;</l><l n="2" xml:id="spp-936-303B-line-2"> To man alone──I owe my birth</l><l n="3" xml:id="spp-936-303B-line-3"> And yet y<hi rend="sup">e</hi>, Cow──y<hi rend="sup">e</hi> Sheep──y<hi rend="sup">e</hi> Bee</l><l n="4" xml:id="spp-936-303B-line-4"> Are my Parents──more than he</l><l n="5" xml:id="spp-936-303B-line-5"> I──(A virtue Strange──and rare)</l><l n="6" xml:id="spp-936-303B-line-6"> Make y<hi rend="sup">e</hi> fairest, look more fair</l><l n="7" xml:id="spp-936-303B-line-7"> And myself──w<hi rend="sup">ch</hi></l></lg><lg n="2" type="stanza"><l n="8" xml:id="spp-936-303B-line-8"> yet is rarer&#13;</l><l n="9" xml:id="spp-936-303B-line-9"> Growing old──grow still y<hi rend="sup">e</hi> fairer</l></lg><lg n="3" type="stanza"><l n="10" xml:id="spp-936-303B-line-10">Like Sots──alone──Im dull enough&#13;</l><l n="11" xml:id="spp-936-303B-line-11"> Doz'd w<hi rend="sup">th</hi>, smoke──and smeard w<hi rend="sup">th</hi>, Snuff</l><l n="12" xml:id="spp-936-303B-line-12"> But in the midst of Mirth──and Wine</l><l n="13" xml:id="spp-936-303B-line-13"> I w<hi rend="sup">th</hi>, double Lustre Shine</l></lg><lg n="4" type="stanza"><l n="14" xml:id="spp-936-303B-line-14">Emblem of the Fair am I&#13;</l><l n="15" xml:id="spp-936-303B-line-15"> Polishd Neck──and radiant Eye</l><l n="16" xml:id="spp-936-303B-line-16"> In my Eye──my greatest grace</l><l n="17" xml:id="spp-936-303B-line-17"> Emblem, of the Cyclop Race</l><l n="18" xml:id="spp-936-303B-line-18"> Metal, I like them Subdue</l><l n="19" xml:id="spp-936-303B-line-19"> Slave myself to Vulcan too</l></lg><lg n="5" type="stanza"><l n="20" xml:id="spp-936-303B-line-20">Emblem of a Monarch old&#13;</l><l n="21" xml:id="spp-936-303B-line-21"> Wise, and glorious to behold,</l><l n="22" xml:id="spp-936-303B-line-22"> Wasted he appears, and pale</l><l n="23" xml:id="spp-936-303B-line-23"> Watching for y<hi rend="sup">e</hi> publick Weal</l></lg><lg n="6" type="stanza"><l n="24" xml:id="spp-936-303B-line-24">Emblem of y<hi rend="sup">e</hi> bashfull Dame</l><l n="25" xml:id="spp-936-303B-line-25"> Who in Silence feeds her flame</l><l n="26" xml:id="spp-936-303B-line-26"> Often, Aiding to impart</l><l n="27" xml:id="spp-936-303B-line-27"> All the secrets of her heart<gap/><gap/><gap/><gap/></l></lg><lg n="7" type="stanza"><l n="28" xml:id="spp-936-303B-line-28">Various in my bulk──and Hue&#13;</l><l n="29" xml:id="spp-936-303B-line-29"> Big──like Bess──and smal like Su</l><l n="30" xml:id="spp-936-303B-line-30"> Now brown──and burnishd as A Nutt</l><l n="31" xml:id="spp-936-303B-line-31"> At other times──A very Slutt</l><l n="32" xml:id="spp-936-303B-line-32"> Often fair──and soft──and tender</l><l n="33" xml:id="spp-936-303B-line-33"> Taper──tall──and smooth and Slender</l><l n="34" xml:id="spp-936-303B-line-34"> Like Flora deckd, w<hi rend="sup">th</hi> fairest flowr's</l><l n="35" xml:id="spp-936-303B-line-35"> Like Ph<unclear>oe</unclear>bus──guardian of the hours</l><l n="36" xml:id="spp-936-303B-line-36"> But, whatever be my Dress</l><l n="37" xml:id="spp-936-303B-line-37"> Greater be my Size──or less</l><l n="38" xml:id="spp-936-303B-line-38"> Swelling be my shapes──or small</l><l n="39" xml:id="spp-936-303B-line-39"> Like thy Self, I shine in all</l></lg><lg n="8" type="stanza"><l n="40" xml:id="spp-936-303B-line-40">Clouded if my face be seen&#13;</l><l n="41" xml:id="spp-936-303B-line-41"> My Complexion wan──and green</l><l n="42" xml:id="spp-936-303B-line-42"> Languid like A lovesick Maid</l><l n="43" xml:id="spp-936-303B-line-43"> Steel affords me present Aid</l><l n="44" xml:id="spp-936-303B-line-44"> Soon, or late──my date is done</l><l n="45" xml:id="spp-936-303B-line-45"> As my thred of life is Spun</l><l n="46" xml:id="spp-936-303B-line-46"> Yet, to cut y<hi rend="sup">e</hi> fatal thred</l><l n="47" xml:id="spp-936-303B-line-47"> Oft revives my drooping head</l><l n="48" xml:id="spp-936-303B-line-48"> Yet I perish in my Prime</l><l n="49" xml:id="spp-936-303B-line-49"> Seldom by y<hi rend="sup">e</hi> wrath of Time<gap/><gap/><gap/><gap/></l><l n="50" xml:id="spp-936-303B-line-50"> Die──like lovers──as they gaze</l><l n="51" xml:id="spp-936-303B-line-51"> Die for those, I live to please</l><l n="52" xml:id="spp-936-303B-line-52"> Live unpitied to my Urn</l><l n="53" xml:id="spp-936-303B-line-53"> Nor warm y<hi rend="sup">ẹ</hi> fair, for whom I burn</l><l n="54" xml:id="spp-936-303B-line-54"> Unpitied──unlamented too</l><l n="55" xml:id="spp-936-303B-line-55"> Die, like all who look on you936-303B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ANOTHER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="916-05P4" type="poem"><head type="note" n="1" xml:id="spp-916-05P4-headnote-1"><lg n="1" xml:id="spp-916-05P4-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-916-05P4-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-916-05P4-headnote-2"><lg n="1" xml:id="spp-916-05P4-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-916-05P4-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-916-05P4-headnote-3"><lg n="1" xml:id="spp-916-05P4-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-916-05P4-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-916-05P4-line-1"><hi rend="display-initial">A</hi>LL-ruling Tyrant of the Earth,</l><l n="2" xml:id="spp-916-05P4-line-2"> To vilest Slaves I owe my Birth.</l><l n="3" xml:id="spp-916-05P4-line-3"> How is the greatest Monarch blest,</l><l n="4" xml:id="spp-916-05P4-line-4"> When in my gaudy Liv'ry drest!</l><l n="5" xml:id="spp-916-05P4-line-5"> No haughty Nymph has Pow'r to run</l><l n="6" xml:id="spp-916-05P4-line-6"> From me; or my Embraces shun.</l><l n="7" xml:id="spp-916-05P4-line-7"> Stabb'd to the Heart, comdemn'd to Flame,</l><l n="8" xml:id="spp-916-05P4-line-8"> My Constancy is still the same.</l><l n="9" xml:id="spp-916-05P4-line-9"> The fav'rite Messenger of <hi rend="underline">Jove</hi>,</l><l n="10" xml:id="spp-916-05P4-line-10"> And <hi rend="underline">Lemnian</hi> God consulting strove,</l><l n="11" xml:id="spp-916-05P4-line-11"> To make me glorious to the Sight</l><l n="12" xml:id="spp-916-05P4-line-12"> Of Mortals, and the Gods Delight.</l><l n="13" xml:id="spp-916-05P4-line-13"> Soon would their Altars Flame expire</l><l n="14" xml:id="spp-916-05P4-line-14"> If I refus'd to lend them Fire.916-05P4   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

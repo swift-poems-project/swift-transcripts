@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>In Nasum a Jervasio Pictore productum<lb/>et ab e\o·<hi rend="underline">over</hi>·a\dem Poeta correptum.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z724380L"><head type="note" n="1" xml:id="spp-Z724380L-headnote-1"><lg n="1" xml:id="spp-Z724380L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Z724380L-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-Z724380L-headnote-2"><lg n="1" xml:id="spp-Z724380L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Z724380L-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-Z724380L-headnote-3"><lg n="1" xml:id="spp-Z724380L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Z724380L-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Z724380L-line-1">Erravit Flaccus; Non ut pictura poesis;&#13;</l><l/><l n="2" xml:id="spp-Z724380L-line-2">Jervasio nupsit nulla Thalia meo.</l><l/><l n="3" xml:id="spp-Z724380L-line-3">Quem longum Pictor nasum protraxit, eundem</l><l/><l n="4" xml:id="spp-Z724380L-line-4">Reddit, mox factus forte Poeta, brevem.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

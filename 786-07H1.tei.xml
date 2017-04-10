@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">Clad all in Brown</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="786-07H1" type="poem"><head type="note" n="1" xml:id="spp-786-07H1-headnote-1"><lg n="1" xml:id="spp-786-07H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-786-07H1-headnote-1-line-group-1-line-1">Imitated from COWLEY.</l></lg></head><head type="note" n="2" xml:id="spp-786-07H1-headnote-2"><lg n="1" xml:id="spp-786-07H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-786-07H1-headnote-2-line-group-1-line-1"><hi rend="underline">To</hi> DICK.</l></lg></head><head type="note" n="3" xml:id="spp-786-07H1-headnote-3"><lg n="1" xml:id="spp-786-07H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-786-07H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-786-07H1-line-1"><hi rend="display-initial">F</hi>OULEST brute that stinks below,Why in this brown dost thou appear?For, would'st thou make a fouler show,Thou must go naked all the year.</l><l n="2" xml:id="spp-786-07H1-line-2"> Fresh from the mud a wallowing sow</l><l n="3" xml:id="spp-786-07H1-line-3"> Would then be not so brown as thou.</l></lg><lg n="2" type="stanza"><l n="4" xml:id="spp-786-07H1-line-4">'Tis not the coat that looks so dun,&#13;His hide emits a foulness out,Not one jot better looks the sunSeem from behind a dirty clout:</l><l n="5" xml:id="spp-786-07H1-line-5"> So t────ds within a glass inclose,</l><l n="6" xml:id="spp-786-07H1-line-6"> The glass will seem as brown as those.</l></lg><lg n="3" type="stanza"><l n="7" xml:id="spp-786-07H1-line-7">Thou now one heap of foulness art,&#13;All outward and within is foul;Condensed filth in ev'ry part,Thy body's cloathed like thy soul;</l><l n="8" xml:id="spp-786-07H1-line-8"> Thy soul, which through thy hide of buff,</l><l n="9" xml:id="spp-786-07H1-line-9"> Scarce glimmers like a dying snuff.</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-786-07H1-line-10">Old carted bawds such garments wear,&#13;When pelted all with dirt they shine;Such their <hi rend="underline">exalted</hi> bodies are,As shrivel'd and as black as thine.</l><l n="11" xml:id="spp-786-07H1-line-11"> If thou wer't in a cart, I fear</l><l n="12" xml:id="spp-786-07H1-line-12"> Thou would'st be pelted worse than they're.</l></lg><lg n="5" type="stanza"><l n="13" xml:id="spp-786-07H1-line-13">Yet when we see thee thus array'd,&#13;The neighbours think, it is but just,That thou should'st take an honest trade,And weekly carry out the dust.</l><l n="14" xml:id="spp-786-07H1-line-14"> Of cleanly houses who will doubt,</l><l n="15" xml:id="spp-786-07H1-line-15"> When <hi rend="underline">Dick</hi> cries, <hi rend="underline">dust to carry out</hi>?786-07H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

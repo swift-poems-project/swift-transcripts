@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Poet's P<hi rend="SMALL-CAPS">OWER</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="727-37L1" type="poem"><head type="note" n="1" xml:id="spp-727-37L1-headnote-1"><lg n="1" xml:id="spp-727-37L1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-727-37L1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-727-37L1-headnote-2"><lg n="1" xml:id="spp-727-37L1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-727-37L1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-727-37L1-headnote-3"><lg n="1" xml:id="spp-727-37L1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-727-37L1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-727-37L1-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><hi rend="display-initial">T<hi rend="SMALL-CAPS">RUE</hi></hi> poets can depress and raise,</l><l n="2" xml:id="spp-727-37L1-line-2"> Are lords of infamy and praise:</l><l n="3" xml:id="spp-727-37L1-line-3"> They are not scurrilous in satire,</l><l n="4" xml:id="spp-727-37L1-line-4"> Nor will in panegyrick flatter.</l></lg><lg n="2" type="stanza"><l n="5" xml:id="spp-727-37L1-line-5">Unjustly poets we asperse,&#13;</l><l n="6" xml:id="spp-727-37L1-line-6"> Truth shines the brighter, clad in verse:</l><l n="7" xml:id="spp-727-37L1-line-7"> And all the fictions they pursue,</l><l n="8" xml:id="spp-727-37L1-line-8"> Do but insinuate what's true.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>727-37L1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

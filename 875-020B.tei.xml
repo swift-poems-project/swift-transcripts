@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Drapiers Hill</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="875-020B" type="poem"><head type="note" n="1" xml:id="spp-875-020B-headnote-1"><lg n="1" xml:id="spp-875-020B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-875-020B-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-875-020B-headnote-2"><lg n="1" xml:id="spp-875-020B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-875-020B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-875-020B-headnote-3"><lg n="1" xml:id="spp-875-020B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-875-020B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-875-020B-line-1"> We give the World to understand&#13;</l><l n="2" xml:id="spp-875-020B-line-2"> Our thriveing Dean has purchas'd Land</l><l n="3" xml:id="spp-875-020B-line-3"> A purchase which will bring him clear</l><l n="4" xml:id="spp-875-020B-line-4"> Above his Rent four pound a Year</l><l n="5" xml:id="spp-875-020B-line-5"> Provided to improve the ground</l><l n="6" xml:id="spp-875-020B-line-6"> He will but add two Hundred pound</l><l n="7" xml:id="spp-875-020B-line-7"> And from his endless hoarded Store</l><l n="8" xml:id="spp-875-020B-line-8"> To build a House five Hundred more</l><l n="9" xml:id="spp-875-020B-line-9"> Sir Arthur too shall have his Will</l><l n="10" xml:id="spp-875-020B-line-10"> And call the Mansion Drapiers Hill</l><l n="11" xml:id="spp-875-020B-line-11"> That when a Nation long enslav'd</l><l n="12" xml:id="spp-875-020B-line-12"> Forgets by whom it once was sav'd</l><l n="13" xml:id="spp-875-020B-line-13"> When none the Drapers praise shall Sing</l><l n="14" xml:id="spp-875-020B-line-14"> His Signs aloft no longer Swing<gap/><gap/></l><l n="15" xml:id="spp-875-020B-line-15"> His Medals and his prints forgotten</l><l n="16" xml:id="spp-875-020B-line-16"> And all his Handkercheifs are rotten</l><l n="17" xml:id="spp-875-020B-line-17"> His famous letters made wast paper</l><l n="18" xml:id="spp-875-020B-line-18"> This Hill shall keep the name of Draper</l><l n="19" xml:id="spp-875-020B-line-19"> In Spight of Envy flourish still</l><l n="20" xml:id="spp-875-020B-line-20"> And Drapers vie <del>del</del>·with Coopers Hill875-020B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

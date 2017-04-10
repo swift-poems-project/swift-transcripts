@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <lb/>
+          <lb/>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-471-14W2-footnote-1 #spp-471-14W2-line-37"/>
+          <link target="#spp-471-14W2-footnote-2 #spp-471-14W2-line-51"/>
+          <link target="#spp-471-14W2-footnote-3 #spp-471-14W2-line-55"/>
+          <link target="#spp-471-14W2-footnote-4 #spp-471-14W2-line-85"/>
+        </linkGrp>
+        <div n="471-14W2" type="poem"><head type="note" n="1" xml:id="spp-471-14W2-headnote-1"><lg n="1" xml:id="spp-471-14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-471-14W2-headnote-1-line-group-1-line-1">Credis ob hoc, me, Pastor, opes fortasse rogare, <lb/> Propter quod, vulgus, crassaque turba rogat. <lb/> M<hi rend="SMALL-CAPS">ART</hi>. Epig. Lib. ix.</l></lg></head><head type="note" n="2" xml:id="spp-471-14W2-headnote-2"><lg n="1" xml:id="spp-471-14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-471-14W2-headnote-2-line-group-1-line-1">D<hi rend="SMALL-CAPS">ELANY</hi>, by the patronage of Carteret, and probably through the intercession of Swift, had obtained a small living in the north of Ireland, worth about one hundred pounds a-year, with the chancellorship of Christ-Church, and a prebend's stall in St Patrick's, neither of which exceeded the same annual amount. Yet a clamour was raised among the Whigs, on account of the multiplication of his preferments; and a charge was founded against the Lord-Lieutenant, of extravagant favour to a Tory divine, which Swift judged worthy of an admirable ironical confutation, in his Vindication of Lord Carteret. It appears, from the following verses, that Delany was far from being of the same opinion with those who thought he was too amply provided for.</l></lg></head><head type="note" n="3" xml:id="spp-471-14W2-headnote-3"><lg n="1" xml:id="spp-471-14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-471-14W2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-471-14W2-line-1"> T<hi rend="SMALL-CAPS">HOU</hi> wise and learned ruler of our isle,</l><l n="2" xml:id="spp-471-14W2-line-2"> Whose guardian care can all her griefs beguile;</l><l n="3" xml:id="spp-471-14W2-line-3"> When next your generous soul shall condescend</l><l n="4" xml:id="spp-471-14W2-line-4"> T' instruct or entertain your humble friend;</l><l n="5" xml:id="spp-471-14W2-line-5"> Whether, retiring from your weighty charge,</l><l n="6" xml:id="spp-471-14W2-line-6"> On some high theme you learnedly enlarge;</l><l n="7" xml:id="spp-471-14W2-line-7"> Of all the ways of wisdom reason well,</l><l n="8" xml:id="spp-471-14W2-line-8"> How Richlieu rose, and how Sejanus fell:</l><l n="9" xml:id="spp-471-14W2-line-9"> Or, when your brow less thoughtfully unbends,</l><l n="10" xml:id="spp-471-14W2-line-10"> Circled with Swift and some delighted friends;</l><l n="11" xml:id="spp-471-14W2-line-11"> When, mixing mirth and wisdom with your wine,</l><l n="12" xml:id="spp-471-14W2-line-12"> Like that your wit shall flow, your genius shine:</l><l n="13" xml:id="spp-471-14W2-line-13"> Nor with less praise the conversation guide,</l><l n="14" xml:id="spp-471-14W2-line-14"> Than in the public councils you decide:</l><l n="15" xml:id="spp-471-14W2-line-15"> Or when the Dean, long privileged to rail,</l><l n="16" xml:id="spp-471-14W2-line-16"> Asserts his friend with more impetuous zeal;</l><l n="17" xml:id="spp-471-14W2-line-17"> You hear (whilst I sit by abash'd and mute)</l><l n="18" xml:id="spp-471-14W2-line-18"> With soft concessions shortening the dispute;</l><l n="19" xml:id="spp-471-14W2-line-19"> Then close with kind inquiries of my state,</l><l n="20" xml:id="spp-471-14W2-line-20"> “How are your tithes, and have they rose of late?</l><l n="21" xml:id="spp-471-14W2-line-21"> Why, Christ-Church is a pretty situation,</l><l n="22" xml:id="spp-471-14W2-line-22"> There are not many better in the nation!</l><l n="23" xml:id="spp-471-14W2-line-23"> This, with your other things, must yield you clear</l><l n="24" xml:id="spp-471-14W2-line-24"> Some six──at least five hundred pounds a-year.”Suppose, at such a time, I took the freedom</l><l n="25" xml:id="spp-471-14W2-line-25"> To speak these truths as plainly as you read 'em;</l><l n="26" xml:id="spp-471-14W2-line-26"> You shall rejoin, my lord, when I've replied,</l><l n="27" xml:id="spp-471-14W2-line-27"> And, if you please, my lady shall decide.“My lord, I'm satisfied you meant me well,</l><l n="28" xml:id="spp-471-14W2-line-28"> And that I'm thankful, all the world can tell;</l><l n="29" xml:id="spp-471-14W2-line-29"> But you'll forgive me, if I own the event</l><l n="30" xml:id="spp-471-14W2-line-30"> Is short, is very short, of your intent:</l><l n="31" xml:id="spp-471-14W2-line-31"> At least, I feel some ills unfelt before,</l><l n="32" xml:id="spp-471-14W2-line-32"> My income less, and my expenses more.”“How, doctor! double vicar! double rector!</l><l n="33" xml:id="spp-471-14W2-line-33"> A dignitary! with a city lecture!</l><l n="34" xml:id="spp-471-14W2-line-34"> What glebes──what dues──what tithes──what fines──what rent!</l><l n="35" xml:id="spp-471-14W2-line-35"> Why, doctor!──will you never be content?”</l><l n="36" xml:id="spp-471-14W2-line-36"> “Would my good Lord but cast up the account,</l><l n="37" xml:id="spp-471-14W2-line-37"> And see to what my revenues amount;<ref target="#spp-471-14W2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-471-14W2-footnote-1">Which calculation, according to Dr Swift, in his Vindication of Lord Carteret, scarcely exceeded 300l. a-year.</note></l><l n="38" xml:id="spp-471-14W2-line-38"> My titles ample; but my gain so small,</l><l n="39" xml:id="spp-471-14W2-line-39"> That one good vicarage is worth them all:</l><l n="40" xml:id="spp-471-14W2-line-40"> And very wretched, sure, is he that's double</l><l n="41" xml:id="spp-471-14W2-line-41"> In nothing but his titles and his trouble.</l><l n="42" xml:id="spp-471-14W2-line-42"> Add to this crying grievance, if you please,</l><l n="43" xml:id="spp-471-14W2-line-43"> My horses founder'd on Fermanah ways;</l><l n="44" xml:id="spp-471-14W2-line-44"> Ways of well-polish'd and well-pointed stone,</l><l n="45" xml:id="spp-471-14W2-line-45"> Where every step endangers every bone;</l><l n="46" xml:id="spp-471-14W2-line-46"> And, more to raise your pity and your wonder,</l><l n="47" xml:id="spp-471-14W2-line-47"> Two churches──twelve Hibernian miles asunder:</l><l n="48" xml:id="spp-471-14W2-line-48"> With complicated cures, I labour hard in,</l><l n="49" xml:id="spp-471-14W2-line-49"> Beside whole summers absent from──my garden!</l><l n="50" xml:id="spp-471-14W2-line-50"> But that the world would think I play'd the fool,</l><l n="51" xml:id="spp-471-14W2-line-51"> I'd change with Charley Grattan for his school.<ref target="#spp-471-14W2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-471-14W2-footnote-2">A free school at Inniskillen, founded by Erasmus Smith, Esq.</note></l><l n="52" xml:id="spp-471-14W2-line-52"> What fine cascades, what vistoes, might I make,</l><l n="53" xml:id="spp-471-14W2-line-53"> Fixt in the centre of th' Iërnian lake!</l><l n="54" xml:id="spp-471-14W2-line-54"> There might I sail delighted, smooth and safe,</l><l n="55" xml:id="spp-471-14W2-line-55"> Beneath the conduct of my good Sir Ralph:<ref target="#spp-471-14W2-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-471-14W2-footnote-3">Sir Ralph Gore, who had a villa in the Lake of Erin.──F.</note></l><l n="56" xml:id="spp-471-14W2-line-56"> There's not a better steerer in the realm;</l><l n="57" xml:id="spp-471-14W2-line-57"> I hope, my lord, you'll call him to the helm.”──“Doctor──a glorious scheme to ease your grief!</l><l n="58" xml:id="spp-471-14W2-line-58"> When cures are cross, a school's a sure relief.</l><l n="59" xml:id="spp-471-14W2-line-59"> You cannot fail of being happy there,</l><l n="60" xml:id="spp-471-14W2-line-60"> The Lake will be the Lethe of your care:</l><l n="61" xml:id="spp-471-14W2-line-61"> The scheme is for your honour and your ease:</l><l n="62" xml:id="spp-471-14W2-line-62"> And, doctor, I'll promote it when you please.</l><l n="63" xml:id="spp-471-14W2-line-63"> Meanwhile, allowing things below your merit,</l><l n="64" xml:id="spp-471-14W2-line-64"> Yet, doctor, you've a philosophic spirit;</l><l n="65" xml:id="spp-471-14W2-line-65"> Your wants are few, and, like your income, small,</l><l n="66" xml:id="spp-471-14W2-line-66"> And you've enough to gratify them all:</l><l n="67" xml:id="spp-471-14W2-line-67"> You've trees, and fruits, and roots, enough in store:</l><l n="68" xml:id="spp-471-14W2-line-68"> And what could a philosopher have more?</l><l n="69" xml:id="spp-471-14W2-line-69"> You cannot wish for coaches, kitchens, cooks──”“My lord, I've not enough to buy me books──</l><l n="70" xml:id="spp-471-14W2-line-70"> Or pray, suppose my wants were all supplied,</l><l n="71" xml:id="spp-471-14W2-line-71"> Are there no wants I should regard beside?</l><l n="72" xml:id="spp-471-14W2-line-72"> Whose breast is so unmann'd, as not to grieve,</l><l n="73" xml:id="spp-471-14W2-line-73"> Compass'd with miseries he can't relieve?</l><l n="74" xml:id="spp-471-14W2-line-74"> Who can be happy──who should wish to live,</l><l n="75" xml:id="spp-471-14W2-line-75"> And want the godlike happiness to give?</l><l n="76" xml:id="spp-471-14W2-line-76"> That I'm a judge of this, you must allow:</l><l n="77" xml:id="spp-471-14W2-line-77"> I had it once──and I'm debarr'd it now.</l><l n="78" xml:id="spp-471-14W2-line-78"> Ask your own heart, my lord; if this be true,</l><l n="79" xml:id="spp-471-14W2-line-79"> Then how unblest am I! how blest are you!”“'Tis true──but, doctor, let us wave all that──</l><l n="80" xml:id="spp-471-14W2-line-80"> Say, if you had your wish, what you'd be at?”“Excuse me, good my lord──I won't be sounded,</l><l n="81" xml:id="spp-471-14W2-line-81"> Nor shall your favour by my wants be bounded.</l><l n="82" xml:id="spp-471-14W2-line-82"> My lord, I challenge nothing as my due,</l><l n="83" xml:id="spp-471-14W2-line-83"> Nor is it fit I should prescribe to you.</l><l n="84" xml:id="spp-471-14W2-line-84"> Yet this might Symmachus himself avow,</l><l n="85" xml:id="spp-471-14W2-line-85"> (Whose rigid rules <ref target="#spp-471-14W2-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-471-14W2-footnote-4">Symmachus, Bishop of Rome, 499, made a decree, that no man should solicit for ecclesiastical preferment before the death of the incumbent.──H.</note> are antiquated now)──</l><l n="86" xml:id="spp-471-14W2-line-86"> My lord; I'd wish to pay the debts I owe──</l><l n="87" xml:id="spp-471-14W2-line-87"> I'd wish besides──to build, and to bestow.”471-14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

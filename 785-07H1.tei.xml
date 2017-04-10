@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DICK, <hi rend="underline">A Maggot</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="785-07H1" type="poem"><head type="note" n="1" xml:id="spp-785-07H1-headnote-1"><lg n="1" xml:id="spp-785-07H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-785-07H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-785-07H1-headnote-2"><lg n="1" xml:id="spp-785-07H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-785-07H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-785-07H1-headnote-3"><lg n="1" xml:id="spp-785-07H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-785-07H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-785-07H1-line-1"><hi rend="display-initial">A</hi>S when from rooting in a bin,</l><l n="2" xml:id="spp-785-07H1-line-2"> All powder'd o'er from tail to chin,</l><l n="3" xml:id="spp-785-07H1-line-3"> A lively maggot sallies out,</l><l n="4" xml:id="spp-785-07H1-line-4"> You know him by his hazel snout:</l><l n="5" xml:id="spp-785-07H1-line-5"> So when the grandson of his grandsire</l><l n="6" xml:id="spp-785-07H1-line-6"> Forth issues wriggling, <hi rend="underline">Dick Drawcansir</hi>,</l><l n="7" xml:id="spp-785-07H1-line-7"> With powder'd  rump, and back and side,</l><l n="8" xml:id="spp-785-07H1-line-8"> You cannot blanch his tawny hide;</l><l n="9" xml:id="spp-785-07H1-line-9"> For 'tis beyond the pow'r of meal</l><l n="10" xml:id="spp-785-07H1-line-10"> The gypsey visage to conceal:</l><l n="11" xml:id="spp-785-07H1-line-11"> For, as he shakes his wainscot chops,</l><l n="12" xml:id="spp-785-07H1-line-12"> Down ev'ry mealy atom drops,</l><l n="13" xml:id="spp-785-07H1-line-13"> And leaves the tartar phiz, in show</l><l n="14" xml:id="spp-785-07H1-line-14"> Like a fresh t──────d just dropt on snow.785-07H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

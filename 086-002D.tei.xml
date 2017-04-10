@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The History of</title>
+        <title>M<hi rend="sup">r</hi> 08. Vanbrug's House</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="086-002D" type="poem"><head type="note" n="1" xml:id="spp-086-002D-headnote-1"><lg n="1" xml:id="spp-086-002D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-086-002D-headnote-1-line-group-1-line-1">Anno 1708.</l></lg></head><head type="note" n="2" xml:id="spp-086-002D-headnote-2"><lg n="1" xml:id="spp-086-002D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-086-002D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-086-002D-headnote-3"><lg n="1" xml:id="spp-086-002D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-086-002D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-086-002D-line-1"> When Mother Clud had rose from Play,&#13;</l><l n="2" xml:id="spp-086-002D-line-2"> And call'd to take the Cards away;</l><l n="3" xml:id="spp-086-002D-line-3"> Van saw, but seem'd not to regard</l><l n="4" xml:id="spp-086-002D-line-4"> How Miss pick'd ev'ry painted Card;</l><l n="5" xml:id="spp-086-002D-line-5"> And busie both with hand an Eye,</l><l n="6" xml:id="spp-086-002D-line-6"> Soon rear'd a House Two Story high;</l><l n="7" xml:id="spp-086-002D-line-7"> Van's Genius without Thought or Lecture,</l><l n="8" xml:id="spp-086-002D-line-8"> Is hugely turn'd to Architecture:</l><l n="9" xml:id="spp-086-002D-line-9"> He View'd the Edifice, and smil'd,</l><l n="10" xml:id="spp-086-002D-line-10"> Vow'd it was pretty for a Child;</l><l n="11" xml:id="spp-086-002D-line-11"> It was so perfect in its kind,</l><l n="12" xml:id="spp-086-002D-line-12"> He kept the Model in his Mind.But when he found the Boys at Play,</l><l n="13" xml:id="spp-086-002D-line-13"> And saw them dabling in their Clay;</l><l n="14" xml:id="spp-086-002D-line-14"> He stood behind a Stall to Lurk,</l><l n="15" xml:id="spp-086-002D-line-15"> And Mark the Progress of their Work;</l><l n="16" xml:id="spp-086-002D-line-16"> With True Delight observ'd them all</l><l n="17" xml:id="spp-086-002D-line-17"> Raking up the Mud to build a Wall:</l><l n="18" xml:id="spp-086-002D-line-18"> The Plan he much Admir'd, and took</l><l n="19" xml:id="spp-086-002D-line-19"> The Model in his Table-Book;</l><l n="20" xml:id="spp-086-002D-line-20"> Thought himself now exactly skill'd,</l><l n="21" xml:id="spp-086-002D-line-21"> And so resolv'd a House to Build;</l><l n="22" xml:id="spp-086-002D-line-22"> A real House, and Rooms, and Stairs;</l><l n="23" xml:id="spp-086-002D-line-23"> Five times at least as big as theirs,</l><l n="24" xml:id="spp-086-002D-line-24"> Taller than Miss's by Two Yards,</l><l n="25" xml:id="spp-086-002D-line-25"> Not a Sham Thing of Play, or Cards;</l><l n="26" xml:id="spp-086-002D-line-26"> And so he did: for in a while,</l><l n="27" xml:id="spp-086-002D-line-27"> He built up such A Monstrous Pile,</l><l n="28" xml:id="spp-086-002D-line-28"> That no Two Chair-Men could be found,</l><l n="29" xml:id="spp-086-002D-line-29"> Able to Lift it from the Ground:</l><l n="30" xml:id="spp-086-002D-line-30"> Still at Whitehall it stands in View,</l><l n="31" xml:id="spp-086-002D-line-31"> Just in the Place where first it grew;</l><l n="32" xml:id="spp-086-002D-line-32"> There all the little School-boys run,</l><l n="33" xml:id="spp-086-002D-line-33"> Envying to see themselves out-done.From such deep Rudiments as these,</l><l n="34" xml:id="spp-086-002D-line-34"> Van──is become by due Degrees,</l><l n="35" xml:id="spp-086-002D-line-35"> For Building fam'd, and justly reckon'd</l><l n="36" xml:id="spp-086-002D-line-36"> At Court, Vitruvius the Second:</l><l n="37" xml:id="spp-086-002D-line-37"> No Wonder, since Wise Authors show,</l><l n="38" xml:id="spp-086-002D-line-38"> That best Foundations must be low;</l><l n="39" xml:id="spp-086-002D-line-39"> And now the Duke has Wisely ta'en him</l><l n="40" xml:id="spp-086-002D-line-40"> To be his Architect at Blenheim:</l><l n="41" xml:id="spp-086-002D-line-41"> But Raillery for Once apart,</l><l n="42" xml:id="spp-086-002D-line-42"> If this Rule holds in ev'ry Art;</l><l n="43" xml:id="spp-086-002D-line-43"> Or if his Grace were no more skill'd in</l><l n="44" xml:id="spp-086-002D-line-44"> The Art of Battering Walls, than Building,</l><l n="45" xml:id="spp-086-002D-line-45"> We might Expect to see Next Year,</l><l n="46" xml:id="spp-086-002D-line-46"> A Mouse-Trap Man, Chief Engineer.086-002D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="540-630B" type="poem"><head type="note" n="1" xml:id="spp-540-630B-headnote-1"><lg n="1" xml:id="spp-540-630B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-540-630B-headnote-1-line-group-1-line-1">\<hi rend="underline">1731</hi>\ I am half dead to Day with a Headach, the Consequence of dancing, supping, &amp; sitting up last Night at the D. of Newcastles; &amp; supose I shall from the Prince's Ball to night, be carry'd off in a Herse. the Entertainment last Night was the most magnificent, the easyest, the best understood &amp; the best order'd Thing I ever saw in my Life. the Duke of Lorrain is as great a Romp as you or me. I write this from the Council-Board, &amp; hear so much of the Indies, Plantations, Ships Troops &amp;c──that I am quite confounded in what I write however I must try to recollect a French Epigram I heard last night repeated on the Cardinal Fleuri, the bitterest the cleannest &amp; the strongest Satyr I ever saw in my Life.</l></lg></head><head type="note" n="2" xml:id="spp-540-630B-headnote-2"><lg n="1" xml:id="spp-540-630B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-540-630B-headnote-2-line-group-1-line-1">\<hi rend="underline">1732</hi>\ I have sent you inclosed a Paraphrastical Translation of the Epigram on Card<hi rend="sup">ll</hi> 08 08── Fleury; a bad Imitation &amp; a very unjust Application of a very good Original. L<hi rend="sup">d</hi> 08- &amp; Lady Albemarle are to dine here &amp; it is near three a Clock &amp; I in my Nightgown therefore I must bid you Adieu, when you say so to Redlynch I shall be happy. the Town is as empty as at Midsummer, which can be no great Inducement to any Body to visit it I own.</l></lg></head><head type="note" n="3" xml:id="spp-540-630B-headnote-3"><lg n="1" xml:id="spp-540-630B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-540-630B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-540-630B-line-1"><unclear>1731 lines</unclear>Confondant du Passè le leger souvenir,</l><l n="2" xml:id="spp-540-630B-line-2"> Ebloui du Present, sans percer l'Avenir;</l><l n="3" xml:id="spp-540-630B-line-3"> Dans l'·Art de gouvener, decrepit &amp; Novice</l><l n="4" xml:id="spp-540-630B-line-4"> Punissant la Vertu, recompensant le Vice:</l><l n="5" xml:id="spp-540-630B-line-5"> Malgrè sa tète altiere, accablè de son Rang,</l><l n="6" xml:id="spp-540-630B-line-6"> Fourbe dans le Petit, &amp; Dupe dans le Grand:</l><l n="7" xml:id="spp-540-630B-line-7"> On connoit dans ces Traits, sans meme gu'on le nomme</l><l n="8" xml:id="spp-540-630B-line-8"> Le Maitre de la France, &amp; le Valet de Rome.<gap/><gap/><unclear>1732 lines</unclear>Of Favour &amp; Fortune unmerited, vain,</l><l n="9" xml:id="spp-540-630B-line-9"> A Sharper in Trifles, a Dupe in the Main;</l><l n="10" xml:id="spp-540-630B-line-10"> Atchieving of Nothing, still promissing Wonders,</l><l n="11" xml:id="spp-540-630B-line-11"> By Dint of Experience improving in Blunders:</l><l n="12" xml:id="spp-540-630B-line-12"> Opressing true Merit, exalting the Base,</l><l n="13" xml:id="spp-540-630B-line-13"> And selling his Country, to purchase a Peace.</l><l n="14" xml:id="spp-540-630B-line-14"> A Iobber of Stock by relating false News,</l><l n="15" xml:id="spp-540-630B-line-15"> A Prater at Court, in the Style of the Stews.</l><l n="16" xml:id="spp-540-630B-line-16"> Of Virtue &amp; Worth by Profession a Giber,</l><l n="17" xml:id="spp-540-630B-line-17"> Of Iuries &amp; Senates the Bully &amp; Briber.</l><l n="18" xml:id="spp-540-630B-line-18"> Tho I name not the Wretch, you know who I mean,</l><l n="19" xml:id="spp-540-630B-line-19"> 'Tis the Cur-Dog of Britain, &amp; the Spaniel of Spain.</l></lg><lg n="2" type="stanza"><l n="20" xml:id="spp-540-630B-line-20" rend="align(center) flush left">(Don't give a Copy of this)<gap/>540-630B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

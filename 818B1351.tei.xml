@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the ARof CASHEL,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="818B1351" type="poem"><head type="note" n="1" xml:id="spp-818B1351-headnote-1"><lg n="1" xml:id="spp-818B1351-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-818B1351-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-818B1351-headnote-2"><lg n="1" xml:id="spp-818B1351-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-818B1351-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-818B1351-headnote-3"><lg n="1" xml:id="spp-818B1351-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-818B1351-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-818B1351-line-1"><hi rend="display-initial">D</hi>EAR Dick. prithee tell by what passion you move?</l><l n="2" xml:id="spp-818B1351-line-2"> The world is in doubt, whether hatred or love;</l><l n="3" xml:id="spp-818B1351-line-3"> And, while at good Cashel you rail with such spite,</l><l n="4" xml:id="spp-818B1351-line-4"> They shrewdly suspect it is all but a bite.</l><l n="5" xml:id="spp-818B1351-line-5"> You certainly know, tho' so loudly you vapour,</l><l n="6" xml:id="spp-818B1351-line-6"> His spite cannot wound, who attempted the Drapier.</l><l n="7" xml:id="spp-818B1351-line-7"> Then, prithee reflect, take a word of advice;</l><l n="8" xml:id="spp-818B1351-line-8"> And, as your old wont is, change sides in a trice:</l><l n="9" xml:id="spp-818B1351-line-9"> On his virtues hold forth; 'tis the very best way;</l><l n="10" xml:id="spp-818B1351-line-10"> And say of the man what all honest men say.</l><l n="11" xml:id="spp-818B1351-line-11"> But if still obdurate, your anger remains,</l><l n="12" xml:id="spp-818B1351-line-12"> If still your foul bosom more rancour contains;</l><l n="13" xml:id="spp-818B1351-line-13"> Say then more than they; nay, lavishly flatter,</l><l n="14" xml:id="spp-818B1351-line-14"> 'Tis your gross panegyrics alone can bespatter.</l><l n="15" xml:id="spp-818B1351-line-15"> For thine, my dear Dick, give me leave to speak plain,</l><l n="16" xml:id="spp-818B1351-line-16"> Like a very foul mop, dirty more than they clean.818B1351   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

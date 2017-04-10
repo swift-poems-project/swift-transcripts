@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SS"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="915-0201" type="poem"><head type="note" n="1" xml:id="spp-915-0201-headnote-1"><lg n="1" xml:id="spp-915-0201-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-915-0201-headnote-1-line-group-1-line-1"><hi rend="underline">About Nine or Ten Years ago, some ingenious Gentlemen, Friends to the Author, used to entertain themselves with writing Riddles, and send them to him and their other Acquaintance, Copies of which ran about, and some of them were printed both here and in </hi>England<hi rend="underline">. The Author, at his leisure Hours, fell into the same Amusement; although it be said that he thought them of no great Merit, Entertainment, or Use. However, by the Advice of some Persons, for whom the Author hath a great Esteem, and who were pleased to send us the Copies, we have ventured to print the few following, as we have done two or three before, and which are allowed to be genuine; because, we are informed that several good Judges have a Taste for such Kind of Compositions</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-915-0201-headnote-2"><lg n="1" xml:id="spp-915-0201-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-915-0201-headnote-2-line-group-1-line-1">Written in the Year 1724.</l></lg></head><head type="note" n="3" xml:id="spp-915-0201-headnote-3"><lg n="1" xml:id="spp-915-0201-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-915-0201-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-915-0201-line-1"><hi rend="display-initial">I</hi>N Youth exalted high in Air,</l><l n="2" xml:id="spp-915-0201-line-2"> Or bathing in the Waters fair;</l><l n="3" xml:id="spp-915-0201-line-3"> Nature to form me took Delight,</l><l n="4" xml:id="spp-915-0201-line-4"> And clad my Body all in White:</l><l n="5" xml:id="spp-915-0201-line-5"> My Person tall, and slender Waste,</l><l n="6" xml:id="spp-915-0201-line-6"> On either Side with Fringes grac'd;</l><l n="7" xml:id="spp-915-0201-line-7"> Till me that Tyrant Man espy'd,</l><l n="8" xml:id="spp-915-0201-line-8"> And drag'd me from my Mother's Side:</l><l n="9" xml:id="spp-915-0201-line-9"> No Wonder now I look so thin;</l><l n="10" xml:id="spp-915-0201-line-10"> The Tyrant strip't me to the Skin:</l><l n="11" xml:id="spp-915-0201-line-11"> My Skin he flay'd, my Hair he cropt;</l><l n="12" xml:id="spp-915-0201-line-12"> At Head and Foot my Body lopt:</l><l n="13" xml:id="spp-915-0201-line-13"> And then, with Heart more hard than Stone,</l><l n="14" xml:id="spp-915-0201-line-14"> He pick't my Marrow from the Bone.</l><l n="15" xml:id="spp-915-0201-line-15"> To vex me more, he took a Freak,</l><l n="16" xml:id="spp-915-0201-line-16"> To slit my Tongue, and made me speak:</l><l n="17" xml:id="spp-915-0201-line-17"> But, that which wonderful appears,</l><l n="18" xml:id="spp-915-0201-line-18"> I speak to Eyes and not to Ears.</l><l n="19" xml:id="spp-915-0201-line-19"> He oft employs me in Disguise,</l><l n="20" xml:id="spp-915-0201-line-20"> And makes me tell a Thousand Lyes:</l><l n="21" xml:id="spp-915-0201-line-21"> To me he chiefly gives in Trust</l><l n="22" xml:id="spp-915-0201-line-22"> To please his Malice, or his Lust.</l><l n="23" xml:id="spp-915-0201-line-23"> From me no Secret he can hide;</l><l n="24" xml:id="spp-915-0201-line-24"> I see his Vanity and Pride:</l><l n="25" xml:id="spp-915-0201-line-25"> And my Delight is to expose</l><l n="26" xml:id="spp-915-0201-line-26"> His Follies to his greatest Foes.</l></lg><lg n="2" type="stanza"><l n="27" xml:id="spp-915-0201-line-27">A<hi rend="SMALL-CAPS">LL</hi> Languages I can command,</l><l n="28" xml:id="spp-915-0201-line-28"> Yet not a Word I understand.</l><l n="29" xml:id="spp-915-0201-line-29"> Without my Aid, the best Divine</l><l n="30" xml:id="spp-915-0201-line-30"> In Learning would not know a Line:</l><l n="31" xml:id="spp-915-0201-line-31"> The Lawyer must forget his Pleading,</l><l n="32" xml:id="spp-915-0201-line-32"> The Scholar could not shew his Reading.</l><l n="33" xml:id="spp-915-0201-line-33"> Nay; Man, my Master, is my Slave:</l><l n="34" xml:id="spp-915-0201-line-34"> I give Command to kill or save.</l><l n="35" xml:id="spp-915-0201-line-35"> Can grant ten Thousand Pounds a Year,</l><l n="36" xml:id="spp-915-0201-line-36"> And make a Beggar's Brat a Peer.</l></lg><lg n="3" type="stanza"><l n="37" xml:id="spp-915-0201-line-37">B<hi rend="SMALL-CAPS">UT</hi>, while I thus my Life relate,</l><l n="38" xml:id="spp-915-0201-line-38"> I only hasten on my Fate.</l><l n="39" xml:id="spp-915-0201-line-39"> My Tongue is black, my Mouth is furr'd,</l><l n="40" xml:id="spp-915-0201-line-40"> I hardly now can force a Word.</l><l n="41" xml:id="spp-915-0201-line-41"> I dye unpity'd and forgot;</l><l n="42" xml:id="spp-915-0201-line-42"> And on some Dunghill left to rot.915-0201   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

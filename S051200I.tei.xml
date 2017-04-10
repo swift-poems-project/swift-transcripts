@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S051200I" type="poem"><head type="note" n="1" xml:id="spp-S051200I-headnote-1"><lg n="1" xml:id="spp-S051200I-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-S051200I-headnote-1-line-group-1-line-1">N<hi rend="sup">o</hi>. 14</l></lg></head><head type="note" n="2" xml:id="spp-S051200I-headnote-2"><lg n="1" xml:id="spp-S051200I-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-S051200I-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-S051200I-headnote-3"><lg n="1" xml:id="spp-S051200I-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-S051200I-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-S051200I-line-1"> I send this at Nine&#13;</l><l n="2" xml:id="spp-S051200I-line-2"> to know will you dine</l><l n="3" xml:id="spp-S051200I-line-3"> On a beef stake of mine</l><l n="4" xml:id="spp-S051200I-line-4"> As I'm a devine</l><l n="5" xml:id="spp-S051200I-line-5"> I'll give you good wine</l><l n="6" xml:id="spp-S051200I-line-6"> Old Gen'rous and fine</l><l n="7" xml:id="spp-S051200I-line-7"> till Death I am thine</l><l n="8" xml:id="spp-S051200I-line-8"> Thomas SheridineS051200I   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

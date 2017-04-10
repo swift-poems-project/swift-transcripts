@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">DRAPIER's HALL</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="875-29DI" type="poem"><head type="note" n="1" xml:id="spp-875-29DI-headnote-1"><lg n="1" xml:id="spp-875-29DI-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-875-29DI-headnote-1-line-group-1-line-1">The following Poem was sent from <hi rend="underline">Dublin</hi>──The Subject of it is, a certain <hi rend="underline">Dean</hi>, a very popular Person in that Country. For the explaining the Occasion of it, we need only advise the Readers, that the said <hi rend="underline">Dean</hi> has purchased a Piece of Ground from a certain Gentleman there, call'd Sir <hi rend="underline">Arthur</hi>, and is building a House, which he calls <hi rend="underline">Drapier's Hall</hi>, at the Request of the said Sir <hi rend="underline">Arthur</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-875-29DI-headnote-2"><lg n="1" xml:id="spp-875-29DI-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-875-29DI-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-875-29DI-headnote-3"><lg n="1" xml:id="spp-875-29DI-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-875-29DI-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-875-29DI-line-1"><hi rend="display-initial">W</hi>E give the World to understand,</l><l n="2" xml:id="spp-875-29DI-line-2"> Our thriving <hi rend="underline">Dean</hi> has purchased Land,</l><l n="3" xml:id="spp-875-29DI-line-3"> A Purchase which will bring him clear,</l><l n="4" xml:id="spp-875-29DI-line-4"> Above his Rent, four Pound a Year;</l><l n="5" xml:id="spp-875-29DI-line-5"> Provided to improve the Ground,</l><l n="6" xml:id="spp-875-29DI-line-6"> He will but add two hundred Pound;</l><l n="7" xml:id="spp-875-29DI-line-7"> And from his endless hoarded Store,</l><l n="8" xml:id="spp-875-29DI-line-8"> To build a House five hundred more.</l><l n="9" xml:id="spp-875-29DI-line-9"> Sir <hi rend="underline">Arthur</hi> too, shall have his Will,</l><l n="10" xml:id="spp-875-29DI-line-10"> And call the Mansion <hi rend="underline">Drapier'</hi>s<hi rend="underline"> Hill</hi>,</l><l n="11" xml:id="spp-875-29DI-line-11"> That when a Nation long en────d,</l><l n="12" xml:id="spp-875-29DI-line-12"> Forgets by whom it once was saved;</l><l n="13" xml:id="spp-875-29DI-line-13"> When none the <hi rend="underline">Drapier</hi>'s Praise shall sing,</l><l n="14" xml:id="spp-875-29DI-line-14"> His <hi rend="underline">Signs</hi> aloft no longer swing,<gap/><gap/></l><l n="15" xml:id="spp-875-29DI-line-15"> His <hi rend="underline">Medals</hi> and his <hi rend="underline">Prints</hi> forgotten,</l><l n="16" xml:id="spp-875-29DI-line-16"> And all his Handkerchiefs are rotten;</l><l n="17" xml:id="spp-875-29DI-line-17"> His <hi rend="underline">famous Letters</hi> made waste Paper,</l><l n="18" xml:id="spp-875-29DI-line-18"> This <hi rend="underline">Hill</hi> may keep the Name of <hi rend="underline">Drapier</hi>,</l><l n="19" xml:id="spp-875-29DI-line-19"> In spight of Envy flourish still,</l><l n="20" xml:id="spp-875-29DI-line-20"> And <hi rend="underline">Drapiers</hi> vye with <hi rend="underline">Cooper'</hi>s<hi rend="underline"> Hill</hi>.875-29DI   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

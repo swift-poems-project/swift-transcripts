@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="402C630L" type="poem"><head type="note" n="1" xml:id="spp-402C630L-headnote-1"><lg n="1" xml:id="spp-402C630L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-402C630L-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-402C630L-headnote-2"><lg n="1" xml:id="spp-402C630L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-402C630L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-402C630L-headnote-3"><lg n="1" xml:id="spp-402C630L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-402C630L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-402C630L-line-1"> my Landlord is civil <unclear reason="blotted">but as de </unclear></l><l n="2" xml:id="spp-402C630L-line-2"> But Dear as y<hi rend="sup">e</hi> Devil<gap/><gap/></l><l n="3" xml:id="spp-402C630L-line-3"> His Wine is so sower</l><l n="4" xml:id="spp-402C630L-line-4"> It will give you the Scower</l><l n="5" xml:id="spp-402C630L-line-5"> As for his bear &amp; his Ale</l><l n="6" xml:id="spp-402C630L-line-6"> It is mingled with Stale</l><l n="7" xml:id="spp-402C630L-line-7"> His Veal is such carrion</l><l n="8" xml:id="spp-402C630L-line-8"> A Dog would be weary on</l><l n="9" xml:id="spp-402C630L-line-9"> All this have I felt</l><l n="10" xml:id="spp-402C630L-line-10"> But I lived on a smelt.402C630L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

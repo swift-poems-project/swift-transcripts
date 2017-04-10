@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><lb/>LETTER</title>
+        <title>OF ABUSE.</title>
+        <title>To the Reverend Doctor <hi rend="underline">D────la────y</hi>.<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-Z92430D2-footnote-1 #spp-Z92430D2-line-3"/>
+        </linkGrp>
+        <div n="Z92430D2" type="letter"><head type="note" n="1" xml:id="spp-Z92430D2-headnote-1"><lg n="1" xml:id="spp-Z92430D2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Z92430D2-headnote-1-line-group-1-line-1"><hi rend="underline">Facile est inventis addere</hi>.	··Vet. Adag.</l></lg></head><head type="note" n="2" xml:id="spp-Z92430D2-headnote-2"><lg n="1" xml:id="spp-Z92430D2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Z92430D2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Z92430D2-headnote-3"><lg n="1" xml:id="spp-Z92430D2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Z92430D2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-Z92430D2-line-1"><hi rend="display-initial">W</hi>HAT Doctor, if great C<hi rend="SMALL-CAPS">ARTERET</hi> CondescendsTo chat with <hi rend="underline">S──t</hi> and you, as private Friends,<hi rend="underline">Ans. Their Visits for the Favour, make amends.</hi>Must you so silly be, to tell the Town,And boast of Favours, he may blush to own?<hi rend="underline">Ans. Was ever such a Piece of Nonsense known!</hi>Is this the Modest, Dutiful, Behaviour,You shew your Patron, for so great a Favour?<hi rend="underline">Ans. Thy Muse is damn'd, and no Reprieve can save her.</hi>Think you, these Honours, to thy Merit due,What equal Honours can reflect from you?<hi rend="underline">Ans. You wou'd not ask the Question, if you knew.</hi>You may, perhaps, propose Immortal Fame,Under the Shelter of your Patron's Name:<hi rend="underline">Ans. Great</hi> Maro <hi rend="underline">with</hi> Augustus, <hi rend="underline">did the same.</hi>If you presume too far, you miss that end,For the like Course <hi rend="underline">Sw──t</hi> lost his <hi rend="underline">Gall's-town</hi> Friend.<hi rend="underline">Ans. That you may ne're have one to lose</hi>──God <hi rend="underline">send.</hi>And may in time disturb your Patron too,To see the simple choice he made, of you.<hi rend="underline">Ans. To read your simple Stuff, wou'd make him spew.</hi>But is my Lord still short of his Intent, 4}Or is thy Merit of that vast extent,That nothing less than Thousands can Content?<hi rend="underline">Ans. Whilst I, for lack of Farthings, Nonsense vent.</hi>There was a time when <hi rend="underline">Paddy</hi> out of hope, 4}Thought a <hi rend="underline">West-Indian</hi> jaunt his utmost Scope;<hi rend="underline">Ans. There was a time when</hi> Johnny <hi rend="underline">out of hope,</hi> Indies <hi rend="underline">to avoid the Rope.</hi>The World's well mended since with <hi rend="underline">Patrick</hi>, nowNothing but <hi rend="underline">Visto</hi>'s, and <hi rend="underline">Canals</hi> will do.<hi rend="underline">Ans. 'Twere much more mended, if you honest grew.</hi>But pray, great Sir, what Friend of common SenseWou'd labour to promote such vain Expence?<hi rend="underline">Ans. While I, in Garret starve, for want of Pence.</hi>And must your Brethren all in Hamlets dwell,To adorn your <hi rend="underline">Busts</hi>, and young St. <hi rend="underline">Patrick</hi>'s <hi rend="underline">Cell</hi>?<hi rend="underline">Ans. Such Saints as you, are fit to People Hell</hi>.Why may not some of them, for ought you know,Have a desire to build, or to bestow,<hi rend="underline">Ans. On</hi> John, <hi rend="underline">a Gibbet for his Numbers low</hi>.Retrench then, and be Modest, if you can Sir,Or raise Objections, stronger than your Answer,<hi rend="underline">Ans. Retrench thy Vices, or you'll dye a Dancer.</hi>Think <hi rend="underline">Doctor</hi>, after double <hi rend="underline">Vicar</hi>, double <hi rend="underline">Rector</hi>,A dignity in <hi rend="underline">Christ-Church</hi> City Lecture,<hi rend="underline">Ans. Thou double Dunce, to slander thy Protector.</hi>And something else, which you have still forgotA <hi rend="underline">College-place</hi>: Won't all this boil the Pot;<hi rend="underline">Ans. Thou'lt ne'er be witty, whilst thy Head is hot.</hi>Then judge, how very aukwardly it looks,You have not yet enough, to buy you Books,<hi rend="underline">Ans. Thou get'st 'em cheaper──if we credit</hi> Br──ks.Good <hi rend="underline">Patrick</hi>, take Advice, and first read o'erThe Books you have, before you call for more,<hi rend="underline">Ans. And those you have purloin'd, good</hi> Jack <hi rend="underline">restore</hi>.Resign some of those Cures you labour hard in,If you must spend whole <hi rend="underline">Summers</hi> in your Garden,<hi rend="underline">Ans. Thy labours</hi>, Johnny, <hi rend="underline">are not worth one Farthing</hi>.Attend some one at least, and quit <hi rend="underline">Glass-Nevin</hi>,Which will destroy your Credit, if you live in,<hi rend="underline">Ans. To</hi> Jack, <hi rend="underline">no Credit ever yet was given</hi>,</l><l n="2" xml:id="spp-Z92430D2-line-2"> Ans. Fled to the</l></lg><lg n="2" type="verse-paragraph"><l n="3" xml:id="spp-Z92430D2-line-3"><ref target="#spp-Z92430D2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-Z92430D2-footnote-1">There are two Lines here omitted, which reflected only on a Lady of extraordinary Abilities and Virtue, and on whom the following <hi rend="underline">Epigram</hi> was Written by Dr. <hi rend="underline">S</hi>──<hi rend="underline">t</hi>.</note>* * * * * * * * * * * * * * * * * * * ** * * * * * * * * * * * * * * * * * * *</l></lg><lg n="3" type="verse-paragraph"><l n="4" xml:id="spp-Z92430D2-line-4">Quickly do this, or you may some Provoke,&#13;To say you mean to <hi rend="underline">fleece</hi>, not <hi rend="underline">feed</hi> the Flock,<hi rend="underline">Ans. So to conclude, the Poet is a Block──────head.</hi>Z92430D2   </l><l n="5" xml:id="spp-Z92430D2-line-5"> Ans. Good Reader, if he's near, secure your Pock──et.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">A </hi>RECEIPT<hi rend="underline"> to restore<lb/>STELLA</hi>'s<hi rend="underline"> Youth</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-759-36L--footnote-1 #spp-759-36L--line-26"/>
+        </linkGrp>
+        <div n="759-36L-"><head type="note" n="1" xml:id="spp-759-36L--headnote-1"><lg n="1" xml:id="spp-759-36L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-759-36L--headnote-1-line-group-1-line-1"><hi rend="underline">Written in the Year</hi> 1724.</l></lg></head><head type="note" n="2" xml:id="spp-759-36L--headnote-2"><lg n="1" xml:id="spp-759-36L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-759-36L--headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-759-36L--headnote-3"><lg n="1" xml:id="spp-759-36L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-759-36L--headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-759-36L--line-1"><hi rend="display-initial">T</hi>HE <hi rend="underline">Scottish</hi> Hinds too poor to house</l><l/><l n="2" xml:id="spp-759-36L--line-2">In frosty Nights their starving Cows,</l><l/><l n="3" xml:id="spp-759-36L--line-3">While not a blade of Grass, or Hay,</l><l/><l n="4" xml:id="spp-759-36L--line-4">Appears from <hi rend="underline">Michaelmas</hi> to <hi rend="underline">May</hi>;</l><l/><l n="5" xml:id="spp-759-36L--line-5">Must let their Cattle range in vain</l><l/><l n="6" xml:id="spp-759-36L--line-6">For Food, along the barren Plain;</l><l/><l n="7" xml:id="spp-759-36L--line-7">Meager and lank with fasting grown,</l><l/><l n="8" xml:id="spp-759-36L--line-8">And nothing left but Skin and Bone;</l><l/><l n="9" xml:id="spp-759-36L--line-9">Expos'd to want, and wind, and weather,</l><l/><l n="10" xml:id="spp-759-36L--line-10">They just keep Life and Soul together,</l><l/><l n="11" xml:id="spp-759-36L--line-11">'Till Summer Show'rs and Ev'ning Dew,</l><l/><l n="12" xml:id="spp-759-36L--line-12">Again the verdant Glebe renew;</l><l/><l n="13" xml:id="spp-759-36L--line-13">And as the Vegetables rise,</l><l/><l n="14" xml:id="spp-759-36L--line-14">The famish't Cow her want supplies;</l><l/><l n="15" xml:id="spp-759-36L--line-15">Without an Ounce of last Year's Flesh,</l><l/><l n="16" xml:id="spp-759-36L--line-16">Whate'er she gains is young and fresh;</l><l/><l n="17" xml:id="spp-759-36L--line-17">Grows plump and round, and full of Mettle,</l><l/><l n="18" xml:id="spp-759-36L--line-18">As rising from <hi rend="underline">Medea</hi>'s Kettle;</l><l/><l n="19" xml:id="spp-759-36L--line-19">With Youth and Beauty to enchant</l><l/><l n="20" xml:id="spp-759-36L--line-20"><hi rend="underline">Europa</hi>'s counterfeit Gallant.</l><l/><l n="21" xml:id="spp-759-36L--line-21"/></lg><lg n="2" type="stanza"><l>Why, <hi rend="underline">Stella</hi>, should you knit your Brow,</l><l/><l n="22" xml:id="spp-759-36L--line-22">If I compare you to the Cow?</l><l/><l n="23" xml:id="spp-759-36L--line-23">'Tis just the Case: For you have fasted</l><l/><l n="24" xml:id="spp-759-36L--line-24">So long till all your Flesh is wasted.</l><l/><l n="25" xml:id="spp-759-36L--line-25">And must against the warmer Days</l><l/><l n="26" xml:id="spp-759-36L--line-26">Be sent to <ref target="#spp-759-36L--footnote-1">1</ref><note place="foot" n="1" xml:id="spp-759-36L--footnote-1">A Friend's House seven or eight Miles from <hi rend="underline">Dublin</hi>.</note><hi rend="underline">Quilca</hi> down to graze;</l><l/><l n="27" xml:id="spp-759-36L--line-27">Where Mirth, and Exercise, and Air,</l><l/><l n="28" xml:id="spp-759-36L--line-28">Will soon your Appetite repair.</l><l/><l n="29" xml:id="spp-759-36L--line-29">The Nutriment will from within,</l><l/><l n="30" xml:id="spp-759-36L--line-30">Round all your Body, plump your Skin;</l><l/><l n="31" xml:id="spp-759-36L--line-31">Will agitate the lazy Flood,</l><l/><l n="32" xml:id="spp-759-36L--line-32">And fill your Veins with sprightly blood?</l><l/><l n="33" xml:id="spp-759-36L--line-33">Nor Flesh nor Blood will be the same,</l><l/><l n="34" xml:id="spp-759-36L--line-34">Nor ought of <hi rend="underline">Stella</hi>, but the Name;</l><l/><l n="35" xml:id="spp-759-36L--line-35">For, what was ever understood</l><l/><l n="36" xml:id="spp-759-36L--line-36">By human Kind, but Flesh and Blood?</l><l/><l n="37" xml:id="spp-759-36L--line-37">And if your Flesh and Blood be new,</l><l/><l n="38" xml:id="spp-759-36L--line-38">You'll be no more your former <hi rend="underline">You</hi>;</l><l/><l n="39" xml:id="spp-759-36L--line-39">But for a blooming Nymph will pass,</l><l/><l n="40" xml:id="spp-759-36L--line-40">Just Fifteen, coming Summer's Grass:</l><l/><l n="41" xml:id="spp-759-36L--line-41">Your jetty Locks with Garlands crown'd,</l><l/><l n="42" xml:id="spp-759-36L--line-42">While all the Squires from nine Miles round,</l><l/><l n="43" xml:id="spp-759-36L--line-43">Attended by a brace of Curs,</l><l/><l n="44" xml:id="spp-759-36L--line-44">With Jocky Boots, and Silver Spurs;</l><l/><l n="45" xml:id="spp-759-36L--line-45">No less than Justices o' <hi rend="underline">Quorum</hi>,</l><l/><l n="46" xml:id="spp-759-36L--line-46">Their Cow-boys bearing Cloaks before 'em,</l><l/><l n="47" xml:id="spp-759-36L--line-47">Shall leave deciding broken Pates,</l><l/><l n="48" xml:id="spp-759-36L--line-48">To kiss your Steps at <hi rend="underline">Quilca</hi> Gates;</l><l/><l n="49" xml:id="spp-759-36L--line-49">But, lest you should my Skill disgrace,</l><l/><l n="50" xml:id="spp-759-36L--line-50">Come back before you're out of Case;</l><l/><l n="51" xml:id="spp-759-36L--line-51">For if to <hi rend="underline">Michaelmas</hi> you stay,</l><l/><l n="52" xml:id="spp-759-36L--line-52">The new-born Flesh will melt away;</l><l/><l n="53" xml:id="spp-759-36L--line-53">The Squires in Scorn will fly the House</l><l/><l n="54" xml:id="spp-759-36L--line-54">For better Game, and look for Grouse:</l><l/><l n="55" xml:id="spp-759-36L--line-55">But here, before the Frost can marr it,</l><l/><l n="56" xml:id="spp-759-36L--line-56">We'll make it firm with Beef and Claret.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

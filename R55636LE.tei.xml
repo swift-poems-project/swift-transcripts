@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>B<hi rend="SMALL-CAPS">OUNCE</hi> <hi rend="underline">to</hi> F<hi rend="SMALL-CAPS">OP</hi>: <hi rend="underline">An heroick Epistle, from a</hi></title>
+        <title><hi rend="underline">Dog at </hi>Twickenham<hi rend="underline">, to a Dog at Court</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-R55636LE-footnote-1 #spp-R55636LE-line-64"/>
+          <link target="#spp-R55636LE-footnote-2 #spp-R55636LE-line-75"/>
+        </linkGrp>
+        <div n="R55636LE" type="poem"><head type="note" n="1" xml:id="spp-R55636LE-headnote-1"><lg n="1" xml:id="spp-R55636LE-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-R55636LE-headnote-1-line-group-1-line-1"><hi rend="underline">By Dr</hi>. S──t.</l></lg></head><head type="note" n="2" xml:id="spp-R55636LE-headnote-2"><lg n="1" xml:id="spp-R55636LE-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-R55636LE-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-R55636LE-headnote-3"><lg n="1" xml:id="spp-R55636LE-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-R55636LE-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-R55636LE-line-1"><hi rend="display-initial">T</hi>O thee, sweet <hi rend="underline">Fop</hi>, these lines I send,</l><l n="2" xml:id="spp-R55636LE-line-2"> Who, tho' no spaniel, am a friend.</l><l n="3" xml:id="spp-R55636LE-line-3"> Tho' once my tail in wanton play,</l><l n="4" xml:id="spp-R55636LE-line-4"> Now frisking this, and then that way,</l><l n="5" xml:id="spp-R55636LE-line-5"> Chanc'd, with a touch of just the tip,</l><l n="6" xml:id="spp-R55636LE-line-6"> To hurt your lady-lap-dog-ship;</l><l n="7" xml:id="spp-R55636LE-line-7"> Yet thence to think I'd bite your head off!</l><l n="8" xml:id="spp-R55636LE-line-8"> Sure <hi rend="underline">Bounce</hi> is one you never read of.<hi rend="underline">Fop</hi>! you can dance, and make a leg,</l><l n="9" xml:id="spp-R55636LE-line-9"> Can fetch and carry, cringe and beg,</l><l n="10" xml:id="spp-R55636LE-line-10"> And (what's the top of all your tricks)</l><l n="11" xml:id="spp-R55636LE-line-11"> Can stoop to pick up <hi rend="underline">strings</hi> and <hi rend="underline">sticks</hi>.</l><l n="12" xml:id="spp-R55636LE-line-12"> We country dogs love nobler sport,</l><l n="13" xml:id="spp-R55636LE-line-13"> And scorn the pranks of dogs at court.</l><l n="14" xml:id="spp-R55636LE-line-14"> Fye naughty <hi rend="underline">Fop</hi>! where e'er you come</l><l n="15" xml:id="spp-R55636LE-line-15"> To f──t and p──ss about the room,</l><l n="16" xml:id="spp-R55636LE-line-16"> To lay your head in every lap,</l><l n="17" xml:id="spp-R55636LE-line-17"> And, when they think not of you──snap!</l><l n="18" xml:id="spp-R55636LE-line-18"> The worst that envy, or that spite</l><l n="19" xml:id="spp-R55636LE-line-19"> E'er said of me, is, I can bite:</l><l n="20" xml:id="spp-R55636LE-line-20"> That sturdy vagrants, rogues in rags,</l><l n="21" xml:id="spp-R55636LE-line-21"> Who poke at me, can make no brags;</l><l n="22" xml:id="spp-R55636LE-line-22"> And that to towze such things as <hi rend="underline">flutter</hi>,</l><l n="23" xml:id="spp-R55636LE-line-23"> To honest <hi rend="underline">Bounce</hi> is bread and butter.While you, and every courtly fop,</l><l n="24" xml:id="spp-R55636LE-line-24"> Fawn on the devil for a chop,</l><l n="25" xml:id="spp-R55636LE-line-25"> I've the humanity to hate</l><l n="26" xml:id="spp-R55636LE-line-26"> A butcher, tho' he brings me meat;</l><l n="27" xml:id="spp-R55636LE-line-27"> And let me tell you, have a nose,</l><l n="28" xml:id="spp-R55636LE-line-28"> (Whatever stinking fops suppose)</l><l n="29" xml:id="spp-R55636LE-line-29"> That under cloth of gold or tissue,</l><l n="30" xml:id="spp-R55636LE-line-30"> Can smell a plaister, or an issue.Your pilf'ring lord, with simple pride,</l><l n="31" xml:id="spp-R55636LE-line-31"> May wear a pick-lock at his side;</l><l n="32" xml:id="spp-R55636LE-line-32"> My master wants no key of state,</l><l n="33" xml:id="spp-R55636LE-line-33"> For <hi rend="underline">Bounce</hi> can keep his house and gate.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>When all such dogs have had their days,</l><l n="34" xml:id="spp-R55636LE-line-34"> As knavish <hi rend="underline">Pams</hi>, and fawning <hi rend="underline">Trays</hi>;</l><l n="35" xml:id="spp-R55636LE-line-35"> When pamper'd <hi rend="underline">Cupids</hi>, beastly <hi rend="underline">Veni</hi>'s,</l><l n="36" xml:id="spp-R55636LE-line-36"> And motly, squinting <hi rend="underline">Harlequini</hi>'s,</l><l n="37" xml:id="spp-R55636LE-line-37"> Shall lick no more their lady's br──,</l><l n="38" xml:id="spp-R55636LE-line-38"> But die of looseness, claps, or itch;</l><l n="39" xml:id="spp-R55636LE-line-39"> Fair <hi rend="underline">Thames</hi> from either echoing shore</l><l n="40" xml:id="spp-R55636LE-line-40"> Shall hear, and dread my manly roar.See <hi rend="underline">Bounce</hi>, like <hi rend="underline">Berecynthia</hi>, crown'd</l><l n="41" xml:id="spp-R55636LE-line-41"> With thund'ring offspring all around,</l><l n="42" xml:id="spp-R55636LE-line-42"> Beneath, beside me, and a top,</l><l n="43" xml:id="spp-R55636LE-line-43"> A hundred sons! and not one <hi rend="underline">Fop</hi>.Before my children set your beef,</l><l n="44" xml:id="spp-R55636LE-line-44"> Not one true <hi rend="underline">Bounce</hi> will be a thief;</l><l n="45" xml:id="spp-R55636LE-line-45"> Not one without permission feed,</l><l n="46" xml:id="spp-R55636LE-line-46"> (Tho' some of <hi rend="underline">J</hi>──'s hungry breed)</l><l n="47" xml:id="spp-R55636LE-line-47"> But whatsoe'er the father's race,</l><l n="48" xml:id="spp-R55636LE-line-48"> From me they suck a little grace.</l><l n="49" xml:id="spp-R55636LE-line-49"> While your fine whelps learn all to steal,</l><l n="50" xml:id="spp-R55636LE-line-50"> Bred up by hand on chick and veal.</l><l n="51" xml:id="spp-R55636LE-line-51"> My eldest-born resides not far,</l><l n="52" xml:id="spp-R55636LE-line-52"> Where shines great <hi rend="underline">Strafford</hi>'s glittering star:<gap/><gap/></l><l n="53" xml:id="spp-R55636LE-line-53"> My second (child of fortune!) waits</l><l n="54" xml:id="spp-R55636LE-line-54"> At <hi rend="underline">Burlington</hi>'s palladian gates:</l><l n="55" xml:id="spp-R55636LE-line-55"> A third majestically stalks</l><l n="56" xml:id="spp-R55636LE-line-56"> (Happiest of dogs!) in <hi rend="underline">Cobham</hi>'s walks:</l><l n="57" xml:id="spp-R55636LE-line-57"> One ushers friends to <hi rend="underline">Bathurst</hi>'s door;</l><l n="58" xml:id="spp-R55636LE-line-58"> One fawns, at <hi rend="underline">Oxford</hi>'s, on the poor.Nobles, whom arms or arts adorn,</l><l n="59" xml:id="spp-R55636LE-line-59"> Wait for my infants yet unborn.</l><l n="60" xml:id="spp-R55636LE-line-60"> None but a peer of wit and grace,</l><l n="61" xml:id="spp-R55636LE-line-61"> Can hope a puppy of my race.And O! would fate the bliss decree</l><l n="62" xml:id="spp-R55636LE-line-62"> To mine (a bliss too great for me)</l><l n="63" xml:id="spp-R55636LE-line-63"> That two, my tallest sons, might grace,</l><l n="64" xml:id="spp-R55636LE-line-64"> Attending each with stately pace,<hi rend="underline">Iulus</hi>'s side, as erst <hi rend="underline">Evander</hi>'s, <ref target="#spp-R55636LE-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-R55636LE-footnote-1">Virg. <unclear>AE</unclear>n. VIII.</note></l><l n="65" xml:id="spp-R55636LE-line-65"> To keep off flatt'rers, spies, and panders,</l><l n="66" xml:id="spp-R55636LE-line-66"> To let no noble slave come near,</l><l n="67" xml:id="spp-R55636LE-line-67"> And scare lord <hi rend="underline">Fannys</hi> from his ear:</l><l n="68" xml:id="spp-R55636LE-line-68"> Then might a royal youth, and true,</l><l n="69" xml:id="spp-R55636LE-line-69"> Enjoy at least a friend──or two.</l><l n="70" xml:id="spp-R55636LE-line-70"> A treasure, which, of royal kind,</l><l n="71" xml:id="spp-R55636LE-line-71"> Few but himself deserve to find.Then <hi rend="underline">Bounce</hi> ('tis all that <hi rend="underline">Bounce</hi> can crave)</l><l n="72" xml:id="spp-R55636LE-line-72"> Shall wag her tail within the grave.And tho' no doctors, whig or tory ones,</l><l n="73" xml:id="spp-R55636LE-line-73"> Except the sect of <hi rend="underline">Pythagoreans</hi>,</l><l n="74" xml:id="spp-R55636LE-line-74"> Have immortality assign'd</l><l n="75" xml:id="spp-R55636LE-line-75"> To any beast, but <ref target="#spp-R55636LE-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-R55636LE-footnote-2"><hi rend="underline">A Milk-white-Hind, immortal and unchang'd</hi>. Ver. I. Of the Hind and Panther.</note><hi rend="underline">Dryden</hi>'s hind:</l><l n="76" xml:id="spp-R55636LE-line-76"> Yet master <hi rend="underline">Pope</hi>, whom truth and sense</l><l n="77" xml:id="spp-R55636LE-line-77"> Shall call their friend some ages hence,</l><l n="78" xml:id="spp-R55636LE-line-78"> Tho' now on loftier themes he sings</l><l n="79" xml:id="spp-R55636LE-line-79"> Than to bestow a word on <hi rend="underline">kings</hi>,</l><l n="80" xml:id="spp-R55636LE-line-80"> Has sworn by <hi rend="underline">Sticks</hi> (the poet's oath,</l><l n="81" xml:id="spp-R55636LE-line-81"> And dread of dogs and poets both)</l><l n="82" xml:id="spp-R55636LE-line-82"> Man and his works he'll soon renounce,</l><l n="83" xml:id="spp-R55636LE-line-83"> And roar in numbers worthy <hi rend="underline">Bounce</hi>.R55636LE   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

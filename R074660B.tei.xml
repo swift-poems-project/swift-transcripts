@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>hæ latebræ dulces, et si mihi credis, amœnæ.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="G. C. Moore"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R074660B" type="poem"><head type="note" n="1" xml:id="spp-R074660B-headnote-1"><lg n="1" xml:id="spp-R074660B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-R074660B-headnote-1-line-group-1-line-1">a description of Mother Ludwell<hi rend="sup">s</hi> cave</l></lg></head><head type="note" n="2" xml:id="spp-R074660B-headnote-2"><lg n="1" xml:id="spp-R074660B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-R074660B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-R074660B-headnote-3"><lg n="1" xml:id="spp-R074660B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-R074660B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-R074660B-line-1"> lett others with Parnassus swell their theam,&#13;</l><l n="2" xml:id="spp-R074660B-line-2"> drinke inspiration from th' Aonian stream:</l><l n="3" xml:id="spp-R074660B-line-3"> lett them draw Ph<unclear>oe</unclear>bus down to patch a line,</l><l n="4" xml:id="spp-R074660B-line-4"> invoke, that hackney fry, the tunefull nine:</l><l n="5" xml:id="spp-R074660B-line-5"> I that of Ludwell sing, to Ludwell run,</l><l n="6" xml:id="spp-R074660B-line-6"> her self my muse, her spring my Helicon.</l><l n="7" xml:id="spp-R074660B-line-7"> the neighbouring park its friendly aid allows;</l><l n="8" xml:id="spp-R074660B-line-8"> perfum'd with thyme, o'erspread with shadie boughs;</l><l n="9" xml:id="spp-R074660B-line-9"> its leafie canopys new thoughts instill,</l><l n="10" xml:id="spp-R074660B-line-10"> and Crooksberry supplies the cloven hill.</l><l n="11" xml:id="spp-R074660B-line-11"> Pomona does Minerva<hi rend="sup">s</hi> stores dispence,</l><l n="12" xml:id="spp-R074660B-line-12"> And Flora sheds her balmie influence;</l><l n="13" xml:id="spp-R074660B-line-13"> all things conspire to press my modest Muse,</l><l n="14" xml:id="spp-R074660B-line-14"> the morning herbs adorn'd with pearly dews,</l><l n="15" xml:id="spp-R074660B-line-15"> the meadows interlaced with silver flouds,</l><l n="16" xml:id="spp-R074660B-line-16"> the frizled thickets, and the taller woods.</l><l n="17" xml:id="spp-R074660B-line-17"> the whisp'ring Zephyrs my more silent tongue</l><l n="18" xml:id="spp-R074660B-line-18"> correct, and Philomela chirps a song.</l><l n="19" xml:id="spp-R074660B-line-19"> is there a bird of all the blooming year,</l><l n="20" xml:id="spp-R074660B-line-20"> that has not sung his early Mattins here?</l><l n="21" xml:id="spp-R074660B-line-21"> that has not sip'd the Fairy Matron<hi rend="sup">s</hi> spring,</l><l n="22" xml:id="spp-R074660B-line-22"> or hover'd o'er her cave with wishfull wing?</l><l n="23" xml:id="spp-R074660B-line-23"> an awfull Fabrick built by Nature<hi rend="sup">s</hi> hand</l><l n="24" xml:id="spp-R074660B-line-24"> does raise our wonder, our respect command.</l><l n="25" xml:id="spp-R074660B-line-25"> three lucky trees to wilder art unknown</l><l n="26" xml:id="spp-R074660B-line-26"> seem on the front a growing triple crown.</l><l n="27" xml:id="spp-R074660B-line-27"> at first the arched room is high and wide,</l><l n="28" xml:id="spp-R074660B-line-28"> the naked walls with mossie hangings hid;</l><l n="29" xml:id="spp-R074660B-line-29"> the cieling sandy: as you forward press</l><l n="30" xml:id="spp-R074660B-line-30"> the roof is still declining into less;</l><l n="31" xml:id="spp-R074660B-line-31"> despair to reach the end──a little arch</l><l n="32" xml:id="spp-R074660B-line-32"> narrow and low forbids y<hi rend="sup">r</hi> utmost search.</l><l n="33" xml:id="spp-R074660B-line-33"> so to her lover the chaste, beauteous lass</l><l n="34" xml:id="spp-R074660B-line-34"> without a blush vouchsafes to shew her face,</l><l n="35" xml:id="spp-R074660B-line-35"> her neck of Ivory, her snowy breast,</l><l n="36" xml:id="spp-R074660B-line-36"> these shown, she modestly conceals the rest.</l><l n="37" xml:id="spp-R074660B-line-37"> A shallow brook, that restless under ground</l><l n="38" xml:id="spp-R074660B-line-38"> strugled with earth, here a moist passage found.</l><l n="39" xml:id="spp-R074660B-line-39"> down thro' a stony vein the waters rowl</l><l n="40" xml:id="spp-R074660B-line-40"> o'erflowing the capacious iron bowl:</l><l n="41" xml:id="spp-R074660B-line-41"> oh! happy bowl, that gladness can infuse,</l><l n="42" xml:id="spp-R074660B-line-42"> and yet was never stain'd with heady juice.</l><l n="43" xml:id="spp-R074660B-line-43"> Here thirsty souls carouse with innocence,</l><l n="44" xml:id="spp-R074660B-line-44"> nor owe their pleasure to their loss of sence.</l><l n="45" xml:id="spp-R074660B-line-45"> Here a smooth floor had many a figure shown,</l><l n="46" xml:id="spp-R074660B-line-46"> had Virgin footsteps made impression,</l><l n="47" xml:id="spp-R074660B-line-47"> that soft and swift Camilla-like advance,</l><l n="48" xml:id="spp-R074660B-line-48"> while even movements seem to fly a dance.</l><l n="49" xml:id="spp-R074660B-line-49"> no quilted couch, the sickman<hi rend="sup">s</hi> daily bed,</l><l n="50" xml:id="spp-R074660B-line-50"> no seats to lull asleep diseases made,</l><l n="51" xml:id="spp-R074660B-line-51"> are seen; but such as healthy persons please</l><l n="52" xml:id="spp-R074660B-line-52"> of wood or stone, such as the wearied ease.</l><l n="53" xml:id="spp-R074660B-line-53"> O might I still enjoy this peacefull gloom!</l><l n="54" xml:id="spp-R074660B-line-54"> the truest entrance to Elizium.</l><l n="55" xml:id="spp-R074660B-line-55"> who would to the Cum<unclear>ae</unclear>an den repaire?</l><l n="56" xml:id="spp-R074660B-line-56"> a better Sybil, wiser power is here.</l><l n="57" xml:id="spp-R074660B-line-57"> Methinks I see him from his palace come,</l><l n="58" xml:id="spp-R074660B-line-58"> and with his presence grace y<hi rend="sup">e</hi> balefull room:</l><l n="59" xml:id="spp-R074660B-line-59"> Consider, Ludwell, what to him you owe,</l><l n="60" xml:id="spp-R074660B-line-60"> who does for you the noisy court forego;</l><l n="61" xml:id="spp-R074660B-line-61"> nay he a rich and gaudy silence leaves,</l><l n="62" xml:id="spp-R074660B-line-62"> you share y<hi rend="sup">e</hi> honour, sweet Moorparke receives.</l><l n="63" xml:id="spp-R074660B-line-63"> you with y<hi rend="sup">r</hi> wrinkles admiration move,</l><l n="64" xml:id="spp-R074660B-line-64"> that with its beauty better merits love.</l><l n="65" xml:id="spp-R074660B-line-65"> Here's careless Nature in her ancient dress,</l><l n="66" xml:id="spp-R074660B-line-66"> there she·'s more modish, &amp; consults y<hi rend="sup">e</hi> glass.</l><l n="67" xml:id="spp-R074660B-line-67"> Here she·'s an old, but yet a pleasant dame;</l><l n="68" xml:id="spp-R074660B-line-68"> there she'l a fair, not painted Virgin seem.</l><l n="69" xml:id="spp-R074660B-line-69"> Here the rich Mettal hath through no fire pass'd,</l><l n="70" xml:id="spp-R074660B-line-70"> there, tho refin'd, by no allay debas'd.</l><l n="71" xml:id="spp-R074660B-line-71"> Thus nature is preserv'd in every part,</l><l n="72" xml:id="spp-R074660B-line-72"> sometimes adorn'd, but nere debauch'd by art.</l><l n="73" xml:id="spp-R074660B-line-73"> When scatter'd locks, that dangle on the brow,</l><l n="74" xml:id="spp-R074660B-line-74"> into more decent hairy circles grow,</l><l n="75" xml:id="spp-R074660B-line-75"> after enquiry made, tho no man love</l><l n="76" xml:id="spp-R074660B-line-76"> the curling iron, all the comb approve.R074660B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

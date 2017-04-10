@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Another Picture of Dan:</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="992A002D" type="poem"><head type="note" n="1" xml:id="spp-992A002D-headnote-1"><lg n="1" xml:id="spp-992A002D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-992A002D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-992A002D-headnote-2"><lg n="1" xml:id="spp-992A002D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-992A002D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-992A002D-headnote-3"><lg n="1" xml:id="spp-992A002D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-992A002D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-992A002D-line-1"> Clarissa draws her Scissars from their Case,&#13;</l><l n="2" xml:id="spp-992A002D-line-2"> To shape the Lines of poor Dan: Jackson's face;</l><l n="3" xml:id="spp-992A002D-line-3"> One sloping Cutt Made Forehead Nose and Chin,</l><l n="4" xml:id="spp-992A002D-line-4"> A nick produc'd a Mouth and made him Grin,</l><l n="5" xml:id="spp-992A002D-line-5"> Such as in Taylor's Measure You have seen.</l><l n="6" xml:id="spp-992A002D-line-6"> But still were Wanting his Grimalkin Eyes</l><l n="7" xml:id="spp-992A002D-line-7"> For Which Grey Worsted stockings Paint supply's;</l><l n="8" xml:id="spp-992A002D-line-8"> Th' unravel'd thread thro' Needle's Eye Convey'd,</l><l n="9" xml:id="spp-992A002D-line-9"> Transferr'd it self into the Pastboard head.</l><l n="10" xml:id="spp-992A002D-line-10"> How came the Scissars to be thus Out done?</l><l n="11" xml:id="spp-992A002D-line-11"> The Needle had an Eye and they had none.</l><l n="12" xml:id="spp-992A002D-line-12"> O! Wondrous force of Art! now look at Dan:</l><l n="13" xml:id="spp-992A002D-line-13"> You'd swear the Pasteboard was the better Man.</l><l n="14" xml:id="spp-992A002D-line-14"> The Dev'l says he, the Head is not so full;</l><l n="15" xml:id="spp-992A002D-line-15" rend="flush right"> Indeed it is Behold the Paper Scull.Tho: Sheridan sculpsit.992A002D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

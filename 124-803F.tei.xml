@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="black-letter">A Simile</hi> on the Morning.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="124-803F" type="poem"><head type="note" n="1" xml:id="spp-124-803F-headnote-1"><lg n="1" xml:id="spp-124-803F-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-124-803F-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-124-803F-headnote-2"><lg n="1" xml:id="spp-124-803F-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-124-803F-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-124-803F-headnote-3"><lg n="1" xml:id="spp-124-803F-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-124-803F-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-124-803F-line-1"><hi rend="black-letter">Now</hi> hardly here and there a Hackney-Coach</l><l n="2" xml:id="spp-124-803F-line-2"> Approaching, shew the ruddy Morn's Approach.</l><l n="3" xml:id="spp-124-803F-line-3"> Now Betty, from her Master's Bed had flown,</l><l n="4" xml:id="spp-124-803F-line-4"> And softly stole, to dis-compose her own;</l><l n="5" xml:id="spp-124-803F-line-5"> The slip-sho'd 'Prentice, from his Master's Door,</l><l n="6" xml:id="spp-124-803F-line-6"> Had par'd the Dirt, and sprinkl'd round the Floor.</l><l n="7" xml:id="spp-124-803F-line-7"> The Youth, with broomy Stumps, began to trace</l><l n="8" xml:id="spp-124-803F-line-8"> The Kennel-Edge, where Wheels had worn the Place.</l><l n="9" xml:id="spp-124-803F-line-9"> And Mol had twirl'd her Mop, with dext'rous Airs,</l><l n="10" xml:id="spp-124-803F-line-10"> Prepar'd to scrub the Entry and the Stairs.</l><l n="11" xml:id="spp-124-803F-line-11"> The Small-coal Man was heard with Cadence deep,</l><l n="12" xml:id="spp-124-803F-line-12"> 'Till drown'd in shriller Notes of Chimney-sweep;</l><l n="13" xml:id="spp-124-803F-line-13"> Duns at his Lordship's Gate begin to meet,</l><l n="14" xml:id="spp-124-803F-line-14"> And Brick-dust Moll, had scream'd thro' half the Street.</l><l n="15" xml:id="spp-124-803F-line-15"> The Turnkey, now, his Flock returning sees,</l><l n="16" xml:id="spp-124-803F-line-16"> Duely let out a Nights, to steal for Fees;</l><l n="17" xml:id="spp-124-803F-line-17"> The Watchful Bailifs, take their silent Stands,</l><l n="18" xml:id="spp-124-803F-line-18"> And School-boies lag with Satchels in their Hands.124-803F   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

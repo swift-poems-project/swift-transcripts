@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-074-07E2-title-1">A B<hi rend="SMALL-CAPS">ALLAD</hi> on the game of T<hi rend="SMALL-CAPS">RAFFIC</hi> <ref target="#spp-074-07E2-footnote-title-1">1</ref><note n="1" xml:id="spp-074-07E2-footnote-title-1" place="foot">By casting our eyes over this ballad, we may observe in what manner the Earl and Countess of Berkeley, and their little group at the castle of Dublin, spent their evenings in private, when they were totally disengaged from the noise, the bustle, and the plague of business and ceremony. The several characters which make up this little group, are the Earl and Countess of Berkeley, Mrs Biddy Floyd, Mrs Herries, Mrs Weston, and Dr Swift. This ballad appears to have been designed as a piece of raillery upon the whole set, and written purely for their domestic entertainment. This poem, so far as it runs, is full of mirth and humour; the second stanza in particular is wonderfully striking, <lb/><hi rend="underline">But then his Honour cry'd</hi>, &amp;c. _The surprise of my Lord Berkeley, and the bringing Jack How to remembrance upon the sight of a knave, for no other reason than because he was a famous anti-courtier in those times, perpetually opposing and thwarting the measures of K. William in the house of Commons, is a whimsical piece of drollery in the poetic strain, especially when addressed to a court-lord in one of the highest employments. We are at a loss to know whether any more characters were designed to have been introduced into this ballad; but we may reasonably suppose there were, because in reality it seemeth to have been broken off in the very midst of its career. However, indeed, the politeness of Dr Swift would not suffer him to enlarge or correct it, after my Lady Betty Berkeley had in a manner given it the finishing stroke; on occasion of which he writ the <hi rend="underline">Ballad to the tune of the cutpurse</hi>, [vol. 6. p. 71.], which hath abundance of life, humour, pleasantry, and politeness. <hi rend="underline">Swift</hi>.</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-074-07E2-footnote-title-1 #spp-074-07E2-title-1"/>
+          <link target="#spp-074-07E2-footnote-1 #spp-074-07E2-line-1"/>
+          <link target="#spp-074-07E2-footnote-2 #spp-074-07E2-line-7"/>
+          <link target="#spp-074-07E2-footnote-3 #spp-074-07E2-line-14"/>
+        </linkGrp>
+        <div n="074-07E2" type="poem"><head type="note" n="1" xml:id="spp-074-07E2-headnote-1"><lg n="1" xml:id="spp-074-07E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-074-07E2-headnote-1-line-group-1-line-1">Written at the castle of Dublin, in the time of the Earl of Berkeley's government.</l></lg></head><head type="note" n="2" xml:id="spp-074-07E2-headnote-2"><lg n="1" xml:id="spp-074-07E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-074-07E2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-074-07E2-headnote-3"><lg n="1" xml:id="spp-074-07E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-074-07E2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-074-07E2-line-1"><hi rend="display-initial">M</hi>Y <hi rend="underline">Lord</hi><ref target="#spp-074-07E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-074-07E2-footnote-1">The Earl of Berkeley.</note>, to find out who must deal,Delivers cards about,</l><l n="2" xml:id="spp-074-07E2-line-2"> But the first knave does seldom failTo find the <hi rend="underline">Doctor</hi> out.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-074-07E2-line-3">But then his <hi rend="underline">Honour</hi> cry'd, Godzooks!And seem'd to knit his brow;</l><l n="4" xml:id="spp-074-07E2-line-4"> For on a knave he never looksBut h'thinks upon Jack How.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-074-07E2-line-5">My <hi rend="underline">Lady</hi>, though she is no player,Some bungling partner takes,</l><l n="6" xml:id="spp-074-07E2-line-6"> And wedg'd in corner of a chairTakes snuff, and holds the stakes.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-074-07E2-line-7">Dame Floyd <ref target="#spp-074-07E2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-074-07E2-footnote-2">Biddy Floyd. See letter to Colonel Hunter, in vol. 8. let. 96. p. 208. and vol. 6. p. 107.</note> looks out in grave suspenseFor pair-royals and sequents;</l><l n="8" xml:id="spp-074-07E2-line-8"> But wisely cautious of her pence,The castle seldom frequents.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-074-07E2-line-9">Quoth Herries, fairly putting cases,&#13;I'd won it on my word,</l><l n="10" xml:id="spp-074-07E2-line-10"> If I had but a pair of aces,And could pick up a third.</l></lg><lg n="6" type="stanza"><l n="11" xml:id="spp-074-07E2-line-11">But Weston has a new-cast gown&#13;On Sundays to be fine in,</l><l n="12" xml:id="spp-074-07E2-line-12"> And, if she can but win a <hi rend="underline">crown</hi>,'Twill just new dye the lining.</l></lg><lg n="7" type="stanza"><l n="13" xml:id="spp-074-07E2-line-13">“With these is Parson Swift,&#13;“Not knowing how to spend his time,</l><l n="14" xml:id="spp-074-07E2-line-14"> “Does make a wretched shift,“To deafen them with puns and rhyme<ref target="#spp-074-07E2-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-074-07E2-footnote-3">Lady Betty Berkeley, finding this ballad in the author's room unfinished, underwit the last stanza, and left the paper where she had found it. See vol. 6. p. 71.</note>.”<gap/>074-07E2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

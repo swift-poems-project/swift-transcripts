@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="186B413B" type="poem"><head type="note" n="1" xml:id="spp-186B413B-headnote-1"><lg n="1" xml:id="spp-186B413B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-186B413B-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-186B413B-headnote-2"><lg n="1" xml:id="spp-186B413B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-186B413B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-186B413B-headnote-3"><lg n="1" xml:id="spp-186B413B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-186B413B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-186B413B-line-1">A Pox of all senders&#13;For any Pretenders</l><l n="2" xml:id="spp-186B413B-line-2"> Who tell us these troublesome stories,Jn their dull hum-drum keyOf Arma Virumque</l><l n="3" xml:id="spp-186B413B-line-3"> Hannoni<unclear>ae</unclear> qui primus ab oris</l></lg><lg n="2" type="stanza"><l n="4" xml:id="spp-186B413B-line-4">A fig too for H────r&#13;Who prates like his Grandmere</l><l n="5" xml:id="spp-186B413B-line-5"> And all his old Friends would rebukeIn spite of the CarleGive us but our Earle,</l><l n="6" xml:id="spp-186B413B-line-6"> And the Devil may take their Duke.</l></lg><lg n="3" type="stanza"><l n="7" xml:id="spp-186B413B-line-7">Then come and take part in&#13;The Memoirs of Martin,</l><l n="8" xml:id="spp-186B413B-line-8"> Lay by your White Staff &amp; gray Habit,For trust us, friend MortimerShould you live years forty more</l><l n="9" xml:id="spp-186B413B-line-9"> H<unclear>ae</unclear>c olim meminisse juvabit.</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-186B413B-line-10">by order of y<hi rend="sup">e</hi> Club      A. Pope      I. Gay      I. Swift      I. Arbuthnott      T. Parnel186B413B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">On his own</hi> Deafness.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="673A37L1" type="poem"><head type="note" n="1" xml:id="spp-673A37L1-headnote-1"><lg n="1" xml:id="spp-673A37L1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-673A37L1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-673A37L1-headnote-2"><lg n="1" xml:id="spp-673A37L1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-673A37L1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-673A37L1-headnote-3"><lg n="1" xml:id="spp-673A37L1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-673A37L1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-673A37L1-line-1"><gap/><gap/><gap/><gap/><hi rend="display-initial">D<hi rend="SMALL-CAPS">EAF</hi></hi>, giddy, helpless, left alone,</l><l n="2" xml:id="spp-673A37L1-line-2"> To all my friends a burthen grown,</l><l n="3" xml:id="spp-673A37L1-line-3"> No more I hear my church's bell,</l><l n="4" xml:id="spp-673A37L1-line-4"> Than if it rang out for my knell:</l><l n="5" xml:id="spp-673A37L1-line-5"> At thunder now no more I start,</l><l n="6" xml:id="spp-673A37L1-line-6"> Than at the rumbling of a cart:</l><l n="7" xml:id="spp-673A37L1-line-7"> Nay, what's incredible, alack!</l><l n="8" xml:id="spp-673A37L1-line-8"> I hardly hear a woman's clack.673A37L1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

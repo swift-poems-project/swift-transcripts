@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 5JE98 by correcting Y28AE589"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y28A002D" type="poem"><head type="note" n="1" xml:id="spp-Y28A002D-headnote-1"><lg n="1" xml:id="spp-Y28A002D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y28A002D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y28A002D-headnote-2"><lg n="1" xml:id="spp-Y28A002D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y28A002D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y28A002D-headnote-3"><lg n="1" xml:id="spp-Y28A002D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y28A002D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y28A002D-line-1"> I Synge of a sermon, a sermon of worth&#13;</l><l n="2" xml:id="spp-Y28A002D-line-2"> Which newly was printed and newly come fortha Sermon of latewhich rais'd a debate</l><l n="3" xml:id="spp-Y28A002D-line-3"> And many opinions of Church and of State</l><l n="4" xml:id="spp-Y28A002D-line-4"> It was preached by a priest of six feet and more</l><l n="5" xml:id="spp-Y28A002D-line-5"> But the like of it scarce has been heard of before</l></lg><lg n="2" type="stanza"><l n="6" xml:id="spp-Y28A002D-line-6">Most are at a loss to find out his true meaning&#13;</l><l n="7" xml:id="spp-Y28A002D-line-7"> Whilst others of some dark design are complainingSome think he's for martinSome for I──s his hear in</l><l n="8" xml:id="spp-Y28A002D-line-8"> But most do agree he's for Peter for certain</l><l n="9" xml:id="spp-Y28A002D-line-9"> O S──who won't think thou wer't bred at S<hi rend="sup">ṭ</hi> Germains<unclear>Who overWhen they</unclear> read what opinions you have broached in y<hi rend="sup">ṛ</hi> Sermons</l></lg><lg n="3" type="stanza"><l n="10" xml:id="spp-Y28A002D-line-10">Some think it is new, some say what is stranger&#13;</l><l n="11" xml:id="spp-Y28A002D-line-11"> That all you have said is taken from Bangorthen looks it not odlyT'extract from Ben Hoadly</l><l n="12" xml:id="spp-Y28A002D-line-12"> A schem that seems Popish to all <unclear>that overwho</unclear> are Godly</l><l n="13" xml:id="spp-Y28A002D-line-13"> O S──thou had'st better been hanged in a rope</l><l n="14" xml:id="spp-Y28A002D-line-14"> Than thus to turn Stickler for Rome and <unclear>the overfor</unclear> Pope</l></lg><lg n="4" type="stanza"><l n="15" xml:id="spp-Y28A002D-line-15">Now who will not say you are for the Pretender&#13;</l><l n="16" xml:id="spp-Y28A002D-line-16"> When yo'oppose the true faith and the faiths true defenderfor you open a doorfor Babylons whore</l><l n="17" xml:id="spp-Y28A002D-line-17"> And for all sects that are in the world and much more</l><l n="18" xml:id="spp-Y28A002D-line-18"> O S──thou had'st better have died in thy youth</l><l n="19" xml:id="spp-Y28A002D-line-19"> than thus to be plagued for opposing the truth</l></lg><lg n="5" type="stanza"><l n="20" xml:id="spp-Y28A002D-line-20">This Sermon was lately attacked in a letter&#13;</l><l n="21" xml:id="spp-Y28A002D-line-21"> Which some people think might have been some what betterBe that as it willHe got a damned pill</l><l n="22" xml:id="spp-Y28A002D-line-22"> Which in vain he since thought to expell by his Quill</l><l n="23" xml:id="spp-Y28A002D-line-23"> O Synge thou hadst better by far held thy peace</l><l n="24" xml:id="spp-Y28A002D-line-24"> Than thus to be slaved by the vicar of Naas</l><l n="25" xml:id="spp-Y28A002D-line-25"> Beware of this vicar and dread his attack</l><l n="26" xml:id="spp-Y28A002D-line-26"> For surely he'll lay you at lenght on your backfor he shews you've perplextand murther<del>e</del>d your text</l><l n="27" xml:id="spp-Y28A002D-line-27"> And quoted──of which you'll hear more in his next</l><l n="28" xml:id="spp-Y28A002D-line-28"> O Synge thou hadst better a blanket been tostin</l><l n="29" xml:id="spp-Y28A002D-line-29"> than thus to be pelted for quoting S<hi rend="sup">ṭ</hi> Austin</l></lg><lg n="6" type="stanza"><l n="30" xml:id="spp-Y28A002D-line-30">This truth from experience is always allow'd&#13;</l><l n="31" xml:id="spp-Y28A002D-line-31"> That men of low parts may pass in a crowd</l><l n="32" xml:id="spp-Y28A002D-line-32"> Without vain pretence</l><l n="33" xml:id="spp-Y28A002D-line-33"> to Superiour sence</l><l n="34" xml:id="spp-Y28A002D-line-34"> Or more than kind nature does <unclear>wisely overkindly</unclear> dispence</l><l n="35" xml:id="spp-Y28A002D-line-35"> But when they pretend to soar 'bove their pitch</l><l n="36" xml:id="spp-Y28A002D-line-36"> It is twenty to one they fall in a ditch</l></lg><lg n="7" type="stanza"><l n="37" xml:id="spp-Y28A002D-line-37">Howe'ere he's abused here he's sure that in Brittain&#13;</l><l n="38" xml:id="spp-Y28A002D-line-38"> He'ell meet with applause from Whiston and DittonSo. S──be not Shitt-onby Whiston or Ditton</l><l n="39" xml:id="spp-Y28A002D-line-39"> He cares not what Irish folks say of whats written</l><l n="40" xml:id="spp-Y28A002D-line-40"> Synge. Ditton and Whiston Synge whiston and Ditton</l><l n="41" xml:id="spp-Y28A002D-line-41"> Synge Shitt-on and Pist-on Synge Pist-on and Shitt-onY28A008D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

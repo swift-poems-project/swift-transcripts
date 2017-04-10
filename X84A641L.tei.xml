@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Thankesgiveing</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X84A641L" type="poem"><head type="note" n="1" xml:id="spp-X84A641L-headnote-1"><lg n="1" xml:id="spp-X84A641L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X84A641L-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X84A641L-headnote-2"><lg n="1" xml:id="spp-X84A641L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X84A641L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X84A641L-headnote-3"><lg n="1" xml:id="spp-X84A641L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X84A641L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X84A641L-line-1"> Jn Sounds of Joy Your tunefull Voices rai<unclear>hole</unclear></l><l n="2" xml:id="spp-X84A641L-line-2"> And teach y<hi rend="sup">e</hi> People whome to thanke &amp; Praise</l><l n="3" xml:id="spp-X84A641L-line-3"> Thanke humble Sarahs providential Reigne</l><l n="4" xml:id="spp-X84A641L-line-4"> for peace &amp; plenty both of Corne &amp; graine</l><l n="5" xml:id="spp-X84A641L-line-5"> Thankes to Volpone for your Unbought Union</l><l n="6" xml:id="spp-X84A641L-line-6"> Thanke Bishops for Occasionall Comunion</l><l n="7" xml:id="spp-X84A641L-line-7"> Thanke y<hi rend="sup">e</hi><del>Stockjobbers</del><add>bankes &amp; Brokers</add> for your thriveing trade</l><l n="8" xml:id="spp-X84A641L-line-8"> Once more thanke Vulpe that all debts are paid</l><l n="9" xml:id="spp-X84A641L-line-9"> Thanke Malbro's Zeal that Scorned y<hi rend="sup">e</hi> profferd Treaty</l><l n="10" xml:id="spp-X84A641L-line-10"> But thanke Eugene that french Men did not beat yee<gap/><gap/></l><l n="11" xml:id="spp-X84A641L-line-11"> Thanke your owne Selves if You are taxed &amp; Sham'd</l><l n="12" xml:id="spp-X84A641L-line-12"> And Sing Te deum when y<hi rend="sup">e</hi> Three are dam'd.X84A641L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">On the much lamented Death of Mr. </hi>Demar<hi rend="underline">, the Famous</hi></title>
+        <title><hi rend="underline">rich Man, who died the 6th of this Inst</hi>. July, 1720.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="233-20JG" type="poem"><head type="note" n="1" xml:id="spp-233-20JG-headnote-1"><lg n="1" xml:id="spp-233-20JG-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-233-20JG-headnote-1-line-group-1-line-1"><hi rend="underline">Dublin, July</hi> 11. `On Wednesday last the 6th instant, died here Mr. Joseph Demar, upwards of 90 years of Age, and esteem'd worth 300000 l. and more. Last Night his Corpse was interr'd at St. Paul's Church in Oxman Town Green, attended by a numerous Train of Gentlemens, as well as Hackney Coaches. The same day was attended with a storm which blew down several Trees, and most of the Fruit about this City, insomuch, that tho' there was before as great a prospect of Plenty as for many years past, scarce an Apple or Pear is to be seen but on the Ground. His Death has produc'd the following Elegy, written by the Celebrated Author of the Art of Punning, which I think worth communicating to you:</l></lg></head><head type="note" n="2" xml:id="spp-233-20JG-headnote-2"><lg n="1" xml:id="spp-233-20JG-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-233-20JG-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-233-20JG-headnote-3"><lg n="1" xml:id="spp-233-20JG-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-233-20JG-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-233-20JG-line-1"><hi rend="display-initial">K</hi><hi rend="underline">Now all Men by these Presents</hi>, Death the Tamer</l><l n="2" xml:id="spp-233-20JG-line-2"> By <hi rend="underline">Mortgage</hi> hath secur'd the <hi rend="underline">Corps</hi> of <hi rend="underline">Demar</hi>;</l><l n="3" xml:id="spp-233-20JG-line-3"> Nor can <hi rend="underline">four hundred thousand sterling Pound</hi></l><l n="4" xml:id="spp-233-20JG-line-4"> Redeem him from his <hi rend="underline">Prison</hi> under Ground.</l><l n="5" xml:id="spp-233-20JG-line-5"> His Heirs might well, of all his Wealth possest,</l><l n="6" xml:id="spp-233-20JG-line-6"> Bestow to bury him one Iron Chest.<hi rend="underline">Pluto</hi> the god of Wealth, will joy to know</l><l n="7" xml:id="spp-233-20JG-line-7"> His faithful Steward, in the Shades below.</l><l n="8" xml:id="spp-233-20JG-line-8"> He walk'd the Streets and wore a Thread-bare Cloak;</l><l n="9" xml:id="spp-233-20JG-line-9"> He Din'd and Sup'd at Charge of other Folk,</l><l n="10" xml:id="spp-233-20JG-line-10"> And by his Looks, had he held out his Palms,</l><l n="11" xml:id="spp-233-20JG-line-11"> He might be thought an Object fit for Alms.</l><l n="12" xml:id="spp-233-20JG-line-12"> So to the Poor if he refus'd his Pelf,</l><l n="13" xml:id="spp-233-20JG-line-13"> He us'd 'em full as kindly as himself.Where·e'er he went he never saw his <hi rend="underline">Betters,</hi> and <hi rend="underline">Squires</hi> were all his humble Debtors.</l><l n="14" xml:id="spp-233-20JG-line-14"> Lords, Knights</l><l n="15" xml:id="spp-233-20JG-line-15"> And under <hi rend="underline">Hand</hi> and <hi rend="underline">Seal</hi> the <hi rend="underline">Irish</hi> Nation</l><l n="16" xml:id="spp-233-20JG-line-16"> Were forc'd to own to him their <hi rend="underline">Obligation</hi>.He that cou'd once have half a Kingdom bought,</l><l n="17" xml:id="spp-233-20JG-line-17"> In half a Minute is not worth one Groat;</l><l n="18" xml:id="spp-233-20JG-line-18"> His <hi rend="underline">Coffers</hi> from the <hi rend="underline">Coffin</hi> could not save,</l><l n="19" xml:id="spp-233-20JG-line-19"> Nor all his Int'rest keep him from the Grave.</l><l n="20" xml:id="spp-233-20JG-line-20"> A golden Monument would not be Right,</l><l n="21" xml:id="spp-233-20JG-line-21"> Because we wish the Earth upon him Light.Oh <hi rend="underline">London Tavern</hi>! Thou hast lost a Friend,</l><l n="22" xml:id="spp-233-20JG-line-22"> Tho' in thy Walls he ne'er did Farthing spend,</l><l n="23" xml:id="spp-233-20JG-line-23"> He <hi rend="underline">touch'd</hi> the <hi rend="underline">Pence</hi> when others <hi rend="underline">touch'd the Pot</hi>;</l><l n="24" xml:id="spp-233-20JG-line-24"> The Hand that sign'd the Mortgage paid the Shot.Old as he was, no vulgar known Disease</l><l n="25" xml:id="spp-233-20JG-line-25"> On him could ever boast a Pow'r to seize;</l><l n="26" xml:id="spp-233-20JG-line-26"> But as his Gold he weigh'd, grim Death in spight,</l><l n="27" xml:id="spp-233-20JG-line-27"> Cast in his Dart which made three Moy'dores Light.</l><l n="28" xml:id="spp-233-20JG-line-28"> And as he saw his darling <hi rend="underline">Money</hi> fail,</l><l n="29" xml:id="spp-233-20JG-line-29"> Blew his last Breath to sink the lighter Scale.He who so long was <hi rend="underline">Currant</hi>, 'twould be strange</l><l n="30" xml:id="spp-233-20JG-line-30"> If he shou'd now be <hi rend="underline">cry'd down</hi> since his <hi rend="underline">Change</hi>.The <hi rend="underline">Sexton</hi> shall green Sods on thee bestow,</l><l n="31" xml:id="spp-233-20JG-line-31"> Alas the <hi rend="underline">Sexton</hi> is thy <hi rend="underline">Banker</hi> now!</l><l n="32" xml:id="spp-233-20JG-line-32"> A dismal <hi rend="underline">Banker</hi> must that <hi rend="underline">Banker</hi> be,</l><l n="33" xml:id="spp-233-20JG-line-33"> Who gives no <hi rend="underline">Bills</hi>, but of <hi rend="underline">Mortality</hi>.</l></lg><lg n="2" type="stanza"><l n="34" xml:id="spp-233-20JG-line-34" rend="align(center)">The EPITAPH.</l></lg><lg n="3" type="stanza"><l n="35" xml:id="spp-233-20JG-line-35" rend="flush left"><hi rend="display-initial">B</hi>Eneath this verdant <hi rend="underline">Hillock</hi> lies<hi rend="underline">Demar</hi> the <hi rend="underline">Wealthy</hi>, and the <hi rend="underline">Wise</hi>.His <hi rend="underline">Heirs</hi> for <hi rend="underline">Winding-Sheet</hi> bestow'dHis <hi rend="underline">Money-Bags</hi> together sow'd.And that he might securely Rest,Have put his <hi rend="underline">Carcass</hi> in a <hi rend="underline">Chest</hi>.The very <hi rend="underline">Chest</hi>, in which they sayHis <hi rend="underline">other Self</hi>, his <hi rend="underline">Money</hi> lay.And if his <hi rend="underline">Heirs</hi> continue kind,To that dear <hi rend="underline">Self</hi> he left behind;I dare believe that Four in FiveWill think his <hi rend="underline">better Half</hi> alive.233-20JG   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

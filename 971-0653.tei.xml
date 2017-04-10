@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE</title>
+        <title>Reverend Doctor <hi rend="underline">Sheridan</hi></title>
+        <title>TO</title>
+        <title><hi rend="underline">Jonathan Swift</hi>, D.D.D.S.P.D.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-971-0653-footnote-1 #spp-971-0653-line-13"/>
+        </linkGrp>
+        <div n="971-0653" type="poem"><head type="note" n="1" xml:id="spp-971-0653-headnote-1"><lg n="1" xml:id="spp-971-0653-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-971-0653-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-971-0653-headnote-2"><lg n="1" xml:id="spp-971-0653-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-971-0653-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-971-0653-headnote-3"><lg n="1" xml:id="spp-971-0653-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-971-0653-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-971-0653-line-1"><hi rend="display-initial">D</hi>EAR Dean, since in <hi rend="underline">Cruxes</hi> and <hi rend="underline">Puns</hi> you and I deal,</l><l n="2" xml:id="spp-971-0653-line-2"> Pray why is a Woman a Sieve and a Riddle?</l><l n="3" xml:id="spp-971-0653-line-3"> 'Tis a Thought that came into my Noddle this Morning,</l><l n="4" xml:id="spp-971-0653-line-4"> In Bed as I lay, Sir, a tossing and turning.</l><l n="5" xml:id="spp-971-0653-line-5"> You'll find, if you read but a few of your Histories,</l><l n="6" xml:id="spp-971-0653-line-6"> All Women, as <hi rend="underline">Eve</hi>, all Women are Mysteries.</l><l n="7" xml:id="spp-971-0653-line-7"> To find out this Riddle, I know you'll be eager,</l><l n="8" xml:id="spp-971-0653-line-8"> And make every one of the Sex a Bell·<hi rend="underline">phagor</hi>.</l><l n="9" xml:id="spp-971-0653-line-9"> But, that will not do, for I mean to come-mend 'em,</l><l n="10" xml:id="spp-971-0653-line-10"> I swear with·out Jest, I an Honour intend 'em.</l><l n="11" xml:id="spp-971-0653-line-11"> In a Sieve, Sir, their antient Extraction I quite tell,</l><l n="12" xml:id="spp-971-0653-line-12"> In a Riddle I give you their Power and their Title.</l><l n="13" xml:id="spp-971-0653-line-13"> This I told you before, do you know what I mean, Sir?<ref target="#spp-971-0653-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-971-0653-footnote-1"><hi rend="underline">The Dean's Answer</hi>.</note><hi rend="underline">Not I, by my Troth, Sir</hi>.──Then read it again, Sir.<gap/><gap/></l><l n="14" xml:id="spp-971-0653-line-14"> The Reason I send you these Lines of Rhymes double,</l><l n="15" xml:id="spp-971-0653-line-15"> Is purely through Pity to save you the Trouble</l><l n="16" xml:id="spp-971-0653-line-16"> Of thinking two Hours for a Rhyme, as you did last;</l><l n="17" xml:id="spp-971-0653-line-17"> When your <hi rend="underline">Pegasus</hi> canter'd in Triple, and rid fast.</l></lg><lg n="2" type="stanza"><l n="18" xml:id="spp-971-0653-line-18">As for my little Nag, which I keep at <hi rend="underline">Parnassus</hi></l><l n="19" xml:id="spp-971-0653-line-19"> With <hi rend="underline">Ph<unclear>oe</unclear>bus</hi>'s Leave, to run with his Asses,</l><l n="20" xml:id="spp-971-0653-line-20"> He goes slow and sure, and he never is jaded,</l><l n="21" xml:id="spp-971-0653-line-21"> While your fiery Steed is whipp'd, spurr'd, bastinaded.<gap/>971-0653   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

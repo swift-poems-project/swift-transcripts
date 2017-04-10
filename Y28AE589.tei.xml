@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN</title>
+        <title>Excellent New Song,</title>
+        <title><hi rend="underline">To a good Old Tune</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y28AE589" type="poem"><head type="note" n="1" xml:id="spp-Y28AE589-headnote-1"><lg n="1" xml:id="spp-Y28AE589-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y28AE589-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y28AE589-headnote-2"><lg n="1" xml:id="spp-Y28AE589-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y28AE589-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y28AE589-headnote-3"><lg n="1" xml:id="spp-Y28AE589-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y28AE589-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y28AE589-line-1"><hi rend="display-initial">I</hi><hi rend="underline">Synge</hi> of a <hi rend="underline">Sermon</hi>, a Sermon of <hi rend="underline">Worth</hi>,</l><l n="2" xml:id="spp-Y28AE589-line-2"> Which newly was Printed, and newly come forth;A <hi rend="underline">Sermon</hi> of late,Which rais'd a Debate,</l><l n="3" xml:id="spp-Y28AE589-line-3"> And many Opinions, of Church and of State:</l><l n="4" xml:id="spp-Y28AE589-line-4"> It was made by a Priest of six Foot and more,</l><l n="5" xml:id="spp-Y28AE589-line-5"> But the like of it, scarce has been heard of before.</l></lg><lg n="2" type="stanza"><l n="6" xml:id="spp-Y28AE589-line-6">Most are at a loss to find out his true meaning;&#13;</l><l n="7" xml:id="spp-Y28AE589-line-7"> Whilst others of some dark Design are complaining.Some think <hi rend="underline">He</hi>'s for <hi rend="underline">Martin</hi>,Some for <hi rend="underline">Jack</hi> his Heart in,</l><l n="8" xml:id="spp-Y28AE589-line-8"> But most do agree <hi rend="underline">He</hi>'s for <hi rend="underline">Peter</hi>, for certain:</l><l n="9" xml:id="spp-Y28AE589-line-9"> O <hi rend="underline">S────nge</hi> who won't think thou wert Bred at St. <hi rend="underline">Germains</hi>,</l><l n="10" xml:id="spp-Y28AE589-line-10"> Who reads what <hi rend="underline">Opinions</hi> you've Broach'd in your Sermons.</l></lg><lg n="3" type="stanza"><l n="11" xml:id="spp-Y28AE589-line-11">Some say it is new, some say what is stranger;&#13;</l><l n="12" xml:id="spp-Y28AE589-line-12"> That all you have said is taken from <hi rend="underline">Bangor</hi>:Then looks it not odlyT'Extract from <hi rend="underline">Ben Hoadly</hi></l><l n="13" xml:id="spp-Y28AE589-line-13"> A Scheme that seems <hi rend="underline">Popish</hi> to all that are Godly.</l><l n="14" xml:id="spp-Y28AE589-line-14"> O <hi rend="underline">S────nge</hi> thou had'st better been hang'd in a Rope,</l><l n="15" xml:id="spp-Y28AE589-line-15"> Than thus to turn Stickler for <hi rend="underline">Rome</hi> and the <hi rend="underline">Pope</hi>.</l></lg><lg n="4" type="stanza"><l n="16" xml:id="spp-Y28AE589-line-16">Now, who will not say you are for the <hi rend="underline">Pretender</hi>,</l><l n="17" xml:id="spp-Y28AE589-line-17"> When yo' oppose the <hi rend="underline">true Faith</hi>, and the Faith's <hi rend="underline">true Defender</hi>?For you open a DoorFor <hi rend="underline">Babylon's Whore</hi>,</l><l n="18" xml:id="spp-Y28AE589-line-18"> And for all <hi rend="underline">Sects</hi> that are in the World, and much-more:</l><l n="19" xml:id="spp-Y28AE589-line-19"> O <hi rend="underline">S────nge</hi> thou had'st better have dy'd in thy Youth,</l><l n="20" xml:id="spp-Y28AE589-line-20"> Than thus to be plagu'd for opposing the <hi rend="underline">Truth</hi>.</l></lg><lg n="5" type="stanza"><l n="21" xml:id="spp-Y28AE589-line-21">This <hi rend="underline">Sermon</hi> was lately attack'd in a <hi rend="underline">Letter</hi>,</l><l n="22" xml:id="spp-Y28AE589-line-22"> Which some People think might have been somewhat better;Be that as it will,He got a damn'd Pill,</l><l n="23" xml:id="spp-Y28AE589-line-23"> Which in vain he since thought to expell by his Quill:</l><l n="24" xml:id="spp-Y28AE589-line-24"> O <hi rend="underline">S────nge</hi> thou had'st better by far held thy Peace,</l><l n="25" xml:id="spp-Y28AE589-line-25"> Than thus to be slav'd by the <hi rend="underline">Vicar of Naas</hi>.</l></lg><lg n="6" type="stanza"><l n="26" xml:id="spp-Y28AE589-line-26">Beware of this <hi rend="underline">Vicar</hi> and dread his Attack,</l><l n="27" xml:id="spp-Y28AE589-line-27"> For surely he'll lay you, at length, on your Back;For he shews you've perplex'dAnd murther'd your Text,</l><l n="28" xml:id="spp-Y28AE589-line-28"> And quoted ────Of which you'll hear more in his next:</l><l n="29" xml:id="spp-Y28AE589-line-29"> O <hi rend="underline">S────nge</hi> thou had'st better a Blanket been tost in,</l><l n="30" xml:id="spp-Y28AE589-line-30"> Than thus to be pelted for quoting St. <hi rend="underline">Austin</hi>.</l></lg><lg n="7" type="stanza"><l n="31" xml:id="spp-Y28AE589-line-31">This Truth from Experience is always allow'd,&#13;</l><l n="32" xml:id="spp-Y28AE589-line-32"> That Men of <hi rend="underline">Low Parts</hi> may pass in the Crowd,Without vain pretenceTo superior sense,</l><l n="33" xml:id="spp-Y28AE589-line-33"> Or more than kind Nature does wisely dispense;</l><l n="34" xml:id="spp-Y28AE589-line-34"> But when they pretend to soar up 'bove their Pitch,</l><l n="35" xml:id="spp-Y28AE589-line-35"> It is twenty to one, but they fall in a Ditch.</l></lg><lg n="8" type="stanza"><l n="36" xml:id="spp-Y28AE589-line-36">How-e'er he's abus'd here, he's sure that in <hi rend="underline">Britain</hi></l><l n="37" xml:id="spp-Y28AE589-line-37"> He'll meet with Applause both from <hi rend="underline">Whiston</hi> and <hi rend="underline">Ditton</hi>.So <hi rend="underline">S────nge</hi> be not Sh────t onBy <hi rend="underline">Whiston</hi> or <hi rend="underline">Ditton</hi>,</l><l n="38" xml:id="spp-Y28AE589-line-38"> He cares not what <hi rend="underline">Irish</hi> Folk say of what's written;<hi rend="underline">Synge, Ditton</hi> and <hi rend="underline">Whiston: Synge, Whiston</hi> and <hi rend="underline">Ditton</hi>:</l><l n="39" xml:id="spp-Y28AE589-line-39"> Synge, Shitt on and Pist on, Synge, Pist on and Shitt on.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

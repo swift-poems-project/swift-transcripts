@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A quiet L<hi rend="SMALL-CAPS">IFE</hi> and a good N<hi rend="SMALL-CAPS">AME</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-219-06E2-footnote-1 #spp-219-06E2-line-52"/>
+        </linkGrp>
+        <div n="219-06E2" type="poem"><head type="note" n="1" xml:id="spp-219-06E2-headnote-1"><lg n="1" xml:id="spp-219-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-219-06E2-headnote-1-line-group-1-line-1">To a friend who married a shrew.</l></lg></head><head type="note" n="2" xml:id="spp-219-06E2-headnote-2"><lg n="1" xml:id="spp-219-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-219-06E2-headnote-2-line-group-1-line-1">Written in the year 1724.</l></lg></head><head type="note" n="3" xml:id="spp-219-06E2-headnote-3"><lg n="1" xml:id="spp-219-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-219-06E2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-219-06E2-line-1"><hi rend="display-initial">N</hi>Ell scolded in so loud a din,</l><l n="2" xml:id="spp-219-06E2-line-2"> That Will durst hardly venture in:</l><l n="3" xml:id="spp-219-06E2-line-3"> He mark'd the conjugal dispute;</l><l n="4" xml:id="spp-219-06E2-line-4"> Nell roar'd incessant, Dick sat mute;</l><l n="5" xml:id="spp-219-06E2-line-5"> But when he saw his friend appear,</l><l n="6" xml:id="spp-219-06E2-line-6"> Cry'd bravely, Patience, good my dear.</l><l n="7" xml:id="spp-219-06E2-line-7"> At sight of Will she bawl'd no more,</l><l n="8" xml:id="spp-219-06E2-line-8"> But hurry'd out, and clapp'd the door.</l></lg><lg n="2" type="stanza"><l n="9" xml:id="spp-219-06E2-line-9">Why, Dick! the devil's in thy Nell,&#13;</l><l n="10" xml:id="spp-219-06E2-line-10"> (Quoth Will), thy house is worse than hell:</l><l n="11" xml:id="spp-219-06E2-line-11"> Why, what a peal the jade has rung!</l><l n="12" xml:id="spp-219-06E2-line-12"> Damn her, why don't you slit her tongue?</l><l n="13" xml:id="spp-219-06E2-line-13"> For nothing else will make it cease.</l><l n="14" xml:id="spp-219-06E2-line-14"> Dear Will, I suffer this for peace:</l><l n="15" xml:id="spp-219-06E2-line-15"> I never quarrel with my wife;</l><l n="16" xml:id="spp-219-06E2-line-16"> I bear it for a quiet life.</l><l n="17" xml:id="spp-219-06E2-line-17"> Scripture, you know, exhorts us to it;</l><l n="18" xml:id="spp-219-06E2-line-18"> Bids us to <hi rend="underline">seek peace, and ensue it</hi>.</l></lg><lg n="3" type="stanza"><l n="19" xml:id="spp-219-06E2-line-19">Will went again to visit Dick;&#13;</l><l n="20" xml:id="spp-219-06E2-line-20"> And ent'ring in the very nick,</l><l n="21" xml:id="spp-219-06E2-line-21"> He saw virago Nell belabour,</l><l n="22" xml:id="spp-219-06E2-line-22"> With Dick's own staff, his peaceful neighbour:</l><l n="23" xml:id="spp-219-06E2-line-23"> Poor Will, who needs must interpose,</l><l n="24" xml:id="spp-219-06E2-line-24"> Receiv'd a brace or two of blows.But now, to make my story short,</l><l n="25" xml:id="spp-219-06E2-line-25"> Will drew out Dick to take a quart.</l><l n="26" xml:id="spp-219-06E2-line-26"> Why, Dick, thy wife has dev'lish whims;</l><l n="27" xml:id="spp-219-06E2-line-27"> Odsbubs, why don't you break her limbs?</l><l n="28" xml:id="spp-219-06E2-line-28"> If she were mine, and had such tricks,</l><l n="29" xml:id="spp-219-06E2-line-29"> I'd teach her how to handle sticks:</l><l n="30" xml:id="spp-219-06E2-line-30"> Z────ds, I would ship her to Jamaica,</l><l n="31" xml:id="spp-219-06E2-line-31"> Or truck the carrion for <hi rend="underline">tobacco</hi>:</l><l n="32" xml:id="spp-219-06E2-line-32"> I'd send her far enough away────</l><l n="33" xml:id="spp-219-06E2-line-33"> Dear Will; but what would people say?</l><l n="34" xml:id="spp-219-06E2-line-34"> Lord! I should get so ill a name,</l><l n="35" xml:id="spp-219-06E2-line-35"> The neighbours round would cry out, shame.</l></lg><lg n="4" type="stanza"><l n="36" xml:id="spp-219-06E2-line-36">Dick suffer'd for his peace and credit;&#13;</l><l n="37" xml:id="spp-219-06E2-line-37"> But who believ'd him, when he said it?</l><l n="38" xml:id="spp-219-06E2-line-38"> Can he who makes himself a slave,</l><l n="39" xml:id="spp-219-06E2-line-39"> Consult his peace, or credit save?</l><l n="40" xml:id="spp-219-06E2-line-40"> Dick found it by his ill success,</l><l n="41" xml:id="spp-219-06E2-line-41"> His quiet small, his credit less.</l><l n="42" xml:id="spp-219-06E2-line-42"> She serv'd him at the usual rate;</l><l n="43" xml:id="spp-219-06E2-line-43"> She stunn'd, and then she broke his pate.</l><l n="44" xml:id="spp-219-06E2-line-44"> And what he thought the hardest case,</l><l n="45" xml:id="spp-219-06E2-line-45"> The parish jeer'd him to his face;</l><l n="46" xml:id="spp-219-06E2-line-46"> Those men who wore the breeches least,</l><l n="47" xml:id="spp-219-06E2-line-47"> Call'd him a cuckold, fool and beast.</l><l n="48" xml:id="spp-219-06E2-line-48"> At home he was pursu'd with noise;</l><l n="49" xml:id="spp-219-06E2-line-49"> Abroad was pester'd by the boys:</l><l n="50" xml:id="spp-219-06E2-line-50"> Within, his wife would break his bones;</l><l n="51" xml:id="spp-219-06E2-line-51"> Without, they pelted him with stones:</l><l n="52" xml:id="spp-219-06E2-line-52"> The 'prentices procur'd a riding<ref target="#spp-219-06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-219-06E2-footnote-1">A riding, a humorous cavalcade still practised in some parts of England, to ridicule a scolding wife and henpecked husband. A woman bestrides the horse, and with a ladle chastises a man, who sits on a pillion behind her, with his face to the horse's tail. <hi rend="underline">Hawkes</hi>.</note></l><l n="53" xml:id="spp-219-06E2-line-53"> To act his patience, and her chiding.False patience and mistaken pride!</l><l n="54" xml:id="spp-219-06E2-line-54"> There are ten thousand Dicks beside;</l><l n="55" xml:id="spp-219-06E2-line-55"> Slaves to their quiet and good name</l><l n="56" xml:id="spp-219-06E2-line-56"> Are us'd like Dick, and bear the blame.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

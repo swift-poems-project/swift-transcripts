@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LETTER XLI.</title>
+        <title><hi rend="underline">Dr</hi>. S<hi rend="SMALL-CAPS">WIFT</hi> <hi rend="underline">to Dr</hi>. S<hi rend="SMALL-CAPS">HERIDAN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="P02312H1" type="letter"><head type="note" n="1" xml:id="spp-P02312H1-headnote-1"><lg n="1" xml:id="spp-P02312H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-P02312H1-headnote-1-line-group-1-line-1"><note rend="flush right"><hi rend="underline">April</hi> 9, 1737.</note></l></lg></head><head type="note" n="2" xml:id="spp-P02312H1-headnote-2"><lg n="1" xml:id="spp-P02312H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-P02312H1-headnote-2-line-group-1-line-1">Explain this proverb.</l></lg></head><head type="note" n="3" xml:id="spp-P02312H1-headnote-3"><lg n="1" xml:id="spp-P02312H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-P02312H1-headnote-3-line-group-1-line-1">Yes, you have it i nam o mento time.</l></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-P02312H1-line-1"><hi rend="underline">Salt dry fish, and the wedding-gold,&#13;</hi>.P02312H1   </l><l n="2" xml:id="spp-P02312H1-line-2"> is the vice of women both young and old</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

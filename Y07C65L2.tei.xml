@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On a little House built by a poetical <hi rend="underline">Gentleman</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y07C65L2" type="poem"><head type="note" n="1" xml:id="spp-Y07C65L2-headnote-1"><lg n="1" xml:id="spp-Y07C65L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y07C65L2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y07C65L2-headnote-2"><lg n="1" xml:id="spp-Y07C65L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y07C65L2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y07C65L2-headnote-3"><lg n="1" xml:id="spp-Y07C65L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y07C65L2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y07C65L2-line-1"><hi rend="display-initial">A</hi> Bard, grown desirous of saving his pelf,</l><l n="2" xml:id="spp-Y07C65L2-line-2"> Built a house he was sure would hold none but himself;</l><l n="3" xml:id="spp-Y07C65L2-line-3"> This enrag'd god <hi rend="underline">Apollo</hi> who <hi rend="underline">Mercury</hi> sent,</l><l n="4" xml:id="spp-Y07C65L2-line-4"> And bid him go ask, what his votary meant.</l><l n="5" xml:id="spp-Y07C65L2-line-5"> Some foe to my empire has been his adviser;</l><l n="6" xml:id="spp-Y07C65L2-line-6"> 'Tis a dreadful portent when a poet turns miser:</l><l n="7" xml:id="spp-Y07C65L2-line-7"> Tell him, <hi rend="underline">Hermes</hi>, from me, tell that subject of mine,</l><l n="8" xml:id="spp-Y07C65L2-line-8"> I have sworn by the <hi rend="underline">Styx</hi> to defeat his design;</l><l n="9" xml:id="spp-Y07C65L2-line-9"> For, where ever he comes, the muses shall reign;</l><l n="10" xml:id="spp-Y07C65L2-line-10"> And the muses, he knows, have a numerous train.Y07C65L2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

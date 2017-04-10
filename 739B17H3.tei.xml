@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TO STELLA.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="739B17H3" type="poem"><head type="note" n="1" xml:id="spp-739B17H3-headnote-1"><lg n="1" xml:id="spp-739B17H3-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-739B17H3-headnote-1-line-group-1-line-1">On her B<hi rend="SMALL-CAPS">IRTH-</hi>D<hi rend="SMALL-CAPS">AY</hi>, 1721-2.</l></lg></head><head type="note" n="2" xml:id="spp-739B17H3-headnote-2"><lg n="1" xml:id="spp-739B17H3-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-739B17H3-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-739B17H3-headnote-3"><lg n="1" xml:id="spp-739B17H3-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-739B17H3-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-739B17H3-line-1"><hi rend="display-initial">WHILE, S<hi rend="SMALL-CAPS">TELLA</hi></hi>, to your lasting praise</l><l n="2" xml:id="spp-739B17H3-line-2"> The Muse her annual tribute pays,</l><l n="3" xml:id="spp-739B17H3-line-3"> While I assign myself a task</l><l n="4" xml:id="spp-739B17H3-line-4"> Which you expect, but scorn to ask;</l><l n="5" xml:id="spp-739B17H3-line-5"> If I perform this task with pain,</l><l n="6" xml:id="spp-739B17H3-line-6"> Let me of partial Fate complain;</l><l n="7" xml:id="spp-739B17H3-line-7"> You every year the debt enlarge,</l><l n="8" xml:id="spp-739B17H3-line-8"> I grow less equal to the charge:</l><l n="9" xml:id="spp-739B17H3-line-9"> In you, each virtue brighter shines,</l><l n="10" xml:id="spp-739B17H3-line-10"> But my poetic vein declines;</l><l n="11" xml:id="spp-739B17H3-line-11"> My harp will soon in vain be strung,</l><l n="12" xml:id="spp-739B17H3-line-12"> And all your virtues left unsung:</l><l n="13" xml:id="spp-739B17H3-line-13"> For none among the upstart race</l><l n="14" xml:id="spp-739B17H3-line-14"> Of Poets dare assume my place;</l><l n="15" xml:id="spp-739B17H3-line-15"> Your worth will be to them unknown,</l><l n="16" xml:id="spp-739B17H3-line-16"> They must have S<hi rend="SMALL-CAPS">TELLA</hi>'s of their own;</l><l n="17" xml:id="spp-739B17H3-line-17"> And thus, my stock of wit decay'd;</l><l n="18" xml:id="spp-739B17H3-line-18"> I dying leave the debt unpaid,</l><l n="19" xml:id="spp-739B17H3-line-19"> Unless ──────, as my heir,</l><l n="20" xml:id="spp-739B17H3-line-20"> Will answer for the whole arrear.739B17H3   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

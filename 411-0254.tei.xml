@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DESIRE and POSSESSION.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JDurham"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="411-0254" type="poem"><head type="note" n="1" xml:id="spp-411-0254-headnote-1"><lg n="1" xml:id="spp-411-0254-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-411-0254-headnote-1-line-group-1-line-1">Written in the Year 1727.</l></lg></head><head type="note" n="2" xml:id="spp-411-0254-headnote-2"><lg n="1" xml:id="spp-411-0254-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-411-0254-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-411-0254-headnote-3"><lg n="1" xml:id="spp-411-0254-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-411-0254-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-411-0254-line-1"><hi rend="display-initial">'T</hi>IS strange, what diff'rent Thoughts inspire</l><l n="2" xml:id="spp-411-0254-line-2"> In Man, <hi rend="underline">Possession</hi> and <hi rend="underline">Desire</hi>;</l><l n="3" xml:id="spp-411-0254-line-3"> Think what they wish so great a Blessing,</l><l n="4" xml:id="spp-411-0254-line-4"> So disappointed when possessing.</l></lg><lg n="2" type="stanza"><l n="5" xml:id="spp-411-0254-line-5">A M<hi rend="SMALL-CAPS">ORALIST</hi> profoundly sage,</l><l n="6" xml:id="spp-411-0254-line-6"> I know not in what Book or Page,</l><l n="7" xml:id="spp-411-0254-line-7"> Or, whether o'er a Pot of Ale,</l><l n="8" xml:id="spp-411-0254-line-8"> Related thus the following Tale:</l></lg><lg n="3" type="stanza"><l n="9" xml:id="spp-411-0254-line-9">P<hi rend="SMALL-CAPS">OSSESSION</hi> and D<hi rend="SMALL-CAPS">ESIRE</hi> his Brother,</l><l n="10" xml:id="spp-411-0254-line-10"> But still at Variance with each other,</l><l n="11" xml:id="spp-411-0254-line-11"> Were seen contending in a Race;</l><l n="12" xml:id="spp-411-0254-line-12"> And kept at first an equal Pace:</l><l n="13" xml:id="spp-411-0254-line-13"> 'Tis said their Course continu'd long;</l><l n="14" xml:id="spp-411-0254-line-14"> For this was active, that was strong:</l><l n="15" xml:id="spp-411-0254-line-15"> Till Envy, Slander, Sloth, and Doubt,</l><l n="16" xml:id="spp-411-0254-line-16"> Misled them many a League about.</l><l n="17" xml:id="spp-411-0254-line-17"> Seduc'd by some deceiving Light,</l><l n="18" xml:id="spp-411-0254-line-18"> They take the wrong Way for the right.</l><l n="19" xml:id="spp-411-0254-line-19"> Through slipp'ry By-roads dark and deep,</l><l n="20" xml:id="spp-411-0254-line-20"> They often climb, and oft'ner creep:</l></lg><lg n="4" type="stanza"><l n="21" xml:id="spp-411-0254-line-21">D<hi rend="SMALL-CAPS">ESIRE</hi>, the swifter of the two,</l><l n="22" xml:id="spp-411-0254-line-22"> Along the Plain like Light'ning slew:</l><l n="23" xml:id="spp-411-0254-line-23"> Till ent'ring on a broad High-way,</l><l n="24" xml:id="spp-411-0254-line-24"> Where <hi rend="underline">Power</hi> and <hi rend="underline">Titles</hi> scatter'd lay,</l><l n="25" xml:id="spp-411-0254-line-25"> He strove to pick up all he found,</l><l n="26" xml:id="spp-411-0254-line-26"> And by Excursions lost his Ground:</l><l n="27" xml:id="spp-411-0254-line-27"> No sooner got, than with Disdain</l><l n="28" xml:id="spp-411-0254-line-28"> He threw them on the Ground again;</l><l n="29" xml:id="spp-411-0254-line-29"> And hasted forward to pursue</l><l n="30" xml:id="spp-411-0254-line-30"> Fresh Objects fairer to his View;</l><l n="31" xml:id="spp-411-0254-line-31"> In hope to spring some nobler Game;</l><l n="32" xml:id="spp-411-0254-line-32"> But all he took was just the same:</l><l n="33" xml:id="spp-411-0254-line-33"> Too scornful now to stop his Pace,</l><l n="34" xml:id="spp-411-0254-line-34"> He spurn'd them in his Rival's Face.</l></lg><lg n="5" type="stanza"><l n="35" xml:id="spp-411-0254-line-35">P<hi rend="SMALL-CAPS">OSSESSION</hi> kept the beaten Road;</l><l n="36" xml:id="spp-411-0254-line-36"> And gather'd all his Brother strow'd;</l><l n="37" xml:id="spp-411-0254-line-37"> But, overcharg'd and out of Wind,</l><l n="38" xml:id="spp-411-0254-line-38"> Though strong in Limbs, he lagg'd behind.</l></lg><lg n="6" type="stanza"><l n="39" xml:id="spp-411-0254-line-39">D<hi rend="SMALL-CAPS">ESIRE</hi> had now the Goal in Sight:</l><l n="40" xml:id="spp-411-0254-line-40"> It was a Tow'r of monst'rous Height,</l><l n="41" xml:id="spp-411-0254-line-41"> Where on the Summit <hi rend="underline">Fortune</hi> stands;</l><l n="42" xml:id="spp-411-0254-line-42"> A Crown and Sceptre in her Hands;</l><l n="43" xml:id="spp-411-0254-line-43"> Beneath, a Chasm as deep as Hell,</l><l n="44" xml:id="spp-411-0254-line-44"> Where many a bold Advent'rer fell.<hi rend="underline">Desire</hi> in Rapture gaz'd a while,</l><l n="45" xml:id="spp-411-0254-line-45"> And saw the treach'rous Goddess smile;</l><l n="46" xml:id="spp-411-0254-line-46"> But, as he climb'd to grasp the Crown,</l><l n="47" xml:id="spp-411-0254-line-47"> She knock'd him with the Sceptre down.</l><l n="48" xml:id="spp-411-0254-line-48"> He tumbled in the Gulph profound;</l><l n="49" xml:id="spp-411-0254-line-49"> There doom'd to whirl an endless Round.</l></lg><lg n="7" type="stanza"><l n="50" xml:id="spp-411-0254-line-50">P<hi rend="SMALL-CAPS">OSSESION'S</hi> Load was grown so great,</l><l n="51" xml:id="spp-411-0254-line-51"> He sunk beneath the cumb'rous Weight;</l><l n="52" xml:id="spp-411-0254-line-52"> And, as he now expiring lay,</l><l n="53" xml:id="spp-411-0254-line-53"> Flocks ev'ry ominous Bird of Prey:</l><l n="54" xml:id="spp-411-0254-line-54"> The Raven, Vulture, Owl, and Kite,</l><l n="55" xml:id="spp-411-0254-line-55"> At once upon his Carcase light;</l><l n="56" xml:id="spp-411-0254-line-56"> And strip his Hyde, and pick his Bones,</l><l n="57" xml:id="spp-411-0254-line-57"> Regardless of his dying Groans.411-0254   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

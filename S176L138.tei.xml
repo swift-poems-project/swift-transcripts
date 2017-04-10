@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A</title>
+        <title>LETTER</title>
+        <title>OF</title>
+        <title>ADVICE</title>
+        <title>To the Revd. D──r. <hi rend="underline">D──la──y</hi>,</title>
+        <title>Humbly propos'd to the Consideration<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S176L138" type="letter"><head type="note" n="1" xml:id="spp-S176L138-headnote-1"><lg n="1" xml:id="spp-S176L138-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-S176L138-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-S176L138-headnote-2"><lg n="1" xml:id="spp-S176L138-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-S176L138-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-S176L138-headnote-3"><lg n="1" xml:id="spp-S176L138-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-S176L138-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-S176L138-line-1"><hi rend="display-initial">W</hi>HAT Doctor, if great <hi rend="underline">Carteret</hi> condescends,</l><l n="2" xml:id="spp-S176L138-line-2"> To chat with <hi rend="underline">Sw──t</hi> and you as private Friends,</l><l n="3" xml:id="spp-S176L138-line-3"> Must you so silly be to tell the Town,</l><l n="4" xml:id="spp-S176L138-line-4"> And boast of freedoms, he may blush to own;</l><l n="5" xml:id="spp-S176L138-line-5"> Is this the modest, dutiful behaviour,</l><l n="6" xml:id="spp-S176L138-line-6"> You shew your Patron, for so great a favour?</l><l n="7" xml:id="spp-S176L138-line-7"> Think you these Honours to your Merit due?</l><l n="8" xml:id="spp-S176L138-line-8"> What equal Honours can reflect from you?</l><l n="9" xml:id="spp-S176L138-line-9"> You may perhaps propose immortal Fame,</l><l n="10" xml:id="spp-S176L138-line-10"> Under the Shelter of your Patron's Name,</l><l n="11" xml:id="spp-S176L138-line-11"> If you presume too far, you miss that end,</l><l n="12" xml:id="spp-S176L138-line-12"> For the like Course lost <hi rend="underline">Sw──t</hi> his <hi rend="underline">Galls-town</hi> Friend,</l><l n="13" xml:id="spp-S176L138-line-13"> And may in time disturb your Patron too,</l><l n="14" xml:id="spp-S176L138-line-14"> To see the simple Choice he's made of you.</l><l n="15" xml:id="spp-S176L138-line-15"> But is <hi rend="underline">my Lord</hi> still short of his Intent?</l><l n="16" xml:id="spp-S176L138-line-16"> Or is your Merit of that vast Extent,</l><l n="17" xml:id="spp-S176L138-line-17"> That nothing less than thousands can content?</l><l n="18" xml:id="spp-S176L138-line-18"> There was a Time when <hi rend="underline">Paddy</hi> out of hope,</l><l n="19" xml:id="spp-S176L138-line-19"> Thought a <hi rend="underline">West Indian</hi> Jaunt his utmost Scope.</l><l n="20" xml:id="spp-S176L138-line-20"> The World's well mended since with <hi rend="underline">Patrick</hi>, now</l><l n="21" xml:id="spp-S176L138-line-21"> Nothing but <hi rend="underline">Visto</hi>'s and <hi rend="underline">Canals</hi> will do.</l><l n="22" xml:id="spp-S176L138-line-22"> But pray, <hi rend="underline">great Sir</hi>, what Friend of common Sense,</l><l n="23" xml:id="spp-S176L138-line-23"> Wou'd labour to promote such vain Expence?</l><l n="24" xml:id="spp-S176L138-line-24"> And must your Breth'ren all in Hamlets dwell,</l><l n="25" xml:id="spp-S176L138-line-25"> T'adorn your Busts, and young St. <hi rend="underline">Patrick</hi>'s Cell?</l><l n="26" xml:id="spp-S176L138-line-26"> Why may not some of 'em, for ought you know,</l><l n="27" xml:id="spp-S176L138-line-27"> Have a desire to build and to bestow?</l><l n="28" xml:id="spp-S176L138-line-28"> Retrench then, and be modest if you can, Sir,</l><l n="29" xml:id="spp-S176L138-line-29"> Or raise Objections stronger than your Answer.</l><l n="30" xml:id="spp-S176L138-line-30"> Think Doctor, after double Vicar, double Rector,</l><l n="31" xml:id="spp-S176L138-line-31"> A Dignity in <hi rend="underline">Christ-Church</hi> City Lecture:</l><l n="32" xml:id="spp-S176L138-line-32"> And something else, which you have still forgot,</l><l n="33" xml:id="spp-S176L138-line-33"> A College Place: won't all this boil the Pot.</l><l n="34" xml:id="spp-S176L138-line-34"> Then judge how very awkwardly it looks,</l><l n="35" xml:id="spp-S176L138-line-35"> “You have not yet enough to buy you Books.”</l><l n="36" xml:id="spp-S176L138-line-36"> Good <hi rend="underline">Patrick</hi> take Advice, and first read o're</l><l n="37" xml:id="spp-S176L138-line-37"> The Books you have, before you call for more;</l><l n="38" xml:id="spp-S176L138-line-38"> Resign some of those Cures you labour hard in,<hi rend="underline">If you must spend whole Summers in your Garden</hi>,</l><l n="39" xml:id="spp-S176L138-line-39"> Attend some one at least, and quit <hi rend="underline">Glass-nevin</hi>,</l><l n="40" xml:id="spp-S176L138-line-40"> Which will destroy your Credit, if you live in,</l><l n="41" xml:id="spp-S176L138-line-41"> Let <hi rend="underline">B-r-b-r</hi> tho' polite, at Counter wait,</l><l n="42" xml:id="spp-S176L138-line-42"> Nor longer be caress'd in Pomp and State,</l><l n="43" xml:id="spp-S176L138-line-43"> Quickly do this, or you may some provoke</l><l n="44" xml:id="spp-S176L138-line-44"> To say, you mean to fleece, not feed the Flock.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

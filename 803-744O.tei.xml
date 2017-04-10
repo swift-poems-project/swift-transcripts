@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Poem, occasioned by the Bishops indeavouring to obtain an<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-803-744O-footnote-1 #spp-803-744O-line-10"/>
+        </linkGrp>
+        <div n="803-744O" type="poem"><head type="note" n="1" xml:id="spp-803-744O-headnote-1"><lg n="1" xml:id="spp-803-744O-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-803-744O-headnote-1-line-group-1-line-1">By an honest Curate.</l></lg></head><head type="note" n="2" xml:id="spp-803-744O-headnote-2"><lg n="1" xml:id="spp-803-744O-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-803-744O-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-803-744O-headnote-3"><lg n="1" xml:id="spp-803-744O-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-803-744O-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-803-744O-line-1"> Old Latimer preaching did fairly describe&#13;</l><l n="2" xml:id="spp-803-744O-line-2"> A Bishop, who ruled all the rest of his Tribe.</l><l n="3" xml:id="spp-803-744O-line-3"> And who is this Bishop; and where does he dwell?</l><l n="4" xml:id="spp-803-744O-line-4"> Why──truly 'tis Satan, Arch-Bishop of Hell;</l><l n="5" xml:id="spp-803-744O-line-5"> And he was a Primate, and he wore a mitre</l><l n="6" xml:id="spp-803-744O-line-6"> Surrounded with Jewels of sulpher and nitre!</l><l n="7" xml:id="spp-803-744O-line-7"> How nearly this Bishop, our Bishops resembles</l><l n="8" xml:id="spp-803-744O-line-8"> But His, has the odds, who believes and who trembles,</l><l n="9" xml:id="spp-803-744O-line-9"> Could you see his grim face, for a pound to a peny</l><l n="10" xml:id="spp-803-744O-line-10"> You'd swear it must be the Babboon of Kill-kenny <ref target="#spp-803-744O-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-803-744O-footnote-1">Bishop of Ossory.</note></l><l n="11" xml:id="spp-803-744O-line-11"> Poor Satan will think the comparison odious,</l><l n="12" xml:id="spp-803-744O-line-12"> I wish I could find him out one more commodious</l><l n="13" xml:id="spp-803-744O-line-13"> But this I am sure, the most Reverend old Dragon</l><l n="14" xml:id="spp-803-744O-line-14"> Has got on the Bench, many Bishops suffragon</l><l n="15" xml:id="spp-803-744O-line-15"> And most men beleive he presides there in cog</l><l n="16" xml:id="spp-803-744O-line-16"> To give them by turns an invisible jog.</l><l n="17" xml:id="spp-803-744O-line-17"> Our Prelates pufft up with wealth, and with Pride</l><l n="18" xml:id="spp-803-744O-line-18"> To Hell on the backs of the Clergy wou'd ride!</l><l n="19" xml:id="spp-803-744O-line-19"> They mounted, and labour'd with whip &amp; with Spur,</l><l n="20" xml:id="spp-803-744O-line-20"> In vain──for the Devil a Parson would stir.</l><l n="21" xml:id="spp-803-744O-line-21"> So the Commons unhorsed them, and this was their doom,</l><l n="22" xml:id="spp-803-744O-line-22"> On their Crosiers to ride, like a witch on a bro<gap/></l><l n="23" xml:id="spp-803-744O-line-23"> Tho' they gallop so fast, on the road you may find'em,</l><l n="24" xml:id="spp-803-744O-line-24"> And have left us but three, out of twenty behind'em.</l><l n="25" xml:id="spp-803-744O-line-25"> Lord Bolton's good Grace, Lord Carr, &amp; Lord Howard</l><l n="26" xml:id="spp-803-744O-line-26"> In spight of the Devil wou'd still be unto'ward!</l><l n="27" xml:id="spp-803-744O-line-27"> They came of good blood, and cou'd not endure,</l><l n="28" xml:id="spp-803-744O-line-28"> Their former Companions should beg at their door.When Christ was betrayed unto Pilate the Prator</l><l n="29" xml:id="spp-803-744O-line-29"> In a dozen Apostles, but one proved a Traitor;</l><l n="30" xml:id="spp-803-744O-line-30"> One Traitor alone, and faithful eleven,</l><l n="31" xml:id="spp-803-744O-line-31"> But we can afford you six out of seven;</l><l n="32" xml:id="spp-803-744O-line-32"> What a clutter with chippings, divideings and cleavings</l><l n="33" xml:id="spp-803-744O-line-33"> And the Clergy forsooth, must take up with their leavings</l><l n="34" xml:id="spp-803-744O-line-34"> If making divisions was all their intent;</l><l n="35" xml:id="spp-803-744O-line-35"> We thank 'em──they've done it──but not as they meant.</l><l n="36" xml:id="spp-803-744O-line-36"> And so may such Bishops for ever divide,</l><l n="37" xml:id="spp-803-744O-line-37"> That no honest Heathen wou'd be of their side.<gap/><gap/>Now hear an Allusion. A mitre you know</l><l n="38" xml:id="spp-803-744O-line-38"> Is divided above, but united below:<gap/><gap/></l><l n="39" xml:id="spp-803-744O-line-39"> Should the bottom be split, our Prelates would dread</l><l n="40" xml:id="spp-803-744O-line-40"> That the mitre wou'd never stick fast on their head.</l><l n="41" xml:id="spp-803-744O-line-41"> And yet they have learnt the chief art of a Sovereign</l><l n="42" xml:id="spp-803-744O-line-42"> As Machiavel taught em, divide and ye govern.But courage my Lords, tho' it cannot be said</l><l n="43" xml:id="spp-803-744O-line-43"> That one cloven tongue ever sat on your heads</l><l n="44" xml:id="spp-803-744O-line-44"> I'll hold you a groat, and I wish I could see it,</l><l n="45" xml:id="spp-803-744O-line-45"> If your Stockings were off, you cou'd shew cloven feet.But hold! cry the Bishops, and give us fair play</l><l n="46" xml:id="spp-803-744O-line-46"> Before you condemn us, hear what we can say:</l><l n="47" xml:id="spp-803-744O-line-47"> What truer affection could ever be shewn,</l><l n="48" xml:id="spp-803-744O-line-48"> Then saveing your souls, by damning our own:</l><l n="49" xml:id="spp-803-744O-line-49"> And have we not practis'd all methods to gain you</l><l n="50" xml:id="spp-803-744O-line-50"> With the tyth of the tyth of the tyths to maintain you.</l><l n="51" xml:id="spp-803-744O-line-51"> Provided a fund for building you spittles</l><l n="52" xml:id="spp-803-744O-line-52"> You are only to live four years──without Victuals.Content, my good Lords, but let us change hands.</l><l n="53" xml:id="spp-803-744O-line-53"> First take you our tyths, and give us your lands:</l><l n="54" xml:id="spp-803-744O-line-54"> So God bless the King, and three of our Mitres:</l><l n="55" xml:id="spp-803-744O-line-55"> And God bless the Commons, for biteing the Biters.803-744O   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

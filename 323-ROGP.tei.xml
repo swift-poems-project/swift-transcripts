@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">Pethox the Great</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="323-ROGP" type="poem"><head type="note" n="1" xml:id="spp-323-ROGP-headnote-1"><lg n="1" xml:id="spp-323-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-323-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-323-ROGP-headnote-2"><lg n="1" xml:id="spp-323-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-323-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-323-ROGP-headnote-3"><lg n="1" xml:id="spp-323-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-323-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-323-ROGP-line-1"> From Venus born, thy beauty shows;&#13;</l><l n="2" xml:id="spp-323-ROGP-line-2"> But who thy father, no man knows;</l><l n="3" xml:id="spp-323-ROGP-line-3"> Nor can the skilful herald trace</l><l n="4" xml:id="spp-323-ROGP-line-4"> The founder of thy ancient race.</l><l n="5" xml:id="spp-323-ROGP-line-5"> Whether thy temper, full of fire,</l><l n="6" xml:id="spp-323-ROGP-line-6"> Discovers Vulcan for thy sire;</l><l n="7" xml:id="spp-323-ROGP-line-7"> The god who made Scamander boil,</l><l n="8" xml:id="spp-323-ROGP-line-8"> And round his margin singed the soil;</l><l n="9" xml:id="spp-323-ROGP-line-9"> (From whence philosophers agree,</l><l n="10" xml:id="spp-323-ROGP-line-10"> An equal power descends to thee.)</l><l n="11" xml:id="spp-323-ROGP-line-11"> Whether from dreadful Mars you claim</l><l n="12" xml:id="spp-323-ROGP-line-12"> The high descent from whence you came,</l><l n="13" xml:id="spp-323-ROGP-line-13"> And, as a proof, show numerous scars</l><l n="14" xml:id="spp-323-ROGP-line-14"> By fierce encounters made in wars;</l><l n="15" xml:id="spp-323-ROGP-line-15"> (Those honourable wounds you bore</l><l n="16" xml:id="spp-323-ROGP-line-16"> From head to foot, and <hi rend="underline">all before</hi>;)</l><l n="17" xml:id="spp-323-ROGP-line-17"> And still the bloody field frequent,</l><l n="18" xml:id="spp-323-ROGP-line-18"> Familiar in each leader's tent.</l><l n="19" xml:id="spp-323-ROGP-line-19"> Or whether, as the learn'd contend,</l><l n="20" xml:id="spp-323-ROGP-line-20"> You from your neighbouring Gaul descend;</l><l n="21" xml:id="spp-323-ROGP-line-21"> Or from Parthenope the proud,</l><l n="22" xml:id="spp-323-ROGP-line-22"> Where numberless thy votaries crowd:</l><l n="23" xml:id="spp-323-ROGP-line-23"> Whether thy great forefathers came</l><l n="24" xml:id="spp-323-ROGP-line-24"> From realms that bear Vesputio's name:</l><l n="25" xml:id="spp-323-ROGP-line-25"> For so conjectors would obtrude,</l><l n="26" xml:id="spp-323-ROGP-line-26"> And from thy painted skin conclude.</l><l n="27" xml:id="spp-323-ROGP-line-27"> Whether, as Epicurus shows</l><l n="28" xml:id="spp-323-ROGP-line-28"> The world from jostling seeds arose;</l><l n="29" xml:id="spp-323-ROGP-line-29"> Which mingling with prolific strife</l><l n="30" xml:id="spp-323-ROGP-line-30"> In chaos, kindled into life;</l><l n="31" xml:id="spp-323-ROGP-line-31"> So your production was the same,</l><l n="32" xml:id="spp-323-ROGP-line-32"> And from the·contending atoms came.</l></lg><lg n="2" type="stanza"><l n="33" xml:id="spp-323-ROGP-line-33">Thy fair indulgent mother crowned&#13;</l><l n="34" xml:id="spp-323-ROGP-line-34"> Thy head with sparkling rubies round;</l><l n="35" xml:id="spp-323-ROGP-line-35"> Beneath thy decent steps, the road</l><l n="36" xml:id="spp-323-ROGP-line-36"> Is all with precious jewels strewed.</l><l n="37" xml:id="spp-323-ROGP-line-37"> The bird of Pallas knows his post,</l><l n="38" xml:id="spp-323-ROGP-line-38"> Thee to attend where'er thou goest.</l></lg><lg n="3" type="stanza"><l n="39" xml:id="spp-323-ROGP-line-39">Byzantians boast, that on the clod&#13;</l><l n="40" xml:id="spp-323-ROGP-line-40"> Where once their sultan's horse hath trod,</l><l n="41" xml:id="spp-323-ROGP-line-41"> Grows neither grass, nor shrub, nor tree;</l><l n="42" xml:id="spp-323-ROGP-line-42"> The same thy subjects boast of thee.</l></lg><lg n="4" type="stanza"><l n="43" xml:id="spp-323-ROGP-line-43">The greatest lord, when you appear,&#13;</l><l n="44" xml:id="spp-323-ROGP-line-44"> Will deign your livery to wear,</l><l n="45" xml:id="spp-323-ROGP-line-45"> In all thy various colours seen,</l><l n="46" xml:id="spp-323-ROGP-line-46"> Of red, and yellow, blue, and green.</l></lg><lg n="5" type="stanza"><l n="47" xml:id="spp-323-ROGP-line-47">With half a word, when you require,&#13;</l><l n="48" xml:id="spp-323-ROGP-line-48"> The man of business must retire.</l></lg><lg n="6" type="stanza"><l n="49" xml:id="spp-323-ROGP-line-49">The haughty minister of state&#13;</l><l n="50" xml:id="spp-323-ROGP-line-50"> With trembling must thy leisure wait;</l><l n="51" xml:id="spp-323-ROGP-line-51"> And while his fate is in thy hands,</l><l n="52" xml:id="spp-323-ROGP-line-52"> The business of the nation stands.</l></lg><lg n="7" type="stanza"><l n="53" xml:id="spp-323-ROGP-line-53">Thou darest the greatest prince attack,&#13;</l><l n="54" xml:id="spp-323-ROGP-line-54"> Canst hourly set him on the rack,</l><l n="55" xml:id="spp-323-ROGP-line-55"> And, as an instance of thy power,</l><l n="56" xml:id="spp-323-ROGP-line-56"> Enclose him in a wooden tower,</l><l n="57" xml:id="spp-323-ROGP-line-57"> With pungent pains on every side:</l><l n="58" xml:id="spp-323-ROGP-line-58"> So Regulus in torments died.</l></lg><lg n="8" type="stanza"><l n="59" xml:id="spp-323-ROGP-line-59">From thee our youth all virtues learn,&#13;</l><l n="60" xml:id="spp-323-ROGP-line-60"> Dangers with prudence to discern;</l><l n="61" xml:id="spp-323-ROGP-line-61"> And well thy scholars are endued</l><l n="62" xml:id="spp-323-ROGP-line-62"> With temperance and with fortitude;</l><l n="63" xml:id="spp-323-ROGP-line-63"> With patience, which all ills supports,</l><l n="64" xml:id="spp-323-ROGP-line-64"> And secrecy, the art of courts.</l></lg><lg n="9" type="stanza"><l n="65" xml:id="spp-323-ROGP-line-65">The glittering beau could hardly tell,&#13;</l><l n="66" xml:id="spp-323-ROGP-line-66"> Without your aid, to read or spell;</l><l n="67" xml:id="spp-323-ROGP-line-67"> But, having long conversed with you,</l><l n="68" xml:id="spp-323-ROGP-line-68"> Knows how to scrawl a billet-doux.</l></lg><lg n="10" type="stanza"><l n="69" xml:id="spp-323-ROGP-line-69">With what delight, methinks, I trace&#13;</l><l n="70" xml:id="spp-323-ROGP-line-70"> Thy blood in every noble race!</l><l n="71" xml:id="spp-323-ROGP-line-71"> In whom thy features, shape, and mien,</l><l n="72" xml:id="spp-323-ROGP-line-72"> Are to the life distinctly seen.</l></lg><lg n="11" type="stanza"><l n="73" xml:id="spp-323-ROGP-line-73">The Britons, once a savage kind,&#13;</l><l n="74" xml:id="spp-323-ROGP-line-74"> By you, were brightened and refined:</l><l n="75" xml:id="spp-323-ROGP-line-75"> Descendants of the barbarous Huns,</l><l n="76" xml:id="spp-323-ROGP-line-76"> With limbs robust, and voice that stuns;</l><l n="77" xml:id="spp-323-ROGP-line-77"> But you have moulded them afresh,</l><l n="78" xml:id="spp-323-ROGP-line-78"> Removed the tough superfluous flesh,</l><l n="79" xml:id="spp-323-ROGP-line-79"> Taught them to modulate their tongues,</l><l n="80" xml:id="spp-323-ROGP-line-80"> And speak without the help of lungs.</l></lg><lg n="12" type="stanza"><l n="81" xml:id="spp-323-ROGP-line-81">Proteus on you bestowed the boon&#13;</l><l n="82" xml:id="spp-323-ROGP-line-82"> To change your visage like the moon;</l><l n="83" xml:id="spp-323-ROGP-line-83"> You sometimes half a face produce,</l><l n="84" xml:id="spp-323-ROGP-line-84"> Keep t'other half for private use.</l></lg><lg n="13" type="stanza"><l n="85" xml:id="spp-323-ROGP-line-85">How famed thy conduct in the fight,&#13;</l><l n="86" xml:id="spp-323-ROGP-line-86"> With Hermes, son of Pleias bright:</l><l n="87" xml:id="spp-323-ROGP-line-87"> Outnumbered, half encompassed round,</l><l n="88" xml:id="spp-323-ROGP-line-88"> You strove for every inch of ground;</l><l n="89" xml:id="spp-323-ROGP-line-89"> Then, by a soldierly retreat,</l><l n="90" xml:id="spp-323-ROGP-line-90"> Retired to your imperial seat.</l><l n="91" xml:id="spp-323-ROGP-line-91"> The victor, when your steps he traced,</l><l n="92" xml:id="spp-323-ROGP-line-92"> Found all the realms before him waste;</l><l n="93" xml:id="spp-323-ROGP-line-93"> You, o'er the high triumphal arch</l><l n="94" xml:id="spp-323-ROGP-line-94"> Pontific, made your glorious march;</l><l n="95" xml:id="spp-323-ROGP-line-95"> The wondrous arch behind you fell,</l><l n="96" xml:id="spp-323-ROGP-line-96"> And left a chasm profound as hell:</l><l n="97" xml:id="spp-323-ROGP-line-97"> You, in your Capitol secured,</l><l n="98" xml:id="spp-323-ROGP-line-98"> A siege as long as Troy endured.323-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">de</hi> LESBIA.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="679-0871" type="poem"><head type="note" n="1" xml:id="spp-679-0871-headnote-1"><lg n="1" xml:id="spp-679-0871-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-679-0871-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-679-0871-headnote-2"><lg n="1" xml:id="spp-679-0871-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-679-0871-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-679-0871-headnote-3"><lg n="1" xml:id="spp-679-0871-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-679-0871-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-679-0871-line-1" rend="indent(1)"><hi rend="display-initial">L</hi><hi rend="underline">ESBIA mi dicit semper male; nec tacet unquamDe me; </hi>Lesbia<hi rend="underline"> me, despeream, nisi amat.</hi></l><l n="2" xml:id="spp-679-0871-line-2"> Quo signo? Quia sunt totidem mea: Deprecor illamAssidue; verum, dispeream, nisi amo.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-679-0871-line-3" rend="align(center)">In·<hi rend="underline">English</hi>.</l></lg><lg n="3" type="stanza"><l n="4" xml:id="spp-679-0871-line-4" rend="flush left"/></lg><lg n="4" type="stanza"><l n="5" xml:id="spp-679-0871-line-5"><hi rend="display-initial">L</hi><hi rend="underline">ESBIA</hi> for ever on me rails,</l><l n="6" xml:id="spp-679-0871-line-6"> To talk of me she never fails.</l><l n="7" xml:id="spp-679-0871-line-7"> Now, hang me, but for all her Art,</l><l n="8" xml:id="spp-679-0871-line-8"> I find, that I have gain'd her Heart.</l><l n="9" xml:id="spp-679-0871-line-9"> My Proof is thus: I plainly see,</l><l n="10" xml:id="spp-679-0871-line-10"> The Case is just the same with me;</l><l n="11" xml:id="spp-679-0871-line-11"> I curse her ev'ry Hour sincerely,</l><l n="12" xml:id="spp-679-0871-line-12"> Yet, hang me, but I love her dearly.679-0871   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

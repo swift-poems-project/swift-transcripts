@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>T──l──nds Invitation to Dismal, to dine with the Calves-head Club</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="162-600B" type="poem"><head type="note" n="1" xml:id="spp-162-600B-headnote-1"><lg n="1" xml:id="spp-162-600B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-162-600B-headnote-1-line-group-1-line-1">Imitated from Horace, Epist 5, lib, 1,</l></lg></head><head type="note" n="2" xml:id="spp-162-600B-headnote-2"><lg n="1" xml:id="spp-162-600B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-162-600B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-162-600B-headnote-3"><lg n="1" xml:id="spp-162-600B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-162-600B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-162-600B-line-1"> If dearest Dismal you for once can dine&#13;</l><l n="2" xml:id="spp-162-600B-line-2"> Upon a single dish and Tavern wine</l><l n="3" xml:id="spp-162-600B-line-3"> T──l──nd, to you this invitation sends</l><l n="4" xml:id="spp-162-600B-line-4"> To eat the Calveshead with yr trusty freinds</l><l n="5" xml:id="spp-162-600B-line-5"> Suspend a while yr vain ambitious hopes</l><l n="6" xml:id="spp-162-600B-line-6"> Leave hunting after Bribes, forget yr Tropes</l><l n="7" xml:id="spp-162-600B-line-7"> To morrow we our Mystick feast prepare</l><l n="8" xml:id="spp-162-600B-line-8"> Where thou our latest Proselyte shalt Share</l><l n="9" xml:id="spp-162-600B-line-9"> When we by proper signs and Symbols tell</l><l n="10" xml:id="spp-162-600B-line-10"> How by brave hands the Royal Traytor fell</l><l n="11" xml:id="spp-162-600B-line-11"> The Meat shall represent the Tyrants head</l><l n="12" xml:id="spp-162-600B-line-12"> The Wine his blood our Predecessors shed</l><l n="13" xml:id="spp-162-600B-line-13"> Whilst an alluding Hymn some Artist sings</l><l n="14" xml:id="spp-162-600B-line-14"> We toast confusion to the race of Kings</l><l n="15" xml:id="spp-162-600B-line-15"> At Monarchy we Nobly shew our Spight</l><l n="16" xml:id="spp-162-600B-line-16"> And talk what fools call Treason all the night.Who by disgraces or ill fortune sunkfeels not his Soul enlivend when hes drunkWine can clear up G──d──lph──ns cloudy faceAnd fill I──ck Sm──th with hopes to keep his placeBy force of wine even Sc──rb──r──w is braveHal──<unclear>?</unclear> grows more pert, and S──mm──rs not so graveWine can give P──rt──d wit and Cl──v──nd SenseM──t──g──e learning, B──lt──n EloquenceCho──ly when drunk can never loose his WandAnd L──nc──n then imagines he has land.</l></lg><lg n="2" type="stanza"><l n="17" xml:id="spp-162-600B-line-17">My Province is, to see that all be right&#13;Glasses and Linnen clean, and Pewter brightFrom our Mysterious Club to keep out SpiesAnd Tories (drest like waiters) in disguiseYou shall be coupld as you best approveSeated at Table next the Men you loveS──nd──d, Orf──d, B──l and R──ch──ds, GraceWill come, and H──mp──n shall have W──p──ls placeWh──n unles prevented by a Whorewill hardly fail, and there is room for moreBut I love Elbow room when e're I drinkAnd honest Harry is too apt to Stink</l></lg><lg n="3" type="stanza"><l n="18" xml:id="spp-162-600B-line-18">Let no pretence of bussiness make you stay&#13;Yet take one word of councel by the wayIf Gu──rn──y calls, send word yr gon abroadHe·ll teaze you with King Charles and B<hi rend="sup">p</hi> LaudOr make you fast and carry you to prayersBut if he will break in, and walk up StairsSteal by the back door out, and leave him thereThen order Squash to call a Hackney Chair.</l></lg><lg n="4" type="stanza"><l n="19" xml:id="spp-162-600B-line-19" rend="flush right">January 29<hi rend="sup">th</hi><unclear>NOTES</unclear><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>162-600B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

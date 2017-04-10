@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A</title>
+        <title>RIDDLE</title>
+        <title>BY<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S172S508" type="poem"><head type="note" n="1" xml:id="spp-S172S508-headnote-1"><lg n="1" xml:id="spp-S172S508-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-S172S508-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-S172S508-headnote-2"><lg n="1" xml:id="spp-S172S508-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-S172S508-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-S172S508-headnote-3"><lg n="1" xml:id="spp-S172S508-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-S172S508-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-S172S508-line-1"><hi rend="display-initial">T</hi>HERE'S a thing in the <hi rend="underline">East</hi>, that inhabits the <hi rend="underline">South</hi>,</l><l n="2" xml:id="spp-S172S508-line-2"> Which Swallows the Ocean, without Throat or a Mouth,</l><l n="3" xml:id="spp-S172S508-line-3"> It's made up of Opium, with Lungs from the <hi rend="underline">Moon</hi>.</l><l n="4" xml:id="spp-S172S508-line-4"> And never can speak, without aid of a Spoon</l><l n="5" xml:id="spp-S172S508-line-5"> The <hi rend="underline">D</hi>octors are drunk, when they think to define</l><l n="6" xml:id="spp-S172S508-line-6"> The Properties various, twixt me and the Vine.</l><l n="7" xml:id="spp-S172S508-line-7"> Howsoever this ease, to their stomachs I give,</l><l n="8" xml:id="spp-S172S508-line-8"> I die to relieve them, they die whilst I live,</l><l n="9" xml:id="spp-S172S508-line-9"> You know all the Secrets, that are hid in the Town,</l><l n="10" xml:id="spp-S172S508-line-10"> And <hi rend="underline">Legerdemain</hi> will show for a Crown,</l><l n="11" xml:id="spp-S172S508-line-11"> Why then two Shillings more, I'le give you my Leech</l><l n="12" xml:id="spp-S172S508-line-12"> If this you unriddle in Writing or Speech.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

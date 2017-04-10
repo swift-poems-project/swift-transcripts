@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A RIDDLE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="915-06E2"><head type="note" n="1" xml:id="spp-915-06E2-headnote-1"><lg n="1" xml:id="spp-915-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-915-06E2-headnote-1-line-group-1-line-1">Written in the year 1724.&#13;</l></lg></head><head type="note" n="2" xml:id="spp-915-06E2-headnote-2"><lg n="1" xml:id="spp-915-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-915-06E2-headnote-2-line-group-1-line-1">[Some ingenious gentlemen, friends to the author, used to entertain themselves with writing riddles, and sending them to him and their other acquaintance; copies of which ran about, and some of them were printed both in England and Ireland. The author at his leisure hours fell into the same amusement; although it be said, that he thought them of no great merit, entertainment, or use. However, by the advice of some persons for whom the author had a great esteem, and who were pleased to send the copies, the few following have been published, (which are allowed to be genuine); because we are informed that several good judges have a taste for such kind of compositions.]</l></lg></head><head type="note" n="3" xml:id="spp-915-06E2-headnote-3"><lg n="1" xml:id="spp-915-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-915-06E2-headnote-3-line-group-1-line-1"><note rend="align(center)">I.<note rend="flush left"></note></note></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-915-06E2-line-1"><hi rend="display-initial">I</hi>N youth exalted high in air,</l><l/><l n="2" xml:id="spp-915-06E2-line-2">Or bathing in the waters fair,</l><l/><l n="3" xml:id="spp-915-06E2-line-3">Nature to form me took delight,</l><l/><l n="4" xml:id="spp-915-06E2-line-4">And clad my body all in white:</l><l/><l n="5" xml:id="spp-915-06E2-line-5">My person tall and slender waste,</l><l/><l n="6" xml:id="spp-915-06E2-line-6">On either side with fringes grac'd;</l><l/><l n="7" xml:id="spp-915-06E2-line-7">Till me that tyrant man espy'd,</l><l/><l n="8" xml:id="spp-915-06E2-line-8">And dragg'd me from my mother's side!</l><l/><l n="9" xml:id="spp-915-06E2-line-9">No wonder now I look so thin;</l><l/><l n="10" xml:id="spp-915-06E2-line-10">The tyrant stripp'd me to the skin:</l><l/><l n="11" xml:id="spp-915-06E2-line-11">My skin he flay'd, my hair he cropt;</l><l/><l n="12" xml:id="spp-915-06E2-line-12">At head and foot my body lopt:</l><l/><l n="13" xml:id="spp-915-06E2-line-13">And then, with heart more hard than stone,</l><l/><l n="14" xml:id="spp-915-06E2-line-14">He pick'd my marrow from the bone.</l><l/><l n="15" xml:id="spp-915-06E2-line-15">To vex me more, he took a freak</l><l/><l n="16" xml:id="spp-915-06E2-line-16">To slit my tongue, and make me speak:</l><l/><l n="17" xml:id="spp-915-06E2-line-17">But that which wonderful appears,</l><l/><l n="18" xml:id="spp-915-06E2-line-18">I speak to eyes, and not to ears.</l><l/><l n="19" xml:id="spp-915-06E2-line-19">He oft employs me in disguise,</l><l/><l n="20" xml:id="spp-915-06E2-line-20">And makes me tell a thousand lies:</l><l/><l n="21" xml:id="spp-915-06E2-line-21">To me he chiefly gives in trust</l><l/><l n="22" xml:id="spp-915-06E2-line-22">To please his malice, or his lust.</l><l/><l n="23" xml:id="spp-915-06E2-line-23">From me no secret he can hide:</l><l/><l n="24" xml:id="spp-915-06E2-line-24">I see his vanity and pride:</l><l/><l n="25" xml:id="spp-915-06E2-line-25">And my delight is to expose</l><l/><l n="26" xml:id="spp-915-06E2-line-26">His follies to his greatest foes.</l><l/><l n="27" xml:id="spp-915-06E2-line-27"/></lg><lg n="2" type="stanza"><l>All languages I can command,&#13;</l><l/><l n="28" xml:id="spp-915-06E2-line-28">Yet not a word I understand.</l><l/><l n="29" xml:id="spp-915-06E2-line-29">Without my aid the best divine</l><l/><l n="30" xml:id="spp-915-06E2-line-30">In learning would not know a line:</l><l/><l n="31" xml:id="spp-915-06E2-line-31">The lawyer must forget his pleading;</l><l/><l n="32" xml:id="spp-915-06E2-line-32">The scholar could not shew his reading.</l><l/><l n="33" xml:id="spp-915-06E2-line-33"/></lg><lg n="3" type="stanza"><l>Nay, man my master is my slave:&#13;</l><l/><l n="34" xml:id="spp-915-06E2-line-34">I give command to kill or save,</l><l/><l n="35" xml:id="spp-915-06E2-line-35">Can grant ten thousand pounds a-year,</l><l/><l n="36" xml:id="spp-915-06E2-line-36">And make a beggar's brat a peer.</l><l/><l n="37" xml:id="spp-915-06E2-line-37"/></lg><lg n="4" type="stanza"><l>But while I thus my life relate,&#13;</l><l/><l n="38" xml:id="spp-915-06E2-line-38">I only hasten on my fate.</l><l/><l n="39" xml:id="spp-915-06E2-line-39">My tongue is black, my mouth is furr'd,</l><l/><l n="40" xml:id="spp-915-06E2-line-40">I hardly now can force a word.</l><l/><l n="41" xml:id="spp-915-06E2-line-41">I die unpitied and forgot,</l><l/><l n="42" xml:id="spp-915-06E2-line-42">And on some dunghill left to rot.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-269-71H1-footnote-1"/>
+          <link target="#spp-269-71H1-footnote-1 #spp-269-71H1-line-49"/>
+        </linkGrp>
+        <div n="269-71H1" type="letter"><head type="note" n="1" xml:id="spp-269-71H1-headnote-1"><lg n="1" xml:id="spp-269-71H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-269-71H1-headnote-1-line-group-1-line-1">P. 352. The verses on the countess of <hi rend="underline">Donegal</hi> <ref target="#spp-269-71H1-footnote-1">1</ref><note n="1" xml:id="spp-269-71H1-footnote-1" place="foot">Lady <hi rend="underline">Catharine Forbes</hi>, only daughter of <hi rend="underline">Arthur</hi> first earl of <hi rend="underline">Granard</hi> (descended from the noble family of <hi rend="underline">Forbes</hi> in <hi rend="underline">Scotland</hi>) second lady of <hi rend="underline">Arthur</hi> third earl of <hi rend="underline">Donegal</hi> (who in 1705 was major general of the <hi rend="underline">Spanish</hi> forces, and was killed, <hi rend="underline">April</hi> 10, 1706, at the fort of <hi rend="underline">Monjuick</hi>, after many glorious services, and buried at <hi rend="underline">Barcelona</hi>); by whom she had two sons and six daughters. Three of these young ladies were burnt by an accidental fire at the family house in <hi rend="underline">Belfast</hi>. The countess died <hi rend="underline">June</hi> 15, 1743. A letter from Mr. <hi rend="underline">Hughes</hi> to the countess dowager of <hi rend="underline">Donegall</hi> is in the collection published by Mr. <hi rend="underline">Duncomb</hi>; who tells us in a note, “This lady (only daughter and heiress of <hi rend="underline">John Itchingham</hi>, esq. first married to <hi rend="underline">Arthur</hi> second earl of <hi rend="underline">Donegall</hi>, and afterwards to <hi rend="underline">Richard Rooth</hi>, esq. of <hi rend="underline">Epsom</hi>) constantly kept two anniversary fasts; the one on the day when this calamity [the fire at <hi rend="underline">Belfast</hi>] happened; the other on the day when her <hi rend="underline">first husband</hi> was killed at the siege of <hi rend="underline">Barcelona</hi>.” This ingenious Editor seems to have confounded the dowager lady of the <hi rend="underline">second</hi> earl with the lady whom Dr. <hi rend="underline">Swift</hi> here celebrates; who was “of the <hi rend="underline">Granard</hi> race,” and dowager of the <hi rend="underline">third</hi> earl, as mentioned above</note> were republished, on her ladyship's death, in 1743; but were originally a part of “<hi rend="underline">Apollo's</hi> Edict,” a poem written in 1720, and occasioned by “News from <hi rend="underline">Parnassus</hi>,” printed above, p. 529.──It began thus:</l></lg></head><head type="note" n="2" xml:id="spp-269-71H1-headnote-2"><lg n="1" xml:id="spp-269-71H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-269-71H1-headnote-2-line-group-1-line-1">The lines on lady <hi rend="underline">Donegal</hi> (as printed in vol. XIV.) concluded the poem.</l></lg></head><head type="note" n="3" xml:id="spp-269-71H1-headnote-3"><lg n="1" xml:id="spp-269-71H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-269-71H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-269-71H1-line-1"><hi rend="underline">IRELAND</hi> is now our royal care,</l><l n="2" xml:id="spp-269-71H1-line-2"> We lately fix'd our Viceroy there;</l><l n="3" xml:id="spp-269-71H1-line-3"> How near was she to be undone,</l><l n="4" xml:id="spp-269-71H1-line-4"> Till pious love inspir'd her Son!</l><l n="5" xml:id="spp-269-71H1-line-5"> What cannot our Vicegerent do,</l><l n="6" xml:id="spp-269-71H1-line-6"> As Poet and as Patriot too?</l><l n="7" xml:id="spp-269-71H1-line-7"> Let his success our subjects sway,</l><l n="8" xml:id="spp-269-71H1-line-8"> Our inspirations to obey,</l><l n="9" xml:id="spp-269-71H1-line-9"> And follow were <hi rend="underline">He</hi> leads the way:</l><l n="10" xml:id="spp-269-71H1-line-10"> Then study to correct your taste;</l><l n="11" xml:id="spp-269-71H1-line-11"> Nor <hi rend="underline">beaten</hi> paths be longer trac'd.No simile shall be begun,</l><l n="12" xml:id="spp-269-71H1-line-12"> With <hi rend="underline">rising</hi> or with setting sun;</l><l n="13" xml:id="spp-269-71H1-line-13"> And let the <hi rend="underline">secret head of Nile</hi></l><l n="14" xml:id="spp-269-71H1-line-14"> Be ever banish'd from your isle.When wretched lovers live on air,</l><l n="15" xml:id="spp-269-71H1-line-15"> I bet you'll the <hi rend="underline">camelion</hi> spare;</l><l n="16" xml:id="spp-269-71H1-line-16"> And when you'd make a Hero grander,</l><l n="17" xml:id="spp-269-71H1-line-17"> Forget he's like a <hi rend="underline">salamander</hi>.No Son of mine shall dare to say,<hi rend="underline">Aurora usher'd in the Day</hi>,</l><l n="18" xml:id="spp-269-71H1-line-18"> Or ever name the <hi rend="underline">milky-way</hi>.You all agree, I make no doubt,<hi rend="underline">Elijah's mantle</hi> is worn out.The <hi rend="underline">bird of Jove</hi> shall toil no more</l><l n="19" xml:id="spp-269-71H1-line-19"> To teach the humble <hi rend="underline">wren</hi> to soar.</l><l n="20" xml:id="spp-269-71H1-line-20"> Your Tragic heroes shall not rant,</l><l n="21" xml:id="spp-269-71H1-line-21"> Nor Shepherds use <hi rend="underline">poetic cant</hi>.</l><l n="22" xml:id="spp-269-71H1-line-22"> Simplicity alone can grace</l><l n="23" xml:id="spp-269-71H1-line-23"> The manners of the rural race.<hi rend="underline">Theocritus</hi> and <hi rend="underline">Philips</hi> be</l><l n="24" xml:id="spp-269-71H1-line-24"> Your guides to <hi rend="underline">true</hi> simplicity.When <hi rend="underline">Damon's soul shall take its flight</hi>,</l><l n="25" xml:id="spp-269-71H1-line-25"> Though Poets have the second sight,</l><l n="26" xml:id="spp-269-71H1-line-26"> They shall not see a <hi rend="underline">trail of light</hi>.</l><l n="27" xml:id="spp-269-71H1-line-27"> Nor shall the <hi rend="underline">vapours upward rise</hi>,</l><l n="28" xml:id="spp-269-71H1-line-28"> Nor a <hi rend="underline">new star</hi> adorn the skies:</l><l n="29" xml:id="spp-269-71H1-line-29"> For who can hope to place one there,</l><l n="30" xml:id="spp-269-71H1-line-30"> As glorious as <hi rend="underline">Belinda's hair</hi>?</l><l n="31" xml:id="spp-269-71H1-line-31"> Yet, if his name you'd eternize,</l><l n="32" xml:id="spp-269-71H1-line-32"> And must exalt him to the skies;</l><l n="33" xml:id="spp-269-71H1-line-33"> Without a <hi rend="underline">star</hi>, this may be done:</l><l n="34" xml:id="spp-269-71H1-line-34"> So <hi rend="underline">Tickell</hi> mourn'd his <hi rend="underline">Addison</hi>.</l><l n="35" xml:id="spp-269-71H1-line-35"> If <hi rend="underline">Anna's</hi> happy reign you praise,</l><l n="36" xml:id="spp-269-71H1-line-36"> Pray, not a word of <hi rend="underline">halcyon days</hi>;</l><l n="37" xml:id="spp-269-71H1-line-37"> Nor let my votaries shew their skill</l><l n="38" xml:id="spp-269-71H1-line-38"> In aping lines from <hi rend="underline">Cooper's-Hill</hi>;</l><l n="39" xml:id="spp-269-71H1-line-39"> For know, I cannot bear to hear</l><l n="40" xml:id="spp-269-71H1-line-40"> The Mimickry of <hi rend="underline">deep, yet clear</hi>.Whene'er my Viceroy is address'd,</l><l n="41" xml:id="spp-269-71H1-line-41"> Against the <hi rend="underline">ph<unclear>oe</unclear>nix</hi> I protest.<gap/><gap/></l><l n="42" xml:id="spp-269-71H1-line-42"> When Poets soar in youthful strains,</l><l n="43" xml:id="spp-269-71H1-line-43"> No <hi rend="underline">Phaëton</hi> to hold the reins.When you describe a lovely girl,</l><l n="44" xml:id="spp-269-71H1-line-44" rend="indent(1)"> No lips of <hi rend="underline">coral</hi>, teeth of <hi rend="underline">pearl.Cupid</hi> shall ne'er mistake another,</l><l n="45" xml:id="spp-269-71H1-line-45"> However beauteous, for his mother:</l><l n="46" xml:id="spp-269-71H1-line-46"> Nor shall his darts at random fly</l><l n="47" xml:id="spp-269-71H1-line-47"> From Magazine in <hi rend="underline">C<unclear>ae</unclear>lia's</hi> eye.<gap/><gap/><gap/><gap/><gap/><gap/></l><l n="48" xml:id="spp-269-71H1-line-48"> With women compounds I am cloy'd,</l><l n="49" xml:id="spp-269-71H1-line-49"> Which only pleas'd in <hi rend="underline">Biddy Floyd</hi><ref target="#spp-269-71H1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-269-71H1-footnote-1">“And call'd the happy C<hi rend="SMALL-CAPS">OMPOSITION</hi><hi rend="underline">Floyd</hi>.” Vol. VI. p. 129.</note>.</l><l n="50" xml:id="spp-269-71H1-line-50"> For foreign aid what need they roam,</l><l n="51" xml:id="spp-269-71H1-line-51"> Whom fate has amply blest at home?<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>269-71H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

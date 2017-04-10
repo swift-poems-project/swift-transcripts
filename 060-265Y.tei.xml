@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="black-letter">Verses</hi> wrote in a Lady's<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="060-265Y" type="poem"><head type="note" n="1" xml:id="spp-060-265Y-headnote-1"><lg n="1" xml:id="spp-060-265Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-060-265Y-headnote-1-line-group-1-line-1">Vol. 3 Pag. 166.</l></lg></head><head type="note" n="2" xml:id="spp-060-265Y-headnote-2"><lg n="1" xml:id="spp-060-265Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-060-265Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-060-265Y-headnote-3"><lg n="1" xml:id="spp-060-265Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-060-265Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-060-265Y-line-1"> Peruse my Leaves thrô ev'ry Part,&#13;</l><l n="2" xml:id="spp-060-265Y-line-2"> And think thou seest my Owners Heart,</l><l n="3" xml:id="spp-060-265Y-line-3"> Scrawl'd o'er with Trifles thus, and quite</l><l n="4" xml:id="spp-060-265Y-line-4"> As hard, as senceless, and as light;</l><l n="5" xml:id="spp-060-265Y-line-5"> Expos'd to ev'ry Coxcombs Eyes,</l><l n="6" xml:id="spp-060-265Y-line-6"> But hid with caution from the Wise.</l><l n="7" xml:id="spp-060-265Y-line-7"> Here you may read (Dear Charming Saint)</l><l n="8" xml:id="spp-060-265Y-line-8"> Beneath (a new Receipt for Paint)</l><l n="9" xml:id="spp-060-265Y-line-9"> Here in Beau-spelling (tru tel Deth)</l><l n="10" xml:id="spp-060-265Y-line-10"> There in her own (far an el Breth)</l><l n="11" xml:id="spp-060-265Y-line-11"> Here (Lovely Nymph pronounce my Doom)</l><l n="12" xml:id="spp-060-265Y-line-12"> There (a safe way to use Perfume)</l><l n="13" xml:id="spp-060-265Y-line-13"> Here a Page fill'd with Billet-Doux:</l><l n="14" xml:id="spp-060-265Y-line-14"> On t'other Side (laid out for shoes)</l><l n="15" xml:id="spp-060-265Y-line-15"> (Madam I die without your Grace)</l><l n="16" xml:id="spp-060-265Y-line-16"> (Item for half a yard of Lace.)</l><l n="17" xml:id="spp-060-265Y-line-17"> Who that had wit would place it here</l><l n="18" xml:id="spp-060-265Y-line-18"> For every peeping Fop to jeer?</l><l n="19" xml:id="spp-060-265Y-line-19"> To think that your Brains Issue is</l><l n="20" xml:id="spp-060-265Y-line-20"> Expos'd to th' Excrement of his,</l><l n="21" xml:id="spp-060-265Y-line-21"> In power of Spittle and a Clout,</l><l n="22" xml:id="spp-060-265Y-line-22"> Whene'er he please to blot it out,</l><l n="23" xml:id="spp-060-265Y-line-23"> And then to heighten the Disgrace,</l><l n="24" xml:id="spp-060-265Y-line-24"> Clap his own nonsence in the Place.</l><l n="25" xml:id="spp-060-265Y-line-25"> Whoe'er expects to hold his Part,</l><l n="26" xml:id="spp-060-265Y-line-26"> In such a Book and such a Heart,</l><l n="27" xml:id="spp-060-265Y-line-27"> If he be Wealthy and a Fool,</l><l n="28" xml:id="spp-060-265Y-line-28"> Is in all Points the fittest Tool;</l><l n="29" xml:id="spp-060-265Y-line-29"> Of whom it may be justly said,</l><l n="30" xml:id="spp-060-265Y-line-30"> He's a Gold Pencil tipp'd with Lead.060-265Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

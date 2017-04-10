@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">An</hi> I<hi rend="SMALL-CAPS">NVENTORY</hi> <hi rend="underline">of Dr</hi>. S<hi rend="SMALL-CAPS">WIFT'S</hi> <hi rend="underline">Goods, upon</hi></title>
+        <title><hi rend="underline">lending his House to the Bishop of</hi> M────.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X44-73JK" type="poem"><head type="note" n="1" xml:id="spp-X44-73JK-headnote-1"><lg n="1" xml:id="spp-X44-73JK-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-73JK-headnote-1-line-group-1-line-1">(<hi rend="underline">Not printed in his Works</hi>.)</l></lg></head><head type="note" n="2" xml:id="spp-X44-73JK-headnote-2"><lg n="1" xml:id="spp-X44-73JK-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-73JK-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X44-73JK-headnote-3"><lg n="1" xml:id="spp-X44-73JK-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-73JK-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X44-73JK-line-1"><hi rend="display-initial">A</hi>N oaken broken elbow-chair;</l><l n="2" xml:id="spp-X44-73JK-line-2"> A caudle-cup without an ear;</l><l n="3" xml:id="spp-X44-73JK-line-3"> A batter'd shatter'd ash bedstead;</l><l n="4" xml:id="spp-X44-73JK-line-4"> A box of deal without a lid;</l><l n="5" xml:id="spp-X44-73JK-line-5"> A pair of tongs, but out of joint,</l><l n="6" xml:id="spp-X44-73JK-line-6"> A poor old poker without point;</l><l n="7" xml:id="spp-X44-73JK-line-7"> A pot that's crack'd across, around</l><l n="8" xml:id="spp-X44-73JK-line-8"> With an old knotted-garter bound;</l><l n="9" xml:id="spp-X44-73JK-line-9"> An iron lock without a key;</l><l n="10" xml:id="spp-X44-73JK-line-10"> A wig with hanging quite grown grey;<gap/><gap/><gap/><gap/></l><l n="11" xml:id="spp-X44-73JK-line-11"> A pair of bellows without pipe;</l><l n="12" xml:id="spp-X44-73JK-line-12"> A curtain worn to half a stripe;</l><l n="13" xml:id="spp-X44-73JK-line-13"> A dish, which might good meat have held once;</l><l n="14" xml:id="spp-X44-73JK-line-14"> An Ovid, and an old Concordance;</l><l n="15" xml:id="spp-X44-73JK-line-15"> A bottle bottom, wooden platter,</l><l n="16" xml:id="spp-X44-73JK-line-16"> (One for meal, and one for water.)</l><l n="17" xml:id="spp-X44-73JK-line-17"> There is, besides, a copper skillet,</l><l n="18" xml:id="spp-X44-73JK-line-18"> Which runs as fast out as you fill it;</l><l n="19" xml:id="spp-X44-73JK-line-19"> A candlestick, a pan, and save-all;</l><l n="20" xml:id="spp-X44-73JK-line-20"> And thus his houshold goods you have all.</l><l n="21" xml:id="spp-X44-73JK-line-21"> These to his Lordship, as a friend,</l><l n="22" xml:id="spp-X44-73JK-line-22"> Till he has built, I'd recommend;</l><l n="23" xml:id="spp-X44-73JK-line-23"> They'd serve his Lordship for a shift,</l><l n="24" xml:id="spp-X44-73JK-line-24"> Why not, as well as Doctor Swift?X44-73JK   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

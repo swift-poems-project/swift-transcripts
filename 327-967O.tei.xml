@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>By Dean Swift.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="327-967O" type="poem"><head type="note" n="1" xml:id="spp-327-967O-headnote-1"><lg n="1" xml:id="spp-327-967O-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-327-967O-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-327-967O-headnote-2"><lg n="1" xml:id="spp-327-967O-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-327-967O-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-327-967O-headnote-3"><lg n="1" xml:id="spp-327-967O-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-327-967O-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-327-967O-line-1">As Thomas was cudgell'd one day, by his wife,&#13;He took to his heels &amp; ran for his life;</l><l n="2" xml:id="spp-327-967O-line-2"> Tom's three dearest friends came by in the squabble,</l><l n="3" xml:id="spp-327-967O-line-3"> And skreen'd him at once from the shrew &amp; the rabble;</l><l n="4" xml:id="spp-327-967O-line-4"> Then ventur'd to give him some wholesome advice:</l><l n="5" xml:id="spp-327-967O-line-5"> But Tom is a fellow of humour so nice,</l><l n="6" xml:id="spp-327-967O-line-6"> Too proud to be counsel'd, too wise to take warning,</l><l n="7" xml:id="spp-327-967O-line-7"> He sent to all three a challenge next morning:</l><l n="8" xml:id="spp-327-967O-line-8"> He fought with all three, thrice ventur'd his life;</l><l n="9" xml:id="spp-327-967O-line-9"> Then went home again, &amp; was thrash'd by his wife.327-967O   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Serious Poem upon W<hi rend="sup">m</hi> Wood, Brasier, Tinker,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-334-265Y-footnote-1 #spp-334-265Y-line-47"/>
+          <link target="#spp-334-265Y-footnote-1 #spp-334-265Y-line-60"/>
+        </linkGrp>
+        <div n="334-265Y" type="poem"><head type="note" n="1" xml:id="spp-334-265Y-headnote-1"><lg n="1" xml:id="spp-334-265Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-334-265Y-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-334-265Y-headnote-2"><lg n="1" xml:id="spp-334-265Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-334-265Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-334-265Y-headnote-3"><lg n="1" xml:id="spp-334-265Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-334-265Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-334-265Y-line-1"> When Foes are o'er-come, we preserve them from Slaughter,&#13;</l><l n="2" xml:id="spp-334-265Y-line-2"> To be Hewers of Wood, and Drawers of Water:</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-334-265Y-line-3">Now altho' to draw Water is not very Good,&#13;</l><l n="4" xml:id="spp-334-265Y-line-4"> Yet we all should Rejoice to be Hewers of <hi rend="black-letter">Wood</hi>.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-334-265Y-line-5">I own it hath often provok'd me to mutter,&#13;</l><l n="6" xml:id="spp-334-265Y-line-6"> That a Rogue so obscure sho'd make such a Clutter:</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-334-265Y-line-7">But antient Philosophers wisely remark,&#13;</l><l n="8" xml:id="spp-334-265Y-line-8"> That old rotten Wood will Shine in the Dark.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-334-265Y-line-9">The Heathens we read had Gods made of Wood,&#13;</l><l n="10" xml:id="spp-334-265Y-line-10"> Who could do them no harm, if they did them no Good:</l></lg><lg n="6" type="stanza"><l n="11" xml:id="spp-334-265Y-line-11">But this Idol Wood may do us great Evil;&#13;</l><l n="12" xml:id="spp-334-265Y-line-12"> Their Gods were of Wood, but our Wood is the Devil.</l></lg><lg n="7" type="stanza"><l n="13" xml:id="spp-334-265Y-line-13">To cut down fine Wood is a very bad thing,&#13;</l><l n="14" xml:id="spp-334-265Y-line-14"> And yet we all know much Gold it will bring:</l></lg><lg n="8" type="stanza"><l n="15" xml:id="spp-334-265Y-line-15">Then if cutting down Wood brings mony good Store;&#13;</l><l n="16" xml:id="spp-334-265Y-line-16"> Our Mony to keep, let us cut down One more.</l></lg><lg n="9" type="stanza"><l n="17" xml:id="spp-334-265Y-line-17">Now hear an old Tale: There anciently Stood&#13;</l><l n="18" xml:id="spp-334-265Y-line-18"> (I forget in what Church) An Image of Wood;</l></lg><lg n="10" type="stanza"><l n="19" xml:id="spp-334-265Y-line-19">Concerning this Image there went a Prediction:&#13;</l><l n="20" xml:id="spp-334-265Y-line-20"> It would burn a whole Forest; nor was it a Fiction:</l></lg><lg n="11" type="stanza"><l n="21" xml:id="spp-334-265Y-line-21">Twas cut into Faggots, and put to the Flame,&#13;</l><l n="22" xml:id="spp-334-265Y-line-22"> To burn an old Fryer, one Forest by Name.</l></lg><lg n="12" type="stanza"><l n="23" xml:id="spp-334-265Y-line-23">My Tale is a wise one, if well Understood;&#13;</l><l n="24" xml:id="spp-334-265Y-line-24"> Find you but the Fryer, and I'll find the <hi rend="black-letter">Wood</hi>.</l></lg><lg n="13" type="stanza"><l n="25" xml:id="spp-334-265Y-line-25">I hear among Scholars there is a great Doubt&#13;</l><l n="26" xml:id="spp-334-265Y-line-26"> From what kind of Tree this Wood was hewn out:</l></lg><lg n="14" type="stanza"><l n="27" xml:id="spp-334-265Y-line-27">Teague made a good Pun by a Brogue in his Speech&#13;</l><l n="28" xml:id="spp-334-265Y-line-28"> And said, By my Shoul he's the Son of a Beech.</l></lg><lg n="15" type="stanza"><l n="29" xml:id="spp-334-265Y-line-29">Some call him a Thorn, the Curse of a Nation,&#13;</l><l n="30" xml:id="spp-334-265Y-line-30"> As Thorns were design'd to be from the Creation:</l></lg><lg n="16" type="stanza"><l n="31" xml:id="spp-334-265Y-line-31">Some think him cut out from the poisonous Yew,&#13;</l><l n="32" xml:id="spp-334-265Y-line-32"> Beneath whose ill Shade no Plant ever grew:</l></lg><lg n="17" type="stanza"><l n="33" xml:id="spp-334-265Y-line-33">Some say he's a Birch, a Thought very odd,&#13;</l><l n="34" xml:id="spp-334-265Y-line-34"> For none but a Dunce would come under his Rod.</l></lg><lg n="18" type="stanza"><l n="35" xml:id="spp-334-265Y-line-35">But I'll tell you the Secret, and pray do not Blab,&#13;</l><l n="36" xml:id="spp-334-265Y-line-36"> He is an old Stump Cut out of a Crab:</l></lg><lg n="19" type="stanza"><l n="37" xml:id="spp-334-265Y-line-37">And England has put this Crab to a hard Use,&#13;</l><l n="38" xml:id="spp-334-265Y-line-38"> To Cudgel our Bones, and for Drink give us Verjuice;</l></lg><lg n="20" type="stanza"><l n="39" xml:id="spp-334-265Y-line-39">And therefore his Witnesses justly may boast,&#13;</l><l n="40" xml:id="spp-334-265Y-line-40"> That none are more properly Knights of the Posts.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>I ne'er could endure my Talent to Smother;</l><l n="41" xml:id="spp-334-265Y-line-41"> I told you one Tale, I'l tell you Another:</l></lg><lg n="21" type="stanza"><l n="42" xml:id="spp-334-265Y-line-42">A Ioyner, to fasten a Saint in a Nich,&#13;</l><l n="43" xml:id="spp-334-265Y-line-43"> Bor'd a large Auger-Hole in the Image's Breech</l></lg><lg n="22" type="stanza"><l n="44" xml:id="spp-334-265Y-line-44">But finding the Statue to make no Complaint,&#13;</l><l n="45" xml:id="spp-334-265Y-line-45"> He would ne'er be convinc'd that it was a true Saint:</l></lg><lg n="23" type="stanza"><l n="46" xml:id="spp-334-265Y-line-46">When the true Wood arrives as he soon will no Doubt,&#13;</l><l n="47" xml:id="spp-334-265Y-line-47"> (For thats but a Sham <ref target="#spp-334-265Y-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-334-265Y-footnote-1">The Effigies of M<hi rend="sup">r</hi> Wood has been frequently carried about in Procession, and burnt.</note> Wood they carry about)</l></lg><lg n="24" type="stanza"><l n="48" xml:id="spp-334-265Y-line-48">What Stuff he is made on, you quickly may find,&#13;</l><l n="49" xml:id="spp-334-265Y-line-49"> If you make the same Tryal, and bore him behind:</l></lg><lg n="25" type="stanza"><l n="50" xml:id="spp-334-265Y-line-50">I'll hold you a Groat, when you wimble his Bum,&#13;</l><l n="51" xml:id="spp-334-265Y-line-51"> He'l bellow as loud as the De'il in a Drum.</l></lg><lg n="26" type="stanza"><l n="52" xml:id="spp-334-265Y-line-52">From me I Declare you shall have no Denial,&#13;</l><l n="53" xml:id="spp-334-265Y-line-53"> And there can be no harm in making the Tryal:</l></lg><lg n="27" type="stanza"><l n="54" xml:id="spp-334-265Y-line-54">And when to the Ioy of your Hearts he has roar'd,&#13;</l><l n="55" xml:id="spp-334-265Y-line-55"> You may show him about for a new groaning Board.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>Hear one Story more, and then I will Stop:</l><l n="56" xml:id="spp-334-265Y-line-56"> I Dreamt Wood was told He should dye by a Drop:</l></lg><lg n="28" type="stanza"><l n="57" xml:id="spp-334-265Y-line-57">So methought, He resolved no Liquor to Tast,&#13;</l><l n="58" xml:id="spp-334-265Y-line-58"> For fear the first Drop might as well be his Last:</l></lg><lg n="29" type="stanza"><l n="59" xml:id="spp-334-265Y-line-59">But Dreams are like Oracles, 'tis hard to explain 'em,&#13;</l><l n="60" xml:id="spp-334-265Y-line-60"> For it prov'd that He dy'd of a Drop at <ref target="#spp-334-265Y-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-334-265Y-footnote-1">Their Place of Execution.</note> Kilmainham:</l></lg><lg n="30" type="stanza"><l n="61" xml:id="spp-334-265Y-line-61">I wak'd with Delight, and not without Hope&#13;</l><l n="62" xml:id="spp-334-265Y-line-62"> Very soon to see Wood Drop down from a Rope.</l></lg><lg n="31" type="stanza"><l n="63" xml:id="spp-334-265Y-line-63">How He, and how we at each other should Grin!&#13;</l><l n="64" xml:id="spp-334-265Y-line-64"> Tis Kindness to hold a Friend up by the Chin.</l></lg><lg n="32" type="stanza"><l n="65" xml:id="spp-334-265Y-line-65">But Soft says the Herauld, I cannot agree:&#13;</l><l n="66" xml:id="spp-334-265Y-line-66"> For Metal on Metal is false Heraldry:</l></lg><lg n="33" type="stanza"><l n="67" xml:id="spp-334-265Y-line-67">Why that may be true, yet WOOD upon WOOD,&#13;</l><l n="68" xml:id="spp-334-265Y-line-68"> Ile maintain with my Life is Heraldry good.334-265Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

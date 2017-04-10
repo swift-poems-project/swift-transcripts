@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">A Dialogue between Captain Tom</hi>
+        </title>
+        <title>
+          <hi rend="underline">and Sir Henry Dutton Colt</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R112ROGP" type="poem"><head type="note" n="1" xml:id="spp-R112ROGP-headnote-1"><lg n="1" xml:id="spp-R112ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-R112ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-R112ROGP-headnote-2"><lg n="1" xml:id="spp-R112ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-R112ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-R112ROGP-headnote-3"><lg n="1" xml:id="spp-R112ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-R112ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-R112ROGP-line-1"> Come, fair muse of Grub Street,</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-R112ROGP-line-2"> the dialogue write,&#13;</l><l n="3" xml:id="spp-R112ROGP-line-3"> Betwixt Captain Tom</l></lg><lg n="3" type="stanza"><l n="4" xml:id="spp-R112ROGP-line-4"> and a goodly old knight.&#13;</l><l n="5" xml:id="spp-R112ROGP-line-5"> Quoth ancient Sir Harry,</l></lg><lg n="4" type="stanza"><l n="6" xml:id="spp-R112ROGP-line-6"> 'My dear Captain Thomas,&#13;</l><l n="7" xml:id="spp-R112ROGP-line-7"> Sure you and your subjects</l></lg><lg n="5" type="stanza"><l n="8" xml:id="spp-R112ROGP-line-8"> will not depart from us.&#13;</l><l n="9" xml:id="spp-R112ROGP-line-9"> Then hold hat and heart,</l></lg><lg n="6" type="stanza"><l n="10" xml:id="spp-R112ROGP-line-10"> and right hand every man up,&#13;</l><l n="11" xml:id="spp-R112ROGP-line-11"> And bawl out old Colt,</l></lg><lg n="7" type="stanza"><l n="12" xml:id="spp-R112ROGP-line-12"> and brave General Stanhope.&#13;</l><l n="13" xml:id="spp-R112ROGP-line-13"> Let the General's merits</l></lg><lg n="8" type="stanza"><l n="14" xml:id="spp-R112ROGP-line-14"> and mine be maintained:&#13;</l><l n="15" xml:id="spp-R112ROGP-line-15"> Turn off the old brewer,</l></lg><lg n="9" type="stanza"><l n="16" xml:id="spp-R112ROGP-line-16"> and be not cross-grained.&#13;</l><l n="17" xml:id="spp-R112ROGP-line-17"> In a protestant country,</l></lg><lg n="10" type="stanza"><l n="18" xml:id="spp-R112ROGP-line-18"> why are you for crosses?&#13;</l><l n="19" xml:id="spp-R112ROGP-line-19"> And brewers will poison you</l></lg><lg n="11" type="stanza"><l n="20" xml:id="spp-R112ROGP-line-20"> all with molosses.&#13;</l><l n="21" xml:id="spp-R112ROGP-line-21"> Besides, are not all</l></lg><lg n="12" type="stanza"><l n="22" xml:id="spp-R112ROGP-line-22"> the damned Jacobite brewers,&#13;</l><l n="23" xml:id="spp-R112ROGP-line-23"> Still brewing of mischief,</l></lg><lg n="13" type="stanza"><l n="24" xml:id="spp-R112ROGP-line-24"> and so may be yours?&#13;</l><l n="25" xml:id="spp-R112ROGP-line-25"> And papists are brewers,</l></lg><lg n="14" type="stanza"><l n="26" xml:id="spp-R112ROGP-line-26"> with faggots to burn us;&#13;</l><l n="27" xml:id="spp-R112ROGP-line-27"> But if you love brewing,</l></lg><lg n="15" type="stanza"><l n="28" xml:id="spp-R112ROGP-line-28"> you may have a Furnese.&#13;</l><l n="29" xml:id="spp-R112ROGP-line-29"> Then Stanhope shall send you</l></lg><lg n="16" type="stanza"><l n="30" xml:id="spp-R112ROGP-line-30"> each laurel he crops;&#13;</l><l n="31" xml:id="spp-R112ROGP-line-31"> And laurels are sometimes</l></lg><lg n="17" type="stanza"><l n="32" xml:id="spp-R112ROGP-line-32"> as bitter as hops.'&#13;</l></lg><lg n="18" type="stanza"><l n="33" xml:id="spp-R112ROGP-line-33">When comely Sir Harry</l></lg><lg n="19" type="stanza"><l n="34" xml:id="spp-R112ROGP-line-34"> had thus shot his bolt,&#13;</l><l n="35" xml:id="spp-R112ROGP-line-35"> Then replied Captain Tom,</l></lg><lg n="20" type="stanza"><l n="36" xml:id="spp-R112ROGP-line-36"> 'God-a-mercy, old Colt,&#13;</l><l n="37" xml:id="spp-R112ROGP-line-37"> You had better have been</l></lg><lg n="21" type="stanza"><l n="38" xml:id="spp-R112ROGP-line-38"> at your spade and your club,&#13;</l><l n="39" xml:id="spp-R112ROGP-line-39"> Than take up our time</l></lg><lg n="22" type="stanza"><l n="40" xml:id="spp-R112ROGP-line-40"> with a tale of a tub.&#13;</l><l n="41" xml:id="spp-R112ROGP-line-41"> You shall be discarded,</l></lg><lg n="23" type="stanza"><l n="42" xml:id="spp-R112ROGP-line-42"> I say't to your face;&#13;</l><l n="43" xml:id="spp-R112ROGP-line-43"> We'll all play the game,</l></lg><lg n="24" type="stanza"><l n="44" xml:id="spp-R112ROGP-line-44"> and not bate you an ace.&#13;</l><l n="45" xml:id="spp-R112ROGP-line-45"> Then let me advise you</l></lg><lg n="25" type="stanza"><l n="46" xml:id="spp-R112ROGP-line-46"> no longer to stay;&#13;</l><l n="47" xml:id="spp-R112ROGP-line-47"> But pack up and shuffle,</l></lg><lg n="26" type="stanza"><l n="48" xml:id="spp-R112ROGP-line-48"> and cut it away.&#13;</l><l n="49" xml:id="spp-R112ROGP-line-49"> And though you have wit,</l></lg><lg n="27" type="stanza"><l n="50" xml:id="spp-R112ROGP-line-50"> youth, beauty, and parts,&#13;</l><l n="51" xml:id="spp-R112ROGP-line-51"> While we keep our clubs,</l></lg><lg n="28" type="stanza"><l n="52" xml:id="spp-R112ROGP-line-52"> you shall ne'er win our hearts.&#13;</l><l n="53" xml:id="spp-R112ROGP-line-53"> Brave Stanhope for fighting</l></lg><lg n="29" type="stanza"><l n="54" xml:id="spp-R112ROGP-line-54"> will have his reward,&#13;</l><l n="55" xml:id="spp-R112ROGP-line-55"> And the Queen, when she pleases,</l></lg><lg n="30" type="stanza"><l n="56" xml:id="spp-R112ROGP-line-56"> can make him a lord.&#13;</l><l n="57" xml:id="spp-R112ROGP-line-57"> But we are true friends</l></lg><lg n="31" type="stanza"><l n="58" xml:id="spp-R112ROGP-line-58"> of the church and Sacheverell;&#13;</l><l n="59" xml:id="spp-R112ROGP-line-59"> And vote for a manager</l></lg><lg n="32" type="stanza"><l n="60" xml:id="spp-R112ROGP-line-60"> surely we never will!&#13;</l><l n="61" xml:id="spp-R112ROGP-line-61"> Besides, we have found</l></lg><lg n="33" type="stanza"><l n="62" xml:id="spp-R112ROGP-line-62"> too much heat in some rulers,&#13;</l><l n="63" xml:id="spp-R112ROGP-line-63"> And will give them a brewer,</l></lg><lg n="34" type="stanza"><l n="64" xml:id="spp-R112ROGP-line-64"> because they want coolers.&#13;</l><l n="65" xml:id="spp-R112ROGP-line-65"> If Christians love crosses,</l></lg><lg n="35" type="stanza"><l n="66" xml:id="spp-R112ROGP-line-66"> why should they be blamed?&#13;</l><l n="67" xml:id="spp-R112ROGP-line-67"> You shall see us bear ours,</l></lg><lg n="36" type="stanza"><l n="68" xml:id="spp-R112ROGP-line-68"> and not be ashamed.&#13;</l><l n="69" xml:id="spp-R112ROGP-line-69"> But we know what you aim at;</l></lg><lg n="37" type="stanza"><l n="70" xml:id="spp-R112ROGP-line-70"> you all would engross,&#13;</l><l n="71" xml:id="spp-R112ROGP-line-71"> And not leave the church</l></lg><lg n="38" type="stanza"><l n="72" xml:id="spp-R112ROGP-line-72"> or the nation a cross.'&#13;</l></lg><lg n="39" type="stanza"><l n="73" xml:id="spp-R112ROGP-line-73">When the Captain had finished,</l></lg><lg n="40" type="stanza"><l n="74" xml:id="spp-R112ROGP-line-74"> away went old Numps;&#13;</l><l n="75" xml:id="spp-R112ROGP-line-75"> He had got a bad game,</l></lg><lg n="41" type="stanza"><l n="76" xml:id="spp-R112ROGP-line-76"> and could not turn up trumps.&#13;</l><l n="77" xml:id="spp-R112ROGP-line-77"> His eggs they are addled,</l></lg><lg n="42" type="stanza"><l n="78" xml:id="spp-R112ROGP-line-78"> and dough was his cake;&#13;</l><l n="79" xml:id="spp-R112ROGP-line-79"> So fairly he left them</l></lg><lg n="43" type="stanza"><l n="80" xml:id="spp-R112ROGP-line-80"> to brew as they bake.&#13;R112ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

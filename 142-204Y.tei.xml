@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The intended Speech of a famous Orator</title>
+        <title>agst y<hi rend="sup">e</hi> Peace. 1711.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="142-204Y" type="poem"><head type="note" n="1" xml:id="spp-142-204Y-headnote-1"><lg n="1" xml:id="spp-142-204Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-142-204Y-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-142-204Y-headnote-2"><lg n="1" xml:id="spp-142-204Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-142-204Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-142-204Y-headnote-3"><lg n="1" xml:id="spp-142-204Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-142-204Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-142-204Y-line-1"> An orator <hi rend="underline">Dismal</hi> of <hi rend="underline">Nottingham</hi>shire,</l><l n="2" xml:id="spp-142-204Y-line-2"> Who has forty years let out his conscience to hire,</l><l n="3" xml:id="spp-142-204Y-line-3"> Out of zeal for his Countrey &amp; want of a place,</l><l n="4" xml:id="spp-142-204Y-line-4"> Is come up <hi rend="underline">vi &amp; armis</hi> to break y<hi rend="sup">e</hi> Q──'s Peace.</l><l n="5" xml:id="spp-142-204Y-line-5"> He has vamp'd an old Speech; &amp; y<hi rend="sup">e</hi> Court to their sorrow</l><l n="6" xml:id="spp-142-204Y-line-6"> Shall hear him harangue against <hi rend="underline">Prior</hi> to morrow.</l><l n="7" xml:id="spp-142-204Y-line-7"> When once he begins, he never will flinch,</l><l n="8" xml:id="spp-142-204Y-line-8"> But repeat y<hi rend="sup">e</hi> same note a whole day like a <hi rend="underline">Finch</hi>.</l><l n="9" xml:id="spp-142-204Y-line-9"> I have hear'd all y<hi rend="sup">e</hi> Speech repeated by happy,</l><l n="10" xml:id="spp-142-204Y-line-10" rend="align(center)"> And mistakes to prevent have obtained a Copy.The Speech.</l></lg><lg n="2" type="stanza"><l n="11" xml:id="spp-142-204Y-line-11" rend="flush left">Whereas notw<hi rend="sup">th</hi>standing I am in great pain</l><l n="12" xml:id="spp-142-204Y-line-12"> To hear we are making a peace w<hi rend="sup">th</hi>out Spain:</l><l n="13" xml:id="spp-142-204Y-line-13"> But, most noble Senators, 'tis a great shame,</l><l n="14" xml:id="spp-142-204Y-line-14"> There should be a peace, whilest I'm <hi rend="underline">Not-in-game</hi>.</l><l n="15" xml:id="spp-142-204Y-line-15"> The Duke shew'd me all his fine house; &amp; y<hi rend="sup">e</hi> Dutchess</l><l n="16" xml:id="spp-142-204Y-line-16"> From her Closet brought out a full purse in her clutches:</l><l n="17" xml:id="spp-142-204Y-line-17"> I talked of Peace, &amp; they both gave a start,</l><l n="18" xml:id="spp-142-204Y-line-18"> His grace swore an Oath, &amp; her Gr──let a f──t.</l><l n="19" xml:id="spp-142-204Y-line-19"> My long old·fashion'd pocket was presently cramm'd,</l><l n="20" xml:id="spp-142-204Y-line-20"> And sooner than vote for a peace, I'll be d──n'd.</l><l n="21" xml:id="spp-142-204Y-line-21"> But some will cry turncoat, &amp; rip up old stories,</l><l n="22" xml:id="spp-142-204Y-line-22"> How I always pretended to be for y<hi rend="sup">e</hi> Tories.</l><l n="23" xml:id="spp-142-204Y-line-23"> I answer, y<hi rend="sup">e</hi> Tories were in my good graces,</l><l n="24" xml:id="spp-142-204Y-line-24"> Till all my Relations were put into places.</l><l n="25" xml:id="spp-142-204Y-line-25"> But still I'm in principle ever y<hi rend="sup">e</hi> same,</l><l n="26" xml:id="spp-142-204Y-line-26"> And will quit my best friends, while I'm <hi rend="underline">Not-in-game</hi>.</l><l n="27" xml:id="spp-142-204Y-line-27"> When I &amp; some others subscribed our names</l><l n="28" xml:id="spp-142-204Y-line-28"> To a Plot for expelling my Master Kg James,</l><l n="29" xml:id="spp-142-204Y-line-29"> I withdrew my subscription by help of a blot;</l><l n="30" xml:id="spp-142-204Y-line-30"> And so might discover, or gain by y<hi rend="sup">e</hi> Plot.</l><l n="31" xml:id="spp-142-204Y-line-31"> I had my advantage, I stood at defiance;</l><l n="32" xml:id="spp-142-204Y-line-32"> For <hi rend="underline">Daniel</hi> was got from y<hi rend="sup">e</hi> Den of y<hi rend="sup">e</hi> Lions.</l><l n="33" xml:id="spp-142-204Y-line-33"> I came in w<hi rend="sup">th</hi>out danger, &amp; was I to blame?</l><l n="34" xml:id="spp-142-204Y-line-34"> For rather than hang, I would be <hi rend="underline">Not-in-game</hi>.</l><l n="35" xml:id="spp-142-204Y-line-35"> I swore to y<hi rend="sup">e</hi> Q──, y<hi rend="sup">t</hi> y<hi rend="sup">e</hi> P──of H────r</l><l n="36" xml:id="spp-142-204Y-line-36"> During her sacred life should never come over.</l><l n="37" xml:id="spp-142-204Y-line-37"> I made use of a Trope, y<hi rend="sup">t</hi> an Heir to invite,</l><l n="38" xml:id="spp-142-204Y-line-38"> Was like keeping her Monum<hi rend="sup">t</hi> always in sight:</l><l n="39" xml:id="spp-142-204Y-line-39"> But when I thought proper, I alter'd my note;</l><l n="40" xml:id="spp-142-204Y-line-40"> And in her own hearing I boldly did vote,</l><l n="41" xml:id="spp-142-204Y-line-41"> That her M────y stood in great need of a Tutor;</l><l n="42" xml:id="spp-142-204Y-line-42"> And must have an Old, or a Young Coadjutor.</l><l n="43" xml:id="spp-142-204Y-line-43"> For why! I would fain have put all in a flame,</l><l n="44" xml:id="spp-142-204Y-line-44"> Because for some reasons I was <hi rend="underline">Not-in-game</hi>.</l><l n="45" xml:id="spp-142-204Y-line-45"> Now my new Benefactors have brought me about;</l><l n="46" xml:id="spp-142-204Y-line-46"> And I'll vote agst Peace w<hi rend="sup">th</hi> Spain or without.</l><l n="47" xml:id="spp-142-204Y-line-47"> Tho' y<hi rend="sup">e</hi> Court gives my Nephews, &amp; Brothers, &amp; Cosens,</l><l n="48" xml:id="spp-142-204Y-line-48"> And all my whole Family Places by dozens:</l><l n="49" xml:id="spp-142-204Y-line-49"> Yet since I know where a full purse may be found,</l><l n="50" xml:id="spp-142-204Y-line-50"> And hardly pay eighteen pence Tax in y<hi rend="sup">e</hi> pound:</l><l n="51" xml:id="spp-142-204Y-line-51"> Since y<hi rend="sup">e</hi> Tories have thus disappointed my hopes,</l><l n="52" xml:id="spp-142-204Y-line-52"> And will neither regard my figures nor tropes:</l><l n="53" xml:id="spp-142-204Y-line-53"> I'll Speach agst Peace while <hi rend="underline">Dismal</hi>'s my name;</l><l n="54" xml:id="spp-142-204Y-line-54"> And be a true Whigg while I'm <hi rend="underline">Not-in-game</hi>.142-204Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

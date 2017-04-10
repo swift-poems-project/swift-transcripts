@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>B────h's Exultation upon hearing that his Fame</title>
+        <title>would be transmitted to Posterity in the poetical Volume<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M551703C" type="poem"><head type="note" n="1" xml:id="spp-M551703C-headnote-1"><lg n="1" xml:id="spp-M551703C-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M551703C-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-M551703C-headnote-2"><lg n="1" xml:id="spp-M551703C-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M551703C-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M551703C-headnote-3"><lg n="1" xml:id="spp-M551703C-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M551703C-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-M551703C-line-1"> Well now, since the Heat of my Passion's abated,&#13;</l><l n="2" xml:id="spp-M551703C-line-2"> That the Dean has lampoon'd me, my Mind is elated:</l><l n="3" xml:id="spp-M551703C-line-3"> Lampoon'd did I call it────No──What was it then?</l><l n="4" xml:id="spp-M551703C-line-4"> What was it? 'Twas Fame to be lash'd by his Pen.</l><l n="5" xml:id="spp-M551703C-line-5"> For had he not pointed me out, I had slept till</l><l n="6" xml:id="spp-M551703C-line-6"> Ev'n Doom's-day, a poor, insignificant Reptile:</l><l n="7" xml:id="spp-M551703C-line-7"> Half Lawyer, half Actor, pert, dull and inglorious,</l><l n="8" xml:id="spp-M551703C-line-8"> Obscure and unheard of──but now I'm notorious.</l><l n="9" xml:id="spp-M551703C-line-9"> Fame has but two Gates, a white and a black one,</l><l n="10" xml:id="spp-M551703C-line-10"> The worst they can say's, I got in at the back one:</l><l n="11" xml:id="spp-M551703C-line-11"> If the End be obtain'd, 'tis equal what Portal</l><l n="12" xml:id="spp-M551703C-line-12"> I enter, since I'm to be rendred immortal.</l><l n="13" xml:id="spp-M551703C-line-13"> So Clysters apply'd to the Anus, 'tis said,</l><l n="14" xml:id="spp-M551703C-line-14"> By skillfull Physitians, give ease to the Head.</l><l n="15" xml:id="spp-M551703C-line-15"> Tho' my Title be spurious, why shoud I be dastard?</l><l n="16" xml:id="spp-M551703C-line-16"> A Man──is a Man──tho' he be but a Bastard.</l><l n="17" xml:id="spp-M551703C-line-17"> Why sure?──It's some comfort, that Heroes shoud slay us,</l><l n="18" xml:id="spp-M551703C-line-18"> If I fall──I woud fall by the Hand of <unclear>AE</unclear>neas:</l><l n="19" xml:id="spp-M551703C-line-19"> And who by the Draper, woud not rather damn'd be,</l><l n="20" xml:id="spp-M551703C-line-20"> Than Demigodized by Madrigal Nam-by.</l><l n="21" xml:id="spp-M551703C-line-21"> A Man is no more, who has once lost his Breath,</l><l n="22" xml:id="spp-M551703C-line-22"> But Poets convince us there's Life after Death:</l><l n="23" xml:id="spp-M551703C-line-23"> They call from their Graves, the King &amp; the Peasant,</l><l n="24" xml:id="spp-M551703C-line-24"> Record our old Deeds, and make what's ceas'd──present;</l><l n="25" xml:id="spp-M551703C-line-25"> And when they woud study to set forth a Like,</l><l n="26" xml:id="spp-M551703C-line-26"> So the Lines be well drawn, and the Colours but strike,</l><l n="27" xml:id="spp-M551703C-line-27"> Whatever the Subject a Coward or Hero,</l><l n="28" xml:id="spp-M551703C-line-28"> A Tyrant or Patriot, a Titus or Nero,</l><l n="29" xml:id="spp-M551703C-line-29"> To a Iudge it's all one, which he fixes his Eye on,</l><l n="30" xml:id="spp-M551703C-line-30"> And a well painted Monkey's as good as a Lion.</l><l n="31" xml:id="spp-M551703C-line-31"> The Scriptures affirm, as I heard in my Youth,</l><l n="32" xml:id="spp-M551703C-line-32"> For indeed I ne'er read them, for once to speak Truth,</l><l n="33" xml:id="spp-M551703C-line-33"> That Death is the Wages of Sin──but the just</l><l n="34" xml:id="spp-M551703C-line-34"> Shall not dye, tho' they're laid in the Dust.</l><l n="35" xml:id="spp-M551703C-line-35"> They say so──So be it──I care not a Straw</l><l n="36" xml:id="spp-M551703C-line-36"> Although I be dead, both in Gospell and Law,</l><l n="37" xml:id="spp-M551703C-line-37"> In Verse I shall live and be read in each Climate;</l><l n="38" xml:id="spp-M551703C-line-38"> What more can be said of Prime-Serj<hi rend="sup">t</hi> and Primate?</l><l n="39" xml:id="spp-M551703C-line-39"> While Carter and Pendergast both may be rotten</l><l n="40" xml:id="spp-M551703C-line-40"> And damn'd to the bargain and both be forgotten.M551703C   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

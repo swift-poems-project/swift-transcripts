@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A YOUNG LADY'S COMPLAINT,</title>
+        <title>FOR<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y28B79L2" type="poem"><head type="note" n="1" xml:id="spp-Y28B79L2-headnote-1"><lg n="1" xml:id="spp-Y28B79L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y28B79L2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y28B79L2-headnote-2"><lg n="1" xml:id="spp-Y28B79L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y28B79L2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y28B79L2-headnote-3"><lg n="1" xml:id="spp-Y28B79L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y28B79L2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y28B79L2-line-1"><hi rend="display-initial">B</hi>LOW, ye Zephyrs, gentle gales;</l><l n="2" xml:id="spp-Y28B79L2-line-2"> Gently fill the swelling sails.</l><l n="3" xml:id="spp-Y28B79L2-line-3"> Neptune, with thy trident long,</l><l n="4" xml:id="spp-Y28B79L2-line-4"> Trident three-fork'd, trident strong;</l><l n="5" xml:id="spp-Y28B79L2-line-5"> And ye Nereids fair and gay,</l><l n="6" xml:id="spp-Y28B79L2-line-6"> Fairer than the rose in May,</l><l n="7" xml:id="spp-Y28B79L2-line-7"> Nereids living in deep caves,</l><l n="8" xml:id="spp-Y28B79L2-line-8"> Gently wash'd with gentle waves;</l><l n="9" xml:id="spp-Y28B79L2-line-9"> Nereids, Neptune, lull asleep</l><l n="10" xml:id="spp-Y28B79L2-line-10"> Ruffling storms, and ruffled deep;</l><l n="11" xml:id="spp-Y28B79L2-line-11"> All around, in pompous state,</l><l n="12" xml:id="spp-Y28B79L2-line-12"> On this richer Argo wait:</l><l n="13" xml:id="spp-Y28B79L2-line-13"> Argo, bring my Golden Fleece;</l><l n="14" xml:id="spp-Y28B79L2-line-14"> Argo, bring him to his Greece.</l><l n="15" xml:id="spp-Y28B79L2-line-15"> Will Cadenus longer stay?</l><l n="16" xml:id="spp-Y28B79L2-line-16"> Come, Cadenus, come away;</l><l n="17" xml:id="spp-Y28B79L2-line-17"> Come with all the haste of love,</l><l n="18" xml:id="spp-Y28B79L2-line-18"> Come unto thy turtle-dove.</l><l n="19" xml:id="spp-Y28B79L2-line-19"> The ripen'd cherry on the tree</l><l n="20" xml:id="spp-Y28B79L2-line-20"> Hangs, and only hangs for thee;</l><l n="21" xml:id="spp-Y28B79L2-line-21"> Luscious peaches, mellow pears,</l><l n="22" xml:id="spp-Y28B79L2-line-22"> Ceres with her yellow ears,</l><l n="23" xml:id="spp-Y28B79L2-line-23"> And the grape, both red and white,</l><l n="24" xml:id="spp-Y28B79L2-line-24"> Grape inspiring just delight;</l><l n="25" xml:id="spp-Y28B79L2-line-25"> All are ripe, and courting sue</l><l n="26" xml:id="spp-Y28B79L2-line-26"> To be pluck'd and press'd by you.</l><l n="27" xml:id="spp-Y28B79L2-line-27"> Pinks have lost their blooming red,</l><l n="28" xml:id="spp-Y28B79L2-line-28"> Mourning hang their dropping head,</l><l n="29" xml:id="spp-Y28B79L2-line-29"> Every flower languid seems,</l><l n="30" xml:id="spp-Y28B79L2-line-30"> Wants the colour of thy beams,</l><l n="31" xml:id="spp-Y28B79L2-line-31"> Beams of wondrous force and power,</l><l n="32" xml:id="spp-Y28B79L2-line-32"> Beams reviving every flower.</l><l n="33" xml:id="spp-Y28B79L2-line-33"> Come, Cadenus, bless once more,</l><l n="34" xml:id="spp-Y28B79L2-line-34"> Bless again thy native shore;</l><l n="35" xml:id="spp-Y28B79L2-line-35"> Bless again this drooping isle,</l><l n="36" xml:id="spp-Y28B79L2-line-36"> Make its weeping beauties smile,</l><l n="37" xml:id="spp-Y28B79L2-line-37"> Beauties that thine absence mourn,</l><l n="38" xml:id="spp-Y28B79L2-line-38"> Beauties wishing thy return.</l><l n="39" xml:id="spp-Y28B79L2-line-39"> Come, Cadenus, come with haste,</l><l n="40" xml:id="spp-Y28B79L2-line-40"> Come before the winter's blast;</l><l n="41" xml:id="spp-Y28B79L2-line-41"> Swifter than the lightning fly;</l><l n="42" xml:id="spp-Y28B79L2-line-42"> Or I, like Vanessa, die.Y28B79L2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

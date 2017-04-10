@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">The</hi> A<hi rend="SMALL-CAPS">NSWER</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="716-S826" type="poem"><head type="note" n="1" xml:id="spp-716-S826-headnote-1"><lg n="1" xml:id="spp-716-S826-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-716-S826-headnote-1-line-group-1-line-1"><hi rend="underline">The</hi> D<hi rend="SMALL-CAPS">EAN</hi>'s <hi rend="underline">Answer to <lb/> the</hi> L<hi rend="SMALL-CAPS">ADY</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-716-S826-headnote-2"><lg n="1" xml:id="spp-716-S826-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-716-S826-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-716-S826-headnote-3"><lg n="1" xml:id="spp-716-S826-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-716-S826-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-716-S826-line-1"><hi rend="display-initial">T</hi>HE <hi rend="underline">Nymph</hi> who wrote this in an amorous Fit,7</l><l n="2" xml:id="spp-716-S826-line-2"> I cannot but envy the Pride of her Wit;</l><l n="3" xml:id="spp-716-S826-line-3"> Which she in a Frolick has ventur'd to show,</l><l n="4" xml:id="spp-716-S826-line-4"> On so mean a Design, on a Subject so low.</l><l n="5" xml:id="spp-716-S826-line-5"> For mean's her Design, on a Subject so mean,</l><l n="6" xml:id="spp-716-S826-line-6"> The first but a <hi rend="underline">Rebus</hi>, the last but a <hi rend="underline">Dean</hi>.</l><l n="7" xml:id="spp-716-S826-line-7"> A <hi rend="underline">Dean</hi>'s but a <hi rend="underline">Parson</hi>, and what is a <hi rend="underline">Rebus</hi>,</l><l n="8" xml:id="spp-716-S826-line-8"> A <hi rend="underline">Thing</hi> never known to the <hi rend="underline">Muses</hi> or <hi rend="underline">Ph<unclear>oe</unclear>bus</hi>.</l><l n="9" xml:id="spp-716-S826-line-9"> The <hi rend="underline">Corruption</hi> of <hi rend="underline">Verse</hi>, for when all is done,</l><l n="10" xml:id="spp-716-S826-line-10"> It is but a <hi rend="underline">Paraphrase</hi> made on a <hi rend="underline">Pun</hi>.</l><l n="11" xml:id="spp-716-S826-line-11"> But a Genius like Her's, no Subject can stifle,</l><l n="12" xml:id="spp-716-S826-line-12"> It shows and discovers itself through a Trifle.<gap/><gap/></l><l n="13" xml:id="spp-716-S826-line-13"> Rich <hi rend="underline">Ladies</hi> will furnish their <hi rend="underline">Garrets</hi> with Stuff,</l><l n="14" xml:id="spp-716-S826-line-14"> Which others for <hi rend="underline">Chambers</hi> wou'd think fine enough.</l><l n="15" xml:id="spp-716-S826-line-15"> And the Wit that is lavishly thrown away here,</l><l n="16" xml:id="spp-716-S826-line-16"> Might furnish a <hi rend="underline">Second-Rate-Poet</hi> a Year.</l><l n="17" xml:id="spp-716-S826-line-17"> So much for the Verse; but proceed we the next</l><l n="18" xml:id="spp-716-S826-line-18"> Where the <hi rend="underline">Nymph</hi> has entirely forsaken her <hi rend="underline">Text</hi>.</l><l n="19" xml:id="spp-716-S826-line-19"> The Changes which <hi rend="underline">Faction</hi> has made in the <hi rend="underline">State</hi>,</l><l n="20" xml:id="spp-716-S826-line-20"> Has knock'd the <hi rend="underline">Dean</hi>'s Politicks quite out of Date.</l><l n="21" xml:id="spp-716-S826-line-21"> Her fine <hi rend="underline">Panegyricks</hi> are quite out of Season,</l><l n="22" xml:id="spp-716-S826-line-22"> And what she describes to be <hi rend="underline">Merit</hi> is <hi rend="underline">Treason</hi>.</l><l n="23" xml:id="spp-716-S826-line-23"> Now no one regards what he utters with <hi rend="underline">Freedom</hi>,</l><l n="24" xml:id="spp-716-S826-line-24"> And shou'd he write <hi rend="underline">Pamphlets</hi> no Great Man wou'd read 'em.</l><l n="25" xml:id="spp-716-S826-line-25"> Nay, shou'd <hi rend="underline">Want</hi> or <hi rend="underline">Desert</hi> stand in need of his Aid,</l><l n="26" xml:id="spp-716-S826-line-26"> This <hi rend="underline">Racer</hi> wou'd prove but a dull, founder'd <hi rend="underline">Jade</hi>.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

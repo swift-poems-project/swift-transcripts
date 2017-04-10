@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">D──n J───────</hi>'s A<hi rend="SMALL-CAPS">NSWER</hi> to <hi rend="underline">Sh──────n</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="994B35D-" type="poem"><head type="note" n="1" xml:id="spp-994B35D--headnote-1"><lg n="1" xml:id="spp-994B35D--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-994B35D--headnote-1-line-group-1-line-1"><hi rend="underline">My Verse little better, you'll find than my Face is,</hi></l><lg n="2" xml:id="spp-994B35D--headnote-1-line-group-2" type="headnote"><l n="1" xml:id="spp-994B35D--headnote-1-line-group-2-line-1"><hi rend="underline">A Word to the Wise</hi>, ut Pictura Poesis.</l></lg></lg></head><head type="note" n="2" xml:id="spp-994B35D--headnote-2"><lg n="1" xml:id="spp-994B35D--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-994B35D--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-994B35D--headnote-3"><lg n="1" xml:id="spp-994B35D--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-994B35D--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-994B35D--line-1"><hi rend="display-initial">T</hi>H<hi rend="SMALL-CAPS">REE</hi> merry Lads, with Envy stung,</l><l n="2" xml:id="spp-994B35D--line-2"> Because <hi rend="underline">Dan</hi>'s Face is better hung.</l><l n="3" xml:id="spp-994B35D--line-3"> Combin'd in Verse to rhyme it down,</l><l n="4" xml:id="spp-994B35D--line-4"> And in its Place set up their own.</l><l n="5" xml:id="spp-994B35D--line-5"> As if they'd run it down much better</l><l n="6" xml:id="spp-994B35D--line-6"> By Numbers of their Feet in Metre;</l><l n="7" xml:id="spp-994B35D--line-7"> Or that it's <hi rend="underline">Red</hi> did cause their Spite,</l><l n="8" xml:id="spp-994B35D--line-8"> Which made them Draw in <hi rend="underline">Black</hi> and <hi rend="underline">White</hi>.</l><l n="9" xml:id="spp-994B35D--line-9"> Be that as 'twill, this is most true,</l><l n="10" xml:id="spp-994B35D--line-10"> They were inspir'd by what they drew.</l><l n="11" xml:id="spp-994B35D--line-11"> Let then such Criticks know my Face,</l><l n="12" xml:id="spp-994B35D--line-12"> Gives them their Comliness and Grace.</l><l n="13" xml:id="spp-994B35D--line-13"> Whilst ev'ry Line of Face does bring,</l><l n="14" xml:id="spp-994B35D--line-14"> A Line of Grace to what they sing.</l><l n="15" xml:id="spp-994B35D--line-15"> But yet, methinks, tho' with Disgrace</l><l n="16" xml:id="spp-994B35D--line-16"> Both to the Picture and the Face,</l><l n="17" xml:id="spp-994B35D--line-17"> I shou'd name the Men, who do rehearse</l><l n="18" xml:id="spp-994B35D--line-18"> The Story of the Picture-Farce.</l><l n="19" xml:id="spp-994B35D--line-19"> The Squire in <hi rend="underline">French</hi> as hard as Stone,</l><l n="20" xml:id="spp-994B35D--line-20"> Or strong as Rock, that's all as One.</l><l n="21" xml:id="spp-994B35D--line-21"> On Face and Cards is very brisk Sirs,</l><l n="22" xml:id="spp-994B35D--line-22"> Because on them you play at Whisk, Sirs.</l><l n="23" xml:id="spp-994B35D--line-23"> But much I wonder, why my Crany</l><l n="24" xml:id="spp-994B35D--line-24"> Shou'd envy'd be, by <hi rend="underline">De'-el──any</hi>.</l><l n="25" xml:id="spp-994B35D--line-25"> And yet much more; that half Name-sake,</l><l n="26" xml:id="spp-994B35D--line-26"> Shou'd join a Party in the Freak.</l><l n="27" xml:id="spp-994B35D--line-27"> For sure I am, that it was not safe,</l><l n="28" xml:id="spp-994B35D--line-28"> Thus to abuse his better Half.</l><l n="29" xml:id="spp-994B35D--line-29"> As I shall prove you, <hi rend="underline">Dan</hi> to be<hi rend="underline">Divisim</hi> and Conjunctively.</l><l n="30" xml:id="spp-994B35D--line-30"> For if <hi rend="underline">Dan</hi> love not <hi rend="underline">Sherry</hi>, can<hi rend="underline">Sherry</hi> be any thing to <hi rend="underline">Dan</hi>?</l><l n="31" xml:id="spp-994B35D--line-31"> This is the Case, whence you see<hi rend="underline">Dan</hi> makes nothing of <hi rend="underline">Sherry</hi>.</l><l n="32" xml:id="spp-994B35D--line-32"> Or shou'd <hi rend="underline">Dan</hi> be by <hi rend="underline">Sherry</hi> o'retane,</l><l n="33" xml:id="spp-994B35D--line-33"> Then <hi rend="underline">Dan</hi> wou'd be poor <hi rend="underline">Sheridane</hi>.</l><l n="34" xml:id="spp-994B35D--line-34"> 'Tis hard then he shou'd be decry'd</l><l n="35" xml:id="spp-994B35D--line-35"> By <hi rend="underline">Dan</hi>, with <hi rend="underline">Sherry</hi> by his Side.</l><l n="36" xml:id="spp-994B35D--line-36"> But if the Case must be so hard,</l><l n="37" xml:id="spp-994B35D--line-37"> That Faces suffer by a Card:</l><l n="38" xml:id="spp-994B35D--line-38"> Let Criticks censure, what care I,</l><l n="39" xml:id="spp-994B35D--line-39"> Backbiters only we defy,</l><l n="40" xml:id="spp-994B35D--line-40"> Faces are free from Injury.994B35D-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

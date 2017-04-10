@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the D────of M:·gue being made Mas<hi rend="sup">r</hi> of the Red Ribbon:──1725</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="!W47912A" type="poem"><head type="note" n="1" xml:id="spp-!W47912A-headnote-1"><lg n="1" xml:id="spp-!W47912A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-!W47912A-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-!W47912A-headnote-2"><lg n="1" xml:id="spp-!W47912A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-!W47912A-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-!W47912A-headnote-3"><lg n="1" xml:id="spp-!W47912A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-!W47912A-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-!W47912A-line-1"> Your Naturalists hold a formation of Parts&#13;</l><l n="2" xml:id="spp-!W47912A-line-2"> Which Jncline some to science &amp; others to arts</l><l n="3" xml:id="spp-!W47912A-line-3"> that a certain Contexture of fibres will make</l><l n="4" xml:id="spp-!W47912A-line-4"> a Learned Divine &amp;c Contra a Rake:</l><l n="5" xml:id="spp-!W47912A-line-5"> hence some will pronounce from the boys choice of Play</l><l n="6" xml:id="spp-!W47912A-line-6"> that hell prove a Cheif Iustice Or Genr'all one day</l><l n="7" xml:id="spp-!W47912A-line-7"> hence y<hi rend="sup">t</hi> man is timrous: &amp; this all for fighting</l><l n="8" xml:id="spp-!W47912A-line-8"> thus Vanbrugh's for building &amp; M:──gue Knighting</l><l n="9" xml:id="spp-!W47912A-line-9"> Swift tells you y<hi rend="sup">t</hi> Van built with Cards for a While</l><l n="10" xml:id="spp-!W47912A-line-10"> then dealt in dirt castles then Attempted a pile</l><l n="11" xml:id="spp-!W47912A-line-11"> Now his Grace: (God forbid J shd Cast an aspersion)</l><l n="12" xml:id="spp-!W47912A-line-12"> Practisd Knightg at first meerly for his Diversion</l><l n="13" xml:id="spp-!W47912A-line-13"> Tryd his hand on S<hi rend="sup">r</hi> James, but see w<hi rend="sup">t</hi> it has brought on</l><l n="14" xml:id="spp-!W47912A-line-14"> Six &amp; thirty bright starrs y<hi rend="sup">t</hi> old Newton Neer thought on</l><l n="15" xml:id="spp-!W47912A-line-15"> What praise is his Due Who from triffling w<hi rend="sup">th</hi> Baker</l><l n="16" xml:id="spp-!W47912A-line-16"> Shall become not a paultry Star gazer but Maker</l><l n="17" xml:id="spp-!W47912A-line-17"> For my part J own Nay J swear it by Castor</l><l n="18" xml:id="spp-!W47912A-line-18"> his title is Just for he's sure a great Master.!W47912A   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

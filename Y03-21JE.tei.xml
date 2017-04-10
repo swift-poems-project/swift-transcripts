@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The PUPPET-SHOW, a Poem publish'd at Dublin.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-Y03-21JE-footnote-1 #spp-Y03-21JE-line-29"/>
+        </linkGrp>
+        <div n="Y03-21JE" type="poem"><head type="note" n="1" xml:id="spp-Y03-21JE-headnote-1"><lg n="1" xml:id="spp-Y03-21JE-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y03-21JE-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y03-21JE-headnote-2"><lg n="1" xml:id="spp-Y03-21JE-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y03-21JE-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y03-21JE-headnote-3"><lg n="1" xml:id="spp-Y03-21JE-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y03-21JE-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y03-21JE-line-1"><hi rend="display-initial">T</hi>HE Life of Man to represent,And turn it all to Ridicule,<hi rend="underline">Wit</hi> did a <hi rend="underline">Puppit-show</hi> invent,Where the <hi rend="underline">Chief Actor</hi> is a <hi rend="underline">Fool</hi>.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-Y03-21JE-line-2">The <hi rend="underline">Gods</hi> of Old were Logs of Wood,And Worship was to <hi rend="underline">Puppets</hi> paid,</l><l n="3" xml:id="spp-Y03-21JE-line-3"> In Antick Dress the <hi rend="underline">Idol</hi> stood,And <hi rend="underline">Priests</hi> and <hi rend="underline">People</hi> bow'd the Head.</l></lg><lg n="3" type="stanza"><l n="4" xml:id="spp-Y03-21JE-line-4">No wonder then if <hi rend="underline">ART</hi> began,The simple Votaries to frame,</l><l n="5" xml:id="spp-Y03-21JE-line-5"> To shape in <hi rend="underline">Timber</hi> foolish Man,And consecrate the <hi rend="underline">Block</hi> to Fame.</l></lg><lg n="4" type="stanza"><l n="6" xml:id="spp-Y03-21JE-line-6">From hence Poetick Fancy learn'd,&#13;That Trees might rise from Human Forms,</l><l n="7" xml:id="spp-Y03-21JE-line-7"> The Body to a Trunk be turn'd,And Branches issue from the Arms.</l></lg><lg n="5" type="stanza"><l n="8" xml:id="spp-Y03-21JE-line-8">Thus <hi rend="underline">D<unclear>ae</unclear>dalus</hi> and <hi rend="underline">Ovid</hi> too,That <hi rend="underline">Man</hi>'s a <hi rend="underline">Blockhead</hi> have confest,<hi rend="underline">Powel</hi> and <hi rend="underline">Stretch</hi> the Hint pursue,Life is a <hi rend="underline">Farce</hi>, the World a Jest.</l></lg><lg n="6" type="stanza"><l n="9" xml:id="spp-Y03-21JE-line-9">The same great Truth <hi rend="underline">South Sea</hi> has prov'd,On that fam'd <hi rend="underline">Theatre</hi> the <hi rend="underline">Ally</hi>,</l><l n="10" xml:id="spp-Y03-21JE-line-10"> Where Thousands by <hi rend="underline">Directors</hi> mov'dAre now sad Monuments of Folly.</l></lg><lg n="7" type="stanza"><l n="11" xml:id="spp-Y03-21JE-line-11">What <hi rend="underline">Momus</hi> was of old to <hi rend="underline">Jove</hi>The same a <hi rend="underline">Harliquin</hi> is now,</l><l n="12" xml:id="spp-Y03-21JE-line-12"> The Former was <hi rend="underline">Buffoon</hi> aboveThe Latter is a <hi rend="underline">Punch</hi> below.</l></lg><lg n="8" type="stanza"><l n="13" xml:id="spp-Y03-21JE-line-13">This Fleeting-Scene is but a Stage,&#13;Where various Images appear,</l><l n="14" xml:id="spp-Y03-21JE-line-14"> In different Parts of Youth and AgeAlike the <hi rend="underline">Prince</hi> and <hi rend="underline">Peasant</hi> share.</l></lg><lg n="9" type="stanza"><l n="15" xml:id="spp-Y03-21JE-line-15">Some draw our Eyes by being Great,&#13;False Pomp conceals mere Wood within,</l><l n="16" xml:id="spp-Y03-21JE-line-16"> And <hi rend="underline">Legislators</hi> rang'd in StateAre oft but Wisdom in <hi rend="underline">Machine</hi>.</l></lg><lg n="10" type="stanza"><l n="17" xml:id="spp-Y03-21JE-line-17">A Stock may chance to wear a Crown,&#13;And <hi rend="underline">Timber</hi> as a Lord take Place,</l><l n="18" xml:id="spp-Y03-21JE-line-18"> A <hi rend="underline">Statue</hi> may put on a FrownAnd cheat us with a thinking Face.</l></lg><lg n="11" type="stanza"><l n="19" xml:id="spp-Y03-21JE-line-19">Others are blindly led away,&#13;And made to act for Ends unknown,</l><l n="20" xml:id="spp-Y03-21JE-line-20"> By the mere Spring of Wires they playAnd speak in Language not their own.</l></lg><lg n="12" type="stanza"><l n="21" xml:id="spp-Y03-21JE-line-21">Too oft, alas! a Scolding Wife&#13;Usurps a Jolly Fellow's Throne,</l><l n="22" xml:id="spp-Y03-21JE-line-22"> And many drink the Cup of Life,Mix't and Embitter'd by a JOAN.</l></lg><lg n="13" type="stanza"><l n="23" xml:id="spp-Y03-21JE-line-23">In short, whatever Men pursue&#13;Of Pleasure, Folly, War, or Love,</l><l n="24" xml:id="spp-Y03-21JE-line-24"> This Mimick-Race brings all to View,Alike they dress, they talk, they move.</l></lg><lg n="14" type="stanza"><l n="25" xml:id="spp-Y03-21JE-line-25">Go on, Great <hi rend="underline">Stretch</hi>, with Artful Hand,Mortals to please and to deride,</l><l n="26" xml:id="spp-Y03-21JE-line-26"> And when Death breaks thy Vital Band,Thou shalt put on a <hi rend="underline">Puppet</hi>'s Pride.</l></lg><lg n="15" type="stanza"><l n="27" xml:id="spp-Y03-21JE-line-27">Thou shalt in Puny Wood be shewn,&#13;Thy Image shall preserve thy Fame,</l><l n="28" xml:id="spp-Y03-21JE-line-28"> Ages to come thy Worth shall own,Point at thy Limbs, and tell thy Name.</l></lg><lg n="16" type="stanza"><l n="29" xml:id="spp-Y03-21JE-line-29">Tell TOM he draws a <hi rend="underline">Farce</hi> in vain, <ref target="#spp-Y03-21JE-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-Y03-21JE-footnote-1">Mr. <hi rend="underline">Sheridan</hi>, who lately wrote a Farce, call'd <hi rend="underline">Punch turn'd School-master</hi>.</note>Before he looks in Nature's Glass,<hi rend="underline">Puns</hi> cannot form a Witty Scene,Nor <hi rend="underline">Pedantry</hi> for Humour pass.</l></lg><lg n="17" type="stanza"><l n="30" xml:id="spp-Y03-21JE-line-30">To make Men act as senseless Wood,&#13;And chatter in a Mystick Strain,</l><l n="31" xml:id="spp-Y03-21JE-line-31"> Is a mere Force on Flesh and Blood,And shews some Error in the Brain.</l></lg><lg n="18" type="stanza"><l n="32" xml:id="spp-Y03-21JE-line-32">He that wou'd thus refine on thee,&#13;And turn thy Stage into a School,</l><l n="33" xml:id="spp-Y03-21JE-line-33"> The jest of <hi rend="underline">Punch</hi> shall ever be,And Stand confest the greater Fool.Y03-21JE   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

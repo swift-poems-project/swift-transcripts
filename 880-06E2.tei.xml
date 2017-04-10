@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A PASTORAL DIALOGUE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-880-06E2-footnote-1 #spp-880-06E2-line-2"/>
+          <link target="#spp-880-06E2-footnote-1 #spp-880-06E2-line-18"/>
+          <link target="#spp-880-06E2-footnote-1 #spp-880-06E2-line-31"/>
+        </linkGrp>
+        <div n="880-06E2"><head type="note" n="1" xml:id="spp-880-06E2-headnote-1"><lg n="1" xml:id="spp-880-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-880-06E2-headnote-1-line-group-1-line-1">Written in the year 1728.&#13;</l></lg></head><head type="note" n="2" xml:id="spp-880-06E2-headnote-2"><lg n="1" xml:id="spp-880-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-880-06E2-headnote-2-line-group-1-line-1">DERMOT, SHEELAH.</l></lg></head><head type="note" n="3" xml:id="spp-880-06E2-headnote-3"><lg n="1" xml:id="spp-880-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-880-06E2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-880-06E2-line-1"><hi rend="display-initial">A</hi> Nymph and swain, <hi rend="underline">Sheelah</hi> and <hi rend="underline">Dermot</hi> hight,</l><l/><l n="2" xml:id="spp-880-06E2-line-2">Who wont to weed the court of Gosford <hi rend="underline">Knight</hi><ref target="#spp-880-06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-880-06E2-footnote-1">Sir Arthur Acheson, whose great-grandfather was Sir Archibald of Gosford in Scotland.</note>,</l><l/><l n="3" xml:id="spp-880-06E2-line-3">While each with stubbed knife remov'd the roots</l><l/><l n="4" xml:id="spp-880-06E2-line-4">That rais'd between the stones their daily shoots;</l><l/><l n="5" xml:id="spp-880-06E2-line-5">As at their work they sat in counter·view,</l><l/><l n="6" xml:id="spp-880-06E2-line-6">With mutual beauty smit, their passion grew.</l><l/><l n="7" xml:id="spp-880-06E2-line-7">Sing, heavenly muse! in sweetly-flowing strain,</l><l/><l n="8" xml:id="spp-880-06E2-line-8">The soft endearments of the nymph and swain.</l><l/><l n="9" xml:id="spp-880-06E2-line-9"/></lg><lg n="2" type="stanza"><l><hi rend="underline">Der</hi>.·My love to Sheelah is more firmly fixt,</l><l/><l n="10" xml:id="spp-880-06E2-line-10">Than strongest weeds that grow these stones betwixt:</l><l/><l n="11" xml:id="spp-880-06E2-line-11">My spud these nettles from the stones can part,</l><l/><l n="12" xml:id="spp-880-06E2-line-12">No knife so keen to weed thee from my heart.</l><l/><l n="13" xml:id="spp-880-06E2-line-13"/></lg><lg n="3" type="stanza"><l><hi rend="underline">She</hi>.·My love for gentle Dermot faster grows,</l><l/><l n="14" xml:id="spp-880-06E2-line-14">Than yon tall dock that rises to thy nose.</l><l/><l n="15" xml:id="spp-880-06E2-line-15">Cut down the dock, 'twill sprout again; but oh!</l><l/><l n="16" xml:id="spp-880-06E2-line-16">Love rooted out, again will never grow.</l><l/><l n="17" xml:id="spp-880-06E2-line-17"/></lg><lg n="4" type="stanza"><l><hi rend="underline">Der</hi>.·No more that brier thy tender legs shall rake;</l><l/><l n="18" xml:id="spp-880-06E2-line-18">(I spare the thistle for Sir Arthur's <ref target="#spp-880-06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-880-06E2-footnote-1">Who is a great lover of Scotland.</note> sake).</l><l/><l n="19" xml:id="spp-880-06E2-line-19">Sharp are the stones; take thou this rushy mat;</l><l/><l n="20" xml:id="spp-880-06E2-line-20">The hardest bum will bruise with sitting squat.</l><l/><l n="21" xml:id="spp-880-06E2-line-21"/></lg><lg n="5" type="stanza"><l><hi rend="underline">She</hi>.·Thy breeches torn behind stand gaping wide;</l><l/><l n="22" xml:id="spp-880-06E2-line-22">This petticoat shall save thy dear backside:</l><l/><l n="23" xml:id="spp-880-06E2-line-23">Nor need I blush, although you feel it wet;</l><l/><l n="24" xml:id="spp-880-06E2-line-24">Dermot, I vow, 'tis nothing else but sweat.</l><l/><l n="25" xml:id="spp-880-06E2-line-25"/></lg><lg n="6" type="stanza"><l><hi rend="underline">Der</hi>.·At an old stubborn root I chanc'd to tug,</l><l/><l n="26" xml:id="spp-880-06E2-line-26">When the Dean threw me this tobacco plug;</l><l/><l n="27" xml:id="spp-880-06E2-line-27">A longer ha'-p'orth never did I see;</l><l/><l n="28" xml:id="spp-880-06E2-line-28">This, dearest Sheelah, thou shalt share with me.</l><l/><l n="29" xml:id="spp-880-06E2-line-29"/></lg><lg n="7" type="stanza"><l><hi rend="underline">She</hi>.·In at the pantry-door this morn I slipt,</l><l/><l n="30" xml:id="spp-880-06E2-line-30">And from the shelf a charming crust I whipt;</l><l/><l n="31" xml:id="spp-880-06E2-line-31">Dennis <ref target="#spp-880-06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-880-06E2-footnote-1">Sir Arthur's butler.</note> was out, and I got hither safe;</l><l/><l n="32" xml:id="spp-880-06E2-line-32">And thou, my dear, shalt have the bigger half.</l><l/><l n="33" xml:id="spp-880-06E2-line-33"/></lg><lg n="8" type="stanza"><l><hi rend="underline">Der</hi>.·When you saw Tady at long-bullets play,</l><l/><l n="34" xml:id="spp-880-06E2-line-34">You sat and lous'd him all the sun-shine day.</l><l/><l n="35" xml:id="spp-880-06E2-line-35">How could you, Sheelah, listen to his tales,</l><l/><l n="36" xml:id="spp-880-06E2-line-36">Or crack such lice as his between your nails?</l><l/><l n="37" xml:id="spp-880-06E2-line-37"/></lg><lg n="9" type="stanza"><l><hi rend="underline">She</hi>.·When you with Oonah stood behind a ditch,</l><l/><l n="38" xml:id="spp-880-06E2-line-38">I peep'd, and saw you kiss the dirty bitch.</l><l/><l n="39" xml:id="spp-880-06E2-line-39">Dermot, how could you touch those nasty sluts!</l><l/><l n="40" xml:id="spp-880-06E2-line-40">I almost wish'd this spud were in your guts.</l><l/><l n="41" xml:id="spp-880-06E2-line-41"/></lg><lg n="10" type="stanza"><l><hi rend="underline">Der</hi>.·If Oonah once I kiss'd, forbear to chide:</l><l/><l n="42" xml:id="spp-880-06E2-line-42">Her aunt's my gossip by my father's side:</l><l/><l n="43" xml:id="spp-880-06E2-line-43">But if I ever touch her lips again,</l><l/><l n="44" xml:id="spp-880-06E2-line-44">May I be doom'd for life to weed in rain.</l><l/><l n="45" xml:id="spp-880-06E2-line-45"/></lg><lg n="11" type="stanza"><l><hi rend="underline">She</hi>.·Dermot, I swear though Tady's locks could hold</l><l/><l n="46" xml:id="spp-880-06E2-line-46">Ten thousand lice, and ev'ry louse was gold,</l><l/><l n="47" xml:id="spp-880-06E2-line-47">Him on my lap you never more should see;</l><l/><l n="48" xml:id="spp-880-06E2-line-48">Or may I lose my weeding-knife────and thee.</l><l/><l n="49" xml:id="spp-880-06E2-line-49"/></lg><lg n="12" type="stanza"><l><hi rend="underline">Der</hi>.·Oh! could I earn for thee, my lovely lass,</l><l/><l n="50" xml:id="spp-880-06E2-line-50">A pair of brogues to bear thee dry to mass!</l><l/><l n="51" xml:id="spp-880-06E2-line-51">But see where Norah with the sowins comes────</l><l/><l n="52" xml:id="spp-880-06E2-line-52">Then let us rise, and rest our weary bums.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

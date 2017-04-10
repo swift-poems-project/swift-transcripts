@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R544500B" type="poem"><head type="note" n="1" xml:id="spp-R544500B-headnote-1"><lg n="1" xml:id="spp-R544500B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-R544500B-headnote-1-line-group-1-line-1">Thus \<hi rend="underline">del</hi> is eo e vere manas his <hi rend="underline">ins</hi> do alumen <hi rend="underline">del</hi> as <hi rend="underline">ins</hi> iustas\ nat ure ope rates. An ape has histxix justas Dic has; ij et Dic has it, hinc more malis: Forma lis in an apis di ver tingat \<hi rend="underline">ins</hi> ani <hi rend="underline">del</hi> sum\ times, in Dic\<hi rend="underline">ins</hi>at\ n\<hi rend="underline">del</hi>e<hi rend="underline">ins</hi>o <hi rend="underline">del</hi>ver <hi rend="underline">ins</hi> time\. Ure ver\<hi rend="underline">del</hi>ses <hi rend="underline">ins</hi> C\aesar\ fine Imus tone\ Illico me, min nare \<hi rend="underline">del</hi> as <hi rend="underline">ins</hi> almo Stas\ fine præ rea dum  a spe rex ample</l></lg></head><head type="note" n="2" xml:id="spp-R544500B-headnote-2"><lg n="1" xml:id="spp-R544500B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-R544500B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-R544500B-headnote-3"><lg n="1" xml:id="spp-R544500B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-R544500B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-R544500B-line-1"> A sui ne is abuti cum par ito Dic&#13;</l><l n="2" xml:id="spp-R544500B-line-2"> A Site offis fis it mite me cacat sic</l><l n="3" xml:id="spp-R544500B-line-3"> Rediri no at est ter, a quarto fine ale</l><l n="4" xml:id="spp-R544500B-line-4"> Fora ringat his no se, an da stringat his tale.R544500B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

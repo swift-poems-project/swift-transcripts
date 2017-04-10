@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ONYONS.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="952B0801"><head type="note" n="1" xml:id="spp-952B0801-headnote-1"><lg n="1" xml:id="spp-952B0801-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-952B0801-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-952B0801-headnote-2"><lg n="1" xml:id="spp-952B0801-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-952B0801-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-952B0801-headnote-3"><lg n="1" xml:id="spp-952B0801-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-952B0801-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-952B0801-line-1"><hi rend="display-initial">C</hi>OME, follow me by the Smell,</l><l/><l n="2" xml:id="spp-952B0801-line-2">Here's delicate Onyons to sell,</l><l/><l n="3" xml:id="spp-952B0801-line-3">I promise to use you well.</l><l/><l n="4" xml:id="spp-952B0801-line-4">They make the Blood warmer,</l><l/><l n="5" xml:id="spp-952B0801-line-5">You'll feed like a Farmer:</l><l/><l n="6" xml:id="spp-952B0801-line-6">For this is ev'ry Cook's Opinion,</l><l/><l n="7" xml:id="spp-952B0801-line-7">No sav'ry Dish without an Onyon;</l><l/><l n="8" xml:id="spp-952B0801-line-8">But lest your Kissing should be spoyl'd,</l><l/><l n="9" xml:id="spp-952B0801-line-9">Your Onyons must be th'roughly boyl'd;</l><l/><l n="10" xml:id="spp-952B0801-line-10">Or else you may spare</l><l/><l n="11" xml:id="spp-952B0801-line-11">Your Mistress a Share,</l><l/><l n="12" xml:id="spp-952B0801-line-12">The Secret will never be known;</l><l/><l n="13" xml:id="spp-952B0801-line-13">She cannot discover</l><l/><l n="14" xml:id="spp-952B0801-line-14">The Breath of her Lover,</l><l/><l n="15" xml:id="spp-952B0801-line-15">But think it as sweet as her own.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

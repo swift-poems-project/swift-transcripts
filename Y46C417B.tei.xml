@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y46C417B" type="poem"><head type="note" n="1" xml:id="spp-Y46C417B-headnote-1"><lg n="1" xml:id="spp-Y46C417B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y46C417B-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y46C417B-headnote-2"><lg n="1" xml:id="spp-Y46C417B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y46C417B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y46C417B-headnote-3"><lg n="1" xml:id="spp-Y46C417B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y46C417B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y46C417B-line-1"> Thanks for this Miracle.──for 'tis no less,&#13;</l><l n="2" xml:id="spp-Y46C417B-line-2"> Meat here's like Manna in the Wilderness.</l><l n="3" xml:id="spp-Y46C417B-line-3"> In th' house of Famine we have found relief,</l><l n="4" xml:id="spp-Y46C417B-line-4"> And seen the wonders of a Chine of beef;</l><l n="5" xml:id="spp-Y46C417B-line-5"> Chimneys have smoked, w<hi rend="sup">ch</hi> never smok'd before,</l><l n="6" xml:id="spp-Y46C417B-line-6"> And we have eat, where we shall eat────no moreY46C417B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

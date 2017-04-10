@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A DESof a CITY<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-136-0204-footnote-1 #spp-136-0204-line-25"/>
+          <link target="#spp-136-0204-footnote-2 #spp-136-0204-line-39"/>
+          <link target="#spp-136-0204-footnote-3 #spp-136-0204-line-57"/>
+        </linkGrp>
+        <div n="136-0204" type="poem"><head type="note" n="1" xml:id="spp-136-0204-headnote-1"><lg n="1" xml:id="spp-136-0204-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-136-0204-headnote-1-line-group-1-line-1">Written in the Year 1712.</l></lg></head><head type="note" n="2" xml:id="spp-136-0204-headnote-2"><lg n="1" xml:id="spp-136-0204-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-136-0204-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-136-0204-headnote-3"><lg n="1" xml:id="spp-136-0204-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-136-0204-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-136-0204-line-1"><hi rend="display-initial">C</hi>AREFUL Observers may foretel the Hour,</l><l n="2" xml:id="spp-136-0204-line-2"> By sure Prognosticks, when to dread a Show'r.</l><l n="3" xml:id="spp-136-0204-line-3"> While Rain depends, the pensive Cat gives o'er</l><l n="4" xml:id="spp-136-0204-line-4"> Her Frolicks, and pursues her Tale no more.</l><l n="5" xml:id="spp-136-0204-line-5"> Returning Home at Night you find the Sink</l><l n="6" xml:id="spp-136-0204-line-6"> Strike your offended Sense with double Stink.</l><l n="7" xml:id="spp-136-0204-line-7"> If you be wise, then go not far to dine,</l><l n="8" xml:id="spp-136-0204-line-8"> You spend in Coach-hire more than save in Wine.</l><l n="9" xml:id="spp-136-0204-line-9"> A coming Show'r your shooting Corns presage;</l><l n="10" xml:id="spp-136-0204-line-10"> Old Aches throb, your hollow Tooth will rage:</l><l n="11" xml:id="spp-136-0204-line-11"> Saunt'ring in Coffee-house is <hi rend="underline">Dulman</hi> seen,</l><l n="12" xml:id="spp-136-0204-line-12"> He damns the Climate, and complains of <hi rend="underline">Spleen</hi>.</l></lg><lg n="2" type="stanza"><l n="13" xml:id="spp-136-0204-line-13">Mean while the South, rising with dabbled Wings,&#13;</l><l n="14" xml:id="spp-136-0204-line-14"> A sable Cloud athwart the Welkin flings;</l><l n="15" xml:id="spp-136-0204-line-15"> That swill'd more Liquor than it could contain,</l><l n="16" xml:id="spp-136-0204-line-16"> And like a Drunkard gives it up again.</l><l n="17" xml:id="spp-136-0204-line-17"> Brisk <hi rend="underline">Susan</hi> whips her Linen from the Rope,</l><l n="18" xml:id="spp-136-0204-line-18"> While the first drizzling Show'r is borne aslope:</l><l n="19" xml:id="spp-136-0204-line-19"> Such is that Sprinkling which some careless Quean</l><l n="20" xml:id="spp-136-0204-line-20"> Flirts on you from her Mop; but not so clean:</l><l n="21" xml:id="spp-136-0204-line-21"> You fly, invoke the Gods; then turning stop</l><l n="22" xml:id="spp-136-0204-line-22"> To rail; she singing still whirls on her Mop.</l><l n="23" xml:id="spp-136-0204-line-23"> Nor yet the Dust had shunn'd th' unequal Strife,</l><l n="24" xml:id="spp-136-0204-line-24"> But, aided by the Wind, sought still for Life;</l><l n="25" xml:id="spp-136-0204-line-25"> And wafted with its Foe by vi'lent Gust,<ref target="#spp-136-0204-footnote-1">1</ref><note rend="flush right" place="foot" n="1" xml:id="spp-136-0204-footnote-1">'Twas doubtful which was Sea, and which was Sky.<hi rend="underline">Garth. Disp</hi>.</note>'Twas doubtful which was Rain, and which was Dust.</l><l n="26" xml:id="spp-136-0204-line-26"> Ah! where must needy Poet seek for Aid,</l><l n="27" xml:id="spp-136-0204-line-27"> When Dust and Rain at once his Coat invade?</l><l n="28" xml:id="spp-136-0204-line-28"> Sole Coat, where Dust, cemented by the Rain,</l><l n="29" xml:id="spp-136-0204-line-29"> Erects the Nap, and leaves a cloudy Stain.</l></lg><lg n="3" type="triplet"><l n="30" xml:id="spp-136-0204-line-30">Now, in contiguous Drops the Flood comes down,&#13;</l><l n="31" xml:id="spp-136-0204-line-31"> Threat'ning with Deluge this <hi rend="underline">devoted</hi> Town.</l><l n="32" xml:id="spp-136-0204-line-32"> To Shops in Crowds the daggled Females fly,</l><l n="33" xml:id="spp-136-0204-line-33"> Pretend to cheapen Goods; but nothing buy.</l><l n="34" xml:id="spp-136-0204-line-34"> The Templar spruce, while ev'ry Spout's abroach,</l><l n="35" xml:id="spp-136-0204-line-35"> Stays till 'tis fair, yet <hi rend="underline">seems</hi> to call a Coach.</l><l n="36" xml:id="spp-136-0204-line-36"> The tuck'd-up Sempstress walks with hasty Strides,</l><l n="37" xml:id="spp-136-0204-line-37"> While Streams run down her oil'd Umbrella's Sides.</l><l n="38" xml:id="spp-136-0204-line-38"> Here various Kinds, by various Fortunes led,</l><l n="39" xml:id="spp-136-0204-line-39"> Commence Acquaintance underneath a Shed.<ref target="#spp-136-0204-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-136-0204-footnote-2"><hi rend="underline">N.B</hi>. This was the first Year of the Earl of <hi rend="underline">Oxford</hi>'s Ministry in Queen <hi rend="underline">Anne</hi>'s Reign.</note> Triumphant Tories, and desponding Whigs,</l><l n="40" xml:id="spp-136-0204-line-40"> Forget their Feuds, and join to save their Wigs.</l><l n="41" xml:id="spp-136-0204-line-41"> Box'd in a Chair the Beau impatient sits,</l><l n="42" xml:id="spp-136-0204-line-42"> While Spouts run clatt'ring o'er the Roof by Fits;</l><l n="43" xml:id="spp-136-0204-line-43"> And ever and anon with frightful Din</l><l n="44" xml:id="spp-136-0204-line-44"> The Leather sounds; he trembles from within.</l><l n="45" xml:id="spp-136-0204-line-45"> So when <hi rend="underline">Troy</hi> Chairmen bore the wooden Steed,</l><l n="46" xml:id="spp-136-0204-line-46"> Pregnant with <hi rend="underline">Greeks</hi>, impatient to be freed;</l><l n="47" xml:id="spp-136-0204-line-47"> (Those Bully <hi rend="underline">Greeks</hi>, who as Moderns do,</l><l n="48" xml:id="spp-136-0204-line-48"> Instead of paying Chairmen, run them thro')<hi rend="underline">Laocoon</hi> struck the Out-side with his Spear,</l><l n="49" xml:id="spp-136-0204-line-49"> And each imprison'd Hero quak'd for Fear.Now from all Parts the swelling Kennels flow,</l><l n="50" xml:id="spp-136-0204-line-50"> And bear their Trophies with them as they go:</l><l n="51" xml:id="spp-136-0204-line-51"> Filths of all Hues and Odours seem to tell</l><l n="52" xml:id="spp-136-0204-line-52"> What Streets they sail'd from, by the Sight and Smell,</l><l n="53" xml:id="spp-136-0204-line-53"> They, as each Torrent drives with rapid Force</l><l n="54" xml:id="spp-136-0204-line-54"> From <hi rend="underline">Smithfield</hi>, or <hi rend="underline">St. Pulchre</hi>'s shape their Course;</l><l n="55" xml:id="spp-136-0204-line-55"> And in huge Confluence join at <hi rend="underline">Snow-hill</hi> Ridge,</l><l n="56" xml:id="spp-136-0204-line-56"> Fall from the <hi rend="underline">Conduit</hi> prone to <hi rend="underline">Holbourn-Bridge</hi>.</l><l n="57" xml:id="spp-136-0204-line-57"> "<ref target="#spp-136-0204-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-136-0204-footnote-3">These three last Lines were intended against that licentious Manner of modern Poets, in making three Rhimes together, which they call <hi rend="underline">Triplets</hi>; and the last of the three was two, or sometimes more <hi rend="underline">Syllables</hi> longer, called an <hi rend="underline">Alexandrine</hi>. These <hi rend="underline">Triplets</hi> and <hi rend="underline">Alexandrines</hi> were brought in by <hi rend="underline">Dryden</hi>, and other Poets in the Reign of <hi rend="underline">Charles</hi> II. They were the mere Effects of Haste, Idleness, and want of Money; and have been wholly avoided by the best Poets, since these Verses were written.</note> Sweepings from Butchers Stalls, Dung, Guts, and Blood,</l><l n="58" xml:id="spp-136-0204-line-58"> Drown'd Puppies, stinking Sprats, all drench'd in Mud,</l><l n="59" xml:id="spp-136-0204-line-59"> Dead Cats, and Turnip-Tops come tumbling down the Flood.136-0204   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

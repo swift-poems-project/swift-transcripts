@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vanbrug's House</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="079M457J" type="poem"><head type="note" n="1" xml:id="spp-079M457J-headnote-1"><lg n="1" xml:id="spp-079M457J-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-079M457J-headnote-1-line-group-1-line-1">An. 1703.</l></lg></head><head type="note" n="2" xml:id="spp-079M457J-headnote-2"><lg n="1" xml:id="spp-079M457J-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-079M457J-headnote-2-line-group-1-line-1">Built from the burnt Ruins of Whitehall.</l></lg></head><head type="note" n="3" xml:id="spp-079M457J-headnote-3"><lg n="1" xml:id="spp-079M457J-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-079M457J-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-079M457J-line-1"> In times of old, when Time was young,&#13;</l><l n="2" xml:id="spp-079M457J-line-2"> And Poets their own Verses sung,</l><l n="3" xml:id="spp-079M457J-line-3"> A Song could draw a Stone or Beam,</l><l n="4" xml:id="spp-079M457J-line-4"> That now would overload a Team,</l><l n="5" xml:id="spp-079M457J-line-5"> Lead them a Dance of many a Mile,</l><l n="6" xml:id="spp-079M457J-line-6"> Then rea<del>r</del>' em to a goodly Pile.</l><l n="7" xml:id="spp-079M457J-line-7"> Each Number had it's diff'rent Pow<unclear>inse</unclear>r;</l><l n="8" xml:id="spp-079M457J-line-8"> Heroick Strains could build a Tower;</l><l n="9" xml:id="spp-079M457J-line-9"> Sonnets and Elegyes to Chloris</l><l n="10" xml:id="spp-079M457J-line-10"> Would raise a House about two Storyes;</l><l n="11" xml:id="spp-079M457J-line-11"> A Lyrick Ode would Slate; a Catch</l><l n="12" xml:id="spp-079M457J-line-12"> Would Tile; an Epigram would Thatch.Now Poets find this Art is lost,</l><l n="13" xml:id="spp-079M457J-line-13"> Both to their own and Landlord's Cost;</l><l n="14" xml:id="spp-079M457J-line-14"> Not one of all the tunefull Throng</l><l n="15" xml:id="spp-079M457J-line-15"> Can·<unclear>something del hire a Lodging for a Song;</unclear></l><l n="16" xml:id="spp-079M457J-line-16"> For Iove consider'd well the Case,</l><l n="17" xml:id="spp-079M457J-line-17"> That Poets were a numerous Race;</l><l n="18" xml:id="spp-079M457J-line-18"> And if they all had Power to build,</l><l n="19" xml:id="spp-079M457J-line-19"> The Earth would very soon be filld:</l><l n="20" xml:id="spp-079M457J-line-20"> Materials would be quickly spent,</l><l n="21" xml:id="spp-079M457J-line-21"> And Houses would not give a Rent.</l><l n="22" xml:id="spp-079M457J-line-22"> The God of Wealth was therefore made</l><l n="23" xml:id="spp-079M457J-line-23"> Sole Patron of the building Trade,</l><l n="24" xml:id="spp-079M457J-line-24"> Leaving to Wits the spatious Air,</l><l n="25" xml:id="spp-079M457J-line-25"> With License to build Castles there;<del>And 'tis conceiv'd</del>, their old Pretence</l><l n="26" xml:id="spp-079M457J-line-26"> To lodge in Garrats comes from thence.There is a Worm by Ph<unclear>oe</unclear>bus bred,<unclear>By overAnd</unclear> Leaves of Mulberry is fed;</l><l n="27" xml:id="spp-079M457J-line-27"> Which unprovided where to dwell,</l><l n="28" xml:id="spp-079M457J-line-28"> Consumes it self to weave a Cell.</l><l n="29" xml:id="spp-079M457J-line-29"> Then curious Hands this Texture take,</l><l n="30" xml:id="spp-079M457J-line-30"> And for themselves fine Garments make</l><l n="31" xml:id="spp-079M457J-line-31"> Mean time a Pair of aukward Things</l><l n="32" xml:id="spp-079M457J-line-32"> Grew to his Back instead of Wings;</l><l n="33" xml:id="spp-079M457J-line-33"> He flutters when he Thinks he flyes,</l><l n="34" xml:id="spp-079M457J-line-34"> Then sheds about his Spaun, and dyes.Iust such an Insect of the Age</l><l n="35" xml:id="spp-079M457J-line-35"> Is he that scribbles for the Stage;</l><l n="36" xml:id="spp-079M457J-line-36"> His Birth he does from Ph<unclear>oe</unclear>bus raise,</l><l n="37" xml:id="spp-079M457J-line-37"> And feeds upon imagin'd Bays:</l><l n="38" xml:id="spp-079M457J-line-38"> Throws all his Witt and Hours away</l><l n="39" xml:id="spp-079M457J-line-39"> In twisting up an ill-spun Play:</l><l n="40" xml:id="spp-079M457J-line-40"> This <del>gives</del> him Lodging, and provides</l><l n="41" xml:id="spp-079M457J-line-41"> A Stock of tawdry Stuff besides,</l><l n="42" xml:id="spp-079M457J-line-42"> With the unravelld <del>Shreds</del> of which</l><l n="43" xml:id="spp-079M457J-line-43" rend="indent(1)"> The Under-wits adorn their Speech.<del>And now he</del> spreads his <unclear>ins caretlittle</unclear> Fans, <unclear>in margin between this line and 50: vertical line followed by  Thats not  right</unclear></l><l n="44" xml:id="spp-079M457J-line-44"> (For all the Muses Geese are Swans)</l><l n="45" xml:id="spp-079M457J-line-45"> And borne on fancy's Pinions, thinks</l><l n="46" xml:id="spp-079M457J-line-46"> He soars sublimest when he Sinks:</l><l n="47" xml:id="spp-079M457J-line-47"> But scatt'ring round his Fly-blows, dyes;</l><l n="48" xml:id="spp-079M457J-line-48"> Whence Broods of insect Poets rise.Premising thus in Modern way</l><l n="49" xml:id="spp-079M457J-line-49"> The greater half I had to say,</l><l n="50" xml:id="spp-079M457J-line-50"> Sing Muse the House of Poet Van</l><l n="51" xml:id="spp-079M457J-line-51"> In higher Strain than we began.Van, (for 'tis fit the Reader know it)</l><l n="52" xml:id="spp-079M457J-line-52"> Is both a Herald and a Poet;</l><l n="53" xml:id="spp-079M457J-line-53"> No wonder then, if nicely skill'd</l><l n="54" xml:id="spp-079M457J-line-54"> In <unclear>del something</unclear>·each Capacity to Build:</l><l n="55" xml:id="spp-079M457J-line-55"> As Herald, he can in a Day</l><l n="56" xml:id="spp-079M457J-line-56"> Repair a House gone to decay;</l><l n="57" xml:id="spp-079M457J-line-57"> Or by Atchievments, Arms, Device</l><l n="58" xml:id="spp-079M457J-line-58"> Erect a new one in a Trice;</l><l n="59" xml:id="spp-079M457J-line-59"> And Poets if they had their Due,</l><l n="60" xml:id="spp-079M457J-line-60"> By antient Right are Builders too.</l><l n="61" xml:id="spp-079M457J-line-61"> This made him to Apollo pray</l><l n="62" xml:id="spp-079M457J-line-62"> For Leave to build the Poet's Way.</l><l n="63" xml:id="spp-079M457J-line-63"> His Pray'r was granted, for the God</l><l n="64" xml:id="spp-079M457J-line-64"> Consented with the usuall Nod.</l><l n="65" xml:id="spp-079M457J-line-65"> After hard Throws of many a Day</l><l n="66" xml:id="spp-079M457J-line-66"> Van was deliver'<del>e</del>d of a Play,</l><l n="67" xml:id="spp-079M457J-line-67"> Which in due time brought forth a House;</l><l n="68" xml:id="spp-079M457J-line-68"> Just as the Mountain did the Mouse;</l><l n="69" xml:id="spp-079M457J-line-69"> One Story high, one postern Door,</l><l n="70" xml:id="spp-079M457J-line-70"> And one Small Chamber on a Floor.</l><l n="71" xml:id="spp-079M457J-line-71"> Born like a Ph<unclear>oe</unclear>nix from the Flame,</l><l n="72" xml:id="spp-079M457J-line-72"> But neither Bulk nor Shape the Same:</l><l n="73" xml:id="spp-079M457J-line-73"> As Animals of largest Size</l><l n="74" xml:id="spp-079M457J-line-74"> Corrupt to Maggots Worms and Flyes.</l><l n="75" xml:id="spp-079M457J-line-75"> A Type of Modern Witt and Style,</l><l n="76" xml:id="spp-079M457J-line-76"> The Rubbish of an antient Pile.</l><l n="77" xml:id="spp-079M457J-line-77"> So Chymists boast they have a Power</l><l n="78" xml:id="spp-079M457J-line-78"> From the dead Ashes of a Flow'r</l><l n="79" xml:id="spp-079M457J-line-79"> Some faint Resemblance to produce,</l><l n="80" xml:id="spp-079M457J-line-80"> But not the Virtue Tast nor Juyce.</l><l n="81" xml:id="spp-079M457J-line-81"> So, Modern <del>Rhymers strive to</del> blast</l><l n="82" xml:id="spp-079M457J-line-82"> The Poetry of <del>unreadable word</del> Ages past,</l><l n="83" xml:id="spp-079M457J-line-83"> Which having wisely overthrown,</l><l n="84" xml:id="spp-079M457J-line-84"> They from it's Ruins build their own.079M457J   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

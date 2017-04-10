@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Answer to the Ballyspellin Ballad</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="440-044L" type="poem"><head type="note" n="1" xml:id="spp-440-044L-headnote-1"><lg n="1" xml:id="spp-440-044L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-440-044L-headnote-1-line-group-1-line-1">We have a design upon Sheridan. He sent us in print a Ballad upon Ballyspelling, in which he has employd all the Rimes he could find to that word; but we have found fifteen more, and employd them in abuseing his Ballad, and Ballyspelling to, I here send you a Copy, and desire you will get it printed privatly, and published.</l></lg></head><head type="note" n="2" xml:id="spp-440-044L-headnote-2"><lg n="1" xml:id="spp-440-044L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-440-044L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-440-044L-headnote-3"><lg n="1" xml:id="spp-440-044L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-440-044L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-440-044L-line-1">Dare you dispute,&#13;</l><l n="2" xml:id="spp-440-044L-line-2"> You Sawcy Brute,</l><l n="3" xml:id="spp-440-044L-line-3"> And think there's no refelling</l><l n="4" xml:id="spp-440-044L-line-4"> Your Scurvy Lays,</l><l n="5" xml:id="spp-440-044L-line-5"> And senseless praise</l><l n="6" xml:id="spp-440-044L-line-6"> You give to Ballyspellin.Howe'er you flounce,</l><l n="7" xml:id="spp-440-044L-line-7"> I here pronounce</l><l n="8" xml:id="spp-440-044L-line-8"> Your Med·'·cine is repelling,</l><l n="9" xml:id="spp-440-044L-line-9"> Your Water's mud,</l><l n="10" xml:id="spp-440-044L-line-10"> And Sowrs the blood</l><l n="11" xml:id="spp-440-044L-line-11"> When drank at BallyspellinThose pocky Drabs</l><l n="12" xml:id="spp-440-044L-line-12"> To cure their Scabs</l><l n="13" xml:id="spp-440-044L-line-13"> You thither are compelling</l><l n="14" xml:id="spp-440-044L-line-14"> Will back be sent</l><l n="15" xml:id="spp-440-044L-line-15"> Worse than they went</l><l n="16" xml:id="spp-440-044L-line-16"> From nasty BallyspellinLewellin! why?</l><l n="17" xml:id="spp-440-044L-line-17"> As well may I</l><l n="18" xml:id="spp-440-044L-line-18"> Name honest Doctor Pelling;</l><l n="19" xml:id="spp-440-044L-line-19"> So hard sometimes</l><l n="20" xml:id="spp-440-044L-line-20"> You tug for Rimes</l><l n="21" xml:id="spp-440-044L-line-21"> To bring in Ballyspellin.No Subject fit</l><l n="22" xml:id="spp-440-044L-line-22"> To try your Wit</l><l n="23" xml:id="spp-440-044L-line-23"> When you went Colonelling,</l><l n="24" xml:id="spp-440-044L-line-24"> But dull Intregues</l><l n="25" xml:id="spp-440-044L-line-25"> 'Twixt Iades and Teagues</l><l n="26" xml:id="spp-440-044L-line-26"> You met at Ballyspellin?Our Lasses fair</l><l n="27" xml:id="spp-440-044L-line-27"> Say what you dare,</l><l n="28" xml:id="spp-440-044L-line-28"> Who Sowins make with Shelling</l><l n="29" xml:id="spp-440-044L-line-29"> At Market-hill</l><l n="30" xml:id="spp-440-044L-line-30"> More Beaus can kill</l><l n="31" xml:id="spp-440-044L-line-31"> Than yours at Ballyspellin</l><l n="32" xml:id="spp-440-044L-line-32"> Would I was whipt</l><l n="33" xml:id="spp-440-044L-line-33"> When Sheelah strip't</l><l n="34" xml:id="spp-440-044L-line-34"> To wash her self our Well in</l><l n="35" xml:id="spp-440-044L-line-35"> A Bum so white</l><l n="36" xml:id="spp-440-044L-line-36"> Ne·'r came in sight</l><l n="37" xml:id="spp-440-044L-line-37"> At paltry BallyspellinYour Maukins there</l><l n="38" xml:id="spp-440-044L-line-38"> Smocks hempen wear;</l><l n="39" xml:id="spp-440-044L-line-39"> For, Holland not an Ell in</l><l n="40" xml:id="spp-440-044L-line-40"> No, not a rag,</l><l n="41" xml:id="spp-440-044L-line-41"> Whate'er you brag,</l><l n="42" xml:id="spp-440-044L-line-42"> Is found at BallyspellinBut, Tom will prate</l><l n="43" xml:id="spp-440-044L-line-43"> At any rate,</l><l n="44" xml:id="spp-440-044L-line-44"> All other Nymphs expelling</l><l n="45" xml:id="spp-440-044L-line-45"> Because he gets</l><l n="46" xml:id="spp-440-044L-line-46"> A few Grisetts</l><l n="47" xml:id="spp-440-044L-line-47"> At lowsy Ballyspelling.There's bony Jane</l><l n="48" xml:id="spp-440-044L-line-48"> In yonder lane</l><l n="49" xml:id="spp-440-044L-line-49"> Iust o'er against the Bell Inn</l><l n="50" xml:id="spp-440-044L-line-50"> Where can you meet</l><l n="51" xml:id="spp-440-044L-line-51"> A Lass so Sweet</l><l n="52" xml:id="spp-440-044L-line-52"> Round all your Ballyspellin?We have a Girl</l><l n="53" xml:id="spp-440-044L-line-53"> Deserves an Earl,</l><l n="54" xml:id="spp-440-044L-line-54"> She came from Eniskellin</l><l n="55" xml:id="spp-440-044L-line-55"> So fair so young,</l><l n="56" xml:id="spp-440-044L-line-56"> No Such among</l><l n="57" xml:id="spp-440-044L-line-57"> The Belles of BallyspellinHow would you Stare</l><l n="58" xml:id="spp-440-044L-line-58"> To see her there</l><l n="59" xml:id="spp-440-044L-line-59"> The foggy mists dispelling</l><l n="60" xml:id="spp-440-044L-line-60"> That cloud the Brows</l><l n="61" xml:id="spp-440-044L-line-61"> Of ev'ry Blowse</l><l n="62" xml:id="spp-440-044L-line-62"> Who lives at BallyspellinNow, as I live,</l><l n="63" xml:id="spp-440-044L-line-63"> I would not give</l><l n="64" xml:id="spp-440-044L-line-64"> A Stiver or a Skellin</l><l n="65" xml:id="spp-440-044L-line-65"> To towse and kiss</l><l n="66" xml:id="spp-440-044L-line-66"> The finest Miss</l><l n="67" xml:id="spp-440-044L-line-67"> That leaks at Ballyspellin.Whoe'er will raise</l><l n="68" xml:id="spp-440-044L-line-68"> Such Lyes as these</l><l n="69" xml:id="spp-440-044L-line-69"> Deserves a good Cud-·gelling</l><l n="70" xml:id="spp-440-044L-line-70"> Who falsly boasts</l><l n="71" xml:id="spp-440-044L-line-71"> Of Belles and Toasts</l><l n="72" xml:id="spp-440-044L-line-72"> At dirty Ballyspellin</l></lg><lg n="2" type="stanza"><l n="73" xml:id="spp-440-044L-line-73">My Rhimes are gone&#13;</l><l n="74" xml:id="spp-440-044L-line-74"> To all but one,</l><l n="75" xml:id="spp-440-044L-line-75"> Which is; Oour Trees are felling;</l><l n="76" xml:id="spp-440-044L-line-76"> As proper quite</l><l n="77" xml:id="spp-440-044L-line-77"> As those you write</l><l n="78" xml:id="spp-440-044L-line-78"> To force in Ballyspellin440-044L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="187B413B" type="poem"><head type="note" n="1" xml:id="spp-187B413B-headnote-1"><lg n="1" xml:id="spp-187B413B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-187B413B-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-187B413B-headnote-2"><lg n="1" xml:id="spp-187B413B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-187B413B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-187B413B-headnote-3"><lg n="1" xml:id="spp-187B413B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-187B413B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-187B413B-line-1"> My Lord, forsake your Politick Utopians,&#13;</l><l n="2" xml:id="spp-187B413B-line-2"> To sup, like Iove, with blameless Ethiopians.Pope.</l><l n="3" xml:id="spp-187B413B-line-3"> In other Words, You with the Staff,</l><l n="4" xml:id="spp-187B413B-line-4"> Leave Iohn of Bucks, come here and laugh.Dean.</l><l n="5" xml:id="spp-187B413B-line-5"> For Frolick Mirth give ore affairs of State,</l><l n="6" xml:id="spp-187B413B-line-6"> To night be happy, be to morrow great.Parnell</l><l n="7" xml:id="spp-187B413B-line-7"> Give Clans your money, us your smile</l><l n="8" xml:id="spp-187B413B-line-8"> your Scorn to T──end &amp; Ar──ileDoctor</l><l n="9" xml:id="spp-187B413B-line-9"> Leave Courts, and hye to simple Swains,</l><l n="10" xml:id="spp-187B413B-line-10"> Who feed <hi rend="underline">no</hi> Flock upon <hi rend="underline">no</hi> PlainsGay.187B413B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

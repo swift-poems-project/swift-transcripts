@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Receipt for Courtship</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z198090A" type="poem"><head type="note" n="1" xml:id="spp-Z198090A-headnote-1"><lg n="1" xml:id="spp-Z198090A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Z198090A-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Z198090A-headnote-2"><lg n="1" xml:id="spp-Z198090A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Z198090A-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Z198090A-headnote-3"><lg n="1" xml:id="spp-Z198090A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Z198090A-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-Z198090A-line-1"><hi rend="display-initial">T</hi>wo or three dears and two or three sweets</l><l n="2" xml:id="spp-Z198090A-line-2"> Two or three Balls and two or three treats;</l><l n="3" xml:id="spp-Z198090A-line-3"> Two or three serenades giv'n as a lure;</l><l n="4" xml:id="spp-Z198090A-line-4"> Two or three Oaths how much they endure;</l><l n="5" xml:id="spp-Z198090A-line-5"> Two or three messages sent in one day:</l><l n="6" xml:id="spp-Z198090A-line-6"> Two or three times led out from a play,</l><l n="7" xml:id="spp-Z198090A-line-7"> Two or three soft speeches made by the way:</l><l n="8" xml:id="spp-Z198090A-line-8"> Two or three Tickets for two or three times</l><l n="9" xml:id="spp-Z198090A-line-9"> Two or three love letters writ all in rhymes,</l><l n="10" xml:id="spp-Z198090A-line-10"> Two or three months keeping strict to these rules</l><l n="11" xml:id="spp-Z198090A-line-11"> Can never fail making a couple of fools.Z198090A   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

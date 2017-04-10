@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ON ROVER, A LADY'S SPANIEL.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-Y25-14W2-footnote-1"/>
+        </linkGrp>
+        <div n="Y25-14W2" type="poem"><head type="note" n="1" xml:id="spp-Y25-14W2-headnote-1"><lg n="1" xml:id="spp-Y25-14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y25-14W2-headnote-1-line-group-1-line-1">INSTRUCTIONS TO A PAINTER.<ref target="#spp-Y25-14W2-footnote-1">1</ref><note n="1" xml:id="spp-Y25-14W2-footnote-1" place="foot">In ridicule of Phillips's poem on Miss Carteret; and written, it has been said, "to affront the lady of Archbishop Boulter."──A<hi rend="SMALL-CAPS">NDERSON</hi></note></l></lg></head><head type="note" n="2" xml:id="spp-Y25-14W2-headnote-2"><lg n="1" xml:id="spp-Y25-14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y25-14W2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y25-14W2-headnote-3"><lg n="1" xml:id="spp-Y25-14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y25-14W2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y25-14W2-line-1"> H<hi rend="SMALL-CAPS">APPIEST</hi> of the spaniel race,</l><l n="2" xml:id="spp-Y25-14W2-line-2"> Painter, with thy colours grace:</l><l n="3" xml:id="spp-Y25-14W2-line-3"> Draw his forehead large and high,</l><l n="4" xml:id="spp-Y25-14W2-line-4"> Draw his blue and humid eye;</l><l n="5" xml:id="spp-Y25-14W2-line-5"> Draw his neck so smooth and round,</l><l n="6" xml:id="spp-Y25-14W2-line-6"> Little neck with ribbons bound!</l><l n="7" xml:id="spp-Y25-14W2-line-7"> And the muscly swelling breast,</l><l n="8" xml:id="spp-Y25-14W2-line-8"> Where the Loves and Graces rest;</l><l n="9" xml:id="spp-Y25-14W2-line-9"> And the spreading even back,</l><l n="10" xml:id="spp-Y25-14W2-line-10"> Soft, and sleek, and glossy black;</l><l n="11" xml:id="spp-Y25-14W2-line-11"> And the tail that gently twines,</l><l n="12" xml:id="spp-Y25-14W2-line-12"> Like the tendrils of the vines;</l><l n="13" xml:id="spp-Y25-14W2-line-13"> And the silky twisted hair,</l><l n="14" xml:id="spp-Y25-14W2-line-14"> Shadowing thick the velvet ear;</l><l n="15" xml:id="spp-Y25-14W2-line-15"> Velvet ears, which, hanging low,</l><l n="16" xml:id="spp-Y25-14W2-line-16"> O'er the veiny temples flow.With a proper light and shade,</l><l n="17" xml:id="spp-Y25-14W2-line-17"> Let the winding hoop be laid;</l><l n="18" xml:id="spp-Y25-14W2-line-18"> And within that arching bower,</l><l n="19" xml:id="spp-Y25-14W2-line-19"> (Secret circle, mystic power,)</l><l n="20" xml:id="spp-Y25-14W2-line-20"> In a downy slumber place</l><l n="21" xml:id="spp-Y25-14W2-line-21"> Happiest of the spaniel race;</l><l n="22" xml:id="spp-Y25-14W2-line-22"> While the soft respiring dame,</l><l n="23" xml:id="spp-Y25-14W2-line-23"> Glowing with the softest flame,</l><l n="24" xml:id="spp-Y25-14W2-line-24"> On the ravish'd favourite pours</l><l n="25" xml:id="spp-Y25-14W2-line-25"> Balmy dews, ambrosial showersWith thy utmost skill express</l><l n="26" xml:id="spp-Y25-14W2-line-26"> Nature in her richest dress,</l><l n="27" xml:id="spp-Y25-14W2-line-27"> Limpid rivers smoothly flowing,</l><l n="28" xml:id="spp-Y25-14W2-line-28"> Orchards by those rivers blowing;</l><l n="29" xml:id="spp-Y25-14W2-line-29"> Curling woodbine, myrtle shade,</l><l n="30" xml:id="spp-Y25-14W2-line-30"> And the gay enamell'd mead;</l><l n="31" xml:id="spp-Y25-14W2-line-31"> Where the linnets sit and ·ing,</l><l n="32" xml:id="spp-Y25-14W2-line-32"> Little sportlings of the spring;</l><l n="33" xml:id="spp-Y25-14W2-line-33"> Where the breathing field and grove</l><l n="34" xml:id="spp-Y25-14W2-line-34"> Sooth the heart, and kindle love.</l><l n="35" xml:id="spp-Y25-14W2-line-35"> Here for me, and for the Muse,</l><l n="36" xml:id="spp-Y25-14W2-line-36"> Colours of resemblance choose,</l><l n="37" xml:id="spp-Y25-14W2-line-37"> Make of lineaments divine,</l><l n="38" xml:id="spp-Y25-14W2-line-38"> Daply female spaniels shine,</l><l n="39" xml:id="spp-Y25-14W2-line-39"> Pretty fondlings of the fair,</l><l n="40" xml:id="spp-Y25-14W2-line-40"> Gentle damsels' gentle care;</l><l n="41" xml:id="spp-Y25-14W2-line-41"> But to one alone impart</l><l n="42" xml:id="spp-Y25-14W2-line-42"> All the flattery of thy art.</l><l n="43" xml:id="spp-Y25-14W2-line-43"> Crowd each feature, crowd each grace,</l><l n="44" xml:id="spp-Y25-14W2-line-44"> Which complete the desperate face;</l><l n="45" xml:id="spp-Y25-14W2-line-45"> Let the spotted wanton dame</l><l n="46" xml:id="spp-Y25-14W2-line-46"> Feel a new resistless flame!</l><l n="47" xml:id="spp-Y25-14W2-line-47"> Let the happiest of his race</l><l n="48" xml:id="spp-Y25-14W2-line-48"> Win the fair to his embrace.</l><l n="49" xml:id="spp-Y25-14W2-line-49"> But in shade the rest conceal,</l><l n="50" xml:id="spp-Y25-14W2-line-50"> Nor to sight their joys reveal,</l><l n="51" xml:id="spp-Y25-14W2-line-51"> Lest the pencil and the Muse</l><l n="52" xml:id="spp-Y25-14W2-line-52"> Loose desires and thoughts infuse.Y25-14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

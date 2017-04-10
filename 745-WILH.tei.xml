@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="745-WILH" type="poem"><head type="note" n="1" xml:id="spp-745-WILH-headnote-1"><lg n="1" xml:id="spp-745-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-745-WILH-headnote-1-line-group-1-line-1">────Cuicunque nocere volebat <lb/> Vestimenta dabat pretiosa.</l></lg></head><head type="note" n="2" xml:id="spp-745-WILH-headnote-2"><lg n="1" xml:id="spp-745-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-745-WILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-745-WILH-headnote-3"><lg n="1" xml:id="spp-745-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-745-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-745-WILH-line-1"> Don Carlos in a merry Spight&#13;</l><l n="2" xml:id="spp-745-WILH-line-2"> Did Stella to his House invite,</l><l n="3" xml:id="spp-745-WILH-line-3"> He entertain'd her half a year</l><l n="4" xml:id="spp-745-WILH-line-4"> With richest Wines and costly Cheer:</l><l n="5" xml:id="spp-745-WILH-line-5"> Surpriz'd with ev'ry day a hot meal</l><l n="6" xml:id="spp-745-WILH-line-6"> She thought that all the world was Oatmeal:</l><l n="7" xml:id="spp-745-WILH-line-7"> That she might o're the Servants hector</l><l n="8" xml:id="spp-745-WILH-line-8"> Don Carlos made her sole Director.Don Carlos made her chief DirectorShe now can or'e the servants hector.</l><l n="9" xml:id="spp-745-WILH-line-9"> In half a week the Dame grew nice,</l><l n="10" xml:id="spp-745-WILH-line-10"> Got all things at the highest Price.</l><l n="11" xml:id="spp-745-WILH-line-11"> Now at the Table head she sits</l><l n="12" xml:id="spp-745-WILH-line-12"> Presented with the choicest Bits:</l><l n="13" xml:id="spp-745-WILH-line-13"> She look'd on Partridges with scorn</l><l n="14" xml:id="spp-745-WILH-line-14"> Except they tasted of the Corn:</l><l n="15" xml:id="spp-745-WILH-line-15"> A Haunch of Ven'son made her sweat</l><l n="16" xml:id="spp-745-WILH-line-16"> Unless it had the right Fumette:</l><l n="17" xml:id="spp-745-WILH-line-17"> Don Carlos earnestly would beg,</l><l n="18" xml:id="spp-745-WILH-line-18"> Dear Madam try this Pigeon's leg:</l><l n="19" xml:id="spp-745-WILH-line-19"> Was happy when he could prevail</l><l n="20" xml:id="spp-745-WILH-line-20"> To make Her only touch a Quail:</l><l n="21" xml:id="spp-745-WILH-line-21"> Thrô candle-light she view'd the Wine</l><l n="22" xml:id="spp-745-WILH-line-22"> To see that ev'ry Glass was fine.At last grown prouder than the Devil</l><l n="23" xml:id="spp-745-WILH-line-23"> With feeding high, &amp; Treatment civil,</l><l n="24" xml:id="spp-745-WILH-line-24"> Too soon arrives the dismal Day,</l><l n="25" xml:id="spp-745-WILH-line-25"> She must return to Ormond-Key.<gap/><gap/>As the Coach stopp'd, she look'd &amp; swore</l><l n="26" xml:id="spp-745-WILH-line-26"> The Rascal had mistook the Door:</l><l n="27" xml:id="spp-745-WILH-line-27"> At entring you might see her stoop</l><l n="28" xml:id="spp-745-WILH-line-28"> Nor would the Door admit her Hoop.Don Carlos now began to findHis Med'cine work as he design'dAs the Coach stopp'd, she look'd &amp; sworeThe Rascal had mistook the DoorAt going in you saw her stoopThe narrow Entry crushd her HoopShe curs'd the dark &amp; winding StairsAnd still encreasing in her AirsBegan a thousand faults to spyThe Cieling hardly six foot highThe smoaky Wainscot full of cracksAnd half the Chairs with broken backs.The Cubbard fasten'd with a PegThe rusty Tongs have lost a LegHer Quarter's out at Lady DayShe'll have 'em know she scorns to stay(While there are Houses to be let)In Lodgings like a poor Grisette.</l><l n="29" xml:id="spp-745-WILH-line-29"> Howe're to keep her Spirits up     Mean time to keep</l><l n="30" xml:id="spp-745-WILH-line-30"> She sent for Company to sup,     She sends</l><l n="31" xml:id="spp-745-WILH-line-31"> When all the while you might remark     Where all</l><l n="32" xml:id="spp-745-WILH-line-32"> She did her best to ape Woodpark.     She strove in vain to ape</l><l n="33" xml:id="spp-745-WILH-line-33"> Two Bottles call'd for, (half her Store,</l><l n="34" xml:id="spp-745-WILH-line-34"> The Cellar could contain but four)</l><l n="35" xml:id="spp-745-WILH-line-35"> A Supper worthy of her self,</l><l n="36" xml:id="spp-745-WILH-line-36"> Five Nothings in five Plates of Delf.</l><l n="37" xml:id="spp-745-WILH-line-37"> And thus the Farce a fortnight went</l><l n="38" xml:id="spp-745-WILH-line-38"> When all her little Money spent,Thus for a week the Farce went onWhen the whole month's Allowance gone</l><l n="39" xml:id="spp-745-WILH-line-39"> She fell into her former Scene,</l><l n="40" xml:id="spp-745-WILH-line-40"> Small Beer, a Herring, and the Dean.Since I must laugh, or cannot live,Good-natur'd Stella will forgive:We Poets when a Hint is newRegard not what is false or true,No Raillery gives just OffenceWhere Truth has not the least Pretence;Nor can be more securely plac'tThan on a Nymph of Stella's Tast.I must confess your Wine and VittleI was too hard upon──a little.And you must know in what I writI had some Anger in my Wit.</l><l n="41" xml:id="spp-745-WILH-line-41"> For when you sigh to leave Woodpark,</l><l n="42" xml:id="spp-745-WILH-line-42"> The Place, the Welcome, and the Spark,</l><l n="43" xml:id="spp-745-WILH-line-43"> To languish in this odious Town,</l><l n="44" xml:id="spp-745-WILH-line-44"> And pull your haughty Stomach down,</l><l n="45" xml:id="spp-745-WILH-line-45"> You shew Don Carlos where to dwell,</l><l n="46" xml:id="spp-745-WILH-line-46"> And grieve he ever left Pell-mell.Yet granting all I said were true,</l><l n="47" xml:id="spp-745-WILH-line-47"> A Cottage is Woodpark with You.745-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

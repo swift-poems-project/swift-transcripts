@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Spuddy's Lamentation</title>
+        <title>For the Loss of her Collar,</title>
+        <title>Who was Deprived of it the 12th of <hi rend="underline">April</hi>, 1728.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y31BS666" type="poem"><head type="note" n="1" xml:id="spp-Y31BS666-headnote-1"><lg n="1" xml:id="spp-Y31BS666-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y31BS666-headnote-1-line-group-1-line-1"><hi rend="underline">Bow Wou Wou</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-Y31BS666-headnote-2"><lg n="1" xml:id="spp-Y31BS666-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y31BS666-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y31BS666-headnote-3"><lg n="1" xml:id="spp-Y31BS666-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y31BS666-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y31BS666-line-1"><hi rend="display-initial">A</hi> Creature I, of Flesh and Blood,</l><l n="2" xml:id="spp-Y31BS666-line-2"> A Lady's Dog, my Name is <hi rend="underline">Spudd</hi>;</l><l n="3" xml:id="spp-Y31BS666-line-3"> My doleful Case all Men shall know,</l><l n="4" xml:id="spp-Y31BS666-line-4"> Being Fed and Pamper'd, Free from Blow;</l><l n="5" xml:id="spp-Y31BS666-line-5"> My Lady took what care she cou'd,</l><l n="6" xml:id="spp-Y31BS666-line-6"> And often cry'd, <hi rend="underline">Come hither </hi>Spudd<hi rend="underline">:</hi>Tom<hi rend="underline">, bring some Water, see it pants;</hi>.</l><l n="7" xml:id="spp-Y31BS666-line-7"> Pray is it not a pretty Creature?</l><l n="8" xml:id="spp-Y31BS666-line-8"> Look at its Nose--- So fine a Feature---</l><l n="9" xml:id="spp-Y31BS666-line-9"> My Dog it shall have what it wants,</l><l n="10" xml:id="spp-Y31BS666-line-10"> O give my Dear a bit of Gizard,</l><l n="11" xml:id="spp-Y31BS666-line-11"> It won't eat Wild-Fowl, cunning Wizard,</l><l n="12" xml:id="spp-Y31BS666-line-12"> But see the Sense it has! I vow,</l><l n="13" xml:id="spp-Y31BS666-line-13"> I wou'd not give it for a Cow</l></lg><lg n="2" type="stanza"><l n="14" xml:id="spp-Y31BS666-line-14">Thus <hi rend="underline">Spuddy</hi> liv'd, with care Attended,</l><l n="15" xml:id="spp-Y31BS666-line-15"> By all the Neighbours much befriended;</l><l n="16" xml:id="spp-Y31BS666-line-16"> She had a Bit, a tender Pat</l><l n="17" xml:id="spp-Y31BS666-line-17"> From all that at the Table Sat;</l><l n="18" xml:id="spp-Y31BS666-line-18"> But now confus'd, with Tears in Eyes,</l><l n="19" xml:id="spp-Y31BS666-line-19"> She tells ye that her Lady Dies;</l><l n="20" xml:id="spp-Y31BS666-line-20"> And e'er her Lady's Funeral,</l><l n="21" xml:id="spp-Y31BS666-line-21"> Drops off her Master-General----</l><l n="22" xml:id="spp-Y31BS666-line-22"> Good look to Squire, to me hard Fate,</l><l n="23" xml:id="spp-Y31BS666-line-23"> That they to him shou'd leave the Plate;</l><l n="24" xml:id="spp-Y31BS666-line-24"> A dreadful Day to me poor Bitch,</l><l n="25" xml:id="spp-Y31BS666-line-25"> That he to Plate, had such an Ich;</l><l n="26" xml:id="spp-Y31BS666-line-26"> I ne'er met Hardship, nor Rebuff,</l><l n="27" xml:id="spp-Y31BS666-line-27"> The Day they Dy'd, I got a <hi rend="underline">Cuff</hi>----</l><l n="28" xml:id="spp-Y31BS666-line-28"> A <hi rend="underline">Cuff</hi>---- I scarce cou'd bear, but must,</l><l n="29" xml:id="spp-Y31BS666-line-29"> Now they are gone, and laid in Dust;</l><l n="30" xml:id="spp-Y31BS666-line-30"> The Man appear'd as if in Dolour,</l><l n="31" xml:id="spp-Y31BS666-line-31"> He call'd me <hi rend="underline">Spudd, let's see your Collar</hi>.</l><l n="32" xml:id="spp-Y31BS666-line-32"> I thought his Goodness was so great,</l><l n="33" xml:id="spp-Y31BS666-line-33"> Not to insist my Collar's Plate,</l><l n="34" xml:id="spp-Y31BS666-line-34"> Believ'd he more in Mind had those</l><l n="35" xml:id="spp-Y31BS666-line-35"> That lay in Coffins last Repose;</l><l n="36" xml:id="spp-Y31BS666-line-36"> But he insisting on his Right,</l><l n="37" xml:id="spp-Y31BS666-line-37"> Took Collar, Plate, and bid good-Night:</l><l n="38" xml:id="spp-Y31BS666-line-38"> All cry'd <hi rend="underline">out Shame</hi>! and thought a wonder,</l><l n="39" xml:id="spp-Y31BS666-line-39"> To coax a Beast, and then to Plunder:</l></lg><lg n="3" type="stanza"><l n="40" xml:id="spp-Y31BS666-line-40">As grave a Countenance he had,&#13;</l><l n="41" xml:id="spp-Y31BS666-line-41"> As Master when he whips a Lad,</l><l n="42" xml:id="spp-Y31BS666-line-42"> Or Mother when she gives Advice</l><l n="43" xml:id="spp-Y31BS666-line-43"> To Daughter that she may shun Vice.</l></lg><lg n="4" type="stanza"><l n="44" xml:id="spp-Y31BS666-line-44">He said, <hi rend="underline">Poor </hi>Spudd<hi rend="underline">, Your Collar's neat,</hi>Papa<hi rend="underline">, and sweet</hi> Kilbrew.</l><l n="45" xml:id="spp-Y31BS666-line-45"> I'd have yourself to wear your Plate.</l><l n="46" xml:id="spp-Y31BS666-line-46"> I'm satisfy'd of that, good Sir,</l><l n="47" xml:id="spp-Y31BS666-line-47"> Tho' Bitch I am, I hate a C----r_That gave my Master such a Wound,</l><l n="48" xml:id="spp-Y31BS666-line-48"> Your usage in the Thousand Pound;</l><l n="49" xml:id="spp-Y31BS666-line-49"> And when you got it, bid Adieu,</l><l n="50" xml:id="spp-Y31BS666-line-50"> To your </l></lg><lg n="5" type="stanza"><l n="51" xml:id="spp-Y31BS666-line-51">My wish, ('tis time to give you ease)&#13;</l><l n="52" xml:id="spp-Y31BS666-line-52"> May your sweet Collar ne'er want Fleas,</l><l n="53" xml:id="spp-Y31BS666-line-53"> And, since you've shewn your <hi rend="underline">poor mean Spirit</hi>,</l><l n="54" xml:id="spp-Y31BS666-line-54"> A Collar worse may you Inherit:</l><l n="55" xml:id="spp-Y31BS666-line-55"> To Man or Beast, you'll ne'er be good,</l><l n="56" xml:id="spp-Y31BS666-line-56"> So kiss the Nose, or A---- of <hi rend="underline">Spudd</hi>.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

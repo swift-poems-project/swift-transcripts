@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>APOLLO'S EDICT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-269-14W2-footnote-1 #spp-269-14W2-line-17"/>
+          <link target="#spp-269-14W2-footnote-2 #spp-269-14W2-line-65"/>
+        </linkGrp>
+        <div n="269-14W2" type="poem"><head type="note" n="1" xml:id="spp-269-14W2-headnote-1"><lg n="1" xml:id="spp-269-14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-269-14W2-headnote-1-line-group-1-line-1">OCCASIONED BY “NEWS FROM PARNASSUS.”</l></lg></head><head type="note" n="2" xml:id="spp-269-14W2-headnote-2"><lg n="1" xml:id="spp-269-14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-269-14W2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-269-14W2-headnote-3"><lg n="1" xml:id="spp-269-14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-269-14W2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-269-14W2-line-1"> I<hi rend="SMALL-CAPS">RELAND</hi> is now our royal care,</l><l n="2" xml:id="spp-269-14W2-line-2"> We lately fix'd our viceroy there:</l><l n="3" xml:id="spp-269-14W2-line-3"> How near was she to be undone,</l><l n="4" xml:id="spp-269-14W2-line-4"> Till pious love inspired her son!</l><l n="5" xml:id="spp-269-14W2-line-5"> What cannot our viceregent do,</l><l n="6" xml:id="spp-269-14W2-line-6"> As poet and as patriot too?</l><l n="7" xml:id="spp-269-14W2-line-7"> Let his success our subjects sway,</l><l n="8" xml:id="spp-269-14W2-line-8"> Our inspirations to obey,</l><l n="9" xml:id="spp-269-14W2-line-9"> And follow where he leads the way:</l><l n="10" xml:id="spp-269-14W2-line-10"> Then study to correct your taste;</l><l n="11" xml:id="spp-269-14W2-line-11"> Nor beaten paths be longer traced.No simile shall be begun,</l><l n="12" xml:id="spp-269-14W2-line-12"> With rising or with setting sun;</l><l n="13" xml:id="spp-269-14W2-line-13"> And let the secret head of Nile</l><l n="14" xml:id="spp-269-14W2-line-14"> Be ever banish'd from your isle.When wretched lovers live on air,</l><l n="15" xml:id="spp-269-14W2-line-15"> I beg you'll the chameleon spare;</l><l n="16" xml:id="spp-269-14W2-line-16"> And when you'd make a hero grander,</l><l n="17" xml:id="spp-269-14W2-line-17"> Forget he's like a salamander.<ref target="#spp-269-14W2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-269-14W2-footnote-1">See the Verses to Lord Cutts.</note>No son of mine shall dare to say,</l><l n="18" xml:id="spp-269-14W2-line-18"> Aurora usher'd in the day,</l><l n="19" xml:id="spp-269-14W2-line-19"> Or ever name the milky-way.</l><l n="20" xml:id="spp-269-14W2-line-20"> You all agree, I make no doubt,</l><l n="21" xml:id="spp-269-14W2-line-21"> Elijah's mantle is worn out.The bird of Jove shall toil no more</l><l n="22" xml:id="spp-269-14W2-line-22"> To teach the humble wren to soar.</l><l n="23" xml:id="spp-269-14W2-line-23"> Your tragic heroes shall not rant,</l><l n="24" xml:id="spp-269-14W2-line-24"> Nor shepherds use poetic cant.</l><l n="25" xml:id="spp-269-14W2-line-25"> Simplicity alone can grace</l><l n="26" xml:id="spp-269-14W2-line-26"> The manners of the rural race.</l><l n="27" xml:id="spp-269-14W2-line-27"> Theocritus and Philips be</l><l n="28" xml:id="spp-269-14W2-line-28"> Your guides to true simplicity.When Damon's soul shall take its flight,</l><l n="29" xml:id="spp-269-14W2-line-29"> Though poets have the second-sight,</l><l n="30" xml:id="spp-269-14W2-line-30"> They shall not see a trail of light.</l><l n="31" xml:id="spp-269-14W2-line-31"> Nor shall the vapours upwards rise,</l><l n="32" xml:id="spp-269-14W2-line-32"> Nor a new star adorn the skies:</l><l n="33" xml:id="spp-269-14W2-line-33"> For who can hope to place one there,</l><l n="34" xml:id="spp-269-14W2-line-34"> As glorious as Belinda's hair?</l><l n="35" xml:id="spp-269-14W2-line-35"> Yet, if his name you'd eternize,</l><l n="36" xml:id="spp-269-14W2-line-36"> And must exalt him to the skies;</l><l n="37" xml:id="spp-269-14W2-line-37"> Without a star this may be done:</l><l n="38" xml:id="spp-269-14W2-line-38"> So Tickell mourn'd his Addison.If Anna's happy reign you praise,</l><l n="39" xml:id="spp-269-14W2-line-39"> Pray, not a word of halcyon days:</l><l n="40" xml:id="spp-269-14W2-line-40"> Nor let my votaries shew their skill</l><l n="41" xml:id="spp-269-14W2-line-41"> In aping lines from Cooper's Hill;</l><l n="42" xml:id="spp-269-14W2-line-42"> For know I cannot bear to hear</l><l n="43" xml:id="spp-269-14W2-line-43"> The mimicry of deep, yet clear.Whene'er my viceroy is address'd,</l><l n="44" xml:id="spp-269-14W2-line-44"> Against the ph<unclear>oe</unclear>nix I protest.<gap/><gap/></l><l n="45" xml:id="spp-269-14W2-line-45"> When poets soar in youthful strains,</l><l n="46" xml:id="spp-269-14W2-line-46"> No Phaeton to hold the reins.When you describe a lovely girl,</l><l n="47" xml:id="spp-269-14W2-line-47"> No lips of coral, teeth of pearl.Cupid shall ne'er mistake another,</l><l n="48" xml:id="spp-269-14W2-line-48"> However beauteous, for his mother;</l><l n="49" xml:id="spp-269-14W2-line-49"> Nor shall his darts at random fly</l><l n="50" xml:id="spp-269-14W2-line-50"> From magazine in Celia's eye.<gap/><gap/><gap/><gap/><gap/><gap/></l><l n="51" xml:id="spp-269-14W2-line-51"> With woman compounds I am cloy'd,</l><l n="52" xml:id="spp-269-14W2-line-52"> Which only pleased in Biddy Floyd.</l><l n="53" xml:id="spp-269-14W2-line-53"> For foreign aid what need they roam,</l><l n="54" xml:id="spp-269-14W2-line-54"> Whom fate has amply blest at home?Unerring Heaven, with bounteous hand,</l><l n="55" xml:id="spp-269-14W2-line-55"> Has form'd a model for your land,</l><l n="56" xml:id="spp-269-14W2-line-56"> Whom Jove endued with every grace;</l><l n="57" xml:id="spp-269-14W2-line-57"> The glory of the Granard race;</l><l n="58" xml:id="spp-269-14W2-line-58"> Now destined by the powers divine</l><l n="59" xml:id="spp-269-14W2-line-59"> The blessing of another line.</l><l n="60" xml:id="spp-269-14W2-line-60"> Then, would you paint a matchless dame,</l><l n="61" xml:id="spp-269-14W2-line-61"> Whom you'd consign to endless fame?</l><l n="62" xml:id="spp-269-14W2-line-62"> Invoke not Cytherea's aid,</l><l n="63" xml:id="spp-269-14W2-line-63"> Nor borrow from the blue-eyed maid;</l><l n="64" xml:id="spp-269-14W2-line-64"> Nor need you on the Graces call;</l><l n="65" xml:id="spp-269-14W2-line-65"> Take qualities from Donegal.<ref target="#spp-269-14W2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-269-14W2-footnote-2">Lady Catherine Forbes, daughter of the first Earl of Granard, and second wife of Arthur third Earl of Donegal.</note>269-14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

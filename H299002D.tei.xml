@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To Tho: Sheridan.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="H299002D" type="poem"><head type="note" n="1" xml:id="spp-H299002D-headnote-1"><lg n="1" xml:id="spp-H299002D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-H299002D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-H299002D-headnote-2"><lg n="1" xml:id="spp-H299002D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-H299002D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-H299002D-headnote-3"><lg n="1" xml:id="spp-H299002D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-H299002D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-H299002D-line-1"> Dear Sherry I'm sorry for Your bloodsheded sore Eye&#13;</l><l n="2" xml:id="spp-H299002D-line-2"> And the more I consider Your Case still the more I</l><l n="3" xml:id="spp-H299002D-line-3"> Regret it, for see how the Pain on't has Wore Ye?</l><l n="4" xml:id="spp-H299002D-line-4"> Besides the Good Whiggs Who strangely Adore Ye,</l><l n="5" xml:id="spp-H299002D-line-5"> In pitty cry out, he's a poor blinded Tory.</l><l n="6" xml:id="spp-H299002D-line-6"> But listen to me and I'll soon lay before Ye,</l><l n="7" xml:id="spp-H299002D-line-7"> A Sovereign Cure well attested in Gory.</l><l n="8" xml:id="spp-H299002D-line-8"> First wash it With Ros that makes Dative Rori,</l><l n="9" xml:id="spp-H299002D-line-9"> Then send for three Leeches and lett them all Gore Ye,</l><l n="10" xml:id="spp-H299002D-line-10"> Then take a Cordial Dram to restore Ye,</l><l n="11" xml:id="spp-H299002D-line-11"> Then Take Lady Judith and walk a fine Boree</l><l n="12" xml:id="spp-H299002D-line-12"> Then Take a Glass of good Claret ex more,</l><l n="13" xml:id="spp-H299002D-line-13"> Then stay as long as You can ab Uxore,</l><l n="14" xml:id="spp-H299002D-line-14"> And then if friend Dick will but Ope Y<hi rend="sup">ṛ</hi> back door, he</l><l n="15" xml:id="spp-H299002D-line-15"> Will quickly dispell the black Cloud that hangs o're Ye,</l><l n="16" xml:id="spp-H299002D-line-16"> And make You so bright that You'll sing Tory rory,</l><l n="17" xml:id="spp-H299002D-line-17"> And make a New Ballad Worth ten of John Dory.</l><l n="18" xml:id="spp-H299002D-line-18"> (Tho' I Work Your Cure Yet he'll get the Glory)</l><l n="19" xml:id="spp-H299002D-line-19"> I'm now in the Back school house high up one storey,</l><l n="20" xml:id="spp-H299002D-line-20"> Quite weary With Teaching and ready to Mori,</l><l n="21" xml:id="spp-H299002D-line-21"> My Candle's just out too, no longer I'll pore Ye</l><l n="22" xml:id="spp-H299002D-line-22"> But away to Clem: Barry's, there's an End of My story.H299002D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

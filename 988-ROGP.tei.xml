@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">A Letter to the Reverend Dr Sheridan</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="988-ROGP" type="letter"><head type="note" n="1" xml:id="spp-988-ROGP-headnote-1"><lg n="1" xml:id="spp-988-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-988-ROGP-headnote-1-line-group-1-line-1">WRITTEN IN THE YEAR l7l8</l></lg></head><head type="note" n="2" xml:id="spp-988-ROGP-headnote-2"><lg n="1" xml:id="spp-988-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-988-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-988-ROGP-headnote-3"><lg n="1" xml:id="spp-988-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-988-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-988-ROGP-line-1"> Whate'er your predecessors taught us,&#13;</l><l n="2" xml:id="spp-988-ROGP-line-2"> I have a great esteem for Plautus;</l><l n="3" xml:id="spp-988-ROGP-line-3"> And think your boys may gather there-hence</l><l n="4" xml:id="spp-988-ROGP-line-4"> More wit and humour than from Terence.</l><l n="5" xml:id="spp-988-ROGP-line-5"> But as to comic Aristophanes,</l><l n="6" xml:id="spp-988-ROGP-line-6"> The rogue's too bawdy and too prophane is.</l><l n="7" xml:id="spp-988-ROGP-line-7"> I went in vain to look for Eupolis,</l><l n="8" xml:id="spp-988-ROGP-line-8"> Down in the Strand just where the new pole is,</l><l n="9" xml:id="spp-988-ROGP-line-9"> For I can tell you one thing, that I can,</l><l n="10" xml:id="spp-988-ROGP-line-10"> You will not find it in the Vatican.</l><l n="11" xml:id="spp-988-ROGP-line-11"> He and Cratinus used, as Horace says,</l><l n="12" xml:id="spp-988-ROGP-line-12"> To take his greatest grandees for asses.</l><l n="13" xml:id="spp-988-ROGP-line-13"> Poets, in those days, used to venture high,</l><l n="14" xml:id="spp-988-ROGP-line-14"> But these are lost full many a century.</l></lg><lg n="2" type="verse-paragraph"><l n="15" xml:id="spp-988-ROGP-line-15">Thus you may see, dear friend, <hi rend="underline">ex pede</hi> hence</l><l n="16" xml:id="spp-988-ROGP-line-16"> My judgement of the old comedians.</l></lg><lg n="3" type="triplet"><l n="17" xml:id="spp-988-ROGP-line-17">Proceed to tragics, first Euripides&#13;</l><l n="18" xml:id="spp-988-ROGP-line-18"> (An author, where I sometimes dip a-days)</l><l n="19" xml:id="spp-988-ROGP-line-19"> Is rightly censured by the Stagirite,</l><l n="20" xml:id="spp-988-ROGP-line-20"> Who says, his numbers do not fadge a-right.</l><l n="21" xml:id="spp-988-ROGP-line-21"> A friend of mine, that author despises</l><l n="22" xml:id="spp-988-ROGP-line-22"> So much, he swears the very best piece is,</l><l n="23" xml:id="spp-988-ROGP-line-23"> For aught he knows, as bad as Thespis's.</l><l n="24" xml:id="spp-988-ROGP-line-24"> And that a woman, in those tragedies</l><l n="25" xml:id="spp-988-ROGP-line-25"> Commonly speaking, but a sad jade is.</l><l n="26" xml:id="spp-988-ROGP-line-26"> At least, I'm well assured, that no folk lays</l><l n="27" xml:id="spp-988-ROGP-line-27"> The weight on him, they do on Sophocles.</l><l n="28" xml:id="spp-988-ROGP-line-28"> But above all I prefer Aeschylus,</l><l n="29" xml:id="spp-988-ROGP-line-29"> Whose moving touches, when they please, kill us.</l></lg><lg n="4" type="verse-paragraph"><l n="30" xml:id="spp-988-ROGP-line-30">And now I find my muse but ill able&#13;</l><l n="31" xml:id="spp-988-ROGP-line-31"> To hold out longer in trisyllable.</l><l n="32" xml:id="spp-988-ROGP-line-32"> I chose these rhymes out, for their difficulty.</l><l n="33" xml:id="spp-988-ROGP-line-33"> Will you return as hard ones, if I call t'ye?988-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

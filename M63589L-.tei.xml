@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Translation of SWIFT's V<hi rend="SMALL-CAPS">ERSES</hi> on</title>
+        <title>B<hi rend="SMALL-CAPS">IDDY </hi>F<hi rend="SMALL-CAPS">LOYD</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M63589L-" type="poem"><head type="note" n="1" xml:id="spp-M63589L--headnote-1"><lg n="1" xml:id="spp-M63589L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M63589L--headnote-1-line-group-1-line-1">In LYDIAM.</l></lg></head><head type="note" n="2" xml:id="spp-M63589L--headnote-2"><lg n="1" xml:id="spp-M63589L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M63589L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M63589L--headnote-3"><lg n="1" xml:id="spp-M63589L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M63589L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-M63589L--line-1"><hi rend="display-initial">O</hi>RABAT precibus Cupido blandis,</l><l n="2" xml:id="spp-M63589L--line-2"> Ut tandem omnipotens pater deorum</l><l n="3" xml:id="spp-M63589L--line-3"> Formosam lege conderet recenti.</l><l n="4" xml:id="spp-M63589L--line-4"> Arridens citò, ruris ad recessum</l><l n="5" xml:id="spp-M63589L--line-5"> Almus misit avus, Fidemque nudam</l><l n="6" xml:id="spp-M63589L--line-6"> Illic repperit, Innocentiamque,</l><l n="7" xml:id="spp-M63589L--line-7"> Et vultum placidum, Indolemque suavem:</l><l n="8" xml:id="spp-M63589L--line-8"> Dextrâ, qu<unclear>ae</unclear>, facili Puer peritus</l><l n="9" xml:id="spp-M63589L--line-9"> Oris à nimio pudore purgat,</l><l n="10" xml:id="spp-M63589L--line-10"> Et morum ruditate ineleganti,</l><l n="11" xml:id="spp-M63589L--line-11"> Ac nimis timidâ fugacitate.</l><l n="12" xml:id="spp-M63589L--line-12"> Sacr<unclear>ae</unclear> Pierides parant deinde</l><l n="13" xml:id="spp-M63589L--line-13"> Ex aulâ ingenuam Institutionem,</l><l n="14" xml:id="spp-M63589L--line-14"> Acumenque acre, Gratiamque form<unclear>ae</unclear>,</l><l n="15" xml:id="spp-M63589L--line-15"> Cum se non nimis efferente Fastu.</l><l n="16" xml:id="spp-M63589L--line-16"> Ab his flava Venus removit omnem</l><l n="17" xml:id="spp-M63589L--line-17"> Procul mollitiem, &amp; malas dolos<unclear>ae</unclear></l><l n="18" xml:id="spp-M63589L--line-18"> Mentis Illecebras, Ineptiasque</l><l n="19" xml:id="spp-M63589L--line-19"> Bonum pravè imitantium, levesque</l><l n="20" xml:id="spp-M63589L--line-20"> Motus, Gloriol<unclear>ae</unclear>que Inanitatem.</l><l n="21" xml:id="spp-M63589L--line-21"> Miscet onmina Jupiter, lutoque</l><l n="22" xml:id="spp-M63589L--line-22"> Temperat meliore, Lydiamque</l><l n="23" xml:id="spp-M63589L--line-23"> Inde appellat opus, stupens, superbum.M63589L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

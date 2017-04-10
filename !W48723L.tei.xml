@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1710.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="!W48723L" type="poem"><head type="note" n="1" xml:id="spp-!W48723L-headnote-1"><lg n="1" xml:id="spp-!W48723L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-!W48723L-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-!W48723L-headnote-2"><lg n="1" xml:id="spp-!W48723L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-!W48723L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-!W48723L-headnote-3"><lg n="1" xml:id="spp-!W48723L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-!W48723L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-!W48723L-line-1"><hi rend="black-letter">W</hi>hig the first Letter of his Name,<hi rend="black-letter">H</hi>ypocrite the second of the same,<hi rend="black-letter">A</hi>narchy his Darling &amp; his Aim,<hi rend="black-letter">R</hi>ebellion, Discord, Mutiny &amp; Faction,<hi rend="black-letter">T</hi>om Captain of the Mob in Soul &amp; Action,<hi rend="black-letter">O</hi>'regrown in Sins, Cornuted, Old, in Debt,<hi rend="black-letter">N</hi>olls Soul &amp; Ireton's live within him yet.!W48723L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

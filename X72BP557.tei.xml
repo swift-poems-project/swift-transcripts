@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A</title>
+        <title>POEM,</title>
+        <title><hi rend="underline">Occasioned by the</hi> Hangings <hi rend="underline">in the</hi></title>
+        <title>Castle of <hi rend="underline">Dublin,</hi></title>
+        <title><hi rend="underline">in which the Story of</hi> P<hi rend="SMALL-CAPS">HAETON</hi> <hi rend="underline">is express'd</hi></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X72BP557" type="poem"><head type="note" n="1" xml:id="spp-X72BP557-headnote-1"><lg n="1" xml:id="spp-X72BP557-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X72BP557-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X72BP557-headnote-2"><lg n="1" xml:id="spp-X72BP557-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X72BP557-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X72BP557-headnote-3"><lg n="1" xml:id="spp-X72BP557-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X72BP557-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X72BP557-line-1"><hi rend="display-initial">N</hi>OT asking, nor expecting ought,One Day I went to view the Court,</l><l n="2" xml:id="spp-X72BP557-line-2"> Unbent, and free from Care or Thought,Tho' thither Hopes and Fears resort:</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-X72BP557-line-3">A Piece of Tap'stry took my Eye,&#13;The faded Colours spoke it Old;</l><l n="4" xml:id="spp-X72BP557-line-4"> But Wrought with curious Imag'ry,The Figures lively seem'd, and Bold.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-X72BP557-line-5">Here you might see the Youth prevail,&#13;(In vain are Eloquence and Wit,)</l><l n="6" xml:id="spp-X72BP557-line-6"> The Boy persists; <hi rend="underline">Apollo</hi>'s frail;Wisdom to Nature does submit.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-X72BP557-line-7">There mounts the eager Charioteer,&#13;Soon from his Seat He's downwards hurl'd;</l><l n="8" xml:id="spp-X72BP557-line-8"> Here J<hi rend="SMALL-CAPS">OVE</hi> in Anger does appear;There all beneath the flaming World.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-X72BP557-line-9">What does this idle Fiction mean?&#13;Is Truth at Court in such disgrace</l><l n="10" xml:id="spp-X72BP557-line-10"> It may not on the Walls be seen?Nor ev'n in Picture shew its Face?</l></lg><lg n="6" type="stanza"><l n="11" xml:id="spp-X72BP557-line-11">No, no: 'tis not a <hi rend="underline">senseless</hi> Tale,By sweet-Tongued <hi rend="underline">Ovid</hi> dress'd so fine,</l><l n="12" xml:id="spp-X72BP557-line-12"> It does important Truths conceal,And here was plac'd by wise Design.</l></lg><lg n="7" type="stanza"><l n="13" xml:id="spp-X72BP557-line-13">A Lesson deep with Learning fraught,&#13;Worthy the Cabinets of Kings,</l><l n="14" xml:id="spp-X72BP557-line-14"> Fit Subject of their constant Thought,In matchless Verse the Poet Sings.</l></lg><lg n="8" type="stanza"><l n="15" xml:id="spp-X72BP557-line-15">Well should He weigh who does aspire&#13;To Empire, whether, truly Great,</l><l n="16" xml:id="spp-X72BP557-line-16"> His Head, his Heart, his Hand conspireTo make him equal to that Seat.</l></lg><lg n="9" type="stanza"><l n="17" xml:id="spp-X72BP557-line-17">If only fond Desire of Sway,&#13;By Av'rice, or Ambition fed,</l><l n="18" xml:id="spp-X72BP557-line-18"> Make him affect to Guide the Day,Alas! what strange Confusion's bred?</l></lg><lg n="10" type="stanza"><l n="19" xml:id="spp-X72BP557-line-19">If either, void of Princely Care,&#13;Remiss He holds the slackned Rein;</l><l n="20" xml:id="spp-X72BP557-line-20"> If rising Heats, or mad Career,Unskill'd, He knows not to restrain;</l></lg><lg n="11" type="stanza"><l n="21" xml:id="spp-X72BP557-line-21">Or if perhaps He gives a Loose,&#13;In Wanton Pride to shew his Skill,</l><l n="22" xml:id="spp-X72BP557-line-22"> How easily He can reduce,And curb the people's Rage at Will,</l></lg><lg n="12" type="stanza"><l n="23" xml:id="spp-X72BP557-line-23">In wild Uproar they hurry on.&#13;The Great, the Good, the Just, the Wise</l><l n="24" xml:id="spp-X72BP557-line-24"> (L<hi rend="SMALL-CAPS">AW</hi> and R<hi rend="SMALL-CAPS">ELIGION</hi> Overthrown)Are first mark'd out for Sacrifice.</l></lg><lg n="13" type="stanza"><l n="25" xml:id="spp-X72BP557-line-25">When, to a Height their Fury grown,&#13;Finding too late He can't retire,</l><l n="26" xml:id="spp-X72BP557-line-26"> He proves the <hi rend="underline">real</hi> PHAETON,And <hi rend="underline">truly</hi> sets the World on fire.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

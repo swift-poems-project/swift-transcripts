@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A</title>
+        <title>BALLAD</title>
+        <title><hi rend="underline">on the Game of</hi> T<hi rend="SMALL-CAPS">RAFFICK</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="074-WILH" type="poem"><head type="note" n="1" xml:id="spp-074-WILH-headnote-1"><lg n="1" xml:id="spp-074-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-074-WILH-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-074-WILH-headnote-2"><lg n="1" xml:id="spp-074-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-074-WILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-074-WILH-headnote-3"><lg n="1" xml:id="spp-074-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-074-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-074-WILH-line-1"><hi rend="black-letter">M</hi><hi rend="underline">Y Lord</hi> to find out who must dealDelivers Cards about,</l><l n="2" xml:id="spp-074-WILH-line-2"> But the first Knave does seldom failTo find the <hi rend="underline">Doctor</hi> out.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-074-WILH-line-3">But then his <hi rend="underline">Honour</hi> cry'd, Godzooks!And seem'd to knit his Brow;</l><l n="4" xml:id="spp-074-WILH-line-4"> For on a Knave he never looksBut H' thinks upon <hi rend="underline">Jack How</hi>.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-074-WILH-line-5">My <hi rend="underline">Lady</hi> tho' she is no PlayerSome bungling Partner takes,</l><l n="6" xml:id="spp-074-WILH-line-6"> And wedg'd in Corner of a ChairTakes Snuff, and holds the Stakes.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-074-WILH-line-7">Dame <hi rend="underline">Floyd</hi> looks out in grave SuspenceFor Pair-royals and Sequents;</l><l n="8" xml:id="spp-074-WILH-line-8"> But wisely cautious of her Pence,The Castle seldom frequents.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-074-WILH-line-9">Quoth <hi rend="underline">Herries</hi>, fairly putting Cases,I'd won it on my Word,</l><l n="10" xml:id="spp-074-WILH-line-10"> If I had but a Pair of Aces,And could pick up a Third.</l></lg><lg n="6" type="stanza"><l n="11" xml:id="spp-074-WILH-line-11">But <hi rend="underline">Weston</hi> has a new-cast GownOn <hi rend="underline">Sundays</hi> to be fine in,</l><l n="12" xml:id="spp-074-WILH-line-12"> And if she can but win a <hi rend="underline">Crown</hi>,'Twill just new dye the Lining.</l></lg><lg n="7" type="stanza"><l n="13" xml:id="spp-074-WILH-line-13">“With these is Parson <hi rend="underline">Swift</hi>,“Not knowing how to spend his Time,</l><l n="14" xml:id="spp-074-WILH-line-14"> “Does make a wretched Shift,“To deafen 'em with Puns and Rhime.<gap/>074-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

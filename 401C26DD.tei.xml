@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="401C26DD" type="poem"><head type="note" n="1" xml:id="spp-401C26DD-headnote-1"><lg n="1" xml:id="spp-401C26DD-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-401C26DD-headnote-1-line-group-1-line-1">DUBLI<hi rend="underline">N</hi>, <hi rend="underline">A</hi>pril the 30.</l></lg></head><head type="note" n="2" xml:id="spp-401C26DD-headnote-2"><lg n="1" xml:id="spp-401C26DD-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-401C26DD-headnote-2-line-group-1-line-1">The Revd. Dean Swift of Dublin, upon making his publick Entrance into Chester, observing the condition of the Church, and the habit of the Clergy, writ with his Diamond Pencill, upon a Pane of Glass the following Lines.</l></lg></head><head type="note" n="3" xml:id="spp-401C26DD-headnote-3"><lg n="1" xml:id="spp-401C26DD-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-401C26DD-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-401C26DD-line-1">Your Mouldring walls are mending still,&#13;Your Churches empty lye,<hi rend="underline">A</hi>nd yet the Scripture you fulfil,By walking Circumspectly.</l><l n="2" xml:id="spp-401C26DD-line-2"> The Church and Clergy, they are bothHere very near a kin,</l><l n="3" xml:id="spp-401C26DD-line-3"> Both weather-beaten are without,<hi rend="underline">A</hi>nd empty both within.401C26DD   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

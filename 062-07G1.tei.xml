@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-062-07G1-title-1">The D<hi rend="SMALL-CAPS">ISCOVERY</hi> <ref target="#spp-062-07G1-footnote-title-1">1</ref><note n="1" xml:id="spp-062-07G1-footnote-title-1" place="foot">When the Earl of Berkeley went over to Ireland as one of the Lord Justices, the author, in compliance with his invitation, went over with him as chaplain and private secretary. But Bush, another of the Earl's attendants, having insinuated, that the place of secretary was not proper for a clergyman, found means, soon after they arrived at Dublin, to obtain it for himself.────Swift, fired with indignation at this injurious treatment, writ this satirical copy of verses. <hi rend="underline">Swift</hi>.</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-062-07G1-footnote-title-1 #spp-062-07G1-title-1"/>
+          <link target="#spp-062-07G1-footnote-1 #spp-062-07G1-line-5"/>
+          <link target="#spp-062-07G1-footnote-2 #spp-062-07G1-line-6"/>
+          <link target="#spp-062-07G1-footnote-3 #spp-062-07G1-line-12"/>
+        </linkGrp>
+        <div n="062-07G1" type="poem"><head type="note" n="1" xml:id="spp-062-07G1-headnote-1"><lg n="1" xml:id="spp-062-07G1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-062-07G1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-062-07G1-headnote-2"><lg n="1" xml:id="spp-062-07G1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-062-07G1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-062-07G1-headnote-3"><lg n="1" xml:id="spp-062-07G1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-062-07G1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-062-07G1-line-1"><hi rend="display-initial">W</hi>Hen wise Lord Berkeley first came here,Statesmen and mob expected wonders;</l><l n="2" xml:id="spp-062-07G1-line-2"> Nor thought to find so great a peerEre a week past committing blunders.</l><l n="3" xml:id="spp-062-07G1-line-3"> Till on a day cut out by fate,When folk came thick to make their court,</l><l n="4" xml:id="spp-062-07G1-line-4"> Out slipt a mystery of state,To give the town and country sport.</l><l n="5" xml:id="spp-062-07G1-line-5"> Now enters Bush <ref target="#spp-062-07G1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-062-07G1-footnote-1">My Lord's wise secretary.</note> with new state-airs,His Lordship's premier minister;</l><l n="6" xml:id="spp-062-07G1-line-6"> And who in all profound affairsIs held as needful as his clyster<ref target="#spp-062-07G1-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-062-07G1-footnote-2">Always taken before my Lord went to council.</note>.</l><l n="7" xml:id="spp-062-07G1-line-7"> With head reclining on his shoulder,He deals and hears mysterious chat,</l><l n="8" xml:id="spp-062-07G1-line-8"> While every ignorant beholderAsks of his neighbour, Who is that?</l><l n="9" xml:id="spp-062-07G1-line-9"> With this he put up to my Lord,The courtiers kept their distance due,</l><l n="10" xml:id="spp-062-07G1-line-10"> He twitch'd his sleeve, and stole a word;Then to a corner both withdrew.</l><l n="11" xml:id="spp-062-07G1-line-11"> Imagine now my Lord and BushWhisp'ring in junto most profound,</l><l n="12" xml:id="spp-062-07G1-line-12"> Like good King Phyz, and good King Ush<ref target="#spp-062-07G1-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-062-07G1-footnote-3">Vide the Rehearsal.</note>,While all the rest stood gaping round.</l><l n="13" xml:id="spp-062-07G1-line-13"> At length a spark, not too well bred,Of forward face and ear acute,</l><l n="14" xml:id="spp-062-07G1-line-14"> Advanc'd on tiptoe, lean'd his head,To overhear the grand dispute;</l><l n="15" xml:id="spp-062-07G1-line-15"> To learn what northern kings design,Or from Whitehall some new express,</l><l n="16" xml:id="spp-062-07G1-line-16"> Papists disarm'd, or fall of coin:For sure (thought he) it can't be less.</l><l n="17" xml:id="spp-062-07G1-line-17"> My Lord, said Bush, a friend and IDisguis'd in two old threadbare coats,</l><l n="18" xml:id="spp-062-07G1-line-18"> Ere morning's dawn stole out to spyHow markets went for hay and oats:</l><l n="19" xml:id="spp-062-07G1-line-19"> With that he draws two handfuls out,The one was oats, the other hay;</l><l n="20" xml:id="spp-062-07G1-line-20"> Puts this to's Excellency's snout,And begs he would the other weigh.</l><l n="21" xml:id="spp-062-07G1-line-21"> My Lord seems pleas'd, but still directsBy all means to bring down the rates;</l><l n="22" xml:id="spp-062-07G1-line-22"> Then, with a congee circumflex,Bush, smiling round on all, retreats.</l><l n="23" xml:id="spp-062-07G1-line-23"> Our list'ner stood a while confus'd,But gath'ring spirits wisely ran for't,</l><l n="24" xml:id="spp-062-07G1-line-24"> Enrag'd to see the world abus'dBy two such whisp'ring kings of Brentford!062-07G1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

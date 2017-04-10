@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">Dean Smedley Gone to Seek His Fortune</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="455-ROGP" type="poem"><head type="note" n="1" xml:id="spp-455-ROGP-headnote-1"><lg n="1" xml:id="spp-455-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-455-ROGP-headnote-1-line-group-1-line-1"><hi rend="underline">Per varias casus, per tot discrimina rerum <lb/> Virgil, Aeneid I, 204</hi></l></lg></head><head type="note" n="2" xml:id="spp-455-ROGP-headnote-2"><lg n="1" xml:id="spp-455-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-455-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-455-ROGP-headnote-3"><lg n="1" xml:id="spp-455-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-455-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-455-ROGP-line-1"> The very reverend Dean Smedley,&#13;</l><l n="2" xml:id="spp-455-ROGP-line-2"> Of dullness, pride, conceit, a medley,</l><l n="3" xml:id="spp-455-ROGP-line-3"> Was equally allowed to shine,</l><l n="4" xml:id="spp-455-ROGP-line-4"> As poet, scholar and divine.</l><l n="5" xml:id="spp-455-ROGP-line-5"> With godliness could well dispense,</l><l n="6" xml:id="spp-455-ROGP-line-6"> Would be a rake, but wanted sense.</l><l n="7" xml:id="spp-455-ROGP-line-7"> Would strictly after truth inquire</l><l n="8" xml:id="spp-455-ROGP-line-8"> Because he dreaded to come nigher.</l><l n="9" xml:id="spp-455-ROGP-line-9"> For liberty no champion bolder,</l><l n="10" xml:id="spp-455-ROGP-line-10"> He hated bailiffs at his shoulder.</l><l n="11" xml:id="spp-455-ROGP-line-11"> To half the world a standing jest,</l><l n="12" xml:id="spp-455-ROGP-line-12"> A perfect nuisance to the rest.</l><l n="13" xml:id="spp-455-ROGP-line-13"> From many (and we may believe him)</l><l n="14" xml:id="spp-455-ROGP-line-14"> Had the best wishes they could give him.</l><l n="15" xml:id="spp-455-ROGP-line-15"> To all mankind a constant friend,</l><l n="16" xml:id="spp-455-ROGP-line-16"> Provided they had cash to lend.</l><l n="17" xml:id="spp-455-ROGP-line-17"> One thing he did before he went hence,</l><l n="18" xml:id="spp-455-ROGP-line-18"> He left us a laconic sentence,</l><l n="19" xml:id="spp-455-ROGP-line-19"> By cutting of his phrase, and trimming,</l><l n="20" xml:id="spp-455-ROGP-line-20"> To prove that bishops were old women.</l><l n="21" xml:id="spp-455-ROGP-line-21"> Poor Envy durst not show her phiz,</l><l n="22" xml:id="spp-455-ROGP-line-22"> She was so terrified at his.</l><l n="23" xml:id="spp-455-ROGP-line-23"> He waded without any shame,</l><l n="24" xml:id="spp-455-ROGP-line-24"> Through thick and thin, to get a name.</l><l n="25" xml:id="spp-455-ROGP-line-25"> Tried every sharping trick for bread,</l><l n="26" xml:id="spp-455-ROGP-line-26"> And after all he seldom sped.</l><l n="27" xml:id="spp-455-ROGP-line-27"> When fortune favoured, he was nice,</l><l n="28" xml:id="spp-455-ROGP-line-28"> He never once would cog the dice,</l><l n="29" xml:id="spp-455-ROGP-line-29"> But if she turned against his play,</l><l n="30" xml:id="spp-455-ROGP-line-30"> He knew to stop <hi rend="underline">à quatre trois</hi>.</l><l n="31" xml:id="spp-455-ROGP-line-31"> Now sound in mind, and sound in corpus,</l><l n="32" xml:id="spp-455-ROGP-line-32"> (Says he) though swelled like any porpoise,</l><l n="33" xml:id="spp-455-ROGP-line-33"> He hies from hence at forty-four,</l><l n="34" xml:id="spp-455-ROGP-line-34"> (But by his leave he sinks a score,)</l><l n="35" xml:id="spp-455-ROGP-line-35"> To the East Indies, there to cheat,</l><l n="36" xml:id="spp-455-ROGP-line-36"> Till he can purchase an estate;</l><l n="37" xml:id="spp-455-ROGP-line-37"> Where after he has filled his chest,</l><l n="38" xml:id="spp-455-ROGP-line-38"> He'll mount his tub, and preach his best,</l><l n="39" xml:id="spp-455-ROGP-line-39"> And plainly prove by dint of text,</l><l n="40" xml:id="spp-455-ROGP-line-40"> This world is his, and theirs the next.</l></lg><lg n="2" type="stanza"><l n="41" xml:id="spp-455-ROGP-line-41">Lest that the reader should not know,&#13;</l><l n="42" xml:id="spp-455-ROGP-line-42"> The bank where last he set his toe,</l><l n="43" xml:id="spp-455-ROGP-line-43"> 'Twas Greenwich. There he took a ship,</l><l n="44" xml:id="spp-455-ROGP-line-44"> And gave his creditors the slip.</l><l n="45" xml:id="spp-455-ROGP-line-45"> But lest chronology should vary,</l><l n="46" xml:id="spp-455-ROGP-line-46"> Upon the ides of February,</l><l n="47" xml:id="spp-455-ROGP-line-47"> In seventeen hundred eight and twenty,</l><l n="48" xml:id="spp-455-ROGP-line-48"> To Fort St George a pedlar went he.</l><l n="49" xml:id="spp-455-ROGP-line-49"> Ye fates, when all he gets is spent,</l><l n="50" xml:id="spp-455-ROGP-line-50"> Return him beggar as he went.455-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

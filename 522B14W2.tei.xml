@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TO BETTY,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="522B14W2" type="poem"><head type="note" n="1" xml:id="spp-522B14W2-headnote-1"><lg n="1" xml:id="spp-522B14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-522B14W2-headnote-1-line-group-1-line-1">THE GRISETTE.</l></lg></head><head type="note" n="2" xml:id="spp-522B14W2-headnote-2"><lg n="1" xml:id="spp-522B14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-522B14W2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-522B14W2-headnote-3"><lg n="1" xml:id="spp-522B14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-522B14W2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-522B14W2-line-1"> Q<hi rend="SMALL-CAPS">UEEN</hi> of wit and beauty, Betty,</l><l n="2" xml:id="spp-522B14W2-line-2"> Never may the Muse forget ye,</l><l n="3" xml:id="spp-522B14W2-line-3"> How thy face charms every shepherd,</l><l n="4" xml:id="spp-522B14W2-line-4"> Spotted over like a leopard!</l><l n="5" xml:id="spp-522B14W2-line-5"> And thy freckled neck, display'd,</l><l n="6" xml:id="spp-522B14W2-line-6"> Envy breeds in every maid;</l><l n="7" xml:id="spp-522B14W2-line-7"> Like a fly-blown cake of tallow,</l><l n="8" xml:id="spp-522B14W2-line-8"> Or on parchment ink turn'd yellow;</l><l n="9" xml:id="spp-522B14W2-line-9"> Or a tawny speckled pippin,</l><l n="10" xml:id="spp-522B14W2-line-10"> Shrivell'd with a winter's keeping.And, thy beauty thus dispatch'd,</l><l n="11" xml:id="spp-522B14W2-line-11"> Let me praise thy wit unmatch'd.Sets of phrases, cut and dry,</l><l n="12" xml:id="spp-522B14W2-line-12"> Evermore thy tongue supply;</l><l n="13" xml:id="spp-522B14W2-line-13"> And thy memory is loaded</l><l n="14" xml:id="spp-522B14W2-line-14"> With old scraps from plays exploded;</l><l n="15" xml:id="spp-522B14W2-line-15"> Stock'd with repartees and jokes,</l><l n="16" xml:id="spp-522B14W2-line-16"> Suited to all Christian folks:</l><l n="17" xml:id="spp-522B14W2-line-17"> Shreds of wit, and senseless rhymes,</l><l n="18" xml:id="spp-522B14W2-line-18"> Blunder'd out a thousand times;</l><l n="19" xml:id="spp-522B14W2-line-19"> Nor wilt thou of gifts be sparing,</l><l n="20" xml:id="spp-522B14W2-line-20"> Which can ne'er be worse for wearing.</l><l n="21" xml:id="spp-522B14W2-line-21"> Picking wit among collegians,</l><l n="22" xml:id="spp-522B14W2-line-22"> In the playhouse upper regions;</l><l n="23" xml:id="spp-522B14W2-line-23"> Where, in the eighteen-penny gallery,</l><l n="24" xml:id="spp-522B14W2-line-24"> Irish nymphs learn Irish raillery.</l><l n="25" xml:id="spp-522B14W2-line-25"> But thy merit is thy failing,</l><l n="26" xml:id="spp-522B14W2-line-26"> And thy raillery is railing.Thus with talents well endued</l><l n="27" xml:id="spp-522B14W2-line-27"> To be scurrilous and rude;</l><l n="28" xml:id="spp-522B14W2-line-28"> When you pertly raise your snout,</l><l n="29" xml:id="spp-522B14W2-line-29"> Fleer and gibe, and laugh and flout;</l><l n="30" xml:id="spp-522B14W2-line-30"> This among Hibernian asses</l><l n="31" xml:id="spp-522B14W2-line-31"> For sheer wit and humour passes.</l><l n="32" xml:id="spp-522B14W2-line-32"> Thus indulgent Chloe, bit,</l><l n="33" xml:id="spp-522B14W2-line-33"> Swears you have a world of wit.522B14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

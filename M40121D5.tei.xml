@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE</title>
+        <title>Merchant's Vindication of</title>
+        <title><hi rend="underline">CALLICOEs</hi>. Or, A Modest Answer to a</title>
+        <title>late <hi rend="underline">PROLOGUE</hi> and <hi rend="underline">EPILOGUE</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M40121D5" type="poem"><head type="note" n="1" xml:id="spp-M40121D5-headnote-1"><lg n="1" xml:id="spp-M40121D5-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M40121D5-headnote-1-line-group-1-line-1"><hi rend="underline">Fæmineo Generi tribuantur</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-M40121D5-headnote-2"><lg n="1" xml:id="spp-M40121D5-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M40121D5-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M40121D5-headnote-3"><lg n="1" xml:id="spp-M40121D5-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M40121D5-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-M40121D5-line-1"><hi rend="display-initial">T</hi>HE <hi rend="underline">Muses</hi> whom the richest Silks array,</l><l n="2" xml:id="spp-M40121D5-line-2"> Refuse to fling their shining Gowns away;</l><l n="3" xml:id="spp-M40121D5-line-3"> The <hi rend="underline">Pencil</hi> cloaths the <hi rend="underline">Nine</hi> in bright <hi rend="underline">Brocades</hi>,</l><l n="4" xml:id="spp-M40121D5-line-4"> And gives each Colour to the Pictur'd Maids,</l><l n="5" xml:id="spp-M40121D5-line-5"> Far above Mortal Dress the <hi rend="underline">Sisters</hi> shine,</l><l n="6" xml:id="spp-M40121D5-line-6"> Pride in their <hi rend="underline">Indian-Robes</hi>────and must be fine.</l><l n="7" xml:id="spp-M40121D5-line-7"> And must Two <hi rend="underline">Bards</hi> in Consort Rhyme and Huff,</l><l n="8" xml:id="spp-M40121D5-line-8"> And fret these <hi rend="underline">Muses</hi> with their Play-House <hi rend="underline">Stuff</hi>?The <hi rend="underline">Play'r</hi> in Mimick Piety may storm,</l><l n="9" xml:id="spp-M40121D5-line-9"> Deplore the <hi rend="underline">Combe</hi>, and bid her Heroes arm,</l><l n="10" xml:id="spp-M40121D5-line-10"> The Arbitrary M────b in Paultry Rage</l><l n="11" xml:id="spp-M40121D5-line-11"> May curse the <hi rend="underline">Belles</hi> and <hi rend="underline">Chinces</hi> of the Age,</l><l n="12" xml:id="spp-M40121D5-line-12"> Yet still the <hi rend="underline">Artist-Worm</hi> her <hi rend="underline">Silk</hi> shall share,</l><l n="13" xml:id="spp-M40121D5-line-13"> And spin her Thread of Life in Service of the Fair.The <hi rend="underline">Cotten-Plant</hi> whom <hi rend="underline">Satyr</hi> cannot blast,</l><l n="14" xml:id="spp-M40121D5-line-14"> Shall bloom the Favourite of these Realms and last,</l><l n="15" xml:id="spp-M40121D5-line-15"> Like Yours, ye Fair, her Fame from Censure grows</l><l n="16" xml:id="spp-M40121D5-line-16"> Prevails in Charms, and glares above her Foes,</l><l n="17" xml:id="spp-M40121D5-line-17"> Your injur'd <hi rend="underline">Plant</hi> shall meet a loud Defence</l><l n="18" xml:id="spp-M40121D5-line-18"> And be the Emblem of your Innocence.Some Bard perhaps whose Landlord was a <hi rend="underline">Weaver</hi></l><l n="19" xml:id="spp-M40121D5-line-19"> Pen'd the low <hi rend="underline">Prologue</hi> to return a Favour,</l><l n="20" xml:id="spp-M40121D5-line-20"> Some Neighbour Wit that wou'd be in the Vogue</l><l n="21" xml:id="spp-M40121D5-line-21"> Work'd with his Friend, and wove the <hi rend="underline">Epilogue</hi>.</l><l n="22" xml:id="spp-M40121D5-line-22"> Who Weavs the Chaplet, or provides the Bays,</l><l n="23" xml:id="spp-M40121D5-line-23"> For such <hi rend="underline">Wool-gathering</hi> Soneteers as these?Hence then ye <hi rend="underline">Home-spun Witlings</hi>, that persuade</l><l n="24" xml:id="spp-M40121D5-line-24"> Miss <hi rend="underline">Chloe</hi> to the Fashion of her Maid,</l><l n="25" xml:id="spp-M40121D5-line-25"> Shall the <hi rend="underline">Wide Hoop</hi>, that STANDARD of the <hi rend="underline">Town</hi>,</l><l n="26" xml:id="spp-M40121D5-line-26"> Thus act subservient to a <hi rend="underline">Poplin Gown</hi>?</l><l n="27" xml:id="spp-M40121D5-line-27"> Who'd smell of <hi rend="underline">Wool</hi> all over? 'Tis enough</l><l n="28" xml:id="spp-M40121D5-line-28"> The <hi rend="underline">Under-Petticoat</hi> be made of <hi rend="underline">Stuff</hi>.</l><l n="29" xml:id="spp-M40121D5-line-29"> Lord! to be wrapt in <hi rend="underline">Flannin</hi> just in <hi rend="underline">May</hi>,</l><l n="30" xml:id="spp-M40121D5-line-30"> When the Fields dress'd in <hi rend="underline">Flow'rs</hi> appear so gay────</l><l n="31" xml:id="spp-M40121D5-line-31"> ──Shan't <hi rend="underline">Miss</hi> be <hi rend="underline">Flower'd</hi> as well as they?In what weak Colours wou'd the <hi rend="underline">PLAD</hi> appear</l><l n="32" xml:id="spp-M40121D5-line-32"> Work'd to a <hi rend="underline">Quilt</hi>, or study'd in a Chair?</l><l n="33" xml:id="spp-M40121D5-line-33"> The Skin that vies with <hi rend="underline">Silk</hi>, who'd fret with <hi rend="underline">Stuff</hi>?</l><l n="34" xml:id="spp-M40121D5-line-34"> Or who cou'd bear in Red a Thing so rough,</l><l n="35" xml:id="spp-M40121D5-line-35"> Ye knowing Fair how eminent that Bed</l><l n="36" xml:id="spp-M40121D5-line-36"> Where the <hi rend="underline">Chince-Diamonds</hi> with the <hi rend="underline">Silken-Thread</hi>!</l><l n="37" xml:id="spp-M40121D5-line-37"> Where Rustling Curtains call the Curious Eye</l><l n="38" xml:id="spp-M40121D5-line-38"> And boast the Streaks and Paintings of the Sky,</l><l n="39" xml:id="spp-M40121D5-line-39"> Of <hi rend="underline">Flocks</hi> they'd have your Milky <hi rend="underline">Ticking</hi> full</l><l n="40" xml:id="spp-M40121D5-line-40"> And all this for the Benefit of <hi rend="underline">Wooll</hi>.But where, say they, shall we bestow these <hi rend="underline">Weavers</hi></l><l n="41" xml:id="spp-M40121D5-line-41"> That spread our Streets, and are such Piteous <hi rend="underline">Cravers</hi>.</l><l n="42" xml:id="spp-M40121D5-line-42"> The <hi rend="underline">Silk-Worms</hi> (brittle Beings) prone to Fate</l><l n="43" xml:id="spp-M40121D5-line-43"> Demands their Care to make their <hi rend="underline">Webbs</hi> complete;</l><l n="44" xml:id="spp-M40121D5-line-44"> These may they tend, their Promises receive,</l><l n="45" xml:id="spp-M40121D5-line-45"> We cannot pay too much for what they give.M40121D5   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">Dr</hi> D<hi rend="SMALL-CAPS">ELANY</hi>'s <hi rend="underline">Riddle to Lady</hi> C──.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="938B31GS" type="poem"><head type="note" n="1" xml:id="spp-938B31GS-headnote-1"><lg n="1" xml:id="spp-938B31GS-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-938B31GS-headnote-1-line-group-1-line-1"><hi rend="underline">p</hi>. 306, <hi rend="underline">answer'd by Dr</hi> Swift.</l></lg></head><head type="note" n="2" xml:id="spp-938B31GS-headnote-2"><lg n="1" xml:id="spp-938B31GS-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-938B31GS-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-938B31GS-headnote-3"><lg n="1" xml:id="spp-938B31GS-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-938B31GS-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-938B31GS-line-1"><hi rend="display-initial">W</hi>ITH half an EYE</l><l n="2" xml:id="spp-938B31GS-line-2"> Your <hi rend="underline">Riddle</hi> I spy,</l><l n="3" xml:id="spp-938B31GS-line-3"> I observe your Wicket</l><l n="4" xml:id="spp-938B31GS-line-4"> Hemm'd in by a Thicket;</l><l n="5" xml:id="spp-938B31GS-line-5"> And whatever passes,</l><l n="6" xml:id="spp-938B31GS-line-6"> Is strain'd thro' Glasses.</l><l n="7" xml:id="spp-938B31GS-line-7"> You're reported to dwell,</l><l n="8" xml:id="spp-938B31GS-line-8"> Like a <hi rend="underline">Monk</hi> in a Cell:</l><l n="9" xml:id="spp-938B31GS-line-9"> You say it is quiet;</l><l n="10" xml:id="spp-938B31GS-line-10"> I flatly deny it:</l><l n="11" xml:id="spp-938B31GS-line-11"> It wanders about,</l><l n="12" xml:id="spp-938B31GS-line-12"> Without stirring out.</l><l n="13" xml:id="spp-938B31GS-line-13"> No Passion so weak,</l><l n="14" xml:id="spp-938B31GS-line-14"> But gives it a Tweak;</l><l n="15" xml:id="spp-938B31GS-line-15"> Love, Joy and Devotion,</l><l n="16" xml:id="spp-938B31GS-line-16"> Set it always in motion.</l><l n="17" xml:id="spp-938B31GS-line-17"> And as for the Tragick</l><l n="18" xml:id="spp-938B31GS-line-18"> Effects of its Magick;</l><l n="19" xml:id="spp-938B31GS-line-19"> Which you say, it can kill,</l><l n="20" xml:id="spp-938B31GS-line-20"> Or revive, at its Will:</l><l n="21" xml:id="spp-938B31GS-line-21"> The Dead are all sound,</l><l n="22" xml:id="spp-938B31GS-line-22"> And revive above Ground.</l><l n="23" xml:id="spp-938B31GS-line-23"> After all you have writ,</l><l n="24" xml:id="spp-938B31GS-line-24"> It cannot be Wit.</l><l n="25" xml:id="spp-938B31GS-line-25"> Which plainly does follow,</l><l n="26" xml:id="spp-938B31GS-line-26"> Since it flies from <hi rend="underline">Apollo</hi>;</l><l n="27" xml:id="spp-938B31GS-line-27"> Its Cowardice such,</l><l n="28" xml:id="spp-938B31GS-line-28"> It cries at a Touch.</l><l n="29" xml:id="spp-938B31GS-line-29"> 'Tis a perfect Milksop,</l><l n="30" xml:id="spp-938B31GS-line-30"> Grows Drunk with a Drop.</l><l n="31" xml:id="spp-938B31GS-line-31"> Another great Fault,</l><l n="32" xml:id="spp-938B31GS-line-32"> It cannot bear Salt:</l><l n="33" xml:id="spp-938B31GS-line-33"> And a Hair can disarm</l><l n="34" xml:id="spp-938B31GS-line-34"> It of every Charm.938B31GS   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

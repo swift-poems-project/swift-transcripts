@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ADVICE</title>
+        <title>To a Certain<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z473A73-" type="poem"><head type="note" n="1" xml:id="spp-Z473A73--headnote-1"><lg n="1" xml:id="spp-Z473A73--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Z473A73--headnote-1-line-group-1-line-1"><hi rend="underline">Parais Deorum cultor et Infrequens</hi>,</l></lg><lg n="2" xml:id="spp-Z473A73--headnote-1-line-group-2" type="headnote"><l n="1" xml:id="spp-Z473A73--headnote-1-line-group-2-line-1"><lb/><lb/><hi rend="underline">Insenientis dum Sapientia</hi></l></lg><lg n="3" xml:id="spp-Z473A73--headnote-1-line-group-3" type="headnote"><l n="1" xml:id="spp-Z473A73--headnote-1-line-group-3-line-1"><lb/><hi rend="underline">Consultus</hi>────────────</l></lg></head><head type="note" n="2" xml:id="spp-Z473A73--headnote-2"><lg n="1" xml:id="spp-Z473A73--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Z473A73--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Z473A73--headnote-3"><lg n="1" xml:id="spp-Z473A73--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Z473A73--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Z473A73--line-1"><hi rend="display-initial">O</hi><hi rend="underline">S───t</hi>! why shou'd you who art wiser indeed,</l><l n="2" xml:id="spp-Z473A73--line-2"> Than Modern Deans───who can Write and can Read</l><l n="3" xml:id="spp-Z473A73--line-3"> Why shou'd you then trouble your self with such Things,</l><l n="4" xml:id="spp-Z473A73--line-4"> As M────es, D────rs, or De────ty K────gs?</l><l n="5" xml:id="spp-Z473A73--line-5"> If these be the Subjects of <hi rend="underline">J──────n's</hi> Pen,</l><l n="6" xml:id="spp-Z473A73--line-6"> No more will we call him the <hi rend="underline">wisest of Men</hi>;</l><l n="7" xml:id="spp-Z473A73--line-7"> No more we'll his Freedom on BOXES of Gold,</l><l n="8" xml:id="spp-Z473A73--line-8"> No more we'll his Picture on <hi rend="underline">Sign Posts</hi> behold────</l><l n="9" xml:id="spp-Z473A73--line-9"> Why shou'd you then <hi rend="underline">J──────n</hi> trouble your Pate,<hi rend="underline">With begging Epistles</hi>, or Matters of State?</l></lg><lg n="2" type="stanza"><l n="10" xml:id="spp-Z473A73--line-10">Let the D────r be stupidly fond of his Letters,&#13;And dull with Impertinance trouble his Betters:Let him Cringe, Lie, and Flatter, and do what he can,(Those Arts seldom fail to win a <hi rend="underline">Great Man</hi>)Let him practice 'em over and over again,He'll find he is a Reader of Books, not of Men.</l></lg><lg n="3" type="stanza"><l n="11" xml:id="spp-Z473A73--line-11">The D────r, it may be, believes himself scanted,&#13;</l><l n="12" xml:id="spp-Z473A73--line-12"> In poor pretty Hundreds, when Thousands he wanted;</l><l n="13" xml:id="spp-Z473A73--line-13"> He knows that his Merits are equal to any,</l><l n="14" xml:id="spp-Z473A73--line-14"> For who's not acquainted with D────r <hi rend="underline">D────y</hi>?</l><l n="15" xml:id="spp-Z473A73--line-15"> I believe there are few who won't think it <hi rend="underline">Insanum</hi>,</l><l n="16" xml:id="spp-Z473A73--line-16"> That the Doctor's possess'd of five Hundred <hi rend="underline">per Annum</hi>;</l><l n="17" xml:id="spp-Z473A73--line-17"> Or, Merit like his, shou'd be look'd on no better,</l><l n="18" xml:id="spp-Z473A73--line-18"> Or Answer be made to his <hi rend="underline">Excellent LETTER</hi>:</l><l n="19" xml:id="spp-Z473A73--line-19"> These, these, are the Effects of the Times we must know,</l><l n="20" xml:id="spp-Z473A73--line-20"> For this Way it was not some Hundreds ago.</l></lg><lg n="4" type="stanza"><l n="21" xml:id="spp-Z473A73--line-21">But why in good Troth shou'd such Whim'eys as These,&#13;Be ever remember'd in <hi rend="underline">J──────n's</hi> Lays?No more let such Trifles your Hours Employ,No more let such Subjects your Virtue Destroy:Take this from a Friend, be <hi rend="underline">Good</hi> as you'r <hi rend="underline">Wise</hi>,Nor think as a Church-man, you ever will rise,'Till my Wise Dean you'll give over your LIBEL,Apply to RELIGION, and think on the BIBLE.────</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

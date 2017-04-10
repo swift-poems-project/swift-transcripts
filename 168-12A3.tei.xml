@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Peace and Dunkirk;</title>
+        <title>BEING AN</title>
+        <title>Excellent New Song upon the Surren-</title>
+        <title>der of <hi rend="underline">Dunkirk</hi> to General <hi rend="underline">Hill</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="168-12A3" type="poem"><head type="note" n="1" xml:id="spp-168-12A3-headnote-1"><lg n="1" xml:id="spp-168-12A3-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-168-12A3-headnote-1-line-group-1-line-1">To the Tune of, <hi rend="underline">The King shall enjoy His own again</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-168-12A3-headnote-2"><lg n="1" xml:id="spp-168-12A3-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-168-12A3-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-168-12A3-headnote-3"><lg n="1" xml:id="spp-168-12A3-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-168-12A3-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-168-12A3-line-1"><hi rend="display-initial">S</hi>PIGHT of <hi rend="underline">Dutch</hi> Friends and <hi rend="underline">English</hi> Foes,Great <hi rend="underline">Britain</hi> shall have Peace at last;<hi rend="underline">Holland</hi> got Towns, and we got Blows,But <hi rend="underline">Dunkirk</hi>'s Ours, we'll hold it fast:We have got it in a String,And the Whigs may all go Swing,</l><l n="2" xml:id="spp-168-12A3-line-2" rend="align(center)"> For among good Friends, I love to be plain;All their false-deluded Hopes,Will, or ought, to end in Ropes;<hi rend="underline">For the </hi>QUEEN<hi rend="underline"> has enjoy'd Her own again</hi>.II.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-168-12A3-line-3" rend="flush left align(center)"><hi rend="underline">Sunder------d</hi>'s run out of his Wits,And <hi rend="underline">Dismal</hi> double-<hi rend="underline">Dismal</hi> looks;<hi rend="underline">Whar--n</hi> can only Swear by Fits,And strutting <hi rend="underline">Hal----x</hi> is off the Hooks,Old <hi rend="underline">Godol-----n</hi> full of Spleen,Made <hi rend="underline">false Moves</hi>, and lost his QUEEN;<hi rend="underline">Harry</hi> look'd fierce, and shook his ragged Mane;But a Prince of high Renown,Swore he'd rather lose a <hi rend="underline">Crown,</hi>QUEEN<hi rend="underline"> should enjoy Her own again</hi>.III.</l><l n="4" xml:id="spp-168-12A3-line-4"> Than the </l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-168-12A3-line-5" rend="flush left">Our Merchant Ships may cut the Line,&#13;And not be snapt by Privateers,</l><l n="6" xml:id="spp-168-12A3-line-6"> And Commoners who love good Wine,Will drink it now as well as Peers:Landed-Men shall have their Rent,Yet our Stocks rise <hi rend="underline">Cent. per Cent</hi>,</l><l n="7" xml:id="spp-168-12A3-line-7" rend="align(center)"> The <hi rend="underline">Dutch</hi> from hence shall no more Millions drain;We'll bring on us no more Debts,Nor with Bankrupts fill <hi rend="underline">Gazetts,</hi>QUEEN<hi rend="underline"> has enjoy'd Her own again</hi>.IV.</l><l n="8" xml:id="spp-168-12A3-line-8"> Since the </l></lg><lg n="4" type="stanza"><l n="9" xml:id="spp-168-12A3-line-9" rend="flush left">The Towns we took ne'er did us good:&#13;What signify't the <hi rend="underline">French</hi> to beat?</l><l n="10" xml:id="spp-168-12A3-line-10"> We spent our Money and our Blood,To make the <hi rend="underline">Dutch-men</hi> proud and great:But the Lord of <hi rend="underline">Oxford</hi> Swears,<hi rend="underline">Dunkirk</hi> never shall be theirs,</l><l n="11" xml:id="spp-168-12A3-line-11"> The <hi rend="underline">Dutch</hi>-hearted <hi rend="underline">Whigs</hi> may rail and complain,But true <hi rend="underline">British Men</hi> will fill,A good Health to Gen'ral <hi rend="underline">Hill,</hi>QUEEN<hi rend="underline"> now enjoys Her own again</hi>.168-12A3   </l><l n="12" xml:id="spp-168-12A3-line-12"> For the </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dr. S<hi rend="SMALL-CAPS">WIFT</hi>'s Answer to a Friend's Question.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y48A79L2" type="poem"><head type="note" n="1" xml:id="spp-Y48A79L2-headnote-1"><lg n="1" xml:id="spp-Y48A79L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y48A79L2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y48A79L2-headnote-2"><lg n="1" xml:id="spp-Y48A79L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y48A79L2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y48A79L2-headnote-3"><lg n="1" xml:id="spp-Y48A79L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y48A79L2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y48A79L2-line-1"><hi rend="display-initial">T</hi>HE furniture that best doth please</l><l n="2" xml:id="spp-Y48A79L2-line-2"> St. Patrick's Dean, good Sir, are these:</l><l n="3" xml:id="spp-Y48A79L2-line-3"> The knife and fork with which I eat;</l><l n="4" xml:id="spp-Y48A79L2-line-4"> And, next, the pot that boils the meat;</l><l n="5" xml:id="spp-Y48A79L2-line-5"> The next to be preferr'd, I think,</l><l n="6" xml:id="spp-Y48A79L2-line-6"> Is the glass in which I drink;</l><l n="7" xml:id="spp-Y48A79L2-line-7"> The shelves on which my books I keep;</l><l n="8" xml:id="spp-Y48A79L2-line-8"> And the bed on which I sleep;</l><l n="9" xml:id="spp-Y48A79L2-line-9"> An antique elbow-chair between,</l><l n="10" xml:id="spp-Y48A79L2-line-10"> Big enough to hold the Dean;</l><l n="11" xml:id="spp-Y48A79L2-line-11"> And the store that gives delight</l><l n="12" xml:id="spp-Y48A79L2-line-12"> In the cold bleak wintery night;</l><l n="13" xml:id="spp-Y48A79L2-line-13"> To these we add a thing below,</l><l n="14" xml:id="spp-Y48A79L2-line-14"> More for use reserv'd than show:</l><l n="15" xml:id="spp-Y48A79L2-line-15"> These are what the Dean do please;</l><l n="16" xml:id="spp-Y48A79L2-line-16"> All superfluous are but these.Y48A79L2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

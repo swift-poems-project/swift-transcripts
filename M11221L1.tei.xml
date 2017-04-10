@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><lb/>H<hi rend="SMALL-CAPS">YPPOLITUS</hi>,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-M11221L1-footnote-1 #spp-M11221L1-line-25"/>
+        </linkGrp>
+        <div n="M11221L1" type="poem"><head type="note" n="1" xml:id="spp-M11221L1-headnote-1"><lg n="1" xml:id="spp-M11221L1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M11221L1-headnote-1-line-group-1-line-1">Spoken by a Boy of Six Years Old.</l></lg></head><head type="note" n="2" xml:id="spp-M11221L1-headnote-2"><lg n="1" xml:id="spp-M11221L1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M11221L1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M11221L1-headnote-3"><lg n="1" xml:id="spp-M11221L1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M11221L1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-M11221L1-line-1"><hi rend="display-initial">Y</hi>E Sons of <hi rend="underline">Athens</hi>, Grant me one Request,</l><l n="2" xml:id="spp-M11221L1-line-2"> And I'll requite You with a pleasing Jest,</l><l n="3" xml:id="spp-M11221L1-line-3"> Protect me from my Masters cruel Rod,</l><l n="4" xml:id="spp-M11221L1-line-4"> Hide me, O hide me, from the Tyrant's Nod!</l><l n="5" xml:id="spp-M11221L1-line-5"> He Pen'd a Prologue which to me was shown,</l><l n="6" xml:id="spp-M11221L1-line-6"> I lik'd it not, and told him 'twould not Down,</l><l n="7" xml:id="spp-M11221L1-line-7"> He said it Humour had; and Wit enough,</l><l n="8" xml:id="spp-M11221L1-line-8"> But to my Thinking it was Scurvy Stuff,</l><l n="9" xml:id="spp-M11221L1-line-9"> Howe'er he made me get it all by Heart,</l><l n="10" xml:id="spp-M11221L1-line-10"> And thus Instructed me to Play my Part.“Dear <hi rend="underline">Tommy</hi>, Child, Repeat the whole with Care</l><l n="11" xml:id="spp-M11221L1-line-11"> “Here you must raise your Voice, but sink it there,</l><l n="12" xml:id="spp-M11221L1-line-12"> “Then in due Order take your play Things up,</l><l n="13" xml:id="spp-M11221L1-line-13"> “Now whip your Gigg, now sping your Castle, Top,</l><l n="14" xml:id="spp-M11221L1-line-14"> “Then take in hand your <hi rend="underline">Virgil</hi> and your Kite,</l><l n="15" xml:id="spp-M11221L1-line-15"> “Throw <hi rend="underline">Virgil</hi> on the Ground, set that to Flight,</l><l n="16" xml:id="spp-M11221L1-line-16"> “Then Speak these Lines, I'm sure they'll give delight.</l></lg><lg n="2" type="stanza"><l n="17" xml:id="spp-M11221L1-line-17">Thus he desir'd me to Speak and Act,&#13;</l><l n="18" xml:id="spp-M11221L1-line-18"> Believe me Sirs, what I relate is Fact;</l><l n="19" xml:id="spp-M11221L1-line-19"> And now he waits, expecting I should say,</l><l n="20" xml:id="spp-M11221L1-line-20"> That trifling Prologue to this serious Play,</l><l n="21" xml:id="spp-M11221L1-line-21"> But I must beg in that to be excus'd,</l><l n="22" xml:id="spp-M11221L1-line-22"> I would not have his Audience so abus'd;</l><l n="23" xml:id="spp-M11221L1-line-23"> Such Entertarnment is not fit for Men,</l><l n="24" xml:id="spp-M11221L1-line-24"> 'Till they have reach'd their Childish Age again,</l><l n="25" xml:id="spp-M11221L1-line-25"> Not like that <ref target="#spp-M11221L1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-M11221L1-footnote-1">The Bishop of <hi rend="underline">Dublin</hi> who was present.</note> Reverend Sage, in whom appears,</l><l n="26" xml:id="spp-M11221L1-line-26"> New Force of Reason in advanced Years;</l><l n="27" xml:id="spp-M11221L1-line-27"> O could I Celebrate with equal Parts,</l><l n="28" xml:id="spp-M11221L1-line-28"> That Patron of Religion and of Arts:</l><l n="29" xml:id="spp-M11221L1-line-29"> The Stay of Right, the Church's chief Support,</l><l n="30" xml:id="spp-M11221L1-line-30"> His Country's Champion and her last Resort.</l></lg><lg n="3" type="stanza"><l n="31" xml:id="spp-M11221L1-line-31">But I forbear, and now I must provide,&#13;</l><l n="32" xml:id="spp-M11221L1-line-32"> For my own Safety, for I fear I've try'd,</l><l n="33" xml:id="spp-M11221L1-line-33"> My Master's Patience, and his Anger mov'd,</l><l n="34" xml:id="spp-M11221L1-line-34"> In speaking what he ne'er wou'd have approv'd,</l><l n="35" xml:id="spp-M11221L1-line-35"> I know my Danger but I can't repent,</l><l n="36" xml:id="spp-M11221L1-line-36"> For being Steady to a good Intent.</l></lg><lg n="4" type="triplet"><l n="37" xml:id="spp-M11221L1-line-37">Thus firmly did <hi rend="underline">Hyppolitus</hi> pursue</l><l n="38" xml:id="spp-M11221L1-line-38"> The slipp'ry Paths of Virtue tho' he knew,</l><l n="39" xml:id="spp-M11221L1-line-39"> His Ruin thence would certainly ensue.</l><l n="40" xml:id="spp-M11221L1-line-40"> Since our Conditions are so near the same,</l><l n="41" xml:id="spp-M11221L1-line-41"> They both alike your kind Compassion claim;</l><l n="42" xml:id="spp-M11221L1-line-42"> Grant your Protection then, ye Sons of Wit,</l><l n="43" xml:id="spp-M11221L1-line-43"> To poor <hi rend="underline">Hyppolitus</hi>, and poor <hi rend="underline">Tom Tit</hi>.M11221L1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

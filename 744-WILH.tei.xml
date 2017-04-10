@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Stella's Distress</title>
+        <title>on the 3<hi rend="sup">d</hi> fatal day of Octob<hi rend="sup">r</hi> 1723</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="744-WILH" type="poem"><head type="note" n="1" xml:id="spp-744-WILH-headnote-1"><lg n="1" xml:id="spp-744-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-744-WILH-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-744-WILH-headnote-2"><lg n="1" xml:id="spp-744-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-744-WILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-744-WILH-headnote-3"><lg n="1" xml:id="spp-744-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-744-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-744-WILH-line-1">The Winter now begins to frown;&#13;</l><l n="2" xml:id="spp-744-WILH-line-2"> Poor Stella must pack off to Town.</l><l n="3" xml:id="spp-744-WILH-line-3"> From purling Streams &amp; Fountains bubbling</l><l n="4" xml:id="spp-744-WILH-line-4"> To Liffy's filthy side in Dublin;</l><l n="5" xml:id="spp-744-WILH-line-5"> From wholesom Exercise and Air</l><l n="6" xml:id="spp-744-WILH-line-6"> To sossing in an elbow chair:</l><l n="7" xml:id="spp-744-WILH-line-7"> From stomach sharp, and hearty feeding</l><l n="8" xml:id="spp-744-WILH-line-8"> To piddle like a Lady breeding.</l><l n="9" xml:id="spp-744-WILH-line-9"> From ruling there the Household singly</l><l n="10" xml:id="spp-744-WILH-line-10"> To be directed here by Dingley.</l><l n="11" xml:id="spp-744-WILH-line-11"> From ev'ry day a Lordly Banquet</l><l n="12" xml:id="spp-744-WILH-line-12"> To half a Joynt, &amp; God be thanked:</l><l n="13" xml:id="spp-744-WILH-line-13"> From every Meal Pontack in plenty</l><l n="14" xml:id="spp-744-WILH-line-14"> To a sour Pint one day in twenty.</l><l n="15" xml:id="spp-744-WILH-line-15"> From growing richer with good Cheer,</l><l n="16" xml:id="spp-744-WILH-line-16"> And yet run out by starving here:</l><l n="17" xml:id="spp-744-WILH-line-17"> From Ford who thinks of nothing mean</l><l n="18" xml:id="spp-744-WILH-line-18"> To the poor Doings of the Dean:</l><l n="19" xml:id="spp-744-WILH-line-19"> From Ford attending at her Call</l><l n="20" xml:id="spp-744-WILH-line-20"> To Visits of Archdeacon Wall.</l><l n="21" xml:id="spp-744-WILH-line-21"> Say, Stella, which you most repent</l><l n="22" xml:id="spp-744-WILH-line-22"> You e're return'd, or ever went?744-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

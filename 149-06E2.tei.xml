@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CORINNA.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-149-06E2-footnote-1 #spp-149-06E2-line-16"/>
+        </linkGrp>
+        <div n="149-06E2" type="poem"><head type="note" n="1" xml:id="spp-149-06E2-headnote-1"><lg n="1" xml:id="spp-149-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-149-06E2-headnote-1-line-group-1-line-1">Written in the year 1712.</l></lg></head><head type="note" n="2" xml:id="spp-149-06E2-headnote-2"><lg n="1" xml:id="spp-149-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-149-06E2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-149-06E2-headnote-3"><lg n="1" xml:id="spp-149-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-149-06E2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-149-06E2-line-1"><hi rend="display-initial">T</hi>His day (the year I dare not tell)Apollo play'd the midwife's part:</l><l n="2" xml:id="spp-149-06E2-line-2"> Into the world Corinna fell,And he endow'd her with his art.</l><l n="3" xml:id="spp-149-06E2-line-3"> But Cupid with a Satyr comes;Both softly to the cradle creep;</l><l n="4" xml:id="spp-149-06E2-line-4"> Both stroke her hands, and rub her gums,While the poor child lay fast asleep.</l><l n="5" xml:id="spp-149-06E2-line-5"> Then Cupid thus: This little maidOf love shall always speak and write:</l><l n="6" xml:id="spp-149-06E2-line-6"> And I pronounce (the Satyr said)The world shall feel her scratch and bite.</l><l n="7" xml:id="spp-149-06E2-line-7"> Her talent she display'd betimes;For in twice twelve revolving moons</l><l n="8" xml:id="spp-149-06E2-line-8"> She seem'd to laugh and squall in rhymes,And all her gestures were lampoons.</l><l n="9" xml:id="spp-149-06E2-line-9"> At six years old the subtle jadeStole to the pantry-door, and found</l><l n="10" xml:id="spp-149-06E2-line-10"> The butler with my lady's maid;And you may swear the tale went round.</l><l n="11" xml:id="spp-149-06E2-line-11"> She made a song, how little MissWas kiss'd and slobber'd by a lad;</l><l n="12" xml:id="spp-149-06E2-line-12"> And how when Master went to p────,Miss came, and peep'd at all he had.</l><l n="13" xml:id="spp-149-06E2-line-13"> At twelve a wit and a coquette;Marries for love, half whore, half wife;</l><l n="14" xml:id="spp-149-06E2-line-14"> Cuckolds, elops, and runs in debt;Turns auth'ress, and is Curll's for life.</l><l n="15" xml:id="spp-149-06E2-line-15"> Her common-place book all gallant is,Of scandal now a <hi rend="underline">cornucopia</hi>;</l><l n="16" xml:id="spp-149-06E2-line-16"> She pours it out in Atalantis<ref target="#spp-149-06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-149-06E2-footnote-1">The Atalantis was written by Mrs Manley; and may be considered as a pander for the stews, who gains admittance into good company by a genteel appearance, and good address. <hi rend="underline">Hawkes</hi>.</note>,Or memoirs of the New Utopia.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

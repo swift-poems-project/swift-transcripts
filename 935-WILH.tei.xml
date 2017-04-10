@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ANOTHER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="935-WILH" type="poem"><head type="note" n="1" xml:id="spp-935-WILH-headnote-1"><lg n="1" xml:id="spp-935-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-935-WILH-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-935-WILH-headnote-2"><lg n="1" xml:id="spp-935-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-935-WILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-935-WILH-headnote-3"><lg n="1" xml:id="spp-935-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-935-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-935-WILH-line-1"><hi rend="display-initial">B</hi>Y something form'd, I nothing am,</l><l n="2" xml:id="spp-935-WILH-line-2"> Yet ev'ry Thing that you can name;</l><l n="3" xml:id="spp-935-WILH-line-3"> In no Place have I ever been,</l><l n="4" xml:id="spp-935-WILH-line-4"> Yet ev'ry where I may be seen;</l><l n="5" xml:id="spp-935-WILH-line-5"> In all Things false, yet always true,</l><l n="6" xml:id="spp-935-WILH-line-6"> I'm still the same--- but ever new.</l><l n="7" xml:id="spp-935-WILH-line-7"> Lifeless, Life's perfect Form I wear,</l><l n="8" xml:id="spp-935-WILH-line-8"> Can shew a Nose, Eye, Tongue, or Ear,</l><l n="9" xml:id="spp-935-WILH-line-9"> Yet neither Smell, See, Taste, or Hear.</l><l n="10" xml:id="spp-935-WILH-line-10"> All Shapes and Features I can boast,</l><l n="11" xml:id="spp-935-WILH-line-11"> No Flesh, no Bones, no Blood--- no Ghost:</l><l n="12" xml:id="spp-935-WILH-line-12"> All Colours, without Paint, put on,</l><l n="13" xml:id="spp-935-WILH-line-13"> And change like the <hi rend="underline">Cameleon</hi>.</l><l n="14" xml:id="spp-935-WILH-line-14"> Swiftly I come, and enter there,</l><l n="15" xml:id="spp-935-WILH-line-15"> Where not a Chink let's in the Air;</l><l n="16" xml:id="spp-935-WILH-line-16"> Like Thought I'm in a Moment gone,</l><l n="17" xml:id="spp-935-WILH-line-17"> Nor can I ever be alone;</l><l n="18" xml:id="spp-935-WILH-line-18"> All Things on Earth I imitate,</l><l n="19" xml:id="spp-935-WILH-line-19"> Faster than Nature can create;</l><l n="20" xml:id="spp-935-WILH-line-20"> Sometimes imperial Robes I wear,</l><l n="21" xml:id="spp-935-WILH-line-21"> Anon in Beggar's Rags appear;</l><l n="22" xml:id="spp-935-WILH-line-22"> A Giant now, and strait an Elf,</l><l n="23" xml:id="spp-935-WILH-line-23"> I'm ev'ry one, but ne'er my self;<gap/><gap/></l><l n="24" xml:id="spp-935-WILH-line-24"> Ne'er sad I mourn, ne'er glad rejoice,</l><l n="25" xml:id="spp-935-WILH-line-25"> I move my Lips, but want a Voice;</l><l n="26" xml:id="spp-935-WILH-line-26"> I ne'er was born, nor e'er can die,</l><l n="27" xml:id="spp-935-WILH-line-27"> Then prythee tell me what am I.935-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

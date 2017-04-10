@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verses<lb/>Made by Dean Swift, on Clever Tom Clinch, going to<lb/>be hang'd.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-399-100M-footnote-1 #spp-399-100M-line-16"/>
+          <link target="#spp-399-100M-footnote-2 #spp-399-100M-line-17"/>
+        </linkGrp>
+        <div n="399-100M"><head type="note" n="1" xml:id="spp-399-100M-headnote-1"><lg n="1" xml:id="spp-399-100M-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-399-100M-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-399-100M-headnote-2"><lg n="1" xml:id="spp-399-100M-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-399-100M-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-399-100M-headnote-3"><lg n="1" xml:id="spp-399-100M-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-399-100M-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-399-100M-line-1">As Clever Tom Clinch while y<hi rend="sup">ẹ</hi> Rabble was Bawling</l><l/><l n="2" xml:id="spp-399-100M-line-2">Rode stately thro' Holbourn, to dye in his Calling,</l><l/><l n="3" xml:id="spp-399-100M-line-3">He stopt at the George, for a Bottle of Sack,</l><l/><l n="4" xml:id="spp-399-100M-line-4">And promis'd to Pay for't w<hi rend="sup">ṇ</hi>e'er he came Back.</l><l/><l n="5" xml:id="spp-399-100M-line-5">His Waiscoat, and Stockings &amp; Breeches were White,</l><l/><l n="6" xml:id="spp-399-100M-line-6">His Cap, had a New Cherry Ribbon to ty't:</l><l/><l n="7" xml:id="spp-399-100M-line-7">The Maids to the Doors, &amp; the Balconies Ran,</l><l/><l n="8" xml:id="spp-399-100M-line-8">And said, lack-a-Day, he's a Proper young Man;</l><l/><l n="9" xml:id="spp-399-100M-line-9">But as from the Windows, the Ladies he spy'd,</l><l/><l n="10" xml:id="spp-399-100M-line-10">Like a Beau, in a Box, he bow'd low, on Each Side,</l><l/><l n="11" xml:id="spp-399-100M-line-11">And when his last Speech, y<hi rend="sup">ẹ</hi> loud Hawkers did cry,</l><l/><l n="12" xml:id="spp-399-100M-line-12">He swore from his Cart, it was all a damn'd Lye:</l><l/><l n="13" xml:id="spp-399-100M-line-13">The Hangman for Pardon fell down on his Knee,</l><l/><l n="14" xml:id="spp-399-100M-line-14">Tom, gave him, a Kick on the Guts for his Fee.</l><l/><l n="15" xml:id="spp-399-100M-line-15">Then said, I must speak, w<hi rend="sup">tḥ</hi> the People a Little,</l><l/><l n="16" xml:id="spp-399-100M-line-16">But I'll see you all Damn'd before I will Whittle.<ref target="#spp-399-100M-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-399-100M-footnote-1">A Cant Word, for Confessing at y<hi rend="sup">ẹ</hi> Gallows.</note></l><l/><l n="17" xml:id="spp-399-100M-line-17">My honest Friend <ref target="#spp-399-100M-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-399-100M-footnote-2">The Noted Thief Catcher.</note> Wild, may he Long hold his Place,</l><l/><l n="18" xml:id="spp-399-100M-line-18">He lengthen'd my Life, w<hi rend="sup">tḥ</hi> a whole year of Grace.</l><l/><l n="19" xml:id="spp-399-100M-line-19">Take Courage dear Comrades, and be not afraid,</l><l/><l n="20" xml:id="spp-399-100M-line-20">Nor slip this Occasion, to follow your Trade.</l><l/><l n="21" xml:id="spp-399-100M-line-21">My Conscience is Clear and my Spirits are Calm,</l><l/><l n="22" xml:id="spp-399-100M-line-22">And thus I go off, without Prayer-Book or Psalm,</l><l/><l n="23" xml:id="spp-399-100M-line-23">Then follow the Practize of Clever Tom Clinch,</l><l/><l n="24" xml:id="spp-399-100M-line-24">Who hung like a Hero, and never would Flinch.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>\untitled excerpt of stza. 2\</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="006-20L4" type="poem"><head type="note" n="1" xml:id="spp-006-20L4-headnote-1"><lg n="1" xml:id="spp-006-20L4-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-006-20L4-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-006-20L4-headnote-2"><lg n="1" xml:id="spp-006-20L4-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-006-20L4-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-006-20L4-headnote-3"><lg n="1" xml:id="spp-006-20L4-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-006-20L4-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-006-20L4-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> Thus the Delight of doing Good&#13;</l><l n="2" xml:id="spp-006-20L4-line-2"> Its fix't like Fate among the Stars,And Deify'd in Verse:</l><l n="3" xml:id="spp-006-20L4-line-3"> 'Tis the best Gem in Royalty;</l><l n="4" xml:id="spp-006-20L4-line-4"> The great Distinguisher of Blood;Parent of Valour, and of Fame;Which makes a Godhead of a Name,</l><l n="5" xml:id="spp-006-20L4-line-5"> And is Co-temporary to Eternity;This made the Antient R<hi rend="underline">omans</hi> to afford</l><l n="6" xml:id="spp-006-20L4-line-6"> To <hi rend="underline">Valour</hi> and to <hi rend="underline">Vertue</hi> the same Word,</l><l n="7" xml:id="spp-006-20L4-line-7"> To shew the Paths of both must be together trod,Before the <hi rend="underline">Hero</hi> can commence <hi rend="underline">a God</hi>.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>006-20L4   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

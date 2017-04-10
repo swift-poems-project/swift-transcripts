@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A true and faithful Inventory of the Goods belonging to D<hi rend="sup">r</hi> 08. Swift.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X44-740L" type="poem"><head type="note" n="1" xml:id="spp-X44-740L-headnote-1"><lg n="1" xml:id="spp-X44-740L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-740L-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X44-740L-headnote-2"><lg n="1" xml:id="spp-X44-740L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-740L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X44-740L-headnote-3"><lg n="1" xml:id="spp-X44-740L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-740L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X44-740L-line-1"><hi rend="display-initial">A</hi>n Oaken broken elbow Chair</l><l n="2" xml:id="spp-X44-740L-line-2"> A Cawdle Cup without an Ear</l><l n="3" xml:id="spp-X44-740L-line-3"> A batter'd shatter'd Ash-bed-stead</l><l n="4" xml:id="spp-X44-740L-line-4"> A box of Deal without a Lid</l><l n="5" xml:id="spp-X44-740L-line-5"> A pair of Tongs but out of joynt</l><l n="6" xml:id="spp-X44-740L-line-6"> A Back-sword Poker without a point</l><l n="7" xml:id="spp-X44-740L-line-7"> A Pot that's crack'd a cross a round</l><l n="8" xml:id="spp-X44-740L-line-8"> With an old knotted Garter bound</l><l n="9" xml:id="spp-X44-740L-line-9"> An Iron lock without a Key</l><l n="10" xml:id="spp-X44-740L-line-10"> A Wig with hanging quite turn'd Grey<gap/><gap/><gap/><gap/></l><l n="11" xml:id="spp-X44-740L-line-11"> A curtain worn to half a Stripe</l><l n="12" xml:id="spp-X44-740L-line-12"> A pair of bellows without a Pipe</l><l n="13" xml:id="spp-X44-740L-line-13"> A dish which might good Meat afford once</l><l n="14" xml:id="spp-X44-740L-line-14"> An Ovid, and an old Concordance</l><l n="15" xml:id="spp-X44-740L-line-15"> A Bottle bottom, wooden Platter</l><l n="16" xml:id="spp-X44-740L-line-16"> One is for Meal, and one for Water</l><l n="17" xml:id="spp-X44-740L-line-17"> There likewise is a Copper Skillet</l><l n="18" xml:id="spp-X44-740L-line-18"> Which runs as fast out as you fill it</l><l n="19" xml:id="spp-X44-740L-line-19"> A candlestick Snuff-dish and save all</l><l n="20" xml:id="spp-X44-740L-line-20"> And thus his Household Goods you have all</l><l n="21" xml:id="spp-X44-740L-line-21"> These to your Lordship as a Friend</l><l n="22" xml:id="spp-X44-740L-line-22"> 'Till you have built I recommend</l><l n="23" xml:id="spp-X44-740L-line-23"> They'll serve your Workmen for a shift</l><l n="24" xml:id="spp-X44-740L-line-24"> Why not, as well as Doctor Swift.X44-740L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TO<lb/>Mrs. <hi rend="underline">M. B.</hi>...</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M017422R"><head type="note" n="1" xml:id="spp-M017422R-headnote-1"><lg n="1" xml:id="spp-M017422R-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M017422R-headnote-1-line-group-1-line-1">\<hi rend="underline">Swift's note:</hi> I know not the Author.\</l></lg></head><head type="note" n="2" xml:id="spp-M017422R-headnote-2"><lg n="1" xml:id="spp-M017422R-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M017422R-headnote-2-line-group-1-line-1"><hi rend="underline">June</hi> 15.</l></lg></head><head type="note" n="3" xml:id="spp-M017422R-headnote-3"><lg n="1" xml:id="spp-M017422R-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M017422R-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-M017422R-line-1"><gap/>2  <gap/></l><l/><l n="3" xml:id="spp-M017422R-line-3"><gap/></l><l/><l n="4" xml:id="spp-M017422R-line-4"><gap/></l><l/><l n="5" xml:id="spp-M017422R-line-5"><gap/></l><l/><l n="6" xml:id="spp-M017422R-line-6"><gap/></l><l/><l n="7" xml:id="spp-M017422R-line-7"><gap/></l><l/><l n="8" xml:id="spp-M017422R-line-8"><gap/></l><l/><l n="9" xml:id="spp-M017422R-line-9"><gap/></l><l/><l n="10" xml:id="spp-M017422R-line-10"><gap/></l><l/><l n="11" xml:id="spp-M017422R-line-11"><gap/></l><l/><l n="12" xml:id="spp-M017422R-line-12"><gap/></l><l/><l n="13" xml:id="spp-M017422R-line-13"><gap/></l><l/><l n="14" xml:id="spp-M017422R-line-14"><gap/></l><l/><l n="15" xml:id="spp-M017422R-line-15"><gap/></l><l/><l n="16" xml:id="spp-M017422R-line-16"><gap/></l><l/><l n="17" xml:id="spp-M017422R-line-17"><gap/></l><l/><l n="18" xml:id="spp-M017422R-line-18"><gap/></l><l/><l n="19" xml:id="spp-M017422R-line-19"><gap/></l><l/><l n="20" xml:id="spp-M017422R-line-20"><gap/></l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

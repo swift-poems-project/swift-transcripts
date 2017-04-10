@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>BOUNCE <hi rend="underline">to</hi> FOP.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-R55604M2-footnote-1 #spp-R55604M2-line-39"/>
+          <link target="#spp-R55604M2-footnote-2 #spp-R55604M2-line-71"/>
+        </linkGrp>
+        <div n="R55604M2" type="poem"><head type="note" n="1" xml:id="spp-R55604M2-headnote-1"><lg n="1" xml:id="spp-R55604M2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-R55604M2-headnote-1-line-group-1-line-1">An Epistle from a Dog at <hi rend="underline">Twickenham</hi> to a Dog at Court.</l></lg></head><head type="note" n="2" xml:id="spp-R55604M2-headnote-2"><lg n="1" xml:id="spp-R55604M2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-R55604M2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-R55604M2-headnote-3"><lg n="1" xml:id="spp-R55604M2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-R55604M2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-R55604M2-line-1"><hi rend="display-initial">T</hi>O thee sweet Fop, these Lines I send,</l><l n="2" xml:id="spp-R55604M2-line-2"> Who, tho' no Spaniel, am a Friend.</l><l n="3" xml:id="spp-R55604M2-line-3"> Tho', once my Tail in wanton Play,</l><l n="4" xml:id="spp-R55604M2-line-4"> Now frisking this and then that way,</l><l n="5" xml:id="spp-R55604M2-line-5"> Chanc'd, with a Touch of just the Tip,</l><l n="6" xml:id="spp-R55604M2-line-6"> To hurt your Lady-lap-dog-ship;</l><l n="7" xml:id="spp-R55604M2-line-7"> Yet thence to think I'd bite your Head off!</l><l n="8" xml:id="spp-R55604M2-line-8"> Sure <hi rend="underline">Bounce</hi> is one you never read of.F<hi rend="SMALL-CAPS">OP</hi>! you can dance, and make a Leg,</l><l n="9" xml:id="spp-R55604M2-line-9"> Can fetch and carry, cringe and beg,</l><l n="10" xml:id="spp-R55604M2-line-10"> And (what's the Top of all your Tricks)</l><l n="11" xml:id="spp-R55604M2-line-11"> Can stoop to pick up <hi rend="underline">Strings</hi> and <hi rend="underline">Sticks</hi>.</l><l n="12" xml:id="spp-R55604M2-line-12"> We Country Dogs love nobler Sport,</l><l n="13" xml:id="spp-R55604M2-line-13"> And scorn the Pranks of Dogs at Court.</l><l n="14" xml:id="spp-R55604M2-line-14"> Fye, naughty Fop! where-e'er you come</l><l n="15" xml:id="spp-R55604M2-line-15"> To f──t and p──ss about the Room,</l><l n="16" xml:id="spp-R55604M2-line-16"> To lay your Head in every Lap,</l><l n="17" xml:id="spp-R55604M2-line-17"> And, when they think not of you──snap!</l><l n="18" xml:id="spp-R55604M2-line-18"> The worst that Envy, or that Spite</l><l n="19" xml:id="spp-R55604M2-line-19"> E'er said of me, is, I can bite:</l><l n="20" xml:id="spp-R55604M2-line-20"> That idle Gypsies, Rogues in Rags,</l><l n="21" xml:id="spp-R55604M2-line-21"> Who poke at me, can make no Brags;</l><l n="22" xml:id="spp-R55604M2-line-22"> And that to towze such Things as <hi rend="underline">flutter</hi>,</l><l n="23" xml:id="spp-R55604M2-line-23"> To honest <hi rend="underline">Bounce</hi> is Bread and Butter.</l></lg><lg n="2" type="stanza"><l n="24" xml:id="spp-R55604M2-line-24">While you, and every courtly Fop,&#13;</l><l n="25" xml:id="spp-R55604M2-line-25"> Fawn on the Devil for a Chop,</l><l n="26" xml:id="spp-R55604M2-line-26"> I've the Humanity to hate</l><l n="27" xml:id="spp-R55604M2-line-27"> A Butcher, tho' he brings me Meat;</l><l n="28" xml:id="spp-R55604M2-line-28"> And let me tell you, have a Nose,</l><l n="29" xml:id="spp-R55604M2-line-29"> (Whatever stinking Fops suppose)</l><l n="30" xml:id="spp-R55604M2-line-30"> That under Cloth of Gold or Tissue,</l><l n="31" xml:id="spp-R55604M2-line-31"> Can smell a Plaister, or an Issue.</l></lg><lg n="3" type="stanza"><l n="32" xml:id="spp-R55604M2-line-32">Your pilf'ring Lord, with simple Pride,&#13;</l><l n="33" xml:id="spp-R55604M2-line-33"> May wear a Pick-lock at his Side;</l><l n="34" xml:id="spp-R55604M2-line-34"> My Master wants no Key of State,</l><l n="35" xml:id="spp-R55604M2-line-35"> For <hi rend="underline">Bounce</hi> can keep his House and Gate.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l></lg><lg n="4" type="stanza"><l n="36" xml:id="spp-R55604M2-line-36">When all such Dogs have had their Days,&#13;</l><l n="37" xml:id="spp-R55604M2-line-37"> As knavish <hi rend="underline">Pams</hi>, and fawning <hi rend="underline">Trays</hi>;</l><l n="38" xml:id="spp-R55604M2-line-38"> When pamper'd <hi rend="underline">Cupids</hi>, beastly <hi rend="underline">Veni</hi>'s,</l><l n="39" xml:id="spp-R55604M2-line-39"> And motly, squinting <hi rend="underline">Harlequini</hi>'s, <ref target="#spp-R55604M2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-R55604M2-footnote-1">Alii legunt <hi rend="underline">Harvequini</hi>'s.</note></l><l n="40" xml:id="spp-R55604M2-line-40"> Shall lick no more their Lady's Br────,</l><l n="41" xml:id="spp-R55604M2-line-41"> But die of Looseness, Claps, or Itch:</l><l n="42" xml:id="spp-R55604M2-line-42"> Fair <hi rend="underline">Thames</hi> from either ecchoing Shore</l><l n="43" xml:id="spp-R55604M2-line-43"> Shall hear and dread my manly Roar.</l></lg><lg n="5" type="stanza"><l n="44" xml:id="spp-R55604M2-line-44">See <hi rend="underline">Bounce</hi>, like <hi rend="underline">Berecynthia</hi>, crown'd</l><l n="45" xml:id="spp-R55604M2-line-45"> With thund'ring Offspring all around,</l><l n="46" xml:id="spp-R55604M2-line-46"> Beneath, beside me, and a top,</l><l n="47" xml:id="spp-R55604M2-line-47"> A hundred Sons! and not one <hi rend="underline">Fop</hi>.</l></lg><lg n="6" type="stanza"><l n="48" xml:id="spp-R55604M2-line-48">Before my Children set your Beef,&#13;</l><l n="49" xml:id="spp-R55604M2-line-49"> Not one true <hi rend="underline">Bounce</hi> will be a Thief;</l><l n="50" xml:id="spp-R55604M2-line-50"> Not one without Permission feed,</l><l n="51" xml:id="spp-R55604M2-line-51"> (Tho' some of <hi rend="underline">J────n</hi>'s hungry Breed)</l><l n="52" xml:id="spp-R55604M2-line-52"> But whatsoe'er the Father's Race,</l><l n="53" xml:id="spp-R55604M2-line-53"> From me they suck a little Grace.</l><l n="54" xml:id="spp-R55604M2-line-54"> While your fine Whelps learn all to steal,</l><l n="55" xml:id="spp-R55604M2-line-55"> Bred up by Hand on Chick and Veal.</l></lg><lg n="7" type="stanza"><l n="56" xml:id="spp-R55604M2-line-56">My Eldest-born resides not far,&#13;</l><l n="57" xml:id="spp-R55604M2-line-57"> Where shines great <hi rend="underline">Strafford</hi>'s glittering Star:<gap/><gap/></l><l n="58" xml:id="spp-R55604M2-line-58"> My second (Child of Fortune!) waits</l><l n="59" xml:id="spp-R55604M2-line-59"> At <hi rend="underline">Burlington</hi>'s Palladian Gates:</l><l n="60" xml:id="spp-R55604M2-line-60"> A third majestically stalks</l><l n="61" xml:id="spp-R55604M2-line-61"> (Happiest of Dogs!) in <hi rend="underline">Cobham</hi>'s Walks:</l><l n="62" xml:id="spp-R55604M2-line-62"> One ushers Friends to <hi rend="underline">Bathurst</hi>'s Door,</l><l n="63" xml:id="spp-R55604M2-line-63"> One fawns, at <hi rend="underline">Oxford</hi>'s, on the Poor.</l></lg><lg n="8" type="stanza"><l n="64" xml:id="spp-R55604M2-line-64">Nobles, whom Arms or Arts adorn,&#13;</l><l n="65" xml:id="spp-R55604M2-line-65"> Wait for my Infants yet unborn.</l><l n="66" xml:id="spp-R55604M2-line-66"> None but a Peer of Wit and Grace,</l><l n="67" xml:id="spp-R55604M2-line-67"> Can hope a Puppy of my Race.</l></lg><lg n="9" type="stanza"><l n="68" xml:id="spp-R55604M2-line-68">And O! wou'd Fate the Bliss decree&#13;</l><l n="69" xml:id="spp-R55604M2-line-69"> To mine (a Bliss too great for me)</l><l n="70" xml:id="spp-R55604M2-line-70"> That two, my tallest Sons, might grace</l><l n="71" xml:id="spp-R55604M2-line-71"> Attending each with stately Pace,<hi rend="underline">Iulus</hi>'s Side, as erst <hi rend="underline">Evander's</hi>, <ref target="#spp-R55604M2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-R55604M2-footnote-2">Virg. <unclear>AE</unclear>n. 8.</note></l><l n="72" xml:id="spp-R55604M2-line-72"> To keep off Flatt'rers, Spies, and Panders.</l><l n="73" xml:id="spp-R55604M2-line-73"> To let no noble Slave come near,</l><l n="74" xml:id="spp-R55604M2-line-74"> And scare Lord <hi rend="underline">Fannys</hi> from his Ear:</l><l n="75" xml:id="spp-R55604M2-line-75"> Then might a royal Youth, and true,</l><l n="76" xml:id="spp-R55604M2-line-76"> Enjoy at least a Friend────or two:</l><l n="77" xml:id="spp-R55604M2-line-77"> A Treasure, which, of Royal Kind,</l><l n="78" xml:id="spp-R55604M2-line-78"> Few but himself deserve to find.</l></lg><lg n="10" type="stanza"><l n="79" xml:id="spp-R55604M2-line-79">Then <hi rend="underline">Bounce</hi> ('tis all that <hi rend="underline">Bounce</hi> can crave)</l><l n="80" xml:id="spp-R55604M2-line-80"> Shall wag her Tail within the Grave.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>R55604M2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The D──'s reasons<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="899-524V" type="poem"><head type="note" n="1" xml:id="spp-899-524V-headnote-1"><lg n="1" xml:id="spp-899-524V-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-899-524V-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-899-524V-headnote-2"><lg n="1" xml:id="spp-899-524V-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-899-524V-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-899-524V-headnote-3"><lg n="1" xml:id="spp-899-524V-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-899-524V-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-899-524V-line-1">I will not build on yonder mount:&#13;</l><l n="2" xml:id="spp-899-524V-line-2"> And, should you call me to account,</l><l n="3" xml:id="spp-899-524V-line-3"> Consulting with my self, I find,</l><l n="4" xml:id="spp-899-524V-line-4"> It was no levity of mind.</l><l n="5" xml:id="spp-899-524V-line-5"> What e'er I promis'd or intended,</l><l n="6" xml:id="spp-899-524V-line-6"> No fault of mine, the scheme is ended:</l><l n="7" xml:id="spp-899-524V-line-7"> Nor, can you tax me as unsteady,</l><l n="8" xml:id="spp-899-524V-line-8"> I have a hundred causes ready;</l><l n="9" xml:id="spp-899-524V-line-9"> All risen since that flatt'ring time</l><l n="10" xml:id="spp-899-524V-line-10"> When Draper's hill appear'd in rhime.I am, as now too late I find,</l><l n="11" xml:id="spp-899-524V-line-11"> The greatest Cully of mankind:</l><l n="12" xml:id="spp-899-524V-line-12"> The lowest boy in Martin's school</l><l n="13" xml:id="spp-899-524V-line-13"> May turn and wind me like a fool.</l><l n="14" xml:id="spp-899-524V-line-14"> How could I form so wild a vision</l><l n="15" xml:id="spp-899-524V-line-15"> To seek in deserts fields Elysian?</l><l n="16" xml:id="spp-899-524V-line-16"> To live in fear, suspicion, variance,</l><l n="17" xml:id="spp-899-524V-line-17"> With Thieves, Fanaticks and Barbarians.But, here my Lady will object;</l><l n="18" xml:id="spp-899-524V-line-18"> Your Dean-ship ought to recollect</l><l n="19" xml:id="spp-899-524V-line-19"> That, near the Knight of Gosford plac't,</l><l n="20" xml:id="spp-899-524V-line-20"> Whom you allow a man of tast,</l><l n="21" xml:id="spp-899-524V-line-21"> Your intervalls of time to spend</l><l n="22" xml:id="spp-899-524V-line-22"> With so conversible a friend,</l><l n="23" xml:id="spp-899-524V-line-23"> It would not signify a pin</l><l n="24" xml:id="spp-899-524V-line-24"> What-ever clymat you were in.Tis true, but what advantage comes</l><l n="25" xml:id="spp-899-524V-line-25"> To me from all a Us'rer's plumbs;</l><l n="26" xml:id="spp-899-524V-line-26"> Though I should see him twice a day,</l><l n="27" xml:id="spp-899-524V-line-27"> And, am his neighbour cross the way;</l><l n="28" xml:id="spp-899-524V-line-28"> If all my Rhetorick must fail</l><l n="29" xml:id="spp-899-524V-line-29"> To strike him for a pot of ale.Thus, when the learned and the wise</l><l n="30" xml:id="spp-899-524V-line-30"> Conceal their talents from our eyes,</l><l n="31" xml:id="spp-899-524V-line-31"> And, from deserving friends with-hold</l><l n="32" xml:id="spp-899-524V-line-32"> Their gifts, as misers do their gold;</l><l n="33" xml:id="spp-899-524V-line-33"> Their knowledge to themselves confin'd</l><l n="34" xml:id="spp-899-524V-line-34"> Is the same avarice in the mind:</l><l n="35" xml:id="spp-899-524V-line-35"> Nor makes their conversation better</l><l n="36" xml:id="spp-899-524V-line-36"> Than if they never knew a letter.</l><l n="37" xml:id="spp-899-524V-line-37"> Such is the fate of Gosford Knight,</l><l n="38" xml:id="spp-899-524V-line-38"> Who keeps his wisdom out of sight,</l><l n="39" xml:id="spp-899-524V-line-39"> Whose uncommunicative heart</l><l n="40" xml:id="spp-899-524V-line-40"> Will scarce one precious word impart:</l><l n="41" xml:id="spp-899-524V-line-41"> Still rapt in speculations deep,</l><l n="42" xml:id="spp-899-524V-line-42"> His outward senses fast a sleep,</l><l n="43" xml:id="spp-899-524V-line-43"> Who, while I talk, a song will humm,</l><l n="44" xml:id="spp-899-524V-line-44"> Or, with his fingers beat the drum;</l><l n="45" xml:id="spp-899-524V-line-45"> Beyond the skyes transports his mind</l><l n="46" xml:id="spp-899-524V-line-46"> And leaves a lifeless corps behind.But, as for me, who ne'r could clamber high,</l><l n="47" xml:id="spp-899-524V-line-47"> To understand Malbranche or Cambrey;</l><l n="48" xml:id="spp-899-524V-line-48"> Who send my mind (as I believe) less</l><l n="49" xml:id="spp-899-524V-line-49"> Than others do, on errands sleeveless;</l><l n="50" xml:id="spp-899-524V-line-50"> Can listen to a tale humdrum,</l><l n="51" xml:id="spp-899-524V-line-51"> And, with attention read Tom Thumb;</l><l n="52" xml:id="spp-899-524V-line-52"> My spirits with my body progging,</l><l n="53" xml:id="spp-899-524V-line-53"> Both hand in hand together jogging;</l><l n="54" xml:id="spp-899-524V-line-54"> Sunk over head and ears in matter,</l><l n="55" xml:id="spp-899-524V-line-55"> Nor can of Metaphysicks smatter.</l><l n="56" xml:id="spp-899-524V-line-56"> Am more diverted with a Quible</l><l n="57" xml:id="spp-899-524V-line-57"> Than dreams of worlds intelligible;</l><l n="58" xml:id="spp-899-524V-line-58"> And, think all notions too abstracted</l><l n="59" xml:id="spp-899-524V-line-59"> Are like the ravings of a crack't head;</l><l n="60" xml:id="spp-899-524V-line-60"> What intercourse of minds can be</l><l n="61" xml:id="spp-899-524V-line-61"> Betwixt the Knight sublime and me?</l><l n="62" xml:id="spp-899-524V-line-62"> If when I talk, as talk I must,</l><l n="63" xml:id="spp-899-524V-line-63"> It is but prating to his Bust.Where Friendship is by Fate design'd</l><l n="64" xml:id="spp-899-524V-line-64"> It forms a union in the mind:</l><l n="65" xml:id="spp-899-524V-line-65"> But, here I differ from the Knight</l><l n="66" xml:id="spp-899-524V-line-66"> In ev'ry point, like black and white:</l><l n="67" xml:id="spp-899-524V-line-67"> For, none can say, that ever yet</l><l n="68" xml:id="spp-899-524V-line-68"> We both in one opinion met:</l><l n="69" xml:id="spp-899-524V-line-69"> Not in Philosophy, or ale;</l><l n="70" xml:id="spp-899-524V-line-70"> In state affairs, or planting Cale;</l><l n="71" xml:id="spp-899-524V-line-71"> In Rhetorick, or picking straws;</l><l n="72" xml:id="spp-899-524V-line-72"> In roasting Larks, or making laws:</l><l n="73" xml:id="spp-899-524V-line-73"> In publick scheames, or catching flyes,</l><l n="74" xml:id="spp-899-524V-line-74"> In Parli<add>a</add>ments, or pudding pyes.The neighbours wonder, why the Knight</l><l n="75" xml:id="spp-899-524V-line-75"> Should in a country life delight,</l><l n="76" xml:id="spp-899-524V-line-76"> Who not one pleasure entertains</l><l n="77" xml:id="spp-899-524V-line-77"> To chear the solitary scenes:</l><l n="78" xml:id="spp-899-524V-line-78"> His guests are few, his visits rare,</l><l n="79" xml:id="spp-899-524V-line-79"> Nor uses time, nor time will spare;</l><l n="80" xml:id="spp-899-524V-line-80"> Nor rides, nor walks, nor hunts, nor fowls,</l><l n="81" xml:id="spp-899-524V-line-81"> Nor plays at cards, or dice, or bowls;</l><l n="82" xml:id="spp-899-524V-line-82"> But, seated in an easy chair,</l><l n="83" xml:id="spp-899-524V-line-83"> Despises exercise and air.</l><l n="84" xml:id="spp-899-524V-line-84"> His rural walks he ne'r adorns;</l><l n="85" xml:id="spp-899-524V-line-85"> Here, poor Pomona sits on thorns:</l><l n="86" xml:id="spp-899-524V-line-86"> And, there, neglected Flora settles</l><l n="87" xml:id="spp-899-524V-line-87"> Her bum upon a bed of Nettles.Those thankless and officious cares</l><l n="88" xml:id="spp-899-524V-line-88"> I use to take in friends affairs,</l><l n="89" xml:id="spp-899-524V-line-89"> From which I never could refrain,</l><l n="90" xml:id="spp-899-524V-line-90"> And have been often chid in vain;</l><l n="91" xml:id="spp-899-524V-line-91"> From these I am recover'd quite,</l><l n="92" xml:id="spp-899-524V-line-92"> At least in what regards the Knight:</l><l n="93" xml:id="spp-899-524V-line-93"> Preserve his health, his store encrease;</l><l n="94" xml:id="spp-899-524V-line-94"> May nothing interrupt his p<unclear>ie corr. toea</unclear>ce.</l><l n="95" xml:id="spp-899-524V-line-95"> But now, let all his tenants round</l><l n="96" xml:id="spp-899-524V-line-96"> First milk his cows, and after, pound:</l><l n="97" xml:id="spp-899-524V-line-97"> Let ev'ry cottager conspire</l><l n="98" xml:id="spp-899-524V-line-98"> To cut his hedges down for fire;</l><l n="99" xml:id="spp-899-524V-line-99"> The naughty boys about the village</l><l n="100" xml:id="spp-899-524V-line-100"> His crabs and sloes may freely pillage:</l><l n="101" xml:id="spp-899-524V-line-101"> He still may keep a pack of knaves</l><l n="102" xml:id="spp-899-524V-line-102"> To spoyl his work, and work by halves;</l><l n="103" xml:id="spp-899-524V-line-103"> His Meadows may be dug by swine;</l><l n="104" xml:id="spp-899-524V-line-104"> It shall be no concern of mine.</l><l n="105" xml:id="spp-899-524V-line-105"> For, why should I continue still</l><l n="106" xml:id="spp-899-524V-line-106"> To serve a friend against his will?899-524V   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

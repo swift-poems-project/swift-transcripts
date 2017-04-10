@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Labors of a Country Curate.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="675-307B"><head type="note" n="1" xml:id="spp-675-307B-headnote-1"><lg n="1" xml:id="spp-675-307B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-675-307B-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-675-307B-headnote-2"><lg n="1" xml:id="spp-675-307B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-675-307B-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-675-307B-headnote-3"><lg n="1" xml:id="spp-675-307B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-675-307B-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-675-307B-line-1">I walked 5 miles thro' scorching sand&#13;</l><l/><l n="2" xml:id="spp-675-307B-line-2">With Zeal in Heart &amp; notes in Hand,</l><l/><l n="3" xml:id="spp-675-307B-line-3">I rode 4 more to church S<hi rend="sup">ṭ</hi> Mary</l><l/><l n="4" xml:id="spp-675-307B-line-4">using 4 legs w<hi rend="sup">ṇ</hi> two were weary.</l><l/><l n="5" xml:id="spp-675-307B-line-5">to 3 fair Virgins I did tie Men</l><l/><l n="6" xml:id="spp-675-307B-line-6">in the Close bands of pleasing Hymen,</l><l/><l n="7" xml:id="spp-675-307B-line-7">within 2 hours &amp; an half</l><l/><l n="8" xml:id="spp-675-307B-line-8">I preached 3 congregations deaf,</l><l/><l n="9" xml:id="spp-675-307B-line-9">&amp; in the compass of two more</l><l/><l n="10" xml:id="spp-675-307B-line-10">run Evening Service o'er &amp; o'er,</l><l/><l n="11" xml:id="spp-675-307B-line-11">w<hi rend="sup">cḥ</hi> thunder'd out with lungs long-winded</l><l/><l n="12" xml:id="spp-675-307B-line-12">I chop'd so fast that few did mind it.</l><l/><l n="13" xml:id="spp-675-307B-line-13">I washed 2 Babes in holy-Water</l><l/><l n="14" xml:id="spp-675-307B-line-14">&amp; purified their Mothers after.</l><l/><l n="15" xml:id="spp-675-307B-line-15">My Emblem the unwearied Sun</l><l/><l n="16" xml:id="spp-675-307B-line-16">saw all these mighty Wonders done</l><l/><l n="17" xml:id="spp-675-307B-line-17">before one race of his was run.</l><l/><l n="18" xml:id="spp-675-307B-line-18">All this perform'd by Robert Huet</l><l/><l n="19" xml:id="spp-675-307B-line-19">What Mortal else could half go thro' it?</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

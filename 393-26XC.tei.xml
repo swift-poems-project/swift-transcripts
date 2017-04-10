@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">MISCELLANIES</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CCalella"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="393-26XC" type="poem"><head type="note" n="1" xml:id="spp-393-26XC-headnote-1"><lg n="1" xml:id="spp-393-26XC-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-393-26XC-headnote-1-line-group-1-line-1"><hi rend="underline">The two following Satyrical Pieces are privately handed about, and need no Preface or Introduction</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-393-26XC-headnote-2"><lg n="1" xml:id="spp-393-26XC-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-393-26XC-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-393-26XC-headnote-3"><lg n="1" xml:id="spp-393-26XC-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-393-26XC-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-393-26XC-line-1"><hi rend="display-initial">B</hi>Ehold the Monarch Oaks that rise</l><l n="2" xml:id="spp-393-26XC-line-2"> With lofty Branches to the Skies,</l><l n="3" xml:id="spp-393-26XC-line-3"> Have huge proportion'd Roots that grow</l><l n="4" xml:id="spp-393-26XC-line-4"> With equal Longitude below.<gap/><gap/></l><l n="5" xml:id="spp-393-26XC-line-5"> Two Bards, that now in Fashion reign,</l><l n="6" xml:id="spp-393-26XC-line-6"> Most aptly this Device explain:</l><l n="7" xml:id="spp-393-26XC-line-7"> If <hi rend="underline">This</hi> with Stars and Clouds will venture,<hi rend="underline">That</hi> creeps as far towards the Centre.</l></lg><lg n="2" type="stanza"><l n="8" xml:id="spp-393-26XC-line-8">More to explain the thing I mean,&#13;</l><l n="9" xml:id="spp-393-26XC-line-9"> Have ye not o'er a Saw-pit seen</l><l n="10" xml:id="spp-393-26XC-line-10"> A skill'd Mechanick, who has stood</l><l n="11" xml:id="spp-393-26XC-line-11"> On a small Pyramid of Wood,</l><l n="12" xml:id="spp-393-26XC-line-12"> And hir'd a subterraneous Friend</l><l n="13" xml:id="spp-393-26XC-line-13"> To take his Iron by the End?</l><l n="14" xml:id="spp-393-26XC-line-14"> But which excell'd was never found,</l><l n="15" xml:id="spp-393-26XC-line-15"> The Man above, or under ground.</l></lg><lg n="3" type="stanza"><l n="16" xml:id="spp-393-26XC-line-16">This moral is so plainly hit,&#13;</l><l n="17" xml:id="spp-393-26XC-line-17"> That were I but the God of Wit,</l><l n="18" xml:id="spp-393-26XC-line-18"> Then in a Saw-pit and wet Weather</l><l n="19" xml:id="spp-393-26XC-line-19"> Should <hi rend="underline">Y────g</hi> and <hi rend="underline">Ph────ps</hi> work together.393-26XC   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

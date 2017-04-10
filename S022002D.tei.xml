@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To the Dean of S<hi rend="sup">t</hi> 08. Patrick's.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-S022002D-footnote-1 #spp-S022002D-line-6"/>
+          <link target="#spp-S022002D-footnote-1 #spp-S022002D-line-9"/>
+        </linkGrp>
+        <div n="S022002D" type="poem"><head type="note" n="1" xml:id="spp-S022002D-headnote-1"><lg n="1" xml:id="spp-S022002D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-S022002D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-S022002D-headnote-2"><lg n="1" xml:id="spp-S022002D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-S022002D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-S022002D-headnote-3"><lg n="1" xml:id="spp-S022002D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-S022002D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-S022002D-line-1"> D<hi rend="sup">ṛ</hi> S<hi rend="sup">ṛ</hi> since you in humble wiseHave made a Recantation</l><l n="2" xml:id="spp-S022002D-line-2"> From your low bended knees ariseI hate such poor Prostration.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-S022002D-line-3">'Tis Bravery that moves the Brave,&#13;As one Nail drives another;</l><l n="4" xml:id="spp-S022002D-line-4"> If You from me would Mercy havePray S<hi rend="sup">ṛ</hi> be such another.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-S022002D-line-5">You that so long maintain'd the Field&#13;With true Poetick Vigour,</l><l n="6" xml:id="spp-S022002D-line-6"> Now You lay down Your Pen and YieldYou make a <ref target="#spp-S022002D-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-S022002D-footnote-1">A Leg awry.</note> Wretched Figure.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-S022002D-line-7">Submit, but do't with sword in hand,&#13;And Write a Panegyrick,</l><l n="8" xml:id="spp-S022002D-line-8"> Upon the Man You can not stand;I'll have it writt in Lyrick.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-S022002D-line-9">That all the Boys I Teach may sing&#13;The Atchievements of their <ref target="#spp-S022002D-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-S022002D-footnote-1">A Fair open for You.</note> Chiron,</l><l n="10" xml:id="spp-S022002D-line-10"> What Conquests my stern Looks can bringWithout the help of Iron.</l></lg><lg n="6" type="stanza"><l n="11" xml:id="spp-S022002D-line-11">A small Goose Quill yclep'd a Pen&#13;From Magazine of Standish</l><l n="12" xml:id="spp-S022002D-line-12"> Drawn forth's more dreadfull to Thee DeanThan Any sword we Brandish.</l></lg><lg n="7" type="stanza"><l n="13" xml:id="spp-S022002D-line-13">My Inck's my Flash, my Pen's my Bolt&#13;When e'er I please to Thunder,</l><l n="14" xml:id="spp-S022002D-line-14" rend="flush right"> I'll make You Tremble like a ColtAnd Thus I'll keep You underT. SheridanS022002D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

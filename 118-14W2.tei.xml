@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TO MRS BIDDY FLOYD;</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-118-14W2-footnote-1"/>
+        </linkGrp>
+        <div n="118-14W2" type="poem"><head type="note" n="1" xml:id="spp-118-14W2-headnote-1"><lg n="1" xml:id="spp-118-14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-1-line-1">OR, THE RECEIPT TO FORM A BEAUTY, <«FN1·>The following elegant Latin version of this “Receipt” was first printed in the sixth volume of Dryden's Miscellanies:──</«FN1·></l><lg n="2" xml:id="spp-118-14W2-headnote-1-line-group-2" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-2-line-1"><«FN1·>IN LYDIAM.</«FN1·></l><lg n="3" xml:id="spp-118-14W2-headnote-1-line-group-3" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-3-line-1"><«FN1·><lb/>Orabat precibus Cupido blandis,</«FN1·></l><lg n="4" xml:id="spp-118-14W2-headnote-1-line-group-4" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-4-line-1"><«FN1·>Ut tandem omnipotens pater deorum</«FN1·></l><lg n="5" xml:id="spp-118-14W2-headnote-1-line-group-5" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-5-line-1"><«FN1·>Formosam lege conderet recenti.</«FN1·></l><lg n="6" xml:id="spp-118-14W2-headnote-1-line-group-6" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-6-line-1"><«FN1·>Arridens citò, ruris ad recessum</«FN1·></l><lg n="7" xml:id="spp-118-14W2-headnote-1-line-group-7" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-7-line-1"><«FN1·>Almus misit avus, Fidemque nudam</«FN1·></l><lg n="8" xml:id="spp-118-14W2-headnote-1-line-group-8" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-8-line-1"><«FN1·>Illic repperit, Innocentiamque,</«FN1·></l><lg n="9" xml:id="spp-118-14W2-headnote-1-line-group-9" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-9-line-1"><«FN1·>Et vultum placidum, Indolemque suavem;</«FN1·></l><lg n="10" xml:id="spp-118-14W2-headnote-1-line-group-10" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-10-line-1"><«FN1·>Dextrâ, quæ, facili, Puer peritus</«FN1·></l><lg n="11" xml:id="spp-118-14W2-headnote-1-line-group-11" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-11-line-1"><«FN1·>Oris à nimio pudore purgat,</«FN1·></l><lg n="12" xml:id="spp-118-14W2-headnote-1-line-group-12" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-12-line-1"><«FN1·>Et morum ruditate ineleganti,</«FN1·></l><lg n="13" xml:id="spp-118-14W2-headnote-1-line-group-13" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-13-line-1"><«FN1·>Ac nimis timidâ fugacitate.</«FN1·></l><lg n="14" xml:id="spp-118-14W2-headnote-1-line-group-14" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-14-line-1"><«FN1·>Sacræ Pierides parant deinde</«FN1·></l><lg n="15" xml:id="spp-118-14W2-headnote-1-line-group-15" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-15-line-1"><«FN1·>Ex aulâ ingenuam Institutonem,</«FN1·></l><lg n="16" xml:id="spp-118-14W2-headnote-1-line-group-16" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-16-line-1"><«FN1·>Acumenque acre, Gratiamque formæ,</«FN1·></l><lg n="17" xml:id="spp-118-14W2-headnote-1-line-group-17" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-17-line-1"><«FN1·>Cum se non nimis efferente Fastu.</«FN1·></l><lg n="18" xml:id="spp-118-14W2-headnote-1-line-group-18" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-18-line-1"><«FN1·>Ab his flava Venus removit omnem</«FN1·></l><lg n="19" xml:id="spp-118-14W2-headnote-1-line-group-19" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-19-line-1"><«FN1·>Procul Molitiem, et malas dolosæ</«FN1·></l><lg n="20" xml:id="spp-118-14W2-headnote-1-line-group-20" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-20-line-1"><«FN1·>Mentis Illecebras, Ineptiasque</«FN1·></l><lg n="21" xml:id="spp-118-14W2-headnote-1-line-group-21" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-21-line-1"><«FN1·>Bonum pravé imitantium, levesque</«FN1·></l><lg n="22" xml:id="spp-118-14W2-headnote-1-line-group-22" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-22-line-1"><«FN1·>Motus, Gloriolæque Inanitatem.</«FN1·></l><lg n="23" xml:id="spp-118-14W2-headnote-1-line-group-23" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-23-line-1"><«FN1·>Miscet omnia Jupiter, lutoque</«FN1·></l><lg n="24" xml:id="spp-118-14W2-headnote-1-line-group-24" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-24-line-1"><«FN1·>Temperat meliore, Lydiamque</«FN1·></l><lg n="25" xml:id="spp-118-14W2-headnote-1-line-group-25" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-1-line-group-25-line-1"><ref target="#spp-118-14W2-footnote-1">1</ref><note n="1" xml:id="spp-118-14W2-footnote-1" place="foot">Inde appellat opus, stupens, superbum</note> 1708.</l></lg></lg></lg></lg></lg></lg></lg></lg></lg></lg></lg></lg></lg></lg></lg></lg></lg></lg></lg></lg></lg></lg></lg></lg></lg></head><head type="note" n="2" xml:id="spp-118-14W2-headnote-2"><lg n="1" xml:id="spp-118-14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-2-line-group-1-line-1">T<hi rend="SMALL-CAPS">HIS</hi> elegant compliment led to numerous silly imitations, which causes Swift to put a caution in Apollo's Edict to the Poets:</l></lg></head><head type="note" n="3" xml:id="spp-118-14W2-headnote-3"><lg n="1" xml:id="spp-118-14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-3-line-group-1-line-1">“With females' compounds I am cloy'd,</l></lg><lg n="2" xml:id="spp-118-14W2-headnote-3-line-group-2" type="headnote"><l n="1" xml:id="spp-118-14W2-headnote-3-line-group-2-line-1">Which only pleased in Biddy Floyd.”</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-118-14W2-line-1"> W<hi rend="SMALL-CAPS">HEN</hi> Cupid did his grandsire Jove entreat</l><l n="2" xml:id="spp-118-14W2-line-2"> To form some Beauty by a new receipt,</l><l n="3" xml:id="spp-118-14W2-line-3"> Jove sent, and found, far in a country scene,</l><l n="4" xml:id="spp-118-14W2-line-4"> Truth, innocence, good nature, look serene:</l><l n="5" xml:id="spp-118-14W2-line-5"> From which ingredients first the dext'rous boy</l><l n="6" xml:id="spp-118-14W2-line-6"> Pick'd the demure, the awkward, and the coy.</l><l n="7" xml:id="spp-118-14W2-line-7"> The Graces from the court did next provide</l><l n="8" xml:id="spp-118-14W2-line-8"> Breeding and wit, and air, and decent pride:</l><l n="9" xml:id="spp-118-14W2-line-9"> These Venus cleans from every spurious grain</l><l n="10" xml:id="spp-118-14W2-line-10"> Of nice coquet, affected, pert, and vain.</l><l n="11" xml:id="spp-118-14W2-line-11"> Jove mix'd up all, and the best clay employ'd;</l><l n="12" xml:id="spp-118-14W2-line-12"> Then call'd the happy composition F<hi rend="SMALL-CAPS">LOYD</hi>.118-14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

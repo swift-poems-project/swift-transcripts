@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">Written on the Deanery Window of</hi>
+        </title>
+        <title><hi rend="underline">St</hi>. P<hi rend="SMALL-CAPS">ATRICK</hi>'s, Dublin.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-261-24L--footnote-1 #spp-261-24L--line-3"/>
+        </linkGrp>
+        <div n="261-24L-" type="poem"><head type="note" n="1" xml:id="spp-261-24L--headnote-1"><lg n="1" xml:id="spp-261-24L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-261-24L--headnote-1-line-group-1-line-1">By Dr. D<hi rend="SMALL-CAPS">ELANY</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-261-24L--headnote-2"><lg n="1" xml:id="spp-261-24L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-261-24L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-261-24L--headnote-3"><lg n="1" xml:id="spp-261-24L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-261-24L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-261-24L--line-1"><hi rend="display-initial">A</hi>RE the Guests of this House still doom'd to be cheated?</l><l n="2" xml:id="spp-261-24L--line-2"> Sure, the Fates have decreed, they by Halves should be treated.</l><l n="3" xml:id="spp-261-24L--line-3"> In the Days of good <hi rend="underline">John</hi><ref target="#spp-261-24L--footnote-1">1</ref><note place="foot" n="1" xml:id="spp-261-24L--footnote-1"><hi rend="underline">The late Dean</hi>.</note>, if you came here to dine,</l><l n="4" xml:id="spp-261-24L--line-4"> You had Choice of good Meat, but no Choice of good Wine.</l><l n="5" xml:id="spp-261-24L--line-5"> In <hi rend="underline">Jonathan</hi>'s Reign, if you come here to eat,</l><l n="6" xml:id="spp-261-24L--line-6"> You have Choice of good Wine, but no Choice of good Meat.</l><l n="7" xml:id="spp-261-24L--line-7"> O <hi rend="underline">Jove</hi>, then how fully might all Sides be bless'd,</l><l n="8" xml:id="spp-261-24L--line-8"> Would'st Thou but agree to this humble Request;</l><l n="9" xml:id="spp-261-24L--line-9"> Put both Deans in one, or if that's too much Trouble,</l><l n="10" xml:id="spp-261-24L--line-10"> Instead of the Dean, make the Dean'ry double.261-24L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

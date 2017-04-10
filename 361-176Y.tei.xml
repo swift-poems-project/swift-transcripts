@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>His graces answer by Dean Swift----</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="361-176Y" type="poem"><head type="note" n="1" xml:id="spp-361-176Y-headnote-1"><lg n="1" xml:id="spp-361-176Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-361-176Y-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-361-176Y-headnote-2"><lg n="1" xml:id="spp-361-176Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-361-176Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-361-176Y-headnote-3"><lg n="1" xml:id="spp-361-176Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-361-176Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-361-176Y-line-1"> Dear Smed, I read thy Brillant Lines&#13;</l><l n="2" xml:id="spp-361-176Y-line-2"> Where wit in all its glory shines;</l><l n="3" xml:id="spp-361-176Y-line-3"> Where compliments with all their pride</l><l n="4" xml:id="spp-361-176Y-line-4"> Are by thy Numbers Dignify'd;</l><l n="5" xml:id="spp-361-176Y-line-5"> I hope to make you Yet as clean</l><l n="6" xml:id="spp-361-176Y-line-6"> As that Same, viz: S,t Patricks Dean</l><l n="7" xml:id="spp-361-176Y-line-7"> I'll give y<hi rend="sup">e</hi> Suplice, verge, &amp; stall,</l><l n="8" xml:id="spp-361-176Y-line-8"> And may Something else with·all</l><l n="9" xml:id="spp-361-176Y-line-9"> And were you not so good a writer</l><l n="10" xml:id="spp-361-176Y-line-10"> I Shou'd present you with a Mitre.</l><l n="11" xml:id="spp-361-176Y-line-11"> Write worse then──if you can──be wise</l><l n="12" xml:id="spp-361-176Y-line-12"> Beleive me tis the way to Rise.</l><l n="13" xml:id="spp-361-176Y-line-13"> Talk not of making of thy Nest;</l><l n="14" xml:id="spp-361-176Y-line-14"> Ah! never lay y<hi rend="sup">ṭ</hi> head to rest!</l><l n="15" xml:id="spp-361-176Y-line-15"> That head so well with wisdom fraught</l><l n="16" xml:id="spp-361-176Y-line-16"> That writes without the Toil of thought.</l><l n="17" xml:id="spp-361-176Y-line-17"> While others rack their Busy Brains</l><l n="18" xml:id="spp-361-176Y-line-18"> You are not att the least of Pains.</l><l n="19" xml:id="spp-361-176Y-line-19"> Dean, to your Deanery repair</l><l n="20" xml:id="spp-361-176Y-line-20"> And build a Castle in the Air</l><l n="21" xml:id="spp-361-176Y-line-21"> I'm Sure a man of your fine Sence</l><l n="22" xml:id="spp-361-176Y-line-22"> Can do it with a Small expence.</l><l n="23" xml:id="spp-361-176Y-line-23"> Then your Dear Spouse, &amp; you together</l><l n="24" xml:id="spp-361-176Y-line-24"> May Breath your Belly full of <unclear>AE</unclear>ther.</l><l n="25" xml:id="spp-361-176Y-line-25"> When Lady Luna is your Neighbour</l><l n="26" xml:id="spp-361-176Y-line-26"> She'll help your wife when she's in Labour;</l><l n="27" xml:id="spp-361-176Y-line-27"> Well skill'd in Midwife Artifices</l><l n="28" xml:id="spp-361-176Y-line-28"> For she herself oft falls to Peices.There you shall see a Raree show,Will make you scorn this world below,</l><l n="29" xml:id="spp-361-176Y-line-29"> When you Behold y<hi rend="sup">e</hi> Milky way</l><l n="30" xml:id="spp-361-176Y-line-30"> As white as snow as Bright as Day</l><l n="31" xml:id="spp-361-176Y-line-31"> The Glittering constellations roul</l><l n="32" xml:id="spp-361-176Y-line-32"> About y<hi rend="sup">e</hi> grinding Artick Pole;</l><l n="33" xml:id="spp-361-176Y-line-33"> The lovely Tingling in Your Ears</l><l n="34" xml:id="spp-361-176Y-line-34"> Wrought by the musick of y<hi rend="sup">e</hi> Spheres.</l><l n="35" xml:id="spp-361-176Y-line-35"> Your spouse shall then no longer Hector</l><l n="36" xml:id="spp-361-176Y-line-36"> You need not fear a Curtain Lecture</l><l n="37" xml:id="spp-361-176Y-line-37"> Nor shall she think she is Undone</l><l n="38" xml:id="spp-361-176Y-line-38"> for quitting her beloved London,</l><l n="39" xml:id="spp-361-176Y-line-39"> When she's exalted to y<hi rend="sup">ẹ</hi> skies,</l><l n="40" xml:id="spp-361-176Y-line-40"> She'll never think of mutton pies,</l><l n="41" xml:id="spp-361-176Y-line-41"> When you're advanc'd above Dean viz:</l><l n="42" xml:id="spp-361-176Y-line-42"> You'll never think of Goody Griz:</l><l n="43" xml:id="spp-361-176Y-line-43"> But ever, ever, live att Ease</l><l n="44" xml:id="spp-361-176Y-line-44"> And thrive &amp; strive your wife to Please,</l><l n="45" xml:id="spp-361-176Y-line-45"> In her you'll Center, all your Ioys,</l><l n="46" xml:id="spp-361-176Y-line-46"> And get 10000 Girls, &amp; Boys,</l><l n="47" xml:id="spp-361-176Y-line-47"> 10000 Girls &amp; Boys You'll Get,</l><l n="48" xml:id="spp-361-176Y-line-48"> And they like Suns shall rise &amp; Set</l><l n="49" xml:id="spp-361-176Y-line-49"> While you &amp; spouse transform'd shall Soon</l><l n="50" xml:id="spp-361-176Y-line-50"> Be a New Sun, &amp; a New moon:</l><l n="51" xml:id="spp-361-176Y-line-51"> Nor shall you strive your horns to hide</l><l n="52" xml:id="spp-361-176Y-line-52"> For then your horns shall be your pride.361-176Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

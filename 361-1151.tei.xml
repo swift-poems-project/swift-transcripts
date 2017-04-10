@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>His G<hi rend="SMALL-CAPS">RACE</hi>'s Answer.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="361-1151" type="poem"><head type="note" n="1" xml:id="spp-361-1151-headnote-1"><lg n="1" xml:id="spp-361-1151-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-361-1151-headnote-1-line-group-1-line-1">By Dr. S<hi rend="SMALL-CAPS">WIFT</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-361-1151-headnote-2"><lg n="1" xml:id="spp-361-1151-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-361-1151-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-361-1151-headnote-3"><lg n="1" xml:id="spp-361-1151-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-361-1151-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-361-1151-line-1"><hi rend="display-initial">D</hi>EAR <hi rend="underline">Smed</hi> I read thy brilliant Lines,</l><l n="2" xml:id="spp-361-1151-line-2"> Where Wit in all its Glory shines;</l><l n="3" xml:id="spp-361-1151-line-3"> Where Compliments with all their Pride</l><l n="4" xml:id="spp-361-1151-line-4"> Are by their Numbers dignify'd:</l><l n="5" xml:id="spp-361-1151-line-5"> I hope, to make you yet as clean,</l><l n="6" xml:id="spp-361-1151-line-6"> As that same, <hi rend="underline">viz</hi>. St. <hi rend="underline">Patrick</hi>'s Dean.</l><l n="7" xml:id="spp-361-1151-line-7"> I'll give thee <hi rend="underline">Surplice, Verge</hi> and <hi rend="underline">Stall</hi>,</l><l n="8" xml:id="spp-361-1151-line-8"> And may be something else withal:</l><l n="9" xml:id="spp-361-1151-line-9"> And were you not so good a Writer,</l><l n="10" xml:id="spp-361-1151-line-10"> I should present you with a Mitre.</l><l n="11" xml:id="spp-361-1151-line-11"> Write worse then, <hi rend="underline">if you can--- Be wise</hi>---</l><l n="12" xml:id="spp-361-1151-line-12"> Believe me, 'tis <hi rend="underline">the Way to rise</hi>,</l><l n="13" xml:id="spp-361-1151-line-13"> Talk not of <hi rend="underline">making of thy Nest,</hi>.</l><l n="14" xml:id="spp-361-1151-line-14"> Ah! Never lay thy Head to rest!</l><l n="15" xml:id="spp-361-1151-line-15"> That Head so well with Wisdom fraught!</l><l n="16" xml:id="spp-361-1151-line-16"> That writes without the Toil of Thought</l><l n="17" xml:id="spp-361-1151-line-17"> While others rack their busy Brains,</l><l n="18" xml:id="spp-361-1151-line-18"> You are not in the least at Pains.</l><l n="19" xml:id="spp-361-1151-line-19"> Down to your Dean'ry repair,</l><l n="20" xml:id="spp-361-1151-line-20"> And build <hi rend="underline">a Castle in the Air</hi>.</l><l n="21" xml:id="spp-361-1151-line-21"> I'm sure a Man of your fine Sense</l><l n="22" xml:id="spp-361-1151-line-22"> Can do it with a small Expence.</l><l n="23" xml:id="spp-361-1151-line-23"> There your <hi rend="underline">Dear Spouse</hi>, and you together</l><l n="24" xml:id="spp-361-1151-line-24"> May breathe your Bellies-full of <hi rend="underline"><unclear>AE</unclear>ther</hi>.</l><l n="25" xml:id="spp-361-1151-line-25"> When <hi rend="underline">Lady Luna</hi> is your Neighbour,</l><l n="26" xml:id="spp-361-1151-line-26"> She'll help your <hi rend="underline">Wife</hi> when she's in Labour.</l><l n="27" xml:id="spp-361-1151-line-27"> Well skill'd in Midwife Artifices,</l><l n="28" xml:id="spp-361-1151-line-28"> For she herself oft' <hi rend="underline">falls</hi> in <hi rend="underline">Pieces</hi>.</l><l n="29" xml:id="spp-361-1151-line-29"> There you shall see a <hi rend="underline">Rary-show</hi>,</l><l n="30" xml:id="spp-361-1151-line-30"> Will make you scorn this <hi rend="underline">World below</hi>,</l><l n="31" xml:id="spp-361-1151-line-31"> When you behold the Milky Way,</l><l n="32" xml:id="spp-361-1151-line-32"> As white as Snow, as bright as Day,</l><l n="33" xml:id="spp-361-1151-line-33"> The glitt'ring Constellations roll</l><l n="34" xml:id="spp-361-1151-line-34"> About the grinding <hi rend="underline">Arctick</hi> Pole.</l><l n="35" xml:id="spp-361-1151-line-35"> The lovely Tingling in your Ears,</l><l n="36" xml:id="spp-361-1151-line-36"> Wrought by the Musick of the Spheres──---</l><l n="37" xml:id="spp-361-1151-line-37"> Your spouse shall then no longer hector,</l><l n="38" xml:id="spp-361-1151-line-38"> You need not fear a Curtain Lecture;</l><l n="39" xml:id="spp-361-1151-line-39"> Nor shall she think that she is <hi rend="underline">undone</hi></l><l n="40" xml:id="spp-361-1151-line-40"> For quitting her beloved <hi rend="underline">London</hi>.</l><l n="41" xml:id="spp-361-1151-line-41"> When she's exalted in the Skies,</l><l n="42" xml:id="spp-361-1151-line-42"> She'll never think of Mutton-Pies;</l><l n="43" xml:id="spp-361-1151-line-43"> When you're advanc'd above <hi rend="underline">Dean</hi>, viz.</l><l n="44" xml:id="spp-361-1151-line-44"> You'll never think of Goody <hi rend="underline">Griz</hi>.</l><l n="45" xml:id="spp-361-1151-line-45"> But ever, ever live at Ease,</l><l n="46" xml:id="spp-361-1151-line-46"> And strive, and strive <hi rend="underline">your Wife to please</hi>,</l><l n="47" xml:id="spp-361-1151-line-47"> In her you'll center all your Joys,</l><l n="48" xml:id="spp-361-1151-line-48"> And get Ten thousand <hi rend="underline">Girls</hi> and <hi rend="underline">Boys</hi>:</l><l n="49" xml:id="spp-361-1151-line-49"> Ten thousand Girls and Boys you'll get,</l><l n="50" xml:id="spp-361-1151-line-50"> And they, like Stars, shall <hi rend="underline">rise</hi> and <hi rend="underline">set</hi>.</l><l n="51" xml:id="spp-361-1151-line-51"> While <hi rend="underline">you and Spouse</hi> transform'd shall soon</l><l n="52" xml:id="spp-361-1151-line-52"> Be a <hi rend="underline">new Sun</hi>, and a <hi rend="underline">new Moon</hi>:</l><l n="53" xml:id="spp-361-1151-line-53"> Nor shall you strive your Horns to hide,</l><l n="54" xml:id="spp-361-1151-line-54"> For then your Horns shall be your Pride.361-1151   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

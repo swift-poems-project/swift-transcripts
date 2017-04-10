@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">A Riddling Letter</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="940-ROGP" type="letter"><head type="note" n="1" xml:id="spp-940-ROGP-headnote-1"><lg n="1" xml:id="spp-940-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-940-ROGP-headnote-1-line-group-1-line-1">Sir,</l></lg><lg n="2" xml:id="spp-940-ROGP-headnote-1-line-group-2" type="headnote"><l n="1" xml:id="spp-940-ROGP-headnote-1-line-group-2-line-1">Pray discruciate what follows:</l></lg></head><head type="note" n="2" xml:id="spp-940-ROGP-headnote-2"><lg n="1" xml:id="spp-940-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-940-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-940-ROGP-headnote-3"><lg n="1" xml:id="spp-940-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-940-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-940-ROGP-line-1">The dullest beast, and gentleman's liquor,&#13;</l><l n="2" xml:id="spp-940-ROGP-line-2"> When young is often due to the vicar.The dullest beast, and swine's delight</l><l n="3" xml:id="spp-940-ROGP-line-3"> Make up a bird very swift of flight.The dullest beast when high in stature,</l><l n="4" xml:id="spp-940-ROGP-line-4"> Add another of royal nature,</l><l n="5" xml:id="spp-940-ROGP-line-5"> For breeding is a useful creature.The dullest beast, and a party distressed,</l><l n="6" xml:id="spp-940-ROGP-line-6"> When too long, is bad at best.The dullest beast, and the saddle it wears,</l><l n="7" xml:id="spp-940-ROGP-line-7"> Is good for partridge, not for hares.The dullest beast and kind voice of a cat,</l><l n="8" xml:id="spp-940-ROGP-line-8"> Will make a horse go, though he be not fat.The dullest of beasts and of birds in the air,</l><l n="9" xml:id="spp-940-ROGP-line-9"> Is that by which all Irishmen swear.The dullest beast and famed college for Teagues</l><l n="10" xml:id="spp-940-ROGP-line-10"> Is a person very unfit for intrigues.The dullest beast and cobbler's tool,</l><l n="11" xml:id="spp-940-ROGP-line-11"> With a boy that is only fit for school,</l><l n="12" xml:id="spp-940-ROGP-line-12"> In summer is very pleasant and cool.The dullest beast, and that which you kiss,</l><l n="13" xml:id="spp-940-ROGP-line-13"> May break a limb of master or miss.Of serpent kind, and what at distance kills,</l><l n="14" xml:id="spp-940-ROGP-line-14"> Poor Miss Dingley oft hath felt its bills.The dullest beast and eggs unsound,</l><l n="15" xml:id="spp-940-ROGP-line-15"> Without it I would rather walk on the ground.The dullest beast and what covers a house.</l><l n="16" xml:id="spp-940-ROGP-line-16"> Without it a writer is not worth a louse.The dullest beast, and scandalous vermin</l><l n="17" xml:id="spp-940-ROGP-line-17"> Of roast or boiled, to the hungry is charming.The dullest beast, and what's covered with crust,</l><l n="18" xml:id="spp-940-ROGP-line-18"> There's nobody but a fool that would trust.The dullest beast mending highways,</l><l n="19" xml:id="spp-940-ROGP-line-19"> Is to a horse an evil disease.The dullest beast and a hole in the ground,</l><l n="20" xml:id="spp-940-ROGP-line-20"> Will dress a dinner worth five pound.The dullest beast, and what doctors pretend</l><l n="21" xml:id="spp-940-ROGP-line-21"> The cook-maid often hath by the end.The dullest beast and fish for Lent</l><l n="22" xml:id="spp-940-ROGP-line-22"> May give you a blow you'll forever repent.The dullest beast and a shameful jeer,</l><l n="23" xml:id="spp-940-ROGP-line-23"> Without it a lady should never appear.<gap/><gap/>940-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

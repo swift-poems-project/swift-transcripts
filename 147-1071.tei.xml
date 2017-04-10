@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The <hi rend="underline">W──ds──r</hi> Prophecy.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-147-1071-footnote-1 #spp-147-1071-line-1"/>
+          <link target="#spp-147-1071-footnote-2 #spp-147-1071-line-3"/>
+          <link target="#spp-147-1071-footnote-3 #spp-147-1071-line-6"/>
+          <link target="#spp-147-1071-footnote-4 #spp-147-1071-line-10"/>
+          <link target="#spp-147-1071-footnote-5 #spp-147-1071-line-15"/>
+          <link target="#spp-147-1071-footnote-6 #spp-147-1071-line-15"/>
+          <link target="#spp-147-1071-footnote-7 #spp-147-1071-line-17"/>
+          <link target="#spp-147-1071-footnote-8 #spp-147-1071-line-18"/>
+          <link target="#spp-147-1071-footnote-9 #spp-147-1071-line-21"/>
+          <link target="#spp-147-1071-footnote-10 #spp-147-1071-line-23"/>
+        </linkGrp>
+        <div n="147-1071" type="letter"><head type="note" n="1" xml:id="spp-147-1071-headnote-1"><lg n="1" xml:id="spp-147-1071-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-147-1071-headnote-1-line-group-1-line-1">About three Months ago at <hi rend="underline">W──ds──r</hi>, a poor Knight's Widow was buried in the Cloysters. In digging the grave, the Sexton struck against a small leaden Coffer, about half a Foot in Length, and four Inches wide. The poor Man expecting he had discovered a Treasure, opened it with some Difficulty; but found only a small Parchment, rolled up very fast, put into a Leather Case; which Case was tied at the Top, and sealed with a St. <hi rend="underline">George</hi>, the Impression on black Wax, very rude and Gothick. The Parchment was carried to a Gentleman of Learning, who found in it the following Lines, written in a black old <hi rend="underline">English</hi> Letter, and in the Orthography of the Age, which seems to be about two hundred Years ago. I made a Shift to obtain a Copy of it; but the Transcriber, I find, hath in many Parts altered the Spelling to the modern Way. The Original, as I am informed, is now in the Hands of the ingenious Dr. <hi rend="underline">W────</hi>, F.R.S. where, I suppose, the Curious will not be refused the Satisfaction of seeing it.</l></lg></head><head type="note" n="2" xml:id="spp-147-1071-headnote-2"><lg n="1" xml:id="spp-147-1071-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-147-1071-headnote-2-line-group-1-line-1">T<hi rend="SMALL-CAPS">HE</hi> Lines seem to be a Sort of Prophecy, and written in Verse, as old Prophecies usually are, but in a very hobling Kind of Measure. Their Meaning is very dark, if it be any at all: Of which the learned Reader can judge better than I: However it be, several Persons were of Opinion, that they deserved to be published, both as they discover somewhat of the Genius of a former Age, and may be an Amusement to the present.</l></lg></head><head type="note" n="3" xml:id="spp-147-1071-headnote-3"><lg n="1" xml:id="spp-147-1071-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-147-1071-headnote-3-line-group-1-line-1">It is well known, that Queen <hi rend="underline">Anne</hi> had nominated Dr. <hi rend="underline">Swift</hi> to an <hi rend="underline">English</hi> Bishoprick, which was opposed by Dr. <hi rend="underline">Sharp</hi>, Archbishop of <hi rend="underline">York</hi>, and the Dutchess of <hi rend="underline">Somerset</hi>, who had prevailed on his Grace to go with her to the Queen to lay aside the Nomination, which her Majesty refused; but, the Dutchess falling on her Knees, and shewing the following Prophecy to her Majesty, the Bishoprick was given to another. See the Poem on the Author, <hi rend="underline">&amp;c</hi>. Vol. II.</l></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-147-1071-line-1"><hi rend="display-initial">W</hi>HEN a holy Black <hi rend="underline">Swede</hi><ref target="#spp-147-1071-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-147-1071-footnote-1"><hi rend="underline">Dr. </hi>R<hi rend="SMALL-CAPS">OBINSON<hi rend="underline">, Bishop of </hi></hi>Bristo<hi rend="underline">l, was one of the Plenipotentiaries at the Peace of </hi>Utrecht.</note>, the son of <hi rend="underline">Bob</hi>,</l><l n="2" xml:id="spp-147-1071-line-2"> With a <hi rend="underline">Saint</hi> at his Chin, and a <hi rend="underline">Seal</hi> at his Fob:</l><l n="3" xml:id="spp-147-1071-line-3"> Shall not see one <ref target="#spp-147-1071-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-147-1071-footnote-2"><hi rend="underline">There was then eleven Days Difference between the old and new Style, which did not take Place in </hi>Great Britain<hi rend="underline"> and </hi>Ireland<hi rend="underline">, until it was changed by Act of Parliament to the New Style, which took Place in </hi>September 2, 1752<hi rend="underline">. and made it eleven Days earlier than the Old</hi>.</note> New-Years-Day in that Year,</l><l n="4" xml:id="spp-147-1071-line-4"> Then let Old <hi rend="underline">Englond</hi> make good Chear:<hi rend="underline">Windsor</hi> and <hi rend="underline">Bristow</hi> then shall be</l><l n="5" xml:id="spp-147-1071-line-5"> Joined together in the <hi rend="underline">Low-Countree</hi>.</l><l n="6" xml:id="spp-147-1071-line-6"> Then shall the tall black <ref target="#spp-147-1071-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-147-1071-footnote-3"><hi rend="underline">Earl of </hi>N<hi rend="SMALL-CAPS">OTTINGHAM</hi>.</note><hi rend="underline">Daventry Bird</hi></l><l n="7" xml:id="spp-147-1071-line-7"> Speak against Peace right many a Word;</l><l n="8" xml:id="spp-147-1071-line-8"> And some shall admire his conyng Wit,</l><l n="9" xml:id="spp-147-1071-line-9"> For many good <hi rend="underline">Groats</hi> his Tongue shall slit.</l><l n="10" xml:id="spp-147-1071-line-10"> But Spight of the <hi rend="underline">Harpy</hi><ref target="#spp-147-1071-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-147-1071-footnote-4"><hi rend="underline">Duke of </hi>M<hi rend="SMALL-CAPS">ARLBOROUGH</hi>.</note>, that <hi rend="underline">crawls on all Four</hi>,</l><l n="11" xml:id="spp-147-1071-line-11"> There shall be Peace, pardie, and War no more.</l><l n="12" xml:id="spp-147-1071-line-12"> But <hi rend="underline">Englond</hi>, must cry alack and well-a-day,</l><l n="13" xml:id="spp-147-1071-line-13"> If the <hi rend="underline">Stick</hi> be taken from the <hi rend="underline">dead Sea</hi>.</l><l n="14" xml:id="spp-147-1071-line-14"> And dear <hi rend="underline">Englond</hi>, if ought I understond,</l><l n="15" xml:id="spp-147-1071-line-15"> Beware of <hi rend="underline">Carrots</hi> from <ref target="#spp-147-1071-footnote-5">5</ref><note place="foot" n="5" xml:id="spp-147-1071-footnote-5"><hi rend="underline">Lady </hi>E<hi rend="SMALL-CAPS"/> P<hi rend="SMALL-CAPS">ERCY<hi rend="underline">, sole Daughter and Heir of </hi></hi>J<hi rend="SMALL-CAPS"/>P<hi rend="SMALL-CAPS">ERCY<hi rend="underline">, Earl of </hi></hi>Northumberland<hi rend="underline">, was married to </hi>C<hi rend="SMALL-CAPS">HARLES </hi>S<hi rend="SMALL-CAPS">EYMOR<hi rend="underline">, Duke of </hi></hi>Somerset.</note><hi rend="underline">Northumberlond</hi>.<hi rend="underline">Carrots</hi> sown <ref target="#spp-147-1071-footnote-6">6</ref><note place="foot" n="6" xml:id="spp-147-1071-footnote-6">T<hi rend="SMALL-CAPS">HOMAS </hi>T<hi rend="SMALL-CAPS">HYNNE<hi rend="underline">, Esq; a Gentleman of very great Estate, who was courting the above Lady, after the Death of her first Husband </hi></hi>H<hi rend="SMALL-CAPS">ENRY </hi>C<hi rend="SMALL-CAPS"><hi rend="underline">, Earl of </hi></hi>Ogle<hi rend="underline">, only Son to </hi>H<hi rend="SMALL-CAPS">ENRY<hi rend="underline">, Duke of </hi></hi>Newcastle<hi rend="underline">, who died before he was of Age to cohabit with her; being set upon in the </hi>Hay-Market, London<hi rend="underline">, was murdered by Count </hi>Coningsmark<hi rend="underline">, a </hi>Polish<hi rend="underline"> Nobleman, (who paid his Addresses to this Lady, but was refused,) and two Ruffians, who shot Mr. </hi>T<hi rend="SMALL-CAPS">HYNNE<hi rend="underline"> in his Coach. The Count made his Escape, but the others were hanged. There is a Monument in </hi></hi>Westminster-Abbey<hi rend="underline">, erected to the Memory of Mr. </hi>T<hi rend="SMALL-CAPS">HYNNE<hi rend="underline">, with some Hierogliphic Figures, representing the Manner of his Murder</hi></hi>.</note><hi rend="underline">Thynne</hi> a deep Root may get,</l><l n="16" xml:id="spp-147-1071-line-16"> If so be they are in <hi rend="underline">Sommer set</hi>:</l><l n="17" xml:id="spp-147-1071-line-17"> Their <ref target="#spp-147-1071-footnote-7">7</ref><note place="foot" n="7" xml:id="spp-147-1071-footnote-7"><hi rend="underline">Count </hi>C<hi rend="SMALL-CAPS">ONINGSMARK</hi>.</note><hi rend="underline">Conyngs mark</hi> thou, for I have been told,</l><l n="18" xml:id="spp-147-1071-line-18"> They <hi rend="underline">assassine</hi> when young, and <hi rend="underline">poison</hi> when old.<hi rend="underline">Root</hi> out these <hi rend="underline">Carrots</hi>, O thou<ref target="#spp-147-1071-footnote-8">8</ref><note place="foot" n="8" xml:id="spp-147-1071-footnote-8">A<hi rend="SMALL-CAPS">NNA<hi rend="underline"> Regina</hi></hi>.</note>, whose Name,</l><l n="19" xml:id="spp-147-1071-line-19"> Is backwards and forwards always the same;</l><l n="20" xml:id="spp-147-1071-line-20"> And keep close to thee always that <hi rend="underline">Name</hi>,</l><l n="21" xml:id="spp-147-1071-line-21"> Which <ref target="#spp-147-1071-footnote-9">9</ref><note place="foot" n="9" xml:id="spp-147-1071-footnote-9"><hi rend="underline">Lady </hi>M<hi rend="SMALL-CAPS">ASHAM</hi>.</note> backwards and forwards is almost the same.</l><l n="22" xml:id="spp-147-1071-line-22"> And <hi rend="underline">Englond</hi> wouldst thou be happy still,</l><l n="23" xml:id="spp-147-1071-line-23"> Bury those <hi rend="underline">Carrots</hi> under a <ref target="#spp-147-1071-footnote-10">10</ref><note place="foot" n="10" xml:id="spp-147-1071-footnote-10"><hi rend="underline">Lady </hi>M<hi rend="SMALL-CAPS">ASHAM<hi rend="underline">'s Maiden Name was </hi></hi>H<hi rend="SMALL-CAPS">ILL</hi>.</note><hi rend="underline">Hill</hi>.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

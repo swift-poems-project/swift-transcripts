@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L.<lb/><hi rend="underline">The Musical</hi> C<hi rend="SMALL-CAPS">ONTEST</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="!W3854L2"><head type="note" n="1" xml:id="spp-!W3854L2-headnote-1"><lg n="1" xml:id="spp-!W3854L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-!W3854L2-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-!W3854L2-headnote-2"><lg n="1" xml:id="spp-!W3854L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-!W3854L2-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-!W3854L2-headnote-3"><lg n="1" xml:id="spp-!W3854L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-!W3854L2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-!W3854L2-line-1"><hi rend="display-initial">S</hi>OME say, that Signior <hi rend="underline">Bononcini</hi>,</l><l/><l n="2" xml:id="spp-!W3854L2-line-2">Compar'd to <hi rend="underline">Handel</hi>'s a meer Ninny;</l><l/><l n="3" xml:id="spp-!W3854L2-line-3">Others aver, that to him <hi rend="underline">Handel</hi></l><l/><l n="4" xml:id="spp-!W3854L2-line-4">Is scarcely fit to hold the Candle.</l><l/><l n="5" xml:id="spp-!W3854L2-line-5">Strange, that such high Disputes shou'd be,</l><l/><l n="6" xml:id="spp-!W3854L2-line-6">'Twixt <hi rend="underline">Tweedledum</hi> and <hi rend="underline">Tweedledee</hi>.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

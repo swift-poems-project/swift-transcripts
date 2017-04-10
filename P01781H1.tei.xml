@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DR. SWIFT'S REMARKS</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="P01781H1" type="poem"><head type="note" n="1" xml:id="spp-P01781H1-headnote-1"><lg n="1" xml:id="spp-P01781H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-P01781H1-headnote-1-line-group-1-line-1">For equal judgement, Lord, to thee,</l></lg><lg n="2" xml:id="spp-P01781H1-headnote-1-line-group-2" type="headnote"><l n="1" xml:id="spp-P01781H1-headnote-1-line-group-2-line-1"><lb/>The nations [3] all submit;</l></lg><lg n="3" xml:id="spp-P01781H1-headnote-1-line-group-3" type="headnote"><l n="1" xml:id="spp-P01781H1-headnote-1-line-group-3-line-1">Be therefore [4] merciful to me,</l></lg><lg n="4" xml:id="spp-P01781H1-headnote-1-line-group-4" type="headnote"><l n="1" xml:id="spp-P01781H1-headnote-1-line-group-4-line-1"><lb/>And my just soul acquit [5].</l></lg></head><head type="note" n="2" xml:id="spp-P01781H1-headnote-2"><lg n="1" xml:id="spp-P01781H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-P01781H1-headnote-2-line-group-1-line-1">[5] Of what?</l></lg></head><head type="note" n="3" xml:id="spp-P01781H1-headnote-3"><lg n="1" xml:id="spp-P01781H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-P01781H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-P01781H1-line-1"> Poor <hi rend="underline">David</hi> never could acquitA criminal like thee,</l><l n="2" xml:id="spp-P01781H1-line-2"> Against his Psalms who could commitSuch wicked poetry.P01781H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

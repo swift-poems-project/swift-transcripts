@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">The Windsor Prophecy</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="147-ROGP" type="poem"><head type="note" n="1" xml:id="spp-147-ROGP-headnote-1"><lg n="1" xml:id="spp-147-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-147-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-147-ROGP-headnote-2"><lg n="1" xml:id="spp-147-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-147-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-147-ROGP-headnote-3"><lg n="1" xml:id="spp-147-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-147-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-147-ROGP-line-1"> When a holy black <hi rend="underline">Suede</hi>, the Son of <hi rend="underline">Bob</hi>,</l><l n="2" xml:id="spp-147-ROGP-line-2"> With a <hi rend="underline">Saint</hi> at his Chin, and a <hi rend="underline">Seal</hi> in his Fob;</l><l n="3" xml:id="spp-147-ROGP-line-3"> Shall not see one New Years-day in that Year,</l><l n="4" xml:id="spp-147-ROGP-line-4"> Then let old <hi rend="underline">Englond</hi> make good Chear:<hi rend="underline">Windsor</hi> and <hi rend="underline">Bristow</hi> then shall be</l><l n="5" xml:id="spp-147-ROGP-line-5"> Joyned together in the Low-Countree.</l><l n="6" xml:id="spp-147-ROGP-line-6"> Then shall the tall black <hi rend="underline">Daventry</hi> Bird</l><l n="7" xml:id="spp-147-ROGP-line-7"> Speak against Peace right many a Word;</l><l n="8" xml:id="spp-147-ROGP-line-8"> And some shall admire his conyng Witt,</l><l n="9" xml:id="spp-147-ROGP-line-9"> For many good <hi rend="underline">Groats</hi> his Tongue shall slitt:</l><l n="10" xml:id="spp-147-ROGP-line-10"> But spight of the <hi rend="underline">Harpy</hi> that <hi rend="underline">crawls on all four</hi>,</l><l n="11" xml:id="spp-147-ROGP-line-11"> There shall be Peace, pardie, and War no more.</l><l n="12" xml:id="spp-147-ROGP-line-12"> But <hi rend="underline">Englond</hi> must cry alack and well a day,</l><l n="13" xml:id="spp-147-ROGP-line-13"> If the <hi rend="underline">Stick</hi> be taken from the <hi rend="underline">dead</hi> Sea.</l><l n="14" xml:id="spp-147-ROGP-line-14"> And dear <hi rend="underline">Englond</hi>, if ought I understond,</l><l n="15" xml:id="spp-147-ROGP-line-15"> Beware of <hi rend="underline">Carrots</hi> from <hi rend="underline">Northumberland</hi>.<hi rend="underline">Carrots</hi> sown <hi rend="underline">Thyn</hi> a deep root may get,</l><l n="16" xml:id="spp-147-ROGP-line-16"> If so be they are in <hi rend="underline">Sommer</hi> set:</l><l n="17" xml:id="spp-147-ROGP-line-17"> Their <hi rend="underline">Conyngs mark</hi> thou, for I have been told,</l><l n="18" xml:id="spp-147-ROGP-line-18"> They <hi rend="underline">Assassine</hi> when young, and <hi rend="underline">Poison</hi> when old.</l><l n="19" xml:id="spp-147-ROGP-line-19"> Root out these <hi rend="underline">Carrots</hi>, O Thou, whose <hi rend="underline">Name</hi></l><l n="20" xml:id="spp-147-ROGP-line-20"> Is backwards and forwards always the same;</l><l n="21" xml:id="spp-147-ROGP-line-21"> And keep close to Thee always that <hi rend="underline">Name</hi>,</l><l n="22" xml:id="spp-147-ROGP-line-22"> Which backwards and forwards is allmost the same.</l><l n="23" xml:id="spp-147-ROGP-line-23"> And <hi rend="underline">Englond</hi> wouldst thou be happy still,</l><l n="24" xml:id="spp-147-ROGP-line-24"> Bury those <hi rend="underline">Carrots</hi> under a <hi rend="underline">Hill</hi>.147-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

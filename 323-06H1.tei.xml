@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>PETHOX THE GREAT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-323-06H1-footnote-1 #spp-323-06H1-line-21"/>
+          <link target="#spp-323-06H1-footnote-2 #spp-323-06H1-line-36"/>
+          <link target="#spp-323-06H1-footnote-3 #spp-323-06H1-line-74"/>
+        </linkGrp>
+        <div n="323-06H1" type="poem"><head type="note" n="1" xml:id="spp-323-06H1-headnote-1"><lg n="1" xml:id="spp-323-06H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-323-06H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-323-06H1-headnote-2"><lg n="1" xml:id="spp-323-06H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-323-06H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-323-06H1-headnote-3"><lg n="1" xml:id="spp-323-06H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-323-06H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-323-06H1-line-1"><hi rend="display-initial">F</hi>ROM <hi rend="underline">Venus</hi> born, thy beauty shows;</l><l n="2" xml:id="spp-323-06H1-line-2"> But who thy father, no man knows:</l><l n="3" xml:id="spp-323-06H1-line-3"> Nor can the skilful herald trace</l><l n="4" xml:id="spp-323-06H1-line-4"> The founder of thy ancient race:</l><l n="5" xml:id="spp-323-06H1-line-5"> Whether thy temper, full of fire,</l><l n="6" xml:id="spp-323-06H1-line-6"> Discovers <hi rend="underline">Vulcan</hi> for thy sire,</l><l n="7" xml:id="spp-323-06H1-line-7"> The God who made <hi rend="underline">Scamander</hi> boil,</l><l n="8" xml:id="spp-323-06H1-line-8"> And round his margin sing'd the soil,</l><l n="9" xml:id="spp-323-06H1-line-9"> From whence, philosophers agree,</l><l n="10" xml:id="spp-323-06H1-line-10"> An equal pow'r descends to thee:</l><l n="11" xml:id="spp-323-06H1-line-11"> Whether from dreadful <hi rend="underline">Mars</hi> you claim</l><l n="12" xml:id="spp-323-06H1-line-12"> The high descent from whence you came,</l><l n="13" xml:id="spp-323-06H1-line-13"> And, as a proof, shew num'rous scars</l><l n="14" xml:id="spp-323-06H1-line-14"> By fierce encounters made in wars,</l><l n="15" xml:id="spp-323-06H1-line-15"> Those honourable wounds you bore</l><l n="16" xml:id="spp-323-06H1-line-16"> From head to foot, and <hi rend="underline">all before</hi>;</l><l n="17" xml:id="spp-323-06H1-line-17"> And still the bloody field frequent,</l><l n="18" xml:id="spp-323-06H1-line-18"> Familiar in each leader's tent:</l><l n="19" xml:id="spp-323-06H1-line-19"> Or whether, as the learn'd contend,</l><l n="20" xml:id="spp-323-06H1-line-20"> You from the neighb'ring <hi rend="underline">Gaul</hi> descend;</l><l n="21" xml:id="spp-323-06H1-line-21"> Or from <ref target="#spp-323-06H1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-323-06H1-footnote-1">Naples.</note><hi rend="underline">Parthenope</hi> the proud,</l><l n="22" xml:id="spp-323-06H1-line-22"> Where numberless thy vot'ries crowd:</l><l n="23" xml:id="spp-323-06H1-line-23"> Whether thy great forefathers came</l><l n="24" xml:id="spp-323-06H1-line-24"> From realms that bear <hi rend="underline">Vesputio's</hi> name;</l><l n="25" xml:id="spp-323-06H1-line-25"> For so conject'rers would obtrude,</l><l n="26" xml:id="spp-323-06H1-line-26"> And from thy painted skin conclude:</l><l n="27" xml:id="spp-323-06H1-line-27"> Whether, as <hi rend="underline">Epicurus</hi> shows,</l><l n="28" xml:id="spp-323-06H1-line-28"> The world from justling seeds arose,</l><l n="29" xml:id="spp-323-06H1-line-29"> Which, mingling with prolifick strife</l><l n="30" xml:id="spp-323-06H1-line-30"> In chaos, kindled into life;</l><l n="31" xml:id="spp-323-06H1-line-31"> So your production was the same,</l><l n="32" xml:id="spp-323-06H1-line-32"> And from contending atoms came.Thy fair indulgent mother crown'd</l><l n="33" xml:id="spp-323-06H1-line-33"> Thy head with sparkling rubies round:</l><l n="34" xml:id="spp-323-06H1-line-34"> Beneath thy decent steps the road</l><l n="35" xml:id="spp-323-06H1-line-35"> Is all with precious jewels strow'd.</l><l n="36" xml:id="spp-323-06H1-line-36"> The <ref target="#spp-323-06H1-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-323-06H1-footnote-2"><hi rend="underline">Bubo</hi>, the owl.</note> bird of <hi rend="underline">Pallas</hi> knows his post,</l><l n="37" xml:id="spp-323-06H1-line-37"> Thee to attend, where-e'er thou go'st.<hi rend="underline">Byzantians</hi> boast, that on the clod</l><l n="38" xml:id="spp-323-06H1-line-38"> Where once their <hi rend="underline">sultan's</hi> horse hath trod,</l><l n="39" xml:id="spp-323-06H1-line-39"> Grows neither grass, nor shrub, nor tree:</l><l n="40" xml:id="spp-323-06H1-line-40"> The same thy subjects boast of thee.The greatest lord, when you appear,</l><l n="41" xml:id="spp-323-06H1-line-41"> Will deign your livery to wear,</l><l n="42" xml:id="spp-323-06H1-line-42"> In all the various colours seen</l><l n="43" xml:id="spp-323-06H1-line-43"> Of red, and yellow, blue, and green.With half a word, when you require,</l><l n="44" xml:id="spp-323-06H1-line-44"> The man of bus'ness must retire.The haughty minister of state</l><l n="45" xml:id="spp-323-06H1-line-45"> With trembling must thy leisure wait;</l><l n="46" xml:id="spp-323-06H1-line-46"> And, while his fate is in thy hands,</l><l n="47" xml:id="spp-323-06H1-line-47"> The bus'ness of the nation stands.Thou dar'st the greatest prince attack,</l><l n="48" xml:id="spp-323-06H1-line-48"> Can'st hourly set him on the rack,</l><l n="49" xml:id="spp-323-06H1-line-49"> And, as an instance of thy pow'r,</l><l n="50" xml:id="spp-323-06H1-line-50"> Inclose him in a wooden tow'r:</l><l n="51" xml:id="spp-323-06H1-line-51"> With pungent pains on ev'ry side,</l><l n="52" xml:id="spp-323-06H1-line-52"> So <hi rend="underline">Regulus</hi> in torments dy'd.From thee our youth all virtues learn,</l><l n="53" xml:id="spp-323-06H1-line-53"> Dangers with prudence to discern;</l><l n="54" xml:id="spp-323-06H1-line-54"> And well thy scholars are endu'd</l><l n="55" xml:id="spp-323-06H1-line-55"> With temp'rance, and with fortitude;</l><l n="56" xml:id="spp-323-06H1-line-56"> With patience, which all ills supports;</l><l n="57" xml:id="spp-323-06H1-line-57"> And secrecy, the art of courts.The glitt'ring beau could hardly tell,</l><l n="58" xml:id="spp-323-06H1-line-58"> Without your aid, to read or spell;</l><l n="59" xml:id="spp-323-06H1-line-59"> But, having long convers'd with you,</l><l n="60" xml:id="spp-323-06H1-line-60"> Knows how to write a billet-doux.With what delight, methinks, I trace</l><l n="61" xml:id="spp-323-06H1-line-61"> Your blood in ev'ry noble race!</l><l n="62" xml:id="spp-323-06H1-line-62"> In whom thy features, shape, and mien</l><l n="63" xml:id="spp-323-06H1-line-63"> Are to the life distinctly seen.The <hi rend="underline">Britons</hi>, once a savage kind,</l><l n="64" xml:id="spp-323-06H1-line-64"> By you were brighten'd and refin'd,</l><l n="65" xml:id="spp-323-06H1-line-65"> Descendents of the barb'rous <hi rend="underline">Huns</hi>,</l><l n="66" xml:id="spp-323-06H1-line-66"> With limbs robust, and voice that stuns:</l><l n="67" xml:id="spp-323-06H1-line-67"> But you have molded them a·fresh,</l><l n="68" xml:id="spp-323-06H1-line-68"> Remov'd the tough superfluous flesh,</l><l n="69" xml:id="spp-323-06H1-line-69"> Taught them to modulate their tongues,</l><l n="70" xml:id="spp-323-06H1-line-70"> And speak without the help of lungs.<hi rend="underline">Proteus</hi> on you bestow'd the boon</l><l n="71" xml:id="spp-323-06H1-line-71"> To change your visage like the moon;</l><l n="72" xml:id="spp-323-06H1-line-72"> You sometimes half a face produce,</l><l n="73" xml:id="spp-323-06H1-line-73"> Keep t'other half for private use.How fam'd thy conduct in the fight</l><l n="74" xml:id="spp-323-06H1-line-74"> With <ref target="#spp-323-06H1-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-323-06H1-footnote-3">Mercury.</note><hi rend="underline">Hermes</hi>, son of <hi rend="underline">Pleias</hi> bright!</l><l n="75" xml:id="spp-323-06H1-line-75"> Out-number'd, half encompass'd round,</l><l n="76" xml:id="spp-323-06H1-line-76"> You strove for ev'ry inch of ground;</l><l n="77" xml:id="spp-323-06H1-line-77"> Then, by a soldierly retreat,</l><l n="78" xml:id="spp-323-06H1-line-78"> Retir'd to your imperial seat.</l><l n="79" xml:id="spp-323-06H1-line-79"> The victor, when your steps he trac'd,</l><l n="80" xml:id="spp-323-06H1-line-80"> Found all the realms before him waste:</l><l n="81" xml:id="spp-323-06H1-line-81"> You o'er the high triumphal arch</l><l n="82" xml:id="spp-323-06H1-line-82"> Pontifick made your glorious march;</l><l n="83" xml:id="spp-323-06H1-line-83"> The wond'rous arch behind you fell,</l><l n="84" xml:id="spp-323-06H1-line-84"> And left a chasm profound as hell:</l><l n="85" xml:id="spp-323-06H1-line-85"> You, in your capitol secur'd,</l><l n="86" xml:id="spp-323-06H1-line-86"> A siege as long as <hi rend="underline">Troy</hi> endur'd.323-06H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

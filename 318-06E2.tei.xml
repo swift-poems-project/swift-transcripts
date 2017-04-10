@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>C<hi rend="SMALL-CAPS">ARBERY </hi>R<hi rend="SMALL-CAPS">OCKS</hi> in the country of Cork, Ire-<lb/>land.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="318-06E2"><head type="note" n="1" xml:id="spp-318-06E2-headnote-1"><lg n="1" xml:id="spp-318-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-318-06E2-headnote-1-line-group-1-line-1">[We have added a translation of the preceding poem for the benefit of our English readers. It is done by Mr W. Dunkin, M. A. for whom our supposed author hath expressed a great regard on account of his ingenious performances, although unacquainted with him.]&#13;</l></lg></head><head type="note" n="2" xml:id="spp-318-06E2-headnote-2"><lg n="1" xml:id="spp-318-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-318-06E2-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-318-06E2-headnote-3"><lg n="1" xml:id="spp-318-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-318-06E2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-318-06E2-line-1"><hi rend="display-initial">L</hi>O! from the top of yonder cliff, that shrouds</l><l/><l n="2" xml:id="spp-318-06E2-line-2">Its airy head amidst the azure clouds,</l><l/><l n="3" xml:id="spp-318-06E2-line-3">Hangs a huge fragment; destitute of props,</l><l/><l n="4" xml:id="spp-318-06E2-line-4">Prone on the waves the rocky ruin drops!</l><l/><l n="5" xml:id="spp-318-06E2-line-5">With horse rebuff the swelling seas rebound,</l><l/><l n="6" xml:id="spp-318-06E2-line-6">From shore to shore the rocks return the sound:</l><l/><l n="7" xml:id="spp-318-06E2-line-7">The dreadful murmur heaven's high convex cleaves,</l><l/><l n="8" xml:id="spp-318-06E2-line-8">And Neptune shrinks beneath his subject waves:</l><l/><l n="9" xml:id="spp-318-06E2-line-9">For long the whirling winds and beating tides</l><l/><l n="10" xml:id="spp-318-06E2-line-10">Had scoop'd a vault into its nether sides.</l><l/><l n="11" xml:id="spp-318-06E2-line-11">Now yields the base, the summits nod, now urge</l><l/><l n="12" xml:id="spp-318-06E2-line-12">Their headlong course, and lash the sounding surge.</l><l/><l n="13" xml:id="spp-318-06E2-line-13">Not louder noise could shake the guilty world,</l><l/><l n="14" xml:id="spp-318-06E2-line-14">When Jove heap'd mountains upon mountains hurl'd;</l><l/><l n="15" xml:id="spp-318-06E2-line-15">Retorting Pelion from his dread abode,</l><l/><l n="16" xml:id="spp-318-06E2-line-16">To crush earth's rebel-sons beneath the load.</l><l/><l n="17" xml:id="spp-318-06E2-line-17"/></lg><lg n="2" type="stanza"><l>Oft too with hideous yawn the caverns wide&#13;</l><l/><l n="18" xml:id="spp-318-06E2-line-18">Present an orifice on either side,</l><l/><l n="19" xml:id="spp-318-06E2-line-19">A dismal orifice from sea to sea</l><l/><l n="20" xml:id="spp-318-06E2-line-20">Extended, pervious to the god of day:</l><l/><l n="21" xml:id="spp-318-06E2-line-21">Uncouthly join'd the rocks stupendous form</l><l/><l n="22" xml:id="spp-318-06E2-line-22">An arch, the ruin of a future storm:</l><l/><l n="23" xml:id="spp-318-06E2-line-23">High on the cliff their nests the <hi rend="underline">woodquests</hi> make,</l><l/><l n="24" xml:id="spp-318-06E2-line-24">And sea-calves stable in the oozy lake.</l><l/><l n="25" xml:id="spp-318-06E2-line-25"/></lg><lg n="3" type="stanza"><l>But when bleak Winter with his sullen train&#13;</l><l/><l n="26" xml:id="spp-318-06E2-line-26">Awakes the winds to vex the wat'ry plain;</l><l/><l n="27" xml:id="spp-318-06E2-line-27">When o'er the craggy steep without controul,</l><l/><l n="28" xml:id="spp-318-06E2-line-28">Big with the blast, the raging billows roul;</l><l/><l n="29" xml:id="spp-318-06E2-line-29">Not towns beleaguer'd, not the flaming brand,</l><l/><l n="30" xml:id="spp-318-06E2-line-30">Darted from heav'n by Jove's avenging hand,</l><l/><l n="31" xml:id="spp-318-06E2-line-31">Oft as on impious men his wrath he pours,</l><l/><l n="32" xml:id="spp-318-06E2-line-32">Humbles their pride, and blasts their gilded tow'rs,</l><l/><l n="33" xml:id="spp-318-06E2-line-33">Equal the tumult of this wild uproar:</l><l/><l n="34" xml:id="spp-318-06E2-line-34">Waves rush o'er waves, rebellows shore to shore.</l><l/><l n="35" xml:id="spp-318-06E2-line-35">The neighb'ring race, though wont to brave the shocks</l><l/><l n="36" xml:id="spp-318-06E2-line-36">Of angry seas, and run along the rocks,</l><l/><l n="37" xml:id="spp-318-06E2-line-37">Now pale with terror, while the ocean foams,</l><l/><l n="38" xml:id="spp-318-06E2-line-38">Fly far and wide, nor trust their native homes.</l><l/><l n="39" xml:id="spp-318-06E2-line-39"/></lg><lg n="4" type="stanza"><l>The goats, while pendent from the mountain-top&#13;</l><l/><l n="40" xml:id="spp-318-06E2-line-40">The wither'd herb improvident they crop,</l><l/><l n="41" xml:id="spp-318-06E2-line-41">Wash'd down the precipice with sudden sweep,</l><l/><l n="42" xml:id="spp-318-06E2-line-42">Leave their sweet lives beneath th' unfathom'd deep.</l><l/><l n="43" xml:id="spp-318-06E2-line-43">The frighted fisher with desponding eyes,</l><l/><l n="44" xml:id="spp-318-06E2-line-44">Though safe, yet trembling in the harbour lies,</l><l/><l n="45" xml:id="spp-318-06E2-line-45">Nor hoping to behold the skies serene,</l><l/><l n="46" xml:id="spp-318-06E2-line-46">Wearies with vows the monarch of the main.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

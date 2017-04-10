@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">HORACE</hi>.<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="770-WILH" type="poem"><head type="note" n="1" xml:id="spp-770-WILH-headnote-1"><lg n="1" xml:id="spp-770-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-770-WILH-headnote-1-line-group-1-line-1"><hi rend="underline">O navis, referent</hi>, &amp;c.</l></lg></head><head type="note" n="2" xml:id="spp-770-WILH-headnote-2"><lg n="1" xml:id="spp-770-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-770-WILH-headnote-2-line-group-1-line-1">Paraphrased and inscribed to <hi rend="underline">Ir──d</hi>.</l></lg></head><head type="note" n="3" xml:id="spp-770-WILH-headnote-3"><lg n="1" xml:id="spp-770-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-770-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-770-WILH-line-1"> The INSCRIPTION.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-770-WILH-line-2" rend="indent(2) indent(1) indent(5)"><hi rend="underline">Poor floating Isle, tost on ill Fortune's Waves,Ordain'd by </hi>Fate<hi rend="underline"> to be the Land of Slaves:Shall moving </hi>Delos<hi rend="underline"> now deep-rooted stand,Thou, fixt of old, be now the moving Land?Altho' the Metaphor be worn and staleBetwixt a State, and Vessel under Sail;Let me suppose thee for a Ship a-while,And thus address thee in the Sailor Stile</hi>.</l></lg><lg n="3" type="stanza"><l n="3" xml:id="spp-770-WILH-line-3"><hi rend="display-initial">U</hi>NHAPPY Ship, thou art return'd in Vain:</l><l n="4" xml:id="spp-770-WILH-line-4"> New Waves shall drive thee to the Deep again.</l><l n="5" xml:id="spp-770-WILH-line-5"> Look to thy Self, and be no more the Sport</l><l n="6" xml:id="spp-770-WILH-line-6"> Of giddy Winds, but make some friendly Port.</l><l n="7" xml:id="spp-770-WILH-line-7"> Lost are thy Oars that us'd thy Course to guide,</l><l n="8" xml:id="spp-770-WILH-line-8"> Like faithful Counsellors on either Side.</l><l n="9" xml:id="spp-770-WILH-line-9"> Thy Mast, which like some aged Patriot stood</l><l n="10" xml:id="spp-770-WILH-line-10"> The single Pillar for his Country's Good,</l><l n="11" xml:id="spp-770-WILH-line-11"> To lead thee, as a Staff directs the Blind,</l><l n="12" xml:id="spp-770-WILH-line-12"> Behold, it cracks by yon rough <hi rend="underline">Eastern</hi> Wind.</l><l n="13" xml:id="spp-770-WILH-line-13"> Your Cable's burst, and you must quickly feel</l><l n="14" xml:id="spp-770-WILH-line-14"> The Waves impetuous entring at your Keel.</l><l n="15" xml:id="spp-770-WILH-line-15"> Thus, Commonwealths receive a foreign Yoke,</l><l n="16" xml:id="spp-770-WILH-line-16"> When the strong Cords of Union once are Broke.</l><l n="17" xml:id="spp-770-WILH-line-17"> Torn by a sudden Tempest is thy Sail,</l><l n="18" xml:id="spp-770-WILH-line-18"> Expanded to invite a milder Gale.As when some Writer in a public Cause,</l><l n="19" xml:id="spp-770-WILH-line-19"> His Pen to save a sinking Nation draws,</l><l n="20" xml:id="spp-770-WILH-line-20"> While all is Calm, his Arguments prevail,</l><l n="21" xml:id="spp-770-WILH-line-21"> The People's Voice expand[s] his Paper Sail;</l><l n="22" xml:id="spp-770-WILH-line-22"> 'Till Pow'r, discharging all her stormy Bags,</l><l n="23" xml:id="spp-770-WILH-line-23"> Flutters the feeble Pamphlet into Rags.</l><l n="24" xml:id="spp-770-WILH-line-24"> The Nation scar'd, the Author doom'd to Death,</l><l n="25" xml:id="spp-770-WILH-line-25"> Who fondly put his Trust in pop'lar Breath.</l></lg><lg n="4" type="stanza"><l n="26" xml:id="spp-770-WILH-line-26">A larger Sacrifice in Vain you vow;&#13;</l><l n="27" xml:id="spp-770-WILH-line-27"> There's not a Pow'r above will help you now:</l><l n="28" xml:id="spp-770-WILH-line-28"> A Nation thus, who oft Heav'ns Call neglects,</l><l n="29" xml:id="spp-770-WILH-line-29"> In Vain from injur'd Heav'n Relief expects.</l><l n="30" xml:id="spp-770-WILH-line-30"> 'Twill not avail, when thy strong Sides are broke,</l><l n="31" xml:id="spp-770-WILH-line-31"> That thy Descent is from the <hi rend="underline">British</hi> Oak:</l><l n="32" xml:id="spp-770-WILH-line-32"> Or when your Name and Family you boast,</l><l n="33" xml:id="spp-770-WILH-line-33"> From Fleets triumphant o'er the <hi rend="underline">Gallick</hi> Coast.</l><l n="34" xml:id="spp-770-WILH-line-34"> Such was <hi rend="underline">Ierne</hi>'s Claim, as just as thine,</l><l n="35" xml:id="spp-770-WILH-line-35"> Her Sons descended from the <hi rend="underline">British</hi> Line;</l><l n="36" xml:id="spp-770-WILH-line-36"> Her matchless Sons; whose Valour still remains</l><l n="37" xml:id="spp-770-WILH-line-37"> On <hi rend="underline">French</hi> Records for twenty long Campains;</l><l n="38" xml:id="spp-770-WILH-line-38"> Yet from an Empress, now a Captive grown,</l><l n="39" xml:id="spp-770-WILH-line-39"> She saved <hi rend="underline">Britannia</hi>'s Right, and lost her own.</l></lg><lg n="5" type="stanza"><l n="40" xml:id="spp-770-WILH-line-40">In Ships decay'd no Mariner confides,&#13;</l><l n="41" xml:id="spp-770-WILH-line-41"> Lur'd by the gilded Stern, and painted Sides.</l><l n="42" xml:id="spp-770-WILH-line-42"> So, at a Ball, unthinking Fools delight</l><l n="43" xml:id="spp-770-WILH-line-43"> In the gay Trappings of a Birth-Day Night:</l><l n="44" xml:id="spp-770-WILH-line-44"> They on the Gold Brocades and Satins rav'd,</l><l n="45" xml:id="spp-770-WILH-line-45"> And quite forgot their Country was enslav'd.</l></lg><lg n="6" type="stanza"><l n="46" xml:id="spp-770-WILH-line-46">Dear Vessel, still be to thy Steerage just,&#13;</l><l n="47" xml:id="spp-770-WILH-line-47"> Nor, change thy Course with ev'ry sudden Gust:</l><l n="48" xml:id="spp-770-WILH-line-48"> Like supple Patriots of the modern Sort,</l><l n="49" xml:id="spp-770-WILH-line-49"> Who turn with ev'ry Gale that blows from Court.</l></lg><lg n="7" type="stanza"><l n="50" xml:id="spp-770-WILH-line-50">Weary and Sea-sick when in thee confin'd,&#13;</l><l n="51" xml:id="spp-770-WILH-line-51"> Now, for thy Safety Cares distract my Mind,</l><l n="52" xml:id="spp-770-WILH-line-52"> As those who long have stood the Storms of State,</l><l n="53" xml:id="spp-770-WILH-line-53"> Retire, yet still bemoan their Country's Fate.</l><l n="54" xml:id="spp-770-WILH-line-54"> Beware, and when you hear the Surges roar,</l><l n="55" xml:id="spp-770-WILH-line-55"> Avoid the Rocks on <hi rend="underline">Britain</hi>'s angry Shore:</l><l n="56" xml:id="spp-770-WILH-line-56"> They lye, alas, too easy to be found,</l><l n="57" xml:id="spp-770-WILH-line-57"> For thee alone they lye the Island round.770-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

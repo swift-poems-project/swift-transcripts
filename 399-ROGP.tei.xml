@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">Clever Tom Clinch Going to be Hanged</hi>
+        </title>
+        <title>HNl</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="399-ROGP" type="poem"><head type="note" n="1" xml:id="spp-399-ROGP-headnote-1"><lg n="1" xml:id="spp-399-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-399-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-399-ROGP-headnote-2"><lg n="1" xml:id="spp-399-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-399-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-399-ROGP-headnote-3"><lg n="1" xml:id="spp-399-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-399-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-399-ROGP-line-1"> As clever Tom Clinch, while the rabble was bawling,&#13;</l><l n="2" xml:id="spp-399-ROGP-line-2"> Rode stately through Holborn, to die in his calling;</l><l n="3" xml:id="spp-399-ROGP-line-3"> He stopped at the George for a bottle of sack,</l><l n="4" xml:id="spp-399-ROGP-line-4"> And promised to pay for it when he came back.</l><l n="5" xml:id="spp-399-ROGP-line-5"> His waistcoat and stockings, and breeches were white,</l><l n="6" xml:id="spp-399-ROGP-line-6"> His cap had a new cherry ribbon to tie't.</l><l n="7" xml:id="spp-399-ROGP-line-7"> The maids to the doors and the balconies ran,</l><l n="8" xml:id="spp-399-ROGP-line-8"> And said, lackaday, he's a proper young man.</l><l n="9" xml:id="spp-399-ROGP-line-9"> But, as from the windows the ladies he spied,</l><l n="10" xml:id="spp-399-ROGP-line-10"> Like a beau in the box, he bowed low on each side;</l><l n="11" xml:id="spp-399-ROGP-line-11"> And when his last speech the hawkers did cry,</l><l n="12" xml:id="spp-399-ROGP-line-12"> He swore from his cart, it was all a damned lie.</l><l n="13" xml:id="spp-399-ROGP-line-13"> The hangman for pardon fell down on his knee;</l><l n="14" xml:id="spp-399-ROGP-line-14"> Tom gave him a kick in the guts for his fee.</l><l n="15" xml:id="spp-399-ROGP-line-15"> Then said, 'I must speak to the people a little,</l><l n="16" xml:id="spp-399-ROGP-line-16"> But I'll see you all damned before I will whittle.</l><l n="17" xml:id="spp-399-ROGP-line-17"> My honest friend Wild, may he long hold his place,</l><l n="18" xml:id="spp-399-ROGP-line-18"> He lengthened my life with a whole year of grace.</l><l n="19" xml:id="spp-399-ROGP-line-19"> Take courage, dear comrades, and be not afraid,</l><l n="20" xml:id="spp-399-ROGP-line-20"> Nor slip this occasion to follow your trade.</l><l n="21" xml:id="spp-399-ROGP-line-21"> My conscience is clear, and my spirits are calm,</l><l n="22" xml:id="spp-399-ROGP-line-22"> And thus I go off without prayer-book or psalm.'</l><l n="23" xml:id="spp-399-ROGP-line-23"> Then follow the practice of clever Tom Clinch,</l><l n="24" xml:id="spp-399-ROGP-line-24"> Who hung like a hero, and never would flinch.399-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ANOTHER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="932-0801"><head type="note" n="1" xml:id="spp-932-0801-headnote-1"><lg n="1" xml:id="spp-932-0801-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-932-0801-headnote-1-line-group-1-line-1">F<hi rend="SMALL-CAPS">ONTINELLA</hi> <hi rend="underline">to</hi> F<hi rend="SMALL-CAPS">LORINDA</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-932-0801-headnote-2"><lg n="1" xml:id="spp-932-0801-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-932-0801-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-932-0801-headnote-3"><lg n="1" xml:id="spp-932-0801-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-932-0801-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-932-0801-line-1"><hi rend="display-initial">W</hi>HEN on my Bosom thy bright Eyes,</l><l/><l n="2" xml:id="spp-932-0801-line-2"><hi rend="underline">Florinda</hi>, dart their Heav'nly Beams,</l><l/><l n="3" xml:id="spp-932-0801-line-3">I feel not the least Love Surprize,</l><l/><l n="4" xml:id="spp-932-0801-line-4">Yet endless Tears flow down in Streams.</l><l/><l n="5" xml:id="spp-932-0801-line-5">There's nought so beautiful in thee,</l><l/><l n="6" xml:id="spp-932-0801-line-6">But you may find the same in me.</l><l/><l n="7" xml:id="spp-932-0801-line-7"/></lg><lg n="2" type="stanza"><l>The Lillies of thy Skin compare;&#13;</l><l/><l n="8" xml:id="spp-932-0801-line-8">In me you see them full as white,</l><l/><l n="9" xml:id="spp-932-0801-line-9">The Roses of your Cheeks, I dare</l><l/><l n="10" xml:id="spp-932-0801-line-10">Affirm, can't glow to more Delight.</l><l/><l n="11" xml:id="spp-932-0801-line-11">Then, since I shew as fine a Face,</l><l/><l n="12" xml:id="spp-932-0801-line-12">Can you refuse a soft Embrace.</l><l/><l n="13" xml:id="spp-932-0801-line-13"/></lg><lg n="3" type="stanza"><l>Ah lovely Nymph, thou'rt in thy Prime!&#13;</l><l/><l n="14" xml:id="spp-932-0801-line-14">And so am I whilst thou art here;</l><l/><l n="15" xml:id="spp-932-0801-line-15">But soon will come the fatal Time,</l><l/><l n="16" xml:id="spp-932-0801-line-16">When all we see shall disappear.</l><l/><l n="17" xml:id="spp-932-0801-line-17">'Tis mine to make a just Reflection,</l><l/><l n="18" xml:id="spp-932-0801-line-18">And yours to follow my Direction.</l><l/><l n="19" xml:id="spp-932-0801-line-19"/></lg><lg n="4" type="stanza"><l>Then catch Admirers while you may;&#13;</l><l/><l n="20" xml:id="spp-932-0801-line-20">Treat not your Lovers with Disdain;</l><l/><l n="21" xml:id="spp-932-0801-line-21">For Time with Beauty flies away,</l><l/><l n="22" xml:id="spp-932-0801-line-22">And there is no Return again.</l><l/><l n="23" xml:id="spp-932-0801-line-23">To you the sad Account I bring,</l><l/><l n="24" xml:id="spp-932-0801-line-24">Life's Autumn has no second Spring.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

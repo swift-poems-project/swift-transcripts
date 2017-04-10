@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">George Nim-Dan-Dean's Invitation to Mr Thomas Sheridan</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X22-ROGP" type="poem"><head type="note" n="1" xml:id="spp-X22-ROGP-headnote-1"><lg n="1" xml:id="spp-X22-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X22-ROGP-headnote-1-line-group-1-line-1">Gaulstown, August 2nd, 1721.</l></lg></head><head type="note" n="2" xml:id="spp-X22-ROGP-headnote-2"><lg n="1" xml:id="spp-X22-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X22-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X22-ROGP-headnote-3"><lg n="1" xml:id="spp-X22-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X22-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X22-ROGP-line-1"> Dear Tom, this verse, which however the beginning may appear, yet in the <hi rend="underline">end's good metre</hi>,</l><l n="2" xml:id="spp-X22-ROGP-line-2"> Is sent to desire that, when your August vacation comes, your <hi rend="underline">friends you'd meet here</hi>.</l><l n="3" xml:id="spp-X22-ROGP-line-3"> For why should you stay in that filthy hole, I mean the <hi rend="underline">city so smoky</hi>,</l><l n="4" xml:id="spp-X22-ROGP-line-4"> When you have not one friend left in town, or at least not one that's <hi rend="underline">witty, to joke w'ye</hi>?</l><l n="5" xml:id="spp-X22-ROGP-line-5"> For, as for honest John, though I'm not sure on't, yet I'll be <hi rend="underline">hanged, less he</hi></l><l n="6" xml:id="spp-X22-ROGP-line-6"> Be gone down the county of Wexford with that great peer the Lord <hi rend="underline">Anglesey</hi>.</l><l n="7" xml:id="spp-X22-ROGP-line-7"> Oh! but I forgot, perhaps, by this time, you may have one come to town, but I don't know whether he be friend or <hi rend="underline">foe, Delany</hi>;</l><l n="8" xml:id="spp-X22-ROGP-line-8"> But, however, if he be come, bring him down, and you shall go back in a fortnight, for I know, there's <hi rend="underline">no delaying ye</hi>.</l><l n="9" xml:id="spp-X22-ROGP-line-9"> Oh! I forgot too, I believe there may be one more, I mean that great fat joker, <hi rend="underline">friend Helsham, he</hi></l><l n="10" xml:id="spp-X22-ROGP-line-10"> That wrote the prologue, and if you stay with him, depend on't, in the end, <hi rend="underline">he'll sham ye</hi>.</l><l n="11" xml:id="spp-X22-ROGP-line-11"> Bring down Long Shanks Jim too, but now I think on't, he's not come yet from <hi rend="underline">Courtown, I fancy</hi>;</l><l n="12" xml:id="spp-X22-ROGP-line-12"> For I heard, a month ago, that he was down there a-<hi rend="underline">courting sly Nancy</hi>.</l><l n="13" xml:id="spp-X22-ROGP-line-13"> However, bring down yourself, and you bring down all; for, to say it <hi rend="underline">we may venture</hi>,</l><l n="14" xml:id="spp-X22-ROGP-line-14"> In thee Delany's spleen, John's mirth, Helsham's jokes, and the soft soul of amorous <hi rend="underline">Jemmy centre</hi>.</l></lg><lg n="2" type="stanza"><l n="15" xml:id="spp-X22-ROGP-line-15">POSTSCRIPT</l></lg><lg n="3" type="stanza"><l n="16" xml:id="spp-X22-ROGP-line-16">I had forgot to desire you to bring down what I say you have, and you'll believe me as sure as a <hi rend="underline">gun, and own it</hi>;</l><l n="17" xml:id="spp-X22-ROGP-line-17"> I mean, what no other mortal in the universe can boast of, your own spirit of <hi rend="underline">pun, and own wit</hi>.</l><l n="18" xml:id="spp-X22-ROGP-line-18"> And now I hope you'll excuse this rhyming, which I must say is (though written somewhat at <hi rend="underline">large</hi>) <hi rend="underline">trim and clean</hi>;</l><l n="19" xml:id="spp-X22-ROGP-line-19"> And so I conclude, with humble respects as usual, your most dutiful and obedient</l></lg><lg n="4" type="stanza"><l n="20" xml:id="spp-X22-ROGP-line-20" rend="flush left"><hi rend="underline">George Nim-Dan-Dean</hi>.X22-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

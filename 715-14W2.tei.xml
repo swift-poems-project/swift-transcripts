@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A REBUS.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-715-14W2-footnote-1 #spp-715-14W2-line-1"/>
+          <link target="#spp-715-14W2-footnote-2 #spp-715-14W2-line-3"/>
+          <link target="#spp-715-14W2-footnote-3 #spp-715-14W2-line-4"/>
+        </linkGrp>
+        <div n="715-14W2" type="poem"><head type="note" n="1" xml:id="spp-715-14W2-headnote-1"><lg n="1" xml:id="spp-715-14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-715-14W2-headnote-1-line-group-1-line-1">BY VANESSA.</l></lg></head><head type="note" n="2" xml:id="spp-715-14W2-headnote-2"><lg n="1" xml:id="spp-715-14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-715-14W2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-715-14W2-headnote-3"><lg n="1" xml:id="spp-715-14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-715-14W2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-715-14W2-line-1"> C<hi rend="SMALL-CAPS">UT</hi> the name of the man <ref target="#spp-715-14W2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-715-14W2-footnote-1">Jo-seph.</note> who his mistress denied,</l><l n="2" xml:id="spp-715-14W2-line-2"> And let the first of it be only applied</l><l n="3" xml:id="spp-715-14W2-line-3"> To join with the prophet <ref target="#spp-715-14W2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-715-14W2-footnote-2">Nathan.</note> who David did chide;</l><l n="4" xml:id="spp-715-14W2-line-4"> Then say what a horse is that runs very fast;<ref target="#spp-715-14W2-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-715-14W2-footnote-3">Swift.</note></l><l n="5" xml:id="spp-715-14W2-line-5"> And that which deserves to be first put the last;</l><l n="6" xml:id="spp-715-14W2-line-6"> Spell all then, and put them together, to find</l><l n="7" xml:id="spp-715-14W2-line-7"> The name and the virtues of him I design'd.</l><l n="8" xml:id="spp-715-14W2-line-8"> Like the patriarch in Egypt, he's versed in the state;</l><l n="9" xml:id="spp-715-14W2-line-9"> Like the prophet in Jewry, he's free with the great;</l><l n="10" xml:id="spp-715-14W2-line-10"> Like a racer he flies, to succour with speed,</l><l n="11" xml:id="spp-715-14W2-line-11"> When his friends want his aid, or desert is in need.715-14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

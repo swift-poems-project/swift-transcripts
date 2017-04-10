@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-393-283L-title-1">Verses written 30 Years agoe<ref target="#spp-393-283L-footnote-title-1">1</ref><note n="1" xml:id="spp-393-283L-footnote-title-1" place="foot">By James Moore Smith Esq;. as I have since discovered.</note></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-393-283L-footnote-title-1 #spp-393-283L-title-1"/>
+        </linkGrp>
+        <div n="393-283L" type="poem"><head type="note" n="1" xml:id="spp-393-283L-headnote-1"><lg n="1" xml:id="spp-393-283L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-393-283L-headnote-1-line-group-1-line-1">\f.56r; transcribed line for line\But that this Cover might not be altogetherFilled with my own slight productions I haveinserted a little piece that must have beenwritten at least 30 Years ago; &amp; which has <hi rend="underline">spirit</hi>, if not <hi rend="underline">truth</hi>.────It was found theother day in a drawer in my Lord Sussex'sLibrary, which had never been opened since\f.56v\ the death of his Father\<hi rend="underline">ins</hi>·.·<hi rend="underline">del</hi>·which happened·<hi rend="underline">something·del</hi>·<hi rend="underline">?</hi>ago, as I have·<hi rend="underline">something del</hi>\.────If it had falleninto the hands of some ill-natured persons, whowould have altered the names in the last lineto \<hi rend="underline">del</hi>·(<hi rend="underline">Gray</hi>) and (<hi rend="underline">Mason</hi>) and·<hi rend="underline">½ line scrawled out</hi>·it·\<hi rend="underline">½ line scrawled out</hi> two the two odes on obscuri-ty and oblivion\:──The publick, \<hi rend="underline">1½ lines scrawled out</hi>\would possibly have swall'owed the piece downglibly, as a new production\<hi rend="underline">ins</hi>·.·<hi rend="underline">del</hi> and possibly \<hi rend="underline">del</hi>·would·<hi rend="underline">ins</hi>·might\not have thought the Satire too much over-charged·<hi rend="underline">½ line scrawled out</hi>·might havecontributed to·<hi rend="underline">½ line scrawled out</hi> of the one of·<hi rend="underline">½ line scrawled out</hi>·, if the other·<hi rend="underline">word deleted</hi>·<hi rend="underline">?</hi>be <hi rend="underline">?</hi>thought·<hi rend="underline">1½ lines scrawled out</hi>\ of beingraised].</l></lg></head><head type="note" n="2" xml:id="spp-393-283L-headnote-2"><lg n="1" xml:id="spp-393-283L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-393-283L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-393-283L-headnote-3"><lg n="1" xml:id="spp-393-283L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-393-283L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-393-283L-line-1">Behold the monarch Oaks, that rise&#13;</l><l n="2" xml:id="spp-393-283L-line-2"> With lofty branches to the skies</l><l n="3" xml:id="spp-393-283L-line-3"> Have huge proportion'd roots, which grow</l><l n="4" xml:id="spp-393-283L-line-4"> With equal longitude below<gap/><gap/></l><l n="5" xml:id="spp-393-283L-line-5"> Two bards, who now in fashion reign</l><l n="6" xml:id="spp-393-283L-line-6"> Most aptly this device explain</l><l n="7" xml:id="spp-393-283L-line-7"> If this with Clouds &amp; <add>stars</add> will venture</l><l n="8" xml:id="spp-393-283L-line-8"> That creeps, as far beneath the Center.</l><l n="9" xml:id="spp-393-283L-line-9"> More to explain the thing I mean</l><l n="10" xml:id="spp-393-283L-line-10"> Have you not in a <hi rend="underline">saw-pit</hi> seen</l><l n="11" xml:id="spp-393-283L-line-11"> A skill'd Mechanic, who has stood</l><l n="12" xml:id="spp-393-283L-line-12"> On a Faln pyramid of wood</l><l n="13" xml:id="spp-393-283L-line-13"> And hir'd a subterrane<unclear>ous deleted</unclear>an friend</l><l n="14" xml:id="spp-393-283L-line-14"> To take his Iron by the end</l><l n="15" xml:id="spp-393-283L-line-15"> But which excelled was never found</l><l n="16" xml:id="spp-393-283L-line-16"> The Man above or under ground.<unclear>f.57v</unclear>The Moral is so pat and Fit</l><l n="17" xml:id="spp-393-283L-line-17"> That were I but the God of wit</l><l n="18" xml:id="spp-393-283L-line-18"> Then in a <hi rend="underline">saw-pit</hi> in wet weather</l><l n="19" xml:id="spp-393-283L-line-19"> Should <hi rend="underline">Young</hi> &amp; <hi rend="underline">Phillips</hi> work together.393-283L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

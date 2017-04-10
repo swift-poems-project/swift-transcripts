@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A true &amp; faithfull Inventory of the goods belonging to Doctor</title>
+        <title>Swift of Laucon Upon Lending his house to the Bishop of</title>
+        <title>Meath till his own Was built: Viz<hi rend="sup">t</hi> 08-</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X44-912A" type="poem"><head type="note" n="1" xml:id="spp-X44-912A-headnote-1"><lg n="1" xml:id="spp-X44-912A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-912A-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X44-912A-headnote-2"><lg n="1" xml:id="spp-X44-912A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-912A-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X44-912A-headnote-3"><lg n="1" xml:id="spp-X44-912A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-912A-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X44-912A-line-1"> An Oaken broken Elbow chair,&#13;</l><l n="2" xml:id="spp-X44-912A-line-2"> a Caudle Cup without an Eare</l><l n="3" xml:id="spp-X44-912A-line-3"> a Batterd: shattered ash bedstead</l><l n="4" xml:id="spp-X44-912A-line-4"> a box of Deal Without a Lid.</l><l n="5" xml:id="spp-X44-912A-line-5"> a pair of tongues but out of Ioint</l><l n="6" xml:id="spp-X44-912A-line-6"> a back·sword Poker w<hi rend="sup">h</hi>out a point</l><l n="7" xml:id="spp-X44-912A-line-7"> a pot that's Crackt aCross around</l><l n="8" xml:id="spp-X44-912A-line-8"> With an old Knotted garter bound</l><l n="9" xml:id="spp-X44-912A-line-9"> an Jron Lock without a Key</l><l n="10" xml:id="spp-X44-912A-line-10"> a Whigg With hanging quite turnd grey<gap/><gap/><gap/><gap/></l><l n="11" xml:id="spp-X44-912A-line-11"> a Curtain Worn to half a stripe</l><l n="12" xml:id="spp-X44-912A-line-12"> a Pair of bellows without a pipe</l><l n="13" xml:id="spp-X44-912A-line-13"> A dish w<hi rend="sup">cḥ</hi> might good meat afford once</l><l n="14" xml:id="spp-X44-912A-line-14"> an Ovid and an old Concordance</l><l n="15" xml:id="spp-X44-912A-line-15"> a bottle bottom &amp; Wooden platter</l><l n="16" xml:id="spp-X44-912A-line-16"> one for meal &amp; one for Water</l><l n="17" xml:id="spp-X44-912A-line-17"> there Likewise is a Copper-Skillett,</l><l n="18" xml:id="spp-X44-912A-line-18"> W<hi rend="sup">ch</hi> runs as fast out as you fill it</l><l n="19" xml:id="spp-X44-912A-line-19"> a Candlestick Snuffdish &amp; saveall</l><l n="20" xml:id="spp-X44-912A-line-20"> and this his houshold goods you have all</l></lg><lg n="2" type="stanza"><l n="21" xml:id="spp-X44-912A-line-21">These to his Lord<hi rend="sup">p</hi> as a freind</l><l n="22" xml:id="spp-X44-912A-line-22"> till you have built J recomend</l><l n="23" xml:id="spp-X44-912A-line-23"> Theyll serve your Workmen for a shift</l><l n="24" xml:id="spp-X44-912A-line-24"> Why Not as Well as Doctor Swift:X44-912A   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

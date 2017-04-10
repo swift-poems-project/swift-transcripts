@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Huze:</title>
+        <title><hi rend="SMALL-CAPS">OR</hi>,</title>
+        <title>The D--n's ANSWER</title>
+        <title>TO THE<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y35AL322" type="poem"><head type="note" n="1" xml:id="spp-Y35AL322-headnote-1"><lg n="1" xml:id="spp-Y35AL322-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y35AL322-headnote-1-line-group-1-line-1">──────Risus Risum.</l></lg></head><head type="note" n="2" xml:id="spp-Y35AL322-headnote-2"><lg n="1" xml:id="spp-Y35AL322-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y35AL322-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y35AL322-headnote-3"><lg n="1" xml:id="spp-Y35AL322-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y35AL322-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y35AL322-line-1"><hi rend="display-initial">O</hi> My little <hi rend="underline">F────y</hi>, sweet <hi rend="underline">F────y</hi>,</l><l n="2" xml:id="spp-Y35AL322-line-2"> O my Nown <hi rend="underline">P────y Du──────y</hi>;</l><l n="3" xml:id="spp-Y35AL322-line-3"> Scribble a Song for his G──────ce,</l><l n="4" xml:id="spp-Y35AL322-line-4"> And he surely will make'e a D──────:For sure thy Punns and thy Fables,Your exquisite taste o' the Fashion,Shews us that you are designedOne of the K───────of this Nation.</l></lg><lg n="2" type="stanza"><l n="5" xml:id="spp-Y35AL322-line-5">Chear up your Heart, mine Honey,&#13;</l><l n="6" xml:id="spp-Y35AL322-line-6"> And your Cheeks as red as a Rosey;</l><l n="7" xml:id="spp-Y35AL322-line-7"> Sit with nown Wife, and Write</l><l n="8" xml:id="spp-Y35AL322-line-8"> Some sweet Ballad or Pomey:Your Pomeys, indeed, will make'e,If "ou <hi rend="underline">them</hi> closely follow,A B────p or D────n at least,Or, perhaps, another <hi rend="underline">Apollo</hi>.</l></lg><lg n="3" type="stanza"><l n="9" xml:id="spp-Y35AL322-line-9">We was a P──────d and C──────te,&#13;</l><l n="10" xml:id="spp-Y35AL322-line-10"> And we was a F───────o' the C──────;</l><l n="11" xml:id="spp-Y35AL322-line-11"> And we have got us a Wife,</l><l n="12" xml:id="spp-Y35AL322-line-12"> Efekins by Learning and Knowledge:Our Wife we'll dearly love,And Nurse from Morn 'till Night,And when she cries Eke,We'll hold her out to S───e.</l></lg><lg n="4" type="stanza"><l n="13" xml:id="spp-Y35AL322-line-13">Were was a Sneer and a Smile?&#13;</l><l n="14" xml:id="spp-Y35AL322-line-14"> And, were was a fawning Expression?</l><l n="15" xml:id="spp-Y35AL322-line-15"> Were was a sanctify'd Leer?</l><l n="16" xml:id="spp-Y35AL322-line-16"> And, were was a design'd Carressing?When People are Married, the're foolish,And that's thy Case, dear <hi rend="underline">Du─────y</hi>;Should <hi rend="underline">P────y</hi> chance to prove W---sh,You'd be worse off than <hi rend="underline">J--n .n</hi> D────y.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

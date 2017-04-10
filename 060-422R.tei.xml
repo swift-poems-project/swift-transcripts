@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>VERSES<lb/>Wrote on a<lb/>L<hi rend="SMALL-CAPS">ADY<hi rend="underline">'s Ivory Table-Book</hi>.</hi></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="060-422R"><head type="note" n="1" xml:id="spp-060-422R-headnote-1"><lg n="1" xml:id="spp-060-422R-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-060-422R-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-060-422R-headnote-2"><lg n="1" xml:id="spp-060-422R-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-060-422R-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-060-422R-headnote-3"><lg n="1" xml:id="spp-060-422R-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-060-422R-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-060-422R-line-1"><unclear>S pencilled left margin</unclear><hi rend="display-initial">P</hi>ERUSE my Leaves thro' ev'ry Part,</l><l/><l n="2" xml:id="spp-060-422R-line-2">And think thou seest my Owner's Heart,</l><l/><l n="3" xml:id="spp-060-422R-line-3">Scrawl'd o'er with Trifles thus, and quite</l><l/><l n="4" xml:id="spp-060-422R-line-4">As hard, as senseless, and as light;</l><l/><l n="5" xml:id="spp-060-422R-line-5">Exposed to every Coxcomb's Eyes,</l><l/><l n="6" xml:id="spp-060-422R-line-6">But hid with Caution from the Wise.</l><l/><l n="7" xml:id="spp-060-422R-line-7">Here you may read (<hi rend="underline">Dear charming Saint</hi>)</l><l/><l n="8" xml:id="spp-060-422R-line-8">Beneath (<hi rend="underline">A new Receipt for Paint</hi>:)</l><l/><l n="9" xml:id="spp-060-422R-line-9">Here in Beau-spelling (<hi rend="underline">tru tel Deth</hi>,)</l><l/><l n="10" xml:id="spp-060-422R-line-10">There in her own (<hi rend="underline">far an el breth</hi>.)</l><l/><l n="11" xml:id="spp-060-422R-line-11">Here (<hi rend="underline">lovely Nymph pronounce my Doom</hi>,)</l><l/><l n="12" xml:id="spp-060-422R-line-12">There (<hi rend="underline">a safe Way to use Perfume</hi>;)</l><l/><l n="13" xml:id="spp-060-422R-line-13">Here a Page fill'd with Billet-Doux;</l><l/><l n="14" xml:id="spp-060-422R-line-14">On t'other Side (<hi rend="underline">laid out for Shoes:)</hi>,)</l><l/><l n="15" xml:id="spp-060-422R-line-15">(Madam, I die without your Grace</l><l/><l n="16" xml:id="spp-060-422R-line-16">(Item, <hi rend="underline">for half a Yard of Lace</hi>.)</l><l/><l n="17" xml:id="spp-060-422R-line-17">Who that had Wit would place it here,</l><l/><l n="18" xml:id="spp-060-422R-line-18">For every peeping Fop to jeer?</l><l/><l n="19" xml:id="spp-060-422R-line-19"><gap/></l><l/><l n="20" xml:id="spp-060-422R-line-20"><gap/></l><l/><l n="21" xml:id="spp-060-422R-line-21">In Power of Spittle, and a Clout,</l><l/><l n="22" xml:id="spp-060-422R-line-22">Whene'er he please to blot it out;</l><l/><l n="23" xml:id="spp-060-422R-line-23">And then, to heighten the Disgrace,</l><l/><l n="24" xml:id="spp-060-422R-line-24">Clap his own Nonsense in the Place.</l><l/><l n="25" xml:id="spp-060-422R-line-25">Whoe'er expects to hold his Part</l><l/><l n="26" xml:id="spp-060-422R-line-26">In such a Book and such a Heart,</l><l/><l n="27" xml:id="spp-060-422R-line-27">If he be wealthy, and a Fool,</l><l/><l n="28" xml:id="spp-060-422R-line-28">Is in all Points the fittest Tool;</l><l/><l n="29" xml:id="spp-060-422R-line-29">Of whom it may be justly said,</l><l/><l n="30" xml:id="spp-060-422R-line-30">He's a Golden Pencil tipp'd with Lead.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

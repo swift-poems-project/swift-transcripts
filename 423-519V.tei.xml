@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On L<hi rend="sup">d</hi> Carterets Arms given as the</title>
+        <title>custom is, at every Inn-</title>
+        <title>where the Ld Lt.</title>
+        <title>dines or lyes, with</title>
+        <title>all the titles in a<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="423-519V" type="poem"><head type="note" n="1" xml:id="spp-423-519V-headnote-1"><lg n="1" xml:id="spp-423-519V-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-423-519V-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-423-519V-headnote-2"><lg n="1" xml:id="spp-423-519V-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-423-519V-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-423-519V-headnote-3"><lg n="1" xml:id="spp-423-519V-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-423-519V-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-423-519V-line-1"> Tis fourty to one&#13;</l><l n="2" xml:id="spp-423-519V-line-2"> When <del>Carteret</del> is gone</l><l n="3" xml:id="spp-423-519V-line-3"> These praises we blot out</l><l n="4" xml:id="spp-423-519V-line-4"> The truth will be got out</l><l n="5" xml:id="spp-423-519V-line-5"> And then we'll be smart on</l><l n="6" xml:id="spp-423-519V-line-6"> His L<hi rend="sup">d</hi>ship as wharton<unclear>added in margin</unclear>Or Shrews bury's Duke</l><l n="7" xml:id="spp-423-519V-line-7"> with many rebuke</l><l n="8" xml:id="spp-423-519V-line-8"> Or Bolton the wise</l><l n="9" xml:id="spp-423-519V-line-9"> With his Spanish flyes.</l><l n="10" xml:id="spp-423-519V-line-10"> Or Grafton the deep</l><l n="11" xml:id="spp-423-519V-line-11"> Either drunk or asleep.<unclear/></l><l n="12" xml:id="spp-423-519V-line-12"> These Titles and Arms</l><l n="13" xml:id="spp-423-519V-line-13"> Will then lose their charms<del>If</del> somebody's grace.<del>Should</del> serve in his place</l><l n="14" xml:id="spp-423-519V-line-14"> And thus it goes round</l><l n="15" xml:id="spp-423-519V-line-15"> We <del>praise</del> and confound</l><l n="16" xml:id="spp-423-519V-line-16"> They can do no good</l><l n="17" xml:id="spp-423-519V-line-17"> Nor would if they co<unclear>uld overud</unclear></l><l n="18" xml:id="spp-423-519V-line-18"> To injure the Nation</l><l n="19" xml:id="spp-423-519V-line-19"> Is recommendation</l><l n="20" xml:id="spp-423-519V-line-20"> And why should they save her</l><l n="21" xml:id="spp-423-519V-line-21"> By losing their favor</l><l n="22" xml:id="spp-423-519V-line-22"> Poor kingdom thou wouldst be that Governor's debtor.</l><l n="23" xml:id="spp-423-519V-line-23"> Who kindly would leave thee no worse nor no better.423-519V   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="!W47417B" type="poem"><head type="note" n="1" xml:id="spp-!W47417B-headnote-1"><lg n="1" xml:id="spp-!W47417B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-!W47417B-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-!W47417B-headnote-2"><lg n="1" xml:id="spp-!W47417B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-!W47417B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-!W47417B-headnote-3"><lg n="1" xml:id="spp-!W47417B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-!W47417B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-!W47417B-line-1"> Your Nat'ralists hold a formation of Parts,&#13;</l><l n="2" xml:id="spp-!W47417B-line-2"> Which incline some to Science and others to Arts;</l><l n="3" xml:id="spp-!W47417B-line-3"> That a certain contexture of Fibres will make,</l><l n="4" xml:id="spp-!W47417B-line-4"> A Learned Divine and (é contrá) a Rake,</l><l n="5" xml:id="spp-!W47417B-line-5"> Hence some will pronounce from the Boys choice of Play,</l><l n="6" xml:id="spp-!W47417B-line-6"> That he'll prove a Chief-Iustice or Gen'ral one Day,</l><l n="7" xml:id="spp-!W47417B-line-7"> Hence that Man is tim'rous and this all for Fighting,</l><l n="8" xml:id="spp-!W47417B-line-8"> Thus V────ke for building, and M────gue Knighting,<hi rend="black-letter">Swift</hi> tells you that Van built with Cards for a while,</l><l n="9" xml:id="spp-!W47417B-line-9"> Then deal't in dirt Castles, thence attempted a Pile,</l><l n="10" xml:id="spp-!W47417B-line-10"> Now His Grace (God forbid I should cast an Aspersion,)</l><l n="11" xml:id="spp-!W47417B-line-11"> Practis'd Knighting at first merely for his Diversion,</l><l n="12" xml:id="spp-!W47417B-line-12"> Try'd his Hand on S<hi rend="sup">r</hi> James────but see what is brought on,</l><l n="13" xml:id="spp-!W47417B-line-13"> Six and thirty Starrs blaze, that Old Newton ne'er thought on,</l><l n="14" xml:id="spp-!W47417B-line-14"> What Praise is his Due who from trifling with Baker,</l><l n="15" xml:id="spp-!W47417B-line-15"> Shall become──not a paultry Star gazer but maker?</l><l n="16" xml:id="spp-!W47417B-line-16"> For my Part J own──Nay I swear it by Castor</l><l n="17" xml:id="spp-!W47417B-line-17"> His Title is just──for He's sure a <hi rend="black-letter">Great Master</hi>.!W47417B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

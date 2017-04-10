@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">On another Window</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-261-07H1-footnote-1 #spp-261-07H1-line-3"/>
+        </linkGrp>
+        <div n="261-07H1" type="poem"><head type="note" n="1" xml:id="spp-261-07H1-headnote-1"><lg n="1" xml:id="spp-261-07H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-261-07H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-261-07H1-headnote-2"><lg n="1" xml:id="spp-261-07H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-261-07H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-261-07H1-headnote-3"><lg n="1" xml:id="spp-261-07H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-261-07H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-261-07H1-line-1"><hi rend="display-initial">A</hi>RE the guests of this house still doom'd to be cheated?</l><l n="2" xml:id="spp-261-07H1-line-2"> Sure the fates have decreed they by halves should be treated.</l><l n="3" xml:id="spp-261-07H1-line-3"> In the day of good <ref target="#spp-261-07H1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-261-07H1-footnote-1">Dr. <hi rend="underline">John Stearne</hi>, late lord bishop of <hi rend="underline">Clogher</hi>, who had been the predecessor of Dr. <hi rend="underline">Swift</hi> in the deanry of St. <hi rend="underline">Patrick's</hi>, and was always distinguished for his great hospitality.</note><hi rend="underline">John</hi>, if you came here to dine,</l><l n="4" xml:id="spp-261-07H1-line-4"> You had choice of good meat, no choice of good wine.</l><l n="5" xml:id="spp-261-07H1-line-5"> In <hi rend="underline">Jonathan</hi>'s reign, if you come here to eat,</l><l n="6" xml:id="spp-261-07H1-line-6"> You have choice of good wine, no choice of good meat.</l><l n="7" xml:id="spp-261-07H1-line-7"> Oh <hi rend="underline">Jove</hi>! then how fully might all sides be blest,</l><l n="8" xml:id="spp-261-07H1-line-8"> Would'st thou but agree to this humble request?</l><l n="9" xml:id="spp-261-07H1-line-9"> Put both deans in one; or if that's too much trouble,</l><l n="10" xml:id="spp-261-07H1-line-10"> Instead of the deans, make the deanry double.261-07H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

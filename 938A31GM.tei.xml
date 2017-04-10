@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">A </hi>RIDDLE<hi rend="underline">, to La··· C────t</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="938A31GM" type="poem"><head type="note" n="1" xml:id="spp-938A31GM-headnote-1"><lg n="1" xml:id="spp-938A31GM-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-938A31GM-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-938A31GM-headnote-2"><lg n="1" xml:id="spp-938A31GM-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-938A31GM-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-938A31GM-headnote-3"><lg n="1" xml:id="spp-938A31GM-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-938A31GM-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-938A31GM-line-1"><hi rend="display-initial">I</hi> Reach all things near me and far off to boot,</l><l n="2" xml:id="spp-938A31GM-line-2"> Without stretching a finger, or fleeting a foot,</l><l n="3" xml:id="spp-938A31GM-line-3"> I take them all in too, to add to your wonder,</l><l n="4" xml:id="spp-938A31GM-line-4"> Tho' many and various, and large and asunder.</l><l n="5" xml:id="spp-938A31GM-line-5"> Without jostling or crowding they pass side by side,</l><l n="6" xml:id="spp-938A31GM-line-6"> Thro' a wonderful <hi rend="underline">wicket</hi> not half an inch wide,</l><l n="7" xml:id="spp-938A31GM-line-7"> Tho' I lodge them at ease in a very large store,</l><l n="8" xml:id="spp-938A31GM-line-8"> Of no breadth or length, with a hundred things more.</l><l n="9" xml:id="spp-938A31GM-line-9"> All this I can do, without witchcraft or charm,</l><l n="10" xml:id="spp-938A31GM-line-10"> Tho' sometimes they say I bewitch and do harm.</l><l n="11" xml:id="spp-938A31GM-line-11"> Tho' cold I enflame, and tho' quiet invade,</l><l n="12" xml:id="spp-938A31GM-line-12"> And nothing can shield from my spell, but a shade.</l><l n="13" xml:id="spp-938A31GM-line-13"> A thief that has robb'd you or done you disgrace,</l><l n="14" xml:id="spp-938A31GM-line-14"> In magical mirrour I'll shew you his face;</l><l n="15" xml:id="spp-938A31GM-line-15"> Nay if you'll believe what the poets have said,</l><l n="16" xml:id="spp-938A31GM-line-16"> They'll tell you I kill and call back the dead;</l><l n="17" xml:id="spp-938A31GM-line-17"> Like conjurers in my circle I dwell,</l><l n="18" xml:id="spp-938A31GM-line-18"> I love to look black too, it heightens my spell,</l><l n="19" xml:id="spp-938A31GM-line-19"> Tho' my magick is mighty in every hue,</l><l n="20" xml:id="spp-938A31GM-line-20"> Who see's all my power, must see it in you.</l></lg><lg n="2" type="stanza"><l n="21" xml:id="spp-938A31GM-line-21" rend="align(center) flush left">(See p. 537.)938A31GM   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

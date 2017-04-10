@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-140-80L--title-1">EPIGRAM EXTEMPORE, BY DR. SWIFT<ref target="#spp-140-80L--footnote-title-1">1</ref><note n="1" xml:id="spp-140-80L--footnote-title-1" place="foot">Not printed in his Poems.──It was inscribed to the physician who attended Mr. Harley whilst he lay wounded. See Journal to Stella, February 19, 1711-12. N.</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-140-80L--footnote-title-1 #spp-140-80L--title-1"/>
+        </linkGrp>
+        <div n="140-80L-" type="poem"><head type="note" n="1" xml:id="spp-140-80L--headnote-1"><lg n="1" xml:id="spp-140-80L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-140-80L--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-140-80L--headnote-2"><lg n="1" xml:id="spp-140-80L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-140-80L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-140-80L--headnote-3"><lg n="1" xml:id="spp-140-80L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-140-80L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-140-80L--line-1"><hi rend="display-initial">O</hi>N Britain Europe's safety lies;</l><l n="2" xml:id="spp-140-80L--line-2"> Britain is lost if Harley dies:</l><l n="3" xml:id="spp-140-80L--line-3"> Harley depends upon your skill;</l><l n="4" xml:id="spp-140-80L--line-4"> Think what you save, or what you kill.140-80L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

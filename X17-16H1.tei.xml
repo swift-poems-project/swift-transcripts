@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dr. SWIFT's ANSWER</title>
+        <title>TO<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X17-16H1-footnote-1 #spp-X17-16H1-line-12"/>
+        </linkGrp>
+        <div n="X17-16H1" type="poem"><head type="note" n="1" xml:id="spp-X17-16H1-headnote-1"><lg n="1" xml:id="spp-X17-16H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X17-16H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X17-16H1-headnote-2"><lg n="1" xml:id="spp-X17-16H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X17-16H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X17-16H1-headnote-3"><lg n="1" xml:id="spp-X17-16H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X17-16H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X17-16H1-line-1"><hi rend="display-initial">T</hi>HE verses you sent on the bottling your wine</l><l n="2" xml:id="spp-X17-16H1-line-2"> Were, in ev'ry one's judgment, exceedingly fine;</l><l n="3" xml:id="spp-X17-16H1-line-3"> And I must confess, as a Dean and divine,</l><l n="4" xml:id="spp-X17-16H1-line-4"> I think you inspir'd by the Muses all nine.</l><l n="5" xml:id="spp-X17-16H1-line-5"> I nicely examin'd them ev'ry line,</l><l n="6" xml:id="spp-X17-16H1-line-6"> And the worst of them all, like a barn-door, did shine.</l><l n="7" xml:id="spp-X17-16H1-line-7"> Oh, that Jove would give me such a talent as thine!</l><l n="8" xml:id="spp-X17-16H1-line-8"> With Delany or Dan I would scorn to combine:</l><l n="9" xml:id="spp-X17-16H1-line-9"> I know they have many a wicked design;</l><l n="10" xml:id="spp-X17-16H1-line-10"> And, give Satan his due, Dan begins to refine.</l><l n="11" xml:id="spp-X17-16H1-line-11"> However, I wish, honest comrade of mine,</l><l n="12" xml:id="spp-X17-16H1-line-12"> You would really on Thursday leave St. Catherine <ref target="#spp-X17-16H1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-X17-16H1-footnote-1">St. Catherine's, the seat of Lady Mountcassel, about six miles from Dublin.</note>,</l><l n="13" xml:id="spp-X17-16H1-line-13"> Where I hear you are cramm'd ev'ry day like a swine.<gap/></l><l n="14" xml:id="spp-X17-16H1-line-14"> With me you'll no more have a stomach to dine,</l><l n="15" xml:id="spp-X17-16H1-line-15"> Nor, after your vittles lie sleeping supine:</l><l n="16" xml:id="spp-X17-16H1-line-16"> So I wish you were toothless, like Lord Masserine.</l><l n="17" xml:id="spp-X17-16H1-line-17"> But, were you as wicked as leud-Aretine,</l><l n="18" xml:id="spp-X17-16H1-line-18"> I wish you would tell me which way you incline.</l><l n="19" xml:id="spp-X17-16H1-line-19"> If, when you return, your road you don't line,</l><l n="20" xml:id="spp-X17-16H1-line-20"> On Thursday I'll pay my respects at your shrine,</l><l n="21" xml:id="spp-X17-16H1-line-21"> Wherever you bend, wherever you twine,</l><l n="22" xml:id="spp-X17-16H1-line-22"> In square, or in opposite circle, or trine.</l><l n="23" xml:id="spp-X17-16H1-line-23"> Your beef will on Thursday be salter than brine:</l><l n="24" xml:id="spp-X17-16H1-line-24"> I hope you have swill'd, with new milk from the kine,</l><l n="25" xml:id="spp-X17-16H1-line-25"> As much as the Liffee's outdone by the Rhine;</l><l n="26" xml:id="spp-X17-16H1-line-26"> And Dan shall be with us, with nose aquiline.</l><l n="27" xml:id="spp-X17-16H1-line-27"> If you do not come back, we shall weep out our eyn,</l><l n="28" xml:id="spp-X17-16H1-line-28"> Or may your gown never be good Lutherine.</l><l n="29" xml:id="spp-X17-16H1-line-29"> The beef you have got, I hear, is a chine:</l><l n="30" xml:id="spp-X17-16H1-line-30"> But, if too many come, your Madam will whine;</l><l n="31" xml:id="spp-X17-16H1-line-31"> And then you may kiss the low end of her spine.</l><l n="32" xml:id="spp-X17-16H1-line-32"> But enough of this Poetry Alexandrine:</l><l n="33" xml:id="spp-X17-16H1-line-33"> I hope you will not think this a Pasquine.X17-16H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

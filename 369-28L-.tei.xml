@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">A </hi>S<hi rend="SMALL-CAPS">ATIRE<hi rend="underline">: Occasion'd by </hi>Gulliver<hi rend="underline">'s</hi></hi></title>
+        <title><hi rend="underline">teizing the People of </hi>Dublin<hi rend="underline">, with</hi></title>
+        <title><hi rend="underline">repeated Pamphlets, about </hi>Wood<hi rend="underline">'s</hi></title>
+        <title><hi rend="underline"></hi>Brass-Farthings.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CLee"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-369-28L--footnote-1 #spp-369-28L--line-13"/>
+        </linkGrp>
+        <div n="369-28L-" type="poem"><head type="note" n="1" xml:id="spp-369-28L--headnote-1"><lg n="1" xml:id="spp-369-28L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-369-28L--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-369-28L--headnote-2"><lg n="1" xml:id="spp-369-28L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-369-28L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-369-28L--headnote-3"><lg n="1" xml:id="spp-369-28L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-369-28L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-369-28L--line-1"><hi rend="display-initial">M</hi>OST <hi rend="underline">Reverend Dean</hi>, pray cease to write,</l><l n="2" xml:id="spp-369-28L--line-2"> Nor longer dwell, on Things so trite:</l><l n="3" xml:id="spp-369-28L--line-3"> Forbear to court unto thy Aid,</l><l n="4" xml:id="spp-369-28L--line-4"> Each <hi rend="underline">Grace</hi> and <hi rend="underline">Heliconian Maid:</hi>'s tir'd: <hi rend="underline">Minerva</hi> swears</l><l n="5" xml:id="spp-369-28L--line-5"> Apollo</l><l n="6" xml:id="spp-369-28L--line-6"> She never more will hear thy Pray'rs;</l><l n="7" xml:id="spp-369-28L--line-7"> And, to speak Truth, I think it odd is,</l><l n="8" xml:id="spp-369-28L--line-8"> To Nauseate thus the God and Goddess,</l><l n="9" xml:id="spp-369-28L--line-9"> Still, with <hi rend="underline">one Tale</hi>, to cloy the Town,</l><l n="10" xml:id="spp-369-28L--line-10"> And write, and write their Spirits down.</l></lg><lg n="2" type="stanza"><l n="11" xml:id="spp-369-28L--line-11">Great Sir, you've skilfully behav'd;&#13;</l><l n="12" xml:id="spp-369-28L--line-12"> Your Person's safe, your Country's sav'd;</l><l n="13" xml:id="spp-369-28L--line-13"> And <ref target="#spp-369-28L--footnote-1">1</ref><note place="foot" n="1" xml:id="spp-369-28L--footnote-1">A Proclamation was sent out, offering a Reward of 300 <hi rend="underline">l</hi>. for discovering the Author of one of his Books about <hi rend="underline">Wood</hi>'s.</note><hi rend="underline">Proclamations</hi>, not proclaim</l><l n="14" xml:id="spp-369-28L--line-14"> Your Impudence, but raise your Fame.</l><l n="15" xml:id="spp-369-28L--line-15"> The <hi rend="underline">Grand Dispute</hi>! you've made an End on't:<hi rend="underline">Your Church and State are Independent</hi>.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l></lg><lg n="3" type="stanza"><l n="16" xml:id="spp-369-28L--line-16">But tho' in writing you have Skill,&#13;</l><l n="17" xml:id="spp-369-28L--line-17"> Can joke off-hand, have Wit at will;</l><l n="18" xml:id="spp-369-28L--line-18"> Why will you thus the <hi rend="underline">Irish</hi> cully,</l><l n="19" xml:id="spp-369-28L--line-19"> And feed with nought but <hi rend="underline">Chapon boulli</hi>?<gap/><gap/></l><l n="20" xml:id="spp-369-28L--line-20"> And <hi rend="underline">Wood</hi> his Farthings only write on,</l><l n="21" xml:id="spp-369-28L--line-21"> And squander Wit, and vent your Spite on;</l><l n="22" xml:id="spp-369-28L--line-22"> Unless, that, now and then you deign</l><l n="23" xml:id="spp-369-28L--line-23"> To praise yourself, in humble Strain.<gap/><gap/></l><l n="24" xml:id="spp-369-28L--line-24"> Yet, before you, I am sure, not any<hi rend="underline">Poor Poet, e'er, wrote against Money</hi>.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l></lg><lg n="4" type="stanza"><l n="25" xml:id="spp-369-28L--line-25">But pray, Sir, tell, where's the great Glory,&#13;</l><l n="26" xml:id="spp-369-28L--line-26"> You're like to get by this long Story?</l><l n="27" xml:id="spp-369-28L--line-27"> You <hi rend="underline">print</hi>, just as you <hi rend="underline">preach</hi> and <hi rend="underline">pray</hi>;</l><l n="28" xml:id="spp-369-28L--line-28"> No Mortal, ever yet, said Nay.</l><l n="29" xml:id="spp-369-28L--line-29"> You write, and you, again, write on,</l><l n="30" xml:id="spp-369-28L--line-30"> Soley possess'd of <hi rend="underline">pro</hi> and <hi rend="underline">con</hi>.</l><l n="31" xml:id="spp-369-28L--line-31"> This One-side War, then, prithee close,</l><l n="32" xml:id="spp-369-28L--line-32"> Unless, in Friends, you'll find no Foes.<gap/><gap/><gap/><gap/><gap/>369-28L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

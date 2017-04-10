@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Discription of a Shower in London</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="136-116Y" type="poem"><head type="note" n="1" xml:id="spp-136-116Y-headnote-1"><lg n="1" xml:id="spp-136-116Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-136-116Y-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-136-116Y-headnote-2"><lg n="1" xml:id="spp-136-116Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-136-116Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-136-116Y-headnote-3"><lg n="1" xml:id="spp-136-116Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-136-116Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-136-116Y-line-1"> Carefull Observers may fortell the hour,&#13;</l><l n="2" xml:id="spp-136-116Y-line-2"> By sure Prognosticks when to dread a Shower;</l><l n="3" xml:id="spp-136-116Y-line-3"> While rain depends, the pensive Cat gives o'er,</l><l n="4" xml:id="spp-136-116Y-line-4"> Her frollicks, and persues her tail no more;</l><l n="5" xml:id="spp-136-116Y-line-5"> Returning home at night, you'll find the Sink,</l><l n="6" xml:id="spp-136-116Y-line-6"> Strike your offended sense with double Stink;</l><l n="7" xml:id="spp-136-116Y-line-7"> If you be wise, then go not far to Dine,</l><l n="8" xml:id="spp-136-116Y-line-8"> You'll Spend in Coach·hire more than save in Wine;</l><l n="9" xml:id="spp-136-116Y-line-9"> A coming Shower your Shooting Corns Presage,</l><l n="10" xml:id="spp-136-116Y-line-10"> Old Aches throb, your hollow Tooth will rage;</l><l n="11" xml:id="spp-136-116Y-line-11"> Sauntring in Coffee·house is Dulman seen,</l><l n="12" xml:id="spp-136-116Y-line-12"> He Damns the Climate, and Complains of Spleen;</l><l n="13" xml:id="spp-136-116Y-line-13"> Mean while the South rising with dabbled wings,</l><l n="14" xml:id="spp-136-116Y-line-14"> A Sable Cloud athwart the Welken flings;</l><l n="15" xml:id="spp-136-116Y-line-15"> That Swilld more Liquor than it coud contain,</l><l n="16" xml:id="spp-136-116Y-line-16"> And like a Drunkard gives it up again;</l><l n="17" xml:id="spp-136-116Y-line-17"> Brisk Susan whips her Linnen from the Rope,</l><l n="18" xml:id="spp-136-116Y-line-18"> While the first drizzling Shower is born aslope;</l><l n="19" xml:id="spp-136-116Y-line-19"> Such is that sprinkling which some careless Quean,</l><l n="20" xml:id="spp-136-116Y-line-20"> Flirts on you from Her Mop, but not so Clean;</l><l n="21" xml:id="spp-136-116Y-line-21"> You fly, invoke the Gods; then turning, Stop,</l><l n="22" xml:id="spp-136-116Y-line-22"> To rail; she singing, still whirls on her Mop;</l><l n="23" xml:id="spp-136-116Y-line-23"> Not yet, the dust had shun'd th'uneaqual strife,</l><l n="24" xml:id="spp-136-116Y-line-24"> But aided by the wind, fought still for Life;</l><l n="25" xml:id="spp-136-116Y-line-25"> And wafted with its foe by Violent Gust,</l><l n="26" xml:id="spp-136-116Y-line-26"> 'Twas doubtfull which was rain, and which was dust;</l><l n="27" xml:id="spp-136-116Y-line-27"> Ah where must needy Poet seek for Aid,</l><l n="28" xml:id="spp-136-116Y-line-28"> When dust and rain at once his Coat invade;</l><l n="29" xml:id="spp-136-116Y-line-29"> His only coat, where dust confusd with Rain,</l><l n="30" xml:id="spp-136-116Y-line-30"> Roughen the Nap, and leave a mingled stain;</l><l n="31" xml:id="spp-136-116Y-line-31"> Now in contiguous drops the flood comes down,</l><l n="32" xml:id="spp-136-116Y-line-32"> Threat'ning with deluge this devoted Town;</l><l n="33" xml:id="spp-136-116Y-line-33"> To shops in crowds the daggld Females fly,</l><l n="34" xml:id="spp-136-116Y-line-34"> Pretend to cheapen goods, but nothing buy;</l><l n="35" xml:id="spp-136-116Y-line-35"> The Templer spruce, while ev'ry spout's a-broach,</l><l n="36" xml:id="spp-136-116Y-line-36"> Stays till 'tis fair, yet seems to call a Coach;</l><l n="37" xml:id="spp-136-116Y-line-37"> The tuck'd up Semptress walks with hasty Strides,</l><l n="38" xml:id="spp-136-116Y-line-38"> While streams run down her oil'd Umbrella's sides;</l><l n="39" xml:id="spp-136-116Y-line-39"> Here various kinds by various fortunes led,</l><l n="40" xml:id="spp-136-116Y-line-40"> Commence acquaintance underneath a Shed;</l><l n="41" xml:id="spp-136-116Y-line-41"> Triumphant Tories, and disponding Whigs,</l><l n="42" xml:id="spp-136-116Y-line-42"> Forget their fewds, and join to save their Wigs;</l><l n="43" xml:id="spp-136-116Y-line-43"> Box'd in a Chair the Beau impatient sits,</l><l n="44" xml:id="spp-136-116Y-line-44"> While spouts run clatt'ring o'er the roof by fits;</l><l n="45" xml:id="spp-136-116Y-line-45"> And ever and anon with frightfull Din,</l><l n="46" xml:id="spp-136-116Y-line-46"> The leather sounds, he trembles from within;</l><l n="47" xml:id="spp-136-116Y-line-47"> So when Troy Chairmen bore the wooden Steed,</l><l n="48" xml:id="spp-136-116Y-line-48"> Pregnant with Greeks, impatient to be freed;</l><l n="49" xml:id="spp-136-116Y-line-49"> (Those Bully Heros, who, as the Moderns do,</l><l n="50" xml:id="spp-136-116Y-line-50"> Instead of paying Chair·men run them thro',)</l><l n="51" xml:id="spp-136-116Y-line-51"> Laoco'n struck the outside with his spear,</l><l n="52" xml:id="spp-136-116Y-line-52"> And each imprison'd Hero quakd for fear;</l><l n="53" xml:id="spp-136-116Y-line-53"> Now from all parts the swelling Kennals flow,</l><l n="54" xml:id="spp-136-116Y-line-54"> And bear their Trophis with them as they go,</l><l n="55" xml:id="spp-136-116Y-line-55"> Filth of all hues and odours seem to tell,</l><l n="56" xml:id="spp-136-116Y-line-56"> What Street they saild from, by the<subst reason="overwriting"><add>ir</add><del>re</del></subst> sight and smell;</l><l n="57" xml:id="spp-136-116Y-line-57"> They, as each Torrent drives, with raped force,</l><l n="58" xml:id="spp-136-116Y-line-58"> From Smithfield or s<hi rend="sup">ṭ</hi> Pulchres shape their Course;</l><l n="59" xml:id="spp-136-116Y-line-59"> And in huge Confluent joind at Snow·hill Ridge,</l><l n="60" xml:id="spp-136-116Y-line-60"> Fall from the Conduit, prone to Holborn-Bridge;</l><l n="61" xml:id="spp-136-116Y-line-61"> Sweepings from Butchers stalls, Dung, Guts, and Blood,</l><l n="62" xml:id="spp-136-116Y-line-62"> Drown'd Puppies, stinking sprats, all drench'd in Mud,</l><l n="63" xml:id="spp-136-116Y-line-63"> Dead Cats, and Turnip-tops come tumbling down the flood.136-116Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

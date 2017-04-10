@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>STELLA'S BIRTH-DAY.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="721-14W2" type="poem"><head type="note" n="1" xml:id="spp-721-14W2-headnote-1"><lg n="1" xml:id="spp-721-14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-721-14W2-headnote-1-line-group-1-line-1">MARCH 13, 1718-19.</l></lg></head><head type="note" n="2" xml:id="spp-721-14W2-headnote-2"><lg n="1" xml:id="spp-721-14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-721-14W2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-721-14W2-headnote-3"><lg n="1" xml:id="spp-721-14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-721-14W2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-721-14W2-line-1"> S<hi rend="SMALL-CAPS">TELLA</hi> this day is thirty-four,</l><l n="2" xml:id="spp-721-14W2-line-2"> (We sha'n't dispute a year or more:)</l><l n="3" xml:id="spp-721-14W2-line-3"> However, Stella, be not troubled,</l><l n="4" xml:id="spp-721-14W2-line-4"> Although thy size and years are doubled</l><l n="5" xml:id="spp-721-14W2-line-5"> Since first I saw thee at sixteen,</l><l n="6" xml:id="spp-721-14W2-line-6"> The brightest virgin on the green;</l><l n="7" xml:id="spp-721-14W2-line-7"> So little is thy form declined;</l><l n="8" xml:id="spp-721-14W2-line-8"> Made up so largely in thy mind.O, would it please the gods to split</l><l n="9" xml:id="spp-721-14W2-line-9"> Thy beauty, size, and years, and wit!</l><l n="10" xml:id="spp-721-14W2-line-10"> No age could furnish out a pair</l><l n="11" xml:id="spp-721-14W2-line-11"> Of nymphs so graceful, wise, and fair;</l><l n="12" xml:id="spp-721-14W2-line-12"> With half the lustre of your eyes,</l><l n="13" xml:id="spp-721-14W2-line-13"> With half your wit, your years, and size.</l><l n="14" xml:id="spp-721-14W2-line-14"> And then, before it grew too late,</l><l n="15" xml:id="spp-721-14W2-line-15"> How should I beg of gentle fate,</l><l n="16" xml:id="spp-721-14W2-line-16"> (That either nymph might have her swain,)</l><l n="17" xml:id="spp-721-14W2-line-17"> To split my worship too in twain.721-14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

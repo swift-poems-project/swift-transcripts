@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Stella to the Dean on his Birthday</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="737-328H" type="poem"><head type="note" n="1" xml:id="spp-737-328H-headnote-1"><lg n="1" xml:id="spp-737-328H-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-737-328H-headnote-1-line-group-1-line-1">November 30 1722</l></lg></head><head type="note" n="2" xml:id="spp-737-328H-headnote-2"><lg n="1" xml:id="spp-737-328H-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-737-328H-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-737-328H-headnote-3"><lg n="1" xml:id="spp-737-328H-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-737-328H-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-737-328H-line-1">S<hi rend="sup">t</hi> Patricks Dean, your Countrys pride</l><l n="2" xml:id="spp-737-328H-line-2"> My early and my only guide,</l><l n="3" xml:id="spp-737-328H-line-3"> &lt;L&gt;et me among the rest attend,</l><l n="4" xml:id="spp-737-328H-line-4"> &lt;You&gt;r Pupil, and your humble friend,</l><l n="5" xml:id="spp-737-328H-line-5"> &lt;To&gt; celebrate in femal strains</l><l n="6" xml:id="spp-737-328H-line-6"> &lt;The day&gt; that pay'd your Mothers pains,<unclear>damage</unclear> &lt;to ta&gt;ke &lt;thi&gt;s tribute due<unclear>damage</unclear> to &lt;y&gt;ou <unclear>damage</unclear><unclear>damage</unclear> &lt;t&gt;o call me fair&lt;.&gt;<unclear>damage</unclear>&lt;rpos'd&gt; y&lt;our&gt; timely care<unclear>damage</unclear> ear&lt;ly taught&gt; me to despise<unclear>damage</unclear>&lt;e ogling&gt; of a Coxcombs eyes<unclear>damage</unclear>&lt;h&gt;ow'd where my Iudgment was misplac't</l><l n="7" xml:id="spp-737-328H-line-7"> &lt;R&gt;efin'd my fancy and my tast&lt;:&gt;Behold that beauty just decay'd<unclear>damage</unclear>&lt;v&gt;oking art to natures ayd<unclear>damage</unclear>sook by her admiring train<unclear>damage</unclear> &lt;sp&gt;reads her tatter'd Nets in Vain</l><l n="8" xml:id="spp-737-328H-line-8"> Short was her part upon the stage</l><l n="9" xml:id="spp-737-328H-line-9"> Went smoothly on for half a Page</l><l n="10" xml:id="spp-737-328H-line-10"> Her Bloom was gone, she wanted art</l><l n="11" xml:id="spp-737-328H-line-11"> As the Scene chang'd to change her part</l><l n="12" xml:id="spp-737-328H-line-12"> She whom no Lover could resist</l><l n="13" xml:id="spp-737-328H-line-13"> Before the Second act was hist</l><l n="14" xml:id="spp-737-328H-line-14"> Such is the fate of femal race</l><l n="15" xml:id="spp-737-328H-line-15"> With no endowment but a face</l><l n="16" xml:id="spp-737-328H-line-16"> Before the thirty'th year of Life</l><l n="17" xml:id="spp-737-328H-line-17"> A Maid forlorn, or hated wife.</l><l n="18" xml:id="spp-737-328H-line-18"> Stella to you her Tutor owes</l><l n="19" xml:id="spp-737-328H-line-19"> That she hath ne'er resembled those</l><l n="20" xml:id="spp-737-328H-line-20"> Nor was a burthen to mankind</l><l n="21" xml:id="spp-737-328H-line-21"> With half her course of years behind</l><l n="22" xml:id="spp-737-328H-line-22"> You taught how I might youth prolong</l><l n="23" xml:id="spp-737-328H-line-23"> By knowing what was right and wrong</l><l n="24" xml:id="spp-737-328H-line-24"> How from the heart to bring supplyes</l><l n="25" xml:id="spp-737-328H-line-25"> Of Luster to my fading Eyes</l><l n="26" xml:id="spp-737-328H-line-26"> How soon a beauteous mind repairs</l><l n="27" xml:id="spp-737-328H-line-27"> The loss of chang'd or falling hairs</l><l n="28" xml:id="spp-737-328H-line-28"> How wit and virtue from within</l><l n="29" xml:id="spp-737-328H-line-29"> Sends out a smoothness ore the skin</l><l n="30" xml:id="spp-737-328H-line-30"> your Lectures could my fancy fix</l><l n="31" xml:id="spp-737-328H-line-31"> And I can please at thirty Six</l><l n="32" xml:id="spp-737-328H-line-32"> The sight of Chloe at fifteen</l><l n="33" xml:id="spp-737-328H-line-33"> Coquetting gives not me the spleen</l><l n="34" xml:id="spp-737-328H-line-34"> The Idol now of every fool</l><l n="35" xml:id="spp-737-328H-line-35"> Till age shall make thier passions cool</l><l n="36" xml:id="spp-737-328H-line-36"> &lt;Then&gt; tumbling down times steepy hill</l><l n="37" xml:id="spp-737-328H-line-37"> &lt;Whil&gt;e Stella holds her Station still<unclear>damage</unclear> &lt;your&gt; precepts into Laws<unclear>damage</unclear>edeem &lt;t&gt;he W<unclear>damage</unclear>ens ruin'd cause.<unclear>damage</unclear> empire to  our sex<unclear>damage</unclear>&lt;at&gt; men may bow their rebell necks&lt;.&gt;</l></lg><lg n="2" type="stanza"><l n="38" xml:id="spp-737-328H-line-38">&lt;Long&gt; be the day that gave you birth&#13;</l><l n="39" xml:id="spp-737-328H-line-39"> &lt;S&gt;acred to friendship, Wit, and Mirth;</l><l n="40" xml:id="spp-737-328H-line-40"> Late dying may you cast a shred</l><l n="41" xml:id="spp-737-328H-line-41"> Of your rich Mantle o'er my head</l><l n="42" xml:id="spp-737-328H-line-42"> To bear with dignity my Sorrow</l><l n="43" xml:id="spp-737-328H-line-43"> One Day alone, then dye to morrow.737-328H   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

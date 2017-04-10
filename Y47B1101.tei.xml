@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Some F<hi rend="SMALL-CAPS">URTHER </hi>A<hi rend="SMALL-CAPS">CCOUNT</hi></title>
+        <title>OF</title>
+        <title>Doctor SWIFT,</title>
+        <title>IN A</title>
+        <title>LETTER</title>
+        <title>TO THE<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y47B1101" type="letter"><head type="note" n="1" xml:id="spp-Y47B1101-headnote-1"><lg n="1" xml:id="spp-Y47B1101-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y47B1101-headnote-1-line-group-1-line-1"><hi rend="underline">Robinson</hi> enquired the Meaning of <hi rend="underline">Crabrones</hi>; the Dean asked him if he had ever, until that Day, travelled through a Country of Hornets? But, said the Dean, for the benefit of our Female Friends, I will translate the Epigram. After a very short Pause, he did it thus:</l></lg></head><head type="note" n="2" xml:id="spp-Y47B1101-headnote-2"><lg n="1" xml:id="spp-Y47B1101-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y47B1101-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y47B1101-headnote-3"><lg n="1" xml:id="spp-Y47B1101-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y47B1101-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-Y47B1101-line-1"><hi rend="underline">A Thistle is the </hi>Scottish<hi rend="underline"> Arms,</hi>Waterford<hi rend="underline">?</hi>.Y47B1101   </l><l n="2" xml:id="spp-Y47B1101-line-2"> Which to the Toucher threatens Harms:</l><l n="3" xml:id="spp-Y47B1101-line-3"> What are the Arms of </l><l n="4" xml:id="spp-Y47B1101-line-4"> That no Man touches──but a T──d</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">Apollo</hi>'s Edict.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-269-B75--footnote-1 #spp-269-B75--line-2"/>
+          <link target="#spp-269-B75--footnote-2 #spp-269-B75--line-59"/>
+        </linkGrp>
+        <div n="269-B75-" type="poem"><head type="note" n="1" xml:id="spp-269-B75--headnote-1"><lg n="1" xml:id="spp-269-B75--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-269-B75--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-269-B75--headnote-2"><lg n="1" xml:id="spp-269-B75--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-269-B75--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-269-B75--headnote-3"><lg n="1" xml:id="spp-269-B75--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-269-B75--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-269-B75--line-1"><hi rend="display-initial">I</hi>RELAND is now our royal Care,</l><l n="2" xml:id="spp-269-B75--line-2"> We lately fix'd our <hi rend="underline">Viceroy</hi><ref target="#spp-269-B75--footnote-1">1</ref><note place="foot" n="1" xml:id="spp-269-B75--footnote-1"><hi rend="underline">Vide</hi> News from <hi rend="underline">Parnassus</hi>.</note> there:</l><l n="3" xml:id="spp-269-B75--line-3"> How near was she to be undone,</l><l n="4" xml:id="spp-269-B75--line-4"> Till pious Love inspir'd her Son?</l><l n="5" xml:id="spp-269-B75--line-5"> What cannot our <hi rend="underline">Vicegerent</hi> do,</l><l n="6" xml:id="spp-269-B75--line-6"> As <hi rend="underline">Poet</hi> and as <hi rend="underline">Patriot</hi> too?</l><l n="7" xml:id="spp-269-B75--line-7"> Let his Success our Subjects sway</l><l n="8" xml:id="spp-269-B75--line-8"> Our Inspirations to obey,</l><l n="9" xml:id="spp-269-B75--line-9"> And follow where <hi rend="underline">he</hi> leads the Way:</l><l n="10" xml:id="spp-269-B75--line-10"> Then study to correct your Taste,</l><l n="11" xml:id="spp-269-B75--line-11"> Nor <hi rend="underline">beaten</hi> Paths no longer trac'd.No Simile shall be begun,</l><l n="12" xml:id="spp-269-B75--line-12"> With <hi rend="underline">rising</hi> or with <hi rend="underline">setting</hi> Sun:</l><l n="13" xml:id="spp-269-B75--line-13"> And let the <hi rend="underline">secret Head of</hi> Nile</l><l n="14" xml:id="spp-269-B75--line-14"> Be ever banish'd from your Isle.When wretched Lovers live on Air,</l><l n="15" xml:id="spp-269-B75--line-15"> I beg you'll the <hi rend="underline">Camelion</hi> spare.</l><l n="16" xml:id="spp-269-B75--line-16"> And when you'd make an Heroe grander,</l><l n="17" xml:id="spp-269-B75--line-17"> forget he's like a <hi rend="underline">Salamander</hi>.No Son of mine shall dare to say,<hi rend="underline">Aurora usher'd in the Day</hi>,</l><l n="18" xml:id="spp-269-B75--line-18"> Or ever name the <hi rend="underline">milky Way</hi>.You all agree, I make no doubt,<hi rend="underline">Elijah's Mantle</hi>'s worn out.The <hi rend="underline">Bird of Jove</hi> shall toil no more,</l><l n="19" xml:id="spp-269-B75--line-19"> To teach the humble <hi rend="underline">Wren</hi> to soar.Your tragick Heroes shall not rant,</l><l n="20" xml:id="spp-269-B75--line-20"> Nor Shepherds use <hi rend="underline">poetic Cant</hi>:</l><l n="21" xml:id="spp-269-B75--line-21"> Simplicity alone can grace,</l><l n="22" xml:id="spp-269-B75--line-22"> The Manners of the rural Race,<hi rend="underline">Theocritus</hi> and <hi rend="underline">Philips</hi> be,</l><l n="23" xml:id="spp-269-B75--line-23"> Your Guides to <hi rend="underline">true</hi> Simplicity.When <hi rend="underline">Damon's Soul shall take its Flight</hi>,</l><l n="24" xml:id="spp-269-B75--line-24"> Tho' Poets have the second Sight,</l><l n="25" xml:id="spp-269-B75--line-25"> They shall not see a <hi rend="underline">Trail of Light</hi>:</l><l n="26" xml:id="spp-269-B75--line-26"> Nor shall the <hi rend="underline">Vapour upwards rise</hi>,</l><l n="27" xml:id="spp-269-B75--line-27"> Nor a <hi rend="underline">new Star</hi> adorn the Skies:</l><l n="28" xml:id="spp-269-B75--line-28"> For who can hope to place one there,</l><l n="29" xml:id="spp-269-B75--line-29"> As glorious as <hi rend="underline">Belinda's Hair</hi>?</l><l n="30" xml:id="spp-269-B75--line-30"> Yet if his Name you'd eternize</l><l n="31" xml:id="spp-269-B75--line-31"> And must exalt him to the Skies:</l><l n="32" xml:id="spp-269-B75--line-32"> Without a <hi rend="underline">Star</hi> this may be done,</l><l n="33" xml:id="spp-269-B75--line-33"> So <hi rend="underline">TICKELL</hi> mourn'd his <hi rend="underline">ADDISON</hi>.If <hi rend="underline">ANNA</hi>'s happy Reign you praise,</l><l n="34" xml:id="spp-269-B75--line-34"> Pray not a Word of <hi rend="underline">Halcyon Days</hi>.</l><l n="35" xml:id="spp-269-B75--line-35"> Nor let my Votaries shew their Skill</l><l n="36" xml:id="spp-269-B75--line-36"> In apeing Lines from <hi rend="underline">Cooper's Hill</hi>;</l><l n="37" xml:id="spp-269-B75--line-37"> For know I cannot bear to hear,</l><l n="38" xml:id="spp-269-B75--line-38"> The Mimickry of <hi rend="underline">deep yet clear</hi>.When e'er my <hi rend="underline">Viceroy</hi> is address'd,</l><l n="39" xml:id="spp-269-B75--line-39"> Against the <hi rend="underline">Ph<unclear>oe</unclear>nix</hi> I protest.<gap/><gap/>When Poets soar in youthful Strains,</l><l n="40" xml:id="spp-269-B75--line-40"> No <hi rend="underline">Phaeton</hi> to <hi rend="underline">hold the Reins</hi>.When you describe a lovely Girl,</l><l n="41" xml:id="spp-269-B75--line-41"> No Lips of <hi rend="underline">Coral</hi> Teeth of <hi rend="underline">Pearl</hi>.<hi rend="underline">Cupid</hi> shall ne'er mistake another</l><l n="42" xml:id="spp-269-B75--line-42"> However beauteous for his Mother:</l><l n="43" xml:id="spp-269-B75--line-43"> Nor shall his Darts at random fly</l><l n="44" xml:id="spp-269-B75--line-44"> From Magazeen in <hi rend="underline">C<unclear>ae</unclear>lia</hi>'s Eye.<gap/><gap/><gap/><gap/><gap/><gap/>With Women Compounds I am cloy'd,</l><l n="45" xml:id="spp-269-B75--line-45"> Which only pleas'd in <hi rend="underline">Biddy Floyd</hi>:</l><l n="46" xml:id="spp-269-B75--line-46"> For foreign Aid what need they roam,</l><l n="47" xml:id="spp-269-B75--line-47"> Whom Fate has amply bless'd at home?</l><l n="48" xml:id="spp-269-B75--line-48"> Unerring Heav'n, with bounteous Hand,</l><l n="49" xml:id="spp-269-B75--line-49"> Has form'd a Model for your Land;</l><l n="50" xml:id="spp-269-B75--line-50"> Whom <hi rend="underline">Jove</hi> endow'd with ev'ry Grace,</l><l n="51" xml:id="spp-269-B75--line-51"> The Glory of the <hi rend="underline">Granard</hi> Race;</l><l n="52" xml:id="spp-269-B75--line-52"> Now destin'd, by the Powers divine,</l><l n="53" xml:id="spp-269-B75--line-53"> The Blessing of <hi rend="underline">another Line</hi>:</l><l n="54" xml:id="spp-269-B75--line-54"> Then wou'd you paint a <hi rend="underline">matchless</hi> Dame,</l><l n="55" xml:id="spp-269-B75--line-55"> Whom you'd consign to endless Fame?</l><l n="56" xml:id="spp-269-B75--line-56"> Invoke not <hi rend="underline">Citherea</hi>'s Aid,</l><l n="57" xml:id="spp-269-B75--line-57"> Nor borrow from the <hi rend="underline">Blew-ey'd</hi> Maid,</l><l n="58" xml:id="spp-269-B75--line-58"> Nor need you on the <hi rend="underline">Graces</hi> call,</l><l n="59" xml:id="spp-269-B75--line-59"> Take Qualities from <ref target="#spp-269-B75--footnote-2">2</ref><note place="foot" n="2" xml:id="spp-269-B75--footnote-2">Lady Dowager <hi rend="underline">Donegal</hi>.</note><hi rend="underline">DONEGAL</hi>.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

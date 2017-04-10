@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN</title>
+        <title>ANSWER</title>
+        <title>TO A CERTAIN</title>
+        <title xml:id="spp-673B16H1-title-1">DOCTOR's COMPLAINT. <ref target="#spp-673B16H1-footnote-title-1">1</ref><note n="1" xml:id="spp-673B16H1-footnote-title-1" place="foot">This Poem is printed in Vol. VII. p. 430, but without the Answers.</note></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-673B16H1-footnote-title-1 #spp-673B16H1-title-1"/>
+        </linkGrp>
+        <div n="673B16H1" type="poem"><head type="note" n="1" xml:id="spp-673B16H1-headnote-1"><lg n="1" xml:id="spp-673B16H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-673B16H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-673B16H1-headnote-2"><lg n="1" xml:id="spp-673B16H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-673B16H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-673B16H1-headnote-3"><lg n="1" xml:id="spp-673B16H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-673B16H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-673B16H1-line-1" rend="align(center)">D<hi rend="SMALL-CAPS">OCTOR</hi>.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-673B16H1-line-2" rend="flush left align(center)"><hi rend="display-initial">D</hi><hi rend="underline">Eaf, giddy, helpless, left alone</hi>;ANSWER.</l></lg><lg n="3" type="stanza"><l n="3" xml:id="spp-673B16H1-line-3" rend="flush left align(center)">Except the first, the fault's your own.&#13;D<hi rend="SMALL-CAPS">OCTOR</hi>.</l></lg><lg n="4" type="stanza"><l n="4" xml:id="spp-673B16H1-line-4" rend="flush left align(center)"><hi rend="underline">To all my friends a burthen grown</hi>.ANSWER.</l></lg><lg n="5" type="stanza"><l n="5" xml:id="spp-673B16H1-line-5" rend="flush left">Because to few you will be shown.&#13;</l><l n="6" xml:id="spp-673B16H1-line-6"> Give them good wine, and meat to stuff,</l><l n="7" xml:id="spp-673B16H1-line-7" rend="align(center)"> You may have company enough.D<hi rend="SMALL-CAPS">OCTOR</hi>.</l></lg><lg n="6" type="stanza"><l n="8" xml:id="spp-673B16H1-line-8" rend="flush left align(center)"><hi rend="underline">No more I hear my church's bell,&#13;</hi>.ANSWER.</l><l n="9" xml:id="spp-673B16H1-line-9"> Than if it rang out for my knell</l></lg><lg n="7" type="stanza"><l n="10" xml:id="spp-673B16H1-line-10" rend="flush left align(center)">Then write and read, 'twill do as well.&#13;D<hi rend="SMALL-CAPS">OCTOR</hi>.</l></lg><lg n="8" type="stanza"><l n="11" xml:id="spp-673B16H1-line-11" rend="flush left align(center)"><hi rend="underline">At thunder now no more I start,&#13;</hi>.ANSWER.</l><l n="12" xml:id="spp-673B16H1-line-12"> Than at the rumbling of a cart</l></lg><lg n="9" type="stanza"><l n="13" xml:id="spp-673B16H1-line-13" rend="flush left align(center)">Think of thunder when you f----t.&#13;D<hi rend="SMALL-CAPS">OCTOR</hi>.</l></lg><lg n="10" type="stanza"><l n="14" xml:id="spp-673B16H1-line-14" rend="flush left align(center)"><hi rend="underline">And what's incredible, alack!&#13;</hi>.ANSWER.</l><l n="15" xml:id="spp-673B16H1-line-15"> No more I hear a woman's clack</l></lg><lg n="11" type="stanza"><l n="16" xml:id="spp-673B16H1-line-16" rend="flush left">A woman's clack, if I have skill,&#13;</l><l n="17" xml:id="spp-673B16H1-line-17"> Sounds somewhat like a throwster's mill;</l><l n="18" xml:id="spp-673B16H1-line-18"> But louder than a bell, or thunder:</l><l n="19" xml:id="spp-673B16H1-line-19"> That does, I own, encrease my wonder.673B16H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CCCXLII.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="328B57L2" type="poem"><head type="note" n="1" xml:id="spp-328B57L2-headnote-1"><lg n="1" xml:id="spp-328B57L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-328B57L2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-328B57L2-headnote-2"><lg n="1" xml:id="spp-328B57L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-328B57L2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-328B57L2-headnote-3"><lg n="1" xml:id="spp-328B57L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-328B57L2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-328B57L2-line-1"><hi rend="black-letter">J</hi><hi rend="underline">OAN</hi> cudgels <hi rend="underline">Ned</hi>, yet <hi rend="underline">Ned</hi>'s a <hi rend="underline">Bully</hi>;<hi rend="underline">Will</hi> cudgels <hi rend="underline">Bess</hi>, yet <hi rend="underline">Will</hi>'s a <hi rend="underline">Cully</hi>.</l><l n="2" xml:id="spp-328B57L2-line-2"> Die <hi rend="underline">Ned</hi> and <hi rend="underline">Bess</hi>; give <hi rend="underline">Will</hi> to <hi rend="underline">Joan</hi>,</l><l n="3" xml:id="spp-328B57L2-line-3"> She dares not say her Life's her own.</l><l n="4" xml:id="spp-328B57L2-line-4"> Die <hi rend="underline">Joan</hi> and <hi rend="underline">Will</hi>; give <hi rend="underline">Bess</hi> to <hi rend="underline">Ned</hi>,</l><l n="5" xml:id="spp-328B57L2-line-5" rend="flush right"> And ev'ry Day she combs his Head.Dean·S<hi rend="SMALL-CAPS">WIFT</hi>.328B57L2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

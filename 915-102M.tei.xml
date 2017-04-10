@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Riddle</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="915-102M" type="poem"><head type="note" n="1" xml:id="spp-915-102M-headnote-1"><lg n="1" xml:id="spp-915-102M-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-915-102M-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-915-102M-headnote-2"><lg n="1" xml:id="spp-915-102M-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-915-102M-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-915-102M-headnote-3"><lg n="1" xml:id="spp-915-102M-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-915-102M-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-915-102M-line-1"> In Youth exalted high in Air,&#13;</l><l n="2" xml:id="spp-915-102M-line-2"> Or bathing in the Waters fair;</l><l n="3" xml:id="spp-915-102M-line-3"> Nature to form me took delight,</l><l n="4" xml:id="spp-915-102M-line-4"> And clad my body all in white:</l><l n="5" xml:id="spp-915-102M-line-5"> My person tall, &amp; slender waste,</l><l n="6" xml:id="spp-915-102M-line-6"> On either side with fringes grac'd;</l><l n="7" xml:id="spp-915-102M-line-7"> 'Till me that Tyraniman espyd,</l><l n="8" xml:id="spp-915-102M-line-8"> And drag'd me from my mothers side:</l><l n="9" xml:id="spp-915-102M-line-9"> No wonder now I look so thin;</l><l n="10" xml:id="spp-915-102M-line-10"> The Tyrant stript me to y<hi rend="sup">e</hi> skin:</l><l n="11" xml:id="spp-915-102M-line-11"> My skin he flay'd, my hair he cropt;</l></lg><lg n="2" type="stanza"><l n="12" xml:id="spp-915-102M-line-12">At head &amp; foot my body lopt:&#13;</l><l n="13" xml:id="spp-915-102M-line-13"> And then, with heart more hard y<hi rend="sup">n</hi> stone,</l><l n="14" xml:id="spp-915-102M-line-14"> He pickt y<hi rend="sup">e</hi> Marrow from the bone.</l><l n="15" xml:id="spp-915-102M-line-15"> To vex me more, he took a freak,</l><l n="16" xml:id="spp-915-102M-line-16"> To slit my tongue and made me speak</l><l n="17" xml:id="spp-915-102M-line-17"> But y<hi rend="sup">t</hi> which wonderful appears</l><l n="18" xml:id="spp-915-102M-line-18"> I speak to eyes, &amp; not to ears.</l><l n="19" xml:id="spp-915-102M-line-19"> He oft employs me in disguise,</l><l n="20" xml:id="spp-915-102M-line-20"> And makes me tell a thousand lies:</l><l n="21" xml:id="spp-915-102M-line-21"> To me he chiefly gives in trust</l><l n="22" xml:id="spp-915-102M-line-22"> To please his malice, or his lust.</l><l n="23" xml:id="spp-915-102M-line-23"> From me no secret he can hide;</l><l n="24" xml:id="spp-915-102M-line-24"> I see his Vanity &amp; Pride:</l><l n="25" xml:id="spp-915-102M-line-25"> And my delight is to expose</l><l n="26" xml:id="spp-915-102M-line-26"> His follies to his greatest foes.</l></lg><lg n="3" type="stanza"><l n="27" xml:id="spp-915-102M-line-27">All languages I can comand,&#13;</l><l n="28" xml:id="spp-915-102M-line-28"> Yet not a word I understand.</l><l n="29" xml:id="spp-915-102M-line-29"> Without my aid y<hi rend="sup">e</hi> best Divine</l><l n="30" xml:id="spp-915-102M-line-30"> In learning wou'd not know a line:</l><l n="31" xml:id="spp-915-102M-line-31"> The Lawyer must forget his pleading,</l><l n="32" xml:id="spp-915-102M-line-32"> The Scholar could not shew his reading</l><l n="33" xml:id="spp-915-102M-line-33"> Nay, Man, my Master, is my Slave:</l><l n="34" xml:id="spp-915-102M-line-34"> I give command to kill or save.</l><l n="35" xml:id="spp-915-102M-line-35"> Can grant ten thousand pounds a year,</l><l n="36" xml:id="spp-915-102M-line-36"> And make a Beggars brat a Peer.</l></lg><lg n="4" type="stanza"><l n="37" xml:id="spp-915-102M-line-37">But, while I thus my life relate,&#13;</l><l n="38" xml:id="spp-915-102M-line-38"> I only hasten on my Fate.</l><l n="39" xml:id="spp-915-102M-line-39"> My tongue is black, my mouth is furrd,</l><l n="40" xml:id="spp-915-102M-line-40"> I hardly now can force a word.</l><l n="41" xml:id="spp-915-102M-line-41"> I die unpity'd and forgot;</l><l n="42" xml:id="spp-915-102M-line-42"> And on some dunghill left to rot.915-102M   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

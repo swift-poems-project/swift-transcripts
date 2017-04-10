@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Nurses Delight<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y43G336B" type="poem"><head type="note" n="1" xml:id="spp-Y43G336B-headnote-1"><lg n="1" xml:id="spp-Y43G336B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y43G336B-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y43G336B-headnote-2"><lg n="1" xml:id="spp-Y43G336B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y43G336B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y43G336B-headnote-3"><lg n="1" xml:id="spp-Y43G336B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y43G336B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y43G336B-line-1"> Hey my Kitten, my kitten</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-Y43G336B-line-2"> And oh my Kitten, my deary&#13;</l><l n="3" xml:id="spp-Y43G336B-line-3"> Such a sweet Pet as this</l></lg><lg n="3" type="stanza"><l n="4" xml:id="spp-Y43G336B-line-4"> Is neither far nor neary;&#13;</l><l n="5" xml:id="spp-Y43G336B-line-5"> Here we go up up up</l></lg><lg n="4" type="stanza"><l n="6" xml:id="spp-Y43G336B-line-6"> And here we go down down downy&#13;</l><l n="7" xml:id="spp-Y43G336B-line-7"> Here we go backward &amp; forward</l></lg><lg n="5" type="stanza"><l n="8" xml:id="spp-Y43G336B-line-8"> And here we go round round roundy.&#13;</l><l n="9" xml:id="spp-Y43G336B-line-9"> Oh my kiddy my chicky-cock</l></lg><lg n="6" type="stanza"><l n="10" xml:id="spp-Y43G336B-line-10"> See saw sic a downey&#13;</l><l n="11" xml:id="spp-Y43G336B-line-11"> Gallop a trot, trot, trot</l></lg><lg n="7" type="stanza"><l n="12" xml:id="spp-Y43G336B-line-12"> And hey for London Towny;&#13;</l><l n="13" xml:id="spp-Y43G336B-line-13"> This Pig went to the Market</l></lg><lg n="8" type="stanza"><l n="14" xml:id="spp-Y43G336B-line-14"> Squeek my little mouse, mousy,&#13;</l><l n="15" xml:id="spp-Y43G336B-line-15"> Saddle &amp; shoe the wild Colt,</l></lg><lg n="9" type="stanza"><l n="16" xml:id="spp-Y43G336B-line-16"> And here is its own Doll dousy.&#13;</l><l n="17" xml:id="spp-Y43G336B-line-17"> Where was a Iewel &amp; Petty</l></lg><lg n="10" type="stanza"><l n="18" xml:id="spp-Y43G336B-line-18"> Where was a Sugar &amp; spicy&#13;</l><l n="19" xml:id="spp-Y43G336B-line-19"> Hush a-by Baby in a Cradle</l></lg><lg n="11" type="stanza"><l n="20" xml:id="spp-Y43G336B-line-20"> And we'll go abroad in a tricy;&#13;</l><l n="21" xml:id="spp-Y43G336B-line-21"> Did its Pappa torment it,</l></lg><lg n="12" type="stanza"><l n="22" xml:id="spp-Y43G336B-line-22"> Will he vex his own Baby, will he,&#13;</l><l n="23" xml:id="spp-Y43G336B-line-23"> Hush a sweet Baby in a Bosey</l></lg><lg n="13" type="stanza"><l n="24" xml:id="spp-Y43G336B-line-24"> Suck its own Teaty, my Billy.&#13;</l><l n="25" xml:id="spp-Y43G336B-line-25"> Good morrow a Pudding is broke</l></lg><lg n="14" type="stanza"><l n="26" xml:id="spp-Y43G336B-line-26"> Slavers &amp; Thread of crystal,&#13;</l><l n="27" xml:id="spp-Y43G336B-line-27"> Now the sweet Possets come up</l></lg><lg n="15" type="stanza"><l n="28" xml:id="spp-Y43G336B-line-28"> Here is its Coral &amp; Whistle;&#13;</l><l n="29" xml:id="spp-Y43G336B-line-29"> Come water my Chickens, come cluck,</l></lg><lg n="16" type="stanza"><l n="30" xml:id="spp-Y43G336B-line-30"> Leave or he'll crawl ye he'll crawl ye,&#13;</l><l n="31" xml:id="spp-Y43G336B-line-31"> Give us its hand &amp; I'll beat him,</l></lg><lg n="17" type="stanza"><l n="32" xml:id="spp-Y43G336B-line-32"> See here is its bran-new Dolly.&#13;</l><l n="33" xml:id="spp-Y43G336B-line-33"> Where was a laugh<hi rend="sup"/>&amp; a Crow</l></lg><lg n="18" type="stanza"><l n="34" xml:id="spp-Y43G336B-line-34"> Where was a giggling Stoney.&#13;</l><l n="35" xml:id="spp-Y43G336B-line-35"> Goody good Child shall be fed</l></lg><lg n="19" type="stanza"><l n="36" xml:id="spp-Y43G336B-line-36"> But naughty <unclear>?Beasts</unclear> shall have noney;</l><l n="37" xml:id="spp-Y43G336B-line-37"> Get you gone raw-head &amp; bloody bones,</l></lg><lg n="20" type="stanza"><l n="38" xml:id="spp-Y43G336B-line-38"> Here is a Child that don't fear ye,&#13;</l><l n="39" xml:id="spp-Y43G336B-line-39"> Piddle, come piddle my Iewel,</l></lg><lg n="21" type="stanza"><l n="40" xml:id="spp-Y43G336B-line-40"> And kak, kak, kak my Deary.&#13;Y43G336B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="814-008D" type="poem"><head type="note" n="1" xml:id="spp-814-008D-headnote-1"><lg n="1" xml:id="spp-814-008D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-814-008D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-814-008D-headnote-2"><lg n="1" xml:id="spp-814-008D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-814-008D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-814-008D-headnote-3"><lg n="1" xml:id="spp-814-008D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-814-008D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-814-008D-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> ···· ········ ····· ····· ··rst, for their Ears&#13;Knock &amp;c</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-814-008D-line-2">·· ··· ····· ··· ······· ··e Fanatical crew&#13;</l><l n="3" xml:id="spp-814-008D-line-3"> ··· ··· ······· ·····stant Good Men and true</l><l n="4" xml:id="spp-814-008D-line-4"> ··· ···· ··· ···· ······· ·nd Turbant's the same</l><l n="5" xml:id="spp-814-008D-line-5"> ···· ··· ····· ···· ··· ··· whence the devil they came</l><l n="6" xml:id="spp-814-008D-line-6"> ··· ··· ··· ······ ···· ····ice, down down knock him down</l><l n="7" xml:id="spp-814-008D-line-7"> ······· ······· ····llins Woolston, James Naylor</l><l n="8" xml:id="spp-814-008D-line-8"> ··· ·········· ······· M<hi rend="sup">ṛ</hi> Bradley the Taylor</l><l n="9" xml:id="spp-814-008D-line-9"> ··· ·········· ·······s; and it may be averr'd</l><l n="10" xml:id="spp-814-008D-line-10"> ··· · ········· ·· ···· ·· ··· ···· in that herd.····· &amp;c</l><l n="11" xml:id="spp-814-008D-line-11"> ·· ···· ··· ······ ··· ·lone he debates</l><l n="12" xml:id="spp-814-008D-line-12"> ····· ······· ····· ······ance? No I vote to set rates</l><l n="13" xml:id="spp-814-008D-line-13"> ·· ····· ····· ··· ···· ·······, their Priesthood at less</l><l n="14" xml:id="spp-814-008D-line-14"> ······ ···· ·· ·· ····· ··· may easily guess····k &amp;c</l><l n="15" xml:id="spp-814-008D-line-15"> ·· ······ ··· ··· ······ ·· need not him name)</l><l n="16" xml:id="spp-814-008D-line-16"> ·· ···· ········ ······ having long ow'd a shame</l><l n="17" xml:id="spp-814-008D-line-17"> ···· ··· ······ ···· ·broad he paid him off clean</l><l n="18" xml:id="spp-814-008D-line-18"> ·· ······· ··· ····· ··e pen of the Dean</l><l n="19" xml:id="spp-814-008D-line-19"> ·· ··· ·e apples swim down</l></lg><lg n="3" type="stanza"><l n="20" xml:id="spp-814-008D-line-20"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> But how? why the Dean s···· ·· ··· ·······&#13;</l><l n="21" xml:id="spp-814-008D-line-21" rend="align(center)"> A face for to kiss without Ears, ···· ··  ····K···· ··14</l></lg><lg n="4" type="stanza"><l n="22" xml:id="spp-814-008D-line-22" rend="flush left">If you say this is hard on a m··· ···· ·· ········&#13;</l><l n="23" xml:id="spp-814-008D-line-23"> A serjeant at Law, or even ···· ··· ···· ···· ··· ······</l><l n="24" xml:id="spp-814-008D-line-24"> You're mistaken! slaves ve·· ···· ··· ··· ··········</l><l n="25" xml:id="spp-814-008D-line-25" rend="align(center)"> Will be proud to be licking · ······ ···· ··········K···· ··15</l></lg><lg n="5" type="stanza"><l n="26" xml:id="spp-814-008D-line-26" rend="flush left">What care we how high runs ··· ······· ·· ······&#13;</l><l n="27" xml:id="spp-814-008D-line-27"> Tho' he cares not for soul, h· ····· ······ ··· ····</l><l n="28" xml:id="spp-814-008D-line-28"> Fear not then brave boys his ······ ······ ·· ······</l><l n="29" xml:id="spp-814-008D-line-29"> He'll run home and reveng· ·· ··· ········ ····K···· ··814-008D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

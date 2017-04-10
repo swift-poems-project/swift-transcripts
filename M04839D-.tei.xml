@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>VERSES <hi rend="underline">to be placed under the Pic-</hi></title>
+        <title><hi rend="underline">ture of </hi>England's Arch-Poet<hi rend="underline">: Contain-</hi></title>
+        <title><hi rend="underline">ing a compleat Catalogue of his Works</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-M04839D--footnote-1 #spp-M04839D--line-2"/>
+          <link target="#spp-M04839D--footnote-2 #spp-M04839D--line-2"/>
+          <link target="#spp-M04839D--footnote-3 #spp-M04839D--line-3"/>
+          <link target="#spp-M04839D--footnote-4 #spp-M04839D--line-6"/>
+          <link target="#spp-M04839D--footnote-5 #spp-M04839D--line-7"/>
+          <link target="#spp-M04839D--footnote-6 #spp-M04839D--line-8"/>
+          <link target="#spp-M04839D--footnote-7 #spp-M04839D--line-9"/>
+          <link target="#spp-M04839D--footnote-8 #spp-M04839D--line-10"/>
+          <link target="#spp-M04839D--footnote-9 #spp-M04839D--line-11"/>
+          <link target="#spp-M04839D--footnote-10 #spp-M04839D--line-14"/>
+          <link target="#spp-M04839D--footnote-11 #spp-M04839D--line-16"/>
+          <link target="#spp-M04839D--footnote-12 #spp-M04839D--line-18"/>
+          <link target="#spp-M04839D--footnote-13 #spp-M04839D--line-20"/>
+          <link target="#spp-M04839D--footnote-14 #spp-M04839D--line-21"/>
+          <link target="#spp-M04839D--footnote-15 #spp-M04839D--line-27"/>
+        </linkGrp>
+        <div n="M04839D-" type="poem"><head type="note" n="1" xml:id="spp-M04839D--headnote-1"><lg n="1" xml:id="spp-M04839D--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M04839D--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-M04839D--headnote-2"><lg n="1" xml:id="spp-M04839D--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M04839D--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M04839D--headnote-3"><lg n="1" xml:id="spp-M04839D--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M04839D--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-M04839D--line-1"><hi rend="display-initial">S</hi>EE who ne'er was or will be half read!</l><l n="2" xml:id="spp-M04839D--line-2"> Who first sung <ref target="#spp-M04839D--footnote-1">1</ref><note place="foot" n="1" xml:id="spp-M04839D--footnote-1">Two Heroick Poems in Folio, twenty Books,</note><hi rend="underline">Arthur</hi>, then sung <ref target="#spp-M04839D--footnote-2">2</ref><note place="foot" n="2" xml:id="spp-M04839D--footnote-2">Heroick Poem in twelve Books.</note><hi rend="underline">Alfred</hi>,</l><l n="3" xml:id="spp-M04839D--line-3"> Prais'd great <ref target="#spp-M04839D--footnote-3">3</ref><note place="foot" n="3" xml:id="spp-M04839D--footnote-3">Heroick Poem in Folio, ten Books.</note><hi rend="underline">Eliza</hi> in God's Anger,</l><l n="4" xml:id="spp-M04839D--line-4"> Till all true <hi rend="underline">Englishmen</hi> cry'd, hang her!</l><l n="5" xml:id="spp-M04839D--line-5"> Made <hi rend="underline">William</hi>'s Virtues wipe the bare A───</l><l n="6" xml:id="spp-M04839D--line-6"> And hang'd up <hi rend="underline">Marlborough</hi> in <ref target="#spp-M04839D--footnote-4">4</ref><note place="foot" n="4" xml:id="spp-M04839D--footnote-4">Instructions to <hi rend="underline">Vanderbank</hi> a Tapestry-Weaver.</note><hi rend="underline">Arras</hi>:Then hiss'd from Earth, grew Heav'nly quite;</l><l n="7" xml:id="spp-M04839D--line-7"> Made ev'ry Reader curse the <ref target="#spp-M04839D--footnote-5">5</ref><note place="foot" n="5" xml:id="spp-M04839D--footnote-5">Hymn to the Light.</note><hi rend="underline">Light</hi>;</l><l n="8" xml:id="spp-M04839D--line-8"> Maul'd human <hi rend="underline">Wit</hi> in one thick <ref target="#spp-M04839D--footnote-6">6</ref><note place="foot" n="6" xml:id="spp-M04839D--footnote-6">Satyr against <hi rend="underline">Wit</hi>.</note> Satyr,</l><l n="9" xml:id="spp-M04839D--line-9"> Next in three Books, sunk <ref target="#spp-M04839D--footnote-7">7</ref><note place="foot" n="7" xml:id="spp-M04839D--footnote-7">Of the <hi rend="underline">Nature</hi> of Man.</note> human <hi rend="underline">Nature</hi>,</l><l n="10" xml:id="spp-M04839D--line-10"> Un-did <ref target="#spp-M04839D--footnote-8">8</ref><note place="foot" n="8" xml:id="spp-M04839D--footnote-8"><hi rend="underline">Creation</hi>, a Poem in seven Books.</note><hi rend="underline">Creation</hi> at a Jerk,</l><l n="11" xml:id="spp-M04839D--line-11"> And of <ref target="#spp-M04839D--footnote-9">9</ref><note place="foot" n="9" xml:id="spp-M04839D--footnote-9">The <hi rend="underline">Redeemer</hi>, another Heroick Poem in six Books.</note><hi rend="underline">Redemption</hi> made damn'd Work.Then took his Muse at once, and dipt her</l><l n="12" xml:id="spp-M04839D--line-12"> Full in the middle of the Scripture.</l><l n="13" xml:id="spp-M04839D--line-13"> What Wonders there the Man grown old, did?<hi rend="underline">Sternhold</hi> himself he <hi rend="underline">out-Sternholded</hi>,</l><l n="14" xml:id="spp-M04839D--line-14"> Made <ref target="#spp-M04839D--footnote-10">10</ref><note place="foot" n="10" xml:id="spp-M04839D--footnote-10">Translation of all the <hi rend="underline">Psalms</hi>.</note><hi rend="underline">David</hi> seem so mad and freakish,</l><l n="15" xml:id="spp-M04839D--line-15"> All thought him just what thought King <hi rend="underline">Achiz</hi>.</l><l n="16" xml:id="spp-M04839D--line-16"> No Mortal read his <ref target="#spp-M04839D--footnote-11">11</ref><note place="foot" n="11" xml:id="spp-M04839D--footnote-11"><hi rend="underline">Canticles</hi> and <hi rend="underline">Ecclesiast</hi>.</note><hi rend="underline">Solomon</hi>,</l><l n="17" xml:id="spp-M04839D--line-17"> But judg'd <hi rend="underline">Roboam</hi> his own Son.</l><l n="18" xml:id="spp-M04839D--line-18"> Moses <ref target="#spp-M04839D--footnote-12">12</ref><note place="foot" n="12" xml:id="spp-M04839D--footnote-12">Paraphrase of the Canticles of <hi rend="underline">Moses</hi> and <hi rend="underline">Deborah</hi>, &amp;c.</note> he serv'd as <hi rend="underline">Moses Pharaoh</hi>,</l><l n="19" xml:id="spp-M04839D--line-19"> And <hi rend="underline">Deborah</hi>, as She <hi rend="underline">Sise-rah</hi>:</l><l n="20" xml:id="spp-M04839D--line-20"> Made <ref target="#spp-M04839D--footnote-13">13</ref><note place="foot" n="13" xml:id="spp-M04839D--footnote-13">The <hi rend="underline">Lamentations</hi>.</note><hi rend="underline">Jeremy</hi> full sore to cry,</l><l n="21" xml:id="spp-M04839D--line-21"> And <ref target="#spp-M04839D--footnote-14">14</ref><note place="foot" n="14" xml:id="spp-M04839D--footnote-14">The whole Book of <hi rend="underline">Job</hi>, a Poem in Folio.</note><hi rend="underline">Job</hi> himself curse God and die.What Punishment all this must follow?</l><l n="22" xml:id="spp-M04839D--line-22"> Shall <hi rend="underline">Arthur</hi> use him like King <hi rend="underline">Tollo</hi>,</l><l n="23" xml:id="spp-M04839D--line-23"> Shall <hi rend="underline">David</hi> as <hi rend="underline">Uriah</hi> slay him,</l><l n="24" xml:id="spp-M04839D--line-24"> Or dext'rous <hi rend="underline">Deb'rah Sisera</hi>-him?</l><l n="25" xml:id="spp-M04839D--line-25"> Or shall <hi rend="underline">Eliza</hi> lay a Plot,</l><l n="26" xml:id="spp-M04839D--line-26"> To treat him like her Sister <hi rend="underline">Scot</hi>,</l><l n="27" xml:id="spp-M04839D--line-27"> Shall <hi rend="underline">William</hi> dub his better End <ref target="#spp-M04839D--footnote-15">15</ref><note place="foot" n="15" xml:id="spp-M04839D--footnote-15">Kick him on the Breech, not Knight him on the Shoulder.</note></l><l n="28" xml:id="spp-M04839D--line-28"> Or <hi rend="underline">Marlb'rough</hi> serve him like a Friend?</l><l n="29" xml:id="spp-M04839D--line-29"> No, none of these────Heav'n spare his Life!</l><l n="30" xml:id="spp-M04839D--line-30"> But send him, honest <hi rend="underline">Job</hi>, thy <hi rend="underline">Wife</hi>.M04839D-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

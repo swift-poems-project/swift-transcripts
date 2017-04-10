@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THOMAS SHERIDAN, CLERK,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X19B79L1-footnote-1 #spp-X19B79L1-line-1"/>
+          <link target="#spp-X19B79L1-footnote-2 #spp-X19B79L1-line-1"/>
+          <link target="#spp-X19B79L1-footnote-3 #spp-X19B79L1-line-1"/>
+          <link target="#spp-X19B79L1-footnote-4 #spp-X19B79L1-line-1"/>
+          <link target="#spp-X19B79L1-footnote-5 #spp-X19B79L1-line-17"/>
+        </linkGrp>
+        <div n="X19B79L1" type="poem"><head type="note" n="1" xml:id="spp-X19B79L1-headnote-1"><lg n="1" xml:id="spp-X19B79L1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X19B79L1-headnote-1-line-group-1-line-1">July 15, 1721, at night.</l></lg></head><head type="note" n="2" xml:id="spp-X19B79L1-headnote-2"><lg n="1" xml:id="spp-X19B79L1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X19B79L1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X19B79L1-headnote-3"><lg n="1" xml:id="spp-X19B79L1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X19B79L1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X19B79L1-line-1"><hi rend="display-initial">I</hi>'D have you t' know, George<ref target="#spp-X19B79L1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-X19B79L1-footnote-1">Geo. Rochfort.</note>, Dan<ref target="#spp-X19B79L1-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-X19B79L1-footnote-2">J. Rochfort.</note>, Dean<ref target="#spp-X19B79L1-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-X19B79L1-footnote-3">Mr. Jackson.</note>, and Nim<ref target="#spp-X19B79L1-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-X19B79L1-footnote-4">Dr. Swift.</note>,</l><l n="2" xml:id="spp-X19B79L1-line-2"> That I·'ve learned how verse t' compose trim.</l><l n="3" xml:id="spp-X19B79L1-line-3"> Much better b'·half th'n you, n'r you, n'r him,</l><l n="4" xml:id="spp-X19B79L1-line-4"> And th't I·'d rid'cule their 'nd your flam-flim,</l><l n="5" xml:id="spp-X19B79L1-line-5"> Ay' b't then, p'rhaps, says you, t's a m'rry whim</l><l n="6" xml:id="spp-X19B79L1-line-6"> With 'bundance of mark'd notes i' th' rim,</l><l n="7" xml:id="spp-X19B79L1-line-7"> So th't I ought n't for t' be morose 'nd t' look grim,</l><l n="8" xml:id="spp-X19B79L1-line-8"> Think n't your 'p'stle put m' in a meagrim;</l><l n="9" xml:id="spp-X19B79L1-line-9"> Though 'n rep't't'on day, I·'ppear ver' slim,</l><l n="10" xml:id="spp-X19B79L1-line-10"> Th' last bowl·'t Helsham's did m' head t' swim.</l><l n="11" xml:id="spp-X19B79L1-line-11"> So th't I h'd man' aches n' 'v'ry scrubb'd limb,</l><l n="12" xml:id="spp-X19B79L1-line-12"> Cause th' top of th' bowl I'h'd oft us'd t' skim;</l><l n="13" xml:id="spp-X19B79L1-line-13"> And b'sides D'lan' swears th't I'h'd swall'w'd s'v'r'l brim-</l><l n="14" xml:id="spp-X19B79L1-line-14"> mers, 'nd that my vis'ge's cov'r'd o'er with r'd pim-</l><l n="15" xml:id="spp-X19B79L1-line-15"> ples: m'r'o'er though m' scull were (s' tis n't) 's strong's tim-</l><l n="16" xml:id="spp-X19B79L1-line-16"> ber, 't must have ak'd. Th' clans of th' c'lledge Sanh'drim,</l><l n="17" xml:id="spp-X19B79L1-line-17"> Pres'nt the'r humbl' and 'fect'nate respects; that·'s t'·say, D'lan', 'chlin, P. Ludl', Dic' St'wart, H'lsham, capt'n P'rr' Walmsl',·'nd Longsh'nks Timm<ref target="#spp-X19B79L1-footnote-5">5</ref><note place="foot" n="5" xml:id="spp-X19B79L1-footnote-5">Dr. James Stopford, afterwards bishop of Cloyne.</note>.X19B79L1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

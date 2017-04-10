@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBehr"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="972-S899" type="poem"><head type="note" n="1" xml:id="spp-972-S899-headnote-1"><lg n="1" xml:id="spp-972-S899-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-972-S899-headnote-1-line-group-1-line-1">By Doctor R──────fe,</l></lg></head><head type="note" n="2" xml:id="spp-972-S899-headnote-2"><lg n="1" xml:id="spp-972-S899-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-972-S899-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-972-S899-headnote-3"><lg n="1" xml:id="spp-972-S899-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-972-S899-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-972-S899-line-1">Sir,</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-972-S899-line-2"><hi rend="display-initial">I</hi>N reading your Letter alone in my Hackney,</l><l n="3" xml:id="spp-972-S899-line-3"> Your Damnable Riddle my poor Brains did rack nigh,</l><l n="4" xml:id="spp-972-S899-line-4"> And when with much Labour the matter I crackt,</l><l n="5" xml:id="spp-972-S899-line-5"> I found you mistaken in Matter of Fact.</l><l n="6" xml:id="spp-972-S899-line-6"> A Woman's no <hi rend="underline">Sieve</hi> for with that you begin,</l><l n="7" xml:id="spp-972-S899-line-7"> Because she let's out, more than she takes in.</l><l n="8" xml:id="spp-972-S899-line-8"> And that a Woman's a <hi rend="underline">Riddle</hi> can never be right,</l><l n="9" xml:id="spp-972-S899-line-9"> For a <hi rend="underline">Riddle</hi> is dark, but a Woman is light.</l><l n="10" xml:id="spp-972-S899-line-10"> But hold────you shall see, I can say something archer,</l><l n="11" xml:id="spp-972-S899-line-11"> Pray what is a Man? he's a fine Linnen Searcher.</l><l n="12" xml:id="spp-972-S899-line-12"> Now tell me a Thing that wants Interpretation,</l><l n="13" xml:id="spp-972-S899-line-13"> What Name for a Maid, was the first Man's Damnation.</l><l n="14" xml:id="spp-972-S899-line-14"> If your Worship will please t'explain me this <hi rend="underline">Rebus</hi>,</l><l n="15" xml:id="spp-972-S899-line-15"> I swear from hence forwards you shall be my <hi rend="underline">Ph<unclear>oe</unclear>bus</hi>.<gap/></l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

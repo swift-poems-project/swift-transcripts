@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Discovery.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-062-457J-footnote-1 #spp-062-457J-line-9"/>
+          <link target="#spp-062-457J-footnote-2 #spp-062-457J-line-12"/>
+        </linkGrp>
+        <div n="062-457J" type="poem"><head type="note" n="1" xml:id="spp-062-457J-headnote-1"><lg n="1" xml:id="spp-062-457J-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-062-457J-headnote-1-line-group-1-line-1">An. 1699.</l></lg></head><head type="note" n="2" xml:id="spp-062-457J-headnote-2"><lg n="1" xml:id="spp-062-457J-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-062-457J-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-062-457J-headnote-3"><lg n="1" xml:id="spp-062-457J-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-062-457J-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-062-457J-line-1"> When wise L<hi rend="sup">d</hi> B──first came here,<del>????</del></l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-062-457J-line-2"><hi rend="underline">ins·beneath</hi>·We Irish Folks expected Wonders<unclear/></l><l n="3" xml:id="spp-062-457J-line-3"> Nor thought to find so great a Peer<del>E'er a</del></l></lg><lg n="3" type="stanza"><l n="4" xml:id="spp-062-457J-line-4">E'er a week pas't committing Blunders:&#13;</l></lg><lg n="4" type="stanza"><l n="5" xml:id="spp-062-457J-line-5">Till on a Day cut out by Fate,·<del>When</del></l><l n="6" xml:id="spp-062-457J-line-6"> When Folks came thick to make their Court</l><l n="7" xml:id="spp-062-457J-line-7"> Out slipp't a Mystery of State</l><l n="8" xml:id="spp-062-457J-line-8"> To give the Town and Country Sport.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-062-457J-line-9">Now Enter <ref target="#spp-062-457J-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-062-457J-footnote-1">my L<hi rend="sup">d</hi>s wise_Secretary</note> Bush with new State-Airs,</l><l n="10" xml:id="spp-062-457J-line-10"> His Lordship's premier <del>Minister</del>·Ministre,</l><l n="11" xml:id="spp-062-457J-line-11"> And who in all profound Affairs</l><l n="12" xml:id="spp-062-457J-line-12"> Is held as needfull as His Glyster<«FN1·><ref target="#spp-062-457J-footnote-2">2</ref><unclear n="2" xml:id="spp-062-457J-footnote-2">uncued notealways taken_before my Ld_went to Council</unclear></«FN1·></l></lg><lg n="6" type="stanza"><l n="13" xml:id="spp-062-457J-line-13">With Head reclining on his Shoulder,&#13;</l><l n="14" xml:id="spp-062-457J-line-14"> He deals, and Hears mysterious Chat;</l><l n="15" xml:id="spp-062-457J-line-15"> While every ignorant Beholder</l><l n="16" xml:id="spp-062-457J-line-16"> Asks of his <del>Neighbour</del>·Neighbor; Who is that?</l></lg><lg n="7" type="stanza"><l n="17" xml:id="spp-062-457J-line-17">With this He putt up to My L────d&#13;</l><l n="18" xml:id="spp-062-457J-line-18"> The Courtiers kept their Distance due,</l><l n="19" xml:id="spp-062-457J-line-19"> He twitcht his sleeve, and stole a word,</l><l n="20" xml:id="spp-062-457J-line-20"> Then to a Corner both withdrew.</l></lg><lg n="8" type="stanza"><l n="21" xml:id="spp-062-457J-line-21">Imagine now My L────d and B<unclear>u lined through</unclear>────sh</l><l n="22" xml:id="spp-062-457J-line-22"> Whisp'ring in Iunto most profound,</l><l n="23" xml:id="spp-062-457J-line-23"> Like good King Phys: and good King Ush:<del>At leng</del></l></lg><lg n="9" type="stanza"><l n="24" xml:id="spp-062-457J-line-24">While all the rest stood gaping round&#13;</l></lg><lg n="10" type="stanza"><l n="25" xml:id="spp-062-457J-line-25">At length, a spark not too well bred&#13;</l><l n="26" xml:id="spp-062-457J-line-26"> Of forward Face, and Ear acute,</l><l n="27" xml:id="spp-062-457J-line-27"> Aduanc't on tiptoe, lean'd his Head</l><l n="28" xml:id="spp-062-457J-line-28"> To overheare the grand Dispute.</l></lg><lg n="11" type="stanza"><l n="29" xml:id="spp-062-457J-line-29">To learn what Northern Kings design,&#13;</l><l n="30" xml:id="spp-062-457J-line-30"> Or from Whitehall some new Express,</l><l n="31" xml:id="spp-062-457J-line-31"> Papists disarm'd, or Fall of Coin,</l><l n="32" xml:id="spp-062-457J-line-32"> For sure (thought He) it can't be less.</l></lg><lg n="12" type="stanza"><l n="33" xml:id="spp-062-457J-line-33"><del>With that he draws two Handfulls out</del></l></lg><lg n="13" type="stanza"><l n="34" xml:id="spp-062-457J-line-34">My L<hi rend="sup">d</hi>, s<hi rend="sup">d</hi> Bush, a Friend and I</l><l n="35" xml:id="spp-062-457J-line-35"> Disguis'd in two old thredbare Coats</l><l n="36" xml:id="spp-062-457J-line-36"> Ere Mornings dawn stole out to spy</l><l n="37" xml:id="spp-062-457J-line-37"> How Markets went for Hey and Oats.</l></lg><lg n="14" type="stanza"><l n="38" xml:id="spp-062-457J-line-38">With that he draws two Handfulls out,&#13;</l><l n="39" xml:id="spp-062-457J-line-39"> The one was Oats, the other Hay,</l><l n="40" xml:id="spp-062-457J-line-40"> Putts This to 's Excellency's Snout,</l><l n="41" xml:id="spp-062-457J-line-41"> And begs, He would the other weigh.</l></lg><lg n="15" type="stanza"><l n="42" xml:id="spp-062-457J-line-42">My Lord seems pleas'd, but still directs&#13;</l><l n="43" xml:id="spp-062-457J-line-43"> By all means to bring down the Rates,</l><l n="44" xml:id="spp-062-457J-line-44"> Then with a Congee circumflex</l><l n="45" xml:id="spp-062-457J-line-45"> Bush smiling round on all, retreats</l></lg><lg n="16" type="stanza"><l n="46" xml:id="spp-062-457J-line-46">Our Listner stood a while confus'd,&#13;<del>B gath'ring Spirits, wisely ran for't</del></l></lg><lg n="17" type="stanza"><l n="47" xml:id="spp-062-457J-line-47">But gath'ring Spirits, wisely ran for't,&#13;</l><l n="48" xml:id="spp-062-457J-line-48"> Enrag'd to see the World abus'd</l><l n="49" xml:id="spp-062-457J-line-49"> By two such whisp'ring Kings of Branford.062-457J   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>T──<hi rend="SMALL-CAPS">L─D</hi>'s Invitation to D<hi rend="SMALL-CAPS">ISMAL</hi></title>
+        <title>TO</title>
+        <title>Dine with the <hi rend="underline">Calves-head-club</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-162-60B1-footnote-1"/>
+        </linkGrp>
+        <div n="162-60B1" type="poem"><head type="note" n="1" xml:id="spp-162-60B1-headnote-1"><lg n="1" xml:id="spp-162-60B1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-162-60B1-headnote-1-line-group-1-line-1">Imitated from H<hi rend="SMALL-CAPS">ORACE</hi>, <hi rend="underline">Ep</hi>. v. <hi rend="underline">L</hi>. I <ref target="#spp-162-60B1-footnote-1">1</ref><note n="1" xml:id="spp-162-60B1-footnote-1" place="foot"><hi rend="underline">For the farther entertainment of all classic readers, we think it proper to subjoin, at the bottom of the page, the Latin original</hi></note>.</l></lg></head><head type="note" n="2" xml:id="spp-162-60B1-headnote-2"><lg n="1" xml:id="spp-162-60B1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-162-60B1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-162-60B1-headnote-3"><lg n="1" xml:id="spp-162-60B1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-162-60B1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-162-60B1-line-1"><hi rend="display-initial">I</hi>F dearest Dismal, you for once can dine</l><l n="2" xml:id="spp-162-60B1-line-2"> Upon a single dish, and tavern wine;</l><l n="3" xml:id="spp-162-60B1-line-3"> T──l──d to you this invitation sends,</l><l n="4" xml:id="spp-162-60B1-line-4"> To eat the calves-head with your trusty friends;</l><l n="5" xml:id="spp-162-60B1-line-5"> Suspend awhile your vain ambitious hopes,</l><l n="6" xml:id="spp-162-60B1-line-6"> Leave hunting after bribes, forget your tropes,</l><l n="7" xml:id="spp-162-60B1-line-7"> To-morrow we our <hi rend="underline">mystic feast</hi> prepare,</l><l n="8" xml:id="spp-162-60B1-line-8"> Where Thou, our later <hi rend="underline">proselyte</hi>, shall share:</l><l n="9" xml:id="spp-162-60B1-line-9"> When we, by proper signs and symbols, tell,</l><l n="10" xml:id="spp-162-60B1-line-10"> How, by <hi rend="underline">brave hands the royal</hi> T<hi rend="SMALL-CAPS">RAITOR</hi> fell.</l><l n="11" xml:id="spp-162-60B1-line-11"> The meat shall represent the <hi rend="underline">tyrant</hi>'s head;</l><l n="12" xml:id="spp-162-60B1-line-12"> The wine his blood our predecessors shed,</l><l n="13" xml:id="spp-162-60B1-line-13"> Whilst an alluding hymn some artist sings,</l><l n="14" xml:id="spp-162-60B1-line-14"> We toast confusion to the race of kings.</l><l n="15" xml:id="spp-162-60B1-line-15"> At monarchy we nobly shew our spight,</l><l n="16" xml:id="spp-162-60B1-line-16"> And talk <hi rend="underline">what fools call treason</hi> all the night.</l><l n="17" xml:id="spp-162-60B1-line-17"> Who, by disgraces or ill fortune, sunk,</l><l n="18" xml:id="spp-162-60B1-line-18"> Feels not his soul enliven'd when he's drunk?</l><l n="19" xml:id="spp-162-60B1-line-19"> Wine can clear up G-d-lph-n's cloudy face,</l><l n="20" xml:id="spp-162-60B1-line-20"> And fill J-ck Sm-th with hopes to keep his place;</l><l n="21" xml:id="spp-162-60B1-line-21"> By force of wine ev'n Sc-rb-r-gh is brave;</l><l n="22" xml:id="spp-162-60B1-line-22"> Hal grows more pert, and S-mm-rs not so grave.</l></lg><lg n="2" type="stanza"><l n="23" xml:id="spp-162-60B1-line-23">Wine can give P──rt──d wit, and Cl-v-nd sense,&#13;</l><l n="24" xml:id="spp-162-60B1-line-24"> M──t──gue learning, B·l<unclear>?</unclear>-on eloquence:</l><l n="25" xml:id="spp-162-60B1-line-25"> Ch--ly, when drunk, can never lose his wand,</l><l n="26" xml:id="spp-162-60B1-line-26"> And L-nc-n then imagines he has land.</l><l n="27" xml:id="spp-162-60B1-line-27"> My province is to see that all be right,</l><l n="28" xml:id="spp-162-60B1-line-28"> Glasses and linnen clean, and pewter bright,</l><l n="29" xml:id="spp-162-60B1-line-29"> From our <hi rend="underline">mysterious club</hi> to keep out spies,</l><l n="30" xml:id="spp-162-60B1-line-30"> And tories (dress'd like waiters) in disguise.You shall be coupled as you best approve,</l><l n="31" xml:id="spp-162-60B1-line-31"> Seated at table next the man you love.</l><l n="32" xml:id="spp-162-60B1-line-32"> S--nd--nd, Or--rd, B--le, and R-ch--d's grace,</l><l n="33" xml:id="spp-162-60B1-line-33"> Will come, and H--mp--ton shall have W--p--le's place.</l><l n="34" xml:id="spp-162-60B1-line-34"> W--rt-n, unless prevented by a whore,</l><l n="35" xml:id="spp-162-60B1-line-35"> Will hardly fail; and there is room for more:</l><l n="36" xml:id="spp-162-60B1-line-36"> But I love elbow-room whene'er I drink;</l><l n="37" xml:id="spp-162-60B1-line-37"> And honest Harry is too apt to stink.</l><l n="38" xml:id="spp-162-60B1-line-38"> Let no pretence of bus'ness make you stay;</l><l n="39" xml:id="spp-162-60B1-line-39"> Yet, take one word of council by the way:</l><l n="40" xml:id="spp-162-60B1-line-40"> If Gu---n-y calls, send word you're gone abroad;</l><l n="41" xml:id="spp-162-60B1-line-41"> He'll teize you with King Charles and bishop Laud;</l><l n="42" xml:id="spp-162-60B1-line-42"> Or make you fast, and·and carry you to pray'rs:</l><l n="43" xml:id="spp-162-60B1-line-43"> But if he will break in, and walk up stairs--</l><l n="44" xml:id="spp-162-60B1-line-44"> Steal by the back-door out, and leave him there;</l><l n="45" xml:id="spp-162-60B1-line-45" rend="flush right"> Then order S<hi rend="SMALL-CAPS">QUASH</hi> to call a hackney-chair.<hi rend="underline">Jan</hi>. 29.<unclear>NOTES</unclear>Si potes Archiacis conviva recumbere lectis,</l><l n="46" xml:id="spp-162-60B1-line-46"> Nec modica c<unclear>oe</unclear>nare times olus omne patella;</l><l n="47" xml:id="spp-162-60B1-line-47"> Supremo te sole domi, Torquate, manebo.</l><l n="48" xml:id="spp-162-60B1-line-48"> *·*·*·*·*·*·*·*·*·*·*·*·*·*·*·*·*·*</l></lg><lg n="3" type="stanza"><l n="49" xml:id="spp-162-60B1-line-49">Mitte leves spes, et certimina divitiarum,&#13;</l><l n="50" xml:id="spp-162-60B1-line-50"> Et Moschi causam. Cras nato C<unclear>ae</unclear>sare festus</l><l n="51" xml:id="spp-162-60B1-line-51"> Dat veniam somnumque dies: impune licebit<unclear>AE</unclear>stivam sermone benigno tendere noctem</l><l n="52" xml:id="spp-162-60B1-line-52"> *·*·*·*·*·*·*·*·*·*·*·*·*·*·*·*·*</l></lg><lg n="4" type="stanza"><l n="53" xml:id="spp-162-60B1-line-53">Quid non ebrietas designat? operta recludit;&#13;</l><l n="54" xml:id="spp-162-60B1-line-54"> Spes jubet esse ratas; in pr<unclear>ae</unclear>lia trudit inermem;</l><l n="55" xml:id="spp-162-60B1-line-55"> Sollicitis animis onus eximit; addocet artes.</l><l n="56" xml:id="spp-162-60B1-line-56"> F<unclear>oe</unclear>cundi calices quem non fecere disertum?</l><l n="57" xml:id="spp-162-60B1-line-57"> Contracta quem non in paupertate solutum?</l><l n="58" xml:id="spp-162-60B1-line-58"> H<unclear>ae</unclear>c ego procurare et idoneus imperor, et non</l><l n="59" xml:id="spp-162-60B1-line-59"> Invitus; ne turpe toral, ne sordida mappa</l><l n="60" xml:id="spp-162-60B1-line-60"> Corruget nares, ne non et cantharus et lanx</l><l n="61" xml:id="spp-162-60B1-line-61"> Ostendat tibi te; ne fidos inter amicos</l><l n="62" xml:id="spp-162-60B1-line-62"> Sit, qui dicta foras eliminet: ut coeat par</l><l n="63" xml:id="spp-162-60B1-line-63"> Jungaturque pari. Brutum tibi, Septimiumque,</l><l n="64" xml:id="spp-162-60B1-line-64"> Et, nisi c<unclear>oe</unclear>na prior, potiorque puella, Sabinum.</l><l n="65" xml:id="spp-162-60B1-line-65"> Detinet, assumam. Locus est et pluribus umbris:</l><l n="66" xml:id="spp-162-60B1-line-66"> Sed nimis arcta premunt olid<unclear>ae</unclear> convivia capr<unclear>ae</unclear>.</l><l n="67" xml:id="spp-162-60B1-line-67"> Tu quotus esse velis, rescribe; et, rebus omissis,</l><l n="68" xml:id="spp-162-60B1-line-68"> Atria servantem postico falle clientem.162-60B1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

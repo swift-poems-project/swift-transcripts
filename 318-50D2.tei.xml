@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="318-50D2" type="poem"><head type="note" n="1" xml:id="spp-318-50D2-headnote-1"><lg n="1" xml:id="spp-318-50D2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-318-50D2-headnote-1-line-group-1-line-1">For the sake of the <hi rend="underline">English</hi> reader, I shall subjoin the following translation by the Rev. Dr. <hi rend="underline">Dunkin</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-318-50D2-headnote-2"><lg n="1" xml:id="spp-318-50D2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-318-50D2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-318-50D2-headnote-3"><lg n="1" xml:id="spp-318-50D2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-318-50D2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-318-50D2-line-1"> Lo! from the top of yonder cliff, that shrouds&#13;</l><l n="2" xml:id="spp-318-50D2-line-2"> Its airy head amidst the azure clouds,</l><l n="3" xml:id="spp-318-50D2-line-3"> Hangs a huge fragment, destitute of props,</l><l n="4" xml:id="spp-318-50D2-line-4"> Prone on the waves the rocky ruin drops.</l><l n="5" xml:id="spp-318-50D2-line-5"> With hoarse rebuff the swelling seas rebound</l><l n="6" xml:id="spp-318-50D2-line-6"> From shore to shore, the rocks return the sound;</l><l n="7" xml:id="spp-318-50D2-line-7"> The dreadful murmur heav'n's high concave cleaves,</l><l n="8" xml:id="spp-318-50D2-line-8"> And <hi rend="underline">Neptune</hi> shrinks beneath his subject waves;</l><l n="9" xml:id="spp-318-50D2-line-9"> For long the whirling winds and beating tides</l><l n="10" xml:id="spp-318-50D2-line-10"> Had scoop'd a vault into its nether sides;</l><l n="11" xml:id="spp-318-50D2-line-11"> Now yields the base, the summits nod, now urge</l><l n="12" xml:id="spp-318-50D2-line-12"> Their headlong course, and lash the sounding surge.</l><l n="13" xml:id="spp-318-50D2-line-13"> Not louder noise cou'd shake the guilty world,</l><l n="14" xml:id="spp-318-50D2-line-14"> When <hi rend="underline">Jove</hi> heap'd mountains upon mountains hurl'd,</l><l n="15" xml:id="spp-318-50D2-line-15"> Retorting <hi rend="underline">Pelion</hi> from his dread abode,</l><l n="16" xml:id="spp-318-50D2-line-16"> To crush earth's rebel sons beneath the load.</l></lg><lg n="2" type="stanza"><l n="17" xml:id="spp-318-50D2-line-17">Oft too with hideous yawn the cavern wide&#13;</l><l n="18" xml:id="spp-318-50D2-line-18"> Presents an orifice on either side;</l><l n="19" xml:id="spp-318-50D2-line-19"> A dismal orifice from sea to sea</l><l n="20" xml:id="spp-318-50D2-line-20"> Extended, pervious to the god of day:</l><l n="21" xml:id="spp-318-50D2-line-21"> Uncouthly join'd, the rocks stupendous form</l><l n="22" xml:id="spp-318-50D2-line-22"> An arch, the ruin of a future storm:</l><l n="23" xml:id="spp-318-50D2-line-23"> High on the cliff their nests wild pigeons make,</l><l n="24" xml:id="spp-318-50D2-line-24"> And sea calves stable in the ouzy lake.</l></lg><lg n="3" type="stanza"><l n="25" xml:id="spp-318-50D2-line-25">But when bleak winter with her sullen train,&#13;</l><l n="26" xml:id="spp-318-50D2-line-26"> Awakes the winds, to vex the watry plain;</l><l n="27" xml:id="spp-318-50D2-line-27"> When o'er the craggy steep without controul,</l><l n="28" xml:id="spp-318-50D2-line-28"> Big with the blast, the raging billows rowl;</l><l n="29" xml:id="spp-318-50D2-line-29"> Not towns beleagur'd, not the flaming brand</l><l n="30" xml:id="spp-318-50D2-line-30"> Darted from heav'n by <hi rend="underline">Jove</hi>'s avenging hand,</l><l n="31" xml:id="spp-318-50D2-line-31"> Oft as on impious men his wrath he pours;</l><l n="32" xml:id="spp-318-50D2-line-32"> Humbles their pride, and blasts their gilded tow'rs,</l><l n="33" xml:id="spp-318-50D2-line-33"> Equal the tumult of this wild uproar;</l><l n="34" xml:id="spp-318-50D2-line-34"> Waves rush o'er waves, rebellows shore to shore.</l><l n="35" xml:id="spp-318-50D2-line-35"> The neighbouring race tho' wont to brave the shocks,</l><l n="36" xml:id="spp-318-50D2-line-36"> Of angry seas and run along the rocks;</l><l n="37" xml:id="spp-318-50D2-line-37"> Now pale with terror, while the ocean foams,</l><l n="38" xml:id="spp-318-50D2-line-38"> Fly far and wide, nor trust their native homes.</l></lg><lg n="4" type="stanza"><l n="39" xml:id="spp-318-50D2-line-39">The Goats while pendent from the mountain top,&#13;</l><l n="40" xml:id="spp-318-50D2-line-40"> The wither'd herb improvident they crop,</l><l n="41" xml:id="spp-318-50D2-line-41"> Wash'd down the precipice with sudden sweep,</l><l n="42" xml:id="spp-318-50D2-line-42"> Leave their sweet lives beneath th'unfathom'd deep.</l></lg><lg n="5" type="stanza"><l n="43" xml:id="spp-318-50D2-line-43">The frighted Fisher with desponding eyes,&#13;</l><l n="44" xml:id="spp-318-50D2-line-44"> Tho' safe yet trembling in the harbour lyes,</l><l n="45" xml:id="spp-318-50D2-line-45"> Nor hoping to behold the sky serene,</l><l n="46" xml:id="spp-318-50D2-line-46"> Wearies with vows the monarch of the main.318-50D2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

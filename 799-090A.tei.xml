@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Traulus The 2<hi rend="sup">d</hi> Part</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="799-090A" type="poem"><head type="note" n="1" xml:id="spp-799-090A-headnote-1"><lg n="1" xml:id="spp-799-090A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-799-090A-headnote-1-line-group-1-line-1">D Swift 1730</l></lg></head><head type="note" n="2" xml:id="spp-799-090A-headnote-2"><lg n="1" xml:id="spp-799-090A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-799-090A-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-799-090A-headnote-3"><lg n="1" xml:id="spp-799-090A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-799-090A-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-799-090A-line-1"><hi rend="black-letter">Traulus</hi> of amphibious breed,</l><l n="2" xml:id="spp-799-090A-line-2"> Motly Fruit of mungril Seed:</l><l n="3" xml:id="spp-799-090A-line-3"> By the Dam from Lordlings sprung</l><l n="4" xml:id="spp-799-090A-line-4"> By the Sire exhald from Dung:</l><l n="5" xml:id="spp-799-090A-line-5"> Think on ev'ry Vice in both,</l><l n="6" xml:id="spp-799-090A-line-6"> Look on him and see their Growth.</l><l n="7" xml:id="spp-799-090A-line-7"> View him on the Mothers Side,</l><l n="8" xml:id="spp-799-090A-line-8"> Filld with Falshood, Spleen and Pride;</l><l n="9" xml:id="spp-799-090A-line-9"> Positive and over bearing,</l><l n="10" xml:id="spp-799-090A-line-10"> Changing still and still adhering,</l><l n="11" xml:id="spp-799-090A-line-11"> Spitefull peevish, rude, untoward;</l><l n="12" xml:id="spp-799-090A-line-12"> Fierce in Tongue in Heart a Coward;</l><l n="13" xml:id="spp-799-090A-line-13"> When his Friends he most is hard on</l><l n="14" xml:id="spp-799-090A-line-14"> Cringing comes to beg their Pardon;</l><l n="15" xml:id="spp-799-090A-line-15"> Reputation ever tearing,</l><l n="16" xml:id="spp-799-090A-line-16"> Ever dearest Friendship swearing;</l><l n="17" xml:id="spp-799-090A-line-17"> Judgment weak and Passion strong</l><l n="18" xml:id="spp-799-090A-line-18"> Always Various, always wrong:</l><l n="19" xml:id="spp-799-090A-line-19"> Provocation never waits,</l><l n="20" xml:id="spp-799-090A-line-20"> Where he loves or where he hates,</l><l n="21" xml:id="spp-799-090A-line-21"> Talks whate'er comes in his Head,</l><l n="22" xml:id="spp-799-090A-line-22"> Wishes it were all unsaid.</l></lg><lg n="2" type="stanza"><l n="23" xml:id="spp-799-090A-line-23">Let me now the Vices trace,&#13;</l><l n="24" xml:id="spp-799-090A-line-24"> From his Fathers Scoundrel Race,</l><l n="25" xml:id="spp-799-090A-line-25"> Who could give the Looby such Airs?</l><l n="26" xml:id="spp-799-090A-line-26"> Were they Masons, were they Butchers?</l><l n="27" xml:id="spp-799-090A-line-27"> Herald lend the Muse an Answer,</l><l n="28" xml:id="spp-799-090A-line-28"> From his Atavus and Grandsire;</l><l n="29" xml:id="spp-799-090A-line-29"> This was dextrous at his Trowell,</l><l n="30" xml:id="spp-799-090A-line-30"> That was bred to kill a Cow well:</l><l n="31" xml:id="spp-799-090A-line-31"> Hence the greasy clumsy mien,</l><l n="32" xml:id="spp-799-090A-line-32"> In his Dress and Figure seen:</l><l n="33" xml:id="spp-799-090A-line-33"> Hence that mean and sordid Soul,</l><l n="34" xml:id="spp-799-090A-line-34"> Like his Body, rank and foul:</l><l n="35" xml:id="spp-799-090A-line-35"> Henc that wild suspicious peep,</l><l n="36" xml:id="spp-799-090A-line-36"> Like a Rogue that steals a Sheep:</l><l n="37" xml:id="spp-799-090A-line-37"> Hence he learnt the Butcher's Guile</l><l n="38" xml:id="spp-799-090A-line-38"> How to cut a Throat and Smile;</l><l n="39" xml:id="spp-799-090A-line-39"> Like a Butcher doomd for Life.</l><l n="40" xml:id="spp-799-090A-line-40"> In his Mouth to wear his Knife:</l><l n="41" xml:id="spp-799-090A-line-41"> Hence he draws his daily Food.</l><l n="42" xml:id="spp-799-090A-line-42"> From his Tenants vital Blood.Lastly, let his Gifts be try'd,</l><l n="43" xml:id="spp-799-090A-line-43"> Borrowd from the Mason's-Side:</l><l n="44" xml:id="spp-799-090A-line-44"> Some Perhaps may think him able</l><l n="45" xml:id="spp-799-090A-line-45"> In the State to build a Babel:</l><l n="46" xml:id="spp-799-090A-line-46"> Cou'd we place him in a Station;</l><l n="47" xml:id="spp-799-090A-line-47"> To destroy the old Foundation:</l><l n="48" xml:id="spp-799-090A-line-48"> True indeed I shoud be gladder,</l><l n="49" xml:id="spp-799-090A-line-49"> Coud he learn to mount a Ladder.</l><l n="50" xml:id="spp-799-090A-line-50"> May he at his latter End,</l><l n="51" xml:id="spp-799-090A-line-51"> Mount alive, and dead descend.In him, tell me which prevail,</l><l n="52" xml:id="spp-799-090A-line-52"> Female Vices most, or male,</l><l n="53" xml:id="spp-799-090A-line-53"> What produc'd him can you tell?</l><l n="54" xml:id="spp-799-090A-line-54"> Human Race or Imps of Hell.799-090A   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

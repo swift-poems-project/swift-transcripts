@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Advice to a Parson, an Epigram;</title>
+        <title>by D──────n <hi rend="underline">S──────t</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="807-32LF" type="poem"><head type="note" n="1" xml:id="spp-807-32LF-headnote-1"><lg n="1" xml:id="spp-807-32LF-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-807-32LF-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-807-32LF-headnote-2"><lg n="1" xml:id="spp-807-32LF-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-807-32LF-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-807-32LF-headnote-3"><lg n="1" xml:id="spp-807-32LF-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-807-32LF-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-807-32LF-line-1"><hi rend="display-initial">W</hi>Ould you rise in the <hi rend="underline">church</hi>? be <hi rend="underline">stupid</hi> and <hi rend="underline">dull</hi>,</l><l n="2" xml:id="spp-807-32LF-line-2"> Be empty of learning, of insolence full:</l><l n="3" xml:id="spp-807-32LF-line-3"> Tho' lewd and immoral, be formal and grave,</l><l n="4" xml:id="spp-807-32LF-line-4"> In <hi rend="underline">flatt'ry</hi> an <hi rend="underline">artist</hi>, in <hi rend="underline">fawning</hi> a <hi rend="underline">slave</hi>,</l><l n="5" xml:id="spp-807-32LF-line-5"> No merit, no science, no virtue is wanting</l><l n="6" xml:id="spp-807-32LF-line-6"> In him, that's accomplish'd in <hi rend="underline">cringing</hi> and <hi rend="underline">canting</hi>:</l><l n="7" xml:id="spp-807-32LF-line-7"> Be studious to practice true <hi rend="underline">meanness</hi> of <hi rend="underline">spirit</hi>;</l><l n="8" xml:id="spp-807-32LF-line-8"> For who but lord <hi rend="underline">Bolton</hi> was <hi rend="underline">mitred</hi> for <hi rend="underline">merit</hi>?</l><l n="9" xml:id="spp-807-32LF-line-9"> Would your wish to be wrap'd in a <hi rend="underline">Rochet</hi>?──in short,</l><l n="10" xml:id="spp-807-32LF-line-10"> Be as <hi rend="underline">pox'd</hi> and <hi rend="underline">profane</hi> as <hi rend="underline">F────n</hi> or <hi rend="underline">H────t</hi>.807-32LF   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

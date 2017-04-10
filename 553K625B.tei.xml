@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="553K625B" type="poem"><head type="note" n="1" xml:id="spp-553K625B-headnote-1"><lg n="1" xml:id="spp-553K625B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-553K625B-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-553K625B-headnote-2"><lg n="1" xml:id="spp-553K625B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-553K625B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-553K625B-headnote-3"><lg n="1" xml:id="spp-553K625B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-553K625B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-553K625B-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> in pope J cannot read a line&#13;</l><l n="2" xml:id="spp-553K625B-line-2"> but with a Sigh J wish it mine<gap/><gap/><gap/><gap/></l><l n="3" xml:id="spp-553K625B-line-3"> I grieve to be outdone by <hi rend="underline">Gay</hi></l><l n="4" xml:id="spp-553K625B-line-4"> in my own Humourous biting way</l><l n="5" xml:id="spp-553K625B-line-5"> Arbuthnot is no more my friend</l><l n="6" xml:id="spp-553K625B-line-6"> Who dares to <hi rend="black-letter">irony</hi> pertend<gap/><gap/></l><l n="7" xml:id="spp-553K625B-line-7"> S<hi rend="sup">t</hi> John as well as Pultney Knows</l><l n="8" xml:id="spp-553K625B-line-8"> y<hi rend="sup">t</hi> J had some repute for Prose</l><l n="9" xml:id="spp-553K625B-line-9"> &amp; till they drove me out of date</l><l n="10" xml:id="spp-553K625B-line-10"> could maul a Minister of State<gap/><gap/><gap/><gap/></l><l n="11" xml:id="spp-553K625B-line-11"> To all my foes Dear fortune send</l><l n="12" xml:id="spp-553K625B-line-12"> thy gifts but never to my friend</l><l n="13" xml:id="spp-553K625B-line-13"> J tamely can indure y<hi rend="sup">e</hi> first──────</l><l n="14" xml:id="spp-553K625B-line-14"> but this with Envy makes me burst──<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l><l n="15" xml:id="spp-553K625B-line-15"> indifference clad in Wisdoms Guise</l><l n="16" xml:id="spp-553K625B-line-16"> all fortitude of mind Supplies────<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l><l n="17" xml:id="spp-553K625B-line-17"> my female friends whose tender harts</l><l n="18" xml:id="spp-553K625B-line-18"> have better learned to act their parts</l><l n="19" xml:id="spp-553K625B-line-19"> receive <del>my death</del> the news in Dolefull dumps</l><l n="20" xml:id="spp-553K625B-line-20"> the Dean is dead, (pray what is trumps</l><l n="21" xml:id="spp-553K625B-line-21"> than L<hi rend="sup">d</hi> have mercy on his Soul</l><l n="22" xml:id="spp-553K625B-line-22"> (Ladies J'l venture for y<hi rend="sup">e</hi> Vole)</l><l n="23" xml:id="spp-553K625B-line-23"> Six Deans they say must bear y<hi rend="sup">e</hi> Pall</l><l n="24" xml:id="spp-553K625B-line-24"> (J wish J knew what King to call)<gap/><gap/><gap/><gap/><gap/><gap/></l><l n="25" xml:id="spp-553K625B-line-25"> J loved the Dean, (J lead a Hart)</l><l n="26" xml:id="spp-553K625B-line-26"> but dearest friends we know must part<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>553K625B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="732-391L" type="poem"><head type="note" n="1" xml:id="spp-732-391L-headnote-1"><lg n="1" xml:id="spp-732-391L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-732-391L-headnote-1-line-group-1-line-1">Your Friend sent me the\two characters after "the" obliterated\ Verses he promised, w<hi rend="sup">ch</hi> I here transcribe.</l></lg></head><head type="note" n="2" xml:id="spp-732-391L-headnote-2"><lg n="1" xml:id="spp-732-391L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-732-391L-headnote-2-line-group-1-line-1">\after the poem\ In my Opinion these Lines are too grave, and therefore may fit you who I fear \<hi rend="underline">inserted·with·caret</hi>·are\ in the Spleen, but that is not fit either for your self or the Person you tend, to whom you ought to read diverting Things.</l></lg></head><head type="note" n="3" xml:id="spp-732-391L-headnote-3"><lg n="1" xml:id="spp-732-391L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-732-391L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-732-391L-line-1">Nymph, would you learn the onely Art&#13;</l><l n="2" xml:id="spp-732-391L-line-2"> To keep a worthy Lover's heart</l><l n="3" xml:id="spp-732-391L-line-3"> First, to adorn your Person well,</l><l n="4" xml:id="spp-732-391L-line-4"> In utmost Cleanlyness excell</l><l n="5" xml:id="spp-732-391L-line-5"> And thô you must the Fashions take,</l><l n="6" xml:id="spp-732-391L-line-6"> Observe them but for fashion sake.The strongest Reason will submit</l><l n="7" xml:id="spp-732-391L-line-7"> To Virtue, Honor, Sense, and Wit.</l><l n="8" xml:id="spp-732-391L-line-8"> To such a Nymph the Wise and Good</l><l n="9" xml:id="spp-732-391L-line-9"> Cannot be faithless if they wou'd:</l><l n="10" xml:id="spp-732-391L-line-10"> For Vices all have diff'rent Ends,</l><l n="11" xml:id="spp-732-391L-line-11"> But Virtue still to Virtue tends</l><l n="12" xml:id="spp-732-391L-line-12"> And when your Lover is not true,</l><l n="13" xml:id="spp-732-391L-line-13"> Tis Virtue fails in Him or You:</l><l n="14" xml:id="spp-732-391L-line-14"> And either he deserves Disdain,</l><l n="15" xml:id="spp-732-391L-line-15"> Or You without a Cause complain.</l><l n="16" xml:id="spp-732-391L-line-16"> But here Vanessa cannot err,</l><l n="17" xml:id="spp-732-391L-line-17"> Nor are these Rules apply·d to Her:</l><l n="18" xml:id="spp-732-391L-line-18"> For who could such a Nymph forsake</l><l n="19" xml:id="spp-732-391L-line-19"> Except a Blockhead or a Rake</l><l n="20" xml:id="spp-732-391L-line-20"> Or how could she her Heart bestow</l><l n="21" xml:id="spp-732-391L-line-21"> Except where Wit and Virtue grow732-391L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

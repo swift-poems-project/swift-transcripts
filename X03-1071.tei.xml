@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>D<hi rend="SMALL-CAPS">AN </hi>J<hi rend="SMALL-CAPS">ACKSON</hi>'s Reply.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X03-1071" type="poem"><head type="note" n="1" xml:id="spp-X03-1071-headnote-1"><lg n="1" xml:id="spp-X03-1071-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X03-1071-headnote-1-line-group-1-line-1">Written by the D<hi rend="SMALL-CAPS">EAN</hi> in the Name of D<hi rend="SMALL-CAPS">AN </hi>J<hi rend="SMALL-CAPS">ACKSON</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-X03-1071-headnote-2"><lg n="1" xml:id="spp-X03-1071-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X03-1071-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X03-1071-headnote-3"><lg n="1" xml:id="spp-X03-1071-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X03-1071-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-X03-1071-line-1"><hi rend="display-initial">W</hi>Earied with saying Grace and Pray'r,</l><l n="2" xml:id="spp-X03-1071-line-2"> I hasten'd down to Country-Air,</l><l n="3" xml:id="spp-X03-1071-line-3" rend="flush right flush left"> To read your Answer, and prepareReply to't.</l></lg><lg n="2" type="stanza"><l n="4" xml:id="spp-X03-1071-line-4">But your fair Lines so grossly flatter, 3}&#13;</l><l n="5" xml:id="spp-X03-1071-line-5"> Pray do they praise me or bespatter?</l><l n="6" xml:id="spp-X03-1071-line-6" rend="flush right flush left"> I much suspect you mean the latter,ah Sly-boot!</l></lg><lg n="3" type="stanza"><l n="7" xml:id="spp-X03-1071-line-7">It must be so; what else, alas, 3}&#13;</l><l n="8" xml:id="spp-X03-1071-line-8"> Can mean my culling of a Face,</l><l n="9" xml:id="spp-X03-1071-line-9" rend="flush right flush left"> And all that Stuff of Toilet, Glass,and Box-Comb?</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-X03-1071-line-10">But be't as 'twill, this you must grant, 3}&#13;</l><l n="11" xml:id="spp-X03-1071-line-11"> That you're a Dawb, whilst I but paint;</l><l n="12" xml:id="spp-X03-1071-line-12" rend="flush right flush left"> Then which of us two is the quaint-er Coxcomb?</l></lg><lg n="5" type="stanza"><l n="13" xml:id="spp-X03-1071-line-13">I value not your Jokes of Noose, 3}&#13;</l><l n="14" xml:id="spp-X03-1071-line-14"> Your Gibes and all your foul Abuse,</l><l n="15" xml:id="spp-X03-1071-line-15" rend="flush right flush left"> More than the Dirt beneath my Shoes,nor fear it.</l></lg><lg n="6" type="stanza"><l n="16" xml:id="spp-X03-1071-line-16">Yet one Thing vexes me, I own, 3}&#13;</l><l n="17" xml:id="spp-X03-1071-line-17"> Thou sorry Scarecrow of Skin and Bone,</l><l n="18" xml:id="spp-X03-1071-line-18" rend="flush right flush left"> To be call'd lean by a Skeleton,who'd bear it?</l></lg><lg n="7" type="stanza"><l n="19" xml:id="spp-X03-1071-line-19">'Tis true indeed, to curry Friends, 3}&#13;</l><l n="20" xml:id="spp-X03-1071-line-20"> You seem to praise to make amends,</l><l n="21" xml:id="spp-X03-1071-line-21" rend="flush right flush left"> And yet before your Stanza ends,you flout me.</l></lg><lg n="8" type="stanza"><l n="22" xml:id="spp-X03-1071-line-22">'Bout latent Charms beneath my Cloaths; 3}&#13;</l><l n="23" xml:id="spp-X03-1071-line-23"> For every one that knows me, knows</l><l n="24" xml:id="spp-X03-1071-line-24" rend="flush right flush left"> That I have Nothing like my Noseabout me.</l></lg><lg n="9" type="stanza"><l n="25" xml:id="spp-X03-1071-line-25">I pass now where you fleer and laugh, 3}&#13;</l><l n="26" xml:id="spp-X03-1071-line-26"> 'Cause I call <hi rend="underline">Dan</hi> my better Half!</l><l n="27" xml:id="spp-X03-1071-line-27" rend="flush right flush left"> Oh, there you think you have me safe!but hold, Sir.</l></lg><lg n="10" type="stanza"><l n="28" xml:id="spp-X03-1071-line-28">Is not a Penny often found 3}&#13;</l><l n="29" xml:id="spp-X03-1071-line-29"> To be much greater than a Pound?</l><l n="30" xml:id="spp-X03-1071-line-30" rend="flush right flush left"> By your good Leave, my most profoundand bold Sir,</l></lg><lg n="11" type="triplet"><l n="31" xml:id="spp-X03-1071-line-31"><hi rend="underline">Dan</hi>'s noble Mettal, <hi rend="underline">Sherry</hi> base;</l><l n="32" xml:id="spp-X03-1071-line-32"> So <hi rend="underline">Dan</hi>'s the better, though the less,</l><l n="33" xml:id="spp-X03-1071-line-33" rend="flush right flush left"> An Ounce of Gold's worth ten of Brass,dull Pedant.</l></lg><lg n="12" type="stanza"><l n="34" xml:id="spp-X03-1071-line-34">As to your Spelling, let me see, 3}&#13;</l><l n="35" xml:id="spp-X03-1071-line-35"> If <hi rend="underline">SHE</hi> makes <hi rend="underline">sher</hi>, and <hi rend="underline">RI</hi> makes <hi rend="underline">ry</hi>,</l><l n="36" xml:id="spp-X03-1071-line-36" rend="flush right flush left"> Good Spelling-Master, your Cranyhas lead in't.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

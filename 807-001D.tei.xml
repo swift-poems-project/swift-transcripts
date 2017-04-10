@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Advice to a Parson,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-807-001D-footnote-1 #spp-807-001D-line-1"/>
+          <link target="#spp-807-001D-footnote-2 #spp-807-001D-line-2"/>
+          <link target="#spp-807-001D-footnote-3 #spp-807-001D-line-4"/>
+          <link target="#spp-807-001D-footnote-4 #spp-807-001D-line-10"/>
+        </linkGrp>
+        <div n="807-001D" type="poem"><head type="note" n="1" xml:id="spp-807-001D-headnote-1"><lg n="1" xml:id="spp-807-001D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-807-001D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-807-001D-headnote-2"><lg n="1" xml:id="spp-807-001D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-807-001D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-807-001D-headnote-3"><lg n="1" xml:id="spp-807-001D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-807-001D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-807-001D-line-1"> Wou'd you rise in the Church be stupid and dull:<ref target="#spp-807-001D-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-807-001D-footnote-1">Ardmagh</note></l><l n="2" xml:id="spp-807-001D-line-2"> Be empty of Learning of Insolence full;<ref target="#spp-807-001D-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-807-001D-footnote-2">Dublin</note></l><l n="3" xml:id="spp-807-001D-line-3"> Tho' lewd and immoral, be formal and grave,</l><l n="4" xml:id="spp-807-001D-line-4"> In flat'ring an Artist, in fauning a Slave;<ref target="#spp-807-001D-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-807-001D-footnote-3">Killala</note></l><l n="5" xml:id="spp-807-001D-line-5"> No merit no Science no virtue is wanting,</l><l n="6" xml:id="spp-807-001D-line-6"> In him that's accomplish'd in cringing &amp; canting.</l><l n="7" xml:id="spp-807-001D-line-7"> Be studious to practise true meaness of Spirit</l><l n="8" xml:id="spp-807-001D-line-8"> For who but Lord <hi rend="black-letter">Bolton</hi> was miter'd for merit,</l><l n="9" xml:id="spp-807-001D-line-9"> Wou'd you wish to be wrap'd in a Rochet──in short,</l><l n="10" xml:id="spp-807-001D-line-10"> Be poxd and profane as Fanatical Hort.<ref target="#spp-807-001D-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-807-001D-footnote-4">Killmore</note>807-001D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

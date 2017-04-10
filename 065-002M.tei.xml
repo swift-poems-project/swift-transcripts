@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Problem.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="065-002M" type="poem"><head type="note" n="1" xml:id="spp-065-002M-headnote-1"><lg n="1" xml:id="spp-065-002M-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-065-002M-headnote-1-line-group-1-line-1">That Sidney E. of R──mn──y st──ks, when he is in Love.</l></lg></head><head type="note" n="2" xml:id="spp-065-002M-headnote-2"><lg n="1" xml:id="spp-065-002M-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-065-002M-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-065-002M-headnote-3"><lg n="1" xml:id="spp-065-002M-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-065-002M-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-065-002M-line-1">Did ever Problem thus perplex,&#13;</l><l n="2" xml:id="spp-065-002M-line-2"> Or more employ the Female Sex?</l><l n="3" xml:id="spp-065-002M-line-3"> So sweet a Passion who cou'd think,</l><l n="4" xml:id="spp-065-002M-line-4"> Jove ever form'd to make a S──k?</l><l n="5" xml:id="spp-065-002M-line-5"> The Ladys vow, and swear they'll try,</l><l n="6" xml:id="spp-065-002M-line-6"> Whether it be a Truth, or Lye.</l><l n="7" xml:id="spp-065-002M-line-7"> Love's Fire, it seems, like inward Heat,</l><l n="8" xml:id="spp-065-002M-line-8"> Works in my Lord by St──l and Sweat,</l><l n="9" xml:id="spp-065-002M-line-9"> Which brings a St──k from ev'ry Pore,</l><l n="10" xml:id="spp-065-002M-line-10"> And from behind, and from before;</l><l n="11" xml:id="spp-065-002M-line-11"> Yet, what is wonderful to tell it,</l><l n="12" xml:id="spp-065-002M-line-12"> None but the Fav'rite Nymph can smell it.But now, to solve the Nat'ral Cause</l><l n="13" xml:id="spp-065-002M-line-13"> By sober, Philosophick Laws,</l><l n="14" xml:id="spp-065-002M-line-14"> Whether all Passions, when in Ferment,</l><l n="15" xml:id="spp-065-002M-line-15"> Work out, as Anger does in Vermin?</l><l n="16" xml:id="spp-065-002M-line-16"> So, when a Weasel you torment,</l><l n="17" xml:id="spp-065-002M-line-17"> You find his Passion by his Scent.</l><l n="18" xml:id="spp-065-002M-line-18"> We read of Kings, who in a Fright,</l><l n="19" xml:id="spp-065-002M-line-19"> Tho' on a Throne, wou'd fall to sh──.</l><l n="20" xml:id="spp-065-002M-line-20"> Beside all this, deep Scholars know,</l><l n="21" xml:id="spp-065-002M-line-21"> That the main String of Cupid's Bow,</l><l n="22" xml:id="spp-065-002M-line-22"> Once on a Time, was an A──Gut,</l><l n="23" xml:id="spp-065-002M-line-23"> Now to a nobler Office put,</l><l n="24" xml:id="spp-065-002M-line-24"> By Favour, or Desert preferr'd</l><l n="25" xml:id="spp-065-002M-line-25"> From giving Passage to a T──.</l><l n="26" xml:id="spp-065-002M-line-26"> But still, tho' fixt among the Stars,</l><l n="27" xml:id="spp-065-002M-line-27"> Does sympathize with Human A──.</l><l n="28" xml:id="spp-065-002M-line-28"> Thus when you feel an hard-bound B──</l><l n="29" xml:id="spp-065-002M-line-29"> Conclude Love's Bow-String at full Stretch;</l><l n="30" xml:id="spp-065-002M-line-30"> Till the kind L──seness comes, and then</l><l n="31" xml:id="spp-065-002M-line-31"> Conclude the Bow relax'd again.And now the Ladys all are bent,</l><l n="32" xml:id="spp-065-002M-line-32"> To try the great Experiment;</l><l n="33" xml:id="spp-065-002M-line-33"> Ambitious of a Regent's Heart</l><l n="34" xml:id="spp-065-002M-line-34"> Spread all their Charms to catch a F──;</l><l n="35" xml:id="spp-065-002M-line-35"> Watching the first unsav'ry Wind,</l><l n="36" xml:id="spp-065-002M-line-36"> Some ply before, and some behind.</l><l n="37" xml:id="spp-065-002M-line-37"> My Lord, on Fire amidst the Dames,</l><l n="38" xml:id="spp-065-002M-line-38"> F──s like a Laurel in the Flames.</l><l n="39" xml:id="spp-065-002M-line-39"> The Fair approach the speaking Part,</l><l n="40" xml:id="spp-065-002M-line-40"> To try the Back-way to his Heart;</l><l n="41" xml:id="spp-065-002M-line-41"> For, as when we a Gun discharge,</l><l n="42" xml:id="spp-065-002M-line-42"> Altho' the Bore be ne'er so large,</l><l n="43" xml:id="spp-065-002M-line-43"> Before the Flame from Muzzle burst,</l><l n="44" xml:id="spp-065-002M-line-44"> Just at the Breech it flashes first:</l><l n="45" xml:id="spp-065-002M-line-45"> So from my Lord his Passion broke,</l><l n="46" xml:id="spp-065-002M-line-46"> He f──ted first, and then he spoke.The Ladys vanish, in the Smother,</l><l n="47" xml:id="spp-065-002M-line-47"> To confer Notes with one another;</l><l n="48" xml:id="spp-065-002M-line-48"> And now they all agree, to name</l><l n="49" xml:id="spp-065-002M-line-49"> Whom each one thought the happy Dame:</l><l n="50" xml:id="spp-065-002M-line-50"> Quoth Neal, whate'er the rest may think,</l><l n="51" xml:id="spp-065-002M-line-51"> I'm sure, 'twas I that smelt the S──k.</l><l n="52" xml:id="spp-065-002M-line-52"> You smell the S──k? by ──you lye,</l><l n="53" xml:id="spp-065-002M-line-53"> Quoth Ross, for, I'll be sworn, 'twas I.</l><l n="54" xml:id="spp-065-002M-line-54"> Ladys, quoth Levens, pray forbear,</l><l n="55" xml:id="spp-065-002M-line-55"> Let's not fall out; We all had Share.</l><l n="56" xml:id="spp-065-002M-line-56"> And, by the most we can discover,</l><l n="57" xml:id="spp-065-002M-line-57"> My Lord's an universal Lover.065-002M   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

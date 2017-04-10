@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN</title>
+        <title>ODE</title>
+        <title>TO THE</title>
+        <title>Earl of <hi rend="underline">CADOGAN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y00B24L-" type="poem"><head type="note" n="1" xml:id="spp-Y00B24L--headnote-1"><lg n="1" xml:id="spp-Y00B24L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y00B24L--headnote-1-line-group-1-line-1">By D──n S<hi rend="SMALL-CAPS">M──Y</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-Y00B24L--headnote-2"><lg n="1" xml:id="spp-Y00B24L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y00B24L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y00B24L--headnote-3"><lg n="1" xml:id="spp-Y00B24L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y00B24L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y00B24L--line-1"><hi rend="display-initial">H</hi>ERO! sprung from ancient Blood;<hi rend="underline">Cadogan</hi>, valiant, wise, and good,</l><l n="2" xml:id="spp-Y00B24L--line-2"> What Golden Lyre, what Happy Muse,</l><l n="3" xml:id="spp-Y00B24L--line-3"> To sing thy Praises, shall we chuse?So great a Theme, so new a Song,To <hi rend="underline">Welsted</hi> only does belong,</l><l n="4" xml:id="spp-Y00B24L--line-4" rend="align(center)"> Like <hi rend="underline">Ovid</hi> soft is he, like <hi rend="underline">Flaccus</hi> strong.II.</l></lg><lg n="2" type="stanza"><l n="5" xml:id="spp-Y00B24L--line-5" rend="flush left">Virtues, that soar so high, demand&#13;</l><l n="6" xml:id="spp-Y00B24L--line-6"> The Touches of a Master-Hand;</l><l n="7" xml:id="spp-Y00B24L--line-7"> Love disdain'd, on <hi rend="underline">Pindar</hi>'s Wing'</l><l n="8" xml:id="spp-Y00B24L--line-8"> Thee and Conquest he shall sing;To Times unborn transmit thy Praise,On thy Laurels graft his Bays,</l><l n="9" xml:id="spp-Y00B24L--line-9" rend="align(center)"> And with thy Triumphs swell his polish'd Lays.III.</l></lg><lg n="3" type="stanza"><l n="10" xml:id="spp-Y00B24L--line-10" rend="flush left">Whether thy Deeds he backwards trace,&#13;</l><l n="11" xml:id="spp-Y00B24L--line-11"> With Atchievements past, to grace</l><l n="12" xml:id="spp-Y00B24L--line-12"> The num'rous <hi rend="underline">Ode</hi>, and bring anew</l><l n="13" xml:id="spp-Y00B24L--line-13"> Fields, with Slaughter stain'd, to view:Part in <hi rend="underline">Marlbro</hi>' shalt thou claim,Next to <hi rend="underline">Marlbro</hi>' rise in Fame;</l><l n="14" xml:id="spp-Y00B24L--line-14" rend="align(center)"> The Strain resounds with each immortal Name.IV.</l></lg><lg n="4" type="stanza"><l n="15" xml:id="spp-Y00B24L--line-15" rend="flush left">Whether from a nearer Theme&#13;</l><l n="16" xml:id="spp-Y00B24L--line-16"> The tuneful Poet form his Scheme,</l><l n="17" xml:id="spp-Y00B24L--line-17"> And court with Skill the ravish'd Ear;</l><l n="18" xml:id="spp-Y00B24L--line-18"> The Glories which we see, to hear,Glories unrival'd! fit alone,By Wit unrival'd to be shewn,</l><l n="19" xml:id="spp-Y00B24L--line-19" rend="align(center)"> By Harmony inspir'd, and Numbers not his own.V.</l></lg><lg n="5" type="stanza"><l n="20" xml:id="spp-Y00B24L--line-20" rend="flush left">If glorious War his Fancy charms,&#13;</l><l n="21" xml:id="spp-Y00B24L--line-21"> Thy Courage, and thy Skill in Arms,</l><l n="22" xml:id="spp-Y00B24L--line-22"> Thy brandish'd Steel, and spreading Wreath,</l><l n="23" xml:id="spp-Y00B24L--line-23"> Bold and sublime the Verse shall breathe;If thy social Life he show,Soft the gentler Strain shall flow,</l><l n="24" xml:id="spp-Y00B24L--line-24" rend="align(center)"> And every Line with Truth and Friendship glow.VI.</l></lg><lg n="6" type="stanza"><l n="25" xml:id="spp-Y00B24L--line-25" rend="flush left">Oh! thou, whom ev'n thy Foes approve,&#13;</l><l n="26" xml:id="spp-Y00B24L--line-26"> Whom foreign Nations praise and love;</l><l n="27" xml:id="spp-Y00B24L--line-27"> Darling of the <hi rend="underline">British</hi> Court,</l><l n="28" xml:id="spp-Y00B24L--line-28"> Thy Country's Boast, thy King's Support;Distinguish'd Honours born to wear,Fav'rite of the Bright and Fair,</l><l n="29" xml:id="spp-Y00B24L--line-29" rend="align(center)"> The Soldiers Glory, and the Soldiers Care.VII.</l></lg><lg n="7" type="stanza"><l n="30" xml:id="spp-Y00B24L--line-30" rend="flush left">Cou'd I boast thy vigorous Mind,&#13;</l><l n="31" xml:id="spp-Y00B24L--line-31"> Thy sprightly Wit, and Judgment join'd;</l><l n="32" xml:id="spp-Y00B24L--line-32"> Were all those Arts and Graces mine,</l><l n="33" xml:id="spp-Y00B24L--line-33"> Which make thy finish'd Merit shine;Then would I raise the sounding Strain,Alarm around the list'ning Plain,</l><l n="34" xml:id="spp-Y00B24L--line-34" rend="align(center)"> And with thy various Praise my Verse sustain.VIII.</l></lg><lg n="8" type="stanza"><l n="35" xml:id="spp-Y00B24L--line-35" rend="flush left">I'd paint thee then with matchless Art,&#13;</l><l n="36" xml:id="spp-Y00B24L--line-36"> The clearest Head, the bravest Heart,</l><l n="37" xml:id="spp-Y00B24L--line-37"> Boldly honest to advise,</l><l n="38" xml:id="spp-Y00B24L--line-38"> Bless'd Effect of being Wise;Ever prompt thy Aid to lend,Swift thy Country to defend,</l><l n="39" xml:id="spp-Y00B24L--line-39" rend="align(center)"> And doom'd th' Impostors blasted Hopes to end.IX.</l></lg><lg n="9" type="stanza"><l n="40" xml:id="spp-Y00B24L--line-40" rend="flush left">But stay, fond Muse, th' Attempt refrain,&#13;</l><l n="41" xml:id="spp-Y00B24L--line-41"> The Theme ill suits thy humble Strain:<hi rend="underline">Welsted</hi>, Oh! begin thy Song;</l><l n="42" xml:id="spp-Y00B24L--line-42"> Blooming Poet, bright, and young,Exert thy Heav'nly Art anew,In lofty Verse the Toil pursue,</l><l n="43" xml:id="spp-Y00B24L--line-43" rend="align(center)"> In Verse to Glory, and <hi rend="underline">Cadogan</hi> due.X.</l></lg><lg n="10" type="stanza"><l n="44" xml:id="spp-Y00B24L--line-44" rend="flush left">His past and present Actions sung;&#13;</l><l n="45" xml:id="spp-Y00B24L--line-45"> Let thy Lyre again be strung,</l><l n="46" xml:id="spp-Y00B24L--line-46"> Let thy sweet prophetick Lays</l><l n="47" xml:id="spp-Y00B24L--line-47"> Anticipate his coming Praise:Place the Scene before our Eyes,</l><l n="48" xml:id="spp-Y00B24L--line-48"> That wrapt in Clouds and Darkness lies,</l><l n="49" xml:id="spp-Y00B24L--line-49" rend="align(center)"> The Scene ordain'd in distant Times to rise.XI.</l></lg><lg n="11" type="stanza"><l n="50" xml:id="spp-Y00B24L--line-50" rend="flush left">Many Years the Hero give,&#13;</l><l n="51" xml:id="spp-Y00B24L--line-51"> Lov'd, and happy, make him live;</l><l n="52" xml:id="spp-Y00B24L--line-52"> Draw him at the Helm of State,</l><l n="53" xml:id="spp-Y00B24L--line-53"> As in Arms, in Council great,Let the God-like Portrait shine:So thou, for Poets may divine,</l><l n="54" xml:id="spp-Y00B24L--line-54"> Shalt share his Fame, and make his Triumphs thine.Y00B24L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

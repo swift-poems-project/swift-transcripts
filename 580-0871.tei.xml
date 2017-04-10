@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-580-0871-title-1">On <ref target="#spp-580-0871-footnote-title-1">1</ref><note n="1" xml:id="spp-580-0871-footnote-title-1" place="foot"><hi rend="underline">Mrs</hi>. S<hi rend="SMALL-CAPS">ICAN</hi>, <hi rend="underline">a very ingenious well bred Lady, Wife to Mr</hi>. J<hi rend="SMALL-CAPS">OHN </hi>S<hi rend="SMALL-CAPS">ICAN</hi>, <hi rend="underline">an eminent Grocer in</hi> Dublin.</note> P<hi rend="SMALL-CAPS">SYCHE</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-580-0871-footnote-title-1 #spp-580-0871-title-1"/>
+        </linkGrp>
+        <div n="580-0871" type="poem"><head type="note" n="1" xml:id="spp-580-0871-headnote-1"><lg n="1" xml:id="spp-580-0871-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-580-0871-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-580-0871-headnote-2"><lg n="1" xml:id="spp-580-0871-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-580-0871-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-580-0871-headnote-3"><lg n="1" xml:id="spp-580-0871-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-580-0871-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-580-0871-line-1"><hi rend="display-initial">A</hi>T two Afternoon for our <hi rend="underline">Psyche</hi> inquire,</l><l n="2" xml:id="spp-580-0871-line-2"> Her Tea-Kettle's on, and her Smock at the Fire:</l><l n="3" xml:id="spp-580-0871-line-3"> So loitring, so active; so busy, so idle,</l><l n="4" xml:id="spp-580-0871-line-4"> Which hath she most Need of, a Spur or a Bridle?</l><l n="5" xml:id="spp-580-0871-line-5"> Thus, a Greyhound out-runs the whole Pack in a Race,</l><l n="6" xml:id="spp-580-0871-line-6"> Yet would rather be hang'd than he'd leave a warm Place.</l><l n="7" xml:id="spp-580-0871-line-7"> She gives you such Plenty, it puts you in Pain;</l><l n="8" xml:id="spp-580-0871-line-8"> But ever with Prudence takes Care of the Main.</l><l n="9" xml:id="spp-580-0871-line-9"> To please you, she knows how to chuse a nice Bit;</l><l n="10" xml:id="spp-580-0871-line-10"> For her Taste is almost as refin'd as her Wit.</l><l n="11" xml:id="spp-580-0871-line-11"> To oblige a good Friend, she will trace ev'ry Market,</l><l n="12" xml:id="spp-580-0871-line-12"> It would do your Heart good, to see how she will cark it.</l><l n="13" xml:id="spp-580-0871-line-13"> Yet beware of her Arts, for it plainly appears,</l><l n="14" xml:id="spp-580-0871-line-14"> She saves Half her Victuals, by feeding your Ears.580-0871   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

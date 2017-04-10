@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>BEC's BIRTH-DAY.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-760-1371-footnote-1 #spp-760-1371-line-37"/>
+        </linkGrp>
+        <div n="760-1371" type="poem"><head type="note" n="1" xml:id="spp-760-1371-headnote-1"><lg n="1" xml:id="spp-760-1371-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-760-1371-headnote-1-line-group-1-line-1">N<hi rend="SMALL-CAPS">OVEMBER</hi> 8th, <hi rend="SMALL-CAPS">D MCC XXVI</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-760-1371-headnote-2"><lg n="1" xml:id="spp-760-1371-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-760-1371-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-760-1371-headnote-3"><lg n="1" xml:id="spp-760-1371-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-760-1371-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-760-1371-line-1"><hi rend="display-initial">T</hi>HIS day, dear Bec, is thy nativity</l><l n="2" xml:id="spp-760-1371-line-2"> Had fate a lucky'r one, she'd give it ye:</l><l n="3" xml:id="spp-760-1371-line-3"> She chose a thread of greatest length</l><l n="4" xml:id="spp-760-1371-line-4"> And doubly twisted it for strength;</l><l n="5" xml:id="spp-760-1371-line-5"> Nor will be able with her shears</l><l n="6" xml:id="spp-760-1371-line-6"> To cut it off these forty years.</l><l n="7" xml:id="spp-760-1371-line-7"> Then, who says care will kill a cat?</l><l n="8" xml:id="spp-760-1371-line-8"> Rebecca shews they're out in that.</l><l n="9" xml:id="spp-760-1371-line-9"> For she, tho' over-run with care,</l><l n="10" xml:id="spp-760-1371-line-10"> Continues healthy, fat, and fair.</l></lg><lg n="2" type="stanza"><l n="11" xml:id="spp-760-1371-line-11">As, if the gout should seize the head,&#13;</l><l n="12" xml:id="spp-760-1371-line-12"> Doctors pronounce the patient dead;</l><l n="13" xml:id="spp-760-1371-line-13"> But, if they can, by all their arts,</l><l n="14" xml:id="spp-760-1371-line-14"> Eject it to th' extremest parts,</l><l n="15" xml:id="spp-760-1371-line-15"> They give the sick man joy, and praise</l><l n="16" xml:id="spp-760-1371-line-16"> The gout that will prolong his days:</l><l n="17" xml:id="spp-760-1371-line-17"> Rebecca thus I gladly greet,</l><l n="18" xml:id="spp-760-1371-line-18"> Who drives her cares to hands and feet:</l><l n="19" xml:id="spp-760-1371-line-19"> For, tho' philosophers maintain</l><l n="20" xml:id="spp-760-1371-line-20"> The limbs are guided by the brain,</l><l n="21" xml:id="spp-760-1371-line-21"> Quite contrary Rebecca's led,</l><l n="22" xml:id="spp-760-1371-line-22"> Her hands and feet conduct her head,</l><l n="23" xml:id="spp-760-1371-line-23"> By arbitrary pow'r convey her</l><l n="24" xml:id="spp-760-1371-line-24"> She ne'er considers why, or where:</l><l n="25" xml:id="spp-760-1371-line-25"> Her hands may meddle, feet may wander,</l><l n="26" xml:id="spp-760-1371-line-26"> Her head is but a mere by-stander:</l><l n="27" xml:id="spp-760-1371-line-27"> And all her bustling but supplies</l><l n="28" xml:id="spp-760-1371-line-28"> The part of wholesom exercise:</l><l n="29" xml:id="spp-760-1371-line-29"> Thus, nature hath resolv'd to pay her</l><l n="30" xml:id="spp-760-1371-line-30"> The cat's nine lives and eke the care.</l></lg><lg n="3" type="stanza"><l n="31" xml:id="spp-760-1371-line-31">Long may she live, and help her friends&#13;</l><l n="32" xml:id="spp-760-1371-line-32"> When'er it suits her private ends;</l><l n="33" xml:id="spp-760-1371-line-33"> Domestic business never mind</l><l n="34" xml:id="spp-760-1371-line-34"> 'Till coffee has her stomach lin'd;</l><l n="35" xml:id="spp-760-1371-line-35"> But, when her breakfast gives her courage,</l><l n="36" xml:id="spp-760-1371-line-36"> Then think on stella's chicken porridge;</l><l n="37" xml:id="spp-760-1371-line-37"> I mean when Tyger <ref target="#spp-760-1371-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-760-1371-footnote-1">Mrs. Dingley's favourite lap-dog.</note> has been serv'd,</l><l n="38" xml:id="spp-760-1371-line-38"> Or else poor Stella may be starv'd.</l></lg><lg n="4" type="stanza"><l n="39" xml:id="spp-760-1371-line-39">May Bec have many an evening nap;&#13;</l><l n="40" xml:id="spp-760-1371-line-40"> With Tyger slabb'ring in her lap;</l><l n="41" xml:id="spp-760-1371-line-41"> But always take a special care</l><l n="42" xml:id="spp-760-1371-line-42"> She does not overset the chair;</l><l n="43" xml:id="spp-760-1371-line-43"> Still be she curious, never hearken</l><l n="44" xml:id="spp-760-1371-line-44"> To any speech but Tyger's barking.</l></lg><lg n="5" type="stanza"><l n="45" xml:id="spp-760-1371-line-45">And when she's in another scene,&#13;</l><l n="46" xml:id="spp-760-1371-line-46"> Stella long dead, but first the Dean,</l><l n="47" xml:id="spp-760-1371-line-47"> May fortune and her coffee get her</l><l n="48" xml:id="spp-760-1371-line-48"> Companions that will please her better;</l><l n="49" xml:id="spp-760-1371-line-49"> Whole afternoons will sit beside her,</l><l n="50" xml:id="spp-760-1371-line-50"> Nor for neglects or blunders chide her;</l><l n="51" xml:id="spp-760-1371-line-51"> A goodly set as can be found</l><l n="52" xml:id="spp-760-1371-line-52"> Of hearty gossips prating round;</l><l n="53" xml:id="spp-760-1371-line-53"> Fresh from a wedding, or a christ'ning,</l><l n="54" xml:id="spp-760-1371-line-54"> To teach her ears the art of list'ning,</l><l n="55" xml:id="spp-760-1371-line-55"> And please her more to hear them tattle</l><l n="56" xml:id="spp-760-1371-line-56"> Than the Dean storm, or Stella rattle.</l></lg><lg n="6" type="stanza"><l n="57" xml:id="spp-760-1371-line-57">Late be her death, one gentle nod,&#13;</l><l n="58" xml:id="spp-760-1371-line-58"> When Hermes, waiting with his rod,</l><l n="59" xml:id="spp-760-1371-line-59"> Shall to elysian fields invite her,</l><l n="60" xml:id="spp-760-1371-line-60"> Where there will be no cares to fright her.760-1371   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

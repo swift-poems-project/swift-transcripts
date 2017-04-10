@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">To </hi>Quilca<hi rend="underline">, a Country House in no</hi></title>
+        <title>
+          <hi rend="underline">very good Repair, where the sup-</hi>
+        </title>
+        <title>
+          <hi rend="underline">posed Author, and some of his</hi>
+        </title>
+        <title>
+          <hi rend="underline">Friends, spent a Summer, in the</hi>
+        </title>
+        <title><hi rend="underline">Year </hi>1725.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X35AWILH" type="poem"><head type="note" n="1" xml:id="spp-X35AWILH-headnote-1"><lg n="1" xml:id="spp-X35AWILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X35AWILH-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X35AWILH-headnote-2"><lg n="1" xml:id="spp-X35AWILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X35AWILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X35AWILH-headnote-3"><lg n="1" xml:id="spp-X35AWILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X35AWILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X35AWILH-line-1"><hi rend="display-initial">L</hi>ET me my Properties explain,</l><l n="2" xml:id="spp-X35AWILH-line-2"> A rotten Cabbin, dropping Rain;</l><l n="3" xml:id="spp-X35AWILH-line-3"> Chimnies with Scorn rejecting Smoak;</l><l n="4" xml:id="spp-X35AWILH-line-4"> Stools, Tables, Chairs, and Bed-steds broke:</l><l n="5" xml:id="spp-X35AWILH-line-5"> Here Elements have lost their Uses,</l><l n="6" xml:id="spp-X35AWILH-line-6"> Air ripens not, nor Earth produces:</l><l n="7" xml:id="spp-X35AWILH-line-7"> In vain we make poor <hi rend="underline">Sheelah</hi> toil,</l><l n="8" xml:id="spp-X35AWILH-line-8"> Fire will not roast, nor Water boil.</l><l n="9" xml:id="spp-X35AWILH-line-9"> Thro' all the Vallies, Hills, and Plains,</l><l n="10" xml:id="spp-X35AWILH-line-10"> The Goddess <hi rend="underline">Want</hi> in Triumph reigns;</l><l n="11" xml:id="spp-X35AWILH-line-11"> And her chief Officers of State,<hi rend="underline">Sloth, Dirt</hi>, and <hi rend="underline">Theft</hi> around her wait.X35AWILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

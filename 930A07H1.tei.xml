@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ANOTHER</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="930A07H1" type="poem"><head type="note" n="1" xml:id="spp-930A07H1-headnote-1"><lg n="1" xml:id="spp-930A07H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-930A07H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-930A07H1-headnote-2"><lg n="1" xml:id="spp-930A07H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-930A07H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-930A07H1-headnote-3"><lg n="1" xml:id="spp-930A07H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-930A07H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-930A07H1-line-1"><hi rend="display-initial">E</hi>VER eating, never cloying,</l><l n="2" xml:id="spp-930A07H1-line-2"> All devouring, all destroying,</l><l n="3" xml:id="spp-930A07H1-line-3"> Never finding full repast,</l><l n="4" xml:id="spp-930A07H1-line-4"> Till I eat the world at last.930A07H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

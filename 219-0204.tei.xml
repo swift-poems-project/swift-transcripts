@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A quiet LIFE, and a good NAME.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="219-0204" type="poem"><head type="note" n="1" xml:id="spp-219-0204-headnote-1"><lg n="1" xml:id="spp-219-0204-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-219-0204-headnote-1-line-group-1-line-1">To a Friend who married a S<hi rend="SMALL-CAPS">HREW</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-219-0204-headnote-2"><lg n="1" xml:id="spp-219-0204-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-219-0204-headnote-2-line-group-1-line-1">Written in the Year 1724.</l></lg></head><head type="note" n="3" xml:id="spp-219-0204-headnote-3"><lg n="1" xml:id="spp-219-0204-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-219-0204-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-219-0204-line-1"><hi rend="display-initial">N</hi><hi rend="underline">ELL</hi> scolded in so loud a Din,</l><l n="2" xml:id="spp-219-0204-line-2"> That <hi rend="underline">Will</hi> durst hardly venture in:</l><l n="3" xml:id="spp-219-0204-line-3"> He mark'd the conjugal Dispute;<hi rend="underline">Nell</hi> roar'd incessant, <hi rend="underline">Dick</hi> sat mute:</l><l n="4" xml:id="spp-219-0204-line-4"> But when he saw his Friend appear,</l><l n="5" xml:id="spp-219-0204-line-5"> Cry'd bravely, Patience, good my Dear.</l><l n="6" xml:id="spp-219-0204-line-6"> At Sight of <hi rend="underline">Will</hi> she bawl'd no more,</l><l n="7" xml:id="spp-219-0204-line-7"> But hurry'd out, and clapt the Door.</l></lg><lg n="2" type="stanza"><l n="8" xml:id="spp-219-0204-line-8">Why, <hi rend="underline">Dick</hi>! the Devil's in thy <hi rend="underline">Nell</hi>,</l><l n="9" xml:id="spp-219-0204-line-9"> Quoth <hi rend="underline">Will</hi>; thy House is worse than Hell:</l><l n="10" xml:id="spp-219-0204-line-10"> Why, what a Peal the Jade has rung!</l><l n="11" xml:id="spp-219-0204-line-11"> Damn her, why don't you slit her Tongue?</l><l n="12" xml:id="spp-219-0204-line-12"> For nothing else will make it cease:</l><l n="13" xml:id="spp-219-0204-line-13"> Dear <hi rend="underline">Will</hi>, I suffer this for Peace;</l><l n="14" xml:id="spp-219-0204-line-14"> I never quarrel with my Wife;</l><l n="15" xml:id="spp-219-0204-line-15"> I bear it for a quiet Life.</l><l n="16" xml:id="spp-219-0204-line-16"> Scripture, you know, exhorts us to it;</l><l n="17" xml:id="spp-219-0204-line-17"> Bids us to <hi rend="underline">seek Peace and ensue it</hi>.</l></lg><lg n="3" type="stanza"><l n="18" xml:id="spp-219-0204-line-18"><hi rend="underline">WILL</hi> went again to visit <hi rend="underline">Dick</hi>;</l><l n="19" xml:id="spp-219-0204-line-19"> And ent'ring in the very Nick,</l><l n="20" xml:id="spp-219-0204-line-20"> He saw Virago <hi rend="underline">Nell</hi> belabour</l><l n="21" xml:id="spp-219-0204-line-21"> With <hi rend="underline">Dick</hi>'s own Staff, his peaceful Neighbour.</l><l n="22" xml:id="spp-219-0204-line-22"> Poor <hi rend="underline">Will</hi>, who needs must interpose,</l><l n="23" xml:id="spp-219-0204-line-23"> Receiv'd a Brace or two of Blows.</l></lg><lg n="4" type="stanza"><l n="24" xml:id="spp-219-0204-line-24">But, now, to make my Story short,&#13;<hi rend="underline">Will</hi> drew out <hi rend="underline">Dick</hi> to take a Quart.</l><l n="25" xml:id="spp-219-0204-line-25"> Why <hi rend="underline">Dick</hi>, thy Wife has dev'lish Whims;</l><l n="26" xml:id="spp-219-0204-line-26"> Ods-buds, why don't you break her Limbs?</l><l n="27" xml:id="spp-219-0204-line-27"> If she were mine, and had such Tricks,</l><l n="28" xml:id="spp-219-0204-line-28"> I'd teach her how to handle Sticks:</l><l n="29" xml:id="spp-219-0204-line-29"> Z────ds, I would ship her to <hi rend="underline">Jamaica</hi>,</l><l n="30" xml:id="spp-219-0204-line-30"> And truck the Carrion for <hi rend="underline">Tobacco</hi>;</l><l n="31" xml:id="spp-219-0204-line-31"> I'd send her far enough away──</l><l n="32" xml:id="spp-219-0204-line-32"> Dear <hi rend="underline">Will</hi>; but, what would People say?</l><l n="33" xml:id="spp-219-0204-line-33"> Lord! I should get so ill a Name,</l><l n="34" xml:id="spp-219-0204-line-34"> The Neighbours round would cry out, <hi rend="underline">Shame</hi>.</l></lg><lg n="5" type="stanza"><l n="35" xml:id="spp-219-0204-line-35"><hi rend="underline">DICK</hi> suffer'd for his Peace and Credit;</l><l n="36" xml:id="spp-219-0204-line-36"> But, who believ'd him when he said it:</l><l n="37" xml:id="spp-219-0204-line-37"> Can he, who makes himself a Slave,</l><l n="38" xml:id="spp-219-0204-line-38"> Consult his Peace, or Credit save?<hi rend="underline">Dick</hi> found it by his ill Success,</l><l n="39" xml:id="spp-219-0204-line-39"> His Quiet small, his Credit less.</l><l n="40" xml:id="spp-219-0204-line-40"> She serv'd him at the usual Rate;</l><l n="41" xml:id="spp-219-0204-line-41"> She stunn'd and then she broke his Pate.</l><l n="42" xml:id="spp-219-0204-line-42"> And, what he thought the hardest Case,</l><l n="43" xml:id="spp-219-0204-line-43"> The Parish jeer'd him to his Face;</l><l n="44" xml:id="spp-219-0204-line-44"> Those Men, who wore the Breeches least,</l><l n="45" xml:id="spp-219-0204-line-45"> Call'd him a Cuckold, Fool, and Beast;</l><l n="46" xml:id="spp-219-0204-line-46"> At home, he was pursu'd with Noise,</l><l n="47" xml:id="spp-219-0204-line-47"> Abroad, was pester'd by the Boys.</l><l n="48" xml:id="spp-219-0204-line-48"> Within, his Wife would break his Bones,</l><l n="49" xml:id="spp-219-0204-line-49"> Without, they pelted him with Stones;</l><l n="50" xml:id="spp-219-0204-line-50"> The 'Prentices procur'd a Riding,</l><l n="51" xml:id="spp-219-0204-line-51"> To act his Patience, and her Chiding.</l></lg><lg n="6" type="stanza"><l n="52" xml:id="spp-219-0204-line-52">False Patience and mistaken Pride!&#13;</l><l n="53" xml:id="spp-219-0204-line-53"> There are ten Thousand <hi rend="underline">Dicks</hi> beside:</l><l n="54" xml:id="spp-219-0204-line-54"> Slaves to their Quiet and good Name,</l><l n="55" xml:id="spp-219-0204-line-55"> Are us'd like <hi rend="underline">Dick</hi>, and bear the Blame.219-0204   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

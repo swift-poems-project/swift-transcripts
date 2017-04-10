@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="006-14A7" type="poem"><head type="note" n="1" xml:id="spp-006-14A7-headnote-1"><lg n="1" xml:id="spp-006-14A7-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-006-14A7-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-006-14A7-headnote-2"><lg n="1" xml:id="spp-006-14A7-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-006-14A7-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-006-14A7-headnote-3"><lg n="1" xml:id="spp-006-14A7-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-006-14A7-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-006-14A7-line-1" rend="align(center)">I.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-006-14A7-line-2" rend="flush left"/></lg><lg n="3" type="stanza"><l n="3" xml:id="spp-006-14A7-line-3">Sure there's some wondrous Joy in doing Good!&#13;<hi rend="underline">Immortal Joy</hi>! that suffers no Allay from Fears,Nor dreads the Tyranny of Years:</l><l n="4" xml:id="spp-006-14A7-line-4"> By none but its Possessors to be understood;Else where's the <hi rend="underline">Gain</hi> in being Great,</l><l n="5" xml:id="spp-006-14A7-line-5"> Kings would indeed be Victims of the State;What can the Poets humble Praise,What can the Poets humble Bays,(We Poets oft our Bays allow,Transplanted to the <hi rend="underline">Hero</hi>'s Brow)Add to the Victor's Happiness?What do the <hi rend="underline">Scepter, Crown</hi> and <hi rend="underline">Ball</hi>,Rattles for Infant Royalty to play withal,But serve to adorn the Baby-DressOf one poor Coronation-Day,To make the Pageant Gay:A Three Hours Scene of Empty Pride,And then the Toys are thrown aside.</l></lg><lg n="4" type="stanza"><l n="6" xml:id="spp-006-14A7-line-6" rend="align(center)">II.</l></lg><lg n="5" type="stanza"><l n="7" xml:id="spp-006-14A7-line-7" rend="flush left"/></lg><lg n="6" type="stanza"><l n="8" xml:id="spp-006-14A7-line-8">But the Delight of doing Good&#13;</l><l n="9" xml:id="spp-006-14A7-line-9"> Is fix'd like Fate among the Stars,And Deify'd in Verse:</l><l n="10" xml:id="spp-006-14A7-line-10"> 'Tis the best Gem in Royalty;</l><l n="11" xml:id="spp-006-14A7-line-11"> The great Distinguisher of Bloud;Parent of Valour, and of Fame;Which makes a Godhead of a Name,And is Co-temporary to Eternity;This made the Antient <hi rend="underline">Romans</hi> to affordTo <hi rend="underline">Valour</hi> and to <hi rend="underline">Vertue</hi> the same Word:To shew the Paths of both must be together trod,Before the <hi rend="underline">Hero</hi> can commence a <hi rend="underline">God</hi>.</l></lg><lg n="7" type="stanza"><l n="12" xml:id="spp-006-14A7-line-12" rend="align(center)">III.</l></lg><lg n="8" type="stanza"><l n="13" xml:id="spp-006-14A7-line-13" rend="flush left"/></lg><lg n="9" type="stanza"><l n="14" xml:id="spp-006-14A7-line-14">For <hi rend="underline">Crowns</hi> and <hi rend="underline">Scepters</hi> scarce deserve a Name,</l><l n="15" xml:id="spp-006-14A7-line-15"> Vain Breath is all Imperial Fame;Vertue alone's the fairest Gem,Vertue crowns the Diadem;</l><l n="16" xml:id="spp-006-14A7-line-16"> That Vertue which in <hi rend="underline">George</hi> has took her Seat;Immoderately bright, immoderately great:'Tis from the pious Life of such a King,The <hi rend="underline">Golden Age</hi> must spring.For can we think the pamper'd Priests of <hi rend="underline">Baal</hi>Should save Religion that have none at all:</l><l n="17" xml:id="spp-006-14A7-line-17"> No! 'Tis from Heaven and Royal <hi rend="underline">George</hi>, that all our Blessings fall.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>006-14A7   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

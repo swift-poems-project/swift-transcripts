@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Answer</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X00-002D" type="poem"><head type="note" n="1" xml:id="spp-X00-002D-headnote-1"><lg n="1" xml:id="spp-X00-002D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X00-002D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X00-002D-headnote-2"><lg n="1" xml:id="spp-X00-002D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X00-002D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X00-002D-headnote-3"><lg n="1" xml:id="spp-X00-002D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X00-002D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X00-002D-line-1"> Three merry Lads you own We are,&#13;</l><l n="2" xml:id="spp-X00-002D-line-2"> 'Tis Very true, and free from Care,</l><l n="3" xml:id="spp-X00-002D-line-3" rend="flush right"> But envious We cannot bear,Believe Sir:</l><l n="4" xml:id="spp-X00-002D-line-4"> For Were all forms of Beauty thine,</l><l n="5" xml:id="spp-X00-002D-line-5"> Were You like Nireus soft and fine,</l><l n="6" xml:id="spp-X00-002D-line-6" rend="flush right"> We shou'd not in the least repine,Or Grieve Sir.</l><l n="7" xml:id="spp-X00-002D-line-7"> Then know from us most Beauteous Dan,</l><l n="8" xml:id="spp-X00-002D-line-8"> That Roughness best becomes a Man,</l><l n="9" xml:id="spp-X00-002D-line-9" rend="flush right"> Tis Woman shou'd be pale and WanAnd Taper:</l><l n="10" xml:id="spp-X00-002D-line-10"> And all the Triffling Beaux and Fops</l><l n="11" xml:id="spp-X00-002D-line-11"> Who Comb their Brows and sleek their Chaps</l><l n="12" xml:id="spp-X00-002D-line-12" rend="flush right"> Are but the Ofspring of Toy shops,Meer Vapour.</l><l n="13" xml:id="spp-X00-002D-line-13"> We know Your Morning hours You pass,</l><l n="14" xml:id="spp-X00-002D-line-14"> To Cull and gather out a Face</l><l n="15" xml:id="spp-X00-002D-line-15" rend="flush right"> Is this the way You take Your Glass?Forbear it:</l><l n="16" xml:id="spp-X00-002D-line-16"> Those Loads of Paint upon Your Toilet</l><l n="17" xml:id="spp-X00-002D-line-17"> Will never Mend Your Face but spoil it,</l><l n="18" xml:id="spp-X00-002D-line-18" rend="flush right"> It looks as if You did par-boil it;Drink Claret.</l><l n="19" xml:id="spp-X00-002D-line-19"> Your Cheeks by sleeking are so lean</l><l n="20" xml:id="spp-X00-002D-line-20"> That they're like Cynthia in the Wain,</l><l n="21" xml:id="spp-X00-002D-line-21" rend="flush right"> Or Breast of Goose when 'tis pick'd clean,Or Pullet:</l><l n="22" xml:id="spp-X00-002D-line-22"> See What by Prinking You have done</l><l n="23" xml:id="spp-X00-002D-line-23"> Youve Made Your Phyz a skeleton</l><l n="24" xml:id="spp-X00-002D-line-24" rend="flush right"> From the long distance of your CrownTo Y<hi rend="sup">r</hi> Gullet.X00-002D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

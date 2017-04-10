@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN EPITAPH<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y49-WILH" type="poem"><head type="note" n="1" xml:id="spp-Y49-WILH-headnote-1"><lg n="1" xml:id="spp-Y49-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-WILH-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y49-WILH-headnote-2"><lg n="1" xml:id="spp-Y49-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-WILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y49-WILH-headnote-3"><lg n="1" xml:id="spp-Y49-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y49-WILH-line-1"> Here Sarum Iyes&#13;</l><l n="2" xml:id="spp-Y49-WILH-line-2"> Who was as wise</l><l n="3" xml:id="spp-Y49-WILH-line-3"> And Learned as Tom Aquinas.</l><l n="4" xml:id="spp-Y49-WILH-line-4"> Lawn Sleeves he wore</l><l n="5" xml:id="spp-Y49-WILH-line-5"> Yet was no more</l><l n="6" xml:id="spp-Y49-WILH-line-6"> A Christian than Socinus.</l></lg><lg n="2" type="stanza"><l n="7" xml:id="spp-Y49-WILH-line-7" rend="align(center)">2</l></lg><lg n="3" type="stanza"><l n="8" xml:id="spp-Y49-WILH-line-8" rend="flush left">Oaths pro and con&#13;</l><l n="9" xml:id="spp-Y49-WILH-line-9"> He Swallow'd down</l><l n="10" xml:id="spp-Y49-WILH-line-10"> Loved Gold like any Lay Man</l><l n="11" xml:id="spp-Y49-WILH-line-11"> Wrote Preached and pray'd</l><l n="12" xml:id="spp-Y49-WILH-line-12"> And yet betrayed</l><l n="13" xml:id="spp-Y49-WILH-line-13"> Gods Holy Church for Mammon.</l></lg><lg n="4" type="stanza"><l n="14" xml:id="spp-Y49-WILH-line-14" rend="align(center)">3</l></lg><lg n="5" type="stanza"><l n="15" xml:id="spp-Y49-WILH-line-15" rend="flush left">Of every Vice&#13;</l><l n="16" xml:id="spp-Y49-WILH-line-16"> He had a Spice</l><l n="17" xml:id="spp-Y49-WILH-line-17"> Altho' a learned Prelate</l><l n="18" xml:id="spp-Y49-WILH-line-18"> and yet he dyed</l><l n="19" xml:id="spp-Y49-WILH-line-19"> If not belyed</l><l n="20" xml:id="spp-Y49-WILH-line-20"> a true Dissenting Zealote.</l></lg><lg n="6" type="stanza"><l n="21" xml:id="spp-Y49-WILH-line-21" rend="align(center)">4</l></lg><lg n="7" type="stanza"><l n="22" xml:id="spp-Y49-WILH-line-22" rend="flush left">If such a Soule&#13;</l><l n="23" xml:id="spp-Y49-WILH-line-23"> To Heaven has stole</l><l n="24" xml:id="spp-Y49-WILH-line-24"> And scaped old Satans Clutches</l><l n="25" xml:id="spp-Y49-WILH-line-25"> We then assume</l><l n="26" xml:id="spp-Y49-WILH-line-26"> There may be room</l><l n="27" xml:id="spp-Y49-WILH-line-27"> for M[arlboroug]h &amp; his D[uche]ss.Y49-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

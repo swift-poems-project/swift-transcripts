@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>S<hi rend="SMALL-CAPS">HERIDAN</hi>'s S<hi rend="SMALL-CAPS">UBMISSION</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough 17JA08"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X05-07G1"><head type="note" n="1" xml:id="spp-X05-07G1-headnote-1"><lg n="1" xml:id="spp-X05-07G1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X05-07G1-headnote-1-line-group-1-line-1">Written by the D<hi rend="SMALL-CAPS">EAN</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-X05-07G1-headnote-2"><lg n="1" xml:id="spp-X05-07G1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X05-07G1-headnote-2-line-group-1-line-1"><hi rend="underline">Cedo jam, miseræ cogniscens præmia rixæ, <lb/> Si risca est, ubi tu pulsas, ego vapulo tantum.</hi></l></lg></head><head type="note" n="3" xml:id="spp-X05-07G1-headnote-3"><lg n="1" xml:id="spp-X05-07G1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X05-07G1-headnote-3-line-group-1-line-1">Poor Sherry, inglorious, <lb/> To Dan the victorious, <lb/> Presents, as 'tis fitting, <lb/> Petition and greeting.</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X05-07G1-line-1"><hi rend="display-initial">T</hi>O you victorious and brave,</l><l/><l n="2" xml:id="spp-X05-07G1-line-2">Your now subdu'd and suppliant slave</l><l/><l n="3" xml:id="spp-X05-07G1-line-3">Most humbly sues for pardon.</l><l/><l n="4" xml:id="spp-X05-07G1-line-4">Who when I fought, still cut me down,</l><l/><l n="5" xml:id="spp-X05-07G1-line-5">And when I vanquish'd, fled the town,</l><l/><l n="6" xml:id="spp-X05-07G1-line-6">Pursu'd and laid me hard on.</l><l/><l n="7" xml:id="spp-X05-07G1-line-7"/></lg><lg n="2" type="stanza"><l>Now lowly crouch'd, I cry <hi rend="underline">Peccavi</hi>,</l><l/><l n="8" xml:id="spp-X05-07G1-line-8">And prostrate, supplicate <hi rend="underline">pour ma vie</hi>.</l><l/><l n="9" xml:id="spp-X05-07G1-line-9">Your mercy I rely on.</l><l/><l n="10" xml:id="spp-X05-07G1-line-10">For you, my conqu'ror and my king,</l><l/><l n="11" xml:id="spp-X05-07G1-line-11">In pard'ning, as in punishing,</l><l/><l n="12" xml:id="spp-X05-07G1-line-12">Will shew yourself a lion.</l><l/><l n="13" xml:id="spp-X05-07G1-line-13"/></lg><lg n="3" type="stanza"><l>Alas, Sir, I had no design,&#13;</l><l/><l n="14" xml:id="spp-X05-07G1-line-14">But was unwarily drawn in;</l><l/><l n="15" xml:id="spp-X05-07G1-line-15">For spite, I ne'er had any.</l><l/><l n="16" xml:id="spp-X05-07G1-line-16">'Twas the damn'd 'squire with the hard name;</l><l/><l n="17" xml:id="spp-X05-07G1-line-17">The de'il too that ow'd me a shame,</l><l/><l n="18" xml:id="spp-X05-07G1-line-18">The devil and Delany;</l><l/><l n="19" xml:id="spp-X05-07G1-line-19"/></lg><lg n="4" type="stanza"><l>They tempted me t'attack your Highness,&#13;</l><l/><l n="20" xml:id="spp-X05-07G1-line-20">And then, with wonted wile and slyness,</l><l/><l n="21" xml:id="spp-X05-07G1-line-21">They left me in the lurch.</l><l/><l n="22" xml:id="spp-X05-07G1-line-22">Unhappy wretch! for now I ween,</l><l/><l n="23" xml:id="spp-X05-07G1-line-23">I've nothing left to vent my spleen</l><l/><l n="24" xml:id="spp-X05-07G1-line-24">But ferula and birch;</l><l/><l n="25" xml:id="spp-X05-07G1-line-25"/></lg><lg n="5" type="stanza"><l>And they, alas, yield small relief,&#13;</l><l/><l n="26" xml:id="spp-X05-07G1-line-26">Seem rather to renew my grief,</l><l/><l n="27" xml:id="spp-X05-07G1-line-27">My wounds bleed all anew:</l><l/><l n="28" xml:id="spp-X05-07G1-line-28">For ev'ry stroke goes to my heart,</l><l/><l n="29" xml:id="spp-X05-07G1-line-29">And at each lash I feel the smart</l><l/><l n="30" xml:id="spp-X05-07G1-line-30">Of lash laid on by you.</l><l/><l n="31" xml:id="spp-X05-07G1-line-31"><gap/></l><l/><l n="32" xml:id="spp-X05-07G1-line-32"><gap/></l><l/><l n="33" xml:id="spp-X05-07G1-line-33"><gap/></l><l/><l n="34" xml:id="spp-X05-07G1-line-34"><gap/></l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

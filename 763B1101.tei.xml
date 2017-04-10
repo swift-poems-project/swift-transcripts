@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="763B1101" type="poem"><head type="note" n="1" xml:id="spp-763B1101-headnote-1"><lg n="1" xml:id="spp-763B1101-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-763B1101-headnote-1-line-group-1-line-1">I<hi rend="SMALL-CAPS">T</hi> appears by several little Incidents, that <hi rend="underline">Stella</hi>, regretted and disapproved the Dean's Conduct, and that she sometimes reproached him with Unkindness; for to such Regret and Reproach, he certainly alludes in the following Verses on her Birth-day, in 1726.</l></lg></head><head type="note" n="2" xml:id="spp-763B1101-headnote-2"><lg n="1" xml:id="spp-763B1101-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-763B1101-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-763B1101-headnote-3"><lg n="1" xml:id="spp-763B1101-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-763B1101-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-763B1101-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> O THEN, whatever Heav'n intends,&#13;</l><l n="2" xml:id="spp-763B1101-line-2"> Take Pity on your pitying Friends;</l><l n="3" xml:id="spp-763B1101-line-3"> Nor let your Ills affect your Mind,</l><l n="4" xml:id="spp-763B1101-line-4"> To fancy they can be unkind;</l><l n="5" xml:id="spp-763B1101-line-5"> Me, surely, me you ought to spare,</l><l n="6" xml:id="spp-763B1101-line-6"> Who gladly would your Sufferings share.<gap/><gap/><gap/><gap/>763B1101   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

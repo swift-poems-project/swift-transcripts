@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Receipt. To M<hi rend="sup">rs</hi> Biddy Floydd.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="118-302A" type="poem"><head type="note" n="1" xml:id="spp-118-302A-headnote-1"><lg n="1" xml:id="spp-118-302A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-118-302A-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-118-302A-headnote-2"><lg n="1" xml:id="spp-118-302A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-118-302A-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-118-302A-headnote-3"><lg n="1" xml:id="spp-118-302A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-118-302A-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-118-302A-line-1"> When Cupid did his Grandsire Jove entreat,&#13;</l><l n="2" xml:id="spp-118-302A-line-2"> To form some Beauty by a new receipt;</l><l n="3" xml:id="spp-118-302A-line-3"> Jove sent &amp; found far in a Country scene,</l><l n="4" xml:id="spp-118-302A-line-4"> Truth, Innocence, Good nature, look serene:</l><l n="5" xml:id="spp-118-302A-line-5"> From which ingredients, 1<hi rend="sup">st</hi>: y<hi rend="sup">e</hi></l></lg><lg n="2" type="stanza"><l n="6" xml:id="spp-118-302A-line-6"> dextrous Boy,&#13;</l><l n="7" xml:id="spp-118-302A-line-7"> Pick'd the demure, y<hi rend="sup">e</hi></l></lg><lg n="3" type="stanza"><l n="8" xml:id="spp-118-302A-line-8"> awkwark, &amp; the coy;&#13;</l><l n="9" xml:id="spp-118-302A-line-9"> The Graces from the court did next provide,</l><l n="10" xml:id="spp-118-302A-line-10"> Breeding, &amp; Wit, &amp; Air, &amp; decent pride;</l><l n="11" xml:id="spp-118-302A-line-11"> These Venus cleans'd f<hi rend="sup">ṃ</hi> every spurious Grain,</l><l n="12" xml:id="spp-118-302A-line-12"> Of nice Coquet, Affected, Pert, and Vain;</l><l n="13" xml:id="spp-118-302A-line-13"> Jove mix'd up all, &amp; his best Clay employ'd,</l><l n="14" xml:id="spp-118-302A-line-14"> Then call'd the happy Composition Floydd.118-302A   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

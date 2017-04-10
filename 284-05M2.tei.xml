@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A quibbling ELEGY on the Wor-</title>
+        <title>shipful Judge <hi rend="underline">Boat</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-284-05M2-footnote-1 #spp-284-05M2-line-6"/>
+          <link target="#spp-284-05M2-footnote-2 #spp-284-05M2-line-7"/>
+          <link target="#spp-284-05M2-footnote-3 #spp-284-05M2-line-8"/>
+          <link target="#spp-284-05M2-footnote-4 #spp-284-05M2-line-14"/>
+          <link target="#spp-284-05M2-footnote-5 #spp-284-05M2-line-23"/>
+          <link target="#spp-284-05M2-footnote-6 #spp-284-05M2-line-31"/>
+          <link target="#spp-284-05M2-footnote-7 #spp-284-05M2-line-43"/>
+        </linkGrp>
+        <div n="284-05M2" type="poem"><head type="note" n="1" xml:id="spp-284-05M2-headnote-1"><lg n="1" xml:id="spp-284-05M2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-284-05M2-headnote-1-line-group-1-line-1">Written in the Year 1723.</l></lg></head><head type="note" n="2" xml:id="spp-284-05M2-headnote-2"><lg n="1" xml:id="spp-284-05M2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-284-05M2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-284-05M2-headnote-3"><lg n="1" xml:id="spp-284-05M2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-284-05M2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-284-05M2-line-1"><hi rend="display-initial">T</hi>O mournful Ditties, <hi rend="underline">Clio</hi>, change thy Note,</l><l n="2" xml:id="spp-284-05M2-line-2"> Since cruel Fate hath <hi rend="underline">sunk</hi> our Justice <hi rend="underline">Boat</hi>.</l><l n="3" xml:id="spp-284-05M2-line-3"> Why should he <hi rend="underline">sink</hi> where nothing seem'd to press?</l><l n="4" xml:id="spp-284-05M2-line-4"> His <hi rend="underline">Lading</hi> little, and his <hi rend="underline">Ballast</hi> less.<hi rend="underline">Tost</hi> in the <hi rend="underline">Waves</hi> of this <hi rend="underline">tempestuous</hi> World,</l><l n="5" xml:id="spp-284-05M2-line-5"> At length, his <hi rend="underline">Anchor</hi> fixt, and <hi rend="underline">Canvas</hi> furl'd,</l><l n="6" xml:id="spp-284-05M2-line-6"> To <ref target="#spp-284-05M2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-284-05M2-footnote-1">Two Villages near the Sea, where Boatmen and Seamen live.</note><hi rend="underline">Lazy-Hill</hi> retiring from his Court,</l><l n="7" xml:id="spp-284-05M2-line-7"> At his <ref target="#spp-284-05M2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-284-05M2-footnote-2">Two Villages near the Sea, where Boatmen and Seamen live.</note><hi rend="underline">Ring's·End</hi>, he <hi rend="underline">founders</hi> in the <hi rend="underline">Port</hi>.</l><l n="8" xml:id="spp-284-05M2-line-8"> With <ref target="#spp-284-05M2-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-284-05M2-footnote-3">It was said he died of a Dropsy.</note><hi rend="underline">Water</hi> fill'd he could no longer <hi rend="underline">float</hi>,</l><l n="9" xml:id="spp-284-05M2-line-9"> The common Death of many a stronger <hi rend="underline">Boat</hi>.</l></lg><lg n="2" type="stanza"><l n="10" xml:id="spp-284-05M2-line-10">A P<hi rend="SMALL-CAPS">OST</hi> so fill'd, on Nature's Laws entrenches:<hi rend="underline">Benches</hi> on <hi rend="underline">Boats</hi> are plac'd, not <hi rend="underline">Boats</hi> on <hi rend="underline">Benches</hi>.</l><l n="11" xml:id="spp-284-05M2-line-11"> And yet our <hi rend="underline">Boat</hi>, how shall I reconcile it?</l><l n="12" xml:id="spp-284-05M2-line-12"> Was both a <hi rend="underline">Boat</hi>, and in one Sense a <hi rend="underline">Pilot</hi>.</l><l n="13" xml:id="spp-284-05M2-line-13"> With ev'ry <hi rend="underline">Wind</hi> he <hi rend="underline">sail'd</hi>, and well cou'd <hi rend="underline">tack</hi>:</l><l n="14" xml:id="spp-284-05M2-line-14"> Had many <hi rend="underline">Pendents</hi>, but abhorr'd a <ref target="#spp-284-05M2-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-284-05M2-footnote-4">A Cant Word for a <hi rend="underline">Jacobite</hi>.</note><hi rend="underline">Jack</hi>.</l><l n="15" xml:id="spp-284-05M2-line-15"> He's gone, although his Friends began to hope</l><l n="16" xml:id="spp-284-05M2-line-16"> That he might yet be lifted by a <hi rend="underline">Rope</hi>.</l></lg><lg n="3" type="stanza"><l n="17" xml:id="spp-284-05M2-line-17">B<hi rend="SMALL-CAPS">EHOLD</hi> the awful <hi rend="underline">Bench</hi> on which he sat,</l><l n="18" xml:id="spp-284-05M2-line-18"> He was as <hi rend="underline">hard</hi>, and pond'rous <hi rend="underline">Wood</hi> as that:</l><l n="19" xml:id="spp-284-05M2-line-19"> Yet, when his <hi rend="underline">Sand</hi> was out we find at last,</l><l n="20" xml:id="spp-284-05M2-line-20"> That, Death has <hi rend="underline">overset</hi> him with a <hi rend="underline">Blast</hi>.</l><l n="21" xml:id="spp-284-05M2-line-21"> Our <hi rend="underline">Boat</hi> is now <hi rend="underline">sail'd</hi> to the <hi rend="underline">Stygian</hi> Ferry,</l><l n="22" xml:id="spp-284-05M2-line-22"> There to supply old <hi rend="underline">Charon</hi>'s leaky Wherry:<hi rend="underline">Charon</hi> in him will ferry Souls to Hell:</l><l n="23" xml:id="spp-284-05M2-line-23"> A Trade, our <ref target="#spp-284-05M2-footnote-5">5</ref><note place="foot" n="5" xml:id="spp-284-05M2-footnote-5">In hanging People as a Judge.</note><hi rend="underline">Boat</hi> hath practis'd here so well.</l><l n="24" xml:id="spp-284-05M2-line-24"> And, <hi rend="underline">Cerberus</hi> hath ready in his Paws,</l><l n="25" xml:id="spp-284-05M2-line-25"> Both <hi rend="underline">Pitch</hi> and <hi rend="underline">Brimstone</hi> to fill up his <hi rend="underline">Flaws</hi>;</l><l n="26" xml:id="spp-284-05M2-line-26"> Yet, spite of Death and Fate, I here maintain</l><l n="27" xml:id="spp-284-05M2-line-27"> We may place <hi rend="underline">Boat</hi> in his old <hi rend="underline">Post</hi> again.</l><l n="28" xml:id="spp-284-05M2-line-28"> The Way is thus; and well deserves your Thanks:</l><l n="29" xml:id="spp-284-05M2-line-29"> Take the three strongest of his broken Planks,</l><l n="30" xml:id="spp-284-05M2-line-30"> Fix them on high, conspicuous to be seen,</l><l n="31" xml:id="spp-284-05M2-line-31"> Form'd like the Triple-Tree near <ref target="#spp-284-05M2-footnote-6">6</ref><note place="foot" n="6" xml:id="spp-284-05M2-footnote-6">Where the <hi rend="underline">Dublin</hi> Gallows stands.</note><hi rend="underline">Stephen'</hi>s<hi rend="underline"> Green</hi>;</l><l n="32" xml:id="spp-284-05M2-line-32"> And, when we view it thus with Thief at End on't,</l><l n="33" xml:id="spp-284-05M2-line-33"> We'll cry; look, here's our <hi rend="underline">Boat</hi>, and there's the <hi rend="underline">Pendant</hi>.</l></lg><lg n="4" type="stanza"><l n="34" xml:id="spp-284-05M2-line-34" rend="align(center)">The EPITAPH.</l></lg><lg n="5" type="stanza"><l n="35" xml:id="spp-284-05M2-line-35" rend="flush left"/></lg><lg n="6" type="stanza"><l n="36" xml:id="spp-284-05M2-line-36"><hi rend="display-initial">H</hi><hi rend="underline">ERE lies Judge </hi>Boat<hi rend="underline"> within a Coffin,</hi>Boat<hi rend="underline"> a Judge! yes, where's the Blunder?</hi>Wooden<hi rend="underline"> Judge is no such Wonder.</hi>Boat<hi rend="underline"> was better </hi>deckt<hi rend="underline"> than He.</hi><ref target="#spp-284-05M2-footnote-7">7</ref><note place="foot" n="7" xml:id="spp-284-05M2-footnote-7"><hi rend="underline">Query</hi>, Whether the Author meant <hi rend="underline">Scholar</hi>, and wilfully mistook.</note> Sculler.284-05M2   </l><l n="37" xml:id="spp-284-05M2-line-37"> Pray, Gentle-folks forbear your Scoffing,</l><l n="38" xml:id="spp-284-05M2-line-38"> A </l><l n="39" xml:id="spp-284-05M2-line-39"> A </l><l n="40" xml:id="spp-284-05M2-line-40"> And in his Robes, you must agree,</l><l n="41" xml:id="spp-284-05M2-line-41"> No </l><l n="42" xml:id="spp-284-05M2-line-42"> 'Tis needless to describe him fuller,</l><l n="43" xml:id="spp-284-05M2-line-43"> In short, he was an able</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

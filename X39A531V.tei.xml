@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X39A531V" type="letter"><head type="note" n="1" xml:id="spp-X39A531V-headnote-1"><lg n="1" xml:id="spp-X39A531V-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X39A531V-headnote-1-line-group-1-line-1">A Love /<hi rend="underline">del</hi>·letter/Song from Dick Bettisworth to Miss Molly Whiteway ──</l></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-X39A531V-line-1"> Mi de armis molli,&#13;</l><l n="2" xml:id="spp-X39A531V-line-2"> Ure mel an colli,</l><l n="3" xml:id="spp-X39A531V-line-3"> It is a folli;</l><l n="4" xml:id="spp-X39A531V-line-4"> Fori alo ver,</l><l n="5" xml:id="spp-X39A531V-line-5"> Aram lingat Do ver,</l><l n="6" xml:id="spp-X39A531V-line-6"> Ure Dic mecum o ver.X39A531V   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

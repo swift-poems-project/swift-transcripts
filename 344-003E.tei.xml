@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prometheus</title>
+        <title>A<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="344-003E" type="poem"><head type="note" n="1" xml:id="spp-344-003E-headnote-1"><lg n="1" xml:id="spp-344-003E-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-344-003E-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-344-003E-headnote-2"><lg n="1" xml:id="spp-344-003E-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-344-003E-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-344-003E-headnote-3"><lg n="1" xml:id="spp-344-003E-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-344-003E-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-344-003E-line-1"> When first the Squire and Tinker W────d&#13;</l><l n="2" xml:id="spp-344-003E-line-2"> Gravely consulting <hi rend="black-letter">Ireland's<hi rend="black-letter"/></hi> good</l><l n="3" xml:id="spp-344-003E-line-3"> Together mingl'd in a Mass</l><l n="4" xml:id="spp-344-003E-line-4"> Smith's Dust and Copper Lead and Brass</l><l n="5" xml:id="spp-344-003E-line-5"> The Mixture thus by <hi rend="black-letter">Chimick<hi rend="black-letter"><hi rend="underline"/></hi></hi> Art</l><l n="6" xml:id="spp-344-003E-line-6"> United closs in every Part</l><l n="7" xml:id="spp-344-003E-line-7"> In Fillets roll'd or cut in pieces</l><l n="8" xml:id="spp-344-003E-line-8"> Appear'd like one continued Species</l><l n="9" xml:id="spp-344-003E-line-9"> And by the forming Engine struck</l><l n="10" xml:id="spp-344-003E-line-10"> On all the same Impression took</l><l n="11" xml:id="spp-344-003E-line-11"> So to confound this hated Coin</l><l n="12" xml:id="spp-344-003E-line-12"> All Parties and Religions Ioyn<hi rend="black-letter">Whiggs Tories Trimmers Hanoverians</hi> unite</l><l n="13" xml:id="spp-344-003E-line-13"> Quakers Conformists Presbiterians</l><l n="14" xml:id="spp-344-003E-line-14"> Scots Irish English French</l><l n="15" xml:id="spp-344-003E-line-15"> With equal Int'rest equal Spite</l><l n="16" xml:id="spp-344-003E-line-16"> Together mingld in Lump</l><l n="17" xml:id="spp-344-003E-line-17"> Do all in on Opinion Iump</l><l n="18" xml:id="spp-344-003E-line-18"> And every on begins to find</l><l n="19" xml:id="spp-344-003E-line-19"> The same Impression on his mind</l><l n="20" xml:id="spp-344-003E-line-20"> O strange Event whom Gold invites</l><l n="21" xml:id="spp-344-003E-line-21"> To War and Bloodshed Brass unites</l><l n="22" xml:id="spp-344-003E-line-22"> So Gold-Smiths say the coarsest stuff</l><l n="23" xml:id="spp-344-003E-line-23"> Will serve for sodder well enough</l><l n="24" xml:id="spp-344-003E-line-24"> So by the Kettle's loud Alarm</l><l n="25" xml:id="spp-344-003E-line-25"> The Bees are gather'd to a Swarm</l><l n="26" xml:id="spp-344-003E-line-26"> So by the Brazen Trumpet's Bluster</l><l n="27" xml:id="spp-344-003E-line-27"> Troop's of all Tongues and Nations muster</l><l n="28" xml:id="spp-344-003E-line-28"> And so the Harp of Ireland brings</l><l n="29" xml:id="spp-344-003E-line-29"> Whole crouds about its brazen strings</l><l n="30" xml:id="spp-344-003E-line-30"> There is a Chain let down from Jove</l><l n="31" xml:id="spp-344-003E-line-31"> But fasten'd to his throne above</l><l n="32" xml:id="spp-344-003E-line-32"> So Strong that from the louer end</l><l n="33" xml:id="spp-344-003E-line-33"> They say all humane things depend</l><l n="34" xml:id="spp-344-003E-line-34"> This Chain (as ancient Poets hold)</l><l n="35" xml:id="spp-344-003E-line-35"> When Iove was young was made of Gold<hi rend="black-letter">Prometheus</hi> once this Chain purloin'd</l><l n="36" xml:id="spp-344-003E-line-36"> Disolv'd and into Money coin'd</l><l n="37" xml:id="spp-344-003E-line-37"> Then whips me out a Chain of Brass<hi rend="black-letter">(Venus was brib'd to let it pass)<hi rend="black-letter"/></hi></l><l n="38" xml:id="spp-344-003E-line-38"> Now while the brazen chain prevail'd<hi rend="black-letter">Iove</hi> saw that all Devotion fail'd</l><l n="39" xml:id="spp-344-003E-line-39"> No Temple to his Godship rais'd</l><l n="40" xml:id="spp-344-003E-line-40"> No Sacrifice on Alter blaz'd</l><l n="41" xml:id="spp-344-003E-line-41"> In short such dire confussion followed</l><l n="42" xml:id="spp-344-003E-line-42"> Earth must have been in Chaos swallowed<hi rend="black-letter">Iove</hi> stood amaz'd and looking round</l><l n="43" xml:id="spp-344-003E-line-43"> With much ado the cheat he found</l><l n="44" xml:id="spp-344-003E-line-44"> 'Twas plain he could no longer hold</l><l n="45" xml:id="spp-344-003E-line-45"> The World in any Chain but Gold</l><l n="46" xml:id="spp-344-003E-line-46"> And to the God of wealth his Brother</l><l n="47" xml:id="spp-344-003E-line-47"> Sent <hi rend="black-letter">Mercury</hi> to get another<hi rend="black-letter">Prometheus</hi> on <del>the</del>a Rack is laid</l><l n="48" xml:id="spp-344-003E-line-48"> Ty'd with the chain himself had made</l><l n="49" xml:id="spp-344-003E-line-49"> On Icy <hi rend="black-letter">Caucasus</hi> to shiver</l><l n="50" xml:id="spp-344-003E-line-50"> Whil'st Vultures eat his growing Liver</l><l n="51" xml:id="spp-344-003E-line-51"> Ye Powers of <hi rend="black-letter">Grub-Street</hi> make me able</l><l n="52" xml:id="spp-344-003E-line-52"> Discreetly to apply this Fable</l><l n="53" xml:id="spp-344-003E-line-53"> Say.──────Who's to be understood</l><l n="54" xml:id="spp-344-003E-line-54"> By that old Thief <hi rend="black-letter">Prometheus W</hi>────</l><l n="55" xml:id="spp-344-003E-line-55"> For <hi rend="black-letter">Iove</hi> it is not hard to guess him</l><l n="56" xml:id="spp-344-003E-line-56"> I mean his Maj────God bless him</l><l n="57" xml:id="spp-344-003E-line-57"> This Thief the Black-smith was so bold</l><l n="58" xml:id="spp-344-003E-line-58"> He strove to steal the Chain of Gold</l><l n="59" xml:id="spp-344-003E-line-59"> Which links the subject to the King</l><l n="60" xml:id="spp-344-003E-line-60"> And Change it for a brazen String</l><l n="61" xml:id="spp-344-003E-line-61"> But sure if nothing else must pass</l><l n="62" xml:id="spp-344-003E-line-62"> Between the King and us but Brass</l><l n="63" xml:id="spp-344-003E-line-63"> Altho' the Chain will never crack</l><l n="64" xml:id="spp-344-003E-line-64"> Yet our devotion may grow slack</l><l n="65" xml:id="spp-344-003E-line-65"> But <hi rend="black-letter">Iove</hi> will soon convert I hope</l><l n="66" xml:id="spp-344-003E-line-66"> This Brazen-chain into a Rope</l><l n="67" xml:id="spp-344-003E-line-67"> With which <hi rend="black-letter">Prometheus</hi> shall be ty'd</l><l n="68" xml:id="spp-344-003E-line-68"> And high in air for ever ride</l><l n="69" xml:id="spp-344-003E-line-69"> Where if we find his Liver grows</l><l n="70" xml:id="spp-344-003E-line-70"> Instead of Vultures we have Crows344-003E   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

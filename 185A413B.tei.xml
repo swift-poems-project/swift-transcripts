@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="185A413B" type="poem"><head type="note" n="1" xml:id="spp-185A413B-headnote-1"><lg n="1" xml:id="spp-185A413B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-185A413B-headnote-1-line-group-1-line-1">From the Doctor's Chamber</l></lg></head><head type="note" n="2" xml:id="spp-185A413B-headnote-2"><lg n="1" xml:id="spp-185A413B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-185A413B-headnote-2-line-group-1-line-1">past eight.</l></lg></head><head type="note" n="3" xml:id="spp-185A413B-headnote-3"><lg n="1" xml:id="spp-185A413B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-185A413B-headnote-3-line-group-1-line-1">Marc:20:1713/14</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-185A413B-line-1"> The Doctor and Dean, Pope, Parnell and Gay&#13;</l><l n="2" xml:id="spp-185A413B-line-2"> In manner Submissive most humbly do pray,</l><l n="3" xml:id="spp-185A413B-line-3"> That Your Lordship would once let Your Cares all alone</l><l n="4" xml:id="spp-185A413B-line-4"> And Climb the dark Stairs to Your Friends who have none;</l><l n="5" xml:id="spp-185A413B-line-5"> To Your Friends who at least have no Cares but to please You</l><l n="6" xml:id="spp-185A413B-line-6"> To a good honest Iunta that never will teaze You.185A413B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

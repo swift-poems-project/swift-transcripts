@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="170-129Y" type="poem"><head type="note" n="1" xml:id="spp-170-129Y-headnote-1"><lg n="1" xml:id="spp-170-129Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-170-129Y-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-170-129Y-headnote-2"><lg n="1" xml:id="spp-170-129Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-170-129Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-170-129Y-headnote-3"><lg n="1" xml:id="spp-170-129Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-170-129Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-170-129Y-line-1"> Harley, (once call'd, <add>parenthesis</add>) the Nation's great Support,</l><l n="2" xml:id="spp-170-129Y-line-2"> Returning home one (Evening) late from Court.</l><l n="3" xml:id="spp-170-129Y-line-3"> (His (active <unclear>strenuus. marginalnote</unclear>) Mind with Publick Cares possest,</l><l n="4" xml:id="spp-170-129Y-line-4"> All Europe's Bus'ness lab'ring in his Breast.)</l><l n="5" xml:id="spp-170-129Y-line-5"> Observ'd a <hi rend="underline">certain</hi><unclear>quendam marginalnote</unclear> Parson near Whitehall,</l><l n="6" xml:id="spp-170-129Y-line-6"> Old Heathen <unclear>aboveCheapnin crossedout</unclear> Authors cheapning at a Stall.</l><l n="7" xml:id="spp-170-129Y-line-7"> The <add>caret</add> Priest, <unclear>(tis said) crossedoutbutmarginalut aiunt. retained</unclear> was pretty well in Case,</l><l n="8" xml:id="spp-170-129Y-line-8"> And show'd some Signs of Humour in <add>line</add> Face.</l><l n="9" xml:id="spp-170-129Y-line-9"> Look'd <add>line</add> an easy (but a) careless Mein.</l><l n="10" xml:id="spp-170-129Y-line-10"> And seem'd a <add>out</add> perfect Stranger to the Spleen;</l><l n="11" xml:id="spp-170-129Y-line-11"> Of Size (just that,) that might a Pulpit fill,</l><l n="12" xml:id="spp-170-129Y-line-12"> Or rather more inclining to sit still.</l><l n="13" xml:id="spp-170-129Y-line-13"> My Lord (who (if a Man may (fruly) say't,)</l><l n="14" xml:id="spp-170-129Y-line-14"> Loved witty Mischief better than his Meat.</l><l n="15" xml:id="spp-170-129Y-line-15"> Now found himself dispos'd to crack a Iest,</l><l n="16" xml:id="spp-170-129Y-line-16"> Bad <add>out</add> Lewis (light and) go <add>line</add> in Quest.</l><l n="17" xml:id="spp-170-129Y-line-17"> (This Lewis (was esteemd) an arrant Shaver</l><l n="18" xml:id="spp-170-129Y-line-18"> And very much (tis known) in Harley's Favour.)</l><l n="19" xml:id="spp-170-129Y-line-19"> In Quest, (he said,) Who might this Parson be?</l><l n="20" xml:id="spp-170-129Y-line-20"> What was his Name? (And) what (was his) Degree?</l><l n="21" xml:id="spp-170-129Y-line-21"> If Possible, (at full) to learn his Story?</l><l n="22" xml:id="spp-170-129Y-line-22"> But (chiefly) whether he was Whig, or Tory?Lewis, who well his Patron's Humour knows</l><l n="23" xml:id="spp-170-129Y-line-23"> Lights and away, as bid, in Quest he goes.</l><l n="24" xml:id="spp-170-129Y-line-24"> And quickly did the Youth the Matter sift,</l><l n="25" xml:id="spp-170-129Y-line-25"> And soon found out that this was Doctor Swift.</l><l n="26" xml:id="spp-170-129Y-line-26"> A Clergyman! (but one) of Special Note</l><l n="27" xml:id="spp-170-129Y-line-27"> For slyly shunning Those of his own Coat.</l><l n="28" xml:id="spp-170-129Y-line-28"> Which made his honest Brethren of the Gown</l><l n="29" xml:id="spp-170-129Y-line-29"> Wisely take Care betimes to run him down.</l><l n="30" xml:id="spp-170-129Y-line-30"> Nor yet a Libertine nor over-nice;</l><l n="31" xml:id="spp-170-129Y-line-31"> A Man addicted to no Sort of Vice.</l><l n="32" xml:id="spp-170-129Y-line-32"> Went where he pleasd, and said just what He thought.</l><l n="33" xml:id="spp-170-129Y-line-33"> Not rich, but yet he owd no Man a Groat.</l><l n="34" xml:id="spp-170-129Y-line-34"> In State Opinions, partly a la Mode.</l><l n="35" xml:id="spp-170-129Y-line-35"> This sure; He hated Wharton like a Toad.</l><l n="36" xml:id="spp-170-129Y-line-36"> Had giv'en the Faction many a deadly Wound</l><l n="37" xml:id="spp-170-129Y-line-37"> And libel'd all the Iuncto round and round.</l><l n="38" xml:id="spp-170-129Y-line-38"> Kept Company with Men of Sense and Wit</l><l n="39" xml:id="spp-170-129Y-line-39"> Who often father'd what he ······writ.</l><l n="40" xml:id="spp-170-129Y-line-40"> His Works were hawk'd in ev'ry Court and Street;</l><l n="41" xml:id="spp-170-129Y-line-41"> But seldom rose above a single Sheet.</l><l n="42" xml:id="spp-170-129Y-line-42"> Of late indeed he found the Paper Stamp</l><l n="43" xml:id="spp-170-129Y-line-43"> Did much his Profit sink, and Genius cramp;</l><l n="44" xml:id="spp-170-129Y-line-44"> And since he cou'd not cheaply spend his Fire,</l><l n="45" xml:id="spp-170-129Y-line-45"> He now intended calmly to retrire.Retire said Harley. I desire to know</l><l n="46" xml:id="spp-170-129Y-line-46"> From his own Mouth, if what you hear <add>out</add> be so.</l><l n="47" xml:id="spp-170-129Y-line-47"> Step, Lewis, to the Doctor strait and say,</l><l n="48" xml:id="spp-170-129Y-line-48"> I'd have him come, and dine with me To Day.</l><l n="49" xml:id="spp-170-129Y-line-49"> Swift seem'd to muse <unclear>abovestair crossedout</unclear> and wonder what he meant,</l><l n="50" xml:id="spp-170-129Y-line-50"> Nor woud beleive my Lord had askd or sent.</l><l n="51" xml:id="spp-170-129Y-line-51"> So never offer'd once to bow or stir,</l><l n="52" xml:id="spp-170-129Y-line-52"> But coldly said. Tis Well! Your Servant Sir.</l><l n="53" xml:id="spp-170-129Y-line-53"> And does he then refuse me? Harley cry'd.</l><l n="54" xml:id="spp-170-129Y-line-54"> He does with Insolence, at least with Pride.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>170-129Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

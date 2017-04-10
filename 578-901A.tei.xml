@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ACE, 7/87,"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="578-901A" type="poem"><head type="note" n="1" xml:id="spp-578-901A-headnote-1"><lg n="1" xml:id="spp-578-901A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-578-901A-headnote-1-line-group-1-line-1">	The following Vision was wrote by D<hi rend="sup">r</hi> Swift, but never made Publick.</l></lg></head><head type="note" n="2" xml:id="spp-578-901A-headnote-2"><lg n="1" xml:id="spp-578-901A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-578-901A-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-578-901A-headnote-3"><lg n="1" xml:id="spp-578-901A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-578-901A-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-578-901A-line-1"> With a Whirl of thoughts opprest&#13;</l><l n="2" xml:id="spp-578-901A-line-2"> I sunk from <hi rend="underline">Resverie</hi> to rest.</l><l n="3" xml:id="spp-578-901A-line-3"> A Horrid Vision seized my Head,</l><l n="4" xml:id="spp-578-901A-line-4"> I saw the Graves yawn up their dead,</l><l n="5" xml:id="spp-578-901A-line-5"> Iove armed with terrors burst the Skies,</l><l n="6" xml:id="spp-578-901A-line-6"> And Thunder roars, and Lightning Flies.</l><l n="7" xml:id="spp-578-901A-line-7"> Amazed, confused, it's fate unknown,</l><l n="8" xml:id="spp-578-901A-line-8"> The world stands trembling at his Throne,</l><l n="9" xml:id="spp-578-901A-line-9"> While each pale Sinner hangs his head,</l><l n="10" xml:id="spp-578-901A-line-10"> Iove nodding shook the Heavens and Said.Offending race of humankind,By Nature, Custom, <hi rend="underline">Learning</hi> blind,You who through Frailty stept aside,And you who never fell──through prideAnd you whom different Sects have shamm'd,And come to see each other damn'd.So Some folks told you; but they knewNo more of Jove's designs than you.The world's mad business now is o're,And I resent such pranks no more,I to such Blockheads set my Wit?I damn such fools? go, go, you're bit.578-901A   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

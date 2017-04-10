@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>S<hi rend="SMALL-CAPS">TELLA'S </hi>B<hi rend="SMALL-CAPS">IRTH-</hi>D<hi rend="SMALL-CAPS">AY</hi>, 1720.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="734-06E2"><head type="note" n="1" xml:id="spp-734-06E2-headnote-1"><lg n="1" xml:id="spp-734-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-734-06E2-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-734-06E2-headnote-2"><lg n="1" xml:id="spp-734-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-734-06E2-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-734-06E2-headnote-3"><lg n="1" xml:id="spp-734-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-734-06E2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-734-06E2-line-1"><hi rend="display-initial">A</hi>LL travellers at first incline</l><l/><l n="2" xml:id="spp-734-06E2-line-2">Where-e'er they see the fairest sign;</l><l/><l n="3" xml:id="spp-734-06E2-line-3">And, if they find the chambers neat,</l><l/><l n="4" xml:id="spp-734-06E2-line-4">And like the liquor and the meat,</l><l/><l n="5" xml:id="spp-734-06E2-line-5">Will call again, and recommend</l><l/><l n="6" xml:id="spp-734-06E2-line-6">The Angel-inn to ev'ry friend.</l><l/><l n="7" xml:id="spp-734-06E2-line-7">What though the painting grows decay'd?</l><l/><l n="8" xml:id="spp-734-06E2-line-8">The house will never lose its trade:</l><l/><l n="9" xml:id="spp-734-06E2-line-9">Nay, though the treach'rous tapster Thomas</l><l/><l n="10" xml:id="spp-734-06E2-line-10">Hangs a new angel two doors from us,</l><l/><l n="11" xml:id="spp-734-06E2-line-11">As fine as dawber's hands can make it,</l><l/><l n="12" xml:id="spp-734-06E2-line-12">In hopes that strangers may mistake it,</l><l/><l n="13" xml:id="spp-734-06E2-line-13">We think it both a shame and sin</l><l/><l n="14" xml:id="spp-734-06E2-line-14">To quit the true old Angel-inn.</l><l/><l n="15" xml:id="spp-734-06E2-line-15">Now this is Stella's case in fact:</l><l/><l n="16" xml:id="spp-734-06E2-line-16">An <hi rend="underline">angel</hi>'s face, a little crack'd;</l><l/><l n="17" xml:id="spp-734-06E2-line-17">(Could poets, or could painters fix</l><l/><l n="18" xml:id="spp-734-06E2-line-18">How <hi rend="underline">angels</hi> look at thirty-six):</l><l/><l n="19" xml:id="spp-734-06E2-line-19">This drew us in at first to find</l><l/><l n="20" xml:id="spp-734-06E2-line-20">In such a form an <hi rend="underline">angel</hi>'s mind;</l><l/><l n="21" xml:id="spp-734-06E2-line-21">And ev'ry virtue now supplies</l><l/><l n="22" xml:id="spp-734-06E2-line-22">The fainting rays of Stella's eyes.</l><l/><l n="23" xml:id="spp-734-06E2-line-23">See at her levee crouding swains,</l><l/><l n="24" xml:id="spp-734-06E2-line-24">Whom Stella freely entertains</l><l/><l n="25" xml:id="spp-734-06E2-line-25">With breeding, humour, wit, and sense;</l><l/><l n="26" xml:id="spp-734-06E2-line-26">And puts them but to small expence;</l><l/><l n="27" xml:id="spp-734-06E2-line-27">Their mind so plentifully fills,</l><l/><l n="28" xml:id="spp-734-06E2-line-28">And makes such reasonable bills,</l><l/><l n="29" xml:id="spp-734-06E2-line-29">So little gets for what she gives,</l><l/><l n="30" xml:id="spp-734-06E2-line-30">We really wonder how she lives!</l><l/><l n="31" xml:id="spp-734-06E2-line-31">And, had her stock been less, no doubt</l><l/><l n="32" xml:id="spp-734-06E2-line-32">She must have long ago run out.</l><l/><l n="33" xml:id="spp-734-06E2-line-33">Then who can think we'll quit the place,</l><l/><l n="34" xml:id="spp-734-06E2-line-34">When Doll hangs out a newer face;</l><l/><l n="35" xml:id="spp-734-06E2-line-35"><gap/></l><l/><l n="36" xml:id="spp-734-06E2-line-36"><gap/></l><l/><l n="37" xml:id="spp-734-06E2-line-37">Or stop and light at Cloe's head,</l><l/><l n="38" xml:id="spp-734-06E2-line-38">With scraps and leavings to be fed?</l><l/><l n="39" xml:id="spp-734-06E2-line-39">Then, Cloe, still go on to prate</l><l/><l n="40" xml:id="spp-734-06E2-line-40">Of thirty-six, and thirty-eight;</l><l/><l n="41" xml:id="spp-734-06E2-line-41">Pursue your trade of scandal-picking,</l><l/><l n="42" xml:id="spp-734-06E2-line-42">Your hints, that Stella is no chicken;</l><l/><l n="43" xml:id="spp-734-06E2-line-43">Your innuendos, when you tell us</l><l/><l n="44" xml:id="spp-734-06E2-line-44">That Stella loves to talk with fellows:</l><l/><l n="45" xml:id="spp-734-06E2-line-45">And let me warn you to believe</l><l/><l n="46" xml:id="spp-734-06E2-line-46">A truth, for which your soul should grieve;</l><l/><l n="47" xml:id="spp-734-06E2-line-47">That, should you live to see the day</l><l/><l n="48" xml:id="spp-734-06E2-line-48">When Stella's locks must all be gray,</l><l/><l n="49" xml:id="spp-734-06E2-line-49">When age must print a furrow'd trace</l><l/><l n="50" xml:id="spp-734-06E2-line-50">On ev'ry feature of her face;</l><l/><l n="51" xml:id="spp-734-06E2-line-51">Though you, and all your senseless tribe,</l><l/><l n="52" xml:id="spp-734-06E2-line-52">Could art, or time, or nature bribe,</l><l/><l n="53" xml:id="spp-734-06E2-line-53">To make you look like beauty's queen,</l><l/><l n="54" xml:id="spp-734-06E2-line-54">And hold for ever at fifteen;</l><l/><l n="55" xml:id="spp-734-06E2-line-55">No bloom of youth can ever blind</l><l/><l n="56" xml:id="spp-734-06E2-line-56">The cracks and wrinkles of your mind;</l><l/><l n="57" xml:id="spp-734-06E2-line-57">All men of sense will pass your door,</l><l/><l n="58" xml:id="spp-734-06E2-line-58">And croud to Stella's at fourscore.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

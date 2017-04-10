@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Dialogue between an eminent Lawyer</title>
+        <title>and Dr. S<hi rend="SMALL-CAPS">WIFT</hi> Dean of S<hi rend="SMALL-CAPS">T. </hi>P<hi rend="SMALL-CAPS">ATRICK</hi>'s,</title>
+        <title>being an allusion to the first Satire of the se-</title>
+        <title>cond book of H<hi rend="SMALL-CAPS">ORAC</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-489-55B--footnote-1 #spp-489-55B--line-52"/>
+        </linkGrp>
+        <div n="489-55B-" type="poem"><head type="note" n="1" xml:id="spp-489-55B--headnote-1"><lg n="1" xml:id="spp-489-55B--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-489-55B--headnote-1-line-group-1-line-1">Having mentioned the name of Mr. L<hi rend="SMALL-CAPS">INDSAY</hi> in one of the preceding paragraphs, I shall venture to publish some few lines written by that improved genius, although he was neither born in <hi rend="underline">England</hi>, nor yet a professed poet. They are indeed a specimen of that sort of praise; or to speak in the language of the <hi rend="underline">critic; of that sort of flattery, with which</hi> D<hi rend="SMALL-CAPS">R</hi>. S<hi rend="SMALL-CAPS">WIFT</hi> <hi rend="underline">was daily fed in</hi> Ireland.</l></lg></head><head type="note" n="2" xml:id="spp-489-55B--headnote-2"><lg n="1" xml:id="spp-489-55B--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-489-55B--headnote-2-line-group-1-line-1"><hi rend="underline">Sunt quibus in satyra</hi>, &amp;c.</l></lg></head><head type="note" n="3" xml:id="spp-489-55B--headnote-3"><lg n="1" xml:id="spp-489-55B--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-489-55B--headnote-3-line-group-1-line-1"><hi rend="underline">Written in the year</hi> 1729.</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-489-55B--line-1">S<hi rend="SMALL-CAPS">INCE</hi> there are persons who complain</l><l n="2" xml:id="spp-489-55B--line-2"> There's too much satire in my vein,</l><l n="3" xml:id="spp-489-55B--line-3"> That I am often found exceeding</l><l n="4" xml:id="spp-489-55B--line-4"> The rules of raillery and breeding,</l><l n="5" xml:id="spp-489-55B--line-5"> With too much freedom treat my betters,</l><l n="6" xml:id="spp-489-55B--line-6"> Not sparing even men of letters,</l><l n="7" xml:id="spp-489-55B--line-7"> You, who are skill'd in lawyer's lore,</l><l n="8" xml:id="spp-489-55B--line-8"> What's your advice? shall I give o're,</l><l n="9" xml:id="spp-489-55B--line-9"> Nor ever fools or knaves expose</l><l n="10" xml:id="spp-489-55B--line-10"> Either in verse or hum'rous prose,</l><l n="11" xml:id="spp-489-55B--line-11"> And, to avoid all future ill,</l><l n="12" xml:id="spp-489-55B--line-12"> In my 'scritore lock up my quill?S<hi rend="SMALL-CAPS">INCE</hi> you are pleas'd to condescend</l><l n="13" xml:id="spp-489-55B--line-13"> To ask the judgment of a friend,</l><l n="14" xml:id="spp-489-55B--line-14"> Your case consider'd, I must think</l><l n="15" xml:id="spp-489-55B--line-15"> You shou'd withdraw from pen and ink,</l><l n="16" xml:id="spp-489-55B--line-16"> Forbear your poetry and jokes,</l><l n="17" xml:id="spp-489-55B--line-17"> And live like other christian fokes;</l><l n="18" xml:id="spp-489-55B--line-18"> Or, if the M<hi rend="SMALL-CAPS">USES</hi> must inspire</l><l n="19" xml:id="spp-489-55B--line-19"> Your fancy with their pleasing fire,</l><l n="20" xml:id="spp-489-55B--line-20"> Take subjects safer for your wit</l><l n="21" xml:id="spp-489-55B--line-21"> Than those on which you lately writ,</l><l n="22" xml:id="spp-489-55B--line-22"> Commend the times, your thoughts correct</l><l n="23" xml:id="spp-489-55B--line-23"> And follow the prevailing sect,</l><l n="24" xml:id="spp-489-55B--line-24"> Assert that H<hi rend="SMALL-CAPS">YDE</hi> in writing story</l><l n="25" xml:id="spp-489-55B--line-25"> Shews all the malice of a T<hi rend="SMALL-CAPS">ORY</hi>,</l><l n="26" xml:id="spp-489-55B--line-26"> While B<hi rend="SMALL-CAPS">URNET</hi> in his deathless page</l><l n="27" xml:id="spp-489-55B--line-27"> Discovers freedom without rage;</l><l n="28" xml:id="spp-489-55B--line-28"> To W<hi rend="SMALL-CAPS">OOLSTON</hi> recommend our youth</l><l n="29" xml:id="spp-489-55B--line-29"> For learning, probity and truth,</l><l n="30" xml:id="spp-489-55B--line-30"> That noble genius, who unbinds</l><l n="31" xml:id="spp-489-55B--line-31"> The chains which fetter free-born minds,</l><l n="32" xml:id="spp-489-55B--line-32"> Redeems us from the slavish fears</l><l n="33" xml:id="spp-489-55B--line-33"> Which lasted near two thousand years,</l><l n="34" xml:id="spp-489-55B--line-34"> He can alone the priesthood humble,</l><l n="35" xml:id="spp-489-55B--line-35"> Make gilded spires and altars tumble.M<hi rend="SMALL-CAPS">UST</hi> I commend against my conscience</l><l n="36" xml:id="spp-489-55B--line-36"> Such stupid blasphemy and nonsense?</l><l n="37" xml:id="spp-489-55B--line-37"> To such a subject tune my lyre</l><l n="38" xml:id="spp-489-55B--line-38"> And sing like one of M<hi rend="SMALL-CAPS">ILTON</hi>'s choir,</l><l n="39" xml:id="spp-489-55B--line-39"> Where D<hi rend="SMALL-CAPS">EVILS</hi> to a vale retreat</l><l n="40" xml:id="spp-489-55B--line-40"> And call the laws of wisdom fate,</l><l n="41" xml:id="spp-489-55B--line-41"> Lament upon their hapless fall</l><l n="42" xml:id="spp-489-55B--line-42"> That force free virtue shou'd enthrall?</l><l n="43" xml:id="spp-489-55B--line-43"> Or, shall the charms of wealth and power</l><l n="44" xml:id="spp-489-55B--line-44"> Make me pollute the M<hi rend="SMALL-CAPS">USES</hi>' bower?A<hi rend="SMALL-CAPS">S</hi> from the tripod of A<hi rend="SMALL-CAPS">POLLO</hi></l><l n="45" xml:id="spp-489-55B--line-45"> Hear from my desk the words that follow;</l><l n="46" xml:id="spp-489-55B--line-46"> Some by philosophers misled,</l><l n="47" xml:id="spp-489-55B--line-47"> Must honour you alive and dead,</l><l n="48" xml:id="spp-489-55B--line-48"> And such as know what <hi rend="underline">Greece</hi> has writ</l><l n="49" xml:id="spp-489-55B--line-49"> Must taste your irony and wit,</l><l n="50" xml:id="spp-489-55B--line-50"> While most that are or would be great,</l><l n="51" xml:id="spp-489-55B--line-51"> Must dread your pen, your person hate,</l><l n="52" xml:id="spp-489-55B--line-52"> And you on D<hi rend="SMALL-CAPS">RAPIER</hi>'s <hi rend="underline">Hill</hi><ref target="#spp-489-55B--footnote-1">1</ref><note place="foot" n="1" xml:id="spp-489-55B--footnote-1">In the county of <hi rend="underline">Ardmah</hi>, where D<hi rend="SMALL-CAPS">R. </hi>S<hi rend="SMALL-CAPS">WIFT</hi> in the year 1729 had some thoughts of building. Vid. his poem called D<hi rend="SMALL-CAPS">RAPIER</hi>'<hi rend="underline">s Hill</hi>.</note> must lye,</l><l n="53" xml:id="spp-489-55B--line-53"> And there without a mitre dye.489-55B-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

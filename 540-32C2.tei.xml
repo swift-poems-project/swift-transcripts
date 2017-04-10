@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="540-32C2" type="poem"><head type="note" n="1" xml:id="spp-540-32C2-headnote-1"><lg n="1" xml:id="spp-540-32C2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-540-32C2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-540-32C2-headnote-2"><lg n="1" xml:id="spp-540-32C2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-540-32C2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-540-32C2-headnote-3"><lg n="1" xml:id="spp-540-32C2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-540-32C2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-540-32C2-line-1" rend="align(center)"><hi rend="display-initial">C</hi><hi rend="underline">Onfondant du passé le leger souvenir,</hi> M<hi rend="SMALL-CAPS">AITRE</hi><hi rend="underline">de la </hi>France<hi rend="underline">, &amp; le</hi> V<hi rend="SMALL-CAPS">ALET</hi><hi rend="underline">de </hi>Rome.Imitated·in·<hi rend="underline">English</hi>.</l><l n="2" xml:id="spp-540-32C2-line-2"> Ebloüi du present, sans percer l'avenir;</l><l n="3" xml:id="spp-540-32C2-line-3"> Dans l'·art de gouverner decrepit, &amp; Novice,</l><l n="4" xml:id="spp-540-32C2-line-4"> Punissant in Vertu, recompensant le Vice.</l><l n="5" xml:id="spp-540-32C2-line-5"> Malgré sa Tête altiere accablé de son rang,</l><l n="6" xml:id="spp-540-32C2-line-6"> Fourbe dans le Petit, &amp; Dupe dans le Grand.</l><l n="7" xml:id="spp-540-32C2-line-7"> On connoit á ces traits, même sans qu'on le nomme,</l><l n="8" xml:id="spp-540-32C2-line-8"> Le</l></lg><lg n="2" type="stanza"><l n="9" xml:id="spp-540-32C2-line-9" rend="flush left"><hi rend="display-initial">W</hi>ITH Favour and Fortune fastidiously blest,</l><l n="10" xml:id="spp-540-32C2-line-10"> He's loud in his Laugh, and he's coarse in his Jest,</l><l n="11" xml:id="spp-540-32C2-line-11"> Of Favour and Fortune unmerited vain;</l><l n="12" xml:id="spp-540-32C2-line-12"> A Sharper in Trifles, a Dupe in the Main.</l><l n="13" xml:id="spp-540-32C2-line-13"> Atchieving of nothing, still promising Wonders.</l><l n="14" xml:id="spp-540-32C2-line-14"> By dint of Experience improving in Blunders.</l><l n="15" xml:id="spp-540-32C2-line-15"> Oppressing true Merit, exalting the Base,</l><l n="16" xml:id="spp-540-32C2-line-16"> And selling his Country to purchase a Peace.</l><l n="17" xml:id="spp-540-32C2-line-17"> A Jobber of Stocks, by retailing false News,</l><l n="18" xml:id="spp-540-32C2-line-18"> A Prater at Court, in the Stile of the Stews.</l><l n="19" xml:id="spp-540-32C2-line-19"> Of Virtue and Worth, by Profession, a Giber,</l><l n="20" xml:id="spp-540-32C2-line-20"> Of Juries and Senates, the Bully and Briber.</l><l n="21" xml:id="spp-540-32C2-line-21"> Tho' I name not the Wretch, you know who I mean,</l><l n="22" xml:id="spp-540-32C2-line-22"> 'Tis the Cur-Dog of <hi rend="underline">Britain</hi>, and Spaniel of <hi rend="underline">Spain</hi>.<gap/>540-32C2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

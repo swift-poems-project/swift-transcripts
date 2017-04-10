@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>From the Grubstreet Journal 1733────</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="811-090A" type="poem"><head type="note" n="1" xml:id="spp-811-090A-headnote-1"><lg n="1" xml:id="spp-811-090A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-811-090A-headnote-1-line-group-1-line-1">On the Words, Brother protestants &amp; fellow Christians used by the advocates for repealing the Test Act in Ireland</l></lg></head><head type="note" n="2" xml:id="spp-811-090A-headnote-2"><lg n="1" xml:id="spp-811-090A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-811-090A-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-811-090A-headnote-3"><lg n="1" xml:id="spp-811-090A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-811-090A-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-811-090A-line-1"> An inundation, says the fable&#13;</l><l n="2" xml:id="spp-811-090A-line-2"> O'erflowd a farmers Barn and stable,</l><l n="3" xml:id="spp-811-090A-line-3"> Whole ricks of hay and stacks of corn,</l><l n="4" xml:id="spp-811-090A-line-4"> Were down the sudden curren borne,</l><l n="5" xml:id="spp-811-090A-line-5"> While things of heterogeneous kind</l><l n="6" xml:id="spp-811-090A-line-6"> Together float with tide and Wind;</l><l n="7" xml:id="spp-811-090A-line-7"> The gen'rous Wheat forgot its pride</l><l n="8" xml:id="spp-811-090A-line-8"> And saild with litter side by side:</l><l n="9" xml:id="spp-811-090A-line-9"> Uniting all to shew their amity</l><l n="10" xml:id="spp-811-090A-line-10"> As in a general Calamity.</l><l n="11" xml:id="spp-811-090A-line-11"> A ball of new-dropt Horses dung</l><l n="12" xml:id="spp-811-090A-line-12"> Mingling with apples in the throng</l><l n="13" xml:id="spp-811-090A-line-13"> Said to the Pippin, plump and prim,</l><l n="14" xml:id="spp-811-090A-line-14"> See brother how we apples swim.Thus <hi rend="black-letter">Lamb</hi> renown'd for cutting corns,</l><l n="15" xml:id="spp-811-090A-line-15"> An offerd fee from <hi rend="black-letter">Radcliffe</hi> scorns:</l><l n="16" xml:id="spp-811-090A-line-16"> Not for the world──we Doctors brother</l><l n="17" xml:id="spp-811-090A-line-17"> Must take no fee of one another,</l><l n="18" xml:id="spp-811-090A-line-18"> Thus to the Dean some curate sloven</l><l n="19" xml:id="spp-811-090A-line-19"> Subscribes, Dear Sir your Brother loving.</l><l n="20" xml:id="spp-811-090A-line-20"> Thus all the footmen, shoe-boys, porters,</l><l n="21" xml:id="spp-811-090A-line-21"> About S<hi rend="sup">t</hi> James's, cry, we courtiers.</l><l n="22" xml:id="spp-811-090A-line-22"> Thus H────e in the House will prate,</l><l n="23" xml:id="spp-811-090A-line-23"> Sir, we the ministers of State.</l><l n="24" xml:id="spp-811-090A-line-24"> Thus at the bar that booby B────</l><l n="25" xml:id="spp-811-090A-line-25"> Tho' half a Crown outpays his sweats-worth;</l><l n="26" xml:id="spp-811-090A-line-26"> Who knows in law nor text nor marjent</l><l n="27" xml:id="spp-811-090A-line-27"> Calls Singleton his brother serjeant;</l><l n="28" xml:id="spp-811-090A-line-28"> And thus fanatic saints the neither in</l><l n="29" xml:id="spp-811-090A-line-29"> Doctrine or Discipline our brethren,</l><l n="30" xml:id="spp-811-090A-line-30"> Are brother Protestants and Christians</l><l n="31" xml:id="spp-811-090A-line-31"> As much as hebrews and Philistines:</l><l n="32" xml:id="spp-811-090A-line-32"> But in no other Sense than nature</l><l n="33" xml:id="spp-811-090A-line-33"> Has made a Rat our fellow creature:</l><l n="34" xml:id="spp-811-090A-line-34"> Lice from your body suck their food:</l><l n="35" xml:id="spp-811-090A-line-35"> But is a Louse your flesh and blood?</l><l n="36" xml:id="spp-811-090A-line-36"> Tho' born of human filth and sweat, it</l><l n="37" xml:id="spp-811-090A-line-37"> May well be said man did beget it.</l><l n="38" xml:id="spp-811-090A-line-38"> But maggots in your Nose and chin</l><l n="39" xml:id="spp-811-090A-line-39"> As well may claim you for their kin?Yet criticks may object why not?</l><l n="40" xml:id="spp-811-090A-line-40"> Since lice are brethren to a S──t.</l><l n="41" xml:id="spp-811-090A-line-41"> Which made our Swarm of sects determine</l><l n="42" xml:id="spp-811-090A-line-42"> Employments for their brother vermine.</l><l n="43" xml:id="spp-811-090A-line-43"> But be they English, Irish, Scottish,</l><l n="44" xml:id="spp-811-090A-line-44"> What Protestant can be so sottish</l><l n="45" xml:id="spp-811-090A-line-45"> While o'er the Church these clouds are gath'ring</l><l n="46" xml:id="spp-811-090A-line-46"> To call a Swarm of lice his brethren?As Moses by divine advice</l><l n="47" xml:id="spp-811-090A-line-47"> In Egypt turnd the Dust to lice,</l><l n="48" xml:id="spp-811-090A-line-48"> And as our Sects by all Descriptions</l><l n="49" xml:id="spp-811-090A-line-49"> Have Hearts more hardned than Egyptians:</l><l n="50" xml:id="spp-811-090A-line-50"> As from the trodden dust they spring</l><l n="51" xml:id="spp-811-090A-line-51"> And turnd to lice infest the king;</l><l n="52" xml:id="spp-811-090A-line-52"> For pity's sake it woud be just</l><l n="53" xml:id="spp-811-090A-line-53"> A rod shoud turn them back to dust.Let folks in high or holy stations</l><l n="54" xml:id="spp-811-090A-line-54"> Be proud of owning such relations:</l><l n="55" xml:id="spp-811-090A-line-55"> Let courtiers hug them in their bosom</l><l n="56" xml:id="spp-811-090A-line-56"> As if they were afraid to lose them.</l><l n="57" xml:id="spp-811-090A-line-57"> While I with humble Job had rather</l><l n="58" xml:id="spp-811-090A-line-58"> Say to corruption──thou 'rt my father</l><l n="59" xml:id="spp-811-090A-line-59"> For he that has so little wit,</l><l n="60" xml:id="spp-811-090A-line-60"> To nourish vermin must be bit.811-090A   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

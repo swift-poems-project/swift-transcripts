@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="267-21JC" type="poem"><head type="note" n="1" xml:id="spp-267-21JC-headnote-1"><lg n="1" xml:id="spp-267-21JC-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-267-21JC-headnote-1-line-group-1-line-1"><hi rend="underline">Dublin, March</hi> 11.</l></lg></head><head type="note" n="2" xml:id="spp-267-21JC-headnote-2"><lg n="1" xml:id="spp-267-21JC-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-267-21JC-headnote-2-line-group-1-line-1">The following Piece has been publish'd here, and met with extraordinary Approbation.</l></lg></head><head type="note" n="3" xml:id="spp-267-21JC-headnote-3"><lg n="1" xml:id="spp-267-21JC-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-267-21JC-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-267-21JC-line-1"><hi rend="display-initial">P</hi><hi rend="underline">Arnassus February</hi> the Twenty seventh,</l><l n="2" xml:id="spp-267-21JC-line-2"> The <hi rend="underline">Poets</hi> assembled here on the Eleventh,</l><l n="3" xml:id="spp-267-21JC-line-3"> Convened by Apollo, who gave 'em to know,</l><l n="4" xml:id="spp-267-21JC-line-4"> He'd have a <hi rend="underline">Vicegerent</hi> in his Empire below;</l><l n="5" xml:id="spp-267-21JC-line-5"> But declared that no <hi rend="underline">Bard</hi> shou'd this Honour inherit,</l><l n="6" xml:id="spp-267-21JC-line-6"> Till the rest had agreed he surpass'd them in Merit:</l><l n="7" xml:id="spp-267-21JC-line-7"> Now this you'll allow was a difficult Case</l><l n="8" xml:id="spp-267-21JC-line-8"> For each <hi rend="underline">Bard</hi> believ'd he had a Right to the Place;</l><l n="9" xml:id="spp-267-21JC-line-9"> So finding th' Assembly grow warm in Debate,</l><l n="10" xml:id="spp-267-21JC-line-10"> He put 'em in Mind of his <hi rend="underline">Phaeton</hi>'s Fate;</l><l n="11" xml:id="spp-267-21JC-line-11"> 'Twas urg'd to no Purpose, the Dispute higher rose,</l><l n="12" xml:id="spp-267-21JC-line-12"> Scarce <hi rend="underline">Ph<unclear>ae</unclear>bus</hi> himself cou'd their Quarels compose.</l><l n="13" xml:id="spp-267-21JC-line-13"> Till at length he determin'd that every <hi rend="underline">Bard</hi></l><l n="14" xml:id="spp-267-21JC-line-14"> Shou'd each in their Turn be patiently heard.<hi rend="underline">First</hi> one who believ'd he excell'd in Translation,</l><l n="15" xml:id="spp-267-21JC-line-15"> Fou·ds his Claim on the Doctrine of <hi rend="underline">Transmigration</hi>:</l><l n="16" xml:id="spp-267-21JC-line-16"> “Since the Soul of great <hi rend="underline">Milton</hi> was given to me,</l><l n="17" xml:id="spp-267-21JC-line-17"> “I hope the <hi rend="underline">Convention</hi> will quickly agree────</l><l n="18" xml:id="spp-267-21JC-line-18"> Agree· quoth <hi rend="underline">Apollo</hi>, from whence is this Fool!</l><l n="19" xml:id="spp-267-21JC-line-19"> Is he Just come from Reading <hi rend="underline">Pythagoras</hi> at School?</l><l n="20" xml:id="spp-267-21JC-line-20"> Be gone, Sir, you've got your Subscriptions in time,</l><l n="21" xml:id="spp-267-21JC-line-21"> And giv'n in Return neither Reason nor Rhyme.To the <hi rend="underline">next</hi> says the God, tho' now I won't chuse you,</l><l n="22" xml:id="spp-267-21JC-line-22"> I'll tell you the Reason for which I refuse you,<hi rend="underline">Love</hi>'s Goddess has oft to her Parent complain'd,</l><l n="23" xml:id="spp-267-21JC-line-23"> Of my fav'ring a <hi rend="underline">Bard</hi> who her Empire disdain'd.</l><l n="24" xml:id="spp-267-21JC-line-24"> That at my Instigation a Poem you writ,</l><l n="25" xml:id="spp-267-21JC-line-25"> Which to Beauty and Youth preferr'd Judgment and Wit,</l><l n="26" xml:id="spp-267-21JC-line-26"> That to make you a Laureat I give the first Voice,</l><l n="27" xml:id="spp-267-21JC-line-27"> Inspiring the <hi rend="underline">Britains</hi> t' approve of my Choice.<hi rend="underline">Jove</hi> sent her to me her Power to try,</l><l n="28" xml:id="spp-267-21JC-line-28"> The Goddess of <hi rend="underline">Beauty</hi> what god can deny?</l><l n="29" xml:id="spp-267-21JC-line-29"> She forbids your Preferment, I grant her Desire,</l><l n="30" xml:id="spp-267-21JC-line-30"> Appease the fair Goddess· you then may rise higher.<hi rend="underline">The next</hi> that appear'd had good Hopes of succeeding,</l><l n="31" xml:id="spp-267-21JC-line-31"> For he merited much for hi· Wit and his Breeding.</l><l n="32" xml:id="spp-267-21JC-line-32"> 'Twas wise in the <hi rend="underline">Britains</hi> no Favour to shew him,</l><l n="33" xml:id="spp-267-21JC-line-33"> He else might expect they shou'd pay what they owe him:</l><l n="34" xml:id="spp-267-21JC-line-34"> And therefore they pruden·ly chose to discard</l><l n="35" xml:id="spp-267-21JC-line-35"> The Patriot who·e Merits they wou'd not reward;</l><l n="36" xml:id="spp-267-21JC-line-36"> The God with a Smile bid his Fav'rite advance,</l><l n="37" xml:id="spp-267-21JC-line-37"> You were sent by <hi rend="underline">Astr<unclear>ae</unclear>a</hi> her Envoy to <hi rend="underline">France</hi>.</l><l n="38" xml:id="spp-267-21JC-line-38"> You bent your Ambition to rise in the <hi rend="underline">State</hi>,</l><l n="39" xml:id="spp-267-21JC-line-39"> I refuse you because you cou'd stoop to be great.Then a <hi rend="underline">Bard</hi> who had been a successful Translator,</l><l n="40" xml:id="spp-267-21JC-line-40"> “The Convention allow· me a Versificator.Says <hi rend="underline">Apollo</hi> you mention the least of your Merit,</l><l n="41" xml:id="spp-267-21JC-line-41"> By your Works it appears you have much of my Sp·rit,</l><l n="42" xml:id="spp-267-21JC-line-42"> I esteem you so well that to tell you the Tru·h,</l><l n="43" xml:id="spp-267-21JC-line-43"> The greatest Objection against you'· your Youth;</l><l n="44" xml:id="spp-267-21JC-line-44"> Then be not concern'd you're now laid aside,</l><l n="45" xml:id="spp-267-21JC-line-45"> If you live you shall certainly one day preside.Another, low bending, <hi rend="underline">Apollo</hi> thus greets,</l><l n="46" xml:id="spp-267-21JC-line-46"> “'Twas I taught your Subject· to walk thro' the Streets.</l><l n="47" xml:id="spp-267-21JC-line-47"> You taught 'em to walk, wh· they knew it before,</l><l n="48" xml:id="spp-267-21JC-line-48"> But give me the <hi rend="underline">Bard</hi> tha· can teach 'em to soar,</l><l n="49" xml:id="spp-267-21JC-line-49"> Whenever he claims hi· Right I'll confess</l><l n="50" xml:id="spp-267-21JC-line-50"> Who lately attempted my Style with Success,</l><l n="51" xml:id="spp-267-21JC-line-51"> Who writes like <hi rend="underline">Apollo</hi> has most of his Spirit,</l><l n="52" xml:id="spp-267-21JC-line-52"> And therefore 'tis just I distinguish his Merit,</l><l n="53" xml:id="spp-267-21JC-line-53"> Who makes it appear by all he has writ,</l><l n="54" xml:id="spp-267-21JC-line-54"> His Judgment alone can set Bounds to his Wit,</l><l n="55" xml:id="spp-267-21JC-line-55"> Like <hi rend="underline">Virgil</hi> correct, with his own N·tive Ease,</l><l n="56" xml:id="spp-267-21JC-line-56"> But excels ev'n <hi rend="underline">Virgil</hi> in elegan· Praise,</l><l n="57" xml:id="spp-267-21JC-line-57"> Who admires the Ancients, and knows 'tis their due,</l><l n="58" xml:id="spp-267-21JC-line-58"> Yet writes in a Manner entirely New.</l><l n="59" xml:id="spp-267-21JC-line-59"> Tho' none with more Ease their Depths can explore,</l><l n="60" xml:id="spp-267-21JC-line-60"> Yet whatever he wants he takes from my Store,</l><l n="61" xml:id="spp-267-21JC-line-61"> Tho' I'm fond of his Virtues his Pride I can see,</l><l n="62" xml:id="spp-267-21JC-line-62"> In scorning to borrow from any but me,</l><l n="63" xml:id="spp-267-21JC-line-63"> 'Tis owing to this that like <hi rend="underline">Cynthia</hi> his Lays</l><l n="64" xml:id="spp-267-21JC-line-64"> Enlighten the World by ·efl·cting my Rays.</l><l n="65" xml:id="spp-267-21JC-line-65"> This said, the whole Audience soon found out his Drift,</l><l n="66" xml:id="spp-267-21JC-line-66"> The Convention was summon'd in Favour of <hi rend="underline">Sw··ft</hi>.267-21JC   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

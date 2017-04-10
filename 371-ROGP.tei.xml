@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">A Letter from Dean Swift to Dean Smedley</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="371-ROGP" type="letter"><head type="note" n="1" xml:id="spp-371-ROGP-headnote-1"><lg n="1" xml:id="spp-371-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-371-ROGP-headnote-1-line-group-1-line-1"><hi rend="underline">Quid de quo que viro, cui dicas sepe caveto</hi></l></lg></head><head type="note" n="2" xml:id="spp-371-ROGP-headnote-2"><lg n="1" xml:id="spp-371-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-371-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-371-ROGP-headnote-3"><lg n="1" xml:id="spp-371-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-371-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-371-ROGP-line-1"> Dear Dean, if e'er again you write,&#13;</l><l n="2" xml:id="spp-371-ROGP-line-2"> Beware of subjects you call trite,</l><l n="3" xml:id="spp-371-ROGP-line-3"> For satire's now so common grown</l><l n="4" xml:id="spp-371-ROGP-line-4"> That every s──th and type in town</l><l n="5" xml:id="spp-371-ROGP-line-5"> Have teased, by calling to their aid</l><l n="6" xml:id="spp-371-ROGP-line-6"> The Graces and the other maid,</l><l n="7" xml:id="spp-371-ROGP-line-7"> That, faith, I think there scarce is room</l><l n="8" xml:id="spp-371-ROGP-line-8"> For you or Ito crave a boon;</l><l n="9" xml:id="spp-371-ROGP-line-9"> But, yet, you'll find by what will follow,</l><l n="10" xml:id="spp-371-ROGP-line-10"> That I'm befriended by Apollo,</l><l n="11" xml:id="spp-371-ROGP-line-11"> And that by all I e'er did hear</l><l n="12" xml:id="spp-371-ROGP-line-12"> Minerva ne'er an oath did swear</l><l n="13" xml:id="spp-371-ROGP-line-13"> Unless by you she was entreated</l><l n="14" xml:id="spp-371-ROGP-line-14"> When first of Griz, you Grafton rated;</l><l n="15" xml:id="spp-371-ROGP-line-15"> But as to <hi rend="underline">ditto'd through the town</hi>,</l><l n="16" xml:id="spp-371-ROGP-line-16"> You never did, for 'twould not down.</l></lg><lg n="2" type="triplet"><l n="17" xml:id="spp-371-ROGP-line-17">My country's saved, as you have shown,&#13;</l><l n="18" xml:id="spp-371-ROGP-line-18"> And skin's yet whole, I needs must own,</l><l n="19" xml:id="spp-371-ROGP-line-19"> But if by chance I should deny it</l><l n="20" xml:id="spp-371-ROGP-line-20"> I'm sure old Jour──you'd not stand by it;</l><l n="21" xml:id="spp-371-ROGP-line-21"> And if you should, we'd ne'er have end on't,</l><l n="22" xml:id="spp-371-ROGP-line-22"> Both church and state, being still dependent.</l><l n="23" xml:id="spp-371-ROGP-line-23"> The weather's fair, nay that is true,</l><l n="24" xml:id="spp-371-ROGP-line-24"> But what is it to me or you?</l><l n="25" xml:id="spp-371-ROGP-line-25"> Or if 'tis true, great Phoebus smiles</l><l n="26" xml:id="spp-371-ROGP-line-26"> On this, as upon other isles,</l><l n="27" xml:id="spp-371-ROGP-line-27"> I know no reason at this time</l><l n="28" xml:id="spp-371-ROGP-line-28"> We should them quote, unless for rhyme.</l><l n="29" xml:id="spp-371-ROGP-line-29"> In gold, perhaps, my friend you wallow</l><l n="30" xml:id="spp-371-ROGP-line-30"> And Woods's ditto pills do swallow,</l><l n="31" xml:id="spp-371-ROGP-line-31"> Being positive there is no priest</l><l n="32" xml:id="spp-371-ROGP-line-32"> So bent on gains, <hi rend="underline">juro</hi> by Christ,</l><l n="33" xml:id="spp-371-ROGP-line-33"> As you dear Smedley are, being sure</l><l n="34" xml:id="spp-371-ROGP-line-34"> The coin's current and the metal pure.</l><l n="35" xml:id="spp-371-ROGP-line-35"> If Wood's coin should 'mongst us pass</l><l n="36" xml:id="spp-371-ROGP-line-36"> Though now I'm poor I then might pass</l><l n="37" xml:id="spp-371-ROGP-line-37"> As well as you, for a Midas:</l><l n="38" xml:id="spp-371-ROGP-line-38"> Then as to war's alarms I pray</l><l n="39" xml:id="spp-371-ROGP-line-39"> What is't that you or I've to say,</l><l n="40" xml:id="spp-371-ROGP-line-40"> (Who ought for peace and plenty pray.)</l><l n="41" xml:id="spp-371-ROGP-line-41"> Science and art you say at stand are,</l><l n="42" xml:id="spp-371-ROGP-line-42"> How can that be, when you at hand are,</l><l n="43" xml:id="spp-371-ROGP-line-43"> I can't conjecture, for dear Dean,</l><l n="44" xml:id="spp-371-ROGP-line-44"> You hate to see aught that seems clean</l><l n="45" xml:id="spp-371-ROGP-line-45"> Since Cindercola first you courted</l><l n="46" xml:id="spp-371-ROGP-line-46"> And with the youthful damsel sported.</l><l n="47" xml:id="spp-371-ROGP-line-47"> Helsham does truly wit command</l><l n="48" xml:id="spp-371-ROGP-line-48"> And surely writes with sleight of hand;</l><l n="49" xml:id="spp-371-ROGP-line-49"> For Sherry's quibbles and thy skill</l><l n="50" xml:id="spp-371-ROGP-line-50"> They are as once, and <hi rend="underline">idem</hi> still.</l><l n="51" xml:id="spp-371-ROGP-line-51"> Since I'm Apollo styled by you,</l><l n="52" xml:id="spp-371-ROGP-line-52"> Whene'er I 'gin, you should pursue</l><l n="53" xml:id="spp-371-ROGP-line-53"> And boldly force the wingéd quill</l><l n="54" xml:id="spp-371-ROGP-line-54"> Unto the utmost bounds of skill,</l><l n="55" xml:id="spp-371-ROGP-line-55"> And never turn upon thy master</l><l n="56" xml:id="spp-371-ROGP-line-56"> Who saved thee from a great disaster.</l><l n="57" xml:id="spp-371-ROGP-line-57"> What's meant by <hi rend="underline">chapon</hi> I can't guess</l><l n="58" xml:id="spp-371-ROGP-line-58"> And making some for idiots pass</l><l n="59" xml:id="spp-371-ROGP-line-59"> Unless i' the answer of his Grace,</l><l n="60" xml:id="spp-371-ROGP-line-60"> Which if right taken, and but good luck hold</l><l n="61" xml:id="spp-371-ROGP-line-61"> By the horned sun, he sure meant cuckold,</l><l n="62" xml:id="spp-371-ROGP-line-62"> Not saying, lest I go too far,</l><l n="63" xml:id="spp-371-ROGP-line-63"> That you an Actaeon was, or are.</l></lg><lg n="3" type="triplet"><l n="64" xml:id="spp-371-ROGP-line-64">Now let's no more caress thy French,&#13;</l><l n="65" xml:id="spp-371-ROGP-line-65"> Nor Cindercola, charming wench!</l><l n="66" xml:id="spp-371-ROGP-line-66"> Lest my mob's mouth, being seldom quiet</l><l n="67" xml:id="spp-371-ROGP-line-67"> Should them ordain for Lenten diet;</l><l n="68" xml:id="spp-371-ROGP-line-68"> Snarlerus next, I'm sure has need</l><l n="69" xml:id="spp-371-ROGP-line-69"> Of prayers, that he might well succeed,</l><l n="70" xml:id="spp-371-ROGP-line-70"> And bravely Precox might oppose<hi rend="underline">Cum multis aliis</hi> (all his foes)</l><l n="71" xml:id="spp-371-ROGP-line-71"> When they're to pull him by the nose,</l><l n="72" xml:id="spp-371-ROGP-line-72"> And by the order of his betters</l><l n="73" xml:id="spp-371-ROGP-line-73"> Have him confined in iron fetters;</l><l n="74" xml:id="spp-371-ROGP-line-74"> Now you've done right, <hi rend="underline">no knight attempting</hi></l><l n="75" xml:id="spp-371-ROGP-line-75"> To oppose the Dean, yourself exempting</l><l n="76" xml:id="spp-371-ROGP-line-76"> Because no──but, black-gowned foe,</l><l n="77" xml:id="spp-371-ROGP-line-77"> As when time serves, you more shall know.371-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

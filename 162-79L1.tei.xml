@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TOLAND'S INto DISMAL,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-162-79L1-footnote-1"/>
+          <link target="#spp-162-79L1-footnote-1 #spp-162-79L1-line-36"/>
+        </linkGrp>
+        <div n="162-79L1" type="poem"><head type="note" n="1" xml:id="spp-162-79L1-headnote-1"><lg n="1" xml:id="spp-162-79L1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-162-79L1-headnote-1-line-group-1-line-1">To dine with the C<hi rend="SMALL-CAPS">ALVES-HEAD </hi>C<hi rend="SMALL-CAPS">LUB</hi> <ref target="#spp-162-79L1-footnote-1">1</ref><note n="1" xml:id="spp-162-79L1-footnote-1" place="foot">This poem, and that which follows it, are two of the <hi rend="underline">penny papers</hi> mentioned in Swift's Journal to Stella, Aug. 7. 1712. They are here printed from folio copies in the Lambeth Library</note>.</l></lg></head><head type="note" n="2" xml:id="spp-162-79L1-headnote-2"><lg n="1" xml:id="spp-162-79L1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-162-79L1-headnote-2-line-group-1-line-1">Imitated from H<hi rend="SMALL-CAPS">ORACE</hi>, lib. I. epist. 5.</l></lg></head><head type="note" n="3" xml:id="spp-162-79L1-headnote-3"><lg n="1" xml:id="spp-162-79L1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-162-79L1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-162-79L1-line-1"><hi rend="display-initial">I</hi>F, dearest Dismal, you for once can dine</l><l n="2" xml:id="spp-162-79L1-line-2"> Upon a single dish, and tavern-wine,</l><l n="3" xml:id="spp-162-79L1-line-3"> Toland to you this invitation sends,</l><l n="4" xml:id="spp-162-79L1-line-4"> To eat the calves-head with your trusty friends.</l><l n="5" xml:id="spp-162-79L1-line-5"> Suspend a while your vain ambitious hopes,</l><l n="6" xml:id="spp-162-79L1-line-6"> Leave hunting after bribes, forget your tropes.</l><l n="7" xml:id="spp-162-79L1-line-7"> To-morrow we our <hi rend="underline">mystic feast</hi> prepare,</l><l n="8" xml:id="spp-162-79L1-line-8"> Where thou, our latest <hi rend="underline">proselyte</hi>, shalt share:</l><l n="9" xml:id="spp-162-79L1-line-9"> When we, by proper signs and symbols, tell,</l><l n="10" xml:id="spp-162-79L1-line-10"> How, by <hi rend="underline">brave hands</hi>, the <hi rend="underline">royal traitor</hi> fell;</l><l n="11" xml:id="spp-162-79L1-line-11"> The meat shall represent the <hi rend="underline">tyrant's</hi> head,</l><l n="12" xml:id="spp-162-79L1-line-12"> The wine his blood <hi rend="underline">our predecessors</hi> shed;</l><l n="13" xml:id="spp-162-79L1-line-13"> Whilst an <hi rend="underline">alluding</hi> hymn some artist sings,</l><l n="14" xml:id="spp-162-79L1-line-14"> We toast, “Confusion to the race of kings!”</l><l n="15" xml:id="spp-162-79L1-line-15"> At monarchy we nobly shew our spight,</l><l n="16" xml:id="spp-162-79L1-line-16"> And talk <hi rend="underline">what fools call treason</hi> all the night.Who, by disgraces or ill-fortune sunk,</l><l n="17" xml:id="spp-162-79L1-line-17"> Feels not his soul enliven'd when he·'s drunk?</l><l n="18" xml:id="spp-162-79L1-line-18"> Wine can clear up Godolphin's cloudy face,</l><l n="19" xml:id="spp-162-79L1-line-19"> And fill Jack Smith with hopes to keep his place:</l><l n="20" xml:id="spp-162-79L1-line-20"> By force of wine, ev'n Scarborough is brave,</l><l n="21" xml:id="spp-162-79L1-line-21"> Hal grows more pert, and Somers not so grave;</l><l n="22" xml:id="spp-162-79L1-line-22"> Wine can give Portland wit, and Cleveland sense,</l><l n="23" xml:id="spp-162-79L1-line-23"> Montague learning, Bolton eloquence:</l><l n="24" xml:id="spp-162-79L1-line-24"> Cholmondeley, when drunk, can never lose his wand;</l><l n="25" xml:id="spp-162-79L1-line-25"> And Lincoln then imagines he has land.My province is, to see that all be right,</l><l n="26" xml:id="spp-162-79L1-line-26"> Glasses and linen clean, and pewter bright;</l><l n="27" xml:id="spp-162-79L1-line-27"> From our <hi rend="underline">mysterious club</hi> to keep out spies,</l><l n="28" xml:id="spp-162-79L1-line-28"> And Tories (dress'd like waiters) in disguise.</l><l n="29" xml:id="spp-162-79L1-line-29"> You shall be coupled as you best approve,</l><l n="30" xml:id="spp-162-79L1-line-30"> Seated at table next the men you love.</l><l n="31" xml:id="spp-162-79L1-line-31"> Sunderland, Orford, Boyle, and Richmond's Grace,</l><l n="32" xml:id="spp-162-79L1-line-32"> Will come; and Hampden shall have Walpole's place.</l><l n="33" xml:id="spp-162-79L1-line-33"> Wharton, unless prevented by a whore,</l><l n="34" xml:id="spp-162-79L1-line-34"> Will hardly fail; and there is room for more.</l><l n="35" xml:id="spp-162-79L1-line-35"> But I love elbow-room whene'er I drink;</l><l n="36" xml:id="spp-162-79L1-line-36"> And honest Harry <ref target="#spp-162-79L1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-162-79L1-footnote-1">Right Hon. Henry Boyle, mentioned twice before.</note> is too apt to stink.Let no pretence of business make you stay;</l><l n="37" xml:id="spp-162-79L1-line-37"> Yet take one word of counsel by the way.</l><l n="38" xml:id="spp-162-79L1-line-38"> If Guernsey calls, send word you·'re gone abroad;</l><l n="39" xml:id="spp-162-79L1-line-39"> He·'ll teaze you with King Charles and Bishop Laud,</l><l n="40" xml:id="spp-162-79L1-line-40"> Or make you fast, and carry you to prayers:</l><l n="41" xml:id="spp-162-79L1-line-41"> But, if he will break-in, and walk up stairs,</l><l n="42" xml:id="spp-162-79L1-line-42"> Steal by the back-door out, and leave him there;</l><l n="43" xml:id="spp-162-79L1-line-43"> Then order Squash to call a hackney-chair.<unclear>NOTES</unclear><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>162-79L1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

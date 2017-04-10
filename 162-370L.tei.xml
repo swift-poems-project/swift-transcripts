@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Toland's Invitation to Dismall to Dine<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="162-370L" type="poem"><head type="note" n="1" xml:id="spp-162-370L-headnote-1"><lg n="1" xml:id="spp-162-370L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-162-370L-headnote-1-line-group-1-line-1">Imitated from Horace Epist 5 lib 1</l></lg></head><head type="note" n="2" xml:id="spp-162-370L-headnote-2"><lg n="1" xml:id="spp-162-370L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-162-370L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-162-370L-headnote-3"><lg n="1" xml:id="spp-162-370L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-162-370L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-162-370L-line-1"> If Dearest Dismall you<unclear>overthou</unclear> for once can dine</l><l n="2" xml:id="spp-162-370L-line-2"> Upon a single Dish &amp; tavern Wine</l><l n="3" xml:id="spp-162-370L-line-3"> Toland to you this Invitation sends</l><l n="4" xml:id="spp-162-370L-line-4"> To eat the Calves Head with your <unclear>t overd</unclear>rusty friends</l><l n="5" xml:id="spp-162-370L-line-5"> Suspend awhile your vain Ambit<unclear>i overh</unclear>ous hopes</l><l n="6" xml:id="spp-162-370L-line-6"> Leave hunting after bribes forgett your tropes</l><l n="7" xml:id="spp-162-370L-line-7"> To morrow we our Mystick Feast prepare</l><l n="8" xml:id="spp-162-370L-line-8"> Where <unclear>th overY</unclear>ou our latest proselite shall share</l><l n="9" xml:id="spp-162-370L-line-9"> When we by proper signs &amp; Symbolls tell</l><l n="10" xml:id="spp-162-370L-line-10"> How by Brave Hands the <hi rend="black-letter">Royall Traitor</hi> fell</l><l n="11" xml:id="spp-162-370L-line-11"> The Meat shall represent the <hi rend="black-letter">Tyrants</hi> head</l><l n="12" xml:id="spp-162-370L-line-12"> The wine his Blood our Predecesso<unclear>u overa</unclear>rs shed</l><l n="13" xml:id="spp-162-370L-line-13"> Whilst an alluding hymn some artist sings</l><l n="14" xml:id="spp-162-370L-line-14"> We toast Confusion to the Race of Kings</l><l n="15" xml:id="spp-162-370L-line-15"> Att monarchy we nobly shew our spight</l><l n="16" xml:id="spp-162-370L-line-16"> And Talk what Fools call treason all the night</l><l n="17" xml:id="spp-162-370L-line-17"> Who by disgraces or ill fortune sunk</l><l n="18" xml:id="spp-162-370L-line-18"> Feels not his soul Enliven'd when he's drunk</l><l n="19" xml:id="spp-162-370L-line-19"> Wine can clear up Godolphins cloudy face</l><l n="20" xml:id="spp-162-370L-line-20"> And fill Jack Smith with hopes to keep his place</l><l n="21" xml:id="spp-162-370L-line-21"> By force of wine e'v'n Scarbor──w is brave</l><l n="22" xml:id="spp-162-370L-line-22"> Hall──·──grows more pert &amp; Somm──rs not so grave</l><l n="23" xml:id="spp-162-370L-line-23"> Wine can give Portland witt &amp; Cleavl──nd sense</l><l n="24" xml:id="spp-162-370L-line-24"> Montag──e learning Bolt──n Eloquence</l><l n="25" xml:id="spp-162-370L-line-25"> Cholml<unclear>y over──</unclear> when drunk can never loose his wand</l><l n="26" xml:id="spp-162-370L-line-26"> And Linc──ln then Imagines he hath Land</l><l n="27" xml:id="spp-162-370L-line-27"> My province is to See that all be right</l><l n="28" xml:id="spp-162-370L-line-28"> Glasses &amp; linnen Clean &amp; pewter bright</l><l n="29" xml:id="spp-162-370L-line-29"> From our misterious club to keep out spies</l><l n="30" xml:id="spp-162-370L-line-30"> And Tories (dre<unclear>hole</unclear> like waiters) in disguise</l><l n="31" xml:id="spp-162-370L-line-31"> You shall be coupled as you best approve</l><l n="32" xml:id="spp-162-370L-line-32"> Seated att Table next the men you love</l><l n="33" xml:id="spp-162-370L-line-33"> Sundel──nd Orf──rd Bo──le &amp; Richm──nds Grace</l><l n="34" xml:id="spp-162-370L-line-34"> Will come, &amp; Hampd──n shall have Walp──les place</l><l n="35" xml:id="spp-162-370L-line-35"> Whart──n (unless prevented by a whore)</l><l n="36" xml:id="spp-162-370L-line-36"> Will Hardly faill, &amp; there is room for more</l><l n="37" xml:id="spp-162-370L-line-37"> but I love Elbow room when ere I drink</l><l n="38" xml:id="spp-162-370L-line-38"> And Honest Harry is too apt to stink</l><l n="39" xml:id="spp-162-370L-line-39"> Let no pretence of business make you stay</l><l n="40" xml:id="spp-162-370L-line-40"> Yet take one word of Counsell by the way</l><l n="41" xml:id="spp-162-370L-line-41"> If Guer<add>n</add>sey call<add>s</add>, send word you're gone abroad</l><l n="42" xml:id="spp-162-370L-line-42"> He'll teaze you with King Charles &amp; Bishop Laud</l><l n="43" xml:id="spp-162-370L-line-43"> Or Make you fast, &amp; carry you to prayers</l><l n="44" xml:id="spp-162-370L-line-44"> But if he will break in &amp; walk up stairs</l><l n="45" xml:id="spp-162-370L-line-45"> Steal by the Back door out &amp; leave him there</l><l n="46" xml:id="spp-162-370L-line-46"> Then order Squash to call a hackney chair</l></lg><lg n="2" type="stanza"><l n="47" xml:id="spp-162-370L-line-47" rend="flush right">Jan' 29 1711/2&#13;<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>162-370L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

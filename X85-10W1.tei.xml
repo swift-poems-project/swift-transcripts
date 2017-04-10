@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A TALE OF A NETTLE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X85-10W1-footnote-1 #spp-X85-10W1-line-18"/>
+        </linkGrp>
+        <div n="X85-10W1" type="poem"><head type="note" n="1" xml:id="spp-X85-10W1-headnote-1"><lg n="1" xml:id="spp-X85-10W1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X85-10W1-headnote-1-line-group-1-line-1">These verses occur on the same paper which contains the foregoing ballad, and are also in the Dean's hand-writing. They relate to the proposed repeal of the Test-act, and may be compared with the “Fable of the Bitches,” p. 417.</l></lg></head><head type="note" n="2" xml:id="spp-X85-10W1-headnote-2"><lg n="1" xml:id="spp-X85-10W1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X85-10W1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X85-10W1-headnote-3"><lg n="1" xml:id="spp-X85-10W1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X85-10W1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X85-10W1-line-1"> A <hi rend="SMALL-CAPS">MAN</hi> with expence and infinite toil,</l><l n="2" xml:id="spp-X85-10W1-line-2"> By digging and dunging, ennobled his soil;</l><l n="3" xml:id="spp-X85-10W1-line-3"> There fruits of the best your taste did invite,</l><l n="4" xml:id="spp-X85-10W1-line-4"> And uniform order still courted the sight.</l><l n="5" xml:id="spp-X85-10W1-line-5"> No degenerate weeds the rich ground produce,</l><l n="6" xml:id="spp-X85-10W1-line-6"> But all things afforded both beauty and use:</l><l n="7" xml:id="spp-X85-10W1-line-7"> Till from dunghill transplanted, while yet but a seed,</l><l n="8" xml:id="spp-X85-10W1-line-8"> A nettle rear'd up his inglorious head.</l><l n="9" xml:id="spp-X85-10W1-line-9"> The gard'ner would wisely have rooted him up,</l><l n="10" xml:id="spp-X85-10W1-line-10"> To stop the increase of a barbarous crop;</l><l n="11" xml:id="spp-X85-10W1-line-11"> But the master forbid him, and after the fashion,</l><l n="12" xml:id="spp-X85-10W1-line-12"> Of foolish good-nature, and blind moderation,</l><l n="13" xml:id="spp-X85-10W1-line-13"> Forbore him through pity, and chose as much rather,</l><l n="14" xml:id="spp-X85-10W1-line-14"> To ask him some questions, first how he came thither.</l><l n="15" xml:id="spp-X85-10W1-line-15"> Kind sir, quoth the nettle, a stranger I come,</l><l n="16" xml:id="spp-X85-10W1-line-16"> For conscience compelled to relinquish my home,</l><l n="17" xml:id="spp-X85-10W1-line-17"> 'Cause I would'nt subscribe to a mystery dark,</l><l n="18" xml:id="spp-X85-10W1-line-18"> That the prince of all trees is the Jesuit's bark,<ref target="#spp-X85-10W1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-X85-10W1-footnote-1">In allusion to the supremacy of Rome.</note></l><l n="19" xml:id="spp-X85-10W1-line-19"> An erroneous tenet I know, sir, that you,</l><l n="20" xml:id="spp-X85-10W1-line-20"> No more than myself, will allow to be true.</l><l n="21" xml:id="spp-X85-10W1-line-21"> To you, I for refuge and sanctuary sue,</l><l n="22" xml:id="spp-X85-10W1-line-22"> There's none so renown'd for compassion as you;</l><l n="23" xml:id="spp-X85-10W1-line-23"> And, though in some things I may differ from these,</l><l n="24" xml:id="spp-X85-10W1-line-24"> The rest of your fruitful and beautiful trees:</l><l n="25" xml:id="spp-X85-10W1-line-25"> Though your digging and dunging, my nature much harms,</l><l n="26" xml:id="spp-X85-10W1-line-26"> And I cannot comply with your garden in forms:</l><l n="27" xml:id="spp-X85-10W1-line-27"> Yet I and my family after our fashion,</l><l n="28" xml:id="spp-X85-10W1-line-28"> Will peaceably stick to our own education.</l><l n="29" xml:id="spp-X85-10W1-line-29"> Be pleased to allow them a place for to rest 'em</l><l n="30" xml:id="spp-X85-10W1-line-30"> For the rest of your trees we will never molest 'em;</l><l n="31" xml:id="spp-X85-10W1-line-31"> A kind shelter to us and protection afford,</l><l n="32" xml:id="spp-X85-10W1-line-32"> We'll do you no harm, Sir, I'll give you my word.</l><l n="33" xml:id="spp-X85-10W1-line-33"> The good man was soon won with this plausible tale,</l><l n="34" xml:id="spp-X85-10W1-line-34"> So fraud on good-nature doth often prevail.</l><l n="35" xml:id="spp-X85-10W1-line-35"> He welcomes his guest, gives him free toleration</l><l n="36" xml:id="spp-X85-10W1-line-36"> In the midst of his garden to take up his station,</l><l n="37" xml:id="spp-X85-10W1-line-37"> And into his breast doth his enemy bring,</l><l n="38" xml:id="spp-X85-10W1-line-38"> He little suspected the nettle could sting.</l><l n="39" xml:id="spp-X85-10W1-line-39"> 'Till flushed with success, and of strength to be feared,</l><l n="40" xml:id="spp-X85-10W1-line-40"> Around him a numerous offspring he reared.</l><l n="41" xml:id="spp-X85-10W1-line-41"> Then the master grew sensible what he had done,</l><l n="42" xml:id="spp-X85-10W1-line-42"> And fain he would have his new guest to be gone;</l><l n="43" xml:id="spp-X85-10W1-line-43"> But now 'twas too late to bid him turn out,</l><l n="44" xml:id="spp-X85-10W1-line-44"> A well-rooted possession already was got.</l><l n="45" xml:id="spp-X85-10W1-line-45"> The old trees decayed, and in their room grew</l><l n="46" xml:id="spp-X85-10W1-line-46"> A stubborn, pestilent, poisonous crew.</l><l n="47" xml:id="spp-X85-10W1-line-47"> The master, who first the young brood had admitted,</l><l n="48" xml:id="spp-X85-10W1-line-48"> They stung like ingrates and left him unpitied.</l><l n="49" xml:id="spp-X85-10W1-line-49"> No help from manuring or planting was found,</l><l n="50" xml:id="spp-X85-10W1-line-50"> The ill weeds had eat out the heart of the ground.</l><l n="51" xml:id="spp-X85-10W1-line-51"> All weeds they let in and none they refuse</l><l n="52" xml:id="spp-X85-10W1-line-52"> That would join to oppose the good man of the house.</l><l n="53" xml:id="spp-X85-10W1-line-53"> Thus one nettle uncropp'd, increased to such store,</l><l n="54" xml:id="spp-X85-10W1-line-54"> That 'twas nothing but weeds what was garden before.<gap/><gap/><gap/><gap/><gap/><gap/>X85-10W1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

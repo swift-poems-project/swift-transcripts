@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="917B45A1" type="poem"><head type="note" n="1" xml:id="spp-917B45A1-headnote-1"><lg n="1" xml:id="spp-917B45A1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-917B45A1-headnote-1-line-group-1-line-1">R<hi rend="SMALL-CAPS">IDDLE</hi> XXX.</l></lg></head><head type="note" n="2" xml:id="spp-917B45A1-headnote-2"><lg n="1" xml:id="spp-917B45A1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-917B45A1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-917B45A1-headnote-3"><lg n="1" xml:id="spp-917B45A1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-917B45A1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-917B45A1-line-1"><hi rend="display-initial">B</hi>ECAUSE I am by Nature blind,</l><l n="2" xml:id="spp-917B45A1-line-2"> I wisely chuse to walk behind;</l><l n="3" xml:id="spp-917B45A1-line-3"> However, to avoid Disgrace,</l><l n="4" xml:id="spp-917B45A1-line-4"> I let no Creature see my Face.</l><l n="5" xml:id="spp-917B45A1-line-5"> My Words are few, but spoke with Sense:</l><l n="6" xml:id="spp-917B45A1-line-6"> And yet my speaking gives Offence:</l><l n="7" xml:id="spp-917B45A1-line-7"> Or, if to whisper I presume,</l><l n="8" xml:id="spp-917B45A1-line-8"> The Company will fly the Ro<gap/></l><l n="9" xml:id="spp-917B45A1-line-9"> By all the World I am opprest,</l><l n="10" xml:id="spp-917B45A1-line-10"> And my Oppression gives them Rest.Through me, tho' sore against my Will,</l><l n="11" xml:id="spp-917B45A1-line-11"> Instructors ev'ry Art instill.</l><l n="12" xml:id="spp-917B45A1-line-12"> By Thousands I am sold and bought,</l><l n="13" xml:id="spp-917B45A1-line-13"> Who neither get nor lose a Groat;</l><l n="14" xml:id="spp-917B45A1-line-14"> For none, alas, by me can gain,</l><l n="15" xml:id="spp-917B45A1-line-15"> But those who give me greatest Pain.</l><l n="16" xml:id="spp-917B45A1-line-16"> Shall Man presume to be my Master,</l><l n="17" xml:id="spp-917B45A1-line-17"> Who's but my Caterer and Taster?</l><l n="18" xml:id="spp-917B45A1-line-18"> Yet though I always have my Will,</l><l n="19" xml:id="spp-917B45A1-line-19"> I'm but a meer Depender still:</l><l n="20" xml:id="spp-917B45A1-line-20"> An humble Hanger-on at best;</l><l n="21" xml:id="spp-917B45A1-line-21"> Of whom all People make a Jest.In me, Detractors seek to find</l><l n="22" xml:id="spp-917B45A1-line-22"> Two Vices of a diff'rent Kind:</l><l n="23" xml:id="spp-917B45A1-line-23"> I'm too profuse, some Cens'rers cry,</l><l n="24" xml:id="spp-917B45A1-line-24"> And all I get, I let it fly:</l><l n="25" xml:id="spp-917B45A1-line-25"> While others give me many a Curse,</l><l n="26" xml:id="spp-917B45A1-line-26"> Because too close I hold my Purse.</l><l n="27" xml:id="spp-917B45A1-line-27"> But this I know, in either Case</l><l n="28" xml:id="spp-917B45A1-line-28"> They dare not charge me to my Face.</l><l n="29" xml:id="spp-917B45A1-line-29"> 'Tis true indeed, sometimes I save,</l><l n="30" xml:id="spp-917B45A1-line-30"> Sometimes run out of all I have;</l><l n="31" xml:id="spp-917B45A1-line-31"> But when the Year is at an End,</l><l n="32" xml:id="spp-917B45A1-line-32"> Computing what I get and spend,</l><l n="33" xml:id="spp-917B45A1-line-33"> My Goings out, and Comings in,</l><l n="34" xml:id="spp-917B45A1-line-34"> I cannot find I lose or win;</l><l n="35" xml:id="spp-917B45A1-line-35"> And therefore all that know me, say</l><l n="36" xml:id="spp-917B45A1-line-36"> I justly keep the middle Way.</l><l n="37" xml:id="spp-917B45A1-line-37"> I'm always by my Betters led;</l><l n="38" xml:id="spp-917B45A1-line-38"> I last get up, and first a-bed;</l><l n="39" xml:id="spp-917B45A1-line-39"> Though, if I rise before my Time,</l><l n="40" xml:id="spp-917B45A1-line-40"> The Learn'd in Sciences sublime,</l><l n="41" xml:id="spp-917B45A1-line-41"> Consult the Stars, and thence foretell</l><l n="42" xml:id="spp-917B45A1-line-42"> Good Luck to those with whom I dwell.917B45A1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

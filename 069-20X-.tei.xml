@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TO THEIR</title>
+        <title>
+          <lb/>
+        </title>
+        <title><hi rend="underline">Lords Justices of</hi> I<hi rend="SMALL-CAPS">RELAND</hi>,</title>
+        <title><hi rend="underline">The Humble Petition of</hi> Frances Harris,</title>
+        <title><hi rend="underline">Who must starve, &amp; die a Maid if it miscarries</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AMP"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-069-20X--footnote-1 #spp-069-20X--line-27"/>
+          <link target="#spp-069-20X--footnote-2 #spp-069-20X--line-28"/>
+        </linkGrp>
+        <div n="069-20X-" type="poem"><head type="note" n="1" xml:id="spp-069-20X--headnote-1"><lg n="1" xml:id="spp-069-20X--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-069-20X--headnote-1-line-group-1-line-1"><hi rend="underline">Anno</hi> 1700.</l></lg></head><head type="note" n="2" xml:id="spp-069-20X--headnote-2"><lg n="1" xml:id="spp-069-20X--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-069-20X--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-069-20X--headnote-3"><lg n="1" xml:id="spp-069-20X--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-069-20X--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-069-20X--line-1"><hi rend="underline">Humbly Sheweth</hi>,</l></lg><lg n="2" type="triplet"><l n="2" xml:id="spp-069-20X--line-2"><hi rend="display-initial">T</hi>Hat I went to warm my self in Lady <hi rend="underline">Betty's</hi> chamber, because I was cold,</l><l n="3" xml:id="spp-069-20X--line-3"> And I had in a Purse, seven Pound four Shillings and six Pence, besides farthings, in Money and Gold;</l><l n="4" xml:id="spp-069-20X--line-4"> So because I had been buying things for my Lady last night,</l><l n="5" xml:id="spp-069-20X--line-5"> I was resolved to tell my Money, to see if it was right:</l><l n="6" xml:id="spp-069-20X--line-6"> Now you know, because my Trunk has a very bad lock,</l><l n="7" xml:id="spp-069-20X--line-7"> Therefore all the Money I have, which, God knows, is a very small stock,</l><l n="8" xml:id="spp-069-20X--line-8"> I keep in my pocket ty'd about my middle, next my smock.</l><l n="9" xml:id="spp-069-20X--line-9"> So when I went to put up my Purse, as God would have it, my smock was unript,</l><l n="10" xml:id="spp-069-20X--line-10"> And, instead of putting it into my pocket, down it slipt:</l><l n="11" xml:id="spp-069-20X--line-11"> Then the Bell rung, and I went down to put my Lady to bed,</l><l n="12" xml:id="spp-069-20X--line-12"> And, God knows, I thought my Money was as safe as my Maidenhead.</l><l n="13" xml:id="spp-069-20X--line-13"> So when I came up again, I found my pocket feel very light,</l><l n="14" xml:id="spp-069-20X--line-14"> But when I search'd, and miss'd my Purse, Lord! I thought I should have sunk outright.</l><l n="15" xml:id="spp-069-20X--line-15"> Lord! Madam, says <hi rend="underline">Mary</hi>, how d'ye do? Indeed, says I, never worse.</l><l n="16" xml:id="spp-069-20X--line-16"> But pray, <hi rend="underline">Mary</hi>, can you tell what I have done with my Purse?</l><l n="17" xml:id="spp-069-20X--line-17"> Lord help me, said <hi rend="underline">Mary</hi>, I never stirr'd out of this place!</l><l n="18" xml:id="spp-069-20X--line-18"> Nay, said I, I had it in Lady <hi rend="underline">Betty</hi>'s chamber, that's a plain case.</l><l n="19" xml:id="spp-069-20X--line-19"> So <hi rend="underline">Mary</hi> got me to bed, and cover'd me up warm,</l><l n="20" xml:id="spp-069-20X--line-20"> However she stole away my Garters, that I might do my self no harm.</l><l n="21" xml:id="spp-069-20X--line-21"> So I tumbl'd and toss'd all night, as you may very well think,</l><l n="22" xml:id="spp-069-20X--line-22"> But hardly ever set my eyes together, or slept a wink.</l><l n="23" xml:id="spp-069-20X--line-23"> So I was a-dream'd, methought, that we went and search'd the folks round,</l><l n="24" xml:id="spp-069-20X--line-24"> And in a corner of Mrs. <hi rend="underline">Dukes</hi>'s box, ty'd in a rag, the Money was found.</l><l n="25" xml:id="spp-069-20X--line-25"> So next morning we told <hi rend="underline">Whittle</hi>, and he fell a swearing;</l><l n="26" xml:id="spp-069-20X--line-26"> Then my Dame <hi rend="underline">Wadgar</hi> came, and she, you know, is thick of hearing;<hi rend="underline">Dame</hi>, said I, as loud as I could bawl, do you know what a loss I have had?</l><l n="27" xml:id="spp-069-20X--line-27"> Nay, said she, my Lord <ref target="#spp-069-20X--footnote-1">1</ref><note place="foot" n="1" xml:id="spp-069-20X--footnote-1"><hi rend="underline">Gallway</hi>.</note><hi rend="underline">Collway</hi>'s folks are all very sad,</l><l n="28" xml:id="spp-069-20X--line-28"> For my Lord <ref target="#spp-069-20X--footnote-2">2</ref><note place="foot" n="2" xml:id="spp-069-20X--footnote-2"><hi rend="underline">Drogheda</hi>.</note><hi rend="underline">Dromedary</hi> comes a tuesday without fail;</l><l n="29" xml:id="spp-069-20X--line-29"> Pugh! said I, but that's not the business that I ail.</l><l n="30" xml:id="spp-069-20X--line-30"> Says <hi rend="underline">Cary</hi>, says he, I have been a Servant this five and twenty years, come Spring,</l><l n="31" xml:id="spp-069-20X--line-31"> And in all the places I liv'd, I never heard of such a thing.</l><l n="32" xml:id="spp-069-20X--line-32"> Yes, says the Steward, I remember when I was at my Lady <hi rend="underline">Shrewsbury</hi>'s,</l><l n="33" xml:id="spp-069-20X--line-33"> Such a thing as this happen'd, just about the time of Goosberries.</l><l n="34" xml:id="spp-069-20X--line-34"> So I went to the party suspected, and I found her full of grief;</l><l n="35" xml:id="spp-069-20X--line-35"> (Now you must know, of all things in the world, I hate a Thief.)</l><l n="36" xml:id="spp-069-20X--line-36"> However, I was resolv'd to bring the discourse slily about:</l><l n="37" xml:id="spp-069-20X--line-37"> Mrs. <hi rend="underline">Dukes</hi>, said I, here's an ugly accident has happen'd out;</l><l n="38" xml:id="spp-069-20X--line-38"> 'Tis not that I value the Money three skips of a Louse;</l><l n="39" xml:id="spp-069-20X--line-39"> But the thing I stand upon, is the credit of the House;</l><l n="40" xml:id="spp-069-20X--line-40"> 'Tis true, seven Pounds, four Shillings, and six pence, makes a great hole in my Wages,</l><l n="41" xml:id="spp-069-20X--line-41"> Besides, as they say, Service is no inheritance in these Ages.</l><l n="42" xml:id="spp-069-20X--line-42"> Now, Mrs. <hi rend="underline">Dukes</hi>, you know, and every body unsterstands,</l><l n="43" xml:id="spp-069-20X--line-43"> That tho' 'tis hard to judge, yet money can't go without hands.</l><l n="44" xml:id="spp-069-20X--line-44"> The Devil take me, said she, (blessing her self) if I ever saw't!</l><l n="45" xml:id="spp-069-20X--line-45"> So she roar'd like a Beldam, as tho' I had call'd her all to naught?</l><l n="46" xml:id="spp-069-20X--line-46"> So, you know, what could I say to her any more,</l><l n="47" xml:id="spp-069-20X--line-47"> I e'en left her, and came away as wise as I was before.</l><l n="48" xml:id="spp-069-20X--line-48"> Well: But then they would have had me gone to the Cunning Man;</l><l n="49" xml:id="spp-069-20X--line-49"> No, said I, 'tis the same thing, the Chaplain will be here anon.</l><l n="50" xml:id="spp-069-20X--line-50"> So the Chaplain came in; now the Servants say, he is my Sweet-heart,</l><l n="51" xml:id="spp-069-20X--line-51"> Because he's always in my Chamber, and I always take his part;</l><l n="52" xml:id="spp-069-20X--line-52"> So, as the Devil would have it, before I was aware, out I blunder'd,</l><l n="53" xml:id="spp-069-20X--line-53"> Parson, said I, can you cast a Nativity, when a Body's plunder'd?</l><l n="54" xml:id="spp-069-20X--line-54"> (Now you must know, he hates to be call'd Parson, like the Devil.)</l><l n="55" xml:id="spp-069-20X--line-55"> Truly, says he, Mrs. <hi rend="underline">Nab</hi>, it might become you to be more civil:</l><l n="56" xml:id="spp-069-20X--line-56"> If your Money be gone, as a learned Divine says, d'ye see,</l><l n="57" xml:id="spp-069-20X--line-57"> You are no Text for my handling, so take that from me:</l><l n="58" xml:id="spp-069-20X--line-58"> I was never taken for a Conjurer before, I'd have you to know.</l><l n="59" xml:id="spp-069-20X--line-59"> Lord, said I, don't be angry; I am sure I never thought you so;</l><l n="60" xml:id="spp-069-20X--line-60"> You know, I honour the Cloth, I design to be a Parson's Wife,</l><l n="61" xml:id="spp-069-20X--line-61"> I never took one in your coat for a Conjurer in all my life.</l><l n="62" xml:id="spp-069-20X--line-62"> With that, he twisted his Girdle at me like a rope, as who should say,</l><l n="63" xml:id="spp-069-20X--line-63"> Now you may go hang your self for me, and so went away.</l><l n="64" xml:id="spp-069-20X--line-64"> Well, I thought I should have swoon'd; Lord, said I, what shall I do?</l><l n="65" xml:id="spp-069-20X--line-65"> I have lost my Money, and shall lose my True-Love too.</l><l n="66" xml:id="spp-069-20X--line-66"> Then my Lord call'd me; <hi rend="underline">Harry</hi>, said my Lord, don't cry,</l><l n="67" xml:id="spp-069-20X--line-67"> I'll give something towards thy loss; and says my Lady, so will I.</l><l n="68" xml:id="spp-069-20X--line-68"> Oh but, said I, what if after all my Chaplain won't come to?</l><l n="69" xml:id="spp-069-20X--line-69"> For that, he said (an't please your Excellencies) I must petition you.</l></lg><lg n="3" type="stanza"><l n="70" xml:id="spp-069-20X--line-70">The Premises tenderly consider'd, I desire your Excellencies Protection,&#13;</l><l n="71" xml:id="spp-069-20X--line-71"> And that I may have a share in next Sunday's Collection:</l><l n="72" xml:id="spp-069-20X--line-72"> And over and above, that I may have your Excellencies Letter,</l><l n="73" xml:id="spp-069-20X--line-73"> With an Order for the Chaplain aforesaid; or, instead of him, a better:</l><l n="74" xml:id="spp-069-20X--line-74"> And then your poor Petitioner, both night and day,</l><l n="75" xml:id="spp-069-20X--line-75"> Or the Chaplain (for 'tis his trade) as in Duty bound, shall ever Pray.069-20X-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-553K167R-footnote-1 #spp-553K167R-line-21"/>
+        </linkGrp>
+        <div n="553K167R" type="poem"><head type="note" n="1" xml:id="spp-553K167R-headnote-1"><lg n="1" xml:id="spp-553K167R-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-553K167R-headnote-1-line-group-1-line-1">\note at foot of p. 15:\ This is so different from “(Verses on the Death of D<hi rend="sup">r</hi> S.) in <hi rend="underline">Fawkener</hi> the Irish Bookseller's Edition 8 vol<hi rend="sup">s</hi> 08. that there is no altering it. so as to make it at all y<hi rend="sup">e</hi> same.</l></lg></head><head type="note" n="2" xml:id="spp-553K167R-headnote-2"><lg n="1" xml:id="spp-553K167R-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-553K167R-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-553K167R-headnote-3"><lg n="1" xml:id="spp-553K167R-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-553K167R-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-553K167R-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> “··· ···· ······· ··· ···· ··· ·····&#13;</l><l n="2" xml:id="spp-553K167R-line-2"> “··· ·· ····· ····· ···· ·······</l><l n="3" xml:id="spp-553K167R-line-3"> “··· ·· ···· ····· ··· ····· ········</l><l n="4" xml:id="spp-553K167R-line-4"> “·· ····· ···· ···· ····· ······ ······</l><l n="5" xml:id="spp-553K167R-line-5"> “···· ···· ··· ······ ···· ·· ······</l><l n="6" xml:id="spp-553K167R-line-6"> “···· ··· ··· ····· ····· ···· ······<gap/><gap/></l><l n="7" xml:id="spp-553K167R-line-7"> ··· ···· ·uffolk ·· ·· ······</l><l n="8" xml:id="spp-553K167R-line-8"> ···· ········ ·· ·· the Queen</l><l n="9" xml:id="spp-553K167R-line-9"> The Queen ·· ········· ···· ··· ····<gap/></l><l n="10" xml:id="spp-553K167R-line-10"> He's dead you say, then let him rot</l><l n="11" xml:id="spp-553K167R-line-11"> I'm glad the Medals were forgot.</l><l n="12" xml:id="spp-553K167R-line-12"> I <hi rend="underline">promis'd</hi> him I own, but <hi rend="underline">when</hi>?</l><l n="13" xml:id="spp-553K167R-line-13"> I only was the <hi rend="underline">Princess</hi> then;</l><l n="14" xml:id="spp-553K167R-line-14"> But now as <hi rend="underline">Consort</hi> of a <hi rend="underline">King</hi></l><l n="15" xml:id="spp-553K167R-line-15"> You know 'tis quite a different Thing.··· ········· ·· Sir Robert's ·······<gap/><gap/></l><l n="16" xml:id="spp-553K167R-line-16"> ······ Bob· ··· ····· ··· ··· ····:<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l><l n="17" xml:id="spp-553K167R-line-17"> ······ ······ ····· ·· ··· · ·····</l></lg><lg n="2" type="stanza"><l n="18" xml:id="spp-553K167R-line-18">Here are eighteen Lines wanting. “<hi rend="underline">Here's Wolston's Tracts</hi></l></lg><lg n="3" type="stanza"><l n="19" xml:id="spp-553K167R-line-19">&amp;c.&#13;<gap/><gap/><gap/></l><l n="20" xml:id="spp-553K167R-line-20"> · ···· ··· ······· ·· ···· ·····</l></lg><lg n="4" type="stanza"><l n="21" xml:id="spp-553K167R-line-21">*The four Lines at y<hi rend="sup">e</hi> bottom of y<hi rend="sup">e</hi> Page to come in here.<ref target="#spp-553K167R-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-553K167R-footnote-1">And while They toss my Name about,_With Favour some, and some without,_One quite indiff'rent in the Cause,_My Character impartial draws.</note><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l><l n="22" xml:id="spp-553K167R-line-22"> ········ ··· ········ ···· ··· ·obert?<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>553K167R   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>VERSES</title>
+        <title><hi rend="underline">made for Women who cry</hi></title>
+        <title><hi rend="underline">Apples</hi>, &amp;c.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="952BWILH" type="poem"><head type="note" n="1" xml:id="spp-952BWILH-headnote-1"><lg n="1" xml:id="spp-952BWILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-952BWILH-headnote-1-line-group-1-line-1">ONYONS.</l></lg></head><head type="note" n="2" xml:id="spp-952BWILH-headnote-2"><lg n="1" xml:id="spp-952BWILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-952BWILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-952BWILH-headnote-3"><lg n="1" xml:id="spp-952BWILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-952BWILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-952BWILH-line-1"><hi rend="display-initial">C</hi>OME, follow me by the Smell,</l><l n="2" xml:id="spp-952BWILH-line-2"> Here's delicate Onyons to sell,</l><l n="3" xml:id="spp-952BWILH-line-3"> I promise to use you well.</l><l n="4" xml:id="spp-952BWILH-line-4"> They make the Blood warmer,</l><l n="5" xml:id="spp-952BWILH-line-5"> You'll feed like a Farmer:</l><l n="6" xml:id="spp-952BWILH-line-6"> For this is ev'ry Cook's Opinion,</l><l n="7" xml:id="spp-952BWILH-line-7"> No sav'ry Dish without an Onyon;</l><l n="8" xml:id="spp-952BWILH-line-8"> But lest your Kissing should be spoyl'd,</l><l n="9" xml:id="spp-952BWILH-line-9"> Your Onyons must be th'roughly boyl'd;Or else you may spareYour Mistress a Share,</l><l n="10" xml:id="spp-952BWILH-line-10"> The Secret will never be known;She cannot discoverThe Breath of her Lover,</l><l n="11" xml:id="spp-952BWILH-line-11"> But think it as sweet as her own.952BWILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

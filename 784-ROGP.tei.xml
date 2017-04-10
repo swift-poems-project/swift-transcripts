@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">Tom Mullinex and Dick</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="784-ROGP" type="poem"><head type="note" n="1" xml:id="spp-784-ROGP-headnote-1"><lg n="1" xml:id="spp-784-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-784-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-784-ROGP-headnote-2"><lg n="1" xml:id="spp-784-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-784-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-784-ROGP-headnote-3"><lg n="1" xml:id="spp-784-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-784-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-784-ROGP-line-1"> Tom and Dick had equal fame,&#13;And both had equal knowledge;</l><l n="2" xml:id="spp-784-ROGP-line-2"> Tom could write and spell his name,But Dick had seen a college.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-784-ROGP-line-3">Dick a coxcomb, Tom was mad,&#13;And both alike diverting,</l><l n="4" xml:id="spp-784-ROGP-line-4"> Tom was held the merrier lad,But Dick the best at farting.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-784-ROGP-line-5">Dick would cock his nose in scorn,&#13;But Tom was kind and loving;</l><l n="6" xml:id="spp-784-ROGP-line-6"> Tom a footboy bred and born,But Dick was from an oven.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-784-ROGP-line-7">Dick could neatly dance a jig,&#13;But Tom was best at borees;</l><l n="8" xml:id="spp-784-ROGP-line-8"> Tom would pray for every Whig,And Dick curse all the Tories.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-784-ROGP-line-9">Dick would make a woeful noise,&#13;And scold at an election;</l><l n="10" xml:id="spp-784-ROGP-line-10"> Tom huzza'd the blackguard boys,And held them in subjection.</l></lg><lg n="6" type="stanza"><l n="11" xml:id="spp-784-ROGP-line-11">Tom could move with lordly grace,&#13;Dick nimbly skip the gutter;</l><l n="12" xml:id="spp-784-ROGP-line-12"> Tom could talk with solemn face,But Dick could better sputter.</l></lg><lg n="7" type="stanza"><l n="13" xml:id="spp-784-ROGP-line-13">Dick was come to high renown&#13;Since he commenced physician;</l><l n="14" xml:id="spp-784-ROGP-line-14"> Tom was held by all the townThe deeper politician.</l><l n="15" xml:id="spp-784-ROGP-line-15"> Tom had the genteeler swing,His hat could nicely put on;</l><l n="16" xml:id="spp-784-ROGP-line-16"> Dick knew better how to swingHis cane upon a button.</l></lg><lg n="8" type="stanza"><l n="17" xml:id="spp-784-ROGP-line-17">Dick for repartee was fit,&#13;And Tom for deep discerning;</l><l n="18" xml:id="spp-784-ROGP-line-18"> Dick was thought the brighter wit,But Tom had better learning.</l></lg><lg n="9" type="stanza"><l n="19" xml:id="spp-784-ROGP-line-19">Dick with zealous no's and aye's,&#13;Could roar as loud as Stentor;</l><l n="20" xml:id="spp-784-ROGP-line-20"> In the House 'tis all he says;But Tom is eloquenter.784-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

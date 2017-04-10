@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Peg Radcliffe, <hi rend="underline">the Hostess's Invitation</hi></title>
+        <title><hi rend="underline">to the Rev. Dr. </hi>Swift<hi rend="underline">, D.S.P.D. Written</hi></title>
+        <title>
+          <hi rend="underline">with a design to be Spoken by her on his arri-</hi>
+        </title>
+        <title><hi rend="underline">val at </hi>Glassnevin<hi rend="underline">. Doctor </hi>Delany<hi rend="underline"> hav-</hi></title>
+        <title><hi rend="underline">ing Complimented him with a House there</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X49-35FF" type="poem"><head type="note" n="1" xml:id="spp-X49-35FF-headnote-1"><lg n="1" xml:id="spp-X49-35FF-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X49-35FF-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X49-35FF-headnote-2"><lg n="1" xml:id="spp-X49-35FF-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X49-35FF-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X49-35FF-headnote-3"><lg n="1" xml:id="spp-X49-35FF-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X49-35FF-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-X49-35FF-line-1"><hi rend="display-initial">T</hi>HO' the name of this place, may make you to frown,</l><l n="2" xml:id="spp-X49-35FF-line-2"> Your Deanship is welcome to <hi rend="underline">Glassnevin</hi> Town;</l><l n="3" xml:id="spp-X49-35FF-line-3"> A Glass and no Wine, to a Man of your Taste,</l><l n="4" xml:id="spp-X49-35FF-line-4"> Alas! is enough Sir, to break it in haste:</l><l n="5" xml:id="spp-X49-35FF-line-5"> Be that as it will, your presence can't fail,</l><l n="6" xml:id="spp-X49-35FF-line-6"> To yield great delight in drinking our Ale;</l><l n="7" xml:id="spp-X49-35FF-line-7"> Would you but vouchsafe a mug to partake,</l><l n="8" xml:id="spp-X49-35FF-line-8"> And as we can Brew, believe we can Bake;</l><l n="9" xml:id="spp-X49-35FF-line-9"> The Life, and the Pleasure, we now from you hope,</l><l n="10" xml:id="spp-X49-35FF-line-10"> The fam'd <hi rend="underline">Violante</hi> can't show on the Rope;</l><l n="11" xml:id="spp-X49-35FF-line-11"> Your genius and talents out-do, even <hi rend="underline">Pope</hi>.</l><l n="12" xml:id="spp-X49-35FF-line-12"> Then while Sir, you live at <hi rend="underline">Glassnevin</hi> and find,</l><l n="13" xml:id="spp-X49-35FF-line-13"> The benefit wish'd you, by friends who are kind;</l><l n="14" xml:id="spp-X49-35FF-line-14"> One night in the Week Sir, your favour bestow,</l><l n="15" xml:id="spp-X49-35FF-line-15"> To drink with <hi rend="underline">Delany</hi> and others you know:</l><l n="16" xml:id="spp-X49-35FF-line-16"> They constantly meet at <hi rend="underline">Peg Radcliffe</hi>'s together,</l><l n="17" xml:id="spp-X49-35FF-line-17"> Talk over the news of the Town, and the Weather;</l><l n="18" xml:id="spp-X49-35FF-line-18"> Reflect on mishaps, in Church and in State,</l><l n="19" xml:id="spp-X49-35FF-line-19"> Digest many things, as well as good Meat;</l><l n="20" xml:id="spp-X49-35FF-line-20"> And club each alike, that no one may treat.</l><l n="21" xml:id="spp-X49-35FF-line-21"> This, if you will grant, without Coach or Chair,</l><l n="22" xml:id="spp-X49-35FF-line-22"> You may in a trice, cross the way, and be there;</l><l n="23" xml:id="spp-X49-35FF-line-23"> For <hi rend="underline">Peg</hi> is your neighbour, as well as <hi rend="underline">Delany</hi>,</l><l n="24" xml:id="spp-X49-35FF-line-24"> An Housewifely woman, full pleasing to any.X49-35FF   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

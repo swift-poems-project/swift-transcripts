@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>OYSTERS.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="952C0802" type="poem"><head type="note" n="1" xml:id="spp-952C0802-headnote-1"><lg n="1" xml:id="spp-952C0802-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-952C0802-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-952C0802-headnote-2"><lg n="1" xml:id="spp-952C0802-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-952C0802-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-952C0802-headnote-3"><lg n="1" xml:id="spp-952C0802-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-952C0802-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-952C0802-line-1"><hi rend="display-initial">C</hi>HARMING Oysters I cry,My Masters come buy;So plump and so fresh,So sweet is their Flesh,No <hi rend="underline">Colchester</hi> OysterIs sweeter and moister;Your Stomach they settle,And rouse up your Mettle;They'll make you a DadOf a Lass or a Lad;And, Madam your WifeThey'll please to the Life;</l><l n="2" xml:id="spp-952C0802-line-2"> Be she barren, be she old,</l><l n="3" xml:id="spp-952C0802-line-3"> Be she Slut, or be she Scold,</l><l n="4" xml:id="spp-952C0802-line-4"> Eat my Oysters, and lie near her,</l><l n="5" xml:id="spp-952C0802-line-5"> She'll be fruitful, never fear her.952C0802   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

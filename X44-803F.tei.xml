@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A</title>
+        <title>True and faithful Inventory of</title>
+        <title>the Goods, belonging to D<hi rend="sup">r</hi> Swift,</title>
+        <title>upon lending his House to the B──p<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X44-803F" type="poem"><head type="note" n="1" xml:id="spp-X44-803F-headnote-1"><lg n="1" xml:id="spp-X44-803F-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-803F-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X44-803F-headnote-2"><lg n="1" xml:id="spp-X44-803F-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-803F-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X44-803F-headnote-3"><lg n="1" xml:id="spp-X44-803F-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-803F-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X44-803F-line-1"><hi rend="black-letter">An</hi> oaken, broken Elbow-Chair,</l><l n="2" xml:id="spp-X44-803F-line-2"> A Caudle-Cup, without an Ear;</l><l n="3" xml:id="spp-X44-803F-line-3"> A batter'd, shatter'd Ash-Bed-stead,</l><l n="4" xml:id="spp-X44-803F-line-4"> A Box of Deal, without a Lid;</l><l n="5" xml:id="spp-X44-803F-line-5"> A Pair of Tongs; But out of Joint,</l><l n="6" xml:id="spp-X44-803F-line-6"> A back-Sword Poker, without Point,</l><l n="7" xml:id="spp-X44-803F-line-7"> A Pot that's crack'd across, around</l><l n="8" xml:id="spp-X44-803F-line-8"> With an old knotted Garter bound:</l><l n="9" xml:id="spp-X44-803F-line-9"> An Iron Lock, without a Key,</l><l n="10" xml:id="spp-X44-803F-line-10"> A Wig, with hanging, quite grown grey;<gap/><gap/><gap/><gap/></l><l n="11" xml:id="spp-X44-803F-line-11"> A Curtain worn to half a Stripe,</l><l n="12" xml:id="spp-X44-803F-line-12"> A Pair of Bellows without Pipe;</l><l n="13" xml:id="spp-X44-803F-line-13"> A Dish which might good Meat afford once,</l><l n="14" xml:id="spp-X44-803F-line-14"> An Ovid, and an old Concordance;</l><l n="15" xml:id="spp-X44-803F-line-15"> A Bottle-Bottom, wooden Platter,</l><l n="16" xml:id="spp-X44-803F-line-16"> This is for Meal, and That for Water,</l><l n="17" xml:id="spp-X44-803F-line-17"> There likewise is a Copper Skillet,</l><l n="18" xml:id="spp-X44-803F-line-18"> Which runs out as fast as you fill it,</l><l n="19" xml:id="spp-X44-803F-line-19"> A Candlestick, Snuff-Dish and Save-all,</l><l n="20" xml:id="spp-X44-803F-line-20"> And thus, his Household-Goods you have all.</l><l n="21" xml:id="spp-X44-803F-line-21"> These to your Lordship, as a Friend,</l><l n="22" xml:id="spp-X44-803F-line-22"> 'Till you have built, I freely lend;</l><l n="23" xml:id="spp-X44-803F-line-23"> They'll serve your Lordship for a Shift,</l><l n="24" xml:id="spp-X44-803F-line-24"> Why not as well as <hi rend="black-letter">Doctor Swift</hi>.X44-803F   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

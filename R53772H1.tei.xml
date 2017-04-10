@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R53772H1" type="poem"><head type="note" n="1" xml:id="spp-R53772H1-headnote-1"><lg n="1" xml:id="spp-R53772H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-R53772H1-headnote-1-line-group-1-line-1">In the blank cover of a book, the Dean wrote this: “Under two lines <hi rend="underline">ill written, Dec</hi>. 27, 1713.</l></lg></head><head type="note" n="2" xml:id="spp-R53772H1-headnote-2"><lg n="1" xml:id="spp-R53772H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-R53772H1-headnote-2-line-group-1-line-1">“I waked at two this morning with the two above lines in my head, which I had made in my sleep. And I wrote them down in the dark, lest I should forget them. But as the original words, being writ in the dark, may possibly be mistaken by a careless or unskilful transcriber, I shall give a fairer copy, that two such precious lines may not be lost to posterity:</l></lg></head><head type="note" n="3" xml:id="spp-R53772H1-headnote-3"><lg n="1" xml:id="spp-R53772H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-R53772H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-R53772H1-line-1"> “I walk before no man, a hawk in his fist;&#13;</l><l n="2" xml:id="spp-R53772H1-line-2"> “Nor am I a brilliant, whenever I list.”R53772H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

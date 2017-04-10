@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Another.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="401C0253" type="poem"><head type="note" n="1" xml:id="spp-401C0253-headnote-1"><lg n="1" xml:id="spp-401C0253-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-401C0253-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-401C0253-headnote-2"><lg n="1" xml:id="spp-401C0253-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-401C0253-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-401C0253-headnote-3"><lg n="1" xml:id="spp-401C0253-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-401C0253-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-401C0253-line-1"><gap/><gap/><gap/><gap/><hi rend="display-initial">T</hi>HE Church and Clergy here, no doubt,Are very near a-kin;</l><l n="2" xml:id="spp-401C0253-line-2"> Both Weather-beaten are without;And empty both within.401C0253   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

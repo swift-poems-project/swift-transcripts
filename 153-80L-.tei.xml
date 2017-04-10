@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-153-80L--title-1">THE WIDOW AND HER CAT; A FABLE<ref target="#spp-153-80L--footnote-title-1">1</ref><note n="1" xml:id="spp-153-80L--footnote-title-1" place="foot">In Tindal's “Continuation of Rapin,” XVII. 454, \<hi rend="underline">?</hi>\ Fable is said to be by Prior or Swift. In Boyer's “Political State.” 1720, p. 519, where it is <hi rend="underline">applied</hi> to the duke of Marlborough, it is said to be by Swift or Prior. N.</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-153-80L--footnote-title-1 #spp-153-80L--title-1"/>
+          <link target="#spp-153-80L--footnote-1 #spp-153-80L--line-13"/>
+        </linkGrp>
+        <div n="153-80L-" type="poem"><head type="note" n="1" xml:id="spp-153-80L--headnote-1"><lg n="1" xml:id="spp-153-80L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-153-80L--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-153-80L--headnote-2"><lg n="1" xml:id="spp-153-80L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-153-80L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-153-80L--headnote-3"><lg n="1" xml:id="spp-153-80L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-153-80L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-153-80L--line-1"><hi rend="display-initial">A</hi> WIDOW kept a favourite Cat,</l><l n="2" xml:id="spp-153-80L--line-2"> At first a gentle creature;</l><l n="3" xml:id="spp-153-80L--line-3"> But, when he was grown sleek and fat,</l><l n="4" xml:id="spp-153-80L--line-4"> With many a Mouse, and many a Rat,He soon disclos'd his nature.</l><l n="5" xml:id="spp-153-80L--line-5"> The Fox and He were friends of old,Nor could they now be parted;</l><l n="6" xml:id="spp-153-80L--line-6"> They nightly slunk to rob the fold,</l><l n="7" xml:id="spp-153-80L--line-7"> Devour'd the Lambs, the fleeces sold;And Puss grew lion-hearted.</l><l n="8" xml:id="spp-153-80L--line-8"> He scratch'd her maid, he stole the cream,He tore her best lac'd pinner;</l><l n="9" xml:id="spp-153-80L--line-9"> Nor Chanticleer upon the beam,</l><l n="10" xml:id="spp-153-80L--line-10"> Nor Chick, nor Duckling, 'scapes, when GrimInvites the Fox to dinner.</l><l n="11" xml:id="spp-153-80L--line-11"> The Dame full wisely did decree,For fear he should dispatch more,</l><l n="12" xml:id="spp-153-80L--line-12"> That the false wretch should worried be;</l><l n="13" xml:id="spp-153-80L--line-13"> But in a saucy manner heThus speech'd it like a Lechmere<ref target="#spp-153-80L--footnote-1">1</ref><note place="foot" n="1" xml:id="spp-153-80L--footnote-1">The celebrated Lawyer. N.</note>:</l><l n="14" xml:id="spp-153-80L--line-14"> “Must I, against all right and law,“Like Pole-cat vile be treated?</l><l n="15" xml:id="spp-153-80L--line-15"> “I! who so long with tooth and claw</l><l n="16" xml:id="spp-153-80L--line-16"> “Have kept domestic Mice in awe,“And foreign foes defeated!</l><l n="17" xml:id="spp-153-80L--line-17"> “Your golden-pippins, and your pies,“How oft have I defended!</l><l n="18" xml:id="spp-153-80L--line-18"> “'Tis true, the pinner which you prize</l><l n="19" xml:id="spp-153-80L--line-19"> “I tore in frolick; to your eyes“I never harm intended.</l><l n="20" xml:id="spp-153-80L--line-20"> “I am a Cat of honour.”──“Stay!”Quoth she, “no longer parley;</l><l n="21" xml:id="spp-153-80L--line-21"> “Whate'er you did in battle slay,</l><l n="22" xml:id="spp-153-80L--line-22"> “By law of arms became your prey:“I hope you won it fairly.</l><l n="23" xml:id="spp-153-80L--line-23"> “Of this we'll grant you stand acquit,“But not of your outrages:</l><l n="24" xml:id="spp-153-80L--line-24"> “Tell me, Perfidious! was it fit</l><l n="25" xml:id="spp-153-80L--line-25"> “To make my cream a perquisite,“And steal, to mend your wages?</l><l n="26" xml:id="spp-153-80L--line-26"> “So flagrant is thy insolence,“So vile thy breach of trust is,</l><l n="27" xml:id="spp-153-80L--line-27"> “That longer with thee to dispense,</l><l n="28" xml:id="spp-153-80L--line-28"> “Were want of power, or want of sense──“Here, Towzer!──do him justice.”153-80L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

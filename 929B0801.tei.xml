@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ANOTHER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="929B0801"><head type="note" n="1" xml:id="spp-929B0801-headnote-1"><lg n="1" xml:id="spp-929B0801-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-929B0801-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-929B0801-headnote-2"><lg n="1" xml:id="spp-929B0801-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-929B0801-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-929B0801-headnote-3"><lg n="1" xml:id="spp-929B0801-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-929B0801-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-929B0801-line-1"><hi rend="display-initial">I</hi> AM jet-Black, as you may see,</l><l/><l n="2" xml:id="spp-929B0801-line-2">The Son of Pitch, and gloomy Night;</l><l/><l n="3" xml:id="spp-929B0801-line-3">Yet all that know me will agree,</l><l/><l n="4" xml:id="spp-929B0801-line-4">I'm dead except I live in Light.</l><l/><l n="5" xml:id="spp-929B0801-line-5"/></lg><lg n="2" type="stanza"><l>Sometimes in Panegyrick high,&#13;</l><l/><l n="6" xml:id="spp-929B0801-line-6">Like lofty <hi rend="underline">Pindar</hi> I can soar,</l><l/><l n="7" xml:id="spp-929B0801-line-7">And raise a Virgin to the Sky,</l><l/><l n="8" xml:id="spp-929B0801-line-8">Or sink her to a pocky Whore.</l><l/><l n="9" xml:id="spp-929B0801-line-9"/></lg><lg n="3" type="stanza"><l>My Blood this Day is very sweet,&#13;</l><l/><l n="10" xml:id="spp-929B0801-line-10">To-morrow of a bitter Juice,</l><l/><l n="11" xml:id="spp-929B0801-line-11">Like Milk 'tis cry'd about the Street,</l><l/><l n="12" xml:id="spp-929B0801-line-12">And so apply'd to diff'rent Use.</l><l/><l n="13" xml:id="spp-929B0801-line-13"/></lg><lg n="4" type="stanza"><l>Most wond'rous is my Magick Power;&#13;</l><l/><l n="14" xml:id="spp-929B0801-line-14">For with one Colour I can paint;</l><l/><l n="15" xml:id="spp-929B0801-line-15">I'll make the Dev'l a Saint this Hour,</l><l/><l n="16" xml:id="spp-929B0801-line-16">Next make a Devil of a Saint.</l><l/><l n="17" xml:id="spp-929B0801-line-17"/></lg><lg n="5" type="stanza"><l>Thro' distant Regions I can fly,&#13;</l><l/><l n="18" xml:id="spp-929B0801-line-18">Provide me but with Paper Wings,</l><l/><l n="19" xml:id="spp-929B0801-line-19">And fairly shew a Reason, why</l><l/><l n="20" xml:id="spp-929B0801-line-20">There shou'd be Quarrels among Kings.</l><l/><l n="21" xml:id="spp-929B0801-line-21"/></lg><lg n="6" type="stanza"><l>And after all you'll think it odd,&#13;</l><l/><l n="22" xml:id="spp-929B0801-line-22">When learned Doctors will dispute,</l><l/><l n="23" xml:id="spp-929B0801-line-23">That I shou'd point the Word of G<hi rend="SMALL-CAPS">OD</hi>,</l><l/><l n="24" xml:id="spp-929B0801-line-24">And shew where they can best confute.</l><l/><l n="25" xml:id="spp-929B0801-line-25"/></lg><lg n="7" type="stanza"><l>Let Lawyers bawl and strain their Throats,&#13;</l><l/><l n="26" xml:id="spp-929B0801-line-26">'Tis I that must the Lands convey,</l><l/><l n="27" xml:id="spp-929B0801-line-27">And strip the Clients to their Coats;</l><l/><l n="28" xml:id="spp-929B0801-line-28">Nay give their very Souls away.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

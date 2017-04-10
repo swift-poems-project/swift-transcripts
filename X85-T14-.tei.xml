@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Tale of a Nettle.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X85-T14-" type="poem"><head type="note" n="1" xml:id="spp-X85-T14--headnote-1"><lg n="1" xml:id="spp-X85-T14--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X85-T14--headnote-1-line-group-1-line-1"><hi rend="underline">Written by a Person of Quality</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-X85-T14--headnote-2"><lg n="1" xml:id="spp-X85-T14--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X85-T14--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X85-T14--headnote-3"><lg n="1" xml:id="spp-X85-T14--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X85-T14--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X85-T14--line-1"><hi rend="display-initial">A</hi> MAN with Expence of wonderful Toil,</l><l n="2" xml:id="spp-X85-T14--line-2"> By Planting and Dunging Enobled his Soil;</l><l n="3" xml:id="spp-X85-T14--line-3"> There <hi rend="underline">Fruits</hi> of the <hi rend="underline">Best</hi> the Taste did invite,</l><l n="4" xml:id="spp-X85-T14--line-4"> And <hi rend="underline">uniform Order</hi> still courted the Sight:</l><l n="5" xml:id="spp-X85-T14--line-5"> No <hi rend="underline">degenerate Weed</hi> the <hi rend="underline">Rich Ground</hi> did produce,</l><l n="6" xml:id="spp-X85-T14--line-6"> And all things afforded both Beauty and Use;</l><l n="7" xml:id="spp-X85-T14--line-7"> Till from·a <hi rend="underline">Dunghill</hi> transplanted, while yet but a Seed,</l><l n="8" xml:id="spp-X85-T14--line-8"> A <hi rend="black-letter">Nettle</hi> rear'd up his Inglorious Head:</l><l n="9" xml:id="spp-X85-T14--line-9"> The <hi rend="underline">Gard'ner</hi> wou'd wisely have rooted him up,</l><l n="10" xml:id="spp-X85-T14--line-10"> To stop the Increase of a Barbarous Crop;</l><l n="11" xml:id="spp-X85-T14--line-11"> But the <hi rend="underline">Master</hi> forbad him, and after the <hi rend="underline">Fashion</hi>,</l><l n="12" xml:id="spp-X85-T14--line-12"> Of foolish good Nature, and blind <hi rend="underline">Moderation</hi>;</l><l n="13" xml:id="spp-X85-T14--line-13"> Forbore him through Pity, and chose as much rather</l><l n="14" xml:id="spp-X85-T14--line-14"> To ask him some Questions first, how he came thither.<hi rend="underline">Kind Sir</hi>, Quoth the <hi rend="black-letter">Nettle</hi>, <hi rend="underline">a Stranger I come,</hi>Jesuits Bark.<hi rend="underline">An Erroneous Tenet, I know, Sir, that you</hi>The good Man was soon won by this plausible Tale,</l><l n="15" xml:id="spp-X85-T14--line-15"> For Conscience compell'd to relinquish my home;</l><l n="16" xml:id="spp-X85-T14--line-16"> 'Cause I wou'd not Subscribe, to a Mystery Dark,</l><l n="17" xml:id="spp-X85-T14--line-17"> That the Prince of all Trees was the </l><l n="18" xml:id="spp-X85-T14--line-18"> Know more than my self will allow to be true;</l><l n="19" xml:id="spp-X85-T14--line-19"> To you I for Refuge and Sanctuary Sue,</l><l n="20" xml:id="spp-X85-T14--line-20"> There's none so renown'd for Compassion as you:</l><l n="21" xml:id="spp-X85-T14--line-21"> And tho' in Some Things I may differ from these</l><l n="22" xml:id="spp-X85-T14--line-22"> The rest of the Faithful and Beautiful Trees;</l><l n="23" xml:id="spp-X85-T14--line-23"> Tho' your Digging and Dunging my Nature much harms,</l><l n="24" xml:id="spp-X85-T14--line-24"> And I cannot comply withe the Gard'ner in Forms;</l><l n="25" xml:id="spp-X85-T14--line-25"> Yet I and our Family, after our Fashion,</l><l n="26" xml:id="spp-X85-T14--line-26"> Will peaceably stick to our own Education:</l><l n="27" xml:id="spp-X85-T14--line-27"> Be pleas'd to allow us a place for to rest in,</l><l n="28" xml:id="spp-X85-T14--line-28"> 'Mongst the rest of your Trees, we'll never molest 'em.</l><l n="29" xml:id="spp-X85-T14--line-29"> A kind Shelter to us, and rotection afford,</l><l n="30" xml:id="spp-X85-T14--line-30"> We'll do you no harm, I'll give you my Word.</l><l n="31" xml:id="spp-X85-T14--line-31"> (So Fraud and good Nature does often prevail.)</l><l n="32" xml:id="spp-X85-T14--line-32"> He welcomes his Guest, gives him free <hi rend="underline">Toleration,</hi> the midst of his Garden to take up his Station;</l><l n="33" xml:id="spp-X85-T14--line-33"> In</l><l n="34" xml:id="spp-X85-T14--line-34"> And into his Bosom do's his Enemy bring,</l><l n="35" xml:id="spp-X85-T14--line-35"> He never suspected the <hi rend="underline">NETTLE</hi> wou'd Sting;</l><l n="36" xml:id="spp-X85-T14--line-36"> Still flush'd with Success of Strength to be fear'd,</l><l n="37" xml:id="spp-X85-T14--line-37"> Around him a numerous Off-spring he rear'd.</l><l n="38" xml:id="spp-X85-T14--line-38"> Then the <hi rend="underline">Master</hi> grew sensible what he had done,</l><l n="39" xml:id="spp-X85-T14--line-39"> And fain wou'd have had his new Guest to be gone;</l><l n="40" xml:id="spp-X85-T14--line-40"> But now 'twas too late to bid him turn out,</l><l n="41" xml:id="spp-X85-T14--line-41"> A well-·rooted Possession already was got;</l><l n="42" xml:id="spp-X85-T14--line-42"> The old Trees decay'd, and in their room grew,</l><l n="43" xml:id="spp-X85-T14--line-43"> A stubborn, rank, pestelent, poysonous Crew.</l><l n="44" xml:id="spp-X85-T14--line-44"> The Master, who first, that young Brood had admitted,</l><l n="45" xml:id="spp-X85-T14--line-45"> They stung like Ingrates, and left him unpitied;</l><l n="46" xml:id="spp-X85-T14--line-46"> No help from Manuring and Planting was found,</l><l n="47" xml:id="spp-X85-T14--line-47" rend="indent(1)"> The Weeds had eat out the Heart of the Ground.<gap/><gap/><hi rend="underline">Thus one </hi>NETTLE<hi rend="underline"> uncropt, rncreas'd to such Store,That 'twas nothing but Weeds, what was Garden before</hi>.<gap/><gap/><gap/><gap/><gap/><gap/></l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

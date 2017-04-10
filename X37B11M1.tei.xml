@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">Dr</hi>. S<hi rend="SMALL-CAPS">WIFT</hi> <hi rend="underline">to Dr</hi>. S<hi rend="SMALL-CAPS">HERIDAN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X37B11M1-footnote-1 #spp-X37B11M1-line-1"/>
+        </linkGrp>
+        <div n="X37B11M1" type="poem"><head type="note" n="1" xml:id="spp-X37B11M1-headnote-1"><lg n="1" xml:id="spp-X37B11M1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X37B11M1-headnote-1-line-group-1-line-1"><hi rend="underline">Dublin, June</hi> 5, 1736.</l></lg></head><head type="note" n="2" xml:id="spp-X37B11M1-headnote-2"><lg n="1" xml:id="spp-X37B11M1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X37B11M1-headnote-2-line-group-1-line-1">As to your Venison, <hi rend="underline">vain is one</hi> who expects it. I am <hi rend="underline">checking</hi> you for your <hi rend="underline">Chicken</hi>, and could <hi rend="underline">lamb</hi> you for your <hi rend="underline">Lambs</hi>.</l></lg></head><head type="note" n="3" xml:id="spp-X37B11M1-headnote-3"><lg n="1" xml:id="spp-X37B11M1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X37B11M1-headnote-3-line-group-1-line-1"><hi rend="underline">Addenda quædam</hi>.</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X37B11M1-line-1" rend="indent(9) indent(2) indent(2) indent(2)"><hi rend="underline">My Wife a rattling,&#13;My Children tattling.My Money spent is,And due my Rent is.My School decreasing,My Income ceasing.All People tease me,But no Man pays me.My Worship is bit,By that Rogue </hi>Nisbit<hi rend="underline">.To take the right Way,Consult Friend </hi>Whiteway<hi rend="underline">.Would you get still more?Go flatter </hi><ref target="#spp-X37B11M1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-X37B11M1-footnote-1">Mr. <hi rend="underline">Josiah Hart</hi>, then Bishop of <hi rend="underline">Kilmore</hi>.</note><hi rend="underline"/>Kilmore<hi rend="underline">.Your Geese are old,Your W──a Scold.</hi> Cavan.X37B11M1   </l><l n="2" xml:id="spp-X37B11M1-line-2"> You live among ill</l><l n="3" xml:id="spp-X37B11M1-line-3"> Folks in a Dunghil,</l><l n="4" xml:id="spp-X37B11M1-line-4"> You never have an</l><l n="5" xml:id="spp-X37B11M1-line-5"> old Friend at</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

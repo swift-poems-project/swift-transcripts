@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CORINNA. 1712.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="149-79L1" type="poem"><head type="note" n="1" xml:id="spp-149-79L1-headnote-1"><lg n="1" xml:id="spp-149-79L1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-149-79L1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-149-79L1-headnote-2"><lg n="1" xml:id="spp-149-79L1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-149-79L1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-149-79L1-headnote-3"><lg n="1" xml:id="spp-149-79L1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-149-79L1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-149-79L1-line-1"><hi rend="display-initial">T</hi>HIS day (the year I dare not tell)Apollo play'd the midwife's part;</l><l n="2" xml:id="spp-149-79L1-line-2"> Into the world Corinna fell,And he endow'd her with his art.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-149-79L1-line-3">But Cupid with a Satyr comes;&#13;Both softly to the cradle creep;</l><l n="4" xml:id="spp-149-79L1-line-4"> Both stroke her hands, and rub her gums,While the poor child lay fast sleep.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-149-79L1-line-5">Then Cupid thus: This litle maid&#13;Of Love shall always speak and write.</l><l n="6" xml:id="spp-149-79L1-line-6"> And I pronounce (the Satyr said)The world shall feel her scratch, and bite.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-149-79L1-line-7">Her talent she display'd betimes;&#13;For in twice twelve revolving moons,</l><l n="8" xml:id="spp-149-79L1-line-8"> She seem'd to laugh and squall in rhymes,And all her gestures were lampoons.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-149-79L1-line-9">At six years old the subtle jade&#13;Stole to the pantry-door, and found</l><l n="10" xml:id="spp-149-79L1-line-10"> The butler with my lady's maid:And you may swear the tale went round.</l></lg><lg n="6" type="stanza"><l n="11" xml:id="spp-149-79L1-line-11">She made a song, how little miss&#13;Was kiss'd and slobber'd by a lad:</l><l n="12" xml:id="spp-149-79L1-line-12"> And how when master went to p──,Miss came, and peep'd at all he had.</l></lg><lg n="7" type="stanza"><l n="13" xml:id="spp-149-79L1-line-13">At twelve a wit and a coquette;&#13;Marries for love, half whore, half wife.</l><l n="14" xml:id="spp-149-79L1-line-14"> Cuckolds, elopes, and runs in debt;Turns authoress, and is Curll's for life.<gap/><gap/><gap/><gap/>149-79L1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

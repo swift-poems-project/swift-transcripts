@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>By the Same hand</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="262-500C" type="poem"><head type="note" n="1" xml:id="spp-262-500C-headnote-1"><lg n="1" xml:id="spp-262-500C-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-262-500C-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-262-500C-headnote-2"><lg n="1" xml:id="spp-262-500C-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-262-500C-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-262-500C-headnote-3"><lg n="1" xml:id="spp-262-500C-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-262-500C-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-262-500C-line-1"> A Bard on whom Phebus his Spirit bestow'd&#13;</l><l n="2" xml:id="spp-262-500C-line-2"> Resolved to acknowledge the bounty he ow'd</l><l n="3" xml:id="spp-262-500C-line-3"> Found out a new method at once of confessing</l><l n="4" xml:id="spp-262-500C-line-4"> And making y<hi rend="sup">e</hi> most of so mighty a blessing</l><l n="5" xml:id="spp-262-500C-line-5"> To y<hi rend="sup">e</hi> God he'd be Gratefull but mortalls he'd chouse</l><l n="6" xml:id="spp-262-500C-line-6"> By making his Patron preside in his house</l><l n="7" xml:id="spp-262-500C-line-7"> And wisely fore·saw this Advantage from thence</l><l n="8" xml:id="spp-262-500C-line-8"> That y<hi rend="sup">e</hi> God must in honour bare half y<hi rend="sup">e</hi> Expence</l><l n="9" xml:id="spp-262-500C-line-9"> So y<hi rend="sup">e</hi> bard he finds Drink and leaves Phoebus to treat</l><l n="10" xml:id="spp-262-500C-line-10"> with y<hi rend="sup">e</hi> thoughts he Inspires regardles of meat</l><l n="11" xml:id="spp-262-500C-line-11"> Hence they that come hither Expecting to Dine</l><l n="12" xml:id="spp-262-500C-line-12"> Are allways fobb'd off with Sheer Witt and Sheer wine262-500C   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

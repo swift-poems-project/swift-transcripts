@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">A Description of the Morning</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="124-ROGP" type="poem"><head type="note" n="1" xml:id="spp-124-ROGP-headnote-1"><lg n="1" xml:id="spp-124-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-124-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-124-ROGP-headnote-2"><lg n="1" xml:id="spp-124-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-124-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-124-ROGP-headnote-3"><lg n="1" xml:id="spp-124-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-124-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-124-ROGP-line-1"> Now hardly here and there a hackney coach&#13;</l><l n="2" xml:id="spp-124-ROGP-line-2"> Appearing, showed the ruddy morn's approach.</l><l n="3" xml:id="spp-124-ROGP-line-3"> Now Betty from her master's bed has flown,</l><l n="4" xml:id="spp-124-ROGP-line-4"> And softly stole to discompose her own.</l><l n="5" xml:id="spp-124-ROGP-line-5"> The slipshod prentice from his master's door</l><l n="6" xml:id="spp-124-ROGP-line-6"> Had pared the dirt, and sprinkled round the floor.</l><l n="7" xml:id="spp-124-ROGP-line-7"> Now Moll had whirled her mop with dexterous airs,</l><l n="8" xml:id="spp-124-ROGP-line-8"> Prepared to scrub the entry and the stairs.</l><l n="9" xml:id="spp-124-ROGP-line-9"> The youth with broomy stumps began to trace</l><l n="10" xml:id="spp-124-ROGP-line-10"> The kennel-edge, where wheels had worn the place.</l><l n="11" xml:id="spp-124-ROGP-line-11"> The smallcoal man was heard with cadence deep;</l><l n="12" xml:id="spp-124-ROGP-line-12"> Till drowned in shriller notes of chimney-sweep.</l><l n="13" xml:id="spp-124-ROGP-line-13"> Duns at his Lordship's gate began to meet;</l><l n="14" xml:id="spp-124-ROGP-line-14"> And Brickdust Moll had screamed through half a street.</l><l n="15" xml:id="spp-124-ROGP-line-15"> The turnkey now his flock returning sees,</l><l n="16" xml:id="spp-124-ROGP-line-16"> Duly let out a-nights to steal for fees.</l><l n="17" xml:id="spp-124-ROGP-line-17"> The watchful bailiffs take their silent stands;</l><l n="18" xml:id="spp-124-ROGP-line-18"> And schoolboys lag with satchels in their hands.124-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

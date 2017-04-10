@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">To Lord Harley, since Earl of Oxford, on His Marriage</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="176-ROGP" type="poem"><head type="note" n="1" xml:id="spp-176-ROGP-headnote-1"><lg n="1" xml:id="spp-176-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-176-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-176-ROGP-headnote-2"><lg n="1" xml:id="spp-176-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-176-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-176-ROGP-headnote-3"><lg n="1" xml:id="spp-176-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-176-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-176-ROGP-line-1"> Among the numbers who employ&#13;</l><l n="2" xml:id="spp-176-ROGP-line-2"> Their tongues and pens to give you joy,</l><l n="3" xml:id="spp-176-ROGP-line-3"> Dear Harley, generous youth, admit</l><l n="4" xml:id="spp-176-ROGP-line-4"> What friendship dictates more than wit.</l></lg><lg n="2" type="stanza"><l n="5" xml:id="spp-176-ROGP-line-5">Forgive me, when I fondly thought&#13;</l><l n="6" xml:id="spp-176-ROGP-line-6"> (By frequent observation taught)</l><l n="7" xml:id="spp-176-ROGP-line-7"> A spirit so informed as yours</l><l n="8" xml:id="spp-176-ROGP-line-8"> Could never prosper in amours.</l><l n="9" xml:id="spp-176-ROGP-line-9"> The god of wit, and light, and arts,</l><l n="10" xml:id="spp-176-ROGP-line-10"> With all acquired and natural parts,</l><l n="11" xml:id="spp-176-ROGP-line-11"> Whose harp could savage beasts enchant,</l><l n="12" xml:id="spp-176-ROGP-line-12"> Was an unfortunate gallant.</l><l n="13" xml:id="spp-176-ROGP-line-13"> Had Bacchus after Daphne reeled,</l><l n="14" xml:id="spp-176-ROGP-line-14"> The nymph had soon been brought to yield;</l><l n="15" xml:id="spp-176-ROGP-line-15"> Or, had embroidered Mars pursued,</l><l n="16" xml:id="spp-176-ROGP-line-16"> The nymph would ne'er have been a prude.</l><l n="17" xml:id="spp-176-ROGP-line-17"> Ten thousand footsteps, full in view,</l><l n="18" xml:id="spp-176-ROGP-line-18"> Mark out the way where Daphne flew.</l><l n="19" xml:id="spp-176-ROGP-line-19"> For such is all the sex's flight,</l><l n="20" xml:id="spp-176-ROGP-line-20"> They fly from learning, wit, and light:</l><l n="21" xml:id="spp-176-ROGP-line-21"> They fly, and none can overtake</l><l n="22" xml:id="spp-176-ROGP-line-22"> But some gay coxcomb, or a rake.</l></lg><lg n="3" type="stanza"><l n="23" xml:id="spp-176-ROGP-line-23">How then, dear Harley, could I guess&#13;</l><l n="24" xml:id="spp-176-ROGP-line-24"> That you should meet, in love, success?</l><l n="25" xml:id="spp-176-ROGP-line-25"> For, if those ancient tales be true,</l><l n="26" xml:id="spp-176-ROGP-line-26"> Phoebus was as beautiful as you:</l><l n="27" xml:id="spp-176-ROGP-line-27"> Yet Daphne never slacked her pace,</l><l n="28" xml:id="spp-176-ROGP-line-28"> For wit and learning spoilt his face.</l><l n="29" xml:id="spp-176-ROGP-line-29"> And, since the same resemblance held</l><l n="30" xml:id="spp-176-ROGP-line-30"> In gifts, wherein you both excelled,</l><l n="31" xml:id="spp-176-ROGP-line-31"> I fancied every nymph would run</l><l n="32" xml:id="spp-176-ROGP-line-32"> From you, as from Latona's son.</l></lg><lg n="4" type="stanza"><l n="33" xml:id="spp-176-ROGP-line-33">Then where, said I, shall Harley find&#13;</l><l n="34" xml:id="spp-176-ROGP-line-34"> A virgin of superior mind,</l><l n="35" xml:id="spp-176-ROGP-line-35"> With wit and virtue to discover,</l><l n="36" xml:id="spp-176-ROGP-line-36"> And pay the merit of her lover?</l></lg><lg n="5" type="stanza"><l n="37" xml:id="spp-176-ROGP-line-37">This character shall Cavendish claim,&#13;</l><l n="38" xml:id="spp-176-ROGP-line-38"> Born to retrieve her sex's fame.</l><l n="39" xml:id="spp-176-ROGP-line-39"> The chief among that glittering crowd,</l><l n="40" xml:id="spp-176-ROGP-line-40"> Of titles, birth, and fortune proud,</l><l n="41" xml:id="spp-176-ROGP-line-41"> (As fools are insolent and vain)</l><l n="42" xml:id="spp-176-ROGP-line-42"> Madly aspired to wear her chain:</l><l n="43" xml:id="spp-176-ROGP-line-43"> But Pallas, guardian of the maid,</l><l n="44" xml:id="spp-176-ROGP-line-44"> Descending to her charge's aid,</l><l n="45" xml:id="spp-176-ROGP-line-45"> Held out Medusa's snaky locks,</l><l n="46" xml:id="spp-176-ROGP-line-46"> Which stupefied them all to stocks.</l><l n="47" xml:id="spp-176-ROGP-line-47"> The nymph, with indignation, viewed</l><l n="48" xml:id="spp-176-ROGP-line-48"> The dull, the noisy, and the lewd:</l><l n="49" xml:id="spp-176-ROGP-line-49"> For Pallas, with celestial light,</l><l n="50" xml:id="spp-176-ROGP-line-50"> Had purified her mortal sight;</l><l n="51" xml:id="spp-176-ROGP-line-51"> Showed her the virtues all combined,</l><l n="52" xml:id="spp-176-ROGP-line-52"> Fresh blooming, in young Harley's mind.</l></lg><lg n="6" type="stanza"><l n="53" xml:id="spp-176-ROGP-line-53">Terrestrial nymphs, by formal arts,&#13;</l><l n="54" xml:id="spp-176-ROGP-line-54"> Display their various nets for hearts:</l><l n="55" xml:id="spp-176-ROGP-line-55"> Their looks are all by method set,</l><l n="56" xml:id="spp-176-ROGP-line-56"> When to be prude, and when coquette;</l><l n="57" xml:id="spp-176-ROGP-line-57"> Yet, wanting skill and power to choose,</l><l n="58" xml:id="spp-176-ROGP-line-58"> Their only pride is to refuse.</l><l n="59" xml:id="spp-176-ROGP-line-59"> But, when a goddess would bestow</l><l n="60" xml:id="spp-176-ROGP-line-60"> Her love on some bright youth below,</l><l n="61" xml:id="spp-176-ROGP-line-61"> Round all the earth she casts her eyes;</l><l n="62" xml:id="spp-176-ROGP-line-62"> And then, descending from the skies,</l><l n="63" xml:id="spp-176-ROGP-line-63"> Makes choice of him she fancies best,</l><l n="64" xml:id="spp-176-ROGP-line-64"> And bids the ravished youth be blessed.</l></lg><lg n="7" type="stanza"><l n="65" xml:id="spp-176-ROGP-line-65">Thus the bright empress of the morn&#13;</l><l n="66" xml:id="spp-176-ROGP-line-66"> Chose, for her spouse, a mortal born:</l><l n="67" xml:id="spp-176-ROGP-line-67"> The goddess made advances first,</l><l n="68" xml:id="spp-176-ROGP-line-68"> Else what aspiring hero durst?</l><l n="69" xml:id="spp-176-ROGP-line-69"> Though, like a virgin of fifteen,</l><l n="70" xml:id="spp-176-ROGP-line-70"> She blushes when by mortals seen;</l><l n="71" xml:id="spp-176-ROGP-line-71"> Still blushes, and with speed retires,</l><l n="72" xml:id="spp-176-ROGP-line-72"> When Sol pursues her with his fires.</l></lg><lg n="8" type="stanza"><l n="73" xml:id="spp-176-ROGP-line-73">Diana thus, heaven's chastest queen,&#13;</l><l n="74" xml:id="spp-176-ROGP-line-74"> Struck with Endymion's graceful mien,</l><l n="75" xml:id="spp-176-ROGP-line-75"> Down from her silver chariot came,</l><l n="76" xml:id="spp-176-ROGP-line-76"> And to the shepherd owed her flame.</l></lg><lg n="9" type="stanza"><l n="77" xml:id="spp-176-ROGP-line-77">Thus Cavendish, as Aurora bright,&#13;</l><l n="78" xml:id="spp-176-ROGP-line-78"> And chaster than the Queen of Night,</l><l n="79" xml:id="spp-176-ROGP-line-79"> Descended from her sphere to find</l><l n="80" xml:id="spp-176-ROGP-line-80"> A mortal of superior kind.176-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

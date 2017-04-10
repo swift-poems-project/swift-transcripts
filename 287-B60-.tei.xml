@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The BANK thrown down.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="287-B60-" type="poem"><head type="note" n="1" xml:id="spp-287-B60--headnote-1"><lg n="1" xml:id="spp-287-B60--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-287-B60--headnote-1-line-group-1-line-1">To an Excellent New TUNE.</l></lg></head><head type="note" n="2" xml:id="spp-287-B60--headnote-2"><lg n="1" xml:id="spp-287-B60--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-287-B60--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-287-B60--headnote-3"><lg n="1" xml:id="spp-287-B60--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-287-B60--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-287-B60--line-1"><hi rend="display-initial">P</hi>Ray, what is this BANK of which the Town Rings?</l><l n="2" xml:id="spp-287-B60--line-2"> The BANKS of a River I know are good Things,</l><l n="3" xml:id="spp-287-B60--line-3"> But a Pox o'those BANKS that choak up the SPRINGS.Some Mischief is Brewing, the Project smells Rank,To shut out the <hi rend="underline">River</hi> by raising the BANK.</l></lg><lg n="2" type="stanza"><l n="4" xml:id="spp-287-B60--line-4">The DAMS and the WEIRS must all be your own,&#13;</l><l n="5" xml:id="spp-287-B60--line-5"> You get all the FISH, and others get none,</l><l n="6" xml:id="spp-287-B60--line-6"> We look for a SALMON, you leave us a <hi rend="underline">Stone</hi>.But Thanks to the HOUSE, the Projectors look blank,And Thanks to those MEMBERS that Kickt down the BANK.</l></lg><lg n="3" type="stanza"><l n="7" xml:id="spp-287-B60--line-7">This BANK is to make us a New Paper-Mill,&#13;</l><l n="8" xml:id="spp-287-B60--line-8"> This Paper they say, by the Help of a Quill,</l><l n="9" xml:id="spp-287-B60--line-9"> The whole Nations Pockets with Money will fill.But we doubt that our Purses will quickly grow lank,If nothing but Paper comes out of this BANK.</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-287-B60--line-10">'Tis happy to see the whole Kingdom in <hi rend="underline">Rags</hi>,</l><l n="11" xml:id="spp-287-B60--line-11"> For <hi rend="underline">Rags</hi> will make <hi rend="underline">Paper</hi>, and Pa-ba-ba-brags,</l><l n="12" xml:id="spp-287-B60--line-12"> This Paper will soon make us richer than <hi rend="underline">Crags</hi>.From a bo-bo-bo-Boy he pursues his old Hank,And now he runs mad for a ba-ba-ba-BANK.</l></lg><lg n="5" type="stanza"><l n="13" xml:id="spp-287-B60--line-13">Oh! then but to see how the <hi rend="underline">Beggars</hi> will Vapour,</l><l n="14" xml:id="spp-287-B60--line-14"> For Beggars have <hi rend="underline">Rags</hi> and Rags will make Paper,</l><l n="15" xml:id="spp-287-B60--line-15"> And Paper makes Money, and what can be cheaper?Methinks I now see them so jovial and crank,All riding on Horseback to <hi rend="underline">Hell</hi> and the BANK.</l></lg><lg n="6" type="stanza"><l n="16" xml:id="spp-287-B60--line-16">But the <hi rend="underline">Cobler</hi> was angry, and swore he had rather</l><l n="17" xml:id="spp-287-B60--line-17"> As they did in old Times, make Money of <hi rend="underline">Leather</hi>,</l><l n="18" xml:id="spp-287-B60--line-18"> For then he could <hi rend="underline">Coyn</hi> and could <hi rend="underline">Cobble</hi> together;And then he could pay for the Liquor he drankWith the Scrap of a <hi rend="underline">Sole</hi>, and a Fig for the BANK.</l></lg><lg n="7" type="stanza"><l n="19" xml:id="spp-287-B60--line-19">By a Parliament Man when the <hi rend="underline">Farmer</hi> was told,</l><l n="20" xml:id="spp-287-B60--line-20"> That <hi rend="underline">Paper</hi> would quickly be dearer than <hi rend="underline">Gold</hi>,</l><l n="21" xml:id="spp-287-B60--line-21"> He wonder'd for how much an Inch 'twould be Sold:Then Plodding, he thought on a whimsical PrankTo turn to small Money a Bill on the BANK.</l></lg><lg n="8" type="stanza"><l n="22" xml:id="spp-287-B60--line-22">For nicely computing the Price by Retail,&#13;</l><l n="23" xml:id="spp-287-B60--line-23"> He found he could purchase Two Tankards of Ale</l><l n="24" xml:id="spp-287-B60--line-24"> With a Scrap of Bank-Paper the Breadth of his Nail;But the <hi rend="underline">Tapster</hi> well Cudgell'd him both Side and Flank,And made him to Curse the poor innocent BANK.</l></lg><lg n="9" type="stanza"><l n="25" xml:id="spp-287-B60--line-25">The Ghost of old <hi rend="underline">D--mer</hi>, who left not his Betters.</l><l n="26" xml:id="spp-287-B60--line-26"> When it heard of a BANK appear'd to his Debtors,</l><l n="27" xml:id="spp-287-B60--line-27"> And lent them for Money the <hi rend="underline">Backs</hi> of his Letters:His Debtors they wonder'd to find him so frank,For <hi rend="underline">old Nick</hi> gave the Papers the <hi rend="underline">Mark</hi> of the BANK.</l></lg><lg n="10" type="stanza"><l n="28" xml:id="spp-287-B60--line-28">In a <hi rend="underline">Chancery</hi> Bill your Attorney engages,</l><l n="29" xml:id="spp-287-B60--line-29"> For so many Six-pences, so many <hi rend="underline">Pages</hi>,</l><l n="30" xml:id="spp-287-B60--line-30"> But Six-pence a <hi rend="underline">Letter</hi> is monstrous high Wages:Those that dropt in the <hi rend="underline">South-Sea</hi> discover'd this <hi rend="underline">Plank</hi>,By which they might Swimmingly <hi rend="underline">land</hi> on a BANK.</l></lg><lg n="11" type="stanza"><l n="31" xml:id="spp-287-B60--line-31">But the <hi rend="underline">Squire</hi> he was cunning and found what they meant,</l><l n="32" xml:id="spp-287-B60--line-32"> That a Pack of sly Knaves should get fifty per Cent,</l><l n="33" xml:id="spp-287-B60--line-33"> While his Tenants in <hi rend="underline">Paper</hi> must pay him his Rent:So for their <hi rend="underline">Quack-Bills</hi> he knows whom to thank,For those are but <hi rend="underline">Quacks</hi>, who <hi rend="underline">mount</hi> on a BANK.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

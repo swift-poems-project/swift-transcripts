@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mary <hi rend="underline">the Cook-Maid's</hi> L<hi rend="SMALL-CAPS">ETTER</hi> <hi rend="underline">to</hi></title>
+        <title><hi rend="underline">Dr</hi>. Sheridan.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="985-04M4" type="poem"><head type="note" n="1" xml:id="spp-985-04M4-headnote-1"><lg n="1" xml:id="spp-985-04M4-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-985-04M4-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-985-04M4-headnote-2"><lg n="1" xml:id="spp-985-04M4-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-985-04M4-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-985-04M4-headnote-3"><lg n="1" xml:id="spp-985-04M4-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-985-04M4-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-985-04M4-line-1"><hi rend="display-initial">W</hi>ELL; if ever I saw such another Man since my Mother bound my Head,</l><l n="2" xml:id="spp-985-04M4-line-2"> You a Gentleman! marry come up, I wonder where You were bred;</l><l n="3" xml:id="spp-985-04M4-line-3"> I am sure such Words do not become a Man of your Cloth;</l><l n="4" xml:id="spp-985-04M4-line-4"> I would not give such Language to a Dog, faith and troth.</l><l n="5" xml:id="spp-985-04M4-line-5"> Yes; you call'd my Master a Knave: Fie, Mr. <hi rend="underline">Sheridan</hi>, 'tis a Shame</l><l n="6" xml:id="spp-985-04M4-line-6"> For a Parson, who should know better Things, to come out with such a Name.</l><l n="7" xml:id="spp-985-04M4-line-7"> Knave in your Teeth, Mr. <hi rend="underline">Sheridan</hi>, 'tis both a Shame and a Sin,</l><l n="8" xml:id="spp-985-04M4-line-8"> And the Dean my Master is an honester Man than you and all your Kin:</l><l n="9" xml:id="spp-985-04M4-line-9"> He has more Goodness in his little Finger, than you have in your whole Body,</l><l n="10" xml:id="spp-985-04M4-line-10"> My Master is a parsonable Man, and not a spindle-shank'd hoddy-doddy.</l><l n="11" xml:id="spp-985-04M4-line-11"> And now whereby I find you would fain make an Excuse,</l><l n="12" xml:id="spp-985-04M4-line-12"> Because my Master one day in Anger call'd you Goose.</l><l n="13" xml:id="spp-985-04M4-line-13"> Which, and I am sure I have been his Servant four Years since <hi rend="underline">October</hi>,</l><l n="14" xml:id="spp-985-04M4-line-14"> And he never call'd me worse than Sweetheart, drunk or sober:</l><l n="15" xml:id="spp-985-04M4-line-15"> Not that I know his Reverence was ever concern'd to my Knowledge,</l><l n="16" xml:id="spp-985-04M4-line-16"> Tho' you and your Come-rogues keep him out so late in your College.</l><l n="17" xml:id="spp-985-04M4-line-17"> You say you will eat Grass on his Grave: a Christian eat Grass!</l><l n="18" xml:id="spp-985-04M4-line-18"> Whereby you now confess yourself to be a Goose or an Ass:</l><l n="19" xml:id="spp-985-04M4-line-19"> But that's as much as to say, that my Master should die before ye.</l><l n="20" xml:id="spp-985-04M4-line-20"> Well, Well, that's as God pleases, and I don't believe that's a true Story:</l><l n="21" xml:id="spp-985-04M4-line-21"> And so say I told you so, and you may go tell my Master; what care I?</l><l n="22" xml:id="spp-985-04M4-line-22"> And I don't care who knows it, 'tis all one to <hi rend="underline">Mary</hi>.</l><l n="23" xml:id="spp-985-04M4-line-23"> Every body knows, that I love to tell Truth and shame the Devil,</l><l n="24" xml:id="spp-985-04M4-line-24"> I am but a poor Servant, but I think Gentlefolks should be civil.</l><l n="25" xml:id="spp-985-04M4-line-25"> Besides you found fault with our Vittles one Day that you was here,</l><l n="26" xml:id="spp-985-04M4-line-26"> I remember it was on <hi rend="underline">Tuesday</hi> of all Days in the Year.</l><l n="27" xml:id="spp-985-04M4-line-27"> And <hi rend="underline">Saunders</hi> the Man says, you are always jesting and mocking.<hi rend="underline">Mary</hi> said he (one Day, as I was mending my Master's Stocking)</l><l n="28" xml:id="spp-985-04M4-line-28"> My Master is so fond of that Minister that keeps the School,</l><l n="29" xml:id="spp-985-04M4-line-29"> I thought my Master a wise Man, but that Man makes him a Fool.<hi rend="underline">Saunders</hi>, said I, I would rather than a Quart of Ale,</l><l n="30" xml:id="spp-985-04M4-line-30"> He would come into our Kitchen, and I would pin a Dish-clout to his Tail.</l><l n="31" xml:id="spp-985-04M4-line-31"> And now I must go, and get <hi rend="underline">Saunders</hi> to direct this Letter,</l><l n="32" xml:id="spp-985-04M4-line-32"> For I write but a sad Scrawl, but my Sister <hi rend="underline">Marget</hi> she writes better.</l><l n="33" xml:id="spp-985-04M4-line-33"> Well, but I must run and make the Bed before my Master comes from Pray'rs,</l><l n="34" xml:id="spp-985-04M4-line-34"> And see now, it strikes ten, and I hear him coming up Stairs:</l><l n="35" xml:id="spp-985-04M4-line-35"> Whereof I could say more to your Verses, if I could write written hand,</l><l n="36" xml:id="spp-985-04M4-line-36" rend="flush right"> And so I remain in a Civil Way, your Servant to command,M<hi rend="SMALL-CAPS">ARY</hi>.·····985-04M4   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On his own Deafness.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="673A34RK" type="poem"><head type="note" n="1" xml:id="spp-673A34RK-headnote-1"><lg n="1" xml:id="spp-673A34RK-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-673A34RK-headnote-1-line-group-1-line-1">The following poems in English and Latin, are said to be written by the rev. Dr. Swift, D.S.P.D.</l></lg></head><head type="note" n="2" xml:id="spp-673A34RK-headnote-2"><lg n="1" xml:id="spp-673A34RK-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-673A34RK-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-673A34RK-headnote-3"><lg n="1" xml:id="spp-673A34RK-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-673A34RK-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-673A34RK-line-1"><hi rend="underline">Vertiginosus, inops, surdus, male gratus amicis:&#13;</hi>.</l><l n="2" xml:id="spp-673A34RK-line-2"> Non campana sonans, tonitru non ab Jove missum;</l><l n="3" xml:id="spp-673A34RK-line-3"> Quod mage mirandum, saltem si credere fas est,</l><l n="4" xml:id="spp-673A34RK-line-4"> Vix clamosa meas mulier jam percutit aures</l></lg><lg n="2" type="stanza"><l n="5" xml:id="spp-673A34RK-line-5">Deaf, giddy, helpless, left alone,&#13;</l><l n="6" xml:id="spp-673A34RK-line-6"> To all my friends a burthen grown:</l><l n="7" xml:id="spp-673A34RK-line-7"> No more I hear my church's bell,</l><l n="8" xml:id="spp-673A34RK-line-8"> Than if it rang out for my knell:</l><l n="9" xml:id="spp-673A34RK-line-9"> At thunder now no more I start,</l><l n="10" xml:id="spp-673A34RK-line-10"> Than at the rumbling of a cart:</l><l n="11" xml:id="spp-673A34RK-line-11"> Nay, what's incredible, alack!</l><l n="12" xml:id="spp-673A34RK-line-12"> I hardly hear a woman's clack.· <hi rend="underline">LE</hi>.673A34RK   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

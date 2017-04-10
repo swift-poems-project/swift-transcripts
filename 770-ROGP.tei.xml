@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">Horace, Book I, Ode XIV</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="770-ROGP" type="poem"><head type="note" n="1" xml:id="spp-770-ROGP-headnote-1"><lg n="1" xml:id="spp-770-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-770-ROGP-headnote-1-line-group-1-line-1"><hi rend="underline">O navis, referent, &amp;c.</hi></l></lg></head><head type="note" n="2" xml:id="spp-770-ROGP-headnote-2"><lg n="1" xml:id="spp-770-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-770-ROGP-headnote-2-line-group-1-line-1">PARAPHRASED AND INSCRIBED TO IRELAND</l></lg></head><head type="note" n="3" xml:id="spp-770-ROGP-headnote-3"><lg n="1" xml:id="spp-770-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-770-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-770-ROGP-line-1">THE INSCRIPTION</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-770-ROGP-line-2">Poor floating isle, tossed on ill fortune's waves,&#13;Ordained by fate to be the land of slaves:Shall moving Delos now deep-rooted stand,Thou, fixed of old, be now the moving land?Although the metaphor be worn and staleBetwixt a state, and vessel under sail;Let me suppose thee for a ship awhile,And thus address thee in the sailor style.</l></lg><lg n="3" type="stanza"><l n="3" xml:id="spp-770-ROGP-line-3">Unhappy ship, thou art returned in vain:&#13;</l><l n="4" xml:id="spp-770-ROGP-line-4"> New waves shall drive thee to the deep again.</l><l n="5" xml:id="spp-770-ROGP-line-5"> Look to thyself, and be no more the sport</l><l n="6" xml:id="spp-770-ROGP-line-6"> Of giddy winds, but make some friendly port.</l><l n="7" xml:id="spp-770-ROGP-line-7"> Lost are, thy oars that used thy course to guide,</l><l n="8" xml:id="spp-770-ROGP-line-8"> Like faithful counsellors on either side.</l><l n="9" xml:id="spp-770-ROGP-line-9"> Thy mast, which like some aged patriot stood</l><l n="10" xml:id="spp-770-ROGP-line-10"> The single pillar for his country's good,</l><l n="11" xml:id="spp-770-ROGP-line-11"> To lead thee, as a staff directs the blind,</l><l n="12" xml:id="spp-770-ROGP-line-12"> Behold, it cracks by yon rough eastern wind.</l><l n="13" xml:id="spp-770-ROGP-line-13"> Your cables burst, and you must quickly feel</l><l n="14" xml:id="spp-770-ROGP-line-14"> The waves impetuous entering at your keel.</l><l n="15" xml:id="spp-770-ROGP-line-15"> Thus, commonwealths receive a foreign yoke,</l><l n="16" xml:id="spp-770-ROGP-line-16"> When the strong cords of union once are broke.</l><l n="17" xml:id="spp-770-ROGP-line-17"> Torn by a sudden tempest is your sail,</l><l n="18" xml:id="spp-770-ROGP-line-18"> Expanded to invite a milder gale.</l></lg><lg n="4" type="stanza"><l n="19" xml:id="spp-770-ROGP-line-19">As when some writer in a public cause,&#13;</l><l n="20" xml:id="spp-770-ROGP-line-20"> His pen to save a sinking nation draws,</l><l n="21" xml:id="spp-770-ROGP-line-21"> While all is calm, his arguments prevail,</l><l n="22" xml:id="spp-770-ROGP-line-22"> The people's voice expands his paper sail;</l><l n="23" xml:id="spp-770-ROGP-line-23"> Till power, discharging all her stormy bags,</l><l n="24" xml:id="spp-770-ROGP-line-24"> Flutters the feeble pamphlet into rags.</l><l n="25" xml:id="spp-770-ROGP-line-25"> The nation scared, the author doomed to death,</l><l n="26" xml:id="spp-770-ROGP-line-26"> Who fondly put his trust in popular breath.</l></lg><lg n="5" type="stanza"><l n="27" xml:id="spp-770-ROGP-line-27">A larger sacrifice in vain you vow;&#13;</l><l n="28" xml:id="spp-770-ROGP-line-28"> There's not a power above will help you now:</l><l n="29" xml:id="spp-770-ROGP-line-29"> A nation thus, who oft heaven's call neglects,</l><l n="30" xml:id="spp-770-ROGP-line-30"> In vain from injured heaven relief expects.</l></lg><lg n="6" type="stanza"><l n="31" xml:id="spp-770-ROGP-line-31">'Twill not avail, when thy strong sides are broke,&#13;</l><l n="32" xml:id="spp-770-ROGP-line-32"> That thy descent is from the British oak:</l><l n="33" xml:id="spp-770-ROGP-line-33"> Or when your name and family will boast,</l><l n="34" xml:id="spp-770-ROGP-line-34"> From fleets triumphant o'er the Gallic coast.</l><l n="35" xml:id="spp-770-ROGP-line-35"> Such was Ierne's claim, as just as thine,</l><l n="36" xml:id="spp-770-ROGP-line-36"> Her sons descended from the British line;</l><l n="37" xml:id="spp-770-ROGP-line-37"> Her matchless sons, whose valour still remains</l><l n="38" xml:id="spp-770-ROGP-line-38"> On French records for twenty long campaigns;</l><l n="39" xml:id="spp-770-ROGP-line-39"> Yet from an empress, now a captive grown,</l><l n="40" xml:id="spp-770-ROGP-line-40"> She saved Britannia's right, and lost her own.</l></lg><lg n="7" type="stanza"><l n="41" xml:id="spp-770-ROGP-line-41">In ships decayed no mariner confides,&#13;</l><l n="42" xml:id="spp-770-ROGP-line-42"> Lured by the gilded stern, and painted sides.</l><l n="43" xml:id="spp-770-ROGP-line-43"> So, at a ball, unthinking fools delight</l><l n="44" xml:id="spp-770-ROGP-line-44"> In the gay trappings of a birthday night:</l><l n="45" xml:id="spp-770-ROGP-line-45"> They on the gold brocades and satins raved,</l><l n="46" xml:id="spp-770-ROGP-line-46"> And quite forgot their country was enslaved.</l></lg><lg n="8" type="stanza"><l n="47" xml:id="spp-770-ROGP-line-47">Dear vessel, still be to thy steerage just,&#13;</l><l n="48" xml:id="spp-770-ROGP-line-48"> Nor change thy course with every sudden gust:</l><l n="49" xml:id="spp-770-ROGP-line-49"> Like supple patriots of the modern sort,</l><l n="50" xml:id="spp-770-ROGP-line-50"> Who turn with every gale that blows from court.</l><l n="51" xml:id="spp-770-ROGP-line-51"> Weary and seasick when in thee confined,</l><l n="52" xml:id="spp-770-ROGP-line-52"> Now, for thy safety, cares distract my mind.</l><l n="53" xml:id="spp-770-ROGP-line-53"> As those who long have stood the storms of state,</l><l n="54" xml:id="spp-770-ROGP-line-54"> Retire, yet still bemoan their country's fate.</l><l n="55" xml:id="spp-770-ROGP-line-55"> Beware, and when you hear the surges roar,</l><l n="56" xml:id="spp-770-ROGP-line-56"> Avoid the rocks on Britain's angry shore:</l><l n="57" xml:id="spp-770-ROGP-line-57"> They lie, alas! too easy to be found,</l><l n="58" xml:id="spp-770-ROGP-line-58"> For thee alone they lie the island round.770-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

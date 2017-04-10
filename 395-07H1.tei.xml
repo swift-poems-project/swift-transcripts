@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The DOG and THIEF.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="395-07H1" type="poem"><head type="note" n="1" xml:id="spp-395-07H1-headnote-1"><lg n="1" xml:id="spp-395-07H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-395-07H1-headnote-1-line-group-1-line-1">Written in the Year 1726.</l></lg></head><head type="note" n="2" xml:id="spp-395-07H1-headnote-2"><lg n="1" xml:id="spp-395-07H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-395-07H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-395-07H1-headnote-3"><lg n="1" xml:id="spp-395-07H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-395-07H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-395-07H1-line-1"><hi rend="display-initial">Q</hi>UOTH the thief to the dog, let me into your door,And I'll give you these delicate bits.</l><l n="2" xml:id="spp-395-07H1-line-2"> Quoth the dog, I should then be more villain than you're,And besides, must be out of my wits.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-395-07H1-line-3">Your delicate bits will not serve me a meal,&#13;But my master each day gives me bread.</l><l n="4" xml:id="spp-395-07H1-line-4"> You'll fly, when you get what you came here to steal,And I must be hang'd in your stead.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-395-07H1-line-5">The stock-jobber thus from <hi rend="underline">Change-Alley</hi> goes down,And tips you, the freeman, a wink;</l><l n="6" xml:id="spp-395-07H1-line-6"> Let me have but your vote to serve for the town,And here is a guinea to drink.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-395-07H1-line-7">Said the freeman, your guinea to night would be spent;&#13;Your offers of bribery cease;</l><l n="8" xml:id="spp-395-07H1-line-8"> I'll vote for my landlord, to whom I pay rent,Or else I may forfeit my lease.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-395-07H1-line-9">From <hi rend="underline">London</hi> they come silly people to chouse,Their lands and their faces unknown.</l><l n="10" xml:id="spp-395-07H1-line-10"> Who'd vote a rogue into the parliament-house,That would turn a man out of his own?395-07H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>HORACE, BOOK III. ODE II.</title>
+        <title>TO THE EARL OF OXFORD,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-210-79L1-footnote-1 #spp-210-79L1-line-8"/>
+        </linkGrp>
+        <div n="210-79L1" type="poem"><head type="note" n="1" xml:id="spp-210-79L1-headnote-1"><lg n="1" xml:id="spp-210-79L1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-210-79L1-headnote-1-line-group-1-line-1">Sent to him when in the T<hi rend="SMALL-CAPS">OWER</hi>, 1716.</l></lg></head><head type="note" n="2" xml:id="spp-210-79L1-headnote-2"><lg n="1" xml:id="spp-210-79L1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-210-79L1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-210-79L1-headnote-3"><lg n="1" xml:id="spp-210-79L1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-210-79L1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-210-79L1-line-1"><hi rend="display-initial">H</hi>OW blest is he, who for his country dies,</l><l n="2" xml:id="spp-210-79L1-line-2"> Since death pursues the coward as he flies!</l><l n="3" xml:id="spp-210-79L1-line-3"> The youth in vain would fly from Fate's attack,</l><l n="4" xml:id="spp-210-79L1-line-4"> With trembling knees and terror at his back;</l><l n="5" xml:id="spp-210-79L1-line-5"> Though fear should lend him pinions like the wind,</l><l n="6" xml:id="spp-210-79L1-line-6"> Yet swifter fate will seize him from behind.Virtue repuls'd, yet knows not to repine;</l><l n="7" xml:id="spp-210-79L1-line-7"> But shall with unattainted honour shine;</l><l n="8" xml:id="spp-210-79L1-line-8"> Nor stoops to take the <hi rend="underline">staff</hi><ref target="#spp-210-79L1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-210-79L1-footnote-1">The ensign of the lord treasurer's office.</note>, nor lays it down,</l><l n="9" xml:id="spp-210-79L1-line-9"> Just as the rabble please to smile or frown.Virtue, to crown her favourites, loves to try</l><l n="10" xml:id="spp-210-79L1-line-10"> Some new unbeaten passage to the sky;</l><l n="11" xml:id="spp-210-79L1-line-11"> Where Jove a seat among the gods will give</l><l n="12" xml:id="spp-210-79L1-line-12"> To those who die for meriting to live.Next, faithful Silence hath a sure reward;</l><l n="13" xml:id="spp-210-79L1-line-13"> Within our breast be every secret barr'd!</l><l n="14" xml:id="spp-210-79L1-line-14"> He, who betrays his friend, shall never be</l><l n="15" xml:id="spp-210-79L1-line-15"> Under one roof, or in one ship, with me.</l><l n="16" xml:id="spp-210-79L1-line-16"> For who with traitors would his safety trust,</l><l n="17" xml:id="spp-210-79L1-line-17"> Lest, with the wicked, heaven involve the just?</l><l n="18" xml:id="spp-210-79L1-line-18"> And, though the villain 'scape a while, he feels</l><l n="19" xml:id="spp-210-79L1-line-19"> Slow vengeance, like a blood-hound, at his heels.210-79L1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

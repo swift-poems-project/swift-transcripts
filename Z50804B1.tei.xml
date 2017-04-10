@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CCXVII. LORD HERVEY.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CCalella"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z50804B1" type="poem"><head type="note" n="1" xml:id="spp-Z50804B1-headnote-1"><lg n="1" xml:id="spp-Z50804B1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Z50804B1-headnote-1-line-group-1-line-1">It is well known that Lord Hervey incurred the displeasure of Mr. Pope; a matter of little surprise, as his Lordship wrote some good verses. Swift was sometimes hurried away by his friendship; Pope knew this, and took care to enlist him on his side in a contest in which a considerable portion of his poetical fame lay at stake. Swift soon saw the inequality of the contest, and had the generosity to sheath his pen. It is thought, however, that his resentment was levelled at the politics, and not the poetry of the peer; and when that was the case, his judgment was but too often eclipsed by his prejudice. Lord Hervey was extremely delicate in his person; this gave birth to the following epigram, written by Mr. Winstanley, some time fellow of Trinity College, Dublin:</l></lg></head><head type="note" n="2" xml:id="spp-Z50804B1-headnote-2"><lg n="1" xml:id="spp-Z50804B1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Z50804B1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Z50804B1-headnote-3"><lg n="1" xml:id="spp-Z50804B1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Z50804B1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Z50804B1-line-1"> When nature Hervey's clay was blending,&#13;</l><l n="2" xml:id="spp-Z50804B1-line-2"> Uncertain what the thing would end in,</l><l n="3" xml:id="spp-Z50804B1-line-3"> Whether a female or a male,</l><l n="4" xml:id="spp-Z50804B1-line-4"> A pin dropp'd in, and turn'd the scale.Z50804B1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

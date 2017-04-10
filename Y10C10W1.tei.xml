@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN ENEW SONG<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-Y10C10W1-footnote-1 #spp-Y10C10W1-line-3"/>
+        </linkGrp>
+        <div n="Y10C10W1" type="poem"><head type="note" n="1" xml:id="spp-Y10C10W1-headnote-1"><lg n="1" xml:id="spp-Y10C10W1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y10C10W1-headnote-1-line-group-1-line-1">This is an address of congratulation to the Grand-Jury, who threw out the bill against Harding the printer. It would seem they had not been perfectly unanimous on this occasion, for two out of the twelve are marked as having dissented from their companions, although of course this difference of opinion could not, according to the legal forms of England, appear on the face of the verdict. The dissenters seem to have been of French extraction. The ballad has every mark of being written by Swift.</l></lg></head><head type="note" n="2" xml:id="spp-Y10C10W1-headnote-2"><lg n="1" xml:id="spp-Y10C10W1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y10C10W1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y10C10W1-headnote-3"><lg n="1" xml:id="spp-Y10C10W1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y10C10W1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y10C10W1-line-1"> P<hi rend="SMALL-CAPS">OOR</hi> Monsieur his conscience preserv'd for a year,</l><l n="2" xml:id="spp-Y10C10W1-line-2"> Yet in one hour he lost it, 'tis known far and near,</l><l n="3" xml:id="spp-Y10C10W1-line-3" rend="flush right"> To whom did he lose it?──A judge or a peer. <ref target="#spp-Y10C10W1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-Y10C10W1-footnote-1">Whitshed or Carteret.</note>Which nobody can deny.</l></lg><lg n="2" type="stanza"><l n="4" xml:id="spp-Y10C10W1-line-4">This very same conscience was sold in a closet,&#13;</l><l n="5" xml:id="spp-Y10C10W1-line-5"> Nor for a bak'd loaf, or a loaf in a losset,</l><l n="6" xml:id="spp-Y10C10W1-line-6" rend="flush right"> But a sweet sugar plumb, which you put in a posset,Which nobody can deny.</l></lg><lg n="3" type="stanza"><l n="7" xml:id="spp-Y10C10W1-line-7">O Monsieur, to sell it for nothing was nonsense,&#13;</l><l n="8" xml:id="spp-Y10C10W1-line-8"> For if you would sell it, it should have been long since,</l><l n="9" xml:id="spp-Y10C10W1-line-9" rend="flush right"> But now you have lost both your cake and your conscience.Which nobody can deny.</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-Y10C10W1-line-10">So Nell of the Dairy before she was wed,&#13;</l><l n="11" xml:id="spp-Y10C10W1-line-11"> Refused ten good guineas for her maidenhead,</l><l n="12" xml:id="spp-Y10C10W1-line-12" rend="flush right"> Yet gave it for nothing to smooth-spoken Ned.Which nobody can deny.</l></lg><lg n="5" type="stanza"><l n="13" xml:id="spp-Y10C10W1-line-13">But Monsieur no vonder dat you vere collogue&#13;</l><l n="14" xml:id="spp-Y10C10W1-line-14"> Since selling de contre be now all de vogue,</l><l n="15" xml:id="spp-Y10C10W1-line-15" rend="flush right"> You be but von fool after seventeen rogue.Which nobody can deny</l></lg><lg n="6" type="stanza"><l n="16" xml:id="spp-Y10C10W1-line-16">Some sell it for profit 'tis very well known,&#13;</l><l n="17" xml:id="spp-Y10C10W1-line-17"> And some but for sitting in sight of the throne,</l><l n="18" xml:id="spp-Y10C10W1-line-18" rend="flush right"> And other some sell what is none of their own.Which nobody can deny.</l></lg><lg n="7" type="stanza"><l n="19" xml:id="spp-Y10C10W1-line-19">But Philpot and Corker, and Burrus and Hayze,&#13;</l><l n="20" xml:id="spp-Y10C10W1-line-20"> And Rayner and Nicholson challenge our praise,</l><l n="21" xml:id="spp-Y10C10W1-line-21" rend="flush right"> With six other worthies as glorious as these.Which nobody can deny.</l></lg><lg n="8" type="stanza"><l n="22" xml:id="spp-Y10C10W1-line-22">There's Donevan, Hart, and Archer and Blood,&#13;</l><l n="23" xml:id="spp-Y10C10W1-line-23"> And Gibson and Gerard all true men and good,</l><l n="24" xml:id="spp-Y10C10W1-line-24" rend="flush right"> All lovers of Ireland and haters of Wood.Which nobody can deny.</l></lg><lg n="9" type="stanza"><l n="25" xml:id="spp-Y10C10W1-line-25">But the slaves that would sell us shall hear on't in time,&#13;</l><l n="26" xml:id="spp-Y10C10W1-line-26"> Their names shall be branded in prose and in rhyme,</l><l n="27" xml:id="spp-Y10C10W1-line-27" rend="flush right"> We'll paint 'em in colours as black as their crime.Which nobody can deny.</l></lg><lg n="10" type="stanza"><l n="28" xml:id="spp-Y10C10W1-line-28">But P────r and copper L────h we'll excuse,&#13;</l><l n="29" xml:id="spp-Y10C10W1-line-29"> The commands of your betters you dare not refuse,</l><l n="30" xml:id="spp-Y10C10W1-line-30" rend="flush right"> Obey was the word when you wore wooden shoes.Which nobody can deny.Y10C10W1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

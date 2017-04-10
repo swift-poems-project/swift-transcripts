@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Grace Extempore──At S<hi rend="sup">r</hi> I. Read's──Brocket<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y46C280L" type="poem"><head type="note" n="1" xml:id="spp-Y46C280L-headnote-1"><lg n="1" xml:id="spp-Y46C280L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y46C280L-headnote-1-line-group-1-line-1">────By Colonel Titus</l></lg></head><head type="note" n="2" xml:id="spp-Y46C280L-headnote-2"><lg n="1" xml:id="spp-Y46C280L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y46C280L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y46C280L-headnote-3"><lg n="1" xml:id="spp-Y46C280L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y46C280L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y46C280L-line-1"> Thanks for this <hi rend="underline">Miracle</hi>──for 'tis no less</l><l n="2" xml:id="spp-Y46C280L-line-2"> To meet with <hi rend="underline">Manna</hi> in this <hi rend="underline">Wilderness</hi>,</l><l n="3" xml:id="spp-Y46C280L-line-3"> In Barren <hi rend="underline">Desarts</hi> we have found <hi rend="underline">Releif</hi>,</l><l n="4" xml:id="spp-Y46C280L-line-4"> And seen the Wonders of a <hi rend="underline">Chine of Beef,</hi> have <hi rend="underline">smoak'd</hi> that never <hi rend="underline">smoak'd before</hi>,</l><l n="5" xml:id="spp-Y46C280L-line-5"> Chimneys</l><l n="6" xml:id="spp-Y46C280L-line-6"> And We have <hi rend="underline">Eat</hi>──where We shall <hi rend="underline">Eat no more</hi>.Y46C280L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

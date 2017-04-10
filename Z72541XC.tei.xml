@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">The</hi> G<hi rend="SMALL-CAPS">ENTLEMAN</hi>'<hi rend="underline">s</hi> ANSWER <hi rend="underline">to</hi></title>
+        <title><hi rend="underline">the</hi> L<hi rend="SMALL-CAPS">ADY</hi>'<hi rend="underline">s RIDDLE</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z72541XC" type="poem"><head type="note" n="1" xml:id="spp-Z72541XC-headnote-1"><lg n="1" xml:id="spp-Z72541XC-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Z72541XC-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Z72541XC-headnote-2"><lg n="1" xml:id="spp-Z72541XC-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Z72541XC-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Z72541XC-headnote-3"><lg n="1" xml:id="spp-Z72541XC-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Z72541XC-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-Z72541XC-line-1"><hi rend="display-initial">Y</hi>OUR Riddle's Meaning, if I guess,</l><l n="2" xml:id="spp-Z72541XC-line-2"> Allow me to describe it, thus:</l><l n="3" xml:id="spp-Z72541XC-line-3"> Our Beaus and Belles with vast Delight</l><l n="4" xml:id="spp-Z72541XC-line-4"> View it all o'er, Morn, Noon, and Night:</l><l n="5" xml:id="spp-Z72541XC-line-5"> 'Tis that which all your Lovers charms,</l><l n="6" xml:id="spp-Z72541XC-line-6"> Yet, what they wish not in their Arms;</l><l n="7" xml:id="spp-Z72541XC-line-7"> Of any Sex if it can be,</l><l n="8" xml:id="spp-Z72541XC-line-8"> 'Tis Female from Inconstancy.</l><l n="9" xml:id="spp-Z72541XC-line-9"> It can't be felt, but oft is seen,</l><l n="10" xml:id="spp-Z72541XC-line-10"> Assuming just your Air and Mien;</l><l n="11" xml:id="spp-Z72541XC-line-11"> It ev'ry Thing becomes with ease,</l><l n="12" xml:id="spp-Z72541XC-line-12"> And wears what Face soe'er you please.</l><l n="13" xml:id="spp-Z72541XC-line-13"> If Tears upon your Cheeks it spies,</l><l n="14" xml:id="spp-Z72541XC-line-14"> As fast the pretty Creature cries;</l><l n="15" xml:id="spp-Z72541XC-line-15"> Resolv'd in all to Sympathize.</l><l n="16" xml:id="spp-Z72541XC-line-16"> Dress up your Face in artful Wiles,</l><l n="17" xml:id="spp-Z72541XC-line-17"> Like you the fair Dissembler smiles;</l><l n="18" xml:id="spp-Z72541XC-line-18"> Each Air and Grace strait makes its own,</l><l n="19" xml:id="spp-Z72541XC-line-19"> The Glance, the Ogle, or the Frown;</l><l n="20" xml:id="spp-Z72541XC-line-20"> Will toss its Head, and flirt its Fan,</l><l n="21" xml:id="spp-Z72541XC-line-21"> And mimick you, do what you can.</l><l n="22" xml:id="spp-Z72541XC-line-22"> Clap but a Patch upon your Face,</l><l n="23" xml:id="spp-Z72541XC-line-23"> It wears one in the self-same Place.</l><l n="24" xml:id="spp-Z72541XC-line-24"> Soon as your Birth-day Gown is made,</l><l n="25" xml:id="spp-Z72541XC-line-25"> It dresses in the same Brocade;</l><l n="26" xml:id="spp-Z72541XC-line-26"> Then borrows with exactest Care,</l><l n="27" xml:id="spp-Z72541XC-line-27"> Each Jewel, and each Lock of Hair.</l><l n="28" xml:id="spp-Z72541XC-line-28"> So very much yourself it proves,</l><l n="29" xml:id="spp-Z72541XC-line-29"> It treads your Steps, and with you moves;</l><l n="30" xml:id="spp-Z72541XC-line-30"> No Stay can in your Absence make,</l><l n="31" xml:id="spp-Z72541XC-line-31"> But flies, whene're you turn your Back.</l><l n="32" xml:id="spp-Z72541XC-line-32"> If to the Court you do repair,</l><l n="33" xml:id="spp-Z72541XC-line-33"> Invisible, it enters there;</l><l n="34" xml:id="spp-Z72541XC-line-34"> But to the Circle as you pass,</l><l n="35" xml:id="spp-Z72541XC-line-35"> We view it plain in ev'ry G<hi rend="SMALL-CAPS">LASS</hi>.Z72541XC   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

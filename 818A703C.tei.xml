@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Epigram to the Hon<hi rend="sup">ble</hi> 08 08.  Serjeant<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="818A703C" type="poem"><head type="note" n="1" xml:id="spp-818A703C-headnote-1"><lg n="1" xml:id="spp-818A703C-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-818A703C-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-818A703C-headnote-2"><lg n="1" xml:id="spp-818A703C-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-818A703C-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-818A703C-headnote-3"><lg n="1" xml:id="spp-818A703C-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-818A703C-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-818A703C-line-1"> In your Indignation what Mercy appears?&#13;</l><l n="2" xml:id="spp-818A703C-line-2"> While Ionothan's threatn'd with Loss of <del>your</del>his Ears:</l><l n="3" xml:id="spp-818A703C-line-3"> For who woud not think it, a much better Choice;</l><l n="4" xml:id="spp-818A703C-line-4"> By your Knife to be mangled, then wreck'd by y<hi rend="sup">ṛ</hi> Voice:</l><l n="5" xml:id="spp-818A703C-line-5"> If you woud be truly reveng'd on the Parson,</l><l n="6" xml:id="spp-818A703C-line-6"> Command his Attendance while you act the Farce-on:</l><l n="7" xml:id="spp-818A703C-line-7"> Instead of your maiming, your shooting or Banging,</l><l n="8" xml:id="spp-818A703C-line-8"> Bid Povey secure him, while Kite is Haranguing:</l><l n="9" xml:id="spp-818A703C-line-9"> Had this been your Method to torture him, long-since</l><l n="10" xml:id="spp-818A703C-line-10"> He had cut his Own Ears, to be rid of your Nonsense.818A703C   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

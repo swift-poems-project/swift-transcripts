@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">STELLA</hi>'s BIRTH-DAY.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="763BWILH" type="poem"><head type="note" n="1" xml:id="spp-763BWILH-headnote-1"><lg n="1" xml:id="spp-763BWILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-763BWILH-headnote-1-line-group-1-line-1"><hi rend="underline">March</hi> 13. 1726/7.</l></lg></head><head type="note" n="2" xml:id="spp-763BWILH-headnote-2"><lg n="1" xml:id="spp-763BWILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-763BWILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-763BWILH-headnote-3"><lg n="1" xml:id="spp-763BWILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-763BWILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-763BWILH-line-1"><hi rend="display-initial">T</hi>HIS Day, whate'er the Fates decree,</l><l n="2" xml:id="spp-763BWILH-line-2"> Shall still be kept with Joy by me:</l><l n="3" xml:id="spp-763BWILH-line-3"> This Day then, let us not be told,</l><l n="4" xml:id="spp-763BWILH-line-4"> That you are sick, and I grown old,</l><l n="5" xml:id="spp-763BWILH-line-5"> Nor think on our approaching Ills,</l><l n="6" xml:id="spp-763BWILH-line-6"> And talk of Spectacles and Pills;</l><l n="7" xml:id="spp-763BWILH-line-7"> To morrow will be Time enough</l><l n="8" xml:id="spp-763BWILH-line-8"> To hear such mortifying Stuff.</l><l n="9" xml:id="spp-763BWILH-line-9"> Yet, since from Reason may be brought</l><l n="10" xml:id="spp-763BWILH-line-10"> A better and more pleasing Thought,</l><l n="11" xml:id="spp-763BWILH-line-11"> Which can in spite of all Decays,</l><l n="12" xml:id="spp-763BWILH-line-12"> Support a few remaining Days:</l><l n="13" xml:id="spp-763BWILH-line-13"> From not the gravest of Divines,</l><l n="14" xml:id="spp-763BWILH-line-14"> Accept for once some serious Lines.</l></lg><lg n="2" type="stanza"><l n="15" xml:id="spp-763BWILH-line-15">Although we now can form no more&#13;</l><l n="16" xml:id="spp-763BWILH-line-16"> Long Schemes of Life, as heretofore;</l><l n="17" xml:id="spp-763BWILH-line-17"> Yet you, while Time is running fast,</l><l n="18" xml:id="spp-763BWILH-line-18"> Can look with Joy on what is past.</l></lg><lg n="3" type="stanza"><l n="19" xml:id="spp-763BWILH-line-19">Were future Happiness and Pain,&#13;</l><l n="20" xml:id="spp-763BWILH-line-20"> A mere Contrivance of the Brain,</l><l n="21" xml:id="spp-763BWILH-line-21"> As Atheists argue, to entice,</l><l n="22" xml:id="spp-763BWILH-line-22"> And fit their Proselytes for Vice;</l><l n="23" xml:id="spp-763BWILH-line-23"> (The only Comfort they propose,</l><l n="24" xml:id="spp-763BWILH-line-24"> To have Companions in their Woes.)</l><l n="25" xml:id="spp-763BWILH-line-25"> Grant this the Case, yet sure 'tis hard,</l><l n="26" xml:id="spp-763BWILH-line-26"> That Virtue, stil'd its own Reward,</l><l n="27" xml:id="spp-763BWILH-line-27"> And by all Sages understood</l><l n="28" xml:id="spp-763BWILH-line-28"> To be the chief of human Good,</l><l n="29" xml:id="spp-763BWILH-line-29"> Should acting, die, nor leave behind</l><l n="30" xml:id="spp-763BWILH-line-30"> Some lasting Pleasure in the Mind,</l><l n="31" xml:id="spp-763BWILH-line-31"> Which by Remembrance will assuage,</l><l n="32" xml:id="spp-763BWILH-line-32"> Grief, Sickness, Poverty, and Age;</l><l n="33" xml:id="spp-763BWILH-line-33"> And strongly shoot a radiant Dart,</l><l n="34" xml:id="spp-763BWILH-line-34"> To shine through Life's declining Part.</l></lg><lg n="4" type="stanza"><l n="35" xml:id="spp-763BWILH-line-35">Say, <hi rend="underline">Stella</hi>, feel you no Content,</l><l n="36" xml:id="spp-763BWILH-line-36"> Reflecting on a Life well spent?</l><l n="37" xml:id="spp-763BWILH-line-37"> Your skilful Hand employ'd to save</l><l n="38" xml:id="spp-763BWILH-line-38"> Despairing Wretches from the Grave;</l><l n="39" xml:id="spp-763BWILH-line-39"> And then supporting with your Store,</l><l n="40" xml:id="spp-763BWILH-line-40"> Those whom you dragg'd from Death before:</l><l n="41" xml:id="spp-763BWILH-line-41"> (So Providence on Mortals waits,</l><l n="42" xml:id="spp-763BWILH-line-42"> Preserving what it first creates)</l><l n="43" xml:id="spp-763BWILH-line-43"> Your gen'rous Boldness to defend</l><l n="44" xml:id="spp-763BWILH-line-44"> An innocent and absent Friend;</l><l n="45" xml:id="spp-763BWILH-line-45"> That Courage which can make you just,</l><l n="46" xml:id="spp-763BWILH-line-46"> To Merit humbled in the Dust:</l><l n="47" xml:id="spp-763BWILH-line-47"> The Detestation you express</l><l n="48" xml:id="spp-763BWILH-line-48"> For Vice in all its glitt'ring Dress:</l><l n="49" xml:id="spp-763BWILH-line-49"> That Patience under tort'ring Pain,</l><l n="50" xml:id="spp-763BWILH-line-50"> Where stubborn Stoicks would complain.</l></lg><lg n="5" type="stanza"><l n="51" xml:id="spp-763BWILH-line-51">Must these like empty Shadows pass,&#13;</l><l n="52" xml:id="spp-763BWILH-line-52"> Or Forms reflected from a Glass?</l><l n="53" xml:id="spp-763BWILH-line-53"> Or mere Chim<unclear>ae</unclear>ra's in the Mind,</l><l n="54" xml:id="spp-763BWILH-line-54"> That fly and leave no Marks behind?</l><l n="55" xml:id="spp-763BWILH-line-55"> Does not the Body thrive and grow</l><l n="56" xml:id="spp-763BWILH-line-56"> By Food of twenty Years ago?</l><l n="57" xml:id="spp-763BWILH-line-57"> And, had it not been still supply'd,</l><l n="58" xml:id="spp-763BWILH-line-58"> It must a thousand Times have dy'd.</l><l n="59" xml:id="spp-763BWILH-line-59"> Then, who with Reason can maintain,</l><l n="60" xml:id="spp-763BWILH-line-60"> That no Effects of Food remain?</l><l n="61" xml:id="spp-763BWILH-line-61"> And, is not Virtue in Mankind</l><l n="62" xml:id="spp-763BWILH-line-62"> The Nutriment that feeds the Mind?</l><l n="63" xml:id="spp-763BWILH-line-63"> Upheld by each good Action past,</l><l n="64" xml:id="spp-763BWILH-line-64"> And still continued by the last:</l><l n="65" xml:id="spp-763BWILH-line-65"> Then, who with Reason can pretend,</l><l n="66" xml:id="spp-763BWILH-line-66"> That all Effects of Virtue end?</l></lg><lg n="6" type="stanza"><l n="67" xml:id="spp-763BWILH-line-67">Believe me <hi rend="underline">Stella</hi>, when you show</l><l n="68" xml:id="spp-763BWILH-line-68"> That true Contempt for Things below,</l><l n="69" xml:id="spp-763BWILH-line-69"> Nor prize your Life for other Ends</l><l n="70" xml:id="spp-763BWILH-line-70"> Than merely to oblige your Friends;</l><l n="71" xml:id="spp-763BWILH-line-71"> Your former Actions claim their Part,</l><l n="72" xml:id="spp-763BWILH-line-72"> And join to fortify your Heart.</l><l n="73" xml:id="spp-763BWILH-line-73"> For Virtue in her daily Race,</l><l n="74" xml:id="spp-763BWILH-line-74"> Like <hi rend="underline">Janus</hi>, bears a double Face;</l><l n="75" xml:id="spp-763BWILH-line-75"> Looks back with Joy where she has gone,</l><l n="76" xml:id="spp-763BWILH-line-76"> And therefore goes with Courage on.</l><l n="77" xml:id="spp-763BWILH-line-77"> She at your sickly Couch will wait,</l><l n="78" xml:id="spp-763BWILH-line-78"> And guide you to a better State.</l></lg><lg n="7" type="stanza"><l n="79" xml:id="spp-763BWILH-line-79">O then, whatever Heav'n intends,&#13;</l><l n="80" xml:id="spp-763BWILH-line-80"> Take Pity on your pitying Friends;</l><l n="81" xml:id="spp-763BWILH-line-81"> Nor let your Ills affect your Mind,</l><l n="82" xml:id="spp-763BWILH-line-82"> To fancy they can be unkind.</l><l n="83" xml:id="spp-763BWILH-line-83"> Me, surely me, you ought to spare,</l><l n="84" xml:id="spp-763BWILH-line-84"> Who gladly would your Suff'rings share;</l><l n="85" xml:id="spp-763BWILH-line-85"> Or give my Scrap of Life to you,</l><l n="86" xml:id="spp-763BWILH-line-86"> And think it far beneath your Due;</l><l n="87" xml:id="spp-763BWILH-line-87"> You, to whose Care so oft I owe,</l><l n="88" xml:id="spp-763BWILH-line-88"> That I'm alive to tell you so.763BWILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

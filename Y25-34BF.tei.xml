@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Advice to a <hi rend="underline">Painter</hi>, who was to draw a Lady's Lap-Dog.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y25-34BF" type="poem"><head type="note" n="1" xml:id="spp-Y25-34BF-headnote-1"><lg n="1" xml:id="spp-Y25-34BF-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y25-34BF-headnote-1-line-group-1-line-1">In Imitation of a certain Writer.</l></lg></head><head type="note" n="2" xml:id="spp-Y25-34BF-headnote-2"><lg n="1" xml:id="spp-Y25-34BF-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y25-34BF-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y25-34BF-headnote-3"><lg n="1" xml:id="spp-Y25-34BF-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y25-34BF-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y25-34BF-line-1"><hi rend="display-initial">T</hi>HE happiest of the <hi rend="underline">Lap-Dog</hi> Race,<hi rend="underline">Painter</hi>, with thy Colours grace;</l><l n="2" xml:id="spp-Y25-34BF-line-2"> Draw his Forehead large and high,</l><l n="3" xml:id="spp-Y25-34BF-line-3"> Draw his blue and humid Eye,</l><l n="4" xml:id="spp-Y25-34BF-line-4"> Draw his Neck all smooth and round,</l><l n="5" xml:id="spp-Y25-34BF-line-5"> Little Neck, with <hi rend="underline">Ribbons</hi> bound:</l><l n="6" xml:id="spp-Y25-34BF-line-6"> And the <hi rend="underline">Muscly</hi> swelling Breast,</l><l n="7" xml:id="spp-Y25-34BF-line-7"> Where the Loves and Graces rest:</l><l n="8" xml:id="spp-Y25-34BF-line-8"> And the spreading even Back,</l><l n="9" xml:id="spp-Y25-34BF-line-9"> Soft and sleek, and glossy black,</l><l n="10" xml:id="spp-Y25-34BF-line-10"> And the Tail that gently twines</l><l n="11" xml:id="spp-Y25-34BF-line-11"> Like the Tendrils of the Vines,</l><l n="12" xml:id="spp-Y25-34BF-line-12"> And the silky twisted Hair</l><l n="13" xml:id="spp-Y25-34BF-line-13"> Shadowing thick the <hi rend="underline">Velvet</hi> Ear;<hi rend="underline">Velvet</hi> Ears, which hanging low,</l><l n="14" xml:id="spp-Y25-34BF-line-14"> O'er the <hi rend="underline">Veiny</hi> Temples flow.Next in proper Light and Shade,</l><l n="15" xml:id="spp-Y25-34BF-line-15"> Let the spreading Hoop be laid,</l><l n="16" xml:id="spp-Y25-34BF-line-16"> Underneath this arching Bow'r</l><l n="17" xml:id="spp-Y25-34BF-line-17"> (Sacred Circle, mystick Pow'r!)</l><l n="18" xml:id="spp-Y25-34BF-line-18"> In a downy Slumber place,</l><l n="19" xml:id="spp-Y25-34BF-line-19"> The happiest of the Lap-Dog Race,</l><l n="20" xml:id="spp-Y25-34BF-line-20"> While the fair perspiring Dame,</l><l n="21" xml:id="spp-Y25-34BF-line-21"> Glowing with the softest Flame,</l><l n="22" xml:id="spp-Y25-34BF-line-22"> On her ravish'd Fav'rite pours</l><l n="23" xml:id="spp-Y25-34BF-line-23"> Balmy Dews, ambrosial Show'rs.Now, <hi rend="underline">Painter</hi>, with thy Skill express</l><l n="24" xml:id="spp-Y25-34BF-line-24"> Nature in her richest Dress,</l><l n="25" xml:id="spp-Y25-34BF-line-25"> Limpid <hi rend="underline">Rivers</hi> smoothly flowing,<hi rend="underline">Orchards</hi> by those <hi rend="underline">Rivers</hi> blowing,</l><l n="26" xml:id="spp-Y25-34BF-line-26"> Curling <hi rend="underline">Woodbines</hi> Myrtle Shade,</l><l n="27" xml:id="spp-Y25-34BF-line-27"> And the gay enamel'd Mead,</l><l n="28" xml:id="spp-Y25-34BF-line-28"> Where the <hi rend="underline">Linnets</hi> sit and sing</l><l n="29" xml:id="spp-Y25-34BF-line-29"> Little Sportlings of the <hi rend="underline">Spring</hi>,</l><l n="30" xml:id="spp-Y25-34BF-line-30"> Where the breathing <hi rend="underline">Field</hi> and <hi rend="underline">Grove</hi></l><l n="31" xml:id="spp-Y25-34BF-line-31"> Sooth the Heart and kindle Love;</l><l n="32" xml:id="spp-Y25-34BF-line-32"> Here for me, and for my Muse</l><l n="33" xml:id="spp-Y25-34BF-line-33"> Colours of Resemblance chuse,</l><l n="34" xml:id="spp-Y25-34BF-line-34"> Make of <hi rend="underline">Lineaments</hi> divine</l><l n="35" xml:id="spp-Y25-34BF-line-35"> Dappled Female <hi rend="underline">Spaniels</hi> shine,</l><l n="36" xml:id="spp-Y25-34BF-line-36"> Pretty Fondlings of the Fair,</l><l n="37" xml:id="spp-Y25-34BF-line-37"> Gentle <hi rend="underline">Damsels</hi> gentle <hi rend="underline">Care</hi>!</l><l n="38" xml:id="spp-Y25-34BF-line-38"> To one of these do thou impart</l><l n="39" xml:id="spp-Y25-34BF-line-39"> All the Flatt'ry of thy Art,</l><l n="40" xml:id="spp-Y25-34BF-line-40"> Crowd each Feature, crowd each Grace,</l><l n="41" xml:id="spp-Y25-34BF-line-41"> Which compleat the <hi rend="underline">Desp'rate Face</hi>;</l><l n="42" xml:id="spp-Y25-34BF-line-42"> Let the spotted wanton Dame</l><l n="43" xml:id="spp-Y25-34BF-line-43"> Feel a new resistless Flame,</l><l n="44" xml:id="spp-Y25-34BF-line-44"> Let the happiest of his Race</l><l n="45" xml:id="spp-Y25-34BF-line-45"> Win the Fair to his <hi rend="underline">Embrace</hi>;</l><l n="46" xml:id="spp-Y25-34BF-line-46"> But in Shade the rest conceal,</l><l n="47" xml:id="spp-Y25-34BF-line-47"> Nor to Sight their Joys reveal,</l><l n="48" xml:id="spp-Y25-34BF-line-48"> Lest the <hi rend="underline">Pencil</hi> and the <hi rend="underline">Muse</hi></l><l n="49" xml:id="spp-Y25-34BF-line-49"> Loose Desires and Thoughts infuse.Y25-34BF   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

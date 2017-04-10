@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="678B527V" type="poem"><head type="note" n="1" xml:id="spp-678B527V-headnote-1"><lg n="1" xml:id="spp-678B527V-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-678B527V-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-678B527V-headnote-2"><lg n="1" xml:id="spp-678B527V-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-678B527V-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-678B527V-headnote-3"><lg n="1" xml:id="spp-678B527V-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-678B527V-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-678B527V-line-1"> Iames Bruges &amp; the Dean had long been friends,&#13;</l><l n="2" xml:id="spp-678B527V-line-2"> Iames is be-duk'd: of course their friend<hi rend="sup">shp</hi> ends</l><l n="3" xml:id="spp-678B527V-line-3"> But, sure the Dean deserves a sharp Rebuke</l><l n="4" xml:id="spp-678B527V-line-4"> From knowing Iames, to boast he knows the Duke.<unclear>Yet overBut</unclear>, since just Heav'n the Dukes ambition mocks</l><l n="5" xml:id="spp-678B527V-line-5"> Since all he got by Fraud, is lost by Stocks,</l><l n="6" xml:id="spp-678B527V-line-6"> His wings are clipp't; he tryes no more in vain</l><l n="7" xml:id="spp-678B527V-line-7"> With Bands of Fidlers to extend his Treyn</l><l n="8" xml:id="spp-678B527V-line-8"> Since he no more can build, and plant, &amp; revell,</l><l n="9" xml:id="spp-678B527V-line-9"> The Duke and Dean seem near upon a levell.</l><l n="10" xml:id="spp-678B527V-line-10"> Oh! wer't thou not a Duke, my good Duke Humphry,</l><l n="11" xml:id="spp-678B527V-line-11"> From Bayliffs claws thou scarce cou'd keep thy Bum free</l><l n="12" xml:id="spp-678B527V-line-12"> A Duke to know a Dean! go smooth your <unclear>Frown over?Brown</unclear>,</l><l n="13" xml:id="spp-678B527V-line-13"> Thy Brother (far thy Betters) wore a Gown.</l><l n="14" xml:id="spp-678B527V-line-14"> Well: but a Duke thou art; so pleas<hi rend="sup">d</hi> the King</l><l n="15" xml:id="spp-678B527V-line-15"> Oh! would His Majesty but add a String.678B527V   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="!W48645B" type="poem"><head type="note" n="1" xml:id="spp-!W48645B-headnote-1"><lg n="1" xml:id="spp-!W48645B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-!W48645B-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-!W48645B-headnote-2"><lg n="1" xml:id="spp-!W48645B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-!W48645B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-!W48645B-headnote-3"><lg n="1" xml:id="spp-!W48645B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-!W48645B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-!W48645B-line-1"><hi rend="black-letter">W</hi>higg's the first Letter of his Name<hi rend="black-letter">H</hi>ypochrasy The second of the same<hi rend="black-letter">A</hi>narchy's his darling, and his Aim.<hi rend="black-letter">R</hi>ebellion, Discord, Mutiny &amp; faction,<hi rend="black-letter">T</hi>om Captain of the Mobb in Soul &amp; Action,<hi rend="black-letter">O</hi>'ergrown in Sin, Cornuted, old, in Debt<hi rend="black-letter">N</hi>ol's Soul &amp; Ireton's lives within him yett.!W48645B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

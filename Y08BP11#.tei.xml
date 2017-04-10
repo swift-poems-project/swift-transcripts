@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>PUNCH'S</title>
+        <title>TO THE<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y08BP11#" type="poem"><head type="note" n="1" xml:id="spp-Y08BP11#-headnote-1"><lg n="1" xml:id="spp-Y08BP11#-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y08BP11#-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y08BP11#-headnote-2"><lg n="1" xml:id="spp-Y08BP11#-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y08BP11#-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y08BP11#-headnote-3"><lg n="1" xml:id="spp-Y08BP11#-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y08BP11#-headnote-3-line-group-1-line-1">Y08BP11#</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y08BP11#-line-1">Y08BP11#   1  <hi rend="display-initial">F</hi>Air ones! to you who Hearts Command,Y08BP11#   2  And gently sway with Fan in Hand,Y08BP11#   3  Your fav'rite PUNCH a suppliant fallsY08BP11#   4  And humbly for Assistance calls;Y08BP11#   5  He humbly calls and begs you'll stop,Y08BP11#   6  The Gothick Rage of Vanderhop,Y08BP11#   7  Who invades without pretence or rightY08BP11#   8  Or any Law but that of Might,Y08BP11#   9  Our Pigmy Land, and Treats our Kings,Y08BP11#   10  Like Paultry, Idle, Wodden things.Y08BP11#   11  Has beat our Dancers out of Doors,Y08BP11#   12  And call'd our chasest Virgins Whores,Y08BP11#   13  He has not left our Queen a Ragg onY08BP11#   14  Has forc'd our George away and Dragon,Y08BP11#   15  Has broke our Wires, nor was he CivilY08BP11#   16  To Dr. Faustus or the Devil;Y08BP11#   17  Even me he hurry'd with full Rage,Y08BP11#   18  Most hoarsly Squaling off the Stage.Y08BP11#   19  </l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-Y08BP11#-line-2">And faith our Fright was very great;&#13;Y08BP11#   20  To see a Minister of State,Y08BP11#   21  Arm'd with Power and Fury come,Y08BP11#   22  To force us from our little Home.Y08BP11#   23  </l></lg><lg n="3" type="stanza"><l n="3" xml:id="spp-Y08BP11#-line-3">We fear'd (as I am sure we'd Reason)&#13;Y08BP11#   24  An Accusation of High-Treason,Y08BP11#   25  Till starting up says BANDIMERE,Y08BP11#   26  Treason my Friends we need not fear,Y08BP11#   27  For 'gainst the BRASS we us'd no PowerY08BP11#   28  Nor strove to save the CHANCELLOUR,Y08BP11#   29  Nor did we shew the least AffectionY08BP11#   30  To ROCHFORD, on the Meath Election:Y08BP11#   31  Nor did we Sing────Mc'·Hugh he Means,Y08BP11#   32  Ye Villain I'll dash out your Brains:Y08BP11#   33  Tis no Affair of State that brings.Y08BP11#   34  Me here! nor Business of the Kings:Y08BP11#   35  I come to seize you all as Debtors,Y08BP11#   36  And bind you fast in Iron Fetters,Y08BP11#   37  From sight of every Friend in Town,Y08BP11#   38  Till Fifty Pounds to me paid down:Y08BP11#   39  Fifty Quoth I, a devilish Sum,Y08BP11#   40  But stay till the Brass Farthings come,Y08BP11#   41  Then we shall all be rich as Jews.Y08BP11#   42  From Castle down to lowest Hews,Y08BP11#   43  That Sum shall then be to you toldY08BP11#   44  Tho' now we cannot furnish Gold,Y08BP11#   45  <gap/>Y08BP11#   46  <gap/>Y08BP11#   47  Quoth he! thou Vile Mishapen Beast;Y08BP11#   48  Thou Knave, am I become thy Jest,Y08BP11#   49  <gap/>Y08BP11#   50  <gap/>Y08BP11#   51  Thou Fool, I ne'er do things by halves,Y08BP11#   52  Farthings were made for Irish Slaves:Y08BP11#   53  No Brass for me────it must be GOLD,Y08BP11#   54  Or fifty Pounds in Silver told,Y08BP11#   55  That can by any means obtain,Y08BP11#   56  Freedom for thee and for thy Train:Y08BP11#   57  </l></lg><lg n="4" type="triplet"><l n="4" xml:id="spp-Y08BP11#-line-4">Votre tres humble Serviteur,&#13;Y08BP11#   58  I'm not in Jest (said I) I'm sure:Y08BP11#   59  But from the bottom of my Belly,Y08BP11#   60  I in sober sadness tell ye?Y08BP11#   61  I thought it was good ReasoningY08BP11#   62  In us fictitious Men to bring:Y08BP11#   63  Brass Counters made by William Wood,Y08BP11#   64  Which might as well be Understood,Y08BP11#   65  Intrinsick as we Flesh and Blood.Y08BP11#   66  Then since we are but mimick Men,Y08BP11#   67  Pray let us Pay in Mimick Coin.Y08BP11#   68  <gap/>Y08BP11#   69  <gap/>Y08BP11#   70  <gap/>Y08BP11#   71  <gap/>Y08BP11#   72  <gap/>Y08BP11#   73  <gap/>Y08BP11#   74  <gap/>Y08BP11#   75  <gap/>Y08BP11#   76  <gap/>Y08BP11#   77  <gap/>Y08BP11#   78  <gap/>Y08BP11#   79  <gap/>Y08BP11#   80  <gap/>Y08BP11#   81  <gap/>Y08BP11#   82  <gap/>Y08BP11#   83  <gap/>Y08BP11#   84  <gap/>Y08BP11#   85  <gap/>Y08BP11#   86  Quoth he, thou lovest PUNCH to prate,Y08BP11#   87  And could for ever hold Debate,Y08BP11#   88  But think'st thou that I've, naught to do;Y08BP11#   89  But to stand prating here with you,Y08BP11#   90  Therefore to stop your noisy Parly.Y08BP11#   91  I at once assure you fairly,Y08BP11#   92  That not a Puppet of you all,Y08BP11#   93  Shall stir a step without this Wall,Y08BP11#   94  Nor Merry Andrew beat his Drum,Y08BP11#   95  Untill you've paid the aforesaid Sum.Y08BP11#   96  Then Marching off with swiftest Pace,Y08BP11#   97  To write Dispatches for his Grace,Y08BP11#   98  The Revel Master left the Room,Y08BP11#   99  And us Condemn'd to fatal Doom,Y08BP11#   100  Now Ladies if I e'er found Grace.Y08BP11#   101  Or that my Jokes did ever please,Y08BP11#   102  Use all your Intrest with the SEC.Y08BP11#   103  They say he's at the Ladies beck,Y08BP11#   104  And tho' he thirsts as much for Gold.Y08BP11#   105  As ever MIDIS did of Old:Y08BP11#   106  Your Charms I'm sure can never fail.Y08BP11#   107  Your's must Influence, must prevail,Y08BP11#   108  At your Request he'll set us free.Y08BP11#   109  Let us to you owe Liberty,Y08BP11#   110  Get us a Licence now to Play,Y08BP11#   111  And we in Duty Bound will Pray:</l></lg><lg n="5" type="stanza"><l n="5" xml:id="spp-Y08BP11#-line-5" rend="flush right">PUNCH Cum Sociis.&#13;Y08BP11#   112  <gap/>Y08BP11#   113  <gap/>Y08BP11#   114  <gap/>Y08BP11#   115  <gap/>Y08BP11#   116  <gap/>Y08BP11#   117  <gap/>Y08BP11#   118  <gap/>Y08BP11#   119  <gap/>Y08BP11#   120  <gap/>Y08BP11#   121  <gap/>Y08BP11#   122  <gap/>Y08BP11#   123  <gap/>Y08BP11#   124  <gap/>Y08BP11#   125  <gap/>Y08BP11#   126  <gap/>Y08BP11#   127  <gap/>Y08BP11#   128  <gap/>Y08BP11#   129  <gap/>Y08BP11#   130  <gap/>Y08BP11#   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

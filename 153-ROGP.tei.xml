@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">A Fable of the Widow and Her Cat</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="153-ROGP" type="poem"><head type="note" n="1" xml:id="spp-153-ROGP-headnote-1"><lg n="1" xml:id="spp-153-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-153-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-153-ROGP-headnote-2"><lg n="1" xml:id="spp-153-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-153-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-153-ROGP-headnote-3"><lg n="1" xml:id="spp-153-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-153-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-153-ROGP-line-1" rend="align(center)">I</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-153-ROGP-line-2" rend="flush left">A widow kept a favourite cat,&#13;At first a gentle creature;</l><l n="3" xml:id="spp-153-ROGP-line-3"> But when he was grown sleek and fat,</l><l n="4" xml:id="spp-153-ROGP-line-4"> With many a mouse, and many a rat,He soon disclosed his nature.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-153-ROGP-line-5" rend="align(center)">II</l></lg><lg n="4" type="stanza"><l n="6" xml:id="spp-153-ROGP-line-6" rend="flush left">The fox and he were friends of old,&#13;Nor could they now be parted;</l><l n="7" xml:id="spp-153-ROGP-line-7"> They nightly slunk to rob the fold,</l><l n="8" xml:id="spp-153-ROGP-line-8"> Devoured the lambs, the fleeces sold,And Puss grew lion-hearted.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-153-ROGP-line-9" rend="align(center)">III</l></lg><lg n="6" type="stanza"><l n="10" xml:id="spp-153-ROGP-line-10" rend="flush left">He scratched her maid, he stole the cream,&#13;He tore her best laced pinner;</l><l n="11" xml:id="spp-153-ROGP-line-11"> Nor Chanticleer upon the beam,</l><l n="12" xml:id="spp-153-ROGP-line-12"> Nor chick, nor duckling 'scapes, when GrimInvites the fox to dinner.</l></lg><lg n="7" type="stanza"><l n="13" xml:id="spp-153-ROGP-line-13" rend="align(center)">IV</l></lg><lg n="8" type="stanza"><l n="14" xml:id="spp-153-ROGP-line-14" rend="flush left">The dame full wisely did decree,&#13;For fear he should dispatch more,</l><l n="15" xml:id="spp-153-ROGP-line-15"> That the false wretch should worried be:</l><l n="16" xml:id="spp-153-ROGP-line-16"> But in a saucy manner heThus speeched it like a Lechmere.</l></lg><lg n="9" type="stanza"><l n="17" xml:id="spp-153-ROGP-line-17" rend="align(center)">V</l></lg><lg n="10" type="stanza"><l n="18" xml:id="spp-153-ROGP-line-18" rend="flush left">`Must I, against all right and law,&#13;Like pole-cat vile be treated?</l><l n="19" xml:id="spp-153-ROGP-line-19"> I! who so long with tooth and claw</l><l n="20" xml:id="spp-153-ROGP-line-20"> Have kept domestic mice in awe,And foreign foes defeated!</l></lg><lg n="11" type="stanza"><l n="21" xml:id="spp-153-ROGP-line-21" rend="align(center)">VI</l></lg><lg n="12" type="stanza"><l n="22" xml:id="spp-153-ROGP-line-22" rend="flush left">`Your golden pippins, and your pies,&#13;How oft have I defended?</l><l n="23" xml:id="spp-153-ROGP-line-23"> 'Tis true, the pinner which you prize</l><l n="24" xml:id="spp-153-ROGP-line-24"> I tore in frolic; to your eyesI never harm intended.</l></lg><lg n="13" type="stanza"><l n="25" xml:id="spp-153-ROGP-line-25" rend="align(center)">VII</l></lg><lg n="14" type="stanza"><l n="26" xml:id="spp-153-ROGP-line-26" rend="flush left">`I am a cat of honour──' `Stay,'&#13;Quoth she, `no longer parley;</l><l n="27" xml:id="spp-153-ROGP-line-27"> Whate'er you did in battle slay,</l><l n="28" xml:id="spp-153-ROGP-line-28"> By law of arms became your prey,I hope you won it fairly.</l></lg><lg n="15" type="stanza"><l n="29" xml:id="spp-153-ROGP-line-29" rend="align(center)">VIII</l></lg><lg n="16" type="stanza"><l n="30" xml:id="spp-153-ROGP-line-30" rend="flush left">`Of this, we'll grant you stand acquit,&#13;But not of your outrages:</l><l n="31" xml:id="spp-153-ROGP-line-31"> Tell me, perfidious! was it fit</l><l n="32" xml:id="spp-153-ROGP-line-32"> To make my cream a <hi rend="underline">perquisite</hi>,And steal to mend your wages?</l></lg><lg n="17" type="stanza"><l n="33" xml:id="spp-153-ROGP-line-33" rend="align(center)">IX</l></lg><lg n="18" type="stanza"><l n="34" xml:id="spp-153-ROGP-line-34" rend="flush left">`So flagrant is thy insolence,&#13;So vile thy breach of trust is;</l><l n="35" xml:id="spp-153-ROGP-line-35"> That longer with thee to dispense,</l><l n="36" xml:id="spp-153-ROGP-line-36"> Were want of power, or want of sense:Here, Towser!──Do him justice.'153-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

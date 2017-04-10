@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Stella's Birth-Day. March 13. 1726.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="763B161O" type="poem"><head type="note" n="1" xml:id="spp-763B161O-headnote-1"><lg n="1" xml:id="spp-763B161O-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-763B161O-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-763B161O-headnote-2"><lg n="1" xml:id="spp-763B161O-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-763B161O-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-763B161O-headnote-3"><lg n="1" xml:id="spp-763B161O-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-763B161O-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-763B161O-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> Altho' we can now form no more&#13;</l><l n="2" xml:id="spp-763B161O-line-2"> Long Schemes of Life, as heretofore;</l><l n="3" xml:id="spp-763B161O-line-3"> Yet you, while Time is running fast,</l><l n="4" xml:id="spp-763B161O-line-4"> Can look with Ioy on what is past.Were future Happiness and Pain</l><l n="5" xml:id="spp-763B161O-line-5"> A mere Contrivance of the Brain;<gap/><gap/><gap/><gap/></l><l n="6" xml:id="spp-763B161O-line-6"> Grant this the Case, yet sure 'tis hard</l><l n="7" xml:id="spp-763B161O-line-7"> That Virtue, styl'd its own Reward,</l><l n="8" xml:id="spp-763B161O-line-8"> And by all Sages understood</l><l n="9" xml:id="spp-763B161O-line-9"> To be the chief of human Good,</l><l n="10" xml:id="spp-763B161O-line-10"> Should acting, die, nor leave behind</l><l n="11" xml:id="spp-763B161O-line-11"> Some lasting Pleasure in the Mind,</l><l n="12" xml:id="spp-763B161O-line-12"> Which by Remembrance will asswage,</l><l n="13" xml:id="spp-763B161O-line-13"> Grief, Sickness, Poverty and Age;</l><l n="14" xml:id="spp-763B161O-line-14"> And strongly shoot a radiant Dart,</l><l n="15" xml:id="spp-763B161O-line-15"> To shine thro' Life's declining Part.Say, Stella, feel you no Content,</l><l n="16" xml:id="spp-763B161O-line-16"> Reflecting on·on a life well spent;</l><l n="17" xml:id="spp-763B161O-line-17"> Your skillfull hand employ'd to save</l><l n="18" xml:id="spp-763B161O-line-18"> Despairing Wretches from the Grave;</l><l n="19" xml:id="spp-763B161O-line-19"> And then supporting with your Store,</l><l n="20" xml:id="spp-763B161O-line-20"> Those whom you dragg'd from Death before:</l><l n="21" xml:id="spp-763B161O-line-21"> So Providence on mortals waits,</l><l n="22" xml:id="spp-763B161O-line-22"> Preserving what it first creates.</l><l n="23" xml:id="spp-763B161O-line-23"> Your gen'rous boldness to defend</l><l n="24" xml:id="spp-763B161O-line-24"> An innocent and absent friend;</l><l n="25" xml:id="spp-763B161O-line-25"> That Courage which can make you just,</l><l n="26" xml:id="spp-763B161O-line-26"> To Merit humbled in the Dust;</l><l n="27" xml:id="spp-763B161O-line-27"> The Detestation you express</l><l n="28" xml:id="spp-763B161O-line-28"> For Vice in all its glitt'ring Dress:</l><l n="29" xml:id="spp-763B161O-line-29"> That Patience under tort'ring Pain,</l><l n="30" xml:id="spp-763B161O-line-30"> Where stubborn Stoicks would complain.Must these like empty Shadows pass,</l><l n="31" xml:id="spp-763B161O-line-31"> Or forms reflected from a Glass?</l><l n="32" xml:id="spp-763B161O-line-32"> Or mere Chim<unclear>ae</unclear>ras in the Mind,</l><l n="33" xml:id="spp-763B161O-line-33"> That fly, and leave no Marks behind?</l><l n="34" xml:id="spp-763B161O-line-34"> Does not the Body thrive and grow</l><l n="35" xml:id="spp-763B161O-line-35"> By food of twenty years ago?</l><l n="36" xml:id="spp-763B161O-line-36"> And, had it not been still supply'd,</l><l n="37" xml:id="spp-763B161O-line-37"> It must a thousand times have dy'd.</l><l n="38" xml:id="spp-763B161O-line-38"> Then, who with reason can maintain</l><l n="39" xml:id="spp-763B161O-line-39"> That no Effects of food remain?</l><l n="40" xml:id="spp-763B161O-line-40"> And, is not Virtue in Mankind</l><l n="41" xml:id="spp-763B161O-line-41"> The Nutriment that feeds the Mind?</l><l n="42" xml:id="spp-763B161O-line-42"> Upheld by each good Action past,</l><l n="43" xml:id="spp-763B161O-line-43"> And still continu'd by the last:</l><l n="44" xml:id="spp-763B161O-line-44"> Then who with reason can pretend</l><l n="45" xml:id="spp-763B161O-line-45"> That all Effects of Virtue end?Believe me, Stella, when you show</l><l n="46" xml:id="spp-763B161O-line-46"> That true Contempt for things below,</l><l n="47" xml:id="spp-763B161O-line-47"> Nor prize your life for other ends</l><l n="48" xml:id="spp-763B161O-line-48"> Than merely to oblige your friends;</l><l n="49" xml:id="spp-763B161O-line-49"> Your former actions claim their part,</l><l n="50" xml:id="spp-763B161O-line-50"> And join to fortify your heart.</l><l n="51" xml:id="spp-763B161O-line-51"> For Virtue in her daily Race,</l><l n="52" xml:id="spp-763B161O-line-52"> Like Ianus bears a double face;</l><l n="53" xml:id="spp-763B161O-line-53"> Looks back with Joy where she has gone,</l><l n="54" xml:id="spp-763B161O-line-54"> And therefore goes with Courage on.</l><l n="55" xml:id="spp-763B161O-line-55"> She at your sickly Couch will wait,</l><l n="56" xml:id="spp-763B161O-line-56"> And guide you to a better State.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>763B161O   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

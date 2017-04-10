@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="!W1810M2" type="poem"><head type="note" n="1" xml:id="spp-!W1810M2-headnote-1"><lg n="1" xml:id="spp-!W1810M2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-!W1810M2-headnote-1-line-group-1-line-1"><hi rend="display-initial">H</hi>ERE is a very ingenious Observation upon the Days of the Week, and in Rhime, worth your Observation, and very proper for the Information of Boys and Girls, that they may not forget to reckon them:</l></lg></head><head type="note" n="2" xml:id="spp-!W1810M2-headnote-2"><lg n="1" xml:id="spp-!W1810M2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-!W1810M2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-!W1810M2-headnote-3"><lg n="1" xml:id="spp-!W1810M2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-!W1810M2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-!W1810M2-line-1"> Sunday's a Pun-day,&#13;</l><l n="2" xml:id="spp-!W1810M2-line-2"> Monday's a Dun-day,</l><l n="3" xml:id="spp-!W1810M2-line-3"> Tuesday's a News-day,</l><l n="4" xml:id="spp-!W1810M2-line-4"> Wedn'sday's a Friend's-day,</l><l n="5" xml:id="spp-!W1810M2-line-5"> Thursday's a Curs'd-day,</l><l n="6" xml:id="spp-!W1810M2-line-6"> Friday's a Dry-day,</l><l n="7" xml:id="spp-!W1810M2-line-7"> Saturday's the Latter-day.!W1810M2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

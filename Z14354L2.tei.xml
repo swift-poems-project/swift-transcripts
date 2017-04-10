@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">On</hi> G<hi rend="SMALL-CAPS">ILES</hi> <hi rend="underline">and</hi> J<hi rend="SMALL-CAPS">OAN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z14354L2"><head type="note" n="1" xml:id="spp-Z14354L2-headnote-1"><lg n="1" xml:id="spp-Z14354L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Z14354L2-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-Z14354L2-headnote-2"><lg n="1" xml:id="spp-Z14354L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Z14354L2-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-Z14354L2-headnote-3"><lg n="1" xml:id="spp-Z14354L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Z14354L2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Z14354L2-line-1"><hi rend="display-initial">W</hi>HO says that <hi rend="underline">Giles</hi> and <hi rend="underline">Joan</hi> at Discord be?</l><l/><l n="2" xml:id="spp-Z14354L2-line-2">Th' observing Neighbours no such Mood can see.</l><l/><l n="3" xml:id="spp-Z14354L2-line-3">Indeed, poor <hi rend="underline">Giles</hi> repents he married ever;</l><l/><l n="4" xml:id="spp-Z14354L2-line-4">But that his <hi rend="underline">Joan</hi> doth too. And <hi rend="underline">Giles</hi> would never,</l><l/><l n="5" xml:id="spp-Z14354L2-line-5">By his free Will, be in <hi rend="underline">Joan</hi>'s Company;</l><l/><l n="6" xml:id="spp-Z14354L2-line-6">No more would <hi rend="underline">Joan</hi> he should. <hi rend="underline">Giles riseth</hi> early,</l><l/><l n="7" xml:id="spp-Z14354L2-line-7">And having got him out of Doors is glad:</l><l/><l n="8" xml:id="spp-Z14354L2-line-8">The like is <hi rend="underline">Joan</hi>: But, turning Home, is sad;</l><l/><l n="9" xml:id="spp-Z14354L2-line-9">And so is <hi rend="underline">Joan</hi>.  Oft times when <hi rend="underline">Giles</hi> doth find</l><l/><l n="10" xml:id="spp-Z14354L2-line-10">Harsh Sights at Home, <hi rend="underline">Giles</hi> wisheth he were blind;</l><l/><l n="11" xml:id="spp-Z14354L2-line-11">All this doth <hi rend="underline">Joan</hi>: Or, that his long-yearn'd Life</l><l/><l n="12" xml:id="spp-Z14354L2-line-12">Were quite out-spun: the like Wish hath his Wife.</l><l/><l n="13" xml:id="spp-Z14354L2-line-13">The Children that he keeps, <hi rend="underline">Giles</hi> swears are none</l><l/><l n="14" xml:id="spp-Z14354L2-line-14">Of his begetting; and so swears his <hi rend="underline">Joan</hi>.</l><l/><l n="15" xml:id="spp-Z14354L2-line-15">In all Affections she concurreth still:</l><l/><l n="16" xml:id="spp-Z14354L2-line-16">If now, with Man and Wife, to will and nill</l><l/><l n="17" xml:id="spp-Z14354L2-line-17">The self-same Things, a Note of Concord be,</l><l/><l n="18" xml:id="spp-Z14354L2-line-18">I know no Couple better can agree.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To the Dean of S<hi rend="sup">t</hi> 08. Patricks</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="973-002D" type="poem"><head type="note" n="1" xml:id="spp-973-002D-headnote-1"><lg n="1" xml:id="spp-973-002D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-973-002D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-973-002D-headnote-2"><lg n="1" xml:id="spp-973-002D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-973-002D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-973-002D-headnote-3"><lg n="1" xml:id="spp-973-002D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-973-002D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-973-002D-line-1"> S<hi rend="sup">ṛ</hi></l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-973-002D-line-2">Don't Think these few lines which I send a Reproach&#13;</l><l n="3" xml:id="spp-973-002D-line-3"> From My Muse on a Car to Your Muse in a Coach.</l><l n="4" xml:id="spp-973-002D-line-4"> The Great God of Poem delights in a Car</l><l n="5" xml:id="spp-973-002D-line-5"> Which makes him so Bright, that We see him so far</l><l n="6" xml:id="spp-973-002D-line-6"> For Were he mew'd up in a Coach 'tis allow'd</l><l n="7" xml:id="spp-973-002D-line-7"> We shou'd see him no more than We see thro' a Cloud</l><l n="8" xml:id="spp-973-002D-line-8"> You know to Apply this, I do not disparage</l><l n="9" xml:id="spp-973-002D-line-9"> Your Lines, but I say they're the Worse for the CariageNow first You deny that a Woman's a Sive</l><l n="10" xml:id="spp-973-002D-line-10"> I say that she is.──What reason do You give?</l><l n="11" xml:id="spp-973-002D-line-11"> Because She lets out more than she takes in.</l><l n="12" xml:id="spp-973-002D-line-12"> Is that Your Advance for't? You're still to Begin</l><l n="13" xml:id="spp-973-002D-line-13"> Your Major and Minor I both can refute</l><l n="14" xml:id="spp-973-002D-line-14"> I'll Teach You hereafter with whom You dispute</l><l n="15" xml:id="spp-973-002D-line-15"> A Sieve keeps in half, deny't if You can</l><l n="16" xml:id="spp-973-002D-line-16"> D: Adzucks I gramercy, who thouht of the Bran?</l><l n="17" xml:id="spp-973-002D-line-17"> I tell you in short S<hi rend="sup">ṛ</hi> You shou'd have a Pair of Stocks</l><l n="18" xml:id="spp-973-002D-line-18"> For thinking to Palm on Y<hi rend="sup">ṛ</hi> Friend such a Paradox.</l><l n="19" xml:id="spp-973-002D-line-19"> Indeed I confess att the Close You grew better</l><l n="20" xml:id="spp-973-002D-line-20"> But You Light from Your Coach when You finish'd y<hi rend="sup">r</hi> Letter:</l><l n="21" xml:id="spp-973-002D-line-21"> Your Thing which You say wants Interpretation</l><l n="22" xml:id="spp-973-002D-line-22"> What's Name for a Maiden the first Man's Damnation?</l><l n="23" xml:id="spp-973-002D-line-23"> Adam's Hell, a Damzell, ay there I have hitt it,</l><l n="24" xml:id="spp-973-002D-line-24"> Just as you conceiv'd it, just so I have Writt it.</l><l n="25" xml:id="spp-973-002D-line-25"> Since this I've discover'd I'll make You to know it,</l><l n="26" xml:id="spp-973-002D-line-26"> That now I'm Your Ph<unclear>oe</unclear>bus, and You are my Poet.</l><l n="27" xml:id="spp-973-002D-line-27"> But if You Interprett The Two Lines that follow,</l><l n="28" xml:id="spp-973-002D-line-28"> I'll again be Y<hi rend="sup">ṛ</hi> Poet, and You my Apollo.</l><l n="29" xml:id="spp-973-002D-line-29"> Why a Noble Lord's Dog, and My school-house this Weather</l><l n="30" xml:id="spp-973-002D-line-30"> Make up the best Catch when they're coupl'd together.</l></lg><lg n="3" type="stanza"><l n="31" xml:id="spp-973-002D-line-31" rend="flush right">Tho: Sheridan.&#13;<gap/>973-002D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

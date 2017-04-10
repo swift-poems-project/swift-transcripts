@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>V<hi rend="SMALL-CAPS">ERSES</hi> written by Dr S<hi rend="SMALL-CAPS">WIFT</hi>, occasioned by<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="611-07E2" type="poem"><head type="note" n="1" xml:id="spp-611-07E2-headnote-1"><lg n="1" xml:id="spp-611-07E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-611-07E2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-611-07E2-headnote-2"><lg n="1" xml:id="spp-611-07E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-611-07E2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-611-07E2-headnote-3"><lg n="1" xml:id="spp-611-07E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-611-07E2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-611-07E2-line-1"><hi rend="display-initial">A</hi> Paper book is sent by Boyle,</l><l n="2" xml:id="spp-611-07E2-line-2"> Too neatly gilt for me to soil.</l><l n="3" xml:id="spp-611-07E2-line-3"> Delany sends a silver standish,</l><l n="4" xml:id="spp-611-07E2-line-4"> When I no more a pen can brandish.</l><l n="5" xml:id="spp-611-07E2-line-5"> Let both around my tomb be plac'd,</l><l n="6" xml:id="spp-611-07E2-line-6"> As trophies of a muse decay'd:</l><l n="7" xml:id="spp-611-07E2-line-7"> And let the friendly lines they write</l><l n="8" xml:id="spp-611-07E2-line-8"> In praise of long departed wit,</l><l n="9" xml:id="spp-611-07E2-line-9"> Be grav'd on either side in columns,</l><l n="10" xml:id="spp-611-07E2-line-10"> More to my praise than all my volumes;</l><l n="11" xml:id="spp-611-07E2-line-11"> To burst with envy, spite, and rage,</l><l n="12" xml:id="spp-611-07E2-line-12"> The Vandals of the present age.611-07E2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

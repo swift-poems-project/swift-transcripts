@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>`In pity to the empty'ng Town'</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="122-WILH" type="poem"><head type="note" n="1" xml:id="spp-122-WILH-headnote-1"><lg n="1" xml:id="spp-122-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-122-WILH-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-122-WILH-headnote-2"><lg n="1" xml:id="spp-122-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-122-WILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-122-WILH-headnote-3"><lg n="1" xml:id="spp-122-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-122-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-122-WILH-line-1"> In pity to the empty'ng Town&#13;Some God May-Fair invented,</l><l n="2" xml:id="spp-122-WILH-line-2"> When Nature would invite us down,To be by Art prevented.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-122-WILH-line-3">What a corrupted Tast is ours&#13;When Milk-maids in mock-state</l><l n="4" xml:id="spp-122-WILH-line-4"> Instead of Garlands made of FlowrsAdorn their Pails with Plate.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-122-WILH-line-5">So are the Joys which Nature yields&#13;Inverted in May-Fair</l><l n="6" xml:id="spp-122-WILH-line-6"> In painted Cloth we look for Fields,And step in Booths for Air.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-122-WILH-line-7">Here a Dog dancing on his Hamms&#13;And Puppets mov'd by Wire</l><l n="8" xml:id="spp-122-WILH-line-8"> Do far exceed your frisking LambsOr Song of feather'd Quire.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-122-WILH-line-9">Howe'er such Verse as yours, I grant&#13;Would be but too inviting</l><l n="10" xml:id="spp-122-WILH-line-10"> Were fair Ardelia not my Aunt,Or were it Worsly's writing.</l></lg><lg n="6" type="stanza"><l n="11" xml:id="spp-122-WILH-line-11">Then pray think this a lucky Hitt,&#13;Nor e'er expect another</l><l n="12" xml:id="spp-122-WILH-line-12"> For honest Harry is no Witt,Tho' he's a younger Brother.<gap/>122-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

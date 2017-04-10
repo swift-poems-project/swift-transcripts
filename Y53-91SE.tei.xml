@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">A TRIO,</hi>
+        </title>
+        <title><hi rend="underline">Between Three</hi> M<hi rend="SMALL-CAPS">ONOSYLLABLES</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y53-91SE" type="poem"><head type="note" n="1" xml:id="spp-Y53-91SE-headnote-1"><lg n="1" xml:id="spp-Y53-91SE-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y53-91SE-headnote-1-line-group-1-line-1"><hi rend="underline">The following is supposed to be a genuine Relick of the</hi> D<hi rend="SMALL-CAPS">EAN</hi> <hi rend="underline">of </hi>S<hi rend="SMALL-CAPS">T. </hi>P<hi rend="SMALL-CAPS">ATRICK</hi>'s, <hi rend="underline">of facetious memory; and as it has never yet been published, may justly claim a Corner in our</hi> Chronicle.</l></lg></head><head type="note" n="2" xml:id="spp-Y53-91SE-headnote-2"><lg n="1" xml:id="spp-Y53-91SE-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y53-91SE-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y53-91SE-headnote-3"><lg n="1" xml:id="spp-Y53-91SE-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y53-91SE-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y53-91SE-line-1"><hi rend="display-initial">S</hi>AYS HILL to HULL,So thick a scull</l><l n="2" xml:id="spp-Y53-91SE-line-2"> Can leave no room for brains:Quoth HULL to HILL,Say what you will,</l><l n="3" xml:id="spp-Y53-91SE-line-3"> Mine more than thine contains.</l></lg><lg n="2" type="stanza"><l n="4" xml:id="spp-Y53-91SE-line-4">Thy paper pate&#13;Has little weight,</l><l n="5" xml:id="spp-Y53-91SE-line-5"> So peace, thou dirty vermin!Brains are a jest──Whose head is best</l><l n="6" xml:id="spp-Y53-91SE-line-6"> Our <hi rend="underline">Practice</hi> must determine.</l></lg><lg n="3" type="stanza"><l n="7" xml:id="spp-Y53-91SE-line-7">No, no, cries HELL,&#13;I know you well;</l><l n="8" xml:id="spp-Y53-91SE-line-8"> You're equal on my oath!So e'en agreeTo go with me,</l><l n="9" xml:id="spp-Y53-91SE-line-9"> And I'll reward you both.Y53-91SE   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="215-54B-" type="poem"><head type="note" n="1" xml:id="spp-215-54B--headnote-1"><lg n="1" xml:id="spp-215-54B--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-215-54B--headnote-1-line-group-1-line-1">Some of the genteelest verses that ever I saw of S<hi rend="SMALL-CAPS">WIFT</hi>'s, were written upon this subject, to a friend (who won't allow me to name him) on occasion of a compliment paid to him in his own irony. I heartily wish I could gratify myself, and your Lordship, in publishing them: which indeed I cannot. For I am assured, the person they were addressed to, burnt the original in a fit of mortification: and kept no copy. However, the friendly spirit and affection with which they were written, will, I think, sufficiently appear from the two first, and a few of the following, and only lines I can remember:</l></lg></head><head type="note" n="2" xml:id="spp-215-54B--headnote-2"><lg n="1" xml:id="spp-215-54B--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-215-54B--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-215-54B--headnote-3"><lg n="1" xml:id="spp-215-54B--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-215-54B--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-215-54B--line-1">To you whose virtues I must own,&#13;</l><l n="2" xml:id="spp-215-54B--line-2"> With shame I have too lately known;<gap/><gap/></l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-215-54B--line-3">Oh why did fate perverse and blind,&#13;</l><l n="4" xml:id="spp-215-54B--line-4"> Place you in life so far behind?</l><l n="5" xml:id="spp-215-54B--line-5"> Or, what I should repine at more,</l><l n="6" xml:id="spp-215-54B--line-6"> Place me in life so far before?<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>215-54B-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

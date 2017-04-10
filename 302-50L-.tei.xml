@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="302-50L-" type="poem"><head type="note" n="1" xml:id="spp-302-50L--headnote-1"><lg n="1" xml:id="spp-302-50L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-302-50L--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-302-50L--headnote-2"><lg n="1" xml:id="spp-302-50L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-302-50L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-302-50L--headnote-3"><lg n="1" xml:id="spp-302-50L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-302-50L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-302-50L--line-1"><hi rend="display-initial">P</hi>ALLAS, a Goddess chaste and wise,</l><l n="2" xml:id="spp-302-50L--line-2"> Descending lately from the Skies;</l><l n="3" xml:id="spp-302-50L--line-3"> To <hi rend="underline">Neptune</hi> went, and beg'd in Form,</l><l n="4" xml:id="spp-302-50L--line-4"> He'd give his Orders for a Storm:</l><l n="5" xml:id="spp-302-50L--line-5"> A Storm to drown that Rascal <hi rend="underline">H──────t</hi>,</l><l n="6" xml:id="spp-302-50L--line-6"> And she would kindly thank him for't:</l><l n="7" xml:id="spp-302-50L--line-7"> The Wretch whom <hi rend="underline">Irish</hi> Knaves (to spite her)</l><l n="8" xml:id="spp-302-50L--line-8"> Had lately honour'd with a Mitre.</l><l n="9" xml:id="spp-302-50L--line-9"> The God to favour her Request,</l><l n="10" xml:id="spp-302-50L--line-10"> Assur'd her, he would do his best.But <hi rend="underline">Venus</hi> had been there before,</l><l n="11" xml:id="spp-302-50L--line-11"> Pleaded the <hi rend="underline">B──────p</hi> lov'd a W────re;</l><l n="12" xml:id="spp-302-50L--line-12"> And had enlarg'd her Empire wide,</l><l n="13" xml:id="spp-302-50L--line-13"> He own'd no Deity beside.</l><l n="14" xml:id="spp-302-50L--line-14"> At Sea or Land if e'er you found him</l><l n="15" xml:id="spp-302-50L--line-15"> Without a Mistress, hang or drown him.</l><l n="16" xml:id="spp-302-50L--line-16"> Since <hi rend="underline">B──────t</hi>'s Death, the Bishop's Bench,</l><l n="17" xml:id="spp-302-50L--line-17"> 'Till <hi rend="underline">H──────t</hi> arriv'd, ne'er kept a Wench;</l><l n="18" xml:id="spp-302-50L--line-18"> If <hi rend="underline">H──────t</hi> must sink, she grieves to tell it,</l><l n="19" xml:id="spp-302-50L--line-19"> She'll not have left one single Prelate:</l><l n="20" xml:id="spp-302-50L--line-20"> And she must own, she did intend him</l><l n="21" xml:id="spp-302-50L--line-21"> Elect for <hi rend="underline">Cyprus, in Commendam</hi>.</l><l n="22" xml:id="spp-302-50L--line-22"> And since her Birth the Ocean gave her,</l><l n="23" xml:id="spp-302-50L--line-23"> She could not doubt her Uncle's Favour.Then <hi rend="underline">Proteus</hi> made the same Request,</l><l n="24" xml:id="spp-302-50L--line-24"> But half in Earnest, half in Jest;</l><l n="25" xml:id="spp-302-50L--line-25"> Said he, great Sov'reign of the Main,</l><l n="26" xml:id="spp-302-50L--line-26"> To drown him, all Attempts are vain;</l><l n="27" xml:id="spp-302-50L--line-27"> He can assume more Shapes, than I,</l><l n="28" xml:id="spp-302-50L--line-28"> A Rake, or Bully, Pimp, or Spy:</l><l n="29" xml:id="spp-302-50L--line-29"> Can run, or creep, or fly, or swim,</l><l n="30" xml:id="spp-302-50L--line-30"> All Motions are alike to him.</l><l n="31" xml:id="spp-302-50L--line-31"> Turn him adrift, and you shall find,</l><l n="32" xml:id="spp-302-50L--line-32"> He knows to sail, with ev'ry Wind.</l><l n="33" xml:id="spp-302-50L--line-33"> Or throw him over-board, he'll ride</l><l n="34" xml:id="spp-302-50L--line-34"> As well against, as with the Tide.</l><l n="35" xml:id="spp-302-50L--line-35"> And <hi rend="underline">Pallas</hi>, you apply too late,</l><l n="36" xml:id="spp-302-50L--line-36"> For 'tis decreed by <hi rend="underline">Jove</hi>, and Fate,</l><l n="37" xml:id="spp-302-50L--line-37"> That <hi rend="underline">Ireland</hi> must be soon destroy'd,</l><l n="38" xml:id="spp-302-50L--line-38"> Then who but <hi rend="underline">H──────t</hi>, should be employ'd?</l><l n="39" xml:id="spp-302-50L--line-39"> You need not therefore be so pert,</l><l n="40" xml:id="spp-302-50L--line-40"> On sending <hi rend="underline">Bolton</hi>, to <hi rend="underline">Clonfort</hi>:</l><l n="41" xml:id="spp-302-50L--line-41"> I find you did it by your Grinning,</l><l n="42" xml:id="spp-302-50L--line-42"> Your Business is, to mind your Spinning.</l><l n="43" xml:id="spp-302-50L--line-43"> And how you came to interpose</l><l n="44" xml:id="spp-302-50L--line-44"> In making <hi rend="underline">B──────ps</hi> no Man knows.</l><l n="45" xml:id="spp-302-50L--line-45"> Or who regarded your Report?</l><l n="46" xml:id="spp-302-50L--line-46"> For never were you seen at Court.</l><l n="47" xml:id="spp-302-50L--line-47"> But if you must have your Petition,</l><l n="48" xml:id="spp-302-50L--line-48"> Here's <hi rend="underline">Berkely</hi>, in the same Condition;</l><l n="49" xml:id="spp-302-50L--line-49"> Look how he stands, and 'tis but just,</l><l n="50" xml:id="spp-302-50L--line-50"> If <hi rend="underline">H──────t</hi> must drown the <hi rend="underline">Doctor</hi> must:</l><l n="51" xml:id="spp-302-50L--line-51"> But if you leave us <hi rend="underline">B────p Judas</hi>,</l><l n="52" xml:id="spp-302-50L--line-52"> We'll give you <hi rend="underline">Berkely</hi> for <hi rend="underline">Bermudas</hi>.</l><l n="53" xml:id="spp-302-50L--line-53"> Or if 'twill gratify your Spite,</l><l n="54" xml:id="spp-302-50L--line-54"> To put him in a plaguy Fright,</l><l n="55" xml:id="spp-302-50L--line-55"> (Although 'twill hardly quit the Cost)</l><l n="56" xml:id="spp-302-50L--line-56"> You soon shall see him soundly tost;</l><l n="57" xml:id="spp-302-50L--line-57"> You'll find, he'll swear, blaspheme, and damn,</l><l n="58" xml:id="spp-302-50L--line-58"> And every Moment take a <hi rend="underline">Dram</hi>:</l><l n="59" xml:id="spp-302-50L--line-59"> His ghastly Visage with an Air</l><l n="60" xml:id="spp-302-50L--line-60"> Of Reprobation and Despair;</l><l n="61" xml:id="spp-302-50L--line-61"> Or when some hiding Hole he seeks,</l><l n="62" xml:id="spp-302-50L--line-62"> For fear the rest should say he <hi rend="underline">sqeakes</hi>;</l><l n="63" xml:id="spp-302-50L--line-63"> Or as <hi rend="underline">Fitz-Patrick</hi> did before,</l><l n="64" xml:id="spp-302-50L--line-64"> Resolv'd to perish with his <hi rend="underline">W────re</hi>;</l><l n="65" xml:id="spp-302-50L--line-65"> Or when he raves, or roars and swears,</l><l n="66" xml:id="spp-302-50L--line-66"> And but for shame would say his Pray'rs;</l><l n="67" xml:id="spp-302-50L--line-67"> Or would you see his Spirits sink,</l><l n="68" xml:id="spp-302-50L--line-68"> Refluxing downwards in a Stink;</l><l n="69" xml:id="spp-302-50L--line-69"> If such a Scene as this can please ye,</l><l n="70" xml:id="spp-302-50L--line-70"> Good Madam <hi rend="underline">Pallas</hi>, pray be easy.</l><l n="71" xml:id="spp-302-50L--line-71"> Let <hi rend="underline">Neptune</hi> speak, and I'll consent,</l><l n="72" xml:id="spp-302-50L--line-72"> But he'll come back, the Rogue he went.</l><l n="73" xml:id="spp-302-50L--line-73"> The Goddess who receiv'd a Hope,</l><l n="74" xml:id="spp-302-50L--line-74"> That <hi rend="underline">H──────t</hi> was distin'd for a Rope,</l><l n="75" xml:id="spp-302-50L--line-75"> Believ'd it best to condescend,</l><l n="76" xml:id="spp-302-50L--line-76"> And spare a Rogue, to save a Friend;</l><l n="77" xml:id="spp-302-50L--line-77"> Yet fearing <hi rend="underline">Berkely</hi> might be scar'd,</l><l n="78" xml:id="spp-302-50L--line-78"> She left him Virtue, for his Guard.302-50L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

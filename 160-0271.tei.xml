@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ATLAS: or, the<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="160-0271" type="poem"><head type="note" n="1" xml:id="spp-160-0271-headnote-1"><lg n="1" xml:id="spp-160-0271-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-160-0271-headnote-1-line-group-1-line-1">To the Lord Treasurer O<hi rend="SMALL-CAPS">XFORD</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-160-0271-headnote-2"><lg n="1" xml:id="spp-160-0271-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-160-0271-headnote-2-line-group-1-line-1">Written in the Year 1712.</l></lg></head><head type="note" n="3" xml:id="spp-160-0271-headnote-3"><lg n="1" xml:id="spp-160-0271-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-160-0271-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-160-0271-line-1"><hi rend="black-letter">A</hi><hi rend="underline">TLAS</hi>, we read in antient Song,</l><l n="2" xml:id="spp-160-0271-line-2"> Was so exceeding tall and strong,</l><l n="3" xml:id="spp-160-0271-line-3"> He bore the Skies upon his Back,</l><l n="4" xml:id="spp-160-0271-line-4"> Just as a Pedlar doth his Pack:</l><l n="5" xml:id="spp-160-0271-line-5"> But, as a Pedlar overprest</l><l n="6" xml:id="spp-160-0271-line-6"> Unloads upon a Stall to rest;</l><l n="7" xml:id="spp-160-0271-line-7"> Or, when he can no longer stand,</l><l n="8" xml:id="spp-160-0271-line-8"> Desires a Friend to lend a Hand,</l><l n="9" xml:id="spp-160-0271-line-9"> So <hi rend="underline">Atlas</hi>, lest the pond'rous Spheres</l><l n="10" xml:id="spp-160-0271-line-10"> Should sink, and fall about his Ears,</l><l n="11" xml:id="spp-160-0271-line-11"> Got <hi rend="underline">Hercules</hi> to bear the Pile,</l><l n="12" xml:id="spp-160-0271-line-12"> That he might sit, and rest a while.</l></lg><lg n="2" type="stanza"><l n="13" xml:id="spp-160-0271-line-13">Y<hi rend="SMALL-CAPS">ET</hi><hi rend="underline">Hercules</hi> was not so strong,</l><l n="14" xml:id="spp-160-0271-line-14"> Nor could have born it half so long.</l></lg><lg n="3" type="stanza"><l n="15" xml:id="spp-160-0271-line-15">G<hi rend="SMALL-CAPS">REAT</hi> Statesmen are in this Condition;</l><l n="16" xml:id="spp-160-0271-line-16"> And <hi rend="underline">Atlas</hi> is a Politician:</l><l n="17" xml:id="spp-160-0271-line-17"> A <hi rend="underline">premier</hi> Minister of State;<hi rend="underline">Alcides</hi> one of second Rate.</l><l n="18" xml:id="spp-160-0271-line-18"> Suppose then <hi rend="underline">Atlas</hi> ne'er so wise,</l><l n="19" xml:id="spp-160-0271-line-19"> Yet when the Weight of Kingdom lies</l><l n="20" xml:id="spp-160-0271-line-20"> Too long upon his single Shoulders,</l><l n="21" xml:id="spp-160-0271-line-21"> Sink down he must, or find <hi rend="underline">Upholders</hi>.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

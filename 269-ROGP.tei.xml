@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">Apollo's Edict</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="269-ROGP" type="poem"><head type="note" n="1" xml:id="spp-269-ROGP-headnote-1"><lg n="1" xml:id="spp-269-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-269-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-269-ROGP-headnote-2"><lg n="1" xml:id="spp-269-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-269-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-269-ROGP-headnote-3"><lg n="1" xml:id="spp-269-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-269-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-269-ROGP-line-1"> Ireland is now our royal care,&#13;</l><l n="2" xml:id="spp-269-ROGP-line-2"> We lately fixed our Viceroy there:</l><l n="3" xml:id="spp-269-ROGP-line-3"> How near was she to be undone,</l><l n="4" xml:id="spp-269-ROGP-line-4"> Till pious love inspired her son?</l><l n="5" xml:id="spp-269-ROGP-line-5"> What cannot our Viceregent do,</l><l n="6" xml:id="spp-269-ROGP-line-6"> As poet and as patriot too?</l><l n="7" xml:id="spp-269-ROGP-line-7"> Let his success our subjects sway</l><l n="8" xml:id="spp-269-ROGP-line-8"> Our inspirations to obey,</l><l n="9" xml:id="spp-269-ROGP-line-9"> And follow where he leads the way:</l><l n="10" xml:id="spp-269-ROGP-line-10"> Then study to correct your taste,</l><l n="11" xml:id="spp-269-ROGP-line-11"> Nor beaten paths be longer traced.</l></lg><lg n="2" type="triplet"><l n="12" xml:id="spp-269-ROGP-line-12">No simile shall be begun,&#13;</l><l n="13" xml:id="spp-269-ROGP-line-13"> With rising or with setting sun:</l><l n="14" xml:id="spp-269-ROGP-line-14"> And let the secret head of Nile</l><l n="15" xml:id="spp-269-ROGP-line-15"> Be ever banished from your isle.When wretched lovers live on air,</l><l n="16" xml:id="spp-269-ROGP-line-16"> I beg you'll the chameleon spare.</l><l n="17" xml:id="spp-269-ROGP-line-17"> And when you'd make a hero grander,</l><l n="18" xml:id="spp-269-ROGP-line-18"> Forget he's like a salamander.No son of mine shall dare to say,</l><l n="19" xml:id="spp-269-ROGP-line-19"> Aurora ushered in the day,</l><l n="20" xml:id="spp-269-ROGP-line-20"> Or ever name the Milky Way.You all agree, I make no doubt,</l><l n="21" xml:id="spp-269-ROGP-line-21"> Elijah's mantle's worn out.The bird of Jove shall toil no more,</l><l n="22" xml:id="spp-269-ROGP-line-22"> To teach the humble wren to soar.Your tragic heroes shall not rant,</l><l n="23" xml:id="spp-269-ROGP-line-23"> Nor shepherds use poetic cant:</l><l n="24" xml:id="spp-269-ROGP-line-24"> Simplicity alone can grace,</l><l n="25" xml:id="spp-269-ROGP-line-25"> The manners of the rural race,</l><l n="26" xml:id="spp-269-ROGP-line-26"> Theocritus and Philips be,</l><l n="27" xml:id="spp-269-ROGP-line-27"> Your guides to true simplicity.When Damon's soul shall take its flight,</l><l n="28" xml:id="spp-269-ROGP-line-28"> Though poets have the second sight,</l><l n="29" xml:id="spp-269-ROGP-line-29"> They shall not see a trail of light:</l><l n="30" xml:id="spp-269-ROGP-line-30"> Nor shall the vapour upwards rise,</l><l n="31" xml:id="spp-269-ROGP-line-31"> Nor a new star adorn the skies:</l><l n="32" xml:id="spp-269-ROGP-line-32"> For who can hope to place one there,</l><l n="33" xml:id="spp-269-ROGP-line-33"> As glorious as Belinda's hair?</l><l n="34" xml:id="spp-269-ROGP-line-34"> Yet if his name you'd eternize</l><l n="35" xml:id="spp-269-ROGP-line-35"> And must exalt him to the skies:</l><l n="36" xml:id="spp-269-ROGP-line-36"> Without a star this may be done,</l><l n="37" xml:id="spp-269-ROGP-line-37"> So Tickell mourned his Addison.If Anna's happy reign you praise,</l><l n="38" xml:id="spp-269-ROGP-line-38"> Pray not a word of halcyon days.</l><l n="39" xml:id="spp-269-ROGP-line-39"> Nor let my votaries show their skill</l><l n="40" xml:id="spp-269-ROGP-line-40"> In aping lines from <hi rend="underline">Cooper's Hill</hi>;</l><l n="41" xml:id="spp-269-ROGP-line-41"> For know I cannot bear to hear,</l><l n="42" xml:id="spp-269-ROGP-line-42"> The mimicry of 'deep yet clear'.Whene'er my Viceroy is addressed,</l><l n="43" xml:id="spp-269-ROGP-line-43"> Against the phoenix I protest.<gap/><gap/>When poets soar in youthful strains,</l><l n="44" xml:id="spp-269-ROGP-line-44"> No Phaeton to hold the reins.When you describe a lovely girl,</l><l n="45" xml:id="spp-269-ROGP-line-45"> No lips of coral, teeth of pearl.Cupid shall ne'er mistake another</l><l n="46" xml:id="spp-269-ROGP-line-46"> However beauteous for his mother:</l><l n="47" xml:id="spp-269-ROGP-line-47"> Nor shall his darts at random fly</l><l n="48" xml:id="spp-269-ROGP-line-48"> From magazine in Celia's eye.<gap/><gap/><gap/><gap/><gap/><gap/>With women compounds I am cloyed,</l><l n="49" xml:id="spp-269-ROGP-line-49"> Which only pleased in Biddy Floyd:</l><l n="50" xml:id="spp-269-ROGP-line-50"> For foreign aid what need they roam,</l><l n="51" xml:id="spp-269-ROGP-line-51"> Whom fate has amply blessed at home?</l><l n="52" xml:id="spp-269-ROGP-line-52"> Unerring heaven, with bounteous hand,</l><l n="53" xml:id="spp-269-ROGP-line-53"> Has formed a model for your land;</l><l n="54" xml:id="spp-269-ROGP-line-54"> Whom Jove endowed with every grace,</l><l n="55" xml:id="spp-269-ROGP-line-55"> The glory of the Granard race;</l><l n="56" xml:id="spp-269-ROGP-line-56"> Now destined, by the powers divine,</l><l n="57" xml:id="spp-269-ROGP-line-57"> The blessing of another line:</l><l n="58" xml:id="spp-269-ROGP-line-58"> Then would you paint a matchless dame,</l><l n="59" xml:id="spp-269-ROGP-line-59"> Whom you consign to endless fame?</l><l n="60" xml:id="spp-269-ROGP-line-60"> Invoke not Cytherea's aid,</l><l n="61" xml:id="spp-269-ROGP-line-61"> Nor borrow from the blue-eyed maid,</l><l n="62" xml:id="spp-269-ROGP-line-62"> Nor need you on the Graces call,</l><l n="63" xml:id="spp-269-ROGP-line-63"> Take qualities from Donegal.269-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

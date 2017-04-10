@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">Advice to the Grub Street Verse-Writers</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="394-ROGP" type="poem"><head type="note" n="1" xml:id="spp-394-ROGP-headnote-1"><lg n="1" xml:id="spp-394-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-394-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-394-ROGP-headnote-2"><lg n="1" xml:id="spp-394-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-394-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-394-ROGP-headnote-3"><lg n="1" xml:id="spp-394-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-394-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-394-ROGP-line-1"> Ye poets ragged and forlorn,&#13;Down from your garrets haste,</l><l n="2" xml:id="spp-394-ROGP-line-2"> Ye rhymers, dead as soon as born,Nor yet consigned to paste;</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-394-ROGP-line-3">I know a trick to make you thrive;&#13;O, 'tis a quaint device:</l><l n="4" xml:id="spp-394-ROGP-line-4"> Your still-born poets shall revive,And scorn to wrap up spice.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-394-ROGP-line-5">Get all your verses printed fair,&#13;Then let them well be dried;</l><l n="6" xml:id="spp-394-ROGP-line-6"> And Curll must have a special careTo leave the margin wide.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-394-ROGP-line-7">Lend these to paper-sparing Pope;&#13;And, when he sits to write,</l><l n="8" xml:id="spp-394-ROGP-line-8"> No letter with an envelopeCould give him more delight.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-394-ROGP-line-9">When Pope has filled the margin round,&#13;Why, then recall your loan;</l><l n="10" xml:id="spp-394-ROGP-line-10"> Sell them to Curll for fifty pound,And swear they are your own.394-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

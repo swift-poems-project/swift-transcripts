@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On DREAMS.</title>
+        <title><hi rend="underline">An Imitation of</hi> Petronius.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="363-06H1" type="poem"><head type="note" n="1" xml:id="spp-363-06H1-headnote-1"><lg n="1" xml:id="spp-363-06H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-363-06H1-headnote-1-line-group-1-line-1"><hi rend="underline">Somnia quæ mentes ludunt volitantibus umbris</hi>, etc.</l></lg></head><head type="note" n="2" xml:id="spp-363-06H1-headnote-2"><lg n="1" xml:id="spp-363-06H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-363-06H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-363-06H1-headnote-3"><lg n="1" xml:id="spp-363-06H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-363-06H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-363-06H1-line-1"><hi rend="display-initial">T</hi>HOSE dreams, that on the silent night intrude,</l><l n="2" xml:id="spp-363-06H1-line-2"> And with false flitting shades our minds delude,<hi rend="underline">Jove</hi> never sends us downward from the skies;</l><l n="3" xml:id="spp-363-06H1-line-3"> Nor can they from infernal mansions rise;</l><l n="4" xml:id="spp-363-06H1-line-4"> But are all meer productions of the brain,</l><l n="5" xml:id="spp-363-06H1-line-5"> And fools consult interpreters in vain.For, when in bed we rest our weary limbs,</l><l n="6" xml:id="spp-363-06H1-line-6"> The mind unburthen'd sports in various whims;</l><l n="7" xml:id="spp-363-06H1-line-7"> The busy head with mimick art runs o'er</l><l n="8" xml:id="spp-363-06H1-line-8"> The scenes and actions of the day before.The drowsy tyrant, by his minions led,</l><l n="9" xml:id="spp-363-06H1-line-9"> To regal rage devotes some patriot's head.</l><l n="10" xml:id="spp-363-06H1-line-10"> With equal terrors, not with equal guilt,</l><l n="11" xml:id="spp-363-06H1-line-11"> The murd'rer dreams of all the blood he spilt.The soldier smiling hears the widow's cries,</l><l n="12" xml:id="spp-363-06H1-line-12"> And stabs the son before the mother's eyes.</l><l n="13" xml:id="spp-363-06H1-line-13"> With like remorse his brother of the trade,</l><l n="14" xml:id="spp-363-06H1-line-14"> The butcher, fells the lamb beneath his blade.The statesman rakes the town to find a plot,</l><l n="15" xml:id="spp-363-06H1-line-15"> And dreams of forfeitures by treason got.</l><l n="16" xml:id="spp-363-06H1-line-16"> Nor less Tom-t--d-man of true statesman mold</l><l n="17" xml:id="spp-363-06H1-line-17"> Collects the city filth in search of gold.Orphans around his bed the lawyer sees,</l><l n="18" xml:id="spp-363-06H1-line-18"> And takes the plaintiff's and defendant's fees.</l><l n="19" xml:id="spp-363-06H1-line-19"> His fellow pick-purse, watching for a job,</l><l n="20" xml:id="spp-363-06H1-line-20"> Fancies his fingers in the cully's fob.The kind physician grants the husband's pray'rs,</l><l n="21" xml:id="spp-363-06H1-line-21"> Or gives relief to long-expecting heirs.</l><l n="22" xml:id="spp-363-06H1-line-22"> The sleeping hangman ties the fatal noose,</l><l n="23" xml:id="spp-363-06H1-line-23"> Nor unsuccessful waits for dead mens shoes.The grave divine with knotty points perplext,</l><l n="24" xml:id="spp-363-06H1-line-24"> As if he was awake, nods o'er his text:</l><l n="25" xml:id="spp-363-06H1-line-25"> While the sly mountebank attends his trade,</l><l n="26" xml:id="spp-363-06H1-line-26"> Harangues the rabble, and is better paid.The hireling senator of modern days</l><l n="27" xml:id="spp-363-06H1-line-27"> Bedaubs the guilty great with nauseous praise:</l><l n="28" xml:id="spp-363-06H1-line-28"> And <hi rend="underline">Dick</hi> the scavenger with equal grace</l><l n="29" xml:id="spp-363-06H1-line-29"> Flirts from his cart the mud in ---'s face.363-06H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

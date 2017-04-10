@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the Report of the Order of the Knights of the Bath</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="389-440R" type="poem"><head type="note" n="1" xml:id="spp-389-440R-headnote-1"><lg n="1" xml:id="spp-389-440R-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-389-440R-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-389-440R-headnote-2"><lg n="1" xml:id="spp-389-440R-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-389-440R-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-389-440R-headnote-3"><lg n="1" xml:id="spp-389-440R-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-389-440R-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-389-440R-line-1"> Quoth King Robin, our Ribbons J see are so few&#13;</l><l n="2" xml:id="spp-389-440R-line-2"> Of S<hi rend="sup">ṭ</hi> Andrew's the Green, &amp; S<hi rend="sup">ṭ</hi> George's the Blew.</l><l n="3" xml:id="spp-389-440R-line-3"> J must find out a Red one, a Colour more gay,</l><l n="4" xml:id="spp-389-440R-line-4"> Which will tye up my Subjects with Pride to obey.</l><l n="5" xml:id="spp-389-440R-line-5"> The Exchequer may suffer by Prodigal Doners,</l><l n="6" xml:id="spp-389-440R-line-6"> The King's ne'er exhausted, that fountain of Honours.</l><l n="7" xml:id="spp-389-440R-line-7"> Men of more Witt than Money our Pensions will fitt,</l><l n="8" xml:id="spp-389-440R-line-8"> But these will bribe those of more Money than Witt;</l><l n="9" xml:id="spp-389-440R-line-9"> Who with faith most Jmplicit obeys my Commands,</l><l n="10" xml:id="spp-389-440R-line-10"> Thô as empty as Y──g, &amp; as saucy as S────ds</l><l n="11" xml:id="spp-389-440R-line-11"> Who will soonest leap over a Stick for the King</l><l n="12" xml:id="spp-389-440R-line-12"> Shall be qualified best for a Dog in a String.389-440R   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">Lady </hi>Betty Berkeley<hi rend="underline">, finding in the author's</hi></title>
+        <title xml:id="spp-076-06H1-title-1">
+          <hi rend="underline">room some verses </hi>
+          <ref target="#spp-076-06H1-footnote-title-1">1</ref>
+          <note n="1" xml:id="spp-076-06H1-footnote-title-1" place="foot">These verses are called <hi rend="underline">A ballad on the game of traffic</hi>, and may be found among the posthumous poetry. Vol. VII.</note>
+          <hi rend="underline"> unfinished, underwrit</hi>
+        </title>
+        <title><hi rend="underline">a </hi>stanza<hi rend="underline"> of her own with raillery upon</hi></title>
+        <title><hi rend="underline">him, which gave occasion to this </hi>Ballad<hi rend="underline">,</hi></title>
+        <title>
+          <hi rend="underline">written by the author in a couterfeit</hi>
+        </title>
+        <title><hi rend="underline">band, as if a third person had done it</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-076-06H1-footnote-title-1 #spp-076-06H1-title-1"/>
+        </linkGrp>
+        <div n="076-06H1" type="poem"><head type="note" n="1" xml:id="spp-076-06H1-headnote-1"><lg n="1" xml:id="spp-076-06H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-076-06H1-headnote-1-line-group-1-line-1"><hi rend="underline">Written in the Year</hi> 1703.</l></lg></head><head type="note" n="2" xml:id="spp-076-06H1-headnote-2"><lg n="1" xml:id="spp-076-06H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-076-06H1-headnote-2-line-group-1-line-1">To the tune of <hi rend="underline">The Cutpurse</hi>.</l></lg></head><head type="note" n="3" xml:id="spp-076-06H1-headnote-3"><lg n="1" xml:id="spp-076-06H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-076-06H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-076-06H1-line-1" rend="align(center)">I.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-076-06H1-line-2" rend="flush left"><hi rend="display-initial">O</hi>NCE on a time, as old stories rehearse,A friar would needs shew his talent in <hi rend="underline">Latin</hi>;</l><l n="3" xml:id="spp-076-06H1-line-3"> But was sorely put to't in the midst of a verse,Because he could find no word to come pat in:Then all in the placeHe left a void space,And so went to bed in a desperate case:</l><l n="4" xml:id="spp-076-06H1-line-4"> When behold the next morning a wonderful riddle!</l><l n="5" xml:id="spp-076-06H1-line-5" rend="align(center) indent(2)"> He found it was strangely fill'd up in the middle.Chorus. <hi rend="underline">Let censuring criticks then think what they list on't;Who wou'd not write verses with such an assistant</hi>?II.</l></lg><lg n="3" type="stanza"><l n="6" xml:id="spp-076-06H1-line-6" rend="flush left">This put me the friar into an amazement:&#13;For he wisely consider'd it must be a sprite,</l><l n="7" xml:id="spp-076-06H1-line-7"> That came through the key-hole, or in at the casement;And it needs must be one that could both read and write:Yet he did not knowIf it were friend or foe,Or whether it came from above or below:</l><l n="8" xml:id="spp-076-06H1-line-8"> Howe'er, it was civil in angel or elf,</l><l n="9" xml:id="spp-076-06H1-line-9" rend="align(center)"> For he ne'er could have fill'd it so well of himself.Cho. <hi rend="underline">Let censuring</hi>, etc.<gap/>III.</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-076-06H1-line-10" rend="flush left">Even so master doctor had puzzled his brains&#13;In making a ballad, but was at a stand:</l><l n="11" xml:id="spp-076-06H1-line-11"> He had mix'd little wit with a great deal of pains;When he found a new help from invisible hand.Then good doctor <hi rend="underline">Swift</hi>,Pay thanks for the gift,For you freely must own you were at a dead lift:</l><l n="12" xml:id="spp-076-06H1-line-12"> And, though some malicious young spirit did do't,</l><l n="13" xml:id="spp-076-06H1-line-13"> You may know by the hand it had no cloven foot.Cho. <hi rend="underline">Let censuring</hi>, etc.<gap/>076-06H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

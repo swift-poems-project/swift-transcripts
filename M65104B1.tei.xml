@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CCXV. THE BATTLE OF THE BOOKS.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CCalella"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M65104B1" type="poem"><head type="note" n="1" xml:id="spp-M65104B1-headnote-1"><lg n="1" xml:id="spp-M65104B1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M65104B1-headnote-1-line-group-1-line-1">A copy of this ingenious sally of Swift's happened to fall into the hands of Mr. James Stirling, a youthful poet of the county of Meath, who wrote the following lines in one of the blank leaves:</l></lg></head><head type="note" n="2" xml:id="spp-M65104B1-headnote-2"><lg n="1" xml:id="spp-M65104B1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M65104B1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M65104B1-headnote-3"><lg n="1" xml:id="spp-M65104B1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M65104B1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-M65104B1-line-1"> While the <hi rend="underline">Dean</hi> with more wit than man ever wanted,</l><l n="2" xml:id="spp-M65104B1-line-2"> Or than heav'n to any man else ever granted,</l><l n="3" xml:id="spp-M65104B1-line-3"> Endeavours to prove, how the ancients in knowledge</l><l n="4" xml:id="spp-M65104B1-line-4"> Have excell'd our adepts of each <hi rend="underline">modern</hi> college;</l><l n="5" xml:id="spp-M65104B1-line-5"> How heroes of old our chiefs are surpass'd</l><l n="6" xml:id="spp-M65104B1-line-6"> In each useful science, true learning, and taste:</l><l n="7" xml:id="spp-M65104B1-line-7"> While thus he behaves, with more courage than manners,</l><l n="8" xml:id="spp-M65104B1-line-8"> And fights for the foe, deserting our banners.</l><l n="9" xml:id="spp-M65104B1-line-9"> While <hi rend="underline">Bentley</hi> and <hi rend="underline">Wotton</hi>, our champions, he foils;</l><l n="10" xml:id="spp-M65104B1-line-10"> And wants neither <hi rend="underline">Temple's</hi> assistance, nor <hi rend="underline">Boyle's</hi>;</l><l n="11" xml:id="spp-M65104B1-line-11"> In spite of his learning, fine reasons, and style,</l><l n="12" xml:id="spp-M65104B1-line-12"> ──Would you think it?──he favours our cause all the while:</l><l n="13" xml:id="spp-M65104B1-line-13"> We raise by his conquest our glory the higher,</l><l n="14" xml:id="spp-M65104B1-line-14"> And from our defeat to a triumph aspire:</l><l n="15" xml:id="spp-M65104B1-line-15"> Our great <hi rend="underline">brother-modern</hi>, the <hi rend="underline">boast</hi> of our days,</l><l n="16" xml:id="spp-M65104B1-line-16"> Unconscious, has gain'd for our party the bays:<hi rend="underline">St. James's</hi> old authors, so fam'd on each shelf,</l><l n="17" xml:id="spp-M65104B1-line-17"> Are vanquish'd by what he has written himself.M65104B1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

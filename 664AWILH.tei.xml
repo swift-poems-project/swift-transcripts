@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Conclusion</title>
+        <title>Drawn from an Epigram on the Queen<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="664AWILH" type="poem"><head type="note" n="1" xml:id="spp-664AWILH-headnote-1"><lg n="1" xml:id="spp-664AWILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-664AWILH-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-664AWILH-headnote-2"><lg n="1" xml:id="spp-664AWILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-664AWILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-664AWILH-headnote-3"><lg n="1" xml:id="spp-664AWILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-664AWILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-664AWILH-line-1"> Since Anna, whose Bounty thy Merits had fed,&#13;</l><l n="2" xml:id="spp-664AWILH-line-2"> E'er her own was laid low, hath exalted thy Head,</l><l n="3" xml:id="spp-664AWILH-line-3"> And since our good Queen to the Wise is so just,</l><l n="4" xml:id="spp-664AWILH-line-4"> To raise Heads for such, as are humbled in Dust:</l><l n="5" xml:id="spp-664AWILH-line-5"> I wonder, good Man, that you are not envaulted:</l><l n="6" xml:id="spp-664AWILH-line-6"> Prithee, go, and be dead, and be doubly exalted.664AWILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

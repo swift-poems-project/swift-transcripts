@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M50201S1" type="poem"><head type="note" n="1" xml:id="spp-M50201S1-headnote-1"><lg n="1" xml:id="spp-M50201S1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M50201S1-headnote-1-line-group-1-line-1">Another time seeing a man fall from his horse in a slough, he rode up to him, enquiring whether he was hurt? “No,” replied the farmer, “but I am woundily bemired.” “You make good the old proverb,” said Swift,</l></lg></head><head type="note" n="2" xml:id="spp-M50201S1-headnote-2"><lg n="1" xml:id="spp-M50201S1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M50201S1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M50201S1-headnote-3"><lg n="1" xml:id="spp-M50201S1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M50201S1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-M50201S1-line-1"> “The more dirt,&#13;</l><l n="2" xml:id="spp-M50201S1-line-2"> the less hurt.”M50201S1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

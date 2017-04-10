@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">Upon the Horrid Plot Discovered by Harlequin the Bishop of Rochester's French Dog</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="298-ROGP" type="poem"><head type="note" n="1" xml:id="spp-298-ROGP-headnote-1"><lg n="1" xml:id="spp-298-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-298-ROGP-headnote-1-line-group-1-line-1">IN A DIALOGUE BETWEEN A WHIG AND A TORY</l></lg></head><head type="note" n="2" xml:id="spp-298-ROGP-headnote-2"><lg n="1" xml:id="spp-298-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-298-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-298-ROGP-headnote-3"><lg n="1" xml:id="spp-298-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-298-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-298-ROGP-line-1"> I asked a Whig the other night,&#13;</l><l n="2" xml:id="spp-298-ROGP-line-2"> How came this wicked plot to light:</l><l n="3" xml:id="spp-298-ROGP-line-3"> He answered, that a dog of late</l><l n="4" xml:id="spp-298-ROGP-line-4"> Informed a minister of state.</l><l n="5" xml:id="spp-298-ROGP-line-5"> Said I, from thence I nothing know;</l><l n="6" xml:id="spp-298-ROGP-line-6"> For, are not all informers so?</l><l n="7" xml:id="spp-298-ROGP-line-7"> A villain, who his friend betrays,</l><l n="8" xml:id="spp-298-ROGP-line-8"> We style him by no other phrase;</l><l n="9" xml:id="spp-298-ROGP-line-9"> And so a perjured dog denotes</l><l n="10" xml:id="spp-298-ROGP-line-10"> Porter, and Prendergast, and Oates.</l><l n="11" xml:id="spp-298-ROGP-line-11"> And forty others I could name</l></lg><lg n="2" type="stanza"><l n="12" xml:id="spp-298-ROGP-line-12">WHIGBut you must know this dog was lame.</l></lg><lg n="3" type="stanza"><l n="13" xml:id="spp-298-ROGP-line-13">TORYA weighty argument indeed;</l><l n="14" xml:id="spp-298-ROGP-line-14"> Your evidence was lame. Proceed:</l><l n="15" xml:id="spp-298-ROGP-line-15"> Come, help your lame dog o'er the stile.</l></lg><lg n="4" type="stanza"><l n="16" xml:id="spp-298-ROGP-line-16">WHIGSir, you mistake me all this while:</l><l n="17" xml:id="spp-298-ROGP-line-17"> I mean a dog, without a joke,</l><l n="18" xml:id="spp-298-ROGP-line-18"> Can howl, and bark, but never spoke.</l></lg><lg n="5" type="stanza"><l n="19" xml:id="spp-298-ROGP-line-19">TORY I'm still to seek which dog you mean;</l><l n="20" xml:id="spp-298-ROGP-line-20"> Whether cur Plunket, or whelp Skean,</l><l n="21" xml:id="spp-298-ROGP-line-21"> An English or an Irish hound;</l><l n="22" xml:id="spp-298-ROGP-line-22"> Or t'other puppy that was drowned,</l><l n="23" xml:id="spp-298-ROGP-line-23"> Or Mason that abandoned bitch:</l><l n="24" xml:id="spp-298-ROGP-line-24"> Then pray be free, and tell me which:</l><l n="25" xml:id="spp-298-ROGP-line-25"> For, every stander-by was marking</l><l n="26" xml:id="spp-298-ROGP-line-26"> That all the noise they made was barking:</l><l n="27" xml:id="spp-298-ROGP-line-27"> You pay them well; the dogs have got</l><l n="28" xml:id="spp-298-ROGP-line-28"> Their dog's-heads in a porridge-pot:</l><l n="29" xml:id="spp-298-ROGP-line-29"> And 'twas but just; for, wise men say,</l><l n="30" xml:id="spp-298-ROGP-line-30"> That, `every dog must have his day'.</l><l n="31" xml:id="spp-298-ROGP-line-31"> Dog Walpole laid a quart of nog on't,</l><l n="32" xml:id="spp-298-ROGP-line-32"> He'd either make a hog or dog on't,</l><l n="33" xml:id="spp-298-ROGP-line-33"> And looked since he has got his wish,</l><l n="34" xml:id="spp-298-ROGP-line-34"> As if he had thrown down a dish.</l><l n="35" xml:id="spp-298-ROGP-line-35"> Yet, this I dare foretell you from it,</l><l n="36" xml:id="spp-298-ROGP-line-36"> He'll soon return to his own vomit.</l></lg><lg n="6" type="stanza"><l n="37" xml:id="spp-298-ROGP-line-37">WHIG Besides, this horrid plot was found</l><l n="38" xml:id="spp-298-ROGP-line-38"> By Neno after he was drowned.</l></lg><lg n="7" type="stanza"><l n="39" xml:id="spp-298-ROGP-line-39">TORY Why then the proverb is not right,</l><l n="40" xml:id="spp-298-ROGP-line-40"> Since you can teach dead dogs to bite.</l></lg><lg n="8" type="stanza"><l n="41" xml:id="spp-298-ROGP-line-41">WHIG I proved my proposition full:</l><l n="42" xml:id="spp-298-ROGP-line-42"> But, Jacobites are strangely dull.</l><l n="43" xml:id="spp-298-ROGP-line-43"> Now, let me tell you plainly, sir,</l><l n="44" xml:id="spp-298-ROGP-line-44"> Our witness is a real cur,</l><l n="45" xml:id="spp-298-ROGP-line-45"> A dog of spirit for his years,</l><l n="46" xml:id="spp-298-ROGP-line-46"> Has twice two legs, two hanging ears;</l><l n="47" xml:id="spp-298-ROGP-line-47"> His name is Harlequin, I wot,</l><l n="48" xml:id="spp-298-ROGP-line-48"> And that's a name in every plot:</l><l n="49" xml:id="spp-298-ROGP-line-49"> Resolved to save the British nation,</l><l n="50" xml:id="spp-298-ROGP-line-50"> Though French by birth and education:</l><l n="51" xml:id="spp-298-ROGP-line-51"> His correspondence plainly dated,</l><l n="52" xml:id="spp-298-ROGP-line-52"> Was all deciphered, and translated.</l><l n="53" xml:id="spp-298-ROGP-line-53"> His answers were exceeding pretty</l><l n="54" xml:id="spp-298-ROGP-line-54"> Before the secret wise committee;</l><l n="55" xml:id="spp-298-ROGP-line-55"> Confessed as plain as he could bark;</l><l n="56" xml:id="spp-298-ROGP-line-56"> Then with his fore-foot set his mark.</l></lg><lg n="9" type="stanza"><l n="57" xml:id="spp-298-ROGP-line-57">TORY Then all this while I have been bubbled;</l><l n="58" xml:id="spp-298-ROGP-line-58"> I thought it was a dog in doublet:</l><l n="59" xml:id="spp-298-ROGP-line-59"> The matter now no longer sticks;</l><l n="60" xml:id="spp-298-ROGP-line-60"> For statesmen never want dog-tricks.</l><l n="61" xml:id="spp-298-ROGP-line-61"> But, since it was a real cur,</l><l n="62" xml:id="spp-298-ROGP-line-62"> And not a dog in metaphor,</l><l n="63" xml:id="spp-298-ROGP-line-63"> I'll give you joy of the report,</l><l n="64" xml:id="spp-298-ROGP-line-64"> That he's to have a place at court.</l></lg><lg n="10" type="stanza"><l n="65" xml:id="spp-298-ROGP-line-65">WHIG Yes, and a place he will grow rich in;</l><l n="66" xml:id="spp-298-ROGP-line-66"> A turnspit in the royal kitchen.</l><l n="67" xml:id="spp-298-ROGP-line-67"> Sir, to be plain, I tell you what;</l><l n="68" xml:id="spp-298-ROGP-line-68"> We had occasion for a plot;</l><l n="69" xml:id="spp-298-ROGP-line-69"> And when we found the dog begin it,</l><l n="70" xml:id="spp-298-ROGP-line-70"> We guessed the Bishop's foot was in it.</l></lg><lg n="11" type="stanza"><l n="71" xml:id="spp-298-ROGP-line-71">TORY I own it was a dangerous project;</l><l n="72" xml:id="spp-298-ROGP-line-72"> And you have proved it by dog-logic.</l><l n="73" xml:id="spp-298-ROGP-line-73"> Sure such intelligence between</l><l n="74" xml:id="spp-298-ROGP-line-74"> A dog and bishop ne'er was seen,</l><l n="75" xml:id="spp-298-ROGP-line-75"> Till you began to change the breed;</l><l n="76" xml:id="spp-298-ROGP-line-76"> Your bishops all are dogs indeed.298-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

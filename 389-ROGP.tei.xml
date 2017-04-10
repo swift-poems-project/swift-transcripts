@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">Verses on the Revival of the Order of the Bath</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="389-ROGP" type="poem"><head type="note" n="1" xml:id="spp-389-ROGP-headnote-1"><lg n="1" xml:id="spp-389-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-389-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-389-ROGP-headnote-2"><lg n="1" xml:id="spp-389-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-389-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-389-ROGP-headnote-3"><lg n="1" xml:id="spp-389-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-389-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-389-ROGP-line-1"> Quoth King Robin, our ribbons I see are too few,&#13;</l><l n="2" xml:id="spp-389-ROGP-line-2"> Of St Andrew's the green, and St George's the blue.</l><l n="3" xml:id="spp-389-ROGP-line-3"> I must have another of colour more gay,</l><l n="4" xml:id="spp-389-ROGP-line-4"> That will make all my subjects with pride to obey.</l><l n="5" xml:id="spp-389-ROGP-line-5"> Though the Exchequer be drained by prodigal donors</l><l n="6" xml:id="spp-389-ROGP-line-6"> Our king ne'er exhausted his fountain of honours.</l><l n="7" xml:id="spp-389-ROGP-line-7"> Men of more wit than money, our pensions will fit,</l><l n="8" xml:id="spp-389-ROGP-line-8"> And this will suit men of more money than wit.</l><l n="9" xml:id="spp-389-ROGP-line-9"> Thus my subjects with pleasure will obey my commands,</l><l n="10" xml:id="spp-389-ROGP-line-10"> Though as empty as Yonge and as saucy as Sandys;</l><l n="11" xml:id="spp-389-ROGP-line-11"> And he who will leap over a stick for the king</l><l n="12" xml:id="spp-389-ROGP-line-12"> Is qualified best for a dog in a string.389-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

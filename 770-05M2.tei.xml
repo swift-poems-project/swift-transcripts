@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">HORACE</hi>, B<hi rend="SMALL-CAPS">OOK</hi> I.<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-770-05M2-footnote-1 #spp-770-05M2-line-11"/>
+          <link target="#spp-770-05M2-footnote-2 #spp-770-05M2-line-13"/>
+          <link target="#spp-770-05M2-footnote-3 #spp-770-05M2-line-13"/>
+          <link target="#spp-770-05M2-footnote-4 #spp-770-05M2-line-14"/>
+          <link target="#spp-770-05M2-footnote-5 #spp-770-05M2-line-17"/>
+          <link target="#spp-770-05M2-footnote-6 #spp-770-05M2-line-20"/>
+          <link target="#spp-770-05M2-footnote-7 #spp-770-05M2-line-30"/>
+          <link target="#spp-770-05M2-footnote-8 #spp-770-05M2-line-33"/>
+          <link target="#spp-770-05M2-footnote-9 #spp-770-05M2-line-43"/>
+          <link target="#spp-770-05M2-footnote-10 #spp-770-05M2-line-49"/>
+          <link target="#spp-770-05M2-footnote-11 #spp-770-05M2-line-53"/>
+        </linkGrp>
+        <div n="770-05M2" type="poem"><head type="note" n="1" xml:id="spp-770-05M2-headnote-1"><lg n="1" xml:id="spp-770-05M2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-770-05M2-headnote-1-line-group-1-line-1"><hi rend="underline">O navis referent</hi>, &amp;c.</l></lg></head><head type="note" n="2" xml:id="spp-770-05M2-headnote-2"><lg n="1" xml:id="spp-770-05M2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-770-05M2-headnote-2-line-group-1-line-1">Paraphrased and Inscribed to <hi rend="underline">IRELAND</hi>.</l></lg></head><head type="note" n="3" xml:id="spp-770-05M2-headnote-3"><lg n="1" xml:id="spp-770-05M2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-770-05M2-headnote-3-line-group-1-line-1">Written in the Year 1725-6.</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-770-05M2-line-1" rend="align(center)">The INSCRIPTION.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-770-05M2-line-2" rend="flush left"/></lg><lg n="3" type="stanza"><l n="3" xml:id="spp-770-05M2-line-3"><hi rend="underline">Poor floating Isle, tost an ill Fortune's Waves,&#13;</hi>Fate<hi rend="underline"> to be the Land of Slaves;</hi>Delos<hi rend="underline"> now deep-rooted stand;</hi>.</l><l n="4" xml:id="spp-770-05M2-line-4"> Ordain'd by </l><l n="5" xml:id="spp-770-05M2-line-5"> Shall moving </l><l n="6" xml:id="spp-770-05M2-line-6"> Thou, fix'd of old, be now the moving Land?</l><l n="7" xml:id="spp-770-05M2-line-7"> Altho' the Metaphor be worn and stale,</l><l n="8" xml:id="spp-770-05M2-line-8"> Betwixt a State, and Vessel under Sail;</l><l n="9" xml:id="spp-770-05M2-line-9"> Let me suppose thee for a Ship a-while,</l><l n="10" xml:id="spp-770-05M2-line-10"> And thus address thee in the Sailor's Style</l></lg><lg n="4" type="stanza"><l n="11" xml:id="spp-770-05M2-line-11"><ref target="#spp-770-05M2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-770-05M2-footnote-1"><hi rend="underline">O navis, referent in mare te novi Fluctus</hi>.</note><hi rend="display-initial">U</hi>NHAPPY Ship, thou art return'd in vain:</l><l n="12" xml:id="spp-770-05M2-line-12"> New Waves shall drive thee to the Deep again.</l><l n="13" xml:id="spp-770-05M2-line-13"> Look to thyself, and be no more the Sport<ref target="#spp-770-05M2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-770-05M2-footnote-2">────────<hi rend="underline">Fortiter occupa_Portum</hi>:</note>Of giddy Winds, but make some friendly Port.<ref target="#spp-770-05M2-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-770-05M2-footnote-3"><hi rend="underline">Nudum remigio latus</hi>.</note>Lost are thy Oars that us'd thy Course to guide,</l><l n="14" xml:id="spp-770-05M2-line-14"> Like faithful Counsellors on either Side.<ref target="#spp-770-05M2-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-770-05M2-footnote-4">──────<hi rend="underline">Malus celeri saucius</hi> Africo.</note>Thy Mast which like some aged Patriot stodd</l><l n="15" xml:id="spp-770-05M2-line-15"> The single Pillar for his Country's Good,</l><l n="16" xml:id="spp-770-05M2-line-16"> To lead thee, as a Staff directs the Blind,</l><l n="17" xml:id="spp-770-05M2-line-17"> Behold it cracks by yon rough <hi rend="underline">Eastern</hi> Wind.<ref target="#spp-770-05M2-footnote-5">5</ref><note place="foot" n="5" xml:id="spp-770-05M2-footnote-5">──────<hi rend="underline">Ac sine funibus_Vix durare carin<unclear>ae</unclear>_Possint imperiosisu_<unclear>AE</unclear>quor</hi>?</note>Your Cables burst, and you must quickly feel</l><l n="18" xml:id="spp-770-05M2-line-18"> The Waves impetuous entring at your Keel.</l><l n="19" xml:id="spp-770-05M2-line-19"> Thus, Commonwealths receive a foreign Yoke,</l><l n="20" xml:id="spp-770-05M2-line-20"> When the strong Cords of Union once are broke,<ref target="#spp-770-05M2-footnote-6">6</ref><note place="foot" n="6" xml:id="spp-770-05M2-footnote-6"><hi rend="underline">Non tibi sunt integra lintea</hi>.</note>Torn by a sudden Tempest is thy Sail,</l><l n="21" xml:id="spp-770-05M2-line-21"> Expanded to invite a milder Gale.</l></lg><lg n="5" type="stanza"><l n="22" xml:id="spp-770-05M2-line-22">A<hi rend="SMALL-CAPS">S</hi> when some Writer in a publick Cause,</l><l n="23" xml:id="spp-770-05M2-line-23"> His Pen, to save a sinking Nation draws,</l><l n="24" xml:id="spp-770-05M2-line-24"> While all is calm, his Arguments prevail,</l><l n="25" xml:id="spp-770-05M2-line-25"> The People's Voice expands his Paper Sail;</l><l n="26" xml:id="spp-770-05M2-line-26"> 'Till Pow'r discharging all her stormy Bags,</l><l n="27" xml:id="spp-770-05M2-line-27"> Flutters the feeble Pamphlet into Rags.</l><l n="28" xml:id="spp-770-05M2-line-28"> The Nation scar'd, the Author doom'd to Death,</l><l n="29" xml:id="spp-770-05M2-line-29"> Who fondly put his Trust in pop'lar Breath.</l><l n="30" xml:id="spp-770-05M2-line-30"> A <hi rend="SMALL-CAPS">LARGER</hi> Sacrifice in vain you vow;<ref target="#spp-770-05M2-footnote-7">7</ref><note place="foot" n="7" xml:id="spp-770-05M2-footnote-7"><hi rend="underline">Non Dii, quos iterum pressa voces male</hi>.</note>There's not a Pow'r above will help you now:</l><l n="31" xml:id="spp-770-05M2-line-31"> A Nation thus, who oft Heav'n's Call neglects,</l><l n="32" xml:id="spp-770-05M2-line-32"> In vain from injur'd Heav'n Relief expects.</l></lg><lg n="6" type="stanza"><l n="33" xml:id="spp-770-05M2-line-33"><ref target="#spp-770-05M2-footnote-8">8</ref><note place="foot" n="8" xml:id="spp-770-05M2-footnote-8"><hi rend="underline">Quamvis Pontica pinus,_Sylv<unclear>ae</unclear> filia nobilis</hi>.</note>'T<hi rend="SMALL-CAPS">WILL</hi> not avail, when thy strong Sides are broke,</l><l n="34" xml:id="spp-770-05M2-line-34"> That thy Descent is from the <hi rend="underline">British</hi> Oak:</l><l n="35" xml:id="spp-770-05M2-line-35"> Or when your Name and Family you boast,</l><l n="36" xml:id="spp-770-05M2-line-36"> From Fleets triumphant o'er the <hi rend="underline">Gallic</hi> Coast.</l><l n="37" xml:id="spp-770-05M2-line-37"> Such was <hi rend="underline">Ierne</hi>'s Claim, as just as thine,</l><l n="38" xml:id="spp-770-05M2-line-38"> Her Sons descended from the <hi rend="underline">British</hi> Line;</l><l n="39" xml:id="spp-770-05M2-line-39"> Her matchless Sons; whose Valour still remains</l><l n="40" xml:id="spp-770-05M2-line-40"> On <hi rend="underline">French</hi> Records, for Twenty long Campaigns:</l><l n="41" xml:id="spp-770-05M2-line-41"> Yet, from an Empress, now a Captive grown,</l><l n="42" xml:id="spp-770-05M2-line-42"> She sav'd <hi rend="underline">Britannia</hi>'s Rights, and lost her own.</l></lg><lg n="7" type="stanza"><l n="43" xml:id="spp-770-05M2-line-43"><ref target="#spp-770-05M2-footnote-9">9</ref><note place="foot" n="9" xml:id="spp-770-05M2-footnote-9"><hi rend="underline">Nil pictis timidus navita puppibus</hi></note>In Ships decay'd no Mariner confides,</l><l n="44" xml:id="spp-770-05M2-line-44"> Lur'd by the gilded Stern and painted Sides;</l><l n="45" xml:id="spp-770-05M2-line-45"> Yet at a Ball, unthinking Fools delight</l><l n="46" xml:id="spp-770-05M2-line-46"> In the gay Trappings of a Birth-Day Night:</l><l n="47" xml:id="spp-770-05M2-line-47"> They on the gold Brocades and Sattins rav'd,</l><l n="48" xml:id="spp-770-05M2-line-48"> And quite forgot their Country was enslav'd.</l></lg><lg n="8" type="stanza"><l n="49" xml:id="spp-770-05M2-line-49"><ref target="#spp-770-05M2-footnote-10">10</ref><note place="foot" n="10" xml:id="spp-770-05M2-footnote-10"><hi rend="underline">Fidit; tu, nisi ventis_Debes ludibrum, cave</hi>.</note>D<hi rend="SMALL-CAPS">EAR</hi> Vessel, still be to thy Steerage just,</l><l n="50" xml:id="spp-770-05M2-line-50"> Nor change thy Course with ev'ry Sudden Gust:</l><l n="51" xml:id="spp-770-05M2-line-51"> Like supple Patriots of the modern Sort,</l><l n="52" xml:id="spp-770-05M2-line-52"> Who turn with ev'ry Gale that blows from Court.</l></lg><lg n="9" type="stanza"><l n="53" xml:id="spp-770-05M2-line-53"><ref target="#spp-770-05M2-footnote-11">11</ref><note place="foot" n="11" xml:id="spp-770-05M2-footnote-11"><hi rend="underline">Nuper solicitum qu<unclear>ae</unclear> mibi t<unclear>ae</unclear>dium,_Nunc desiderium, curaque non levis,_Interfusa nitentes_Vites <unclear>ae</unclear>quora Cycladas</hi>.770-05M2   5</note>W<hi rend="SMALL-CAPS">EARY</hi> and Sea-Sick when in thee confin'd,</l><l n="54" xml:id="spp-770-05M2-line-54"> Now, for thy Safety, Cares distract my Mind,</l><l n="55" xml:id="spp-770-05M2-line-55"> As those who long have stood the Storms of State,</l><l n="56" xml:id="spp-770-05M2-line-56"> Retire, yet still bemoan their Country's Fate.</l><l n="57" xml:id="spp-770-05M2-line-57"> Beware, and when you hear the Surges roar,</l><l n="58" xml:id="spp-770-05M2-line-58"> Avoid the Rocks on <hi rend="underline">Britain</hi>'s angry Shore;</l><l n="59" xml:id="spp-770-05M2-line-59"> They lie, alas! too easy to be found,</l><l n="60" xml:id="spp-770-05M2-line-60"> For thee alone they lie the Island round.770-05M2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

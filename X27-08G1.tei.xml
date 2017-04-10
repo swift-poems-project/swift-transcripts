@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">A humorous letter to Dr</hi> S<hi rend="SMALL-CAPS">HERIDAN</hi>, <hi rend="underline">on a literalia</hi></title>
+        <title><hi rend="underline">scheme of writing</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X27-08G1-footnote-1 #spp-X27-08G1-line-7"/>
+          <link target="#spp-X27-08G1-footnote-2 #spp-X27-08G1-line-13"/>
+          <link target="#spp-X27-08G1-footnote-3 #spp-X27-08G1-line-21"/>
+        </linkGrp>
+        <div n="X27-08G1" type="letter"><head type="note" n="1" xml:id="spp-X27-08G1-headnote-1"><lg n="1" xml:id="spp-X27-08G1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X27-08G1-headnote-1-line-group-1-line-1">Swift was naturally fond of seeing his works in print; and he was encouraged in this fondness by his friend Dr Sheridan, who had the <hi rend="underline">cacoethes scribendi</hi>, to the greatest degree, and was continually letting off squibs, rockets, and all sorts of little fire-works from the press: by which means he offended many particular persons, who, although they stood in awe of Swift, held Sheridan at defiance. The truth is, the poor Doctor, by nature the most peaceable, inoffensive man alive, was in a continual state of warfare with the minor poets; and they revenged themselves, or, in the style of Mr Bays, often gave him <hi rend="underline">flash for flash</hi>, and <hi rend="underline">often singed his feathers</hi>. The affection between Theseus and Pirithous was not greater than the affection between Swift and Sheridan. But the friendship that cemented the two ancient heroes, probably commenced upon motives very different from those which united the two modern divines. As in a former letter I drew a picture of Swift's wife, (p. 291. of this volume), let me here give you some sketches of Swift's friend.</l></lg></head><head type="note" n="2" xml:id="spp-X27-08G1-headnote-2"><lg n="1" xml:id="spp-X27-08G1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X27-08G1-headnote-2-line-group-1-line-1">Dr. Sheridan was a schoolmaster, and, in many instances, perfectly well adapted for that station. He was deeply versed in the Greek and Roman languages, and in their customs and antiquities. He had that kind of good nature, which absence of mind, indolence of body, and carelessness of fortune, produce, and although not over strict in his own conduct, yet he took care of the morality of his scholars, whom he sent to the university remarkably well grounded in all classical learning, and not ill instructed in the social duties of life. He was slovenly, indigent, and chearful. He knew books much better than men; and he knew the value of money least of all. In this situation, and with his disposition, Swift fastened upon him, as upon a prey with which he intended to regale himself, whenever his appetite should prompt him. Sheridan therefore was kept constantly within his reach: and the only time he was permitted to go beyond the limits of his chain, was to take possession of a living in the county of Cork, which had been bestowed upon him by the Lord Lieutenant of Ireland, the present Earl of Granville. Sheridan in one fatal moment, or by one fatal text, effected his own ruin. You will find the story told by Swift himself, in vol. 3 p. 182. So that here I need only tell you, that this ill-starred, good-natured, improvident man returned to Dublin, unhinged from all favour at court, and even banished from the castle. But still he remained a punster, a quibbler, a fiddler, and a wit. Not a day passed without a rebus, an anagram, or a madrigal. His pen and his fiddlestick were in continual motion; and yet to little or no purpose, if we may give credit to the following verses, which shall serve as the conclusion of his poetical character.</l></lg></head><head type="note" n="3" xml:id="spp-X27-08G1-headnote-3"><lg n="1" xml:id="spp-X27-08G1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X27-08G1-headnote-3-line-group-1-line-1">See a further account of Dr Sheridan in Dr Swift's life, prefixed to vol. 1.</l></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-X27-08G1-line-1"> With music and poetry equally bless'd,&#13;</l><l n="2" xml:id="spp-X27-08G1-line-2"> A bard thus Apollo most humbly address'd:</l><l n="3" xml:id="spp-X27-08G1-line-3"> Great author of poetry, music and light,</l><l n="4" xml:id="spp-X27-08G1-line-4"> Instructed by thee, I both fiddle and write:</l><l n="5" xml:id="spp-X27-08G1-line-5"> Yet unheeded I scrape, or I scribble all day,</l><l n="6" xml:id="spp-X27-08G1-line-6"> My tunes are neglected, my verse flung away.</l><l n="7" xml:id="spp-X27-08G1-line-7"> Thy substitute here, Vice-Apollo<ref target="#spp-X27-08G1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-X27-08G1-footnote-1"><hi rend="underline">Dr Swift</hi>.</note>, disdains,</l><l n="8" xml:id="spp-X27-08G1-line-8"> To vouch for my numbers, or list to my strains.</l><l n="9" xml:id="spp-X27-08G1-line-9"> Thy manual sign he refuses to put</l><l n="10" xml:id="spp-X27-08G1-line-10"> To the airs I produce from the pen, or the gut.</l><l n="11" xml:id="spp-X27-08G1-line-11"> Be thou then propitious, great Ph<unclear>oe</unclear>bus, and grant</l><l n="12" xml:id="spp-X27-08G1-line-12"> Relief; or reward to my merit, or want.</l><l n="13" xml:id="spp-X27-08G1-line-13"> Though the Dean and Delany <ref target="#spp-X27-08G1-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-X27-08G1-footnote-2"><hi rend="underline">Now Dean of Downe.────See Swift's will, at the end of this volume</hi>.</note> transcendently shine,</l><l n="14" xml:id="spp-X27-08G1-line-14"> O! brighten one solo, or sonnet of mine.<gap/><gap/></l><l n="15" xml:id="spp-X27-08G1-line-15"> Make one work immortal; 'tis all I request.</l><l n="16" xml:id="spp-X27-08G1-line-16"> Apollo look'd pleas'd, and, resolving to jest,</l><l n="17" xml:id="spp-X27-08G1-line-17"> Replied, Honest friend, I've consider'd your case,</l><l n="18" xml:id="spp-X27-08G1-line-18"> Nor dislike your unmeaning and innocent face.</l><l n="19" xml:id="spp-X27-08G1-line-19"> Your petition I grant, the boon is not great,</l><l n="20" xml:id="spp-X27-08G1-line-20"> Your works shall continue, and here's the receipt,</l><l n="21" xml:id="spp-X27-08G1-line-21"> On a <hi rend="underline">roundos</hi><ref target="#spp-X27-08G1-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-X27-08G1-footnote-3"><hi rend="underline">A song or peculiar kind of poetry, which returns to the beginning of the first verse, and so continues in a perpetual rotation.</hi></note> hereafter your fiddlestrings spend,</l><l n="22" xml:id="spp-X27-08G1-line-22"> Write verses in circles, they never shall end.</l></lg><lg n="2" type="verse-paragraph"><l n="23" xml:id="spp-X27-08G1-line-23" rend="flush right"><hi rend="underline">Orrery</hi>.X27-08G1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

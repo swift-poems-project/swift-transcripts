@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">Probatur aliter</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="942-14H1" type="poem"><head type="note" n="1" xml:id="spp-942-14H1-headnote-1"><lg n="1" xml:id="spp-942-14H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-942-14H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-942-14H1-headnote-2"><lg n="1" xml:id="spp-942-14H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-942-14H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-942-14H1-headnote-3"><lg n="1" xml:id="spp-942-14H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-942-14H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-942-14H1-line-1"><hi rend="display-initial">A</hi> Long-ear'd beast, and a field-house for cattle,</l><l n="2" xml:id="spp-942-14H1-line-2"> Among the coals does often rattle.A long-ear'd beast, a bird that prates,</l><l n="3" xml:id="spp-942-14H1-line-3"> The bridegrooms first gift to their mates,</l><l n="4" xml:id="spp-942-14H1-line-4"> Is by all pious christians thought,</l><l n="5" xml:id="spp-942-14H1-line-5"> In clergymen the greatest fault.A long-ear'd beast, and woman of Endor,</l><l n="6" xml:id="spp-942-14H1-line-6"> If your wife be a scold that will mend her.With a long-ear'd beast, and med'cines use,</l><l n="7" xml:id="spp-942-14H1-line-7"> Cooks make their fowl look tight and spruce.A long-ear'd beast, and holy fable,</l><l n="8" xml:id="spp-942-14H1-line-8"> Strengthens the shoes of half the rabble.A long-ear'd beast, and Rhenish wine,</l><l n="9" xml:id="spp-942-14H1-line-9"> Lies in the lap of ladies fine.A long-ear'd beast and <hi rend="underline">Flanders</hi> college,</l><l n="10" xml:id="spp-942-14H1-line-10"> Is Dr. <hi rend="underline">T────l</hi> to my knowledge.A long-ear'd beast, and building knight;</l><l n="11" xml:id="spp-942-14H1-line-11"> Censorious people do in spight.A long-ear'd beast, and bird of night,</l><l n="12" xml:id="spp-942-14H1-line-12"> We sinners are too apt to slight.A long-ear'd beast, a shameful vermin,</l><l n="13" xml:id="spp-942-14H1-line-13"> A judge will eat, tho' clad in ermin.A long-ear'd beast, and <hi rend="underline">Irish</hi> cart,</l><l n="14" xml:id="spp-942-14H1-line-14"> Can leave a mark and give a smart.A long-ear'd beast in mud to lie,</l><l n="15" xml:id="spp-942-14H1-line-15"> No bird in air so swift can fly.A long-ear'd beast and a sputt'ring old whig</l><l n="16" xml:id="spp-942-14H1-line-16"> I wish he were in it and dancing a jig.A long-ear'd beast, and liquor to write,</l><l n="17" xml:id="spp-942-14H1-line-17"> Is a damnable smell both morning and night.A long-ear'd beast, and the child of a sheep,</l><l n="18" xml:id="spp-942-14H1-line-18"> At whist they will make a desperate sweep.A beast long-ear'd, and 'till midnight you stay,</l><l n="19" xml:id="spp-942-14H1-line-19"> Will cover a house much better than clay.A long-ear'd beast, and the drink you love best,</l><l n="20" xml:id="spp-942-14H1-line-20"> You call him a sloven in earnest or jest.A long-ear'd beast, and the sixteenth letter,</l><l n="21" xml:id="spp-942-14H1-line-21"> I'd not look at all, unless I look'd better.A long-ear'd beast give me, and eggs unsound,</l><l n="22" xml:id="spp-942-14H1-line-22"> Or else I will not ride one inch of ground.A long-ear'd beast, another name for jeer,</l><l n="23" xml:id="spp-942-14H1-line-23"> To ladies skins there is nothing comes so near.A long-ear'd beast, and kind noise of a cat,</l><l n="24" xml:id="spp-942-14H1-line-24"> Is useful in journies take notice of that.A long-ear'd beast, and what seasons your beef,</l><l n="25" xml:id="spp-942-14H1-line-25"> On such an occasion the law gives relief.A long-ear'd beast, a thing that force must drive in,</l><l n="26" xml:id="spp-942-14H1-line-26"> Bears up his house, that's of his own contriving.942-14H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

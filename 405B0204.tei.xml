@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Doctor <hi rend="underline">SWIFT</hi> to Mr. <hi rend="underline">POPE</hi>, while he</title>
+        <title>was writing the <hi rend="underline">DUNCIAD</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-405B0204-footnote-1 #spp-405B0204-line-12"/>
+        </linkGrp>
+        <div n="405B0204" type="poem"><head type="note" n="1" xml:id="spp-405B0204-headnote-1"><lg n="1" xml:id="spp-405B0204-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-405B0204-headnote-1-line-group-1-line-1">Written in the Year 1726.</l></lg></head><head type="note" n="2" xml:id="spp-405B0204-headnote-2"><lg n="1" xml:id="spp-405B0204-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-405B0204-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-405B0204-headnote-3"><lg n="1" xml:id="spp-405B0204-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-405B0204-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-405B0204-line-1"><hi rend="display-initial">P</hi><hi rend="underline">OPE</hi> has the Talent well to speak,But not to reach the Ear;</l><l n="2" xml:id="spp-405B0204-line-2"> His loudest Voice is low and weak,The Dean too deaf to hear.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-405B0204-line-3">A while they on each other look,&#13;Then diff'rent Studies chuse;</l><l n="4" xml:id="spp-405B0204-line-4"> The <hi rend="underline">Dean</hi> sits plodding on a Book,<hi rend="underline">Pope</hi> walks, and courts the Muse.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-405B0204-line-5">Now Backs of Letters, though design'd&#13;For those, who more will need 'em,</l><l n="6" xml:id="spp-405B0204-line-6"> Are fill'd with Hints, and interlin'd,Himself can hardly read 'em.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-405B0204-line-7">Each Atom by some other struck&#13;All Turns and Motions tries;</l><l n="8" xml:id="spp-405B0204-line-8"> Till in a Lump together stuck.Behold a <hi rend="underline">Poem</hi> rise!</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-405B0204-line-9">Yet to the <hi rend="underline">Dean</hi> his Share allot;He claims it by a Canon;<hi rend="underline">That without which a Thing is not</hi>,Is, <hi rend="underline">causa sine qua non</hi>;</l></lg><lg n="6" type="stanza"><l n="10" xml:id="spp-405B0204-line-10">Thus, <hi rend="underline">Pope</hi>, in vain you boast your Wit;For, had our deaf Divine</l><l n="11" xml:id="spp-405B0204-line-11"> Been for your Conversation fit,You had not writ a Line.</l></lg><lg n="7" type="stanza"><l n="12" xml:id="spp-405B0204-line-12">Of <ref target="#spp-405B0204-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-405B0204-footnote-1"><hi rend="underline">N.B.</hi> Not the present Bishop of <hi rend="underline">Bangor</hi>, but his Father, who was Dean of St. <hi rend="underline">Paul</hi>'s, who wrote several Pieces in Divinity, on Death, Judgment, Heaven, and Hell.</note><hi rend="underline">Sherlock</hi> thus for Preaching fam'd,The Sexton reason'd well,</l><l n="13" xml:id="spp-405B0204-line-13"> And justly half the Merit claim'd,Because he <hi rend="underline">rang the Bell</hi>.405B0204   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

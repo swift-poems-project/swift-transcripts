@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y45A#0YA" type="poem"><head type="note" n="1" xml:id="spp-Y45A#0YA-headnote-1"><lg n="1" xml:id="spp-Y45A#0YA-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y45A#0YA-headnote-1-line-group-1-line-1">“Well,” rejoin'd the Dean, “in that case, there can be no difficulty;” ──so taking up his pen he wrote the following:</l></lg></head><head type="note" n="2" xml:id="spp-Y45A#0YA-headnote-2"><lg n="1" xml:id="spp-Y45A#0YA-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y45A#0YA-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y45A#0YA-headnote-3"><lg n="1" xml:id="spp-Y45A#0YA-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y45A#0YA-headnote-3-line-group-1-line-1">Y45A#0YA</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y45A#0YA-line-1">Y45A#0YA   1  Rove not from Pole to Pole, but step in here,&#13;Y45A#0YA   2  Where nought excels the Shaving──but the Beer.Y45A#0YA   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>
