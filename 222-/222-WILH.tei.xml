@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>PHILLIS,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="222-WILH" type="poem"><head type="note" n="1" xml:id="spp-222-WILH-headnote-1"><lg n="1" xml:id="spp-222-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-222-WILH-headnote-1-line-group-1-line-1">Written <hi rend="SMALL-CAPS">A.D</hi>. 1719.</l></lg></head><head type="note" n="2" xml:id="spp-222-WILH-headnote-2"><lg n="1" xml:id="spp-222-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-222-WILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-222-WILH-headnote-3"><lg n="1" xml:id="spp-222-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-222-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-222-WILH-line-1">Desponding Phillis was endu'd&#13;</l><l n="2" xml:id="spp-222-WILH-line-2"> With ev'ry Talent of a Prude,</l><l n="3" xml:id="spp-222-WILH-line-3"> She trembled when a Man drew near;</l><l n="4" xml:id="spp-222-WILH-line-4"> Salute her, and she turn'd her Ear:</l><l n="5" xml:id="spp-222-WILH-line-5"> If o'er against her you were plac't</l><l n="6" xml:id="spp-222-WILH-line-6"> She durst not look above your Wast;</l><l n="7" xml:id="spp-222-WILH-line-7"> She'd rather take you to her Bed</l><l n="8" xml:id="spp-222-WILH-line-8"> Than let you see her dress her Head;</l><l n="9" xml:id="spp-222-WILH-line-9"> In Church you heard her thrô the Crowd</l><l n="10" xml:id="spp-222-WILH-line-10"> Repeat the Absolution loud;</l><l n="11" xml:id="spp-222-WILH-line-11"> In Church, secure behind her Fan</l><l n="12" xml:id="spp-222-WILH-line-12"> She durst behold that Monster, Man:</l><l n="13" xml:id="spp-222-WILH-line-13"> There practic'd how to place her Head,</l><l n="14" xml:id="spp-222-WILH-line-14"> And bit her Lips to make them red:</l><l n="15" xml:id="spp-222-WILH-line-15"> Or on the Matt devoutly kneeling</l><l n="16" xml:id="spp-222-WILH-line-16"> Would lift her Eyes up to the Ceeling,</l><l n="17" xml:id="spp-222-WILH-line-17"> And heave her Bosom unaware</l><l n="18" xml:id="spp-222-WILH-line-18"> For neighb'ring Beaux to see it bare.At length a lucky Lover came,</l><l n="19" xml:id="spp-222-WILH-line-19"> And found Admittance from the Dame.</l><l n="20" xml:id="spp-222-WILH-line-20"> Suppose all Partyes now agreed,</l><l n="21" xml:id="spp-222-WILH-line-21"> The Writings drawn, the Lawyer fee'd,</l><l n="22" xml:id="spp-222-WILH-line-22"> The Vicar and the Ring bespoke:</l><l n="23" xml:id="spp-222-WILH-line-23"> Guess how could such a Match be broke.</l><l n="24" xml:id="spp-222-WILH-line-24"> See then what Mortals place their Bliss in!</l><l n="25" xml:id="spp-222-WILH-line-25"> Next morn betimes the Bride was missing,</l><l n="26" xml:id="spp-222-WILH-line-26"> The Mother scream'd, the Father chid,</l><l n="27" xml:id="spp-222-WILH-line-27"> Where can this idle Wench be hid?</l><l n="28" xml:id="spp-222-WILH-line-28"> No news of Phil. The Bridegroom came,</l><l n="29" xml:id="spp-222-WILH-line-29"> And thought his Bride had sculk't for shame,</l><l n="30" xml:id="spp-222-WILH-line-30"> Because her Father us'd to say</l><l n="31" xml:id="spp-222-WILH-line-31"> The Girl had such a Bashfull way.Now, John the Butler must be sent</l><l n="32" xml:id="spp-222-WILH-line-32"> To learn the Way that Phillis went;</l><l n="33" xml:id="spp-222-WILH-line-33"> The Groom was wisht to saddle Crop,</l><l n="34" xml:id="spp-222-WILH-line-34"> For John must neither light nor stop;</l><l n="35" xml:id="spp-222-WILH-line-35"> But find her where so'er she fled,</l><l n="36" xml:id="spp-222-WILH-line-36"> And bring her back, alive or dead.</l><l n="37" xml:id="spp-222-WILH-line-37"> See here again the Dev'l to do;</l><l n="38" xml:id="spp-222-WILH-line-38"> For truly John was missing too:</l><l n="39" xml:id="spp-222-WILH-line-39"> The Horse and Pillion both were gone</l><l n="40" xml:id="spp-222-WILH-line-40"> Phillis, it seems, was fled with John.</l><l n="41" xml:id="spp-222-WILH-line-41"> Old Madam who went up to find</l><l n="42" xml:id="spp-222-WILH-line-42"> What Papers Phil had left behind,</l><l n="43" xml:id="spp-222-WILH-line-43"> A Letter on the Toylet sees</l><l n="44" xml:id="spp-222-WILH-line-44"> To my much honor'd Father; These:</l><l n="45" xml:id="spp-222-WILH-line-45"> ('Tis always done, Romances tell us,</l><l n="46" xml:id="spp-222-WILH-line-46"> When Daughters run away with Fellows)</l><l n="47" xml:id="spp-222-WILH-line-47"> Fill'd with the choicest common-places,</l><l n="48" xml:id="spp-222-WILH-line-48"> By others us'd in the like Cases.</l><l n="49" xml:id="spp-222-WILH-line-49"> That, long ago a Fortune-teller</l><l n="50" xml:id="spp-222-WILH-line-50"> Exactly said what now befell her,</l><l n="51" xml:id="spp-222-WILH-line-51"> And in a Glass had made her see</l><l n="52" xml:id="spp-222-WILH-line-52"> A serving-Man of low Degree:</l><l n="53" xml:id="spp-222-WILH-line-53"> It was her Fate; must be forgiven;</l><l n="54" xml:id="spp-222-WILH-line-54"> For Marriages are made in Heaven:</l><l n="55" xml:id="spp-222-WILH-line-55"> His Pardon begg'd, but to be plain,</l><l n="56" xml:id="spp-222-WILH-line-56"> She'd do't if 'twere to do again.</l><l n="57" xml:id="spp-222-WILH-line-57"> Thank God, 'twas neither Shame nor Sin,</l><l n="58" xml:id="spp-222-WILH-line-58"> For John was come of honest Kin:</l><l n="59" xml:id="spp-222-WILH-line-59"> Love never thinks of Rich and Poor,</l><l n="60" xml:id="spp-222-WILH-line-60"> She'd beg with John from Door to Door:</l><l n="61" xml:id="spp-222-WILH-line-61"> Forgive her, if it be a Crime,</l><l n="62" xml:id="spp-222-WILH-line-62"> She'll never do't another Time,</l><l n="63" xml:id="spp-222-WILH-line-63"> She ne'r before in all her Life</l><l n="64" xml:id="spp-222-WILH-line-64"> Once disobey'd him, Maid nor Wife.</l><l n="65" xml:id="spp-222-WILH-line-65"> One Argument she summ'd up all in,</l><l n="66" xml:id="spp-222-WILH-line-66"> The Thing was done and past recalling:</l><l n="67" xml:id="spp-222-WILH-line-67"> And therefore hop'd she would recover</l><l n="68" xml:id="spp-222-WILH-line-68"> His Favor, when his Passion's over.</l><l n="69" xml:id="spp-222-WILH-line-69"> She valued not what others thought her;</l><l n="70" xml:id="spp-222-WILH-line-70"> And was──His most obedient Daughter.Fair Maidens all attend the Muse</l><l n="71" xml:id="spp-222-WILH-line-71"> Who now the wandring Pair pursues:</l><l n="72" xml:id="spp-222-WILH-line-72"> Away they rode in homely Sort</l><l n="73" xml:id="spp-222-WILH-line-73"> Their Journy long, their Money short;</l><l n="74" xml:id="spp-222-WILH-line-74"> The loving Couple well bemir'd,</l><l n="75" xml:id="spp-222-WILH-line-75"> The Horse and both the Riders tir'd:</l><l n="76" xml:id="spp-222-WILH-line-76"> Their Vittells bad, their Lodging worse,</l><l n="77" xml:id="spp-222-WILH-line-77"> Phil cry'd, and John began to curse;</l><l n="78" xml:id="spp-222-WILH-line-78"> Phil wish't, that she had strained a Limb</l><l n="79" xml:id="spp-222-WILH-line-79"> When first she ventur'd out with him.</l><l n="80" xml:id="spp-222-WILH-line-80"> John wish't, that he had broke a Leg</l><l n="81" xml:id="spp-222-WILH-line-81"> When first for her he quitted Peg.But what Adventures more befell 'um</l><l n="82" xml:id="spp-222-WILH-line-82"> The Muse has now not time to tell 'um.</l><l n="83" xml:id="spp-222-WILH-line-83"> How Jonny wheadled, threatned, fawnd,</l><l n="84" xml:id="spp-222-WILH-line-84"> Till Phillis all her Trinkets pawn'd:</l><l n="85" xml:id="spp-222-WILH-line-85"> How oft she broke her marriage Vows</l><l n="86" xml:id="spp-222-WILH-line-86"> In kindness to maintain her Spouse;</l><l n="87" xml:id="spp-222-WILH-line-87"> Till Swains unwholsome spoyld the Trade,</l><l n="88" xml:id="spp-222-WILH-line-88"> For now the Surgeon must be paid;</l><l n="89" xml:id="spp-222-WILH-line-89"> To whom those Perquisites are gone</l><l n="90" xml:id="spp-222-WILH-line-90"> In Christian Justice due to John.When Food and Rayment now grew scarce</l><l n="91" xml:id="spp-222-WILH-line-91"> Fate put a Period to the Farce;</l><l n="92" xml:id="spp-222-WILH-line-92"> And with exact Poetick Justice:</l><l n="93" xml:id="spp-222-WILH-line-93"> For John is Landlord, Phillis Hostess;</l><l n="94" xml:id="spp-222-WILH-line-94"> They keep at Stains the old blue Boar,</l><l n="95" xml:id="spp-222-WILH-line-95"> Are Cat and Dog, and Rogue and Whore.222-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

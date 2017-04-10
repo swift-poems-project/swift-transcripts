@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">Anglo-Latin Verses</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R544ROGP" type="poem"><head type="note" n="1" xml:id="spp-R544ROGP-headnote-1"><lg n="1" xml:id="spp-R544ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-R544ROGP-headnote-1-line-group-1-line-1">AN EPIGRAM</l></lg></head><head type="note" n="2" xml:id="spp-R544ROGP-headnote-2"><lg n="1" xml:id="spp-R544ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-R544ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-R544ROGP-headnote-3"><lg n="1" xml:id="spp-R544ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-R544ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-R544ROGP-line-1"> A sui ne is abuti cum par ito Dic&#13;</l><l n="2" xml:id="spp-R544ROGP-line-2"> A site offis fis it mite me cacat sic</l><l n="3" xml:id="spp-R544ROGP-line-3"> Re diri no at es ter a quarto fine ale</l><l n="4" xml:id="spp-R544ROGP-line-4"> Fora ringat his nos e an da stringat his tale.R544ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

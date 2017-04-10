@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CXI. EARL OF NOTTINGHAM.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CCalella"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-193-04B2-footnote-1 #spp-193-04B2-line-1"/>
+        </linkGrp>
+        <div n="193-04B2" type="poem"><head type="note" n="1" xml:id="spp-193-04B2-headnote-1"><lg n="1" xml:id="spp-193-04B2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-193-04B2-headnote-1-line-group-1-line-1">Swift also took care not to forget Lord Nottingham in the poem upon himself, written in 1713; in which he says;</l></lg></head><head type="note" n="2" xml:id="spp-193-04B2-headnote-2"><lg n="1" xml:id="spp-193-04B2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-193-04B2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-193-04B2-headnote-3"><lg n="1" xml:id="spp-193-04B2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-193-04B2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-193-04B2-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> Now Finch <ref target="#spp-193-04B2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-193-04B2-footnote-1">The family name of the Earl of Nottingham.</note> alarms the Lords: he hears for certain</l><l n="2" xml:id="spp-193-04B2-line-2"> This dangerous priest is got behind the curtain.</l><l n="3" xml:id="spp-193-04B2-line-3"> Finch, fam'd for tedious elocution, proves</l><l n="4" xml:id="spp-193-04B2-line-4"> That Swift oils many a spring which Harley moves.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>193-04B2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

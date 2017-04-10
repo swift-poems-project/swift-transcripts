@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AY AND NO,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-843A79L2-footnote-1 #spp-843A79L2-line-3"/>
+        </linkGrp>
+        <div n="843A79L2" type="poem"><head type="note" n="1" xml:id="spp-843A79L2-headnote-1"><lg n="1" xml:id="spp-843A79L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-843A79L2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-843A79L2-headnote-2"><lg n="1" xml:id="spp-843A79L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-843A79L2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-843A79L2-headnote-3"><lg n="1" xml:id="spp-843A79L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-843A79L2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-843A79L2-line-1"><hi rend="display-initial">A</hi>T Dublin's high feast sate Primate and Dean,</l><l n="2" xml:id="spp-843A79L2-line-2"> Both dress'd like divines, with band and face clean.</l><l n="3" xml:id="spp-843A79L2-line-3"> Quoth Hugh of Armagh <ref target="#spp-843A79L2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-843A79L2-footnote-1">Dr. Hugh Boulter.</note>, “The mob is grown bold.”</l><l n="4" xml:id="spp-843A79L2-line-4"> “Ay, ay,” quoth the Dean, “the cause is old gold.”</l><l n="5" xml:id="spp-843A79L2-line-5"> “No, no,” quoth the Primate, “if causes we sift,</l><l n="6" xml:id="spp-843A79L2-line-6"> “This mischief arises from witty Dean Swift.”</l><l n="7" xml:id="spp-843A79L2-line-7"> The smart-one replied, “There·'s no wit in the case;</l><l n="8" xml:id="spp-843A79L2-line-8"> “And nothing of that ever troubled your Grace.</l><l n="9" xml:id="spp-843A79L2-line-9"> “Though with your state-sieve your own notions you split,</l><l n="10" xml:id="spp-843A79L2-line-10"> “A Boulter by name is no <hi rend="underline">bolter</hi> of wit.</l><l n="11" xml:id="spp-843A79L2-line-11"> “It is matter of weight, and a mere money-jobb;</l><l n="12" xml:id="spp-843A79L2-line-12"> “But the lower the coin, the higher the mob.</l><l n="13" xml:id="spp-843A79L2-line-13"> “Go tell your friend Bob and the other great folk,</l><l n="14" xml:id="spp-843A79L2-line-14"> “That sinking the coin is a dangerous joke.</l><l n="15" xml:id="spp-843A79L2-line-15"> “The Irish dear-joys have enough common sense,</l><l n="16" xml:id="spp-843A79L2-line-16"> “To treat gold reduced like Wood's copper pence.</l><l n="17" xml:id="spp-843A79L2-line-17"> “It is pity a Prelate should die without law;</l><l n="18" xml:id="spp-843A79L2-line-18"> “But if I say the word──take care of Armagh!”843A79L2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

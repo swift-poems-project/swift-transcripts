@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-848-06E2-title-1">On cutting down the old T<hi rend="SMALL-CAPS">HORN</hi> at M<hi rend="SMALL-CAPS">AR-<lb/>KET-HILL</hi> <ref target="#spp-848-06E2-footnote-title-1">1</ref><note n="1" xml:id="spp-848-06E2-footnote-title-1" place="foot">A village near the seat of Sir Arthur Acheson, where the Dean sometimes made a long visit</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-848-06E2-footnote-title-1 #spp-848-06E2-title-1"/>
+          <link target="#spp-848-06E2-footnote-1 #"/>
+          <link target="#spp-848-06E2-footnote-1 #spp-848-06E2-line-16"/>
+          <link target="#spp-848-06E2-footnote-1 #"/>
+        </linkGrp>
+        <div n="848-06E2"><head type="note" n="1" xml:id="spp-848-06E2-headnote-1"><lg n="1" xml:id="spp-848-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-848-06E2-headnote-1-line-group-1-line-1">Written in the year 1727.&#13;</l></lg></head><head type="note" n="2" xml:id="spp-848-06E2-headnote-2"><lg n="1" xml:id="spp-848-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-848-06E2-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-848-06E2-headnote-3"><lg n="1" xml:id="spp-848-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-848-06E2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-848-06E2-line-1"><hi rend="display-initial">A</hi>T Market-hill, as well appears</l><l/><l n="2" xml:id="spp-848-06E2-line-2">By chronicle of ancient date,</l><l/><l n="3" xml:id="spp-848-06E2-line-3">There stood for many a hundred years</l><l/><l n="4" xml:id="spp-848-06E2-line-4">A spacious thorn before the gate.</l><l/><l n="5" xml:id="spp-848-06E2-line-5"/></lg><lg n="2" type="stanza"><l>Hither came ev'ry village-maid,&#13;</l><l/><l n="6" xml:id="spp-848-06E2-line-6">And on the boughs her garland hung,</l><l/><l n="7" xml:id="spp-848-06E2-line-7">And here, beneath the spreading shade,</l><l/><l n="8" xml:id="spp-848-06E2-line-8">Secure from satyrs sat and sung.</l><l/><l n="9" xml:id="spp-848-06E2-line-9"/></lg><lg n="3" type="stanza"><l>Sir Archibald <ref target="#spp-848-06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-848-06E2-footnote-1">Sir Archibald Acheson, Secretary of State for Scotland.</note> that val'rous knight,</l><l/><l n="10" xml:id="spp-848-06E2-line-10">Then lord of all the fruitful plain,</l><l/><l n="11" xml:id="spp-848-06E2-line-11">Would come to listen with delight,</l><l/><l n="12" xml:id="spp-848-06E2-line-12">For he was fond of rural strain.</l><l/><l n="13" xml:id="spp-848-06E2-line-13"/></lg><lg n="4" type="stanza"><l>(Sir Archibald, whose fav'rite name&#13;</l><l/><l n="14" xml:id="spp-848-06E2-line-14">Shall stand for ages on record,</l><l/><l n="15" xml:id="spp-848-06E2-line-15">By Scottish bards of highest fame,</l><l/><l n="16" xml:id="spp-848-06E2-line-16">Wise Hawthornden and Stirling's Lord<ref target="#spp-848-06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-848-06E2-footnote-1">Drummond of Hawthornden, and Sir William Alexander, Earl of Stirling, who were both friends to Sir Archibald, and famous for their poetry.</note>.)</l><l/><l n="17" xml:id="spp-848-06E2-line-17"/></lg><lg n="5" type="stanza"><l>But Time with iron teeth, I ween,&#13;</l><l/><l n="18" xml:id="spp-848-06E2-line-18">Has canker'd all its brances round;</l><l/><l n="19" xml:id="spp-848-06E2-line-19">No fruit or blossom to be seen,</l><l/><l n="20" xml:id="spp-848-06E2-line-20">Its head reclining tow'rds the ground.</l><l/><l n="21" xml:id="spp-848-06E2-line-21"/></lg><lg n="6" type="stanza"><l>This aged, sickly, sapless thorn,&#13;</l><l/><l n="22" xml:id="spp-848-06E2-line-22">Which must, alas! no longer stand,</l><l/><l n="23" xml:id="spp-848-06E2-line-23">Behold the cruel Dean in scorn</l><l/><l n="24" xml:id="spp-848-06E2-line-24">Cuts down with sacrilegious hand.</l><l/><l n="25" xml:id="spp-848-06E2-line-25"/></lg><lg n="7" type="stanza"><l>Dame Nature, when she saw the blow,&#13;</l><l/><l n="26" xml:id="spp-848-06E2-line-26">Astonish'd gave a dreadful shriek;</l><l/><l n="27" xml:id="spp-848-06E2-line-27">And mother Tellus trembled so,</l><l/><l n="28" xml:id="spp-848-06E2-line-28">She scarce recover'd in a week.</l><l/><l n="29" xml:id="spp-848-06E2-line-29"/></lg><lg n="8" type="stanza"><l>The sylvan pow'rs with fear perplex'd,&#13;</l><l/><l n="30" xml:id="spp-848-06E2-line-30">In prudence and compassion sent</l><l/><l n="31" xml:id="spp-848-06E2-line-31">(For none could tell whose turn was next)</l><l/><l n="32" xml:id="spp-848-06E2-line-32">Sad omens of the dire event.</l><l/><l n="33" xml:id="spp-848-06E2-line-33"/></lg><lg n="9" type="stanza"><l>The magpye, lighting on the stock,&#13;</l><l/><l n="34" xml:id="spp-848-06E2-line-34">Stood chatt'ring with incessant din;</l><l/><l n="35" xml:id="spp-848-06E2-line-35">And with her beak gave many a knock,</l><l/><l n="36" xml:id="spp-848-06E2-line-36">To rouse and warn the nymph within.</l><l/><l n="37" xml:id="spp-848-06E2-line-37"/></lg><lg n="10" type="stanza"><l>The owl foresaw, in pensive mood,&#13;</l><l/><l n="38" xml:id="spp-848-06E2-line-38">The ruin of her ancient seat;</l><l/><l n="39" xml:id="spp-848-06E2-line-39">And fled in haste with all her brood</l><l/><l n="40" xml:id="spp-848-06E2-line-40">To seek a more secure retreat.</l><l/><l n="41" xml:id="spp-848-06E2-line-41"/></lg><lg n="11" type="stanza"><l>Last trotted forth the gentle swine,&#13;</l><l/><l n="42" xml:id="spp-848-06E2-line-42">To ease her itch against the stump,</l><l/><l n="43" xml:id="spp-848-06E2-line-43">And dismally was heard to whine,</l><l/><l n="44" xml:id="spp-848-06E2-line-44">All as she scrubb'd her meazly rump.</l><l/><l n="45" xml:id="spp-848-06E2-line-45"/></lg><lg n="12" type="stanza"><l>The nymph who dwells in ev'ry tree,&#13;</l><l/><l n="46" xml:id="spp-848-06E2-line-46">(If all be true that poets chant),</l><l/><l n="47" xml:id="spp-848-06E2-line-47">Condemn'd by fate's supreme decree,</l><l/><l n="48" xml:id="spp-848-06E2-line-48">Must die with her expiring plant.</l><l/><l n="49" xml:id="spp-848-06E2-line-49"/></lg><lg n="13" type="stanza"><l>Thus when the gentle Spina found&#13;</l><l/><l n="50" xml:id="spp-848-06E2-line-50">The thorn committed to her care,</l><l/><l n="51" xml:id="spp-848-06E2-line-51">Receiv'd its last and deadly wound,</l><l/><l n="52" xml:id="spp-848-06E2-line-52">She fled, and vanish'd into air.</l><l/><l n="53" xml:id="spp-848-06E2-line-53"/></lg><lg n="14" type="stanza"><l>But from the root a dismal groan&#13;</l><l/><l n="54" xml:id="spp-848-06E2-line-54">First issuing struck the murd'rer's ears;</l><l/><l n="55" xml:id="spp-848-06E2-line-55">And in a shrill revengeful tone</l><l/><l n="56" xml:id="spp-848-06E2-line-56">This prophecy he trembling hears.</l><l/><l n="57" xml:id="spp-848-06E2-line-57"/></lg><lg n="15" type="stanza"><l>“Thou chief contriver of my fall,&#13;</l><l/><l n="58" xml:id="spp-848-06E2-line-58">“Relentless Dean, to mischief born;</l><l/><l n="59" xml:id="spp-848-06E2-line-59">“My kindred oft thine hide shall gall,</l><l/><l n="60" xml:id="spp-848-06E2-line-60">“Thy gown and cassock oft be torn.</l><l/><l n="61" xml:id="spp-848-06E2-line-61"/></lg><lg n="16" type="stanza"><l>“And thy confed'rate dame, who brags&#13;</l><l/><l n="62" xml:id="spp-848-06E2-line-62">“That she condemn'd me to the fire,</l><l/><l n="63" xml:id="spp-848-06E2-line-63">“Shall rent her petticoats to rags,</l><l/><l n="64" xml:id="spp-848-06E2-line-64">“And wound her legs with ev'ry bri'r.</l><l/><l n="65" xml:id="spp-848-06E2-line-65"/></lg><lg n="17" type="stanza"><l>“Nor thou, Lord Arthur<ref target="#spp-848-06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-848-06E2-footnote-1">Sir Arthur Acheson.</note>, shalt escape:</l><l/><l n="66" xml:id="spp-848-06E2-line-66">“To thee I often call'd in vain,</l><l/><l n="67" xml:id="spp-848-06E2-line-67">“Against that assassin in crape;</l><l/><l n="68" xml:id="spp-848-06E2-line-68">“Yet thou couldst tamely see me slain.</l><l/><l n="69" xml:id="spp-848-06E2-line-69"/></lg><lg n="18" type="stanza"><l>“Nor when I felt the dreadful blow,&#13;</l><l/><l n="70" xml:id="spp-848-06E2-line-70">“Or chid the Dean, or pinch'd thy spouse;</l><l/><l n="71" xml:id="spp-848-06E2-line-71">“Since you could see me treated so,</l><l/><l n="72" xml:id="spp-848-06E2-line-72">“(An old retainer to your house),</l><l/><l n="73" xml:id="spp-848-06E2-line-73"/></lg><lg n="19" type="stanza"><l>“May that fell Dean, by whose command&#13;</l><l/><l n="74" xml:id="spp-848-06E2-line-74">“Was form'd this Machi'vellian plot,</l><l/><l n="75" xml:id="spp-848-06E2-line-75">“Not leave a thistle on thy land;</l><l/><l n="76" xml:id="spp-848-06E2-line-76">“Then who will own thee for a Scot?</l><l/><l n="77" xml:id="spp-848-06E2-line-77"/></lg><lg n="20" type="stanza"><l>“Pigs and fanatics, cows and teagues,&#13;</l><l/><l n="78" xml:id="spp-848-06E2-line-78">“Through all thy empire I foresee,</l><l/><l n="79" xml:id="spp-848-06E2-line-79">“To tear thy hedges, join in leagues;</l><l/><l n="80" xml:id="spp-848-06E2-line-80">“Sworn to revenge my thorn and me.</l><l/><l n="81" xml:id="spp-848-06E2-line-81"/></lg><lg n="21" type="stanza"><l>“And thou the wretch ordain'd by fate,&#13;</l><l/><l n="82" xml:id="spp-848-06E2-line-82">“Neal Gahagan, Hibernian clown,</l><l/><l n="83" xml:id="spp-848-06E2-line-83">“With hatchet blunter than thy pate</l><l/><l n="84" xml:id="spp-848-06E2-line-84">“To hack my hallow'd timber down,</l><l/><l n="85" xml:id="spp-848-06E2-line-85"/></lg><lg n="22" type="stanza"><l>“When thou suspended high in air,&#13;</l><l/><l n="86" xml:id="spp-848-06E2-line-86">“Dy'st on a more ignoble tree,</l><l/><l n="87" xml:id="spp-848-06E2-line-87">“(For thou shalt steal thy landlord's mare),</l><l/><l n="88" xml:id="spp-848-06E2-line-88">“Then, bloody <hi rend="underline">caitif</hi>, think on me.”</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

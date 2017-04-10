@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE LINNET AND THE JAY.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-S16671H1-footnote-1"/>
+        </linkGrp>
+        <div n="S16671H1" type="poem"><head type="note" n="1" xml:id="spp-S16671H1-headnote-1"><lg n="1" xml:id="spp-S16671H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-S16671H1-headnote-1-line-group-1-line-1">By a Friend of S<hi rend="SMALL-CAPS">TELLA</hi>'s<ref target="#spp-S16671H1-footnote-1">1</ref><note n="1" xml:id="spp-S16671H1-footnote-1" place="foot">“I have often heard a man of credit, and a competent judge, declare, that he never passed one day in <hi rend="underline">Stella's</hi> society, wherein he did not hear her say something, which he would wish to remember, to the last day of his life.──An humorous, but wrong-judging, gentleman of her acquaintance, took it into his head to set up the character of another lady in rivalship to hers; and raised some awkward mirth to himself, from <hi rend="underline">Stella's</hi> sitting silent, at a visit where that lady displayed her talents. On which occasion the above verses were sent to her the next morning, probably from some friend of <hi rend="underline">Stella's</hi>, for more than one of her friends were then present.” D<hi rend="SMALL-CAPS">ELANY</hi>.──To Dr. <hi rend="underline">Delany</hi> himself, the verses may confidently be ascribed</note>.</l></lg></head><head type="note" n="2" xml:id="spp-S16671H1-headnote-2"><lg n="1" xml:id="spp-S16671H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-S16671H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-S16671H1-headnote-3"><lg n="1" xml:id="spp-S16671H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-S16671H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-S16671H1-line-1"><hi rend="display-initial">M</hi>ONA, by nature, form'd a <hi rend="underline">Jay</hi>,Observ'd a little <hi rend="underline">Linnet</hi>,</l><l n="2" xml:id="spp-S16671H1-line-2"> Warbling melodious on a spray,Like <hi rend="underline">Handel</hi> on his spinnet.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-S16671H1-line-3">Attentive, she revolv'd each note;&#13;And, ere the season ended,</l><l n="4" xml:id="spp-S16671H1-line-4"> As much improv'd her tuneless throat,As nature could be mended.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-S16671H1-line-5"><hi rend="underline">Lin</hi> silent heard; but <hi rend="underline">Poll</hi>, rejoic'd,Exerts his clumsy tongue;</l><l n="6" xml:id="spp-S16671H1-line-6"> To praise a <hi rend="underline">Jay</hi> so heavenly voic'd,And pity <hi rend="underline">Lin</hi> out-sung!</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-S16671H1-line-7"><hi rend="underline">Lin</hi> smil'd, and sigh'd, “My little lays,“Are native, artless, few:</l><l n="8" xml:id="spp-S16671H1-line-8"> “Content, I quit all higher praise,“To M<hi rend="SMALL-CAPS">ONA</hi>, and to Y<hi rend="SMALL-CAPS">OU</hi>!”S16671H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE REVERSE</title>
+        <title>(TO SWIFT'S VERSES ON BIDDY FLOYD;)<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X82A14W2" type="poem"><head type="note" n="1" xml:id="spp-X82A14W2-headnote-1"><lg n="1" xml:id="spp-X82A14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X82A14W2-headnote-1-line-group-1-line-1">T<hi rend="SMALL-CAPS">HESE</hi> verses were first printed by the learned Dr Barret, from the Whimsical Medley, a Manuscript from which he recovered several of Dr Swift's lighter pieces. It seems to be alluded to as Swift's, in a stupid imitation of the Lilliputian Ode, occurring among other trash in the Gulliveriana.</l></lg></head><head type="note" n="2" xml:id="spp-X82A14W2-headnote-2"><lg n="1" xml:id="spp-X82A14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X82A14W2-headnote-2-line-group-1-line-1">House of Van, Mother Cludd <lb/> Made the man, fond of mud.</l></lg></head><head type="note" n="3" xml:id="spp-X82A14W2-headnote-3"><lg n="1" xml:id="spp-X82A14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X82A14W2-headnote-3-line-group-1-line-1">I do not, however, pretend to deny that the line may only relate to the poem on Van's house, which begins</l></lg></head><head type="note" n="4" xml:id="spp-X82A14W2-headnote-4"><lg n="1" xml:id="spp-X82A14W2-headnote-4-line-group-1" type="headnote"><l n="1" xml:id="spp-X82A14W2-headnote-4-line-group-1-line-1">When Mother Cludd rose up from play.</l></lg></head><head type="note" n="5" xml:id="spp-X82A14W2-headnote-5"><lg n="1" xml:id="spp-X82A14W2-headnote-5-line-group-1" type="headnote"><l n="1" xml:id="spp-X82A14W2-headnote-5-line-group-1-line-1">In that case the authenticity will rest on the intrinsic evidence.</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X82A14W2-line-1"> V<hi rend="SMALL-CAPS">ENUS</hi> one day, as story goes,</l><l n="2" xml:id="spp-X82A14W2-line-2"> But for what reason no man knows,</l><l n="3" xml:id="spp-X82A14W2-line-3"> In sullen mood and grave deport,</l><l n="4" xml:id="spp-X82A14W2-line-4"> Trudged it away to Jove's high court;</l><l n="5" xml:id="spp-X82A14W2-line-5"> And there his Godship did entreat</l><l n="6" xml:id="spp-X82A14W2-line-6"> To look out for his best receipt:</l><l n="7" xml:id="spp-X82A14W2-line-7"> And make a monster strange and odd,</l><l n="8" xml:id="spp-X82A14W2-line-8"> Abhorr'd by man and every god.</l><l n="9" xml:id="spp-X82A14W2-line-9"> Jove, ever kind to all the fair,</l><l n="10" xml:id="spp-X82A14W2-line-10"> Nor e'er refused a lady's prayer,</l><l n="11" xml:id="spp-X82A14W2-line-11"> Straight oped 'scrutore, and forth he took</l><l n="12" xml:id="spp-X82A14W2-line-12"> A neatly bound and well-gilt book;</l><l n="13" xml:id="spp-X82A14W2-line-13"> Sure sign that nothing enter'd there,</l><l n="14" xml:id="spp-X82A14W2-line-14"> But what was very choice and rare.</l><l n="15" xml:id="spp-X82A14W2-line-15"> Scarce had he turn'd a page or two,──</l><l n="16" xml:id="spp-X82A14W2-line-16"> It might be more, for aught I knew;</l><l n="17" xml:id="spp-X82A14W2-line-17"> But, be the matter more or less,</l><l n="18" xml:id="spp-X82A14W2-line-18"> 'Mong friends 'twill break no squares, I guess.</l><l n="19" xml:id="spp-X82A14W2-line-19"> Then, smiling, to the dame quoth he,</l><l n="20" xml:id="spp-X82A14W2-line-20"> Here's one will fit you to a T.</l><l n="21" xml:id="spp-X82A14W2-line-21"> But, as the writing doth prescribe,</l><l n="22" xml:id="spp-X82A14W2-line-22"> 'Tis fit the ingredients we provide.</l><l n="23" xml:id="spp-X82A14W2-line-23"> Away he went, and search'd the stews,</l><l n="24" xml:id="spp-X82A14W2-line-24"> And every street about the Mews;</l><l n="25" xml:id="spp-X82A14W2-line-25"> Diseases, impudence, and lies,</l><l n="26" xml:id="spp-X82A14W2-line-26"> Are found and brought him in a trice.</l><l n="27" xml:id="spp-X82A14W2-line-27"> From Hackney then he did provide,</l><l n="28" xml:id="spp-X82A14W2-line-28"> A clumsy air and awkward pride;</l><l n="29" xml:id="spp-X82A14W2-line-29"> From lady's toilet next he brought</l><l n="30" xml:id="spp-X82A14W2-line-30"> Noise, scandal, and malicious thought.</l><l n="31" xml:id="spp-X82A14W2-line-31"> These Jove put in an old close-stool,</l><l n="32" xml:id="spp-X82A14W2-line-32"> And with them mix'd the vain, the fool.But now came on his greatest care,</l><l n="33" xml:id="spp-X82A14W2-line-33"> Of what he should his paste prepare;</l><l n="34" xml:id="spp-X82A14W2-line-34"> For common clay or finer mould</l><l n="35" xml:id="spp-X82A14W2-line-35"> Was much too good, such stuff to hold.</l><l n="36" xml:id="spp-X82A14W2-line-36"> At last he wisely thought on mud;</l><l n="37" xml:id="spp-X82A14W2-line-37"> So raised it up, and call'd it──<hi rend="underline">Cludd</hi>.</l><l n="38" xml:id="spp-X82A14W2-line-38"> With this, the lady well content,</l><l n="39" xml:id="spp-X82A14W2-line-39"> Low curtsey'd, and away she went.X82A14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

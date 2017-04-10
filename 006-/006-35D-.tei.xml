@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ODE.</title>
+        <title>TO THE</title>
+        <title>KING.</title>
+        <title>ON HIS</title>
+        <title><hi rend="underline">Irish</hi> Expedition.</title>
+        <title>AND</title>
+        <title><hi rend="underline">The Success of his Arms in general</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-006-35D--footnote-1 #spp-006-35D--line-15"/>
+          <link target="#spp-006-35D--footnote-2 #spp-006-35D--line-22"/>
+          <link target="#spp-006-35D--footnote-3 #spp-006-35D--line-22"/>
+        </linkGrp>
+        <div n="006-35D-" type="poem"><head type="note" n="1" xml:id="spp-006-35D--headnote-1"><lg n="1" xml:id="spp-006-35D--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-006-35D--headnote-1-line-group-1-line-1">Written in the Year 1691.</l></lg></head><head type="note" n="2" xml:id="spp-006-35D--headnote-2"><lg n="1" xml:id="spp-006-35D--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-006-35D--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-006-35D--headnote-3"><lg n="1" xml:id="spp-006-35D--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-006-35D--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-006-35D--line-1" rend="align(center)">I.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-006-35D--line-2" rend="flush left"><hi rend="display-initial">S</hi>U<hi rend="SMALL-CAPS">RE</hi> there's some Wondrous Joy in <hi rend="underline">Doing Good</hi>;</l><l n="3" xml:id="spp-006-35D--line-3"> Immortal Joy, that suffers no Allay from Fears,Nor dreads the Tyranny of Years,</l><l n="4" xml:id="spp-006-35D--line-4"> By none but its Possessors to be understood:Else where's the Gain in being <hi rend="underline">Great</hi>?Kings would indeed be Victims of the State;What can the Poet's humble Praise?What can the Poet's humble Bays?(We Poets oft our Bays allow,Transplanted to the Hero's Brow)Add to the Victor's Happiness?What do the Scepter, Crown and Ball,</l><l n="5" xml:id="spp-006-35D--line-5" rend="align(center)"> Rattles for Infant Royalty to play withal,But serve t'adorn the Baby-dressOf one poor Coronation-day,To make the Pageant gay:A three Hours Scene of empty Pride,And then the Toys are thrown aside.II.</l></lg><lg n="3" type="stanza"><l n="6" xml:id="spp-006-35D--line-6" rend="flush left">But the Delight of <hi rend="underline">Doing Good</hi>Is fix't like Fate among the Stars,And Deifi'd in Verse;'Tis the best Gemm in Royalty,The Great Distinguisher of Blood,Parent of Valour and of Fame,Which makes a Godhead of a Name,</l><l n="7" xml:id="spp-006-35D--line-7"> And is Contemporary to Eternity.This made the Ancient Romans to affordTo <hi rend="underline">Valour</hi> and to <hi rend="underline">Virtue</hi> the <hi rend="underline">same Word</hi>:</l><l n="8" xml:id="spp-006-35D--line-8" rend="align(center)"> To shew the Paths of both must be together trod,Before the <hi rend="underline">Hero</hi> can commence <hi rend="underline">a God</hi>.III.</l></lg><lg n="4" type="stanza"><l n="9" xml:id="spp-006-35D--line-9" rend="flush left">These are the Ways&#13;</l><l n="10" xml:id="spp-006-35D--line-10"> By which our happy Prince carves out his Bays;Thus He has fix'd His NameFirst, in the mighty List of Fame,</l><l n="11" xml:id="spp-006-35D--line-11"> And thus He did the Airy Goddess Court,He sought Her out in Fight,And like a Bold Romantick KnightRescu'd Her from the Giant's Fort:The Tyrant Death lay crouching down,Waiting for Orders at his Feet,Spoil'd of his Leaden Crown;He trampled on this Haughty <hi rend="underline">Bajazet</hi>,Made him his Footstool in the War,</l><l n="12" xml:id="spp-006-35D--line-12" rend="align(center)"> And a Grim Slave to wait on his Triumphal Car.IV.</l></lg><lg n="5" type="stanza"><l n="13" xml:id="spp-006-35D--line-13" rend="flush left">And now I in the Spirit see&#13;(The Spirit of Exalted Poetry)I see the <hi rend="underline">Fatal Fight</hi> begin;</l><l n="14" xml:id="spp-006-35D--line-14"> And, lo! where a Destroying Angel stands,(By all but Heaven and Me unseen,)</l><l n="15" xml:id="spp-006-35D--line-15" rend="indent(7) indent(1)"> With Lightning in his Eyes, and Thunder in his Hands;<hi rend="underline">In vain, </hi>said He<hi rend="underline">, does </hi><ref target="#spp-006-35D--footnote-1">1</ref><note place="foot" n="1" xml:id="spp-006-35D--footnote-1"><hi rend="underline">Ireland</hi></note><hi rend="underline"/>Utmost Thule<hi rend="underline"> boastNo poys'nous Beast will in Her breed,Or no Infectious Weed,When she sends forth such a malignant Birth,When Man himself's the </hi>Vermin<hi rend="underline"> of Her Earth;When </hi>Treason<hi rend="underline"> there </hi>in Person<hi rend="underline"> seems to stand,</hi>Rebel<hi rend="underline"> is the </hi>growth<hi rend="underline"> and </hi>manufacture<hi rend="underline"> of the Land</hi>.He spake, and a dark Cloud flung o're his light,And hid him from Poetick sight.And (I believe) began himself the Fight,For strait I saw the Field maintain'd,And what I us'd to laugh at in <hi rend="underline">Romance</hi>,And thought too great ev'n for effects of Chance,</l><l n="16" xml:id="spp-006-35D--line-16"> And </l><l n="17" xml:id="spp-006-35D--line-17"> The Battel almost by <hi rend="underline">Great William</hi>'s single Valour gain'd;The <hi rend="underline">Angel</hi> (doubtless) kept th'Eternal Gate,And stood 'twixt Him and every Fate;</l><l n="18" xml:id="spp-006-35D--line-18"> And all those flying Deaths that aim'd him from the Field,(Th' impartial Deaths which comeLike Love, wrapt up in Fire;</l><l n="19" xml:id="spp-006-35D--line-19" rend="align(center)"> And like that too, make every breast their home)Broke on his everlasting Shield.V.</l></lg><lg n="6" type="stanza"><l n="20" xml:id="spp-006-35D--line-20" rend="flush left align(center)">The <hi rend="underline">Giddy Brittish Populace</hi>,That <hi rend="underline">Tyrant-Guard</hi> on <hi rend="underline">Peace</hi>,Who watch Her like a Prey,And keep Her for a Sacrifice,And must be sung, like <hi rend="underline">Argus</hi>, into <hi rend="underline">ease</hi>Before this <hi rend="underline">Milk-white Heifer</hi> can be stole away,Our <hi rend="underline">Prince</hi> has charm'd its many hundred Eyes;Has lull'd the Monster in a DeepAnd (I hope) an Eternal Sleep,And has at last redeem'd the <hi rend="underline">Mighty Prize</hi>The <hi rend="underline">Scots</hi> themselves, that Discontented Brood,Who always loudest for <hi rend="underline">Religion</hi> bawl,(<hi rend="underline">As those still do wh' have none at all</hi>)Who claim so many Titles to be <hi rend="underline">Jews</hi>,(But, surely such whom God did never for <hi rend="underline">his People</hi> chuse)Still murmuring in <hi rend="underline">their Wilderness</hi> for <hi rend="underline">Food</hi>,Who pine us like a <hi rend="underline">Chronical Disease</hi>;And one would think 'twere past Omnipotence to please;Your Presence all their <hi rend="underline">Native Stubborness</hi> controuls,And for a while unbends their contradicting Souls:As in old Fabulous Hell,When some <hi rend="underline">Patrician</hi> God wou'd visit the Immortal Jayl,The very Brightness of his FaceSuspended every Horror of the Place,The Gyants under <hi rend="underline"><unclear>AE</unclear>tna</hi> ceas'd to groan,And <hi rend="underline">Sisiphus</hi> lay sleeping on his Stone.Thus has our Prince compleated every Victory,And glad <hi rend="underline">Iërne</hi> now may seeHer Sister Isles are <hi rend="underline">Conquered</hi> too as well as She.VI.</l></lg><lg n="7" type="stanza"><l n="21" xml:id="spp-006-35D--line-21" rend="flush left align(center)">How vainly (Sir) did Your fond <hi rend="underline">Enemy</hi> tryUpon <hi rend="underline">a rubbish Heap of broken Laws</hi>To climb at VictoryWithout the Footing of a <hi rend="underline">Cause</hi>;His Lawrel now must only be a Cypress Wreath,And His best Victory a Noble Death;His scrap of Life is but a Heap of Miseries,The Remnant of a falling Snuff,Which hardly wants another puff,And needs must <hi rend="underline">stink</hi> when e're it dies;Whilst at Your Victorious LightAll lesser ones expire,Consume, and perish from our sight,Just as the Sun puts out a Fire;And every foolish <hi rend="underline">Flye</hi> that dares to aimTo buzz about the mighty Flame;The wretched Insects singe their Wings, and fall,And humbly at the bottom crawl.VII.</l></lg><lg n="8" type="stanza"><l n="22" xml:id="spp-006-35D--line-22" rend="flush left">That <hi rend="underline">Restless Tyrant</hi>, who of lateIs grown so impudently Great,That Tennis-Ball of Fate;This Gilded Meteor which flyesAs if it meant to touch the Skies;For all its boasted height,For all its Plagiary Light,Took its first Growth and BirthFrom the worst <ref target="#spp-006-35D--footnote-2">2</ref><note place="foot" n="2" xml:id="spp-006-35D--footnote-2"><hi rend="underline">The </hi>French<hi rend="underline"> King suppos'd a Bastard</hi>.</note> Excrements of Earth;Stay but a little while and down again 'twill come,And end as it began, in Vapour, Stink, and Scum.Or has he like some fearful Star appear'd?Long dreaded for his <hi rend="underline">Bloody Tail</hi> and <hi rend="underline">Fiery Beard</hi>,Transcending Nature's ordinary Laws,Sent by just Heaven to threaten EarthWith War, and Pestilence, and Dearth,Of which it is at once the Prophet and the Cause.Howe're it be, the Pride of <hi rend="underline">France</hi>Has finish'd its short Race of Chance,And all Her boasted Influences areRapt in the <hi rend="underline">Vortex</hi> of the <hi rend="underline">Brittish</hi> Star;Her <hi rend="underline">Tyrant</hi> too an unexpected Wound shall feelIn the last wretched Remnant of his Days;Our Prince has hit Him, like <hi rend="underline">Achilles</hi>, in the <hi rend="underline">Heel</hi>,The poys'nous Darts has made him reel,Giddy he grows, and down is hurl'd,And as a Mortal to his <ref target="#spp-006-35D--footnote-3">3</ref><note place="foot" n="3" xml:id="spp-006-35D--footnote-3"><hi rend="underline">Fistula in Ano</hi>.</note><hi rend="underline">Vile Disease</hi>,Falls sick in the <hi rend="underline">Posteriors</hi> of the World.006-35D-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

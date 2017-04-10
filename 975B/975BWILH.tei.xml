@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TO THE SAME.<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="975BWILH" type="poem"><head type="note" n="1" xml:id="spp-975BWILH-headnote-1"><lg n="1" xml:id="spp-975BWILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-975BWILH-headnote-1-line-group-1-line-1">12 o'Clock at Noon</l></lg></head><head type="note" n="2" xml:id="spp-975BWILH-headnote-2"><lg n="1" xml:id="spp-975BWILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-975BWILH-headnote-2-line-group-1-line-1">Sept. 12, 1718.</l></lg></head><head type="note" n="3" xml:id="spp-975BWILH-headnote-3"><lg n="1" xml:id="spp-975BWILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-975BWILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-975BWILH-line-1"> SIR,</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-975BWILH-line-2"><hi rend="display-initial">P</hi>ERHAPS you may wonder, I send you so soon</l><l n="3" xml:id="spp-975BWILH-line-3"> Another epistle; consider 'tis noon.</l><l n="4" xml:id="spp-975BWILH-line-4"> For all his acquaintance well know that friend Tom is,</l><l n="5" xml:id="spp-975BWILH-line-5"> Whenever he makes one, as good as his promise.</l><l n="6" xml:id="spp-975BWILH-line-6"> Now Ph<unclear>oe</unclear>bus exalted, sits high on his throne,</l><l n="7" xml:id="spp-975BWILH-line-7"> Dividing the heav'ns, dividing my crown,</l><l n="8" xml:id="spp-975BWILH-line-8"> Into poems and business, my skull's split in two,</l><l n="9" xml:id="spp-975BWILH-line-9"> One side for the lawyers, and t'other for you.</l><l n="10" xml:id="spp-975BWILH-line-10"> With my left eye, I see you sit snug in your stall,</l><l n="11" xml:id="spp-975BWILH-line-11"> With my right I'm attending the lawyers that scrawl.</l><l n="12" xml:id="spp-975BWILH-line-12"> With my left I behold your bellower a cur chase;</l><l n="13" xml:id="spp-975BWILH-line-13"> With my right I'm a-reading my deeds for a purchase.</l><l n="14" xml:id="spp-975BWILH-line-14"> My left ear's attending the hymns of the choir,</l><l n="15" xml:id="spp-975BWILH-line-15"> My right ear is stunn'd with the noise of the crier.</l><l n="16" xml:id="spp-975BWILH-line-16"> My right hand's inditing these lines to your reverence,</l><l n="17" xml:id="spp-975BWILH-line-17"> My left is indenting for me and heirs ever-hence.</l><l n="18" xml:id="spp-975BWILH-line-18"> Although in myself I'm divided in two,</l><l n="19" xml:id="spp-975BWILH-line-19"> Dear Dean, I shall ne'er be divided from you.975BWILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

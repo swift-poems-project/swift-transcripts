@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-843B79L2-title-1">EPIGRAM <ref target="#spp-843B79L2-footnote-title-1">1</ref><note n="1" xml:id="spp-843B79L2-footnote-title-1" place="foot">The Dean, in his lunacy, had some intervals of sense; at which time his guardians, or physicians, took him out for the air. On one of these days, when they came to the Park, Swift remarked a new building, which he had never seen, and asked what it was designed for. To which Dr. Kingsbury answered, “That, Mr. Dean, is the magazine for arms and powder, for the security of the city.” “Oh! oh!” says the Dean, pulling out his pocket-book, “let me take an <hi rend="underline">item</hi> of that. This is worth remarking: my tablets, as Hamlet says, my tablets──memory put down that!”──Which produced the above lines, said to be the last he ever wrote. N.</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-843B79L2-footnote-title-1 #spp-843B79L2-title-1"/>
+        </linkGrp>
+        <div n="843B79L2" type="poem"><head type="note" n="1" xml:id="spp-843B79L2-headnote-1"><lg n="1" xml:id="spp-843B79L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-843B79L2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-843B79L2-headnote-2"><lg n="1" xml:id="spp-843B79L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-843B79L2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-843B79L2-headnote-3"><lg n="1" xml:id="spp-843B79L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-843B79L2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-843B79L2-line-1"><hi rend="display-initial">B</hi>EHOLD! a proof of Irish sense!Here Irish wit is seen!</l><l n="2" xml:id="spp-843B79L2-line-2"> When nothing·'s left, that·'s worth defence,We build a magazine.843B79L2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

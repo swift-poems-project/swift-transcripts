@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A</title>
+        <title>FABLE</title>
+        <title>OF THE<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="153-12D1" type="poem"><head type="note" n="1" xml:id="spp-153-12D1-headnote-1"><lg n="1" xml:id="spp-153-12D1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-153-12D1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-153-12D1-headnote-2"><lg n="1" xml:id="spp-153-12D1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-153-12D1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-153-12D1-headnote-3"><lg n="1" xml:id="spp-153-12D1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-153-12D1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-153-12D1-line-1" rend="align(center)">I.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-153-12D1-line-2" rend="flush left"><hi rend="display-initial">A</hi> WIDOW kept a Favourite Cat,At first a gentle Creature;</l><l n="3" xml:id="spp-153-12D1-line-3"> But when he was grown Sleek and Fat,</l><l n="4" xml:id="spp-153-12D1-line-4"> With many a Mouse, and many a Rat,He soon disclos'd his Nature.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-153-12D1-line-5" rend="align(center)">II.</l></lg><lg n="4" type="stanza"><l n="6" xml:id="spp-153-12D1-line-6" rend="flush left">The <hi rend="underline">Fox</hi> and He were Friends of old,Nor cou'd they now be parted;</l><l n="7" xml:id="spp-153-12D1-line-7"> They Nightly slunk to rob the Fold,</l><l n="8" xml:id="spp-153-12D1-line-8"> Devour'd the Lambs, the Fleeces sold,And Puss grew Lion-hearted.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-153-12D1-line-9" rend="align(center)">III.</l></lg><lg n="6" type="stanza"><l n="10" xml:id="spp-153-12D1-line-10" rend="flush left">He scratch'd her Maid, he stole the Cream,&#13;He tore her best lac'd Pinner;</l><l n="11" xml:id="spp-153-12D1-line-11"> Nor Chanticleer upon the Beam,</l><l n="12" xml:id="spp-153-12D1-line-12"> Nor Chick, nor Duckling 'scapes, when <hi rend="underline">Grim</hi>Invites the <hi rend="underline">Fox</hi> to Dinner.</l></lg><lg n="7" type="stanza"><l n="13" xml:id="spp-153-12D1-line-13" rend="align(center)">IV.</l></lg><lg n="8" type="stanza"><l n="14" xml:id="spp-153-12D1-line-14" rend="flush left">The Dame full wisely did Decree,&#13;For fear He shou'd dispatch more,</l><l n="15" xml:id="spp-153-12D1-line-15"> That the false Wretch shou'd worry'd be:</l><l n="16" xml:id="spp-153-12D1-line-16"> But in a sawcy manner HeThus Speech'd it like a <hi rend="underline">L────re</hi>.</l></lg><lg n="9" type="stanza"><l n="17" xml:id="spp-153-12D1-line-17" rend="align(center)">V.</l></lg><lg n="10" type="stanza"><l n="18" xml:id="spp-153-12D1-line-18" rend="flush left">“Must I, against all Right and Law,&#13;“Like Pole-Cat vile be treated?</l><l n="19" xml:id="spp-153-12D1-line-19"> “I! who so long with Tooth and Claw</l><l n="20" xml:id="spp-153-12D1-line-20"> “Have kept Domestick Mice in awe,“And Foreign Foes defeated!</l></lg><lg n="11" type="stanza"><l n="21" xml:id="spp-153-12D1-line-21" rend="align(center)">VI.</l></lg><lg n="12" type="stanza"><l n="22" xml:id="spp-153-12D1-line-22" rend="flush left">“Your Golden Pippins, and your Pies,&#13;“How oft have I defended?</l><l n="23" xml:id="spp-153-12D1-line-23"> “'Tis true, the Pinner which you prize</l><l n="24" xml:id="spp-153-12D1-line-24"> “I tore in Frolick; to your Eyes</l><l n="25" xml:id="spp-153-12D1-line-25"> “I never Harm intended.</l></lg><lg n="13" type="stanza"><l n="26" xml:id="spp-153-12D1-line-26" rend="align(center)">VII.</l></lg><lg n="14" type="stanza"><l n="27" xml:id="spp-153-12D1-line-27" rend="flush left">“I am a Cat of Honour────Stay,&#13;Quo' She, no longer parly;</l><l n="28" xml:id="spp-153-12D1-line-28"> Whate'er you did in Battle slay,</l><l n="29" xml:id="spp-153-12D1-line-29"> By Law of Arms became your Prey,I hope you won it fairly.</l></lg><lg n="15" type="stanza"><l n="30" xml:id="spp-153-12D1-line-30" rend="align(center)">VIII.</l></lg><lg n="16" type="stanza"><l n="31" xml:id="spp-153-12D1-line-31" rend="flush left">Of this, we'll grant you stand acquit,&#13;But not of your Outrages:</l><l n="32" xml:id="spp-153-12D1-line-32"> Tell me, Perfidious! Was it fit</l><l n="33" xml:id="spp-153-12D1-line-33"> To make my Cream a PERQUISITE,And Steal to mend your Wages?</l></lg><lg n="17" type="stanza"><l n="34" xml:id="spp-153-12D1-line-34" rend="align(center)">IX.</l></lg><lg n="18" type="stanza"><l n="35" xml:id="spp-153-12D1-line-35" rend="flush left">So flagrant is Thy Insolence,&#13;So vile thy Breach of Trust is;</l><l n="36" xml:id="spp-153-12D1-line-36"> That longer with Thee to Dispense,</l><l n="37" xml:id="spp-153-12D1-line-37"> Were want of Pow'r, or want of Sense:Here <hi rend="underline">Towzer</hi>!────Do Him Justice.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

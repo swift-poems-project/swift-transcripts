@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="829-600A" type="poem"><head type="note" n="1" xml:id="spp-829-600A-headnote-1"><lg n="1" xml:id="spp-829-600A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-1-line-group-1-line-1">──An Explanation of the several <hi rend="black-letter">P</hi>sons Names mentioned in this Narrative &amp; in the Notes thereto──</l></lg></head><head type="note" n="2" xml:id="spp-829-600A-headnote-2"><lg n="1" xml:id="spp-829-600A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-2-line-group-1-line-1">J──n W──r is John Waller</l></lg></head><head type="note" n="3" xml:id="spp-829-600A-headnote-3"><lg n="1" xml:id="spp-829-600A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-3-line-group-1-line-1">──L──e's ──Loyde</l></lg></head><head type="note" n="4" xml:id="spp-829-600A-headnote-4"><lg n="1" xml:id="spp-829-600A-headnote-4-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-4-line-group-1-line-1">──G──d ──Garland an Attorney</l></lg></head><head type="note" n="5" xml:id="spp-829-600A-headnote-5"><lg n="1" xml:id="spp-829-600A-headnote-5-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-5-line-group-1-line-1">──K──y ──Kennedy a Bleeder</l></lg></head><head type="note" n="6" xml:id="spp-829-600A-headnote-6"><lg n="1" xml:id="spp-829-600A-headnote-6-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-6-line-group-1-line-1">──P──l ──Pur\<hi rend="underline">?</hi>ce\ll a Proctor</l></lg></head><head type="note" n="7" xml:id="spp-829-600A-headnote-7"><lg n="1" xml:id="spp-829-600A-headnote-7-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-7-line-group-1-line-1">──P──n ──Purdon a Justice of Peace</l></lg></head><head type="note" n="8" xml:id="spp-829-600A-headnote-8"><lg n="1" xml:id="spp-829-600A-headnote-8-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-8-line-group-1-line-1">Geo: M\<hi rend="underline">del</hi> asse\──y ──Geo: Massey a Clergyman</l></lg></head><head type="note" n="9" xml:id="spp-829-600A-headnote-9"><lg n="1" xml:id="spp-829-600A-headnote-9-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-9-line-group-1-line-1">──G──d ──Garland father of y<hi rend="sup">e</hi> Attorney</l></lg></head><head type="note" n="10" xml:id="spp-829-600A-headnote-10"><lg n="1" xml:id="spp-829-600A-headnote-10-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-10-line-group-1-line-1">W──B──y ──W<hi rend="sup">m</hi> 08. Bury Esq<hi rend="sup">r</hi> 08.  a Justice of Peace</l></lg></head><head type="note" n="11" xml:id="spp-829-600A-headnote-11"><lg n="1" xml:id="spp-829-600A-headnote-11-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-11-line-group-1-line-1">──W──p ──Westropp</l></lg></head><head type="note" n="12" xml:id="spp-829-600A-headnote-12"><lg n="1" xml:id="spp-829-600A-headnote-12-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-12-line-group-1-line-1">J──n H──ys ──John Hays</l></lg></head><head type="note" n="13" xml:id="spp-829-600A-headnote-13"><lg n="1" xml:id="spp-829-600A-headnote-13-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-13-line-group-1-line-1">Colonel T──r ──Colonel Taylor</l></lg></head><head type="note" n="14" xml:id="spp-829-600A-headnote-14"><lg n="1" xml:id="spp-829-600A-headnote-14-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-14-line-group-1-line-1">──M──y ──Mahony</l></lg></head><head type="note" n="15" xml:id="spp-829-600A-headnote-15"><lg n="1" xml:id="spp-829-600A-headnote-15-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-15-line-group-1-line-1">M<hi rend="sup">r</hi> 08. M──n ──M<hi rend="sup">r</hi> Mahon</l></lg></head><head type="note" n="16" xml:id="spp-829-600A-headnote-16"><lg n="1" xml:id="spp-829-600A-headnote-16-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-16-line-group-1-line-1">J──s M──l ──Jam<hi rend="sup">s</hi> 08. Mitchel</l></lg></head><head type="note" n="17" xml:id="spp-829-600A-headnote-17"><lg n="1" xml:id="spp-829-600A-headnote-17-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-17-line-group-1-line-1">D──d. S──y ──David Shaughnessy</l></lg></head><head type="note" n="18" xml:id="spp-829-600A-headnote-18"><lg n="1" xml:id="spp-829-600A-headnote-18-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-18-line-group-1-line-1">──M<hi rend="sup">c</hi>K──g ──M<hi rend="sup">c</hi>Keogh</l></lg></head><head type="note" n="19" xml:id="spp-829-600A-headnote-19"><lg n="1" xml:id="spp-829-600A-headnote-19-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-19-line-group-1-line-1">──C──e ──Carrole</l></lg></head><head type="note" n="20" xml:id="spp-829-600A-headnote-20"><lg n="1" xml:id="spp-829-600A-headnote-20-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-20-line-group-1-line-1">G──g. E──s ──Geo: Evans</l></lg></head><head type="note" n="21" xml:id="spp-829-600A-headnote-21"><lg n="1" xml:id="spp-829-600A-headnote-21-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-21-line-group-1-line-1">Doct<hi rend="sup">r</hi> D──y. D<hi rend="sup">r</hi> 08. Delany</l></lg></head><head type="note" n="22" xml:id="spp-829-600A-headnote-22"><lg n="1" xml:id="spp-829-600A-headnote-22-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-22-line-group-1-line-1">──R──e ──Royse</l></lg></head><head type="note" n="23" xml:id="spp-829-600A-headnote-23"><lg n="1" xml:id="spp-829-600A-headnote-23-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-23-line-group-1-line-1">by Doct<hi rend="sup">r</hi> 08. Ionathan Swift.</l></lg></head><head type="note" n="24" xml:id="spp-829-600A-headnote-24"><lg n="1" xml:id="spp-829-600A-headnote-24-line-group-1" type="headnote"><l n="1" xml:id="spp-829-600A-headnote-24-line-group-1-line-1">Swift</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-829-600A-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> Who is that Hell featured Brawler,&#13;</l><l n="2" xml:id="spp-829-600A-line-2"> Is it Satan? no' its Waller;</l><l n="3" xml:id="spp-829-600A-line-3"> In what figure shall a bard dress,</l><l n="4" xml:id="spp-829-600A-line-4"> Jack the Grandson of Sir Hardress,</l><l n="5" xml:id="spp-829-600A-line-5"> Honest Keeper drive him further,</l><l n="6" xml:id="spp-829-600A-line-6"> In his Looks are Hell, &amp; Murther,</l><l n="7" xml:id="spp-829-600A-line-7"> See his Scolding Visage drop,</l><l n="8" xml:id="spp-829-600A-line-8"> just as when he Murther'd Throp.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>829-600A   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

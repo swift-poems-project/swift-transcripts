@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ON<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-825-1151-footnote-1"/>
+          <link target="# #spp-825-1151-footnote-2"/>
+          <link target="# #spp-825-1151-footnote-3"/>
+          <link target="# #spp-825-1151-footnote-4"/>
+          <link target="#spp-825-1151-footnote-1 #spp-825-1151-line-1"/>
+          <link target="#spp-825-1151-footnote-2 #spp-825-1151-line-7"/>
+          <link target="#spp-825-1151-footnote-3 #spp-825-1151-line-9"/>
+          <link target="#spp-825-1151-footnote-4 #spp-825-1151-line-11"/>
+          <link target="#spp-825-1151-footnote-5 #spp-825-1151-line-13"/>
+          <link target="#spp-825-1151-footnote-6 #spp-825-1151-line-16"/>
+          <link target="#spp-825-1151-footnote-7 #spp-825-1151-line-18"/>
+          <link target="#spp-825-1151-footnote-8 #spp-825-1151-line-19"/>
+        </linkGrp>
+        <div n="825-1151" type="poem"><head type="note" n="1" xml:id="spp-825-1151-headnote-1"><lg n="1" xml:id="spp-825-1151-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-825-1151-headnote-1-line-group-1-line-1">────<hi rend="underline">Qui promittit cives, urbem sibi curæ, <lb/> Imperium fore, et Italiam, et delubra Deorum; <lb/> Quo patre sit natus, num ignota matre inhonestus <lb/> Omnes mortales curare, &amp; quærere cogit. <lb/> Tune Syri, Damæ, aut Dionysi filius audes <lb/> Dejicere e saxo cives, aut tradere Cadmo</hi>? <lb/><note rend="flush right">H<hi rend="SMALL-CAPS">OR</hi>. Lib. 1. Sat. 6. l. 34.──39.</note></l></lg></head><head type="note" n="2" xml:id="spp-825-1151-headnote-2"><lg n="1" xml:id="spp-825-1151-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-825-1151-headnote-2-line-group-1-line-1">Translated literally.</l></lg></head><head type="note" n="3" xml:id="spp-825-1151-headnote-3"><lg n="1" xml:id="spp-825-1151-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-825-1151-headnote-3-line-group-1-line-1">Whoever promiseth (in the Senate) to take the City (of <hi rend="underline">Rome</hi>) and the Citizens under his Care, nay, the whole Empire, <hi rend="underline">Italy</hi>, and the Temples of the Gods; such a Man compelleth all Mortals curiously to enquire from what Father he sprung, and whether his Mother were some obscure dishonourable Female. (The People would cry out) What, thou the son of <hi rend="underline">Cyrus</hi> <ref target="#spp-825-1151-footnote-1">1</ref><note n="1" xml:id="spp-825-1151-footnote-1" place="foot"><hi rend="underline">Usual Names of Slaves at</hi> Rome</note>, or <hi rend="underline">Damas</hi> <ref target="#spp-825-1151-footnote-2">2</ref><note n="2" xml:id="spp-825-1151-footnote-2" place="foot"><hi rend="underline">Usual Names of Slaves at</hi> Rome</note>, or <hi rend="underline">Dionysius</hi> <ref target="#spp-825-1151-footnote-3">3</ref><note n="3" xml:id="spp-825-1151-footnote-3" place="foot"><hi rend="underline">Usual Names of Slaves at</hi> Rome</note>, dare thou cast our Citizens down the <hi rend="underline">Tarpeian</hi> Rock, or deliver them Prisoners to <hi rend="underline">Cadmus</hi> <ref target="#spp-825-1151-footnote-4">4</ref><note n="4" xml:id="spp-825-1151-footnote-4" place="foot">Cadmus <hi rend="underline">was a Lictor, an Officer who seized on Criminals, like a Constable, or Messenger of the H──of C</hi>────</note>.</l></lg></head><head type="note" n="4" xml:id="spp-825-1151-headnote-4"><lg n="1" xml:id="spp-825-1151-headnote-4-line-group-1" type="headnote"><l n="1" xml:id="spp-825-1151-headnote-4-line-group-1-line-1">PARAPHRASED.</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-825-1151-line-1"><hi rend="display-initial">I</hi>F noisy <hi rend="underline">T</hi>──<ref target="#spp-825-1151-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-825-1151-footnote-1"><hi rend="underline">Sir</hi> T────P────.</note> should in the S-n-te prate,</l><l n="2" xml:id="spp-825-1151-line-2"> That he would answer both for Church and State;</l><l n="3" xml:id="spp-825-1151-line-3"> And, further to demonstrate his Affection,</l><l n="4" xml:id="spp-825-1151-line-4"> Would take the Kingdom into his Protection:</l><l n="5" xml:id="spp-825-1151-line-5"> All Mortals must be curious to enquire,</l><l n="6" xml:id="spp-825-1151-line-6"> Who could this Coxcomb be, and who his Sire?</l><l n="7" xml:id="spp-825-1151-line-7"> What, thou! the Spawn of him <ref target="#spp-825-1151-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-825-1151-footnote-2"><hi rend="underline">The Father of Sir </hi>T<hi rend="underline">────, * * * *, who engaged in a Plot to murder King </hi>William III<hi rend="underline">. but to avoid being hanged, turned Informer against his Associates, for which he was rewarded with a good Estate, and made a Baronet</hi>.</note> who sham'd our Isle,</l><l n="8" xml:id="spp-825-1151-line-8"> That Traitor, Assassin, Informer vile.</l><l n="9" xml:id="spp-825-1151-line-9"> Though by the Female Side <ref target="#spp-825-1151-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-825-1151-footnote-3">C──d──g──n'<hi rend="underline">s Family</hi>, &amp;c</note> you proudly bring,</l><l n="10" xml:id="spp-825-1151-line-10"> To mend your Breed, the Murderer of a King.</l><l n="11" xml:id="spp-825-1151-line-11"> What was thy Grandsire <ref target="#spp-825-1151-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-825-1151-footnote-4"><hi rend="underline">A poor thieving Cottager under Mr. </hi>Moore<hi rend="underline">, condemned at </hi>Clonmell<hi rend="underline"> Assizes to be hanged for stealing Cows</hi>.</note> (but a Mountaineer,</l><l n="12" xml:id="spp-825-1151-line-12"> Who held a Cabbin for ten Groats a Year;</l><l n="13" xml:id="spp-825-1151-line-13"> Whose Master, <hi rend="underline">Moore</hi>, <ref target="#spp-825-1151-footnote-5">5</ref><note place="foot" n="5" xml:id="spp-825-1151-footnote-5"><hi rend="underline">The Grandfather of </hi>Guy Moore<hi rend="underline">, Esq; who procured him a Pardon</hi>.</note> preserv'd him from the Halter,</l><l n="14" xml:id="spp-825-1151-line-14"> For stealing Cows, nor could he read the Psalter.</l><l n="15" xml:id="spp-825-1151-line-15"> Durst thou, ungrateful from the S-n-te chace</l><l n="16" xml:id="spp-825-1151-line-16"> Thy Founder's Grandson <ref target="#spp-825-1151-footnote-6">6</ref><note place="foot" n="6" xml:id="spp-825-1151-footnote-6">Guy Moore <hi rend="underline">was fairly elected Member of P────for </hi>Clonmell<hi rend="underline">; but Sir </hi>T<hi rend="underline">────────depending upon his Interest with a certain Party then prevailing, and since known by the Title of </hi>Parson-hunters<hi rend="underline">, petitioned the House against him, out of which he was turned upon Pretence of Bribery, which the paying of his lawful Debts was then voted to be</hi></note> and usurp his Place.</l><l n="17" xml:id="spp-825-1151-line-17"> Just Heaven! to see the Dunghill dastard Brood</l><l n="18" xml:id="spp-825-1151-line-18"> Survive in thee, and make the Proverb good<ref target="#spp-825-1151-footnote-7">7</ref><note place="foot" n="7" xml:id="spp-825-1151-footnote-7"><hi rend="underline">Save a Thief from the Gallows, and he will cut your Throat</hi>.</note></l><l n="19" xml:id="spp-825-1151-line-19"> Then vote a worthy Citizen <ref target="#spp-825-1151-footnote-8">8</ref><note place="foot" n="8" xml:id="spp-825-1151-footnote-8"><hi rend="underline">Mr. </hi>G──────F────────<hi rend="underline">, a very honest and eminent Printer in </hi>Dublin<hi rend="underline">, who was voted to Newgate upon a ridiculous Complaint of one Serjeant</hi> Bettesworth.</note> to Jail,</l><l n="20" xml:id="spp-825-1151-line-20"> In Spight to Justice, and refuse his Bail.825-1151   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

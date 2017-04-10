@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Epilouge wrote by D<hi rend="sup">r</hi> 08. Swift,</title>
+        <title>spoken at a Benefit Night for<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 18NO97 &amp; JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-274-166Y-footnote-1 #spp-274-166Y-line-17"/>
+          <link target="#spp-274-166Y-footnote-2 #spp-274-166Y-line-18"/>
+          <link target="#spp-274-166Y-footnote-3 #spp-274-166Y-line-18"/>
+          <link target="#spp-274-166Y-footnote-4 #spp-274-166Y-line-19"/>
+          <link target="#spp-274-166Y-footnote-5 #spp-274-166Y-line-20"/>
+          <link target="#spp-274-166Y-footnote-6 #spp-274-166Y-line-21"/>
+          <link target="#spp-274-166Y-footnote-7 #spp-274-166Y-line-23"/>
+        </linkGrp>
+        <div n="274-166Y" type="poem"><head type="note" n="1" xml:id="spp-274-166Y-headnote-1"><lg n="1" xml:id="spp-274-166Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-274-166Y-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-274-166Y-headnote-2"><lg n="1" xml:id="spp-274-166Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-274-166Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-274-166Y-headnote-3"><lg n="1" xml:id="spp-274-166Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-274-166Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-274-166Y-line-1">Who dares affirm this is no pious Age&#13;</l><l n="2" xml:id="spp-274-166Y-line-2"> When Charity begins to mount y<hi rend="sup">e</hi> Stage?</l><l n="3" xml:id="spp-274-166Y-line-3"> When Actors who at best are hardly Savers,</l><l n="4" xml:id="spp-274-166Y-line-4"> Will give a Night of Benefit to Weavers?</l><l n="5" xml:id="spp-274-166Y-line-5"> Stay-- Let me see how finely will it sound?</l><l n="6" xml:id="spp-274-166Y-line-6"> Imprimis. From his Grace a Hundred Pound;</l><l n="7" xml:id="spp-274-166Y-line-7"> Peers, Clergy, Gentry, all are Benefactors,</l><l n="8" xml:id="spp-274-166Y-line-8"> And then comes in y<hi rend="sup">e</hi> Item of y<hi rend="sup">e</hi> Actors,</l><l n="9" xml:id="spp-274-166Y-line-9"> Item y<hi rend="sup">e</hi> Actors freely give a Day,</l><l n="10" xml:id="spp-274-166Y-line-10"> The Poet had no more y<hi rend="sup">t</hi> made y<hi rend="sup">e</hi> Play.But whence this wondrous Charity in Players</l><l n="11" xml:id="spp-274-166Y-line-11"> They learn it not at Sermons nor at Prayers,</l><l n="12" xml:id="spp-274-166Y-line-12"> Under y<hi rend="sup">e</hi> Rose, since here are none but Friends,</l><l n="13" xml:id="spp-274-166Y-line-13"> To own y<hi rend="sup">e</hi> Truth we have some private Ends.</l><l n="14" xml:id="spp-274-166Y-line-14"> Since Waiting Women like exacting Iades,</l><l n="15" xml:id="spp-274-166Y-line-15"> Hold up y<hi rend="sup">e</hi> Prices of their old Brocades</l><l n="16" xml:id="spp-274-166Y-line-16"> We'll dress in Manufactures made at Home,</l><l n="17" xml:id="spp-274-166Y-line-17"> Equip our Kings &amp; Generals at y<hi rend="sup">e</hi><ref target="#spp-274-166Y-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-274-166Y-footnote-1">(1) Two Places in Dublin, cheifly inhabited by Clothiers. (2)</note> Comb,</l><l n="18" xml:id="spp-274-166Y-line-18"> We'll rig in <ref target="#spp-274-166Y-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-274-166Y-footnote-2"><unclear>Nul; see footnote 1</unclear></note> Meath-Street <ref target="#spp-274-166Y-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-274-166Y-footnote-3">(3) Cleopatra &amp; Mark-Anthony, y<hi rend="sup">e</hi> two cheif Characters in y<hi rend="sup">e</hi> celebrated Tragedy, of all for Love, or y<hi rend="sup">e</hi> World well Lost, alter'd from Shakespear's Anthony &amp; Cleopatra, by M<hi rend="sup">ṛ</hi> Dryden.</note> Egypts haughty Quen.</l><l n="19" xml:id="spp-274-166Y-line-19"> And <ref target="#spp-274-166Y-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-274-166Y-footnote-4">(4) The Two cheif Parts of Sophinisba, written by M<hi rend="sup">r</hi> Lee. <unclear>Transcriber bungles numbering here, throwing off notes 5-7 as well.</unclear></note> Anthony shall court her in Ratten;</l><l n="20" xml:id="spp-274-166Y-line-20"> In Blue Shallon shall <ref target="#spp-274-166Y-footnote-5">5</ref><note place="foot" n="5" xml:id="spp-274-166Y-footnote-5">(5) (6) Alexander y<hi rend="sup">e</hi> Great &amp; Roxana one of y<hi rend="sup">e</hi> Rival Queen's in y<hi rend="sup">e</hi> so called, written by M<hi rend="sup">ṛ</hi> Lee aforesaid. (7).</note> Hanibal be <subst reason="written above deleted"><add>clad</add><del>"drest"</del></subst></l><l n="21" xml:id="spp-274-166Y-line-21"> And <ref target="#spp-274-166Y-footnote-6">6</ref><note place="foot" n="6" xml:id="spp-274-166Y-footnote-6"><unclear>Nul; see footnote 5.</unclear></note> Scipio trail an Irish purple Plad.</l><l n="22" xml:id="spp-274-166Y-line-22"> In Drugget drest of thirteen Pence a Yard</l><l n="23" xml:id="spp-274-166Y-line-23"> See Philip's Son <ref target="#spp-274-166Y-footnote-7">7</ref><note place="foot" n="7" xml:id="spp-274-166Y-footnote-7"><unclear>Nul; see footnote 5.</unclear></note> amidst his Persian Guard.</l><l n="24" xml:id="spp-274-166Y-line-24"> And proud Roxana, fir'd with jealous Rage</l><l n="25" xml:id="spp-274-166Y-line-25"> With fifty Yards of Crape shall sweep y<hi rend="sup">e</hi> Stage,</l><l n="26" xml:id="spp-274-166Y-line-26"> In short our King's &amp; Princess'es: within,</l><l n="27" xml:id="spp-274-166Y-line-27"> Are all resolv'd y<hi rend="sup">e</hi> Project to begin,</l><l n="28" xml:id="spp-274-166Y-line-28"> And you our Subjects, when you here resort,</l><l n="29" xml:id="spp-274-166Y-line-29"> Must imitate y<hi rend="sup">e</hi> Fashion of y<hi rend="sup">e</hi> Court.O could I see this Audience clad in Stuff,</l><l n="30" xml:id="spp-274-166Y-line-30"> Tho' Moneys scarce, we should have Trade enough,</l><l n="31" xml:id="spp-274-166Y-line-31"> But Chints, Brocades, &amp; Lace take all away,</l><l n="32" xml:id="spp-274-166Y-line-32"> And scarce a Crown is left to see y<hi rend="sup">e</hi> Play.</l><l n="33" xml:id="spp-274-166Y-line-33"> Perhaps you wonder whence this Friendship springs,</l><l n="34" xml:id="spp-274-166Y-line-34"> Between y<hi rend="sup">e</hi> Weavers, &amp; us Play-house Kings,</l><l n="35" xml:id="spp-274-166Y-line-35"> But Wit &amp; Weaving had y<hi rend="sup">e</hi> same Begining,</l><l n="36" xml:id="spp-274-166Y-line-36"> Pallas first taught us Poetry &amp; Spining,</l><l n="37" xml:id="spp-274-166Y-line-37"> And next observe how this Alliance fits,</l><l n="38" xml:id="spp-274-166Y-line-38"> For Weavers now are just as poor as Wits,</l><l n="39" xml:id="spp-274-166Y-line-39"> Their Brother Quill-men, Workers for y<hi rend="sup">e</hi> Stage,</l><l n="40" xml:id="spp-274-166Y-line-40"> For sorry Stuff can get a Crown a Page,</l><l n="41" xml:id="spp-274-166Y-line-41"> But Weavers will be kinder to y<hi rend="sup">e</hi> Players,</l><l n="42" xml:id="spp-274-166Y-line-42"> And sell for Twenty Pence a Yard of theirs,</l><l n="43" xml:id="spp-274-166Y-line-43"> And to your Knowledge there is often less in,</l><l n="44" xml:id="spp-274-166Y-line-44"> The Poets' Wit than in y<hi rend="sup">e</hi> Players' Dressing.274-166Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

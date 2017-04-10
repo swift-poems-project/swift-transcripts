@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="629-54B-" type="poem"><head type="note" n="1" xml:id="spp-629-54B--headnote-1"><lg n="1" xml:id="spp-629-54B--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-629-54B--headnote-1-line-group-1-line-1">And this he hath illustrated in that fine part of the poem <hi rend="underline">to a Lady, who desired him to write verses on her, in the heroic stile</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-629-54B--headnote-2"><lg n="1" xml:id="spp-629-54B--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-629-54B--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-629-54B--headnote-3"><lg n="1" xml:id="spp-629-54B--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-629-54B--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-629-54B--line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>You must learn, if you would gain us,&#13;</l><l n="2" xml:id="spp-629-54B--line-2"> With good sense to entertain us.Scholars, when good sense describing,</l><l n="3" xml:id="spp-629-54B--line-3"> Call it tasting and imbibing.</l><l n="4" xml:id="spp-629-54B--line-4"> Metaphoric meat and drink,</l><l n="5" xml:id="spp-629-54B--line-5"> Is to understand and think.</l><l n="6" xml:id="spp-629-54B--line-6"> We may carve for others thus,</l><l n="7" xml:id="spp-629-54B--line-7"> And let others carve for us.To discourse and to attend,</l><l n="8" xml:id="spp-629-54B--line-8"> Is to help yourself and friend.</l><l n="9" xml:id="spp-629-54B--line-9"> Conversation is but carving:</l><l n="10" xml:id="spp-629-54B--line-10"> Carve to all, yourself are starving.</l><l n="11" xml:id="spp-629-54B--line-11"> Give no more to every guest</l><l n="12" xml:id="spp-629-54B--line-12"> Than he's able to digest.</l><l n="13" xml:id="spp-629-54B--line-13"> Give him always of the prime;</l><l n="14" xml:id="spp-629-54B--line-14"> And but little at a time.</l><l n="15" xml:id="spp-629-54B--line-15"> Carve to all but just enough,</l><l n="16" xml:id="spp-629-54B--line-16"> Let them neither starve nor stuff.</l><l n="17" xml:id="spp-629-54B--line-17"> And that you may have your due,</l><l n="18" xml:id="spp-629-54B--line-18"> Let your neighbours carve for you.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>629-54B-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

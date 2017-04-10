@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>SHERIDAN's <hi rend="underline">Submission. Written by</hi></title>
+        <title>
+          <hi rend="underline">the Dean.</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF "/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X05-07H1" type="poem"><head type="note" n="1" xml:id="spp-X05-07H1-headnote-1"><lg n="1" xml:id="spp-X05-07H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X05-07H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X05-07H1-headnote-2"><lg n="1" xml:id="spp-X05-07H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X05-07H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X05-07H1-headnote-3"><lg n="1" xml:id="spp-X05-07H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X05-07H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X05-07H1-line-1"><hi rend="display-initial">T</hi>O you victorious and brave,</l><l n="2" xml:id="spp-X05-07H1-line-2"> Your now subdu'd and suppliant slaveMost humbly sues for pardon.</l><l n="3" xml:id="spp-X05-07H1-line-3"> Who when I fought still cut me down,</l><l n="4" xml:id="spp-X05-07H1-line-4"> And when I, vanquish'd, fled the town,Pursu'd and laid me hard on.</l></lg><lg n="2" type="stanza"><l n="5" xml:id="spp-X05-07H1-line-5">Now lowly crouch'd, I cry peccavi,&#13;</l><l n="6" xml:id="spp-X05-07H1-line-6"> And prostrate, supplicate <hi rend="underline">pour ma vie</hi>,Your mercy I rely on.</l><l n="7" xml:id="spp-X05-07H1-line-7"> For you, my conqu'ror and my king,</l><l n="8" xml:id="spp-X05-07H1-line-8"> In pard'ning, as in punishing,Will shew yourself a lion.</l></lg><lg n="3" type="stanza"><l n="9" xml:id="spp-X05-07H1-line-9">Alas, Sir, I had no design,&#13;</l><l n="10" xml:id="spp-X05-07H1-line-10"> But was unwarily drawn in;For spite I ne'er had any.</l><l n="11" xml:id="spp-X05-07H1-line-11"> 'Twas the damn'd 'squire with the hard name;</l><l n="12" xml:id="spp-X05-07H1-line-12"> The de'el too that ow'd me a shame,The devil and <hi rend="underline">Delany</hi>;</l></lg><lg n="4" type="stanza"><l n="13" xml:id="spp-X05-07H1-line-13">They tempted me t'attack your highness,&#13;</l><l n="14" xml:id="spp-X05-07H1-line-14"> And then, with wonted wile and slyness,They left me in the lurch,</l><l n="15" xml:id="spp-X05-07H1-line-15"> Unhappy wretch! for now, I ween,</l><l n="16" xml:id="spp-X05-07H1-line-16"> I've nothing left to vent my spleenBut ferula and birch;</l></lg><lg n="5" type="stanza"><l n="17" xml:id="spp-X05-07H1-line-17">And they, alas, yield small relief,&#13;</l><l n="18" xml:id="spp-X05-07H1-line-18"> Seem rather to renew my grief,My wounds bleed all anew:</l><l n="19" xml:id="spp-X05-07H1-line-19"> For ev'ry stroke goes to my heart,</l><l n="20" xml:id="spp-X05-07H1-line-20"> And at each lash I feel the smartOf lash laid on by you.<gap/><gap/><gap/><gap/>X05-07H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

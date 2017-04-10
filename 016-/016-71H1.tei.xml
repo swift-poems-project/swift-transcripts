@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LETTER I.</title>
+        <title xml:id="spp-016-71H1-title-1">To the SOCIETY <ref target="#spp-016-71H1-footnote-title-1">1</ref><note n="1" xml:id="spp-016-71H1-footnote-title-1" place="foot">This Letter is printed in the Fourth Volume of the <hi rend="underline">Athenian Oracle</hi>, p. III. 3d edit. An apology for admitting it into this Miscellany is certainly unnecessary. The Ode, which accompanied it, is printed in vol. VII. p. 309; in which the ingenious Author refers to a former Ode written by him, and addressed to King <hi rend="underline">William</hi> when in <hi rend="underline">Ireland</hi>. Mr. <hi rend="underline">Deane Swift</hi>, in his valuable Essay on the Life of his Kinsman, informs us that this latter piece was also printed in the same publication. It however is not to be found in the last, nor in several other Editions of that Work; a circumstance which cannot but be regretted, as it seems to have been one of the first Essays of our Author's Muse, and on that account deserving the attention of the learned.</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-016-71H1-footnote-title-1 #spp-016-71H1-title-1"/>
+          <link target="# #spp-016-71H1-footnote-1"/>
+          <link target="# #spp-016-71H1-footnote-2"/>
+        </linkGrp>
+        <div n="016-71H1" type="letter"><head type="note" n="1" xml:id="spp-016-71H1-headnote-1"><lg n="1" xml:id="spp-016-71H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-016-71H1-headnote-1-line-group-1-line-1"><hi rend="underline">Moor-Park, <lb/> Feb</hi>. 14, 1691-2.</l></lg></head><head type="note" n="2" xml:id="spp-016-71H1-headnote-2"><lg n="1" xml:id="spp-016-71H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-016-71H1-headnote-2-line-group-1-line-1">G<hi rend="SMALL-CAPS">ENTLEMEN</hi>,</l></lg></head><head type="note" n="3" xml:id="spp-016-71H1-headnote-3"><lg n="1" xml:id="spp-016-71H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-016-71H1-headnote-3-line-group-1-line-1"><hi rend="display-initial">S</hi>INCE every body pretends to trouble you with their follies, I thought I might claim the privilege of an <hi rend="underline">Englishman</hi>, and put in my share among the rest. Being last year in <hi rend="underline">Ireland</hi> (from whence I returned about <hi rend="underline">half a year</hi> <ref target="#spp-016-71H1-footnote-1">1</ref><note n="1" xml:id="spp-016-71H1-footnote-1" place="foot">By this expression, and some particulars which follow, it appears that Dr. <hi rend="underline">Swift</hi>, on his return from <hi rend="underline">Ireland</hi>, did not immediately go back to <hi rend="underline">Moor Park</hi>; as, in a letter to Mr. <hi rend="underline">Kendal</hi>, dated only three days before this to the <hi rend="underline">Athenian</hi> Society, we find he had been but <hi rend="underline">seven weeks</hi> with Sir <hi rend="underline">William</hi>. The intermediate time, from the subject of the letter to Mr. <hi rend="underline">Kendal</hi>, appears to have been principally passed with his mother at <hi rend="underline">Leicester</hi>, from which place he made <hi rend="underline">Oxford</hi> in his way to <hi rend="underline">Moor Park</hi>. The name of the lady whom he was then supposed to court (as we learn from himself, vol. XIX. p. 368.) was <hi rend="underline">Betty Jones</hi>, afterwards married to Mr. <hi rend="underline">Perkins</hi>, an innkeeper at <hi rend="underline">Loughborow</hi>. A daughter of this Mrs. <hi rend="underline">Perkins</hi>, in <hi rend="underline">January</hi> 1728-9, having been left a widow by one <hi rend="underline">Giles</hi> an <hi rend="underline">Irishman</hi>, who pretended to be barrack-master general of <hi rend="underline">Ireland</hi>, applied to the Dean for advice and assistance, on the score of his former friendship for her mother and grandmother, the latter of whom was related to Dr. <hi rend="underline">Swift's</hi> family. The young woman having brought with her some letters from her mother; the Dean tells Mr. <hi rend="underline">Worral</hi>, he is ready to sacrifice five pounds, on old acquaintance, to help the woman; though he suspected her mother's letters to be counterfeit, as he remembered she spelt <hi rend="underline">like a kitchen-maid</hi></note> ago), I heard only a loose talk of your Society; and believed the design to be only some new folly just suitable to the age, which God knows I little expected ever to produce any thing extraordinary. Since my being in <hi rend="underline">England</hi>, having still continued in the country, and much out of company, I had but little advantage of knowing any more, till about two months ago, passing through <hi rend="underline">Oxford</hi>, a very learned Gentleman first shewed me two or three of your Volumes, and gave me his account and opinion of you. A while after I came to this place, upon a visit to ***** <ref target="#spp-016-71H1-footnote-2">2</ref><note n="2" xml:id="spp-016-71H1-footnote-2" place="foot">His great patron, Sir <hi rend="underline">William Temple</hi></note>, where I have been ever since, and have seen all the Four Volumes with their Supplements; which answering my expectation, the perusal has produced what you find inclosed.</l></lg></head><head type="note" n="4" xml:id="spp-016-71H1-headnote-4"><lg n="1" xml:id="spp-016-71H1-headnote-4-line-group-1" type="headnote"><l n="1" xml:id="spp-016-71H1-headnote-4-line-group-1-line-1">As I have been somewhat inclined to this <hi rend="underline">folly</hi>, so I have seldom wanted somebody to flatter me in it. And for the Ode inclosed, I have sent it to a person of very great learning and honour, and since to some others, the best of my acquaintance (which I thought very proper, to ensure it for a greater light); and they have all been pleased to tell me, that they are sure it will not be unwelcome, and that I should beg the honour of you to let it be printed before your next Volume (which I think is soon to be published); it being so usual before most books of any grat value among Poets: and before its seeing the world, I submit it wholly to the correction of your pens.</l></lg></head><head type="note" n="5" xml:id="spp-016-71H1-headnote-5"><lg n="1" xml:id="spp-016-71H1-headnote-5-line-group-1" type="headnote"><l n="1" xml:id="spp-016-71H1-headnote-5-line-group-1-line-1">I entreat therefore one of you would descend so far, as to write two or three lines to me of your pleasure upon it: which as I cannot but expect it from Gentlemen who have so well shewn, upon so many occasions, that <hi rend="underline">greatest character</hi> of Scholars, in being favourable to the ignorant; so, I am sure, nothing at present can more highly oblige me, or make me happier. I am, Gentlemen,</l></lg></head><head type="note" n="6" xml:id="spp-016-71H1-headnote-6"><lg n="1" xml:id="spp-016-71H1-headnote-6-line-group-1" type="headnote"><l n="1" xml:id="spp-016-71H1-headnote-6-line-group-1-line-1">Your ever most humble, <lb/> and most admiring servant, <lb/> JON. SWIFT.</l></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-016-71H1-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>016-71H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

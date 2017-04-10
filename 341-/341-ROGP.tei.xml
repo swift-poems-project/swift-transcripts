@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">An Excellent New Song upon His Grace</hi>
+        </title>
+        <title>
+          <hi rend="underline">Our Good Lord Archbishop of Dublin</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="341-ROGP" type="poem"><head type="note" n="1" xml:id="spp-341-ROGP-headnote-1"><lg n="1" xml:id="spp-341-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-341-ROGP-headnote-1-line-group-1-line-1">BY HONEST JO, ONE OF HIS GRACE'S FARMERS IN FINGAL</l></lg></head><head type="note" n="2" xml:id="spp-341-ROGP-headnote-2"><lg n="1" xml:id="spp-341-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-341-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-341-ROGP-headnote-3"><lg n="1" xml:id="spp-341-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-341-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-341-ROGP-line-1"> I sing not of the Drapier's praise, nor yet of William Wood;&#13;</l><l n="2" xml:id="spp-341-ROGP-line-2"> But I sing of a famous lord, who seeks his country's good.</l><l n="3" xml:id="spp-341-ROGP-line-3"> Lord William's Grace of Dublin town, 'tis he that first appears,</l><l n="4" xml:id="spp-341-ROGP-line-4"> Whose wisdom and whose piety, do far exceed his years.</l><l n="5" xml:id="spp-341-ROGP-line-5"> In every council and debate he stands for what is right;</l><l n="6" xml:id="spp-341-ROGP-line-6"> And still the truth he will maintain, whate'er he loses by't.</l><l n="7" xml:id="spp-341-ROGP-line-7"> And though some think him in the wrong, yet still there comes a season</l><l n="8" xml:id="spp-341-ROGP-line-8"> When everyone turns round about, and owns His Grace had reason.</l><l n="9" xml:id="spp-341-ROGP-line-9"> His firmness to the public good, as one that knows it swore,</l><l n="10" xml:id="spp-341-ROGP-line-10"> Has lost His Grace for ten years past ten thousand pounds and more:</l><l n="11" xml:id="spp-341-ROGP-line-11"> Then come the poor and strip him so, they leave him not a cross,</l><l n="12" xml:id="spp-341-ROGP-line-12"> For he regards ten thousand pounds no more than Woods's dross.</l><l n="13" xml:id="spp-341-ROGP-line-13"> To beg his favour is the way new favours still to win,</l><l n="14" xml:id="spp-341-ROGP-line-14"> He makes no more to give ten pounds than Ito give a pin.</l><l n="15" xml:id="spp-341-ROGP-line-15"> Why, there's my landlord now the squire, who all in money wallows,</l><l n="16" xml:id="spp-341-ROGP-line-16"> He would not give a groat to save his father from the gallows.</l><l n="17" xml:id="spp-341-ROGP-line-17"> 'A bishop', says the noble squire, 'I hate the very name,</l><l n="18" xml:id="spp-341-ROGP-line-18"> To have two thousand pounds a year, O 'tis a burning shame!</l><l n="19" xml:id="spp-341-ROGP-line-19"> Two thousand pounds a year, good lord! and Ito have but five.'</l><l n="20" xml:id="spp-341-ROGP-line-20"> And under him no tenant yet was ever known to thrive.</l><l n="21" xml:id="spp-341-ROGP-line-21"> Now from his lordship's Grace I hold a little piece of ground,</l><l n="22" xml:id="spp-341-ROGP-line-22"> And all the rent I pay is scarce five shillings in the pound.</l><l n="23" xml:id="spp-341-ROGP-line-23"> Then master steward takes my rent, and tells me, 'Honest Jo,</l><l n="24" xml:id="spp-341-ROGP-line-24"> Come you must take a cup of sack or two before you go.'</l><l n="25" xml:id="spp-341-ROGP-line-25"> He bids me then to hold my tongue, and up the money locks,</l><l n="26" xml:id="spp-341-ROGP-line-26"> For fear my lord should send it all into the poor man's box.</l><l n="27" xml:id="spp-341-ROGP-line-27"> And once I was so bold to beg that I might see His Grace,</l><l n="28" xml:id="spp-341-ROGP-line-28"> Good lord! I wondered how I dared to look him in the face.</l><l n="29" xml:id="spp-341-ROGP-line-29"> Then down I went upon my knees, his blessing to obtain,</l><l n="30" xml:id="spp-341-ROGP-line-30"> He gave it me, and ever since I find I thrive amain.</l><l n="31" xml:id="spp-341-ROGP-line-31"> Then said my lord, 'I'm very glad to see thee honest friend,</l><l n="32" xml:id="spp-341-ROGP-line-32"> I know the times are something hard, but hope they soon will mend,</l><l n="33" xml:id="spp-341-ROGP-line-33"> Pray never press yourself for rent, but pay me when you can,</l><l n="34" xml:id="spp-341-ROGP-line-34"> I find you bear a good report, and are an honest man.'</l><l n="35" xml:id="spp-341-ROGP-line-35"> Then said his lordship with a smile, 'I must have lawful cash,</l><l n="36" xml:id="spp-341-ROGP-line-36"> I hope you will not pay my rent in that same Woods's trash.'</l><l n="37" xml:id="spp-341-ROGP-line-37"> 'God bless your Grace,' I then replied, 'I'd see him hanging higher,</l><l n="38" xml:id="spp-341-ROGP-line-38"> Before I touched his filthy dross, than is Clondalkin spire.'</l><l n="39" xml:id="spp-341-ROGP-line-39"> To every farmer twice a week all round about the yoke,</l><l n="40" xml:id="spp-341-ROGP-line-40"> Our parsons read the Drapier's books, and make us honest folk.</l><l n="41" xml:id="spp-341-ROGP-line-41"> And then I went to pay the squire and in the way I found,</l><l n="42" xml:id="spp-341-ROGP-line-42"> His bailie driving all my cows into the parish pound.</l><l n="43" xml:id="spp-341-ROGP-line-43"> 'Why sirrah,' said the noble squire, 'how dare you see my face,</l><l n="44" xml:id="spp-341-ROGP-line-44"> Your rent is due almost a week beside the days of grace.'</l><l n="45" xml:id="spp-341-ROGP-line-45"> And yet the land I from him hold is set so on the rack,</l><l n="46" xml:id="spp-341-ROGP-line-46"> That only for the bishop's lease 'twould quickly break my back.</l><l n="47" xml:id="spp-341-ROGP-line-47"> Then God preserve his lordship's Grace, and make him live as long</l><l n="48" xml:id="spp-341-ROGP-line-48"> As did Methusalem of old, and so I end my song.341-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

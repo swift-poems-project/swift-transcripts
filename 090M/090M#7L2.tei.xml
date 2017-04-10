@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="Internet Lib. scan downloaded JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="090M#7L2" type="poem"><head type="note" n="1" xml:id="spp-090M#7L2-headnote-1"><lg n="1" xml:id="spp-090M#7L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-090M#7L2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-090M#7L2-headnote-2"><lg n="1" xml:id="spp-090M#7L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-090M#7L2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-090M#7L2-headnote-3"><lg n="1" xml:id="spp-090M#7L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-090M#7L2-headnote-3-line-group-1-line-1">090M#7L2</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-090M#7L2-line-1">090M#7L2   1  <gap/>090M#7L2   2  <gap/>090M#7L2   3  <gap/>090M#7L2   4  <gap/>090M#7L2   5  It happen'd on a winter's night,090M#7L2   6  As authors of the legend write,090M#7L2   7  Two brother hermits, saints by trade,090M#7L2   8  Taking their tour in masquerade,090M#7L2   9  Came to a village hard by Rixham,090M#7L2   10  Ragged, and not a groat betwixt 'em.090M#7L2   11  It rained as hard as it could pour,090M#7L2   12  Yet they were forc't to walk an hour090M#7L2   13  From house to house, wet to the skin090M#7L2   14  Before one soul would let 'em in.090M#7L2   15  They call'd at every door──'Good people!090M#7L2   16  My comrade's blind, and I'm a creeple!090M#7L2   17  Here we lie starving in the street,090M#7L2   18  'Twould grieve a body's heart to see't,090M#7L2   19  No Christian would turn out a beast090M#7L2   20  In such a dreadful night at least!090M#7L2   21  Give us but straw, and let us lie090M#7L2   22  In yonder barn, to keep us dry!'090M#7L2   23  Thus, in the strollers' usual cant,090M#7L2   24  They begg'd relief which none would grant;090M#7L2   25  No creature valued what they said.090M#7L2   26  One family was gone to bed:090M#7L2   27  The master bawl'd out half asleep090M#7L2   28  'You fellows, what a noise you keep!090M#7L2   29  So many beggars pass this way090M#7L2   30  We can't be quiet, night nor day;090M#7L2   31  We can not serve you every one;090M#7L2   32  Pray take your answer, and be gone!'090M#7L2   33  One swore he'd send 'em to the stocks:090M#7L2   34  A third could not forbear his mocks;090M#7L2   35  But bawl'd, as loud as he could roar,090M#7L2   36  'You're on the wrong side of the door;'090M#7L2   37  One surly clown look't out and said,090M#7L2   38  'I'll fling a brickbat on your head!090M#7L2   39  You sha'nt come here! nor get a sous!090M#7L2   40  You look like rogues would rob a house.090M#7L2   41  Can't you go work, or serve the King?090M#7L2   42  You blind and lame? 'Tis no such thing!090M#7L2   43  That's but a counterfeit sore leg!090M#7L2   44  For shame! Two sturdy rascals beg!090M#7L2   45  If I come down, <hi rend="underline">I</hi>'ll spoil your trick,090M#7L2   46  And cure you both with a good stick!'090M#7L2   47  <gap/>090M#7L2   48  <gap/>090M#7L2   49  <gap/>090M#7L2   50  <gap/>090M#7L2   51  Where dwelt a good old honest ye'man,090M#7L2   52  Call'd thereabout good man Philemon,090M#7L2   53  <gap/>090M#7L2   54  <gap/>090M#7L2   55  <gap/>090M#7L2   56  <gap/>090M#7L2   57  <gap/>090M#7L2   58  <gap/>090M#7L2   59  And freely from the fattest side090M#7L2   60  Cut out large slices to be fried;090M#7L2   61  Which, tost up in a pan with batter090M#7L2   62  And served up in an earthen platter──090M#7L2   63  Quoth Baucis, 'This is wholesome fare;090M#7L2   64  Eat, honest friends, and never spare!090M#7L2   65  And if we find our victuals fail,090M#7L2   66  We can but make it out in ale.'090M#7L2   67  </l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-090M#7L2-line-2">To a small kilderkin of beer,&#13;090M#7L2   68  Brew'd for the good time of the year,090M#7L2   69  Philemon, by his wife's consent,090M#7L2   70  Stept with a jug, and made a vent;090M#7L2   71  And having fill'd it to the brink,090M#7L2   72  Invited both the saints to drink.090M#7L2   73  When they had took a second draught,090M#7L2   74  Behold, a miracle was wrought.090M#7L2   75  For Baucis with amazement found.090M#7L2   76  Although the jug had twice gone round,090M#7L2   77  It still was full up to the top,090M#7L2   78  As if they ne'er had drunk a drop.090M#7L2   79  You may be sure so strange a sight090M#7L2   80  Put the old people in a fright.090M#7L2   81  Philemon whisper'd to his wife,090M#7L2   82  'These men are saints! I'll lay my life!'090M#7L2   83  The strangers overheard, and said,090M#7L2   84  'You're in the right: but ben't afraid:090M#7L2   85  No hurt shall come to you or yours:090M#7L2   86  But for that pack of churlish boors,090M#7L2   87  Not fit to live on Christian ground,090M#7L2   88  They and their village shall be drown'd;090M#7L2   89  Whilst you shall see your cottage rise,090M#7L2   90  And grow a church before your eyes.'090M#7L2   91  </l></lg><lg n="3" type="stanza"><l n="3" xml:id="spp-090M#7L2-line-3">Scarce had they spoke, when fair and soft&#13;090M#7L2   92  The roof began to mount aloft;090M#7L2   93  Aloft rose every beam and rafter;090M#7L2   94  The heavy wall went clambering after.090M#7L2   95  <gap/>090M#7L2   96  <gap/>090M#7L2   97  <gap/>090M#7L2   98  <gap/>090M#7L2   99  <gap/>090M#7L2   100  <gap/>090M#7L2   101  <gap/>090M#7L2   102  <gap/>090M#7L2   103  <gap/>090M#7L2   104  <gap/>090M#7L2   105  </l></lg><lg n="4" type="stanza"><l n="4" xml:id="spp-090M#7L2-line-4">The groaning chair began to crawl&#13;090M#7L2   106  Like a huge insect, up the wall;090M#7L2   107  There stuck, and to a pulpit grew.090M#7L2   108  But kept its matter, and its hue.090M#7L2   109  And, mindful of its ancient state,090M#7L2   110  Still groans while tattling gossips prate.090M#7L2   111  </l></lg><lg n="5" type="stanza"><l n="5" xml:id="spp-090M#7L2-line-5">The mortar, only changed its name,&#13;090M#7L2   112  In its old shape a font became.090M#7L2   113  </l></lg><lg n="6" type="stanza"><l n="6" xml:id="spp-090M#7L2-line-6"><gap/>090M#7L2   114  <gap/>090M#7L2   115  <gap/>090M#7L2   116  <gap/>090M#7L2   117  The ballads, pasted on the wall,090M#7L2   118  Of Chevy Chace, and English Moll,090M#7L2   119  Fair Rosamond, and Robin Hood,090M#7L2   120  The little Children in the Wood,090M#7L2   121  Enlarged in picture, size, and letter.090M#7L2   122  And painted, lookt abundance better.090M#7L2   123  And now the heraldry describe090M#7L2   124  Of a church-warden, or a tribe.090M#7L2   125  </l></lg><lg n="7" type="stanza"><l n="7" xml:id="spp-090M#7L2-line-7"><gap/>090M#7L2   126  <gap/>090M#7L2   127  <gap/>090M#7L2   128  <gap/>090M#7L2   129  <gap/>090M#7L2   130  <gap/>090M#7L2   131  <gap/>090M#7L2   132  <gap/>090M#7L2   133  <gap/>090M#7L2   134  <gap/>090M#7L2   135  <gap/>090M#7L2   136  <gap/>090M#7L2   137  <gap/>090M#7L2   138  <gap/>090M#7L2   139  <gap/>090M#7L2   140  <gap/>090M#7L2   141  <gap/>090M#7L2   142  <gap/>090M#7L2   143  <gap/>090M#7L2   144  <gap/>090M#7L2   145  <gap/>090M#7L2   146  <gap/>090M#7L2   147  <gap/>090M#7L2   148  <gap/>090M#7L2   149  <gap/>090M#7L2   150  <gap/>090M#7L2   151  <gap/>090M#7L2   152  <gap/>090M#7L2   153  The cottage, with such feats as these090M#7L2   154  Grown to a church by just degrees,090M#7L2   155  The holy men desired their host090M#7L2   156  To ask for what he fancied most.090M#7L2   157  Philemon, having paused a while,090M#7L2   158  Replied in complimental style:090M#7L2   159  'Your goodness, more than my desert,090M#7L2   160  Makes you take all things in good part:090M#7L2   161  You've raised a church here in a minute,090M#7L2   162  And I would fain continue in it:090M#7L2   163  I'm good for little at my days──090M#7L2   164  Make me the parson, if you please.'090M#7L2   165  </l></lg><lg n="8" type="stanza"><l n="8" xml:id="spp-090M#7L2-line-8">He spoke, and presently he feels&#13;090M#7L2   166  His grazier's coat reach down his heels:090M#7L2   167  The sleeves, new bordered with a list,090M#7L2   168  Widened and gathered at his wrist:090M#7L2   169  His waistcoat to a cassock grew.090M#7L2   170  And both assum'd a sable hue;090M#7L2   171  But being old, continued just090M#7L2   172  As threadbare and as full of dust.090M#7L2   173  A shambling, awkward gait he took,090M#7L2   174  With a demure, dejected look,090M#7L2   175  Talkt of his Offrings, Tythes, and Dues,090M#7L2   176  Could smoke, and drink, and read the news;090M#7L2   177  Or sell a goose at the next town090M#7L2   178  Decently hid beneath his gown.090M#7L2   179  Contriv'd to preach old sermons next090M#7L2   180  Changed in the preface and the text.090M#7L2   181  Carried it to his equals high'r.090M#7L2   182  But most obsequious to the squire.090M#7L2   183  <gap/>090M#7L2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

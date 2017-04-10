@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Thanksgiving</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X84A520B" type="poem"><head type="note" n="1" xml:id="spp-X84A520B-headnote-1"><lg n="1" xml:id="spp-X84A520B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X84A520B-headnote-1-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X84A520B-line-1"> The Sounds of Ioy your tunefull voices Raise&#13;</l><l n="2" xml:id="spp-X84A520B-line-2"> And teach y<hi rend="sup">e </hi>people whome to thank &amp; Praise,</l><l n="3" xml:id="spp-X84A520B-line-3"> Thank prudent Anna's providentiall Reigne</l><l n="4" xml:id="spp-X84A520B-line-4"> for Peace and Plentey, boath of Corn &amp; Graine</l><l n="5" xml:id="spp-X84A520B-line-5"> Thank y<hi rend="sup">e</hi> Scotch Peers, for your firm unbought Vnion</l><l n="6" xml:id="spp-X84A520B-line-6"> Thank Bishops for Occasinall Communion</l><l n="7" xml:id="spp-X84A520B-line-7"> Thank y<hi rend="sup">e</hi> Stock Iobbers for your thriving Trade</l><l n="8" xml:id="spp-X84A520B-line-8"> Thank Iust Godolphin that all Debts are paid</l><l n="9" xml:id="spp-X84A520B-line-9"> Than Marlbrough's Zeal that scornd y<hi rend="sup">e</hi> profferd Treaty</l><l n="10" xml:id="spp-X84A520B-line-10"> but Thank Eugene y<hi rend="sup">e</hi> Frenchmen did not beat you<gap/><gap/></l><l n="11" xml:id="spp-X84A520B-line-11"> Thank your own selves if you are Tax'd &amp; Shamd</l><l n="12" xml:id="spp-X84A520B-line-12"> But Thank y<hi rend="sup">e</hi> Almighty if you are not DamndX84A520B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

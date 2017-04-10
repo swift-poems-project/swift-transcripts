@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>HERRINGS.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough 17JA08"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-953A07G1-footnote-1 #spp-953A07G1-line-4"/>
+        </linkGrp>
+        <div n="953A07G1"><head type="note" n="1" xml:id="spp-953A07G1-headnote-1"><lg n="1" xml:id="spp-953A07G1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-953A07G1-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-953A07G1-headnote-2"><lg n="1" xml:id="spp-953A07G1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-953A07G1-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-953A07G1-headnote-3"><lg n="1" xml:id="spp-953A07G1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-953A07G1-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-953A07G1-line-1"><hi rend="display-initial">B</hi>E not sparing,</l><l/><l n="2" xml:id="spp-953A07G1-line-2">Leave off swearing.</l><l/><l n="3" xml:id="spp-953A07G1-line-3">Buy my herring</l><l/><l n="4" xml:id="spp-953A07G1-line-4">Fresh from Malahide<ref target="#spp-953A07G1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-953A07G1-footnote-1">Malahide, about five miles from Dublin, famous for herrings.</note>,</l><l/><l n="5" xml:id="spp-953A07G1-line-5">Better ne'er was try'd.</l><l/><l n="6" xml:id="spp-953A07G1-line-6">Come eat 'em with pure fresh butter and mustard,</l><l/><l n="7" xml:id="spp-953A07G1-line-7">Their bellies are soft, and as white as a custard.</l><l/><l n="8" xml:id="spp-953A07G1-line-8">Come, sixpence a dozen to get me some bread,</l><l/><l n="9" xml:id="spp-953A07G1-line-9">Or, like my own herrings, I soon shall be dead.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

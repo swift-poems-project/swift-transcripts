@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">Riddles</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="917BROGP" type="poem"><head type="note" n="1" xml:id="spp-917BROGP-headnote-1"><lg n="1" xml:id="spp-917BROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-917BROGP-headnote-1-line-group-1-line-1"><hi rend="underline">4</hi></l></lg></head><head type="note" n="2" xml:id="spp-917BROGP-headnote-2"><lg n="1" xml:id="spp-917BROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-917BROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-917BROGP-headnote-3"><lg n="1" xml:id="spp-917BROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-917BROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-917BROGP-line-1"> Because I am by nature blind,&#13;</l><l n="2" xml:id="spp-917BROGP-line-2"> I wisely choose to walk behind;</l><l n="3" xml:id="spp-917BROGP-line-3"> However, to avoid disgrace,</l><l n="4" xml:id="spp-917BROGP-line-4"> I let no creature see my face.</l><l n="5" xml:id="spp-917BROGP-line-5"> My words are few, but spoke with sense:</l><l n="6" xml:id="spp-917BROGP-line-6"> And yet my speaking gives offence:</l><l n="7" xml:id="spp-917BROGP-line-7"> Or, if to whisper I presume,</l><l n="8" xml:id="spp-917BROGP-line-8"> The company will fly the ro<gap/></l><l n="9" xml:id="spp-917BROGP-line-9"> By all the world I am oppressed,</l><l n="10" xml:id="spp-917BROGP-line-10"> And my oppression gives them rest.</l></lg><lg n="2" type="stanza"><l n="11" xml:id="spp-917BROGP-line-11">Through me, though sore against my will,&#13;</l><l n="12" xml:id="spp-917BROGP-line-12"> Instructors every art instil.</l><l n="13" xml:id="spp-917BROGP-line-13"> By thousands I am sold and bought,</l><l n="14" xml:id="spp-917BROGP-line-14"> Who neither get, nor lose a groat;</l><l n="15" xml:id="spp-917BROGP-line-15"> For none, alas, by me can gain,</l><l n="16" xml:id="spp-917BROGP-line-16"> But those who give me greatest pain.</l><l n="17" xml:id="spp-917BROGP-line-17"> Shall man presume to be my master,</l><l n="18" xml:id="spp-917BROGP-line-18"> Who's but my caterer and taster?</l><l n="19" xml:id="spp-917BROGP-line-19"> Yet, though I always have my will,</l><l n="20" xml:id="spp-917BROGP-line-20"> I'm but a mere depender still:</l><l n="21" xml:id="spp-917BROGP-line-21"> An humble hanger-on at best;</l><l n="22" xml:id="spp-917BROGP-line-22"> Of whom all people make a jest.</l></lg><lg n="3" type="stanza"><l n="23" xml:id="spp-917BROGP-line-23">In me, detractors seek to find&#13;</l><l n="24" xml:id="spp-917BROGP-line-24"> Two vices of a different kind:</l><l n="25" xml:id="spp-917BROGP-line-25"> I'm too profuse some censurers cry,</l><l n="26" xml:id="spp-917BROGP-line-26"> And all I get, I let it fly:</l><l n="27" xml:id="spp-917BROGP-line-27"> While others give me many a curse,</l><l n="28" xml:id="spp-917BROGP-line-28"> Because too close I hold my purse.</l><l n="29" xml:id="spp-917BROGP-line-29"> But this I know, in either case</l><l n="30" xml:id="spp-917BROGP-line-30"> They dare not charge me to my face:</l><l n="31" xml:id="spp-917BROGP-line-31"> 'Tis true, indeed, sometimes I save,</l><l n="32" xml:id="spp-917BROGP-line-32"> Sometimes run out of all I have;</l><l n="33" xml:id="spp-917BROGP-line-33"> But when the year is at an end,</l><l n="34" xml:id="spp-917BROGP-line-34"> Computing what I get and spend,</l><l n="35" xml:id="spp-917BROGP-line-35"> My goings out, and comings in,</l><l n="36" xml:id="spp-917BROGP-line-36"> I cannot find I lose or win,</l><l n="37" xml:id="spp-917BROGP-line-37"> And therefore, all that know me, say</l><l n="38" xml:id="spp-917BROGP-line-38"> I justly keep the middle way.</l><l n="39" xml:id="spp-917BROGP-line-39"> I'm always by my betters led;</l><l n="40" xml:id="spp-917BROGP-line-40"> I last get up, am first abed;</l><l n="41" xml:id="spp-917BROGP-line-41"> Though, if I rise before my time,</l><l n="42" xml:id="spp-917BROGP-line-42"> The learned in sciences sublime,</l><l n="43" xml:id="spp-917BROGP-line-43"> Consult the stars, and thence foretell</l><l n="44" xml:id="spp-917BROGP-line-44"> Good luck to those with whom I dwell.917BROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

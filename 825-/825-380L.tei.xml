@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Horat. Sat. Lib - 1 - Sat. 6. 34 Lin -</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-825-380L-footnote-headnote-1"/>
+          <link target="# #spp-825-380L-footnote-headnote-2"/>
+          <link target="#spp-825-380L-footnote-1 #spp-825-380L-line-18"/>
+        </linkGrp>
+        <div n="825-380L"><head type="note" n="1" xml:id="spp-825-380L-headnote-1"><lg n="1" xml:id="spp-825-380L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-825-380L-headnote-1-line-group-1-line-1">──Qui promittit Cives, Urbem, sibi Curæ, <lb/> Imperium fore, &amp; Italiam, &amp; delubra Deorum; <lb/> Quo patre sit natus, num ignotâ Matre inhonestus <lb/> Omnes Mortales curare &amp; quærere cogit. <lb/> Tune Syri, Damæ, aut Dionysii filius, audes <lb/> Dejicere e Saxo Cives, aut tradere Cadmo?</l></lg></head><head type="note" n="2" xml:id="spp-825-380L-headnote-2"><lg n="1" xml:id="spp-825-380L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-825-380L-headnote-2-line-group-1-line-1"><note rend="align(center)">Translated literally<note rend="flush left"></note></note></l></lg></head><head type="note" n="3" xml:id="spp-825-380L-headnote-3"><lg n="1" xml:id="spp-825-380L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-825-380L-headnote-3-line-group-1-line-1">Whoever promiseth (in the Senate) to take the City (of Rome\<hi rend="underline">end·of·line·crowded</hi>\ &amp; the Citizens under his care, nay the whole Empire, Italy, &amp; the Temples of the Gods, such a man compells all Mortals curiously to enquire from what Father he sprung &amp; whether his Mother were some Obscure dishonorable Female. (The People would cry out) What! thou the Son of \<hi rend="underline">footnote·marker·here·refers·to·footnote·1,·to·follow</hi>\ Syrus, or \<hi rend="underline">footnote·marker·here·refers·to·footnote·1,·to·follow</hi>\ Damas\<hi rend="underline">end·of·line·tight</hi>\ or <ref target="#spp-825-380L-footnote-headnote-1">1</ref><note n="1" xml:id="spp-825-380L-footnote-headnote-1" place="foot">Usual Names of Slaves at Rome</note> Dionysius, Dare you cast our Citizens down the Tarpeian Rock, or deliver them prisoners to <ref target="#spp-825-380L-footnote-headnote-2">2</ref><note n="2" xml:id="spp-825-380L-footnote-headnote-2" place="foot">Cadmus, was the Name of a Man who was a Lictor, an Officer who seized on Criminals, like our Constables or Messengers of the House of Commons──</note> Cadmus──</l></lg></head><head type="note" n="4" xml:id="spp-825-380L-headnote-4"><lg n="1" xml:id="spp-825-380L-headnote-4-line-group-1" type="headnote"><l n="1" xml:id="spp-825-380L-headnote-4-line-group-1-line-1">A Paraphrase on the above Six Verses in Horace──</l></lg></head><head type="note" n="5" xml:id="spp-825-380L-headnote-5"><lg n="1" xml:id="spp-825-380L-headnote-5-line-group-1" type="headnote"><l n="1" xml:id="spp-825-380L-headnote-5-line-group-1-line-1">This wrote Ap<hi rend="sup">l</hi> 08. 2<hi rend="sup">d</hi> 1736.</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-825-380L-line-1">If noisy Tom should in the Senate prate,&#13;</l><l/><l n="2" xml:id="spp-825-380L-line-2">That he would answer both for Church &amp; State;</l><l/><l n="3" xml:id="spp-825-380L-line-3">And further to demonstrate his Affection,</l><l/><l n="4" xml:id="spp-825-380L-line-4">Would take the Kingdom into his protection;</l><l/><l n="5" xml:id="spp-825-380L-line-5">All Mortals must be curious to enquire,</l><l/><l n="6" xml:id="spp-825-380L-line-6">Who could this Coxcomb be, &amp; who his Sire.</l><l/><l n="7" xml:id="spp-825-380L-line-7">What? thou the Spawn of him who sham'd our Isle?</l><l/><l n="8" xml:id="spp-825-380L-line-8">That Traytor, Assassin, Informer vile?</l><l/><l n="9" xml:id="spp-825-380L-line-9">Though by the Female Side you proudly bring</l><l/><l n="10" xml:id="spp-825-380L-line-10">(To mend your breed) the Murderer of a King,</l><l/><l n="11" xml:id="spp-825-380L-line-11">What was thy Grandsire but a Mountainneer,</l><l/><l n="12" xml:id="spp-825-380L-line-12">Who held a Cabbin (at ten Groats a Year)</l><l/><l n="13" xml:id="spp-825-380L-line-13">Whose Master Moore preserv'd him from the Halter</l><l/><l n="14" xml:id="spp-825-380L-line-14">For stealing Cows, nor could have read the Psalter.</l><l/><l n="15" xml:id="spp-825-380L-line-15">Durst thou, ungratefull, from the Senate Chace</l><l/><l n="16" xml:id="spp-825-380L-line-16">Thy Founders Grandson, and usurp his place?</l><l/><l n="17" xml:id="spp-825-380L-line-17">Iust Heaven! to see thy Dunghill Dastard Brood</l><l/><l n="18" xml:id="spp-825-380L-line-18">Survive in thee, &amp; make the <ref target="#spp-825-380L-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-825-380L-footnote-1">Save a Theif &amp;c─.</note> Proverb good.</l><l/><l n="19" xml:id="spp-825-380L-line-19">Thou vote a worthy Citizen to Iayl,</l><l/><l n="20" xml:id="spp-825-380L-line-20">In spite of Iustice, &amp; refuse his Bayl.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

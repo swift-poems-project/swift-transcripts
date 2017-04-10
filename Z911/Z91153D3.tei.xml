@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">Sequel to Miss</hi> BIDDY FLOYD, <hi rend="underline">or</hi> Mo-</title>
+        <title>mus'<hi rend="underline">s Production</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-Z91153D3-footnote-1 #spp-Z91153D3-line-3"/>
+        </linkGrp>
+        <div n="Z91153D3" type="poem"><head type="note" n="1" xml:id="spp-Z91153D3-headnote-1"><lg n="1" xml:id="spp-Z91153D3-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Z91153D3-headnote-1-line-group-1-line-1">See S<hi rend="SMALL-CAPS">WIFT</hi>'s Works.</l></lg></head><head type="note" n="2" xml:id="spp-Z91153D3-headnote-2"><lg n="1" xml:id="spp-Z91153D3-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Z91153D3-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Z91153D3-headnote-3"><lg n="1" xml:id="spp-Z91153D3-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Z91153D3-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Z91153D3-line-1"><hi rend="display-initial">W</hi>HEN <hi rend="underline">Biddy Floyd</hi> was fairly made,</l><l n="2" xml:id="spp-Z91153D3-line-2"> And <hi rend="underline">Jove</hi> left off the forming trade;</l><l n="3" xml:id="spp-Z91153D3-line-3"> Tho' <ref target="#spp-Z91153D3-footnote-1">1</ref><note rend="flush right" place="foot" n="1" xml:id="spp-Z91153D3-footnote-1"><hi rend="underline">Imitatores, servum pecus</hi>!H<hi rend="SMALL-CAPS">OR</hi>.</note><hi rend="underline">imitators</hi>, servile tribe!</l><l n="4" xml:id="spp-Z91153D3-line-4"> Still many a nymph to <hi rend="underline">Jove</hi> ascribe;</l><l n="5" xml:id="spp-Z91153D3-line-5"> And such false stories daily scatter,</l><l n="6" xml:id="spp-Z91153D3-line-6"> Tho' <hi rend="underline">Jove</hi> knows nothing of the matter.</l><l n="7" xml:id="spp-Z91153D3-line-7"> When <hi rend="underline">Floyd</hi> was finish'd, as we said,</l><l n="8" xml:id="spp-Z91153D3-line-8"> And <hi rend="underline">Jove</hi> had quit the forming trade;<hi rend="underline">Momus</hi> forsooth must try his art</l><l n="9" xml:id="spp-Z91153D3-line-9"> To furnish out a counterpart.</l><l n="10" xml:id="spp-Z91153D3-line-10"> But he must do't by stealth, because</l><l n="11" xml:id="spp-Z91153D3-line-11"> 'Tis treason by celestial laws.<hi rend="underline">Prometheus</hi> too, had paid full sore</l><l n="12" xml:id="spp-Z91153D3-line-12"> For such a bold attempt before.</l><l n="13" xml:id="spp-Z91153D3-line-13"> One night to earth he skulking came,</l><l n="14" xml:id="spp-Z91153D3-line-14"> To form this strange and frightful dame:</l><l n="15" xml:id="spp-Z91153D3-line-15"> Came to this very place where lay</l><l n="16" xml:id="spp-Z91153D3-line-16"> The fragments <hi rend="underline">Jove</hi> had thrown away;</l><l n="17" xml:id="spp-Z91153D3-line-17"> He <hi rend="underline">pick'd</hi> them up as choice ingredients</l><l n="18" xml:id="spp-Z91153D3-line-18"> (What courtier ever wants <hi rend="underline">expedients</hi>?)</l><l n="19" xml:id="spp-Z91153D3-line-19"> Then singled out each diff'rent kind,</l><l n="20" xml:id="spp-Z91153D3-line-20"> And each its proper part assign'd.</l><l n="21" xml:id="spp-Z91153D3-line-21"> The <hi rend="underline">coquet</hi>-particles produce</l><l n="22" xml:id="spp-Z91153D3-line-22"> A heart unstable, false, and loose;</l><l n="23" xml:id="spp-Z91153D3-line-23"> The <hi rend="underline">pert</hi> the eyes engross; the <hi rend="underline">vain,</hi>, and <hi rend="underline">affected</hi> form the brain;</l><l n="24" xml:id="spp-Z91153D3-line-24"> Nice</l><l n="25" xml:id="spp-Z91153D3-line-25"> The <hi rend="underline">aukward</hi> and <hi rend="underline">demure</hi> repair</l><l n="26" xml:id="spp-Z91153D3-line-26"> To form the face, and outward A<hi rend="SMALL-CAPS">IR</hi>;</l><l n="27" xml:id="spp-Z91153D3-line-27"> The <hi rend="underline">coy</hi> fulfill'd their proper task,</l><l n="28" xml:id="spp-Z91153D3-line-28"> And serv'd the lady for a mask.Thus form'd, the image look'd so queer,</l><l n="29" xml:id="spp-Z91153D3-line-29"> Old <hi rend="underline">Momus</hi> could not chuse but sneer.Not yet compleat────he catch'd a soul,</l><l n="30" xml:id="spp-Z91153D3-line-30"> That of <hi rend="underline">Thyrsites</hi>, on the strole;</l><l n="31" xml:id="spp-Z91153D3-line-31"> And cram'd it into Miss's breast,</l><l n="32" xml:id="spp-Z91153D3-line-32"> You see he would not baulk his jest.</l><l n="33" xml:id="spp-Z91153D3-line-33"> Thus when a cinder-wench has got</l><l n="34" xml:id="spp-Z91153D3-line-34"> Small coals enough to boil her pot,</l><l n="35" xml:id="spp-Z91153D3-line-35"> Her mind is not yet satisfy'd,</l><l n="36" xml:id="spp-Z91153D3-line-36"> Until a blazing chip apply'd</l><l n="37" xml:id="spp-Z91153D3-line-37"> Gives life and spirit to the whole;</l><l n="38" xml:id="spp-Z91153D3-line-38"> (What's any thing without a soul?)</l><l n="39" xml:id="spp-Z91153D3-line-39"> In short the body and the mind</l><l n="40" xml:id="spp-Z91153D3-line-40"> Were both burlesques of womenkind,</l><l n="41" xml:id="spp-Z91153D3-line-41"> To finish all, his godship <hi rend="underline">Momus</hi></l><l n="42" xml:id="spp-Z91153D3-line-42"> Call'd his production M────T────</l></lg><lg n="2" type="stanza"><l n="43" xml:id="spp-Z91153D3-line-43" rend="flush right">J.&#13;Z91153D3   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

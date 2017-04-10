@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THREE EPIGRAMS, ascribed to Dr. SWIFT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-Y54D71H1-footnote-1 #spp-Y54D71H1-line-10"/>
+        </linkGrp>
+        <div n="Y54D71H1" type="poem"><head type="note" n="1" xml:id="spp-Y54D71H1-headnote-1"><lg n="1" xml:id="spp-Y54D71H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y54D71H1-headnote-1-line-group-1-line-1">3. I<hi rend="SMALL-CAPS">MITATION</hi>, from the L<hi rend="SMALL-CAPS">ATIN</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-Y54D71H1-headnote-2"><lg n="1" xml:id="spp-Y54D71H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y54D71H1-headnote-2-line-group-1-line-1">M<hi rend="SMALL-CAPS">ARTIAL</hi>, lib. i. ep. 87.</l></lg></head><head type="note" n="3" xml:id="spp-Y54D71H1-headnote-3"><lg n="1" xml:id="spp-Y54D71H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y54D71H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y54D71H1-line-1">My neighbour <hi rend="underline">Hunks's</hi> house and mine</l><l n="2" xml:id="spp-Y54D71H1-line-2"> Are built so near, they almost join;</l><l n="3" xml:id="spp-Y54D71H1-line-3"> The windows too project so much,</l><l n="4" xml:id="spp-Y54D71H1-line-4"> That through the casements we may touch;</l><l n="5" xml:id="spp-Y54D71H1-line-5"> Nay, I'm so happy, most men think,</l><l n="6" xml:id="spp-Y54D71H1-line-6"> And live so near a man of chink,</l><l n="7" xml:id="spp-Y54D71H1-line-7"> That they are apt to envy me</l><l n="8" xml:id="spp-Y54D71H1-line-8"> For keeping such good company:</l><l n="9" xml:id="spp-Y54D71H1-line-9"> But he's as far from me I vow,</l><l n="10" xml:id="spp-Y54D71H1-line-10"> As <hi rend="underline">London</hi> is from good lord <hi rend="underline">Howe</hi><ref target="#spp-Y54D71H1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-Y54D71H1-footnote-1">Lord <hi rend="underline">Howe</hi> was governor of <hi rend="underline">Barbadoes</hi> from 1733 to 1735.</note>.<gap/><gap/></l><l n="11" xml:id="spp-Y54D71H1-line-11"> For, when old <hi rend="underline">Hunks</hi> I chance to meet,</l><l n="12" xml:id="spp-Y54D71H1-line-12"> Or one or both must quit the street.Thus he, who would not see old <hi rend="underline">Roger</hi>,</l><l n="13" xml:id="spp-Y54D71H1-line-13"> Must be his neighbour, not his lodger.Y54D71H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

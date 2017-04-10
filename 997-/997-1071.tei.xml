@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Answer by Dr. D<hi rend="SMALL-CAPS">ELANY</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="997-1071" type="poem"><head type="note" n="1" xml:id="spp-997-1071-headnote-1"><lg n="1" xml:id="spp-997-1071-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-997-1071-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-997-1071-headnote-2"><lg n="1" xml:id="spp-997-1071-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-997-1071-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-997-1071-headnote-3"><lg n="1" xml:id="spp-997-1071-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-997-1071-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-997-1071-line-1"><hi rend="display-initial">A</hi>SSIST me, my Muse, whilst I labour to limn him<hi rend="underline">Credite Pisones isti tabul<unclear>ae</unclear> persimilem</hi>.</l><l n="2" xml:id="spp-997-1071-line-2"> You look and you write with so diff'rent a Grace,</l><l n="3" xml:id="spp-997-1071-line-3"> That I envy your Verse, though I didn't your Face.</l><l n="4" xml:id="spp-997-1071-line-4"> And to him that thinks rightly, there's Reason enough,</l><l n="5" xml:id="spp-997-1071-line-5"> 'Cause one is as smooth as the other is rough.</l></lg><lg n="2" type="triplet"><l n="6" xml:id="spp-997-1071-line-6">B<hi rend="SMALL-CAPS">UT</hi> much I'm amaz'd, you should think my Design</l><l n="7" xml:id="spp-997-1071-line-7"> Was to Rhyme down your Nose, or your Harlequin Grin,</l><l n="8" xml:id="spp-997-1071-line-8"> Which you yourself wonder the De'il should malign.</l><l n="9" xml:id="spp-997-1071-line-9"> And, if 'tis so strange, that your Monstership's Crany</l><l n="10" xml:id="spp-997-1071-line-10"> Should be envy'd by him, much less by <hi rend="underline">Delany</hi>.</l><l n="11" xml:id="spp-997-1071-line-11"> Though I own to you, when I consider it stricter,</l><l n="12" xml:id="spp-997-1071-line-12"> I envy the Painter, although not the Picture.</l><l n="13" xml:id="spp-997-1071-line-13"> And justly she's envy'd since a Fiend of Hell</l><l n="14" xml:id="spp-997-1071-line-14"> Was never drawn right but by her <hi rend="underline">Raph'el</hi>.</l></lg><lg n="3" type="stanza"><l n="15" xml:id="spp-997-1071-line-15">N<hi rend="SMALL-CAPS">EXT</hi> as to the Charge which you tell us is true,</l><l n="16" xml:id="spp-997-1071-line-16"> That we were inspir'd by the Subject we drew:</l><l n="17" xml:id="spp-997-1071-line-17"> Inspir'd we were, and well, Sir, you knew it,</l><l n="18" xml:id="spp-997-1071-line-18"> Yet not by your Nose, but the Fair one that drew it;</l><l n="19" xml:id="spp-997-1071-line-19"> Had your Nose been the Muse, we had ne'er been inspir'd,</l><l n="20" xml:id="spp-997-1071-line-20"> Though perhaps it might justly've been said we were fir'd.</l></lg><lg n="4" type="triplet"><l n="21" xml:id="spp-997-1071-line-21">As to the Division of Words in your Staves,&#13;</l><l n="22" xml:id="spp-997-1071-line-22"> Like my Countryman's Horn-Comb, into three Halves,</l><l n="23" xml:id="spp-997-1071-line-23"> I meddle not with't, but presume to make merry,</l><l n="24" xml:id="spp-997-1071-line-24"> You call'd <hi rend="underline">Dan</hi> one Half, and t'other Half <hi rend="underline">Sherry</hi>:</l><l n="25" xml:id="spp-997-1071-line-25"> Now, if <hi rend="underline">Dan</hi>'s a Half, as you call't o'er and o'er,</l><l n="26" xml:id="spp-997-1071-line-26"> Then it can't be deny'd that <hi rend="underline">Sherry</hi>'s two more.</l><l n="27" xml:id="spp-997-1071-line-27"> For pray give me Leave to say, Sir, for all you,</l><l n="28" xml:id="spp-997-1071-line-28"> That <hi rend="underline">Sherry</hi>'s at least of double the Value.</l><l n="29" xml:id="spp-997-1071-line-29"> But, perhaps, Sir, you did it to fill up the Verse,</l><l n="30" xml:id="spp-997-1071-line-30"> So Crouds in a Concert (like Actors in Farce)</l><l n="31" xml:id="spp-997-1071-line-31"> Play two Parts in one, when Scrapers are scarce.</l><l n="32" xml:id="spp-997-1071-line-32"> But be that as 'twill, you'll know more anon, Sir,</l><l n="33" xml:id="spp-997-1071-line-33"> When <hi rend="underline">Sheridan</hi> sends to <hi rend="underline">merry Dan</hi> Answer.997-1071   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

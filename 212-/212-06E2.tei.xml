@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ad amicum eruditum T<hi rend="SMALL-CAPS">HOMAM</hi> S<hi rend="SMALL-CAPS">HE-<lb/>RIDAN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="212-06E2"><head type="note" n="1" xml:id="spp-212-06E2-headnote-1"><lg n="1" xml:id="spp-212-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-212-06E2-headnote-1-line-group-1-line-1">Scripsit Oct. ann. Dom. 1717.</l></lg></head><head type="note" n="2" xml:id="spp-212-06E2-headnote-2"><lg n="1" xml:id="spp-212-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-212-06E2-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-212-06E2-headnote-3"><lg n="1" xml:id="spp-212-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-212-06E2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-212-06E2-line-1"><hi rend="display-initial">D</hi>Elici<unclear>ae</unclear> Sheridan musarum, dulcis amice,</l><l/><l n="2" xml:id="spp-212-06E2-line-2">Sic tibi propitius Permessi ad flumen Apollo</l><l/><l n="3" xml:id="spp-212-06E2-line-3">Occurrat, seu te mimum convivia rident,</l><l/><l n="4" xml:id="spp-212-06E2-line-4"><unclear>AE</unclear>quivocosque sales spargis, seu ludere versu</l><l/><l n="5" xml:id="spp-212-06E2-line-5">Malles; dic, Sheridan, quisnam fuit ille deorum,</l><l/><l n="6" xml:id="spp-212-06E2-line-6">Qu<unclear>ae</unclear> melior natura orto tibi tradidit artem</l><l/><l n="7" xml:id="spp-212-06E2-line-7">Rimandi genium puerorum, atque ima cerebri</l><l/><l n="8" xml:id="spp-212-06E2-line-8">Scrutandi? Tibi nascenti ad cunabula Pallas</l><l/><l n="9" xml:id="spp-212-06E2-line-9">Astitit; &amp; dixit, mentis pr<unclear>ae</unclear>saga futur<unclear>ae</unclear>,</l><l/><l n="10" xml:id="spp-212-06E2-line-10">Heu, puer infelix! nostro sub sidere natus;</l><l/><l n="11" xml:id="spp-212-06E2-line-11">Nam tu pectus eris sine corpore, corporis umbra;</l><l/><l n="12" xml:id="spp-212-06E2-line-12">Sed levitate umbram superabis, voce cicadam:</l><l/><l n="13" xml:id="spp-212-06E2-line-13"><gap/></l><l/><l n="14" xml:id="spp-212-06E2-line-14">Musca femur, palmas tibi mus dedit, ardea crura.</l><l/><l n="15" xml:id="spp-212-06E2-line-15">Corpore sed tenui tibi quod natura negavit,</l><l/><l n="16" xml:id="spp-212-06E2-line-16">Hoc animi dotes supplebunt; teque docente,</l><l/><l n="17" xml:id="spp-212-06E2-line-17">Nec longum tempus, surget tibi docta juventus,</l><l/><l n="18" xml:id="spp-212-06E2-line-18">Artibus egregiis animas instructa novellas.</l><l/><l n="19" xml:id="spp-212-06E2-line-19"><gap/></l><l/><l n="20" xml:id="spp-212-06E2-line-20">Grex hinc P<unclear>oe</unclear>onius venit, ecce, <hi rend="underline">salutifer</hi> orbi.</l><l/><l n="21" xml:id="spp-212-06E2-line-21">Ast illi causas orant; his infula visa est</l><l/><l n="22" xml:id="spp-212-06E2-line-22">Divinam capiti nodo constringere mitram.</l><l/><l n="23" xml:id="spp-212-06E2-line-23"/></lg><lg n="2" type="stanza"><l>Natalis te hor<unclear>ae</unclear> non fallunt signa, sed usque</l><l/><l n="24" xml:id="spp-212-06E2-line-24">Conscius, expedias puero seu l<unclear>ae</unclear>tus Apollo</l><l/><l n="25" xml:id="spp-212-06E2-line-25">Nascenti arrisit; sive illum frigidus horror</l><l/><l n="26" xml:id="spp-212-06E2-line-26">Saturni premit, aut septem inflavere triones.</l><l/><l n="27" xml:id="spp-212-06E2-line-27"/></lg><lg n="3" type="stanza"><l>Quin tu alte penitusque latentia semina cernis,&#13;</l><l/><l n="28" xml:id="spp-212-06E2-line-28">Qu<unclear>ae</unclear>que diu obtundendo olim sub luminis auras</l><l/><l n="29" xml:id="spp-212-06E2-line-29">Erumpent, promis; quo ritu s<unclear>ae</unclear>pe puella</l><l/><l n="30" xml:id="spp-212-06E2-line-30">Sub cinere hesterno sopitos suscitat ignes.</l><l/><l n="31" xml:id="spp-212-06E2-line-31"/></lg><lg n="4" type="stanza"><l>Te dominum agnoscit quocunque sub aere natus;&#13;</l><l/><l n="32" xml:id="spp-212-06E2-line-32">Quos indulgentis nimium custodia matris</l><l/><l n="33" xml:id="spp-212-06E2-line-33">Pessundat: nam s<unclear>ae</unclear>pe vides in stipite matrem.</l><l/><l n="34" xml:id="spp-212-06E2-line-34"/></lg><lg n="5" type="stanza"><l>Aureus at ramus, venerand<unclear>ae</unclear> dona Sibyll<unclear>ae</unclear>,</l><l/><l n="35" xml:id="spp-212-06E2-line-35"><unclear>AE</unclear>ne<unclear>ae</unclear> sedes tantum patefecit Avernus;</l><l/><l n="36" xml:id="spp-212-06E2-line-36">S<unclear>ae</unclear>pe puer, tua quem tetigit semel aurea virga,</l><l/><l n="37" xml:id="spp-212-06E2-line-37">C<unclear>oe</unclear>lumque terrasque videt, noctemque profundam.</l><l/><l n="38" xml:id="spp-212-06E2-line-38"><gap/></l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

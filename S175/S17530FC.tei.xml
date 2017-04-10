@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An ANSWER</title>
+        <title>TO THE</title>
+        <title>C<hi rend="SMALL-CAPS">HRISTMASS-</hi>B<hi rend="SMALL-CAPS">OX</hi>.</title>
+        <title>in DEFENCE of</title>
+        <title>Doctor <hi rend="underline">D****n****y</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S17530FC" type="poem"><head type="note" n="1" xml:id="spp-S17530FC-headnote-1"><lg n="1" xml:id="spp-S17530FC-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-S17530FC-headnote-1-line-group-1-line-1">By <hi rend="underline">R────t B──────r</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-S17530FC-headnote-2"><lg n="1" xml:id="spp-S17530FC-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-S17530FC-headnote-2-line-group-1-line-1">────────<hi rend="underline">Si, Pergama dextrâ <lb/> Defendi possent, etiam hac defensa fuissent</hi>. <lb/><note rend="flush right">E<hi rend="SMALL-CAPS">N</hi>. 21</note></l></lg></head><head type="note" n="3" xml:id="spp-S17530FC-headnote-3"><lg n="1" xml:id="spp-S17530FC-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-S17530FC-headnote-3-line-group-1-line-1">The same kind Correspondent has been pleased to favour us with the following Copy of Verses, which have been very well received by the Wits of <hi rend="underline">Ireland</hi>.</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-S17530FC-line-1"><hi rend="display-initial">Y</hi>E damnable Dunces, ye Scriblers what mean ye,</l><l n="2" xml:id="spp-S17530FC-line-2"> To fall with your Dogrell on Dr. <hi rend="underline">D──n──y</hi>,</l><l n="3" xml:id="spp-S17530FC-line-3"> Such poor silly Criticks as you, may go whistle,</l><l n="4" xml:id="spp-S17530FC-line-4"> You ne'er can run down his <hi rend="underline">familiar Epistle</hi>;</l><l n="5" xml:id="spp-S17530FC-line-5"> That <hi rend="underline">brilliant</hi> Epistle which glitters and <hi rend="underline">shines</hi>,</l><l n="6" xml:id="spp-S17530FC-line-6"> In Musick, in Number, in Diction, in Lines,</l><l n="7" xml:id="spp-S17530FC-line-7"> In Substance, in Spirit, in Force, and in Wit,</l><l n="8" xml:id="spp-S17530FC-line-8"> In Complements such as AUGUSTUS might fit,</l><l n="9" xml:id="spp-S17530FC-line-9"> Tho' what he has said of his Patron is faint,</l><l n="10" xml:id="spp-S17530FC-line-10"> Nor wonder, since no Man his Virtues can paint;</l><l n="11" xml:id="spp-S17530FC-line-11"> For no Poet ever attempts to express</l><l n="12" xml:id="spp-S17530FC-line-12"> A Man truly great, but he must make him less;</l><l n="13" xml:id="spp-S17530FC-line-13"> Besides he divided, he gave the one half</l><l n="14" xml:id="spp-S17530FC-line-14"> Of all the Encomiums to himself and Sir <hi rend="underline">Ralph</hi>.</l><l n="15" xml:id="spp-S17530FC-line-15"> O! wonderful Prowness of Genius, when he</l><l n="16" xml:id="spp-S17530FC-line-16"> With so little Trouble cou'd complement Three!</l><l n="17" xml:id="spp-S17530FC-line-17"> His Lord and the Speaker shall live in his Poem,</l><l n="18" xml:id="spp-S17530FC-line-18"> Six thousand Years after all Readers shall know 'em,</l><l n="19" xml:id="spp-S17530FC-line-19"> While <hi rend="underline">Pindar</hi>, and <hi rend="underline">Horace</hi>, and <hi rend="underline">Virgil</hi> forgotten,</l><l n="20" xml:id="spp-S17530FC-line-20"> Shall be like their Heroes, sunk, bury'd and rotten,</l><l n="21" xml:id="spp-S17530FC-line-21"> For all other Authors his Writings shall banish,</l><l n="22" xml:id="spp-S17530FC-line-22"> Like Ghosts at the Sight of the Day-light they'll vanish,</l><l n="23" xml:id="spp-S17530FC-line-23"> His glorious Epistle so shining and high,</l><l n="24" xml:id="spp-S17530FC-line-24"> Shall be like his Ph<unclear>oe</unclear>bus, that Lord of the Sky,</l><l n="25" xml:id="spp-S17530FC-line-25"> Who, when on his <hi rend="underline">Chrysolithe</hi> Throne he appears,</l><l n="26" xml:id="spp-S17530FC-line-26"> A Star dare not peep in the Sky for its Ears.</l><l n="27" xml:id="spp-S17530FC-line-27"> Now a Word by the by; for I think it my Duty,</l><l n="28" xml:id="spp-S17530FC-line-28"> Since you're so mistaken to point out each Beauty,</l><l n="29" xml:id="spp-S17530FC-line-29"> Observe with what Judgment he shews this our Isle,</l><l n="30" xml:id="spp-S17530FC-line-30"> A Patron so artful our Cares can beguile;</l><l n="31" xml:id="spp-S17530FC-line-31"> How that very peevish, cross Grumbler the Dean,</l><l n="32" xml:id="spp-S17530FC-line-32"> Does nothing at Court but of Courtiers complain,</l><l n="33" xml:id="spp-S17530FC-line-33"> Such Impudence 'tis, in a Man of his Station,</l><l n="34" xml:id="spp-S17530FC-line-34"> To put in one Word for the Good of the Nation,</l><l n="35" xml:id="spp-S17530FC-line-35"> That he with Submission sits silently List'ning,</l><l n="36" xml:id="spp-S17530FC-line-36"> Like a Clerk when the Person holds forth at a Christ'ning;</l><l n="37" xml:id="spp-S17530FC-line-37"> But ventures at last, like a Man of true Spirit,</l><l n="38" xml:id="spp-S17530FC-line-38"> To cry, out, <hi rend="underline">my Lord, you must know I have Merit,</hi>;</l><l n="39" xml:id="spp-S17530FC-line-39"> Much more than a Thousand, and is it not hard,</l><l n="40" xml:id="spp-S17530FC-line-40"> That Virtue so wond'rous shou'd have no Reward?</l><l n="41" xml:id="spp-S17530FC-line-41"> But a pittiful Pittance, five Hundred a Year,</l><l n="42" xml:id="spp-S17530FC-line-42"> At a Time that our very Potatoes are dear?</l><l n="43" xml:id="spp-S17530FC-line-43"> My Lord, what I tell you is true to a Tittle,</l><l n="44" xml:id="spp-S17530FC-line-44"> Or may I be banish'd from licking your Spittle.</l><l n="45" xml:id="spp-S17530FC-line-45"> Why then, quoth my Lord, since you give me this Trouble,</l><l n="46" xml:id="spp-S17530FC-line-46"> I tell you, in short, you are ev'ry Way double</l><l n="47" xml:id="spp-S17530FC-line-47"> As Poet, as Doctor, as Rector, as Vicar;</l><l n="48" xml:id="spp-S17530FC-line-48"> As Dealer, as Builder, as Planter, as quicker.</l><l n="49" xml:id="spp-S17530FC-line-49"> But if you've a mind to be tripple, rely on,</l><l n="50" xml:id="spp-S17530FC-line-50"> My Word, and I'll make you a second <hi rend="underline">Geryon</hi>.</l><l n="51" xml:id="spp-S17530FC-line-51"> Ye Critick malicious, now read what he says,</l><l n="52" xml:id="spp-S17530FC-line-52"> In those matchless Verses on <hi rend="underline">Fermanagh Ways</hi>,</l><l n="53" xml:id="spp-S17530FC-line-53"> Where all the rough Pebbles are polish'd so fine,</l><l n="54" xml:id="spp-S17530FC-line-54"> Like Emralds they sparkle, like Diamonds they shine;</l><l n="55" xml:id="spp-S17530FC-line-55"> Whoever hereafter that fall on these Stones,</l><l n="56" xml:id="spp-S17530FC-line-56"> Shall think it an Honour to break half his Bones;</l><l n="57" xml:id="spp-S17530FC-line-57"> Now see the Fineness of a true Politician,</l><l n="58" xml:id="spp-S17530FC-line-58"> He'd change for the worse, and he'd thrash like a Priscian,</l><l n="59" xml:id="spp-S17530FC-line-59"> From thumping the Cushion to wake those that nod,</l><l n="60" xml:id="spp-S17530FC-line-60"> Instead of a Sermon he'd brandish a Rod.</l><l n="61" xml:id="spp-S17530FC-line-61"> But <hi rend="underline">Charly</hi> (tho' <hi rend="underline">Charly</hi>) is not such a Tool,</l><l n="62" xml:id="spp-S17530FC-line-62"> To change for more Trouble a Sine-cure School.</l><l n="63" xml:id="spp-S17530FC-line-63"> Four Hundred <hi rend="underline">per Annum</hi>, not one Shilling under,</l><l n="64" xml:id="spp-S17530FC-line-64"> To preach in two Churches twelve long Miles asunder.</l><l n="65" xml:id="spp-S17530FC-line-65"> And wade it a Horseback in Dirt to the Knee,</l><l n="66" xml:id="spp-S17530FC-line-66"> When <hi rend="underline">Paddy</hi> can better wade thro' it than he.</l><l n="67" xml:id="spp-S17530FC-line-67"> Observe his Address, with what artful Submission,</l><l n="68" xml:id="spp-S17530FC-line-68"> He tells his rich Patron, his grievous Condition.</l><l n="69" xml:id="spp-S17530FC-line-69"> Quite ruin'd, and Bankrupt, reduc'd to a Farthing,</l><l n="70" xml:id="spp-S17530FC-line-70"> By making too much of a very small Garden,</l><l n="71" xml:id="spp-S17530FC-line-71"> By squand'ring his Money in Dribs to the Poor,</l><l n="72" xml:id="spp-S17530FC-line-72"> He's ready to leave the Key under the Door,</l><l n="73" xml:id="spp-S17530FC-line-73"> And grieves that his Patron has so much to give,</l><l n="74" xml:id="spp-S17530FC-line-74"> While he (more's the Pity, is shifting to live.)</l><l n="75" xml:id="spp-S17530FC-line-75"> Again, he sollicits in Manner most nice,</l><l n="76" xml:id="spp-S17530FC-line-76"> By another more subtle and cunning Device,</l><l n="77" xml:id="spp-S17530FC-line-77"> Because he has heard that his Patron's well read,</l><l n="78" xml:id="spp-S17530FC-line-78"> He lays by his Belly and begs for his Head;</l><l n="79" xml:id="spp-S17530FC-line-79"> For writing three Riddles had cost him such Pains,</l><l n="80" xml:id="spp-S17530FC-line-80"> That he scarce had remaining three Scruples of Brains,</l><l n="81" xml:id="spp-S17530FC-line-81"> For want of some Money he's quite off the Hooks,</l><l n="82" xml:id="spp-S17530FC-line-82"> To pay off old Scores and to buy him new Books,</l><l n="83" xml:id="spp-S17530FC-line-83"> To rebuild a House that he pull'd down already,</l><l n="84" xml:id="spp-S17530FC-line-84"> And to buy a fine Ribband to give a fine Lady.</l><l n="85" xml:id="spp-S17530FC-line-85"> These are but a few, that I chose from the rest,</l><l n="86" xml:id="spp-S17530FC-line-86"> Tho' not one Thought in it but can stand the Test.</l><l n="87" xml:id="spp-S17530FC-line-87"> Nay more I will venture to swear it surpasses,</l><l n="88" xml:id="spp-S17530FC-line-88"> All Poems that ever were hatch'd at <hi rend="underline">Parnassus</hi>.<gap/><gap/><gap/><gap/>S17530FC   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

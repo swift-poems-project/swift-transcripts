@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CXXVII. LORD THARLEY.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CCalella"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="140-04B1" type="poem"><head type="note" n="1" xml:id="spp-140-04B1-headnote-1"><lg n="1" xml:id="spp-140-04B1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-140-04B1-headnote-1-line-group-1-line-1">Swift wrote four lines extempore with his penicl in the Lord Treasurer's house when he lay wounded. They were inscribed to his physicians: thus,</l></lg></head><head type="note" n="2" xml:id="spp-140-04B1-headnote-2"><lg n="1" xml:id="spp-140-04B1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-140-04B1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-140-04B1-headnote-3"><lg n="1" xml:id="spp-140-04B1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-140-04B1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-140-04B1-line-1"> “On Britain, Europe's safety lies;&#13;</l><l n="2" xml:id="spp-140-04B1-line-2"> Britain is lost if Harley dies:</l><l n="3" xml:id="spp-140-04B1-line-3"> Harley depends upon your skill:</l><l n="4" xml:id="spp-140-04B1-line-4"> Think what you save, or what you kill.”140-04B1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

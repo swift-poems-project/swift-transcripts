@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">A</hi> CRAMBO <hi rend="underline">on</hi> B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>,</title>
+        <title><hi rend="underline">a Place in</hi> I<hi rend="SMALL-CAPS">RELAND</hi>, <hi rend="underline">fam'd for its</hi></title>
+        <title>M<hi rend="SMALL-CAPS">INERAL </hi>W<hi rend="SMALL-CAPS">ATERS</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="438-31L3" type="poem"><head type="note" n="1" xml:id="spp-438-31L3-headnote-1"><lg n="1" xml:id="spp-438-31L3-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-438-31L3-headnote-1-line-group-1-line-1"><hi rend="underline">To the tune of</hi> S<hi rend="SMALL-CAPS">ALLY</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-438-31L3-headnote-2"><lg n="1" xml:id="spp-438-31L3-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-438-31L3-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-438-31L3-headnote-3"><lg n="1" xml:id="spp-438-31L3-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-438-31L3-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-438-31L3-line-1"><hi rend="display-initial">A</hi>LL you that wou'dRefine your blood,</l><l n="2" xml:id="spp-438-31L3-line-2"> As pure as fam'd L<hi rend="SMALL-CAPS">UELLIN</hi>,By waters clear,Come once a year</l><l n="3" xml:id="spp-438-31L3-line-3"> To drink at B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.</l></lg><lg n="2" type="stanza"><l n="4" xml:id="spp-438-31L3-line-4">If pox or itch&#13;Your skins inrich</l><l n="5" xml:id="spp-438-31L3-line-5"> With rubics past the telling,'Twill cure your skinBefore you've been</l><l n="6" xml:id="spp-438-31L3-line-6"> A month at B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.</l></lg><lg n="3" type="stanza"><l n="7" xml:id="spp-438-31L3-line-7">If lady's cheek&#13;Be green as leek</l><l n="8" xml:id="spp-438-31L3-line-8"> When she comes from her dwelling,The kindling roseWithin it blows</l><l n="9" xml:id="spp-438-31L3-line-9"> When she's at B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-438-31L3-line-10">T<hi rend="SMALL-CAPS">HE</hi> sooty brownThat comes from town,</l><l n="11" xml:id="spp-438-31L3-line-11"> Grows here as fair as H<hi rend="SMALL-CAPS">ELLEN</hi>;Then back she goesTo kill the beaux,</l><l n="12" xml:id="spp-438-31L3-line-12"> By dint of B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.</l></lg><lg n="5" type="stanza"><l n="13" xml:id="spp-438-31L3-line-13">A<hi rend="SMALL-CAPS">LL</hi> ladies hereAre fresh and fair</l><l n="14" xml:id="spp-438-31L3-line-14"> As R<hi rend="SMALL-CAPS">OSS</hi>, or bright D<hi rend="SMALL-CAPS">UNKELLIN</hi>;And M<hi rend="SMALL-CAPS">ARS</hi> might makeA fair mistake</l><l n="15" xml:id="spp-438-31L3-line-15"> Were he at B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.</l></lg><lg n="6" type="stanza"><l n="16" xml:id="spp-438-31L3-line-16">W<hi rend="SMALL-CAPS">E</hi> men submit,As they think fit.</l><l n="17" xml:id="spp-438-31L3-line-17"> And here is no rebelling;The reason's plain,The ladies reign,</l><l n="18" xml:id="spp-438-31L3-line-18"> They're queens at B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.</l></lg><lg n="7" type="stanza"><l n="19" xml:id="spp-438-31L3-line-19">B<hi rend="SMALL-CAPS">Y</hi> matchless charms,Unconquer'd arms,</l><l n="20" xml:id="spp-438-31L3-line-20"> They have the power of quellingSuch desperate foesAs dare oppose</l><l n="21" xml:id="spp-438-31L3-line-21"> Their power at B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.</l></lg><lg n="8" type="stanza"><l n="22" xml:id="spp-438-31L3-line-22">C<hi rend="SMALL-CAPS">OLD</hi> water turnsTo fire, and burns,</l><l n="23" xml:id="spp-438-31L3-line-23"> I know, because I fell inA stream which cameFrom one bright dame,</l><l n="24" xml:id="spp-438-31L3-line-24"> Who drank at B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.</l></lg><lg n="9" type="stanza"><l n="25" xml:id="spp-438-31L3-line-25">F<hi rend="SMALL-CAPS">INE</hi> beaux advance,Equipt for dance,</l><l n="26" xml:id="spp-438-31L3-line-26"> And bring their A<hi rend="SMALL-CAPS">NN</hi> or N<hi rend="SMALL-CAPS">ELL</hi> in,With so much grace,I'm sure no place</l><l n="27" xml:id="spp-438-31L3-line-27"> Can vie with B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.</l></lg><lg n="10" type="stanza"><l n="28" xml:id="spp-438-31L3-line-28">N<hi rend="SMALL-CAPS">O</hi> politicks,No subtle tricks,</l><l n="29" xml:id="spp-438-31L3-line-29"> No man his country selling;We eat, we drink,We never think</l><l n="30" xml:id="spp-438-31L3-line-30"> Of these at B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.</l></lg><lg n="11" type="stanza"><l n="31" xml:id="spp-438-31L3-line-31">T<hi rend="SMALL-CAPS">HE</hi> troubl'd in mind,The puff'd with wind,</l><l n="32" xml:id="spp-438-31L3-line-32"> Do all come here pell-mell in;And they are sureTo work their cure</l><l n="33" xml:id="spp-438-31L3-line-33"> By drinking B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.</l></lg><lg n="12" type="stanza"><l n="34" xml:id="spp-438-31L3-line-34">I<hi rend="SMALL-CAPS">F</hi> dropsy fillsYou to the gills,</l><l n="35" xml:id="spp-438-31L3-line-35"> From top to toe tho' swelling,Pour in, pour out,You'll find, no doubt,</l><l n="36" xml:id="spp-438-31L3-line-36"> A cure at B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.</l></lg><lg n="13" type="stanza"><l n="37" xml:id="spp-438-31L3-line-37">T<hi rend="SMALL-CAPS">HRO'</hi> all these partsDeath throws no darts,</l><l n="38" xml:id="spp-438-31L3-line-38"> No sexton's here a knelling;Come, judge and try,You'll never die,</l><l n="39" xml:id="spp-438-31L3-line-39"> But live at B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.</l></lg><lg n="14" type="stanza"><l n="40" xml:id="spp-438-31L3-line-40">E<hi rend="SMALL-CAPS">XCEPT</hi> you feelDarts tipt with steel,</l><l n="41" xml:id="spp-438-31L3-line-41"> Which here are every <hi rend="underline">belle</hi> in,When from their eyesSweet ruin flies,</l><l n="42" xml:id="spp-438-31L3-line-42"> We die at B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.</l></lg><lg n="15" type="stanza"><l n="43" xml:id="spp-438-31L3-line-43">G<hi rend="SMALL-CAPS">OOD</hi> cheer, sweet air,Much joy, no care,</l><l n="44" xml:id="spp-438-31L3-line-44"> Your taste, your sight, your smelling,Your eyes, your touch,Transported much</l><l n="45" xml:id="spp-438-31L3-line-45"> Each day at B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.</l></lg><lg n="16" type="stanza"><l n="46" xml:id="spp-438-31L3-line-46">W<hi rend="SMALL-CAPS">ITHIN</hi> this ground,All folks sleep sound;</l><l n="47" xml:id="spp-438-31L3-line-47"> No noisy dogs a yelling,Except you wake,For C<hi rend="SMALL-CAPS"><unclear>AE</unclear>LIA</hi>'s sake,</l><l n="48" xml:id="spp-438-31L3-line-48"> All night at B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.</l></lg><lg n="17" type="stanza"><l n="49" xml:id="spp-438-31L3-line-49">H<hi rend="SMALL-CAPS">ERE</hi> all you see,Both he and she,</l><l n="50" xml:id="spp-438-31L3-line-50"> No lady keeps her cell in;But all partake,The mirth we make,</l><l n="51" xml:id="spp-438-31L3-line-51"> Who drink at B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.</l></lg><lg n="18" type="stanza"><l n="52" xml:id="spp-438-31L3-line-52">M<hi rend="SMALL-CAPS">Y</hi> rhimes are gone,I think I've none,</l><l n="53" xml:id="spp-438-31L3-line-53"> Except I should bring hell in;But since I'm hereTo heaven so near,</l><l n="54" xml:id="spp-438-31L3-line-54"> I can't at B<hi rend="SMALL-CAPS">ALLYSPELLIN</hi>.438-31L3   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On a Storm,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="302-020B" type="poem"><head type="note" n="1" xml:id="spp-302-020B-headnote-1"><lg n="1" xml:id="spp-302-020B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-302-020B-headnote-1-line-group-1-line-1">by the Same. \<hi rend="underline">meaning Swift and written on the same line as the title</hi>\</l></lg></head><head type="note" n="2" xml:id="spp-302-020B-headnote-2"><lg n="1" xml:id="spp-302-020B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-302-020B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-302-020B-headnote-3"><lg n="1" xml:id="spp-302-020B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-302-020B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-302-020B-line-1"> Pallas a Goddess Chast &amp; Wise&#13;</l><l n="2" xml:id="spp-302-020B-line-2"> Descending lately from the Skyes</l><l n="3" xml:id="spp-302-020B-line-3"> To Neptune went &amp; and begg'd in form</l><l n="4" xml:id="spp-302-020B-line-4"> He'd give his Orders for a Storm</l><l n="5" xml:id="spp-302-020B-line-5"> A Storm to drown that Rascal ----</l><l n="6" xml:id="spp-302-020B-line-6"> And She wou'd kindly thank him for't</l><l n="7" xml:id="spp-302-020B-line-7"> The Wretch whom Irish knaves to Spite her</l><l n="8" xml:id="spp-302-020B-line-8"> Had lately honour'd with a Miter</l><l n="9" xml:id="spp-302-020B-line-9"> The God who favour'd her request</l><l n="10" xml:id="spp-302-020B-line-10"> Assur'd her he had done his best</l><l n="11" xml:id="spp-302-020B-line-11"> But Venus had been there before</l><l n="12" xml:id="spp-302-020B-line-12"> Pleaded the Bishop lov'd a Whore</l><l n="13" xml:id="spp-302-020B-line-13"> And had Inlarg'd her Empire wide</l><l n="14" xml:id="spp-302-020B-line-14"> He own'd no Deity beside</l><l n="15" xml:id="spp-302-020B-line-15"> Att Sea or Land if e're You found him</l><l n="16" xml:id="spp-302-020B-line-16"> Without a Mistress hang or drown him</l><l n="17" xml:id="spp-302-020B-line-17"> Since Burnett's death the Bishop's Bench</l><l n="18" xml:id="spp-302-020B-line-18"> Till ---- arriv'd n'ere kept a Wench</l><l n="19" xml:id="spp-302-020B-line-19"> If ---- must Sink She grieves to tell it</l><l n="20" xml:id="spp-302-020B-line-20"> She'll not have left one Single Prelate</l><l n="21" xml:id="spp-302-020B-line-21"> And She must own She did Intend him</l><l n="22" xml:id="spp-302-020B-line-22"> Elect for Cyprus in Comendam</l><l n="23" xml:id="spp-302-020B-line-23"> And since her Birth the Ocean gave her</l><l n="24" xml:id="spp-302-020B-line-24"> She Cou'd not doubt her uncle's favour</l><l n="25" xml:id="spp-302-020B-line-25"> Then Proteus made the Same request</l><l n="26" xml:id="spp-302-020B-line-26"> But halfe in earnest halfe in jest</l><l n="27" xml:id="spp-302-020B-line-27"> Said he, Great Sover'gn of the main,</l><l n="28" xml:id="spp-302-020B-line-28"> To drown him all attempts are Vain</l><l n="29" xml:id="spp-302-020B-line-29"> ---- Can assume more Shapes than I</l><l n="30" xml:id="spp-302-020B-line-30"> A Rake, a Bully, Pimp or Spy,</l><l n="31" xml:id="spp-302-020B-line-31"> Can run, or Creep, or fly, or Swim,</l><l n="32" xml:id="spp-302-020B-line-32"> All motions are alike to him</l><l n="33" xml:id="spp-302-020B-line-33"> Turn him adrift and You Shall find</l><l n="34" xml:id="spp-302-020B-line-34"> He knows to Sail with every Wind</l><l n="35" xml:id="spp-302-020B-line-35"> Or throw him over·board he'll ride</l><l n="36" xml:id="spp-302-020B-line-36"> As well against as with the tide</l><l n="37" xml:id="spp-302-020B-line-37"> And Pallas You apply too Late</l><l n="38" xml:id="spp-302-020B-line-38"> For 'tis decreed by Iove and Fate</l><l n="39" xml:id="spp-302-020B-line-39"> That Ireland must be Soon destroy'd</l><l n="40" xml:id="spp-302-020B-line-40"> Then who but ---- Shou'd <unclear>insbe</unclear> employ'd</l><l n="41" xml:id="spp-302-020B-line-41"> You need not therefore be So pert</l><l n="42" xml:id="spp-302-020B-line-42"> Att Sending Bolton to Clonfert</l><l n="43" xml:id="spp-302-020B-line-43"> I find You did it by Your grinning</l><l n="44" xml:id="spp-302-020B-line-44"> Your business is to mind your Spinning<gap/><gap/></l><l n="45" xml:id="spp-302-020B-line-45"> Or who regarded Your Report</l><l n="46" xml:id="spp-302-020B-line-46"> For never were You seen att Court</l><l n="47" xml:id="spp-302-020B-line-47"> But if You must have your petition</l><l n="48" xml:id="spp-302-020B-line-48"> Here's Berkly in the Same Condition</l><l n="49" xml:id="spp-302-020B-line-49"> Look there he Stands &amp; 'tis but just</l><l n="50" xml:id="spp-302-020B-line-50"> If ---- Shall drown the Doctor must</l><l n="51" xml:id="spp-302-020B-line-51"> But if You leave us Bishop Iudas</l><l n="52" xml:id="spp-302-020B-line-52"> We'll give You Berkly for Barmudas</l><l n="53" xml:id="spp-302-020B-line-53"> Or if 'twill gratify your Spite</l><l n="54" xml:id="spp-302-020B-line-54"> To put him in a plaguy fright</l><l n="55" xml:id="spp-302-020B-line-55"> Althô 'twill hardly quitt the Cost</l><l n="56" xml:id="spp-302-020B-line-56"> You Soon Shall See him Soundly Tost</l><l n="57" xml:id="spp-302-020B-line-57"> You'll find him Swear, blaspheme &amp; Damn</l><l n="58" xml:id="spp-302-020B-line-58"> And ev'ry moment take a Dram</l><l n="59" xml:id="spp-302-020B-line-59"> His ghastly Visage with an Air</l><l n="60" xml:id="spp-302-020B-line-60"> Of reprobation and Despair</l><l n="61" xml:id="spp-302-020B-line-61"> Or when Some hiding hole he Seeks</l><l n="62" xml:id="spp-302-020B-line-62"> For fear the rest Should Say he Squeeks</l><l n="63" xml:id="spp-302-020B-line-63"> Or as Fitzpatrick did before</l><l n="64" xml:id="spp-302-020B-line-64"> Resolv'd to perish with his Whore</l><l n="65" xml:id="spp-302-020B-line-65"> Or when he roars, and raves, &amp; Stares</l><l n="66" xml:id="spp-302-020B-line-66"> And but for Shame wou'd say his Prayers</l><l n="67" xml:id="spp-302-020B-line-67"> Or wou'd You See his Spirits Sink</l><l n="68" xml:id="spp-302-020B-line-68"> Refluxing downwards in a Stink</l><l n="69" xml:id="spp-302-020B-line-69"> If Such a Scene as this can please You</l><l n="70" xml:id="spp-302-020B-line-70"> Good Madam Pallas pray be Easy</l><l n="71" xml:id="spp-302-020B-line-71"> Let Neptune Speak and I'll Consent</l><l n="72" xml:id="spp-302-020B-line-72"> But he'll Come back y<hi rend="sup">e</hi>─rogue he went</l><l n="73" xml:id="spp-302-020B-line-73"> The Goddess who Conceiv'd a Hope</l><l n="74" xml:id="spp-302-020B-line-74"> That ---- was destin'd for a Rope</l><l n="75" xml:id="spp-302-020B-line-75"> Believ'd it best to Condescend</l><l n="76" xml:id="spp-302-020B-line-76"> And <unclear>insSpare</unclear> a foe to Save a Friend</l><l n="77" xml:id="spp-302-020B-line-77"> Yet fearing Berkly might be Scar'd</l><l n="78" xml:id="spp-302-020B-line-78"> She left him Vertue for his Guard.302-020B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

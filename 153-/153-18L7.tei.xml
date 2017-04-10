@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>FABLE of the WIDOW and her CAT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="153-18L7" type="poem"><head type="note" n="1" xml:id="spp-153-18L7-headnote-1"><lg n="1" xml:id="spp-153-18L7-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-153-18L7-headnote-1-line-group-1-line-1">The Muses were also call'd in to bear a Part in the Triumph of the Duke's Adversaries: And one of the Writers of the <hi rend="underline">Examiner</hi>, who had constantly pursu'd the Duke with merciless Fury, and profligate Malice, did on this Occasion, publish the following <hi rend="underline">FABLE of the WIDOW and her CAT</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-153-18L7-headnote-2"><lg n="1" xml:id="spp-153-18L7-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-153-18L7-headnote-2-line-group-1-line-1"><hi rend="underline">Satyrical Verses publish'd against the D. of</hi> Marlborough.</l></lg></head><head type="note" n="3" xml:id="spp-153-18L7-headnote-3"><lg n="1" xml:id="spp-153-18L7-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-153-18L7-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-153-18L7-line-1"> I. <hi rend="display-initial">A</hi><hi rend="underline"> Widow</hi> kept a Favourite Cat,At first a gentle Creature;</l><l n="2" xml:id="spp-153-18L7-line-2"> But when he was grown sleek and fat,</l><l n="3" xml:id="spp-153-18L7-line-3"> With many a Mouse, and many a Rat,He soon disclos'd his Nature.</l><l n="4" xml:id="spp-153-18L7-line-4"> II. The <hi rend="underline">Fox</hi> and he were Friends of old,Nor cou'd they now be parted;</l><l n="5" xml:id="spp-153-18L7-line-5"> They nightly slunk to rob the Fold,</l><l n="6" xml:id="spp-153-18L7-line-6"> Devour'd the Lambs, the Fleeces sold,And <hi rend="underline">Puss</hi> grew Lion-hearted.</l><l n="7" xml:id="spp-153-18L7-line-7"> III. He scratch'd her Maid, he stole the Cream.He tore her best lac'd Pinner;</l><l n="8" xml:id="spp-153-18L7-line-8"> Nor Chanticleer upon the Beam,</l><l n="9" xml:id="spp-153-18L7-line-9"> Nor Chick, nor Duckling 'scapes, when <hi rend="underline">Grim</hi>Invites the <hi rend="underline">Fox</hi> to Dinner.</l><l n="10" xml:id="spp-153-18L7-line-10"> IV. The Dame full wisely did decree,For Fear he should dispatch more,</l><l n="11" xml:id="spp-153-18L7-line-11"> That the false Wretch should worry'd be:</l><l n="12" xml:id="spp-153-18L7-line-12"> But in a sawcy Manner heThus speech'd it like a <hi rend="underline">Lechmere</hi>.</l></lg><lg n="2" type="stanza"><l n="13" xml:id="spp-153-18L7-line-13" rend="indent(1)">V. <hi rend="underline">Must I, against all Right and Law,Like Pole-Cat vile be treated?</hi>──────Stay,</l><l n="14" xml:id="spp-153-18L7-line-14"> I! who so long with Tooth and Claw</l><l n="15" xml:id="spp-153-18L7-line-15"> Have kept domestick Mice in Awe,And Foreign Foes defeated!</l><l n="16" xml:id="spp-153-18L7-line-16"> VI. Your Golden Pippins, and your Pies,How oft have I defended?</l><l n="17" xml:id="spp-153-18L7-line-17"> 'Tis true, the Pinner which you prize</l><l n="18" xml:id="spp-153-18L7-line-18"> I tore in Frolick; to your EyesI never Harm intended.</l><l n="19" xml:id="spp-153-18L7-line-19"> VII. I am a Cat of Honour</l></lg><lg n="3" type="stanza"><l n="20" xml:id="spp-153-18L7-line-20">Quo' she, no longer parly;&#13;</l><l n="21" xml:id="spp-153-18L7-line-21"> Whate'er you did in Battle slay,</l><l n="22" xml:id="spp-153-18L7-line-22"> By Law of Arms became your Prey.I hope you won it fairly.</l><l n="23" xml:id="spp-153-18L7-line-23"> VIII. Of this we'll grant you stand acquit,But not of your Outrage:</l><l n="24" xml:id="spp-153-18L7-line-24"> Tell me, Perfidious! Was it fit,</l><l n="25" xml:id="spp-153-18L7-line-25"> To make my Cream a <hi rend="underline">PERQUISITE</hi>,And steal to mend your Wages?</l><l n="26" xml:id="spp-153-18L7-line-26"> IX So flagrant is thy Insolence,So vile thy Breach of Trust is,</l><l n="27" xml:id="spp-153-18L7-line-27"> That longer with thee to dispense,</l><l n="28" xml:id="spp-153-18L7-line-28"> Were Want of Pow'r, or Want of Sense:Here, <hi rend="underline">Towzer</hi>!────Do him Justice.153-18L7   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

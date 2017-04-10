@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>NEWS FROM PARNASSUS.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-267-14W2-footnote-1 #spp-267-14W2-line-14"/>
+          <link target="#spp-267-14W2-footnote-2 #spp-267-14W2-line-33"/>
+          <link target="#spp-267-14W2-footnote-3 #spp-267-14W2-line-42"/>
+          <link target="#spp-267-14W2-footnote-4 #spp-267-14W2-line-50"/>
+        </linkGrp>
+        <div n="267-14W2" type="poem"><head type="note" n="1" xml:id="spp-267-14W2-headnote-1"><lg n="1" xml:id="spp-267-14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-267-14W2-headnote-1-line-group-1-line-1">BY DR DELANY.</l></lg></head><head type="note" n="2" xml:id="spp-267-14W2-headnote-2"><lg n="1" xml:id="spp-267-14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-267-14W2-headnote-2-line-group-1-line-1">OCCASIONED BY “APOLLO TO THE DEAN.”</l></lg></head><head type="note" n="3" xml:id="spp-267-14W2-headnote-3"><lg n="1" xml:id="spp-267-14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-267-14W2-headnote-3-line-group-1-line-1">1720.</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-267-14W2-line-1"> P<hi rend="SMALL-CAPS">ARNASSUS</hi>, February the twenty-seventh.</l><l n="2" xml:id="spp-267-14W2-line-2"> The poets assembled here on the eleventh,</l><l n="3" xml:id="spp-267-14W2-line-3"> Convened by Apollo, who gave them to know,</l><l n="4" xml:id="spp-267-14W2-line-4"> He'd have a vicegerent in his empire below;</l><l n="5" xml:id="spp-267-14W2-line-5"> But declared that no bard should this honour inherit,</l><l n="6" xml:id="spp-267-14W2-line-6"> Till the rest had agreed he surpass'd them in merit:</l><l n="7" xml:id="spp-267-14W2-line-7"> Now this, you'll allow, was a difficult case,</l><l n="8" xml:id="spp-267-14W2-line-8"> For each bard believed he'd a right to the place;</l><l n="9" xml:id="spp-267-14W2-line-9"> So, finding the assembly grow warm in debate,</l><l n="10" xml:id="spp-267-14W2-line-10"> He put them in mind of his Phaeton's fate:</l><l n="11" xml:id="spp-267-14W2-line-11"> 'Twas urged to no purpose; disputes higher rose,</l><l n="12" xml:id="spp-267-14W2-line-12"> Scarce Ph<unclear>oe</unclear>bus himself could their quarrels compose;</l><l n="13" xml:id="spp-267-14W2-line-13"> Till at length he determined that every bard</l><l n="14" xml:id="spp-267-14W2-line-14"> Should (each in his turn) be patiently heard.First, one who believed he excell'd in translation,<ref target="#spp-267-14W2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-267-14W2-footnote-1">Dr Trapp, of whom Swift talks contemptuously in his Journal.</note></l><l n="15" xml:id="spp-267-14W2-line-15"> Founds his claim on the doctrine of man's transmigration:</l><l n="16" xml:id="spp-267-14W2-line-16"> “Since the soul of great Milton was given to me,</l><l n="17" xml:id="spp-267-14W2-line-17"> I hope the convention will quickly agree.”──</l><l n="18" xml:id="spp-267-14W2-line-18"> “Agree!” quoth Apollo: “from whence is this fool?</l><l n="19" xml:id="spp-267-14W2-line-19"> Is he just come from reading Pythagoras at school?</l><l n="20" xml:id="spp-267-14W2-line-20"> Begone, sir, you've got your subscriptions in time,</l><l n="21" xml:id="spp-267-14W2-line-21"> And given in return neither reason nor rhyme.”</l><l n="22" xml:id="spp-267-14W2-line-22"> To the next says the God, “Though now I won't choose you,</l><l n="23" xml:id="spp-267-14W2-line-23"> I'll tell you the reason for which I refuse you:</l><l n="24" xml:id="spp-267-14W2-line-24"> Love's Goddess has oft to her parents complain'd,</l><l n="25" xml:id="spp-267-14W2-line-25"> Of my favouring a bard who her empire disdain'd;</l><l n="26" xml:id="spp-267-14W2-line-26"> That at my instigation, a poem you writ,</l><l n="27" xml:id="spp-267-14W2-line-27"> Which to beauty and youth prefer'd judgment and wit;</l><l n="28" xml:id="spp-267-14W2-line-28"> That, to make you a Laureat, I gave the first voice,</l><l n="29" xml:id="spp-267-14W2-line-29"> Inspiring the Britons t'approve of my choice.</l><l n="30" xml:id="spp-267-14W2-line-30"> Jove sent her to me, her power to try;</l><l n="31" xml:id="spp-267-14W2-line-31"> The Goddess of Beauty what God can deny?</l><l n="32" xml:id="spp-267-14W2-line-32"> She forbids your preferment; I grant her desire.</l><l n="33" xml:id="spp-267-14W2-line-33"> Appease the fair Goddess: you then may rise higher.”The next <ref target="#spp-267-14W2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-267-14W2-footnote-2">Mr Prior.──N.</note> that appear'd had good hopes of succeeding,</l><l n="34" xml:id="spp-267-14W2-line-34"> For he merited much for his wit and his breeding.</l><l n="35" xml:id="spp-267-14W2-line-35"> 'Twas wise in the Britons no favour to shew him.</l><l n="36" xml:id="spp-267-14W2-line-36"> He else might expect they should pay what they owe him.</l><l n="37" xml:id="spp-267-14W2-line-37"> And therefore they prudently chose to discard</l><l n="38" xml:id="spp-267-14W2-line-38"> The Patriot, whose merits they would not reward:</l><l n="39" xml:id="spp-267-14W2-line-39"> The God, with a smile, bade his favourite advance,</l><l n="40" xml:id="spp-267-14W2-line-40"> “You were sent by Astr<unclear>ae</unclear>a her envoy to France:</l><l n="41" xml:id="spp-267-14W2-line-41"> You bend your ambition to rise in the state;</l><l n="42" xml:id="spp-267-14W2-line-42"> I refuse you, because you could stoop to be great.”Then a bard who had been a successful translator,<ref target="#spp-267-14W2-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-267-14W2-footnote-3">Mr Pope was probably here meant.──N.</note></l><l n="43" xml:id="spp-267-14W2-line-43"> “The convention allows me a versificator.”</l><l n="44" xml:id="spp-267-14W2-line-44"> Says Apollo, “You mention the least of your merit;</l><l n="45" xml:id="spp-267-14W2-line-45"> By your works, it appears you have much of my spirit.</l><l n="46" xml:id="spp-267-14W2-line-46"> I esteem you so well, that, to tell you the truth,</l><l n="47" xml:id="spp-267-14W2-line-47"> The greatest objection against you's your youth;</l><l n="48" xml:id="spp-267-14W2-line-48"> Then be not concern'd you are now laid aside;</l><l n="49" xml:id="spp-267-14W2-line-49"> If you live you shall certainly one day preside.”Another, low bending, Apollo thus greets,</l><l n="50" xml:id="spp-267-14W2-line-50"> “'Twas I taught your subjects to walk through the streets.”<ref target="#spp-267-14W2-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-267-14W2-footnote-4">Mr Gay; alluding to his “Trivia.”──N.</note></l><l n="51" xml:id="spp-267-14W2-line-51"> “You taught them to walk! why, they knew it before;</l><l n="52" xml:id="spp-267-14W2-line-52"> But give me the bard that can teach them to soar.</l><l n="53" xml:id="spp-267-14W2-line-53"> Whenever he claims, 'tis his right, I'll confess,</l><l n="54" xml:id="spp-267-14W2-line-54"> Who lately attempted my style with success;</l><l n="55" xml:id="spp-267-14W2-line-55"> Who writes like Apollo has most of his spirit,</l><l n="56" xml:id="spp-267-14W2-line-56"> And therefore 'tis just I distinguish his merit:</l><l n="57" xml:id="spp-267-14W2-line-57"> Who makes it appear, by all he has writ,</l><l n="58" xml:id="spp-267-14W2-line-58"> His judgment alone can set bounds to his wit;</l><l n="59" xml:id="spp-267-14W2-line-59"> Like Virgil correct, with his own native ease,</l><l n="60" xml:id="spp-267-14W2-line-60"> But excels even Virgil in elegant praise:</l><l n="61" xml:id="spp-267-14W2-line-61"> Who admires the ancients, and knows 'tis their due,</l><l n="62" xml:id="spp-267-14W2-line-62"> Yet writes in a manner entirely new;</l><l n="63" xml:id="spp-267-14W2-line-63"> Though none with more ease their depths can explore,</l><l n="64" xml:id="spp-267-14W2-line-64"> Yet whatever he wants he takes from my store;</l><l n="65" xml:id="spp-267-14W2-line-65"> Though I'm fond of his virtues, his pride I can see,</l><l n="66" xml:id="spp-267-14W2-line-66"> In scorning to borrow from any but me:</l><l n="67" xml:id="spp-267-14W2-line-67"> It is owing to this, that, like Cynthia, his lays</l><l n="68" xml:id="spp-267-14W2-line-68"> Enlighten the world by reflecting my rays.”</l><l n="69" xml:id="spp-267-14W2-line-69"> This said, the whole audience soon found out his drift:</l><l n="70" xml:id="spp-267-14W2-line-70"> The convention was summon'd in favour of S<hi rend="SMALL-CAPS">WIFT</hi>.267-14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

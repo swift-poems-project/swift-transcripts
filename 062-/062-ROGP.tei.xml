@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">The Discovery</hi>
+        </title>
+        <title>HNl</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="062-ROGP" type="poem"><head type="note" n="1" xml:id="spp-062-ROGP-headnote-1"><lg n="1" xml:id="spp-062-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-062-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-062-ROGP-headnote-2"><lg n="1" xml:id="spp-062-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-062-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-062-ROGP-headnote-3"><lg n="1" xml:id="spp-062-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-062-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-062-ROGP-line-1"> When wise Lord Berkeley first came here,&#13;We Irish folks expected wonders,</l><l n="2" xml:id="spp-062-ROGP-line-2"> Nor thought to find so great a peerE'er a week passed committing blunders:</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-062-ROGP-line-3">Till on a day cut out by fate,&#13;When folks came thick to make their court,</l><l n="4" xml:id="spp-062-ROGP-line-4"> Out slipped a mystery of stateTo give the town and country sport.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-062-ROGP-line-5">Now enter Bushe with new state-airs,&#13;His Lordship's premier ministre,</l><l n="6" xml:id="spp-062-ROGP-line-6"> And who in all profound affairsIs held as needful as his clyster.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-062-ROGP-line-7">With head reclining on his shoulder,&#13;He deals and hears mysterious chat,</l><l n="8" xml:id="spp-062-ROGP-line-8"> While every ignorant beholderAsks of his neighbour, 'Who is that?'</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-062-ROGP-line-9">With this he put up to my Lord,&#13;The courtiers kept their distance due,</l><l n="10" xml:id="spp-062-ROGP-line-10"> He twitched his sleeve, and stole a word,Then to a corner both withdrew.</l></lg><lg n="6" type="stanza"><l n="11" xml:id="spp-062-ROGP-line-11">Imagine now my lord and Bushe&#13;Whispering in junto most profound,</l><l n="12" xml:id="spp-062-ROGP-line-12"> Like good King Phiz and good King Ush,While all the rest stood gaping round.</l></lg><lg n="7" type="stanza"><l n="13" xml:id="spp-062-ROGP-line-13">At length, a spark not too well bred,&#13;Of forward face, and ear acute,</l><l n="14" xml:id="spp-062-ROGP-line-14"> Advanced on tiptoe, leaned his headTo overhear the grand dispute.</l></lg><lg n="8" type="stanza"><l n="15" xml:id="spp-062-ROGP-line-15">To learn what northern kings design,&#13;Or from Whitehall some new express,</l><l n="16" xml:id="spp-062-ROGP-line-16"> Papists disarmed, or fall of coin,For sure (thought he) it can't be less.</l></lg><lg n="9" type="stanza"><l n="17" xml:id="spp-062-ROGP-line-17">'My Lord', said Bushe, 'a friend and I&#13;Disguised in two old threadbare coats</l><l n="18" xml:id="spp-062-ROGP-line-18"> Ere morning's dawn stole out to spyHow markets went for hay and oats.'</l></lg><lg n="10" type="stanza"><l n="19" xml:id="spp-062-ROGP-line-19">With that he draws two handfuls out,&#13;The one was oats, the other hay,</l><l n="20" xml:id="spp-062-ROGP-line-20"> Puts this to's Excellency's snout,And begs he would the other weigh.</l></lg><lg n="11" type="stanza"><l n="21" xml:id="spp-062-ROGP-line-21">My Lord seems pleased, but still directs&#13;By all means to bring down the rates,</l><l n="22" xml:id="spp-062-ROGP-line-22"> Then with a congee circumflexBushe, smiling round on all, retreats.</l></lg><lg n="12" type="stanza"><l n="23" xml:id="spp-062-ROGP-line-23">Our listener stood a while confused,&#13;But gathering spirits wisely ran for't,</l><l n="24" xml:id="spp-062-ROGP-line-24"> Enraged to see the world abusedBy two such whispering Kings of Brentford.062-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

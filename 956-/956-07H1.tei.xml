@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">A Cantata</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="956-07H1" type="poem"><head type="note" n="1" xml:id="spp-956-07H1-headnote-1"><lg n="1" xml:id="spp-956-07H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-956-07H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-956-07H1-headnote-2"><lg n="1" xml:id="spp-956-07H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-956-07H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-956-07H1-headnote-3"><lg n="1" xml:id="spp-956-07H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-956-07H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-956-07H1-line-1"> In Harmony would you Excell&#13;</l><l n="2" xml:id="spp-956-07H1-line-2"> Suit your Words to your Musick well</l><l n="3" xml:id="spp-956-07H1-line-3"> Musick well Musick well</l><l n="4" xml:id="spp-956-07H1-line-4"> Suit your Words to your Musick well</l><l n="5" xml:id="spp-956-07H1-line-5"> Suit your Word to your Musick well</l><l n="6" xml:id="spp-956-07H1-line-6"> For Pegasus runs runs every Race</l><l n="7" xml:id="spp-956-07H1-line-7"> by Galloping high or Level Pace</l><l n="8" xml:id="spp-956-07H1-line-8"> or Ambling or Sweet Canturbury</l><l n="9" xml:id="spp-956-07H1-line-9"> or with a down a high down derry</l><l n="10" xml:id="spp-956-07H1-line-10"> No no Victory Victory he ever get</l><l n="11" xml:id="spp-956-07H1-line-11"> by Jogling Jogling Jogling trot trot trot trot trot trot</l><l n="12" xml:id="spp-956-07H1-line-12"> No Muse harmonious Entertains</l><l n="13" xml:id="spp-956-07H1-line-13"> Rough Roystring Rustick Roaring Strains</l><l n="14" xml:id="spp-956-07H1-line-14"> nor shall you twine the Crackling Crackling Bays</l><l n="15" xml:id="spp-956-07H1-line-15"> by Sneaking Sniv'lling Round Delays</l><l n="16" xml:id="spp-956-07H1-line-16"> Now slowly move your Fiddle stick</l><l n="17" xml:id="spp-956-07H1-line-17"> Now, tantantantantantantivi</l><l n="18" xml:id="spp-956-07H1-line-18"> Now, tantantantantantivi</l><l n="19" xml:id="spp-956-07H1-line-19"> quick quick quick quick quick quick quick quick</l><l n="20" xml:id="spp-956-07H1-line-20"> quick now trembling Shivring Quivring Quaking</l><l n="21" xml:id="spp-956-07H1-line-21"> Set hoping hoping hoping hearts of Lovers akeing</l><l n="22" xml:id="spp-956-07H1-line-22"> Fly fly</l><l n="23" xml:id="spp-956-07H1-line-23"> above above y<hi rend="sup">e</hi> Sky</l><l n="24" xml:id="spp-956-07H1-line-24"> Rambling Gambling Rambling Gambling</l><l n="25" xml:id="spp-956-07H1-line-25"> Trolloping Lolloping Galloping Trolloping</l><l n="26" xml:id="spp-956-07H1-line-26"> Lolloping Galloping Trollop</l><l n="27" xml:id="spp-956-07H1-line-27"> Lolloping Trolloping Galloping Lolloping</l><l n="28" xml:id="spp-956-07H1-line-28"> Trolloping Galloping Lollop</l><l n="29" xml:id="spp-956-07H1-line-29"> Now Creep Sweep Sweep Sweep the Deep</l><l n="30" xml:id="spp-956-07H1-line-30"> See see Celia Celia Dies Dies Dies Dies Dies Dies Dies</l><l n="31" xml:id="spp-956-07H1-line-31"> While True Lovers Eyes</l><l n="32" xml:id="spp-956-07H1-line-32"> Weeping Sleep Sleeping Weep Weeping Sleep</l><l n="33" xml:id="spp-956-07H1-line-33"> Bo peep bo peep bo peep bo peep peep bo bo peep.956-07H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

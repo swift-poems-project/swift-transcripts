@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A</title>
+        <title>LETTER</title>
+        <title>FROM THE</title>
+        <title>Grand</title>
+        <title>OF THE</title>
+        <title>Female Free-Masons</title>
+        <title>TO<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="P00812H1" type="letter"><head type="note" n="1" xml:id="spp-P00812H1-headnote-1"><lg n="1" xml:id="spp-P00812H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-P00812H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-P00812H1-headnote-2"><lg n="1" xml:id="spp-P00812H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-P00812H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-P00812H1-headnote-3"><lg n="1" xml:id="spp-P00812H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-P00812H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-P00812H1-line-1"><hi rend="underline">Ixïon</hi> impious, lewd, profane,</l><l n="2" xml:id="spp-P00812H1-line-2"> Bright <hi rend="underline">Juno</hi> woo'd, but woo'd in vain.</l><l n="3" xml:id="spp-P00812H1-line-3"> Long had he languish'd for the dame,</l><l n="4" xml:id="spp-P00812H1-line-4"> 'Till <hi rend="underline">Jove</hi> at length to quench his flame,</l><l n="5" xml:id="spp-P00812H1-line-5"> Some say for fear, some say for pity,</l><l n="6" xml:id="spp-P00812H1-line-6"> Sent him a cloud, like <hi rend="underline">Juno</hi> pretty,</l><l n="7" xml:id="spp-P00812H1-line-7"> As like as if 'twere drawn by painters,</l><l n="8" xml:id="spp-P00812H1-line-8"> On which he got a race of <hi rend="underline">Centaurs</hi>.</l><l n="9" xml:id="spp-P00812H1-line-9" rend="flush right"> A bite, quoth <hi rend="underline">V<hi rend="SMALL-CAPS">ENUS</hi></hi>.────A. B. C. lib. vi. p. 107.P00812H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

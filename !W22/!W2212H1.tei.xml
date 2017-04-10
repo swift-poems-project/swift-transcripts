@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LETTER XXXIV.</title>
+        <title><hi rend="underline">Dr</hi>. S<hi rend="SMALL-CAPS">WIFT</hi> <hi rend="underline">to Dr</hi>. S<hi rend="SMALL-CAPS">HERIDAN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="!W2212H1" type="letter"><head type="note" n="1" xml:id="spp-!W2212H1-headnote-1"><lg n="1" xml:id="spp-!W2212H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-!W2212H1-headnote-1-line-group-1-line-1"><note rend="flush right"><hi rend="underline">Sept</hi>. 12, 1735.</note></l></lg></head><head type="note" n="2" xml:id="spp-!W2212H1-headnote-2"><lg n="1" xml:id="spp-!W2212H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-!W2212H1-headnote-2-line-group-1-line-1">Perge:</l></lg></head><head type="note" n="3" xml:id="spp-!W2212H1-headnote-3"><lg n="1" xml:id="spp-!W2212H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-!W2212H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-!W2212H1-line-1"> One thousand seven hundred and thirty-seven,&#13;</l><l n="2" xml:id="spp-!W2212H1-line-2"> When the whigs are so blind they mistake hell for heav'n.!W2212H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

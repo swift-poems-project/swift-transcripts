@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A L<hi rend="SMALL-CAPS">ETTER</hi> from the Grand M<hi rend="SMALL-CAPS">ISTRESS</hi></title>
+        <title>of the F<hi rend="SMALL-CAPS">EMALE </hi>F<hi rend="SMALL-CAPS">REE-</hi>M<hi rend="SMALL-CAPS">ASONS</hi>, to</title>
+        <title>G<hi rend="SMALL-CAPS">EORGE </hi>F<hi rend="SMALL-CAPS">AULKNER</hi>, Printer.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="P0080671" type="poem"><head type="note" n="1" xml:id="spp-P0080671-headnote-1"><lg n="1" xml:id="spp-P0080671-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-P0080671-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-P0080671-headnote-2"><lg n="1" xml:id="spp-P0080671-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-P0080671-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-P0080671-headnote-3"><lg n="1" xml:id="spp-P0080671-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-P0080671-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-P0080671-line-1"><hi rend="underline">Ixion</hi> impious, lewd, prophane,</l><l n="2" xml:id="spp-P0080671-line-2"> Bright <hi rend="underline">Juno</hi> woo'd, but woo'd in vain.</l><l n="3" xml:id="spp-P0080671-line-3"> Long had he languish'd for the Dame,</l><l n="4" xml:id="spp-P0080671-line-4"> 'Till <hi rend="underline">Jove</hi>, at length, to quench his Flame;</l><l n="5" xml:id="spp-P0080671-line-5"> Some say for Fear, some say for Pity,</l><l n="6" xml:id="spp-P0080671-line-6"> Sent him a Cloud like <hi rend="underline">Juno</hi> pritty,</l><l n="7" xml:id="spp-P0080671-line-7"> As like as if 'twere drawn by Painters,</l><l n="8" xml:id="spp-P0080671-line-8"> On which he got a Race of <hi rend="underline">Centaurs</hi>.</l><l n="9" xml:id="spp-P0080671-line-9" rend="flush right"> A Bite quoth <hi rend="underline">V<hi rend="SMALL-CAPS">ENUS</hi></hi>.────A. B. C. Lib. 6. Pag. 107.P0080671   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

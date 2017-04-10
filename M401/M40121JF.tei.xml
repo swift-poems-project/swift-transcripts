@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Merchant's Vindication of CALLICOES,</title>
+        <title>Or, A Modest Answer to a late and<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M40121JF" type="poem"><head type="note" n="1" xml:id="spp-M40121JF-headnote-1"><lg n="1" xml:id="spp-M40121JF-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M40121JF-headnote-1-line-group-1-line-1"><hi rend="underline">Fæmineo Generi tribuantur</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-M40121JF-headnote-2"><lg n="1" xml:id="spp-M40121JF-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M40121JF-headnote-2-line-group-1-line-1">LONDON, <hi rend="underline">April</hi> 15. <lb/> SIR, As you have oblig'd the Town with the diverting Prologue and Epilogue from Dublin, pray don't refuse to give the Answer to them a Place in your next, which I have sent you, as I receiv'd it from thence last Post.</l></lg></head><head type="note" n="3" xml:id="spp-M40121JF-headnote-3"><lg n="1" xml:id="spp-M40121JF-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M40121JF-headnote-3-line-group-1-line-1">They write from Dublin, that besides the Money got, for the Distress'd Weavers by means of the Play Acted in their Behalf, 200 l. was Collected for their Relief, at the Church Doors of that City.</l></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-M40121JF-line-1"><hi rend="display-initial">T</hi>HE Muses whom the richest Silks array,</l><l n="2" xml:id="spp-M40121JF-line-2"> Refuse to fling their shining Gowns away;</l><l n="3" xml:id="spp-M40121JF-line-3"> The Pencil cloaths the Nine in bright Brocades,</l><l n="4" xml:id="spp-M40121JF-line-4"> And gives each Colour to the Pictur'd Maids,</l><l n="5" xml:id="spp-M40121JF-line-5"> Far above Mortal Dress the Sisters shine,</l><l n="6" xml:id="spp-M40121JF-line-6"> Pride in their Indian-Robes──────and must be fine.</l><l n="7" xml:id="spp-M40121JF-line-7"> And must Two Bards in Consort Rhyme and Huff,</l><l n="8" xml:id="spp-M40121JF-line-8"> And fret these Muses with their Play-house Stuff?The Play'r in Mimick Piety may storm,</l><l n="9" xml:id="spp-M40121JF-line-9"> Deplore the Combe, and bid her Heroes arm,</l><l n="10" xml:id="spp-M40121JF-line-10"> The Arbitrary M────b in Paultry Rage</l><l n="11" xml:id="spp-M40121JF-line-11"> May curse the Belles and Chinces of the Age,</l><l n="12" xml:id="spp-M40121JF-line-12"> Yet still the Artist-Worm her Silk shall share,</l><l n="13" xml:id="spp-M40121JF-line-13"> And spin her Thread of Life in Service of the Fair.The Cotton Plant whom Satyr cannot blast,</l><l n="14" xml:id="spp-M40121JF-line-14"> Shall bloom the Favourite of these Realms and last,</l><l n="15" xml:id="spp-M40121JF-line-15"> Like Yours, ye Fair, her Fame from Censure grows</l><l n="16" xml:id="spp-M40121JF-line-16"> Prevails in Charms, and glares above her Foes,</l><l n="17" xml:id="spp-M40121JF-line-17"> Your injur'd Plant shall meet a loud Defence</l><l n="18" xml:id="spp-M40121JF-line-18"> And be the Emblem of your Innocence.Some Bard perhaps whose Landlord was a Weaver</l><l n="19" xml:id="spp-M40121JF-line-19"> Pen'd the low Prologue to return a Favour,</l><l n="20" xml:id="spp-M40121JF-line-20"> Some Neighbour Wit that wou'd be in the Vogue</l><l n="21" xml:id="spp-M40121JF-line-21"> Work'd with his Friend, and wove the Epilogue.</l><l n="22" xml:id="spp-M40121JF-line-22"> Who Weaves the Chaplet, or provides the Bays,</l><l n="23" xml:id="spp-M40121JF-line-23"> For such Wool-gathering Soneteers as these?Hence then ye Home-spun Witlings, that persuade</l><l n="24" xml:id="spp-M40121JF-line-24"> Miss Chloe to the Fashion of her Maid,</l><l n="25" xml:id="spp-M40121JF-line-25"> Shall the Wide Hoop, that Standard of the Town,</l><l n="26" xml:id="spp-M40121JF-line-26"> Thus act subservient to a Poplin Gown?</l><l n="27" xml:id="spp-M40121JF-line-27"> Who'd smell of Wool all over? 'Tis enough</l><l n="28" xml:id="spp-M40121JF-line-28"> The Under-Petticoat be made of Stuff.</l><l n="29" xml:id="spp-M40121JF-line-29"> Lord! to be wrapt in Flannel just in May,</l><l n="30" xml:id="spp-M40121JF-line-30"> When the Fields dress'd in Flow'rs appear so gay</l><l n="31" xml:id="spp-M40121JF-line-31"> ──Shan't Miss be Flow'rd too as well as they?In what weak Colours wou'd the PLAD appear</l><l n="32" xml:id="spp-M40121JF-line-32"> Work'd to a Quilt, or studded in a Chair?</l><l n="33" xml:id="spp-M40121JF-line-33"> The Skin that vies with Silk, who'd fret with Stuff?</l><l n="34" xml:id="spp-M40121JF-line-34"> Or who cou'd bear in Bed a Thing so rough,</l><l n="35" xml:id="spp-M40121JF-line-35"> Ye knowing Fair how eminent that Bed</l><l n="36" xml:id="spp-M40121JF-line-36"> Where the Chince-Diamonds with the Silken-Thread!</l><l n="37" xml:id="spp-M40121JF-line-37"> Where Rustling Curtains call the Curious Eye</l><l n="38" xml:id="spp-M40121JF-line-38"> And boast the Streaks and Paintings of the Sky,</l><l n="39" xml:id="spp-M40121JF-line-39"> Of Flocks they'd have your Milky Ticking full</l><l n="40" xml:id="spp-M40121JF-line-40"> And all this for the Benefit of Wooll.But where, say they, shall we bestow these Weavers</l><l n="41" xml:id="spp-M40121JF-line-41"> That spread our Streets, and are such Piteous Cravers.</l><l n="42" xml:id="spp-M40121JF-line-42"> The Silk-Worms (brittle Beings) prone to Fate</l><l n="43" xml:id="spp-M40121JF-line-43"> Demands their Care to make their Webbs complete;</l><l n="44" xml:id="spp-M40121JF-line-44"> These may they tend, their Promises receive,</l><l n="45" xml:id="spp-M40121JF-line-45"> We cannot pay too much for what they give.M40121JF   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

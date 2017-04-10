@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-X88-17H2-title-1">A TOWN ECLOGUE<ref target="#spp-X88-17H2-footnote-title-1">1</ref><note n="1" xml:id="spp-X88-17H2-footnote-title-1" place="foot">First printed in fifth volume of <hi rend="underline">The Tatler</hi>, N<hi rend="sup">o</hi> 28. N</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X88-17H2-footnote-title-1 #spp-X88-17H2-title-1"/>
+        </linkGrp>
+        <div n="X88-17H2"><head type="note" n="1" xml:id="spp-X88-17H2-headnote-1"><lg n="1" xml:id="spp-X88-17H2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X88-17H2-headnote-1-line-group-1-line-1">Scene, The Royal Exchange.&#13;</l></lg></head><head type="note" n="2" xml:id="spp-X88-17H2-headnote-2"><lg n="1" xml:id="spp-X88-17H2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X88-17H2-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-X88-17H2-headnote-3"><lg n="1" xml:id="spp-X88-17H2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X88-17H2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-X88-17H2-line-1"><hi rend="underline">Cor</hi>. <hi rend="display-initial">N</hi>OW the keen rigour of the Winter's o'er,</l><l/><l n="2" xml:id="spp-X88-17H2-line-2">No hail descends, and frosts can pinch no more,</l><l/><l n="3" xml:id="spp-X88-17H2-line-3">Whilst other girls confess the genial Spring,</l><l/><l n="4" xml:id="spp-X88-17H2-line-4">And laugh aloud, or amorous ditties sing,</l><l/><l n="5" xml:id="spp-X88-17H2-line-5">Secure from cold their lovely necks display,</l><l/><l n="6" xml:id="spp-X88-17H2-line-6">And throw each useless chafing-dish away,</l><l/><l n="7" xml:id="spp-X88-17H2-line-7">Why sits my <hi rend="underline">Phillis</hi> discontented here,</l><l/><l n="8" xml:id="spp-X88-17H2-line-8">Nor feels the turn of the revolving year?</l><l/><l n="9" xml:id="spp-X88-17H2-line-9">Why on that brow dwell sorrow and dismay,</l><l/><l n="10" xml:id="spp-X88-17H2-line-10">Where Loves were wont to sport, and Smiles to play?</l><l/><l n="11" xml:id="spp-X88-17H2-line-11"><hi rend="underline">Phil</hi>. Ah, <hi rend="underline">Corydon</hi>! Survey the '<hi rend="underline">Change</hi> around,</l><l/><l n="12" xml:id="spp-X88-17H2-line-12">Through all the '<hi rend="underline">Change</hi> no wretch like me is found:</l><l/><l n="13" xml:id="spp-X88-17H2-line-13">Alas! the day, when I poor heedless maid</l><l/><l n="14" xml:id="spp-X88-17H2-line-14">Was to your rooms in <hi rend="underline">Lincoln's-Inn</hi> betray'd,</l><l/><l n="15" xml:id="spp-X88-17H2-line-15">Then how you swore, how many vows you made!</l><l/><l n="16" xml:id="spp-X88-17H2-line-16">Ye listening <hi rend="underline">Zephyrs</hi>, that o'erheard his love,</l><l/><l n="17" xml:id="spp-X88-17H2-line-17">Waft the soft accents to the gods above.</l><l/><l n="18" xml:id="spp-X88-17H2-line-18">Alas! the day; for oh, eternal shame!</l><l/><l n="19" xml:id="spp-X88-17H2-line-19">I sold you handkerchiefs, and lost my fame.</l><l/><l n="20" xml:id="spp-X88-17H2-line-20"><hi rend="underline">Cor</hi>. When I forget the favour you bestow'd,</l><l/><l n="21" xml:id="spp-X88-17H2-line-21">Red herrings shall be spawn'd in <hi rend="underline">Tyburn Road.</hi> transform'd become a flowery green,</l><l/><l n="22" xml:id="spp-X88-17H2-line-22">Fleet-street</l><l/><l n="23" xml:id="spp-X88-17H2-line-23">And mass be sung where opera's are seen.</l><l/><l n="24" xml:id="spp-X88-17H2-line-24">The wealthy cit, and the <hi rend="underline">St. James's</hi> beau,</l><l/><l n="25" xml:id="spp-X88-17H2-line-25">Shall change their quarters, and their joys forego;</l><l/><l n="26" xml:id="spp-X88-17H2-line-26">Stock-jobbing this to <hi rend="underline">Jonathan's</hi> shall come,</l><l/><l n="27" xml:id="spp-X88-17H2-line-27">At the <hi rend="underline">Groom Porter's</hi> that play off his plum.</l><l/><l n="28" xml:id="spp-X88-17H2-line-28"><hi rend="underline">Phil</hi>. But what to me does all that love avail,</l><l/><l n="29" xml:id="spp-X88-17H2-line-29">If, whilst I doze at home o'er porter's ale,</l><l/><l n="30" xml:id="spp-X88-17H2-line-30">Each night with wine and wenches you regale?</l><l/><l n="31" xml:id="spp-X88-17H2-line-31">My live-long hours in anxious cares are past,</l><l/><l n="32" xml:id="spp-X88-17H2-line-32">And raging hunger lays my beauty waste.</l><l/><l n="33" xml:id="spp-X88-17H2-line-33">On Templars spruce in vain I glances throw,</l><l/><l n="34" xml:id="spp-X88-17H2-line-34">And with shrill voice invite them as they go.</l><l/><l n="35" xml:id="spp-X88-17H2-line-35">Expos'd in vain my glossy ribbands shine,</l><l/><l n="36" xml:id="spp-X88-17H2-line-36">And unregarded wave upon the twine.</l><l/><l n="37" xml:id="spp-X88-17H2-line-37">The week flies round, and when my profit's known,</l><l/><l n="38" xml:id="spp-X88-17H2-line-38">I hardly clear enough to change a crown.</l><l/><l n="39" xml:id="spp-X88-17H2-line-39"><hi rend="underline">Cor</hi>. Hard fate of virtue, thus to be distrest,</l><l/><l n="40" xml:id="spp-X88-17H2-line-40">Thou fairest of thy trade, and far the best!</l><l/><l n="41" xml:id="spp-X88-17H2-line-41">As fruitmens stalls the summer-market grace,</l><l/><l n="42" xml:id="spp-X88-17H2-line-42">And ruddy peaches them; as first in place</l><l/><l n="43" xml:id="spp-X88-17H2-line-43">Plum-cake is seen o'er smaller pastry ware,</l><l/><l n="44" xml:id="spp-X88-17H2-line-44">And ice on that; so <hi rend="underline">Phillis</hi> does appear</l><l/><l n="45" xml:id="spp-X88-17H2-line-45">In play-house and in Park, above the rest</l><l/><l n="46" xml:id="spp-X88-17H2-line-46">Of belles mechanic, elegantly drest.</l><l/><l n="47" xml:id="spp-X88-17H2-line-47"><hi rend="underline">Phil</hi>. And yet <hi rend="underline">Crepundia</hi>, that conceited fair,</l><l/><l n="48" xml:id="spp-X88-17H2-line-48">Amidst her toys, affects a saucy air,</l><l/><l n="49" xml:id="spp-X88-17H2-line-49">And views me hourly with a scornful eye.</l><l/><l n="50" xml:id="spp-X88-17H2-line-50"><hi rend="underline">Cor</hi>. She might as well with bright <hi rend="underline">Cleora</hi> vie.</l><l/><l n="51" xml:id="spp-X88-17H2-line-51"><hi rend="underline">Phil</hi>. With this large petticoat I strive in vain</l><l/><l n="52" xml:id="spp-X88-17H2-line-52">To hide my folly past, and coming pain;</l><l/><l n="53" xml:id="spp-X88-17H2-line-53">'Tis now no secret; she, and fifty more,</l><l/><l n="54" xml:id="spp-X88-17H2-line-54">Observe the symptoms I had once before.</l><l/><l n="55" xml:id="spp-X88-17H2-line-55">A second babe at <hi rend="underline">wapping</hi> must be plac'd,</l><l/><l n="56" xml:id="spp-X88-17H2-line-56">When I scarce bear the charges of the last.</l><l/><l n="57" xml:id="spp-X88-17H2-line-57"><hi rend="underline">Cor</hi>. What I could raise I sent; a pound of plums,</l><l/><l n="58" xml:id="spp-X88-17H2-line-58">Five shillings, and a coral for his gums;</l><l/><l n="59" xml:id="spp-X88-17H2-line-59">To-morrow I intend him something more.</l><l/><l n="60" xml:id="spp-X88-17H2-line-60"><hi rend="underline">Phil</hi>. I sent a frock and pair of shoes before.</l><l/><l n="61" xml:id="spp-X88-17H2-line-61"><hi rend="underline">Cor</hi>. However, you shall home with me to-night,</l><l/><l n="62" xml:id="spp-X88-17H2-line-62">Forget your cares, and revel in delight.</l><l/><l n="63" xml:id="spp-X88-17H2-line-63">I have in store a pint or two of wine,</l><l/><l n="64" xml:id="spp-X88-17H2-line-64">Some cracknels, and the remnant of a chine.</l><l/><l n="65" xml:id="spp-X88-17H2-line-65">And now on either side, and all around,</l><l/><l n="66" xml:id="spp-X88-17H2-line-66">The weighty shop-boards fall, and bars resound;</l><l/><l n="67" xml:id="spp-X88-17H2-line-67">Each ready sempstress slips her pattins on,</l><l/><l n="68" xml:id="spp-X88-17H2-line-68">And ties her hood, preparing to be gone.</l></lg><lg n="2" type="stanza"><l rend="flush right">L. B. ·W. H. ·J. S. ·S. T.&#13;</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

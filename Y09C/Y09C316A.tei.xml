@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y09C316A" type="poem"><head type="note" n="1" xml:id="spp-Y09C316A-headnote-1"><lg n="1" xml:id="spp-Y09C316A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y09C316A-headnote-1-line-group-1-line-1">Which No Body can deny</l></lg></head><head type="note" n="2" xml:id="spp-Y09C316A-headnote-2"><lg n="1" xml:id="spp-Y09C316A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y09C316A-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y09C316A-headnote-3"><lg n="1" xml:id="spp-Y09C316A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y09C316A-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y09C316A-line-1"> Ye People of Jreland Both Country &amp; City&#13;</l><l n="2" xml:id="spp-Y09C316A-line-2"> Come Listen with Patience &amp; hear out my dity</l><l n="3" xml:id="spp-Y09C316A-line-3" rend="flush right align(center)"> At this time Jll chuse to be wiser than wittyWhich no body2</l></lg><lg n="2" type="stanza"><l n="4" xml:id="spp-Y09C316A-line-4" rend="flush left">The half·pence are coining the nations undoing&#13;</l><l n="5" xml:id="spp-Y09C316A-line-5"> There's an end of y<hi rend="sup">r</hi> ploughing and baking &amp; brewing</l><l n="6" xml:id="spp-Y09C316A-line-6" rend="flush right align(center)"> In short you must all go to rack &amp; to ruinWhich no body3</l></lg><lg n="3" type="stanza"><l n="7" xml:id="spp-Y09C316A-line-7" rend="flush left">Both high men and low men &amp; thick men &amp; tall men&#13;</l><l n="8" xml:id="spp-Y09C316A-line-8"> And rich men &amp; poor men &amp; free men &amp; thral men</l><l n="9" xml:id="spp-Y09C316A-line-9" rend="flush right align(center)"> Will suffer and this man &amp; that man &amp; all menWhich no body4</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-Y09C316A-line-10" rend="flush left">The soldier is ruind poor man by his pay&#13;</l><l n="11" xml:id="spp-Y09C316A-line-11"> His five pence will prove but a farthing a day</l><l n="12" xml:id="spp-Y09C316A-line-12" rend="flush right align(center)"> For Meat &amp; for Drink or he must run awayWhich no body5</l></lg><lg n="5" type="stanza"><l n="13" xml:id="spp-Y09C316A-line-13" rend="flush left">When he pulls out his two pence y<hi rend="sup">e</hi> tapster says not</l><l n="14" xml:id="spp-Y09C316A-line-14"> That ten times as much he must pay for his scot</l><l n="15" xml:id="spp-Y09C316A-line-15" rend="flush right align(center)"> And thus the poor soldier he must go to potWhich no body6</l></lg><lg n="6" type="stanza"><l n="16" xml:id="spp-Y09C316A-line-16" rend="flush left">If he goes to y<hi rend="sup">e</hi> baker y<hi rend="sup">e</hi> baker will huff</l><l n="17" xml:id="spp-Y09C316A-line-17"> And twenty pence have for a half peny Loaf</l><l n="18" xml:id="spp-Y09C316A-line-18" rend="flush right align(center)"> Then Dog rogue and rascal &amp; so kick &amp; CuffWhich no body7</l></lg><lg n="7" type="stanza"><l n="19" xml:id="spp-Y09C316A-line-19" rend="flush left">Again to y<hi rend="sup">e</hi> Market when ever he goes</l><l n="20" xml:id="spp-Y09C316A-line-20"> The Butcher and soldier must be mortal foes</l><l n="21" xml:id="spp-Y09C316A-line-21" rend="flush right align(center)"> one cuts of an ear y<hi rend="sup">e</hi> other a NoseWhich no body8</l></lg><lg n="8" type="stanza"><l n="22" xml:id="spp-Y09C316A-line-22" rend="flush left">The Butcher is stout &amp; he values no swager&#13;</l><l n="23" xml:id="spp-Y09C316A-line-23"> A Cleaver's a match any time for a Dagger</l><l n="24" xml:id="spp-Y09C316A-line-24" rend="flush right align(center)"> And a Blue sleeve may give such a cuff as may swaggerWhich no body9</l></lg><lg n="9" type="stanza"><l n="25" xml:id="spp-Y09C316A-line-25" rend="flush left">The Beggars themselves will be broke in a trice&#13;</l><l n="26" xml:id="spp-Y09C316A-line-26"> when thus their poor farthings ar sunk in y<hi rend="sup">r</hi> price</l><l n="27" xml:id="spp-Y09C316A-line-27" rend="flush right align(center)"> when nothing is Left they must Live by their LiceWhich no body10</l></lg><lg n="10" type="stanza"><l n="28" xml:id="spp-Y09C316A-line-28" rend="flush left">The Squire whos got him twelve thousand a Year&#13;</l><l n="29" xml:id="spp-Y09C316A-line-29"> o Lord what a Mountain his rents woud appear</l><l n="30" xml:id="spp-Y09C316A-line-30" rend="flush right align(center)"> shoud he take em he woud not have house room I fearWhich no body11</l></lg><lg n="11" type="stanza"><l n="31" xml:id="spp-Y09C316A-line-31" rend="flush left">Tho at present he live in a very large house&#13;</l><l n="32" xml:id="spp-Y09C316A-line-32"> There wou'd not be room left in it left for a mous<unclear>edge</unclear></l><l n="33" xml:id="spp-Y09C316A-line-33" rend="flush right align(center)"> But y<hi rend="sup">e</hi> Squier too wise he wont take a souceWhich no body12</l></lg><lg n="12" type="stanza"><l n="34" xml:id="spp-Y09C316A-line-34" rend="flush left">The Farmer who Comes with his rent in y<hi rend="sup">s</hi> Cash</l><l n="35" xml:id="spp-Y09C316A-line-35"> For taking these Counters &amp; being so rash</l><l n="36" xml:id="spp-Y09C316A-line-36" rend="flush right align(center)"> will be kickd out of doors himself and his TrashWhich no body13</l></lg><lg n="13" type="stanza"><l n="37" xml:id="spp-Y09C316A-line-37" rend="flush left">For in all the Leases y<hi rend="sup">t</hi> ever we hold</l><l n="38" xml:id="spp-Y09C316A-line-38"> we must pay our Rent in good silver &amp; Gold</l><l n="39" xml:id="spp-Y09C316A-line-39" rend="flush right align(center)"> And not in brass tokens of such a base mouldWhich no body17</l></lg><lg n="14" type="stanza"><l n="40" xml:id="spp-Y09C316A-line-40" rend="flush left">The wisest of Lawyers swear they will warrant&#13;</l><l n="41" xml:id="spp-Y09C316A-line-41"> No mony but silver &amp; Gold can be currant</l><l n="42" xml:id="spp-Y09C316A-line-42" rend="flush right align(center)"> And since they will swear it we all may be sure ontWhich no body14</l></lg><lg n="15" type="stanza"><l n="43" xml:id="spp-Y09C316A-line-43" rend="flush left">And I think after all it woud be very strange&#13;</l><l n="44" xml:id="spp-Y09C316A-line-44"> To give current mony for base in exchange</l><l n="45" xml:id="spp-Y09C316A-line-45" rend="flush right align(center)"> Like a fine Lady Swabbing her Moles for y<hi rend="sup">e</hi> mangeWhich no body16</l></lg><lg n="16" type="stanza"><l n="46" xml:id="spp-Y09C316A-line-46" rend="flush left">But read the Kings patent &amp; then you will find&#13;</l><l n="47" xml:id="spp-Y09C316A-line-47"> That no man need take em but who has a min<unclear>edge</unclear></l><l n="48" xml:id="spp-Y09C316A-line-48" rend="flush right align(center)"> for which we may say his Majesties kindWhich no body17</l></lg><lg n="17" type="stanza"><l n="49" xml:id="spp-Y09C316A-line-49" rend="flush left">Now god bless the Draper who opened our Eye<unclear>edge</unclear></l><l n="50" xml:id="spp-Y09C316A-line-50"> J am sure by his Book that y<hi rend="sup">e</hi> writer is wise</l><l n="51" xml:id="spp-Y09C316A-line-51" rend="flush right align(center)"> He shews us the cheat from the End to y<hi rend="sup">e</hi> RiseWhich no body18</l></lg><lg n="18" type="stanza"><l n="52" xml:id="spp-Y09C316A-line-52" rend="flush left">Nay farther he shews it a very hard Case&#13;</l><l n="53" xml:id="spp-Y09C316A-line-53"> That this fellow wood of a very bad race</l><l n="54" xml:id="spp-Y09C316A-line-54" rend="flush right align(center)"> should of all y<hi rend="sup">e</hi> fine gentry of Jreland take pla<unclear>edge</unclear>which no body19</l></lg><lg n="19" type="stanza"><l n="55" xml:id="spp-Y09C316A-line-55" rend="flush left">That he and his half·pence should come to weig<unclear>edge</unclear> do<unclear>edge</unclear></l><l n="56" xml:id="spp-Y09C316A-line-56"> our subjects so Loyal &amp; true to y<hi rend="sup">e</hi> crown</l><l n="57" xml:id="spp-Y09C316A-line-57" rend="flush right align(center)"> But J hope after all they will be his ownwhich no body20</l></lg><lg n="20" type="stanza"><l n="58" xml:id="spp-Y09C316A-line-58" rend="flush left">This Book I do tell you is writ for y<hi rend="sup">r</hi> goods</l><l n="59" xml:id="spp-Y09C316A-line-59"> And a very good against mr woods</l><l n="60" xml:id="spp-Y09C316A-line-60" rend="flush right align(center)"> If you stand to g·ather hes left in y<hi rend="sup">e</hi> suddsWhich no body21</l></lg><lg n="21" type="stanza"><l n="61" xml:id="spp-Y09C316A-line-61" rend="flush left">Y<hi rend="sup">e</hi> shop·men &amp; Trads·men &amp; farmers go read it</l><l n="62" xml:id="spp-Y09C316A-line-62"> For I think of my soul at this time you will nee<unclear>edge</unclear> it</l><l n="63" xml:id="spp-Y09C316A-line-63" rend="flush right"> or egad if you dont theres an end of your creditwhich no bodyY09C316A   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

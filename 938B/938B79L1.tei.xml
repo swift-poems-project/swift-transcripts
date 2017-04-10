@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>RIDDLES,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="938B79L1" type="poem"><head type="note" n="1" xml:id="spp-938B79L1-headnote-1"><lg n="1" xml:id="spp-938B79L1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-938B79L1-headnote-1-line-group-1-line-1">Written in or about the Year 1724.</l></lg></head><head type="note" n="2" xml:id="spp-938B79L1-headnote-2"><lg n="1" xml:id="spp-938B79L1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-938B79L1-headnote-2-line-group-1-line-1">ANSWERED BY DR. SWIFT.</l></lg></head><head type="note" n="3" xml:id="spp-938B79L1-headnote-3"><lg n="1" xml:id="spp-938B79L1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-938B79L1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-938B79L1-line-1">WITH half an <hi rend="underline">eye</hi> your riddle I spy.</l><l n="2" xml:id="spp-938B79L1-line-2"> I observe your wicket hemm'd in by a thicket,</l><l n="3" xml:id="spp-938B79L1-line-3"> And whatever passes is strained through glasses.</l><l n="4" xml:id="spp-938B79L1-line-4"> You say it is quiet: I flatly deny it.</l><l n="5" xml:id="spp-938B79L1-line-5"> It wanders about, without stirring out;</l><l n="6" xml:id="spp-938B79L1-line-6"> No passion so weak but gives it a tweak;</l><l n="7" xml:id="spp-938B79L1-line-7"> Love, joy, and devotion, set it always in motion.</l><l n="8" xml:id="spp-938B79L1-line-8"> And as for the tragic effects of its magick</l><l n="9" xml:id="spp-938B79L1-line-9"> Which you say it can kill, or revive at its will,</l><l n="10" xml:id="spp-938B79L1-line-10"> The dead are all sound, and revive above ground,</l><l n="11" xml:id="spp-938B79L1-line-11"> After all you have writ, it cannot be wit;</l><l n="12" xml:id="spp-938B79L1-line-12"> Which plainly does follow, since it flies from Apollo.</l><l n="13" xml:id="spp-938B79L1-line-13"> Its cowardice such, it cries at a touch,</l><l n="14" xml:id="spp-938B79L1-line-14"> 'Tis a perfect milksop, grows drunk with a drop.</l><l n="15" xml:id="spp-938B79L1-line-15"> Another great fault, it cannot bear salt:</l><l n="16" xml:id="spp-938B79L1-line-16"> And a hair can disarm it of every charm.938B79L1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

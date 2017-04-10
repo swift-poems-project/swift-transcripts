@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Excellent New</title>
+        <title>SONG</title>
+        <title>UPON THE<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y10C33D-" type="poem"><head type="note" n="1" xml:id="spp-Y10C33D--headnote-1"><lg n="1" xml:id="spp-Y10C33D--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y10C33D--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y10C33D--headnote-2"><lg n="1" xml:id="spp-Y10C33D--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y10C33D--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y10C33D--headnote-3"><lg n="1" xml:id="spp-Y10C33D--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y10C33D--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y10C33D--line-1"><hi rend="display-initial">P</hi>OOR <hi rend="underline">Monsieur</hi> his Conscience preserv'd for a Year,</l><l n="2" xml:id="spp-Y10C33D--line-2"> Yet in one Hour he lost it, 'tis known far and near,</l><l n="3" xml:id="spp-Y10C33D--line-3" rend="flush right"> To whom did he lose it?──A Judge or a Peer.<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="2" type="stanza"><l n="4" xml:id="spp-Y10C33D--line-4">This very same Conscience was sold in a Closet,&#13;</l><l n="5" xml:id="spp-Y10C33D--line-5"> For a bak'd Loaf, or a Loaf in a Losset,</l><l n="6" xml:id="spp-Y10C33D--line-6" rend="flush right"> But a sweet Sugar Plumb, which you put in a Posset,<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="3" type="stanza"><l n="7" xml:id="spp-Y10C33D--line-7">O <hi rend="underline">Monsieur</hi> to sell it for nothing was Nonsense,</l><l n="8" xml:id="spp-Y10C33D--line-8"> For if you wou'd sell it, it shou'd have been long since,</l><l n="9" xml:id="spp-Y10C33D--line-9" rend="flush right"> But now you have lost both your <hi rend="underline">Cake</hi> and your Conscience.<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-Y10C33D--line-10">So <hi rend="underline">Nel</hi> of the Dairy before she was wed,</l><l n="11" xml:id="spp-Y10C33D--line-11"> Refus'd Ten good Guineas for her Maiden-head,</l><l n="12" xml:id="spp-Y10C33D--line-12" rend="flush right"> Yet gave it for nothing to smooth-spoken <hi rend="underline">Ned</hi>.<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="5" type="stanza"><l n="13" xml:id="spp-Y10C33D--line-13">But <hi rend="underline">Monsieur</hi> no <hi rend="underline">vonder dat you vere collogue</hi></l><l n="14" xml:id="spp-Y10C33D--line-14"> Since selling <hi rend="underline">de Contre</hi> be now all <hi rend="underline">de Vogue</hi>,</l><l n="15" xml:id="spp-Y10C33D--line-15" rend="flush right"> You be but von <hi rend="underline">Fool</hi> after Seventeen <hi rend="underline">Rogue</hi>.<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="6" type="stanza"><l n="16" xml:id="spp-Y10C33D--line-16">Some sell it for Profit 'tis very well known,&#13;</l><l n="17" xml:id="spp-Y10C33D--line-17"> And some but for sitting in Sight of the Throne,</l><l n="18" xml:id="spp-Y10C33D--line-18" rend="flush right"> And other some sell <hi rend="underline">what is none of their own</hi>.<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="7" type="stanza"><l n="19" xml:id="spp-Y10C33D--line-19">But <hi rend="underline">Philpot</hi> and <hi rend="underline">Corker</hi>, and <hi rend="underline">Burrows</hi> and <hi rend="underline">Hayes</hi>,</l><l n="20" xml:id="spp-Y10C33D--line-20"> And <hi rend="underline">Rayner</hi> and <hi rend="underline">Nicholson</hi> challenge our Praise,</l><l n="21" xml:id="spp-Y10C33D--line-21" rend="flush right"> With Six other <hi rend="underline">Worthies</hi> as Glorious as these.<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="8" type="stanza"><l n="22" xml:id="spp-Y10C33D--line-22">There's <hi rend="underline">Donevan, Hart</hi>, and <hi rend="underline">Archer</hi> and <hi rend="underline">Blood</hi>,</l><l n="23" xml:id="spp-Y10C33D--line-23"> And <hi rend="underline">Gibson</hi> and <hi rend="underline">Gerard</hi> all true Men and good,</l><l n="24" xml:id="spp-Y10C33D--line-24" rend="flush right"> All Lovers of <hi rend="underline">Ireland</hi> and Haters of <hi rend="underline">Wood</hi>.<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="9" type="stanza"><l n="25" xml:id="spp-Y10C33D--line-25">But the Slaves, that wou'd sell us shall hear on't in Time,&#13;</l><l n="26" xml:id="spp-Y10C33D--line-26"> Their Names shall be branded in Prose and in Rhyme,</l><l n="27" xml:id="spp-Y10C33D--line-27" rend="flush right"> We'll paint 'em in Colours as black as their <hi rend="underline">Crime</hi>.<hi rend="underline">Which no body can deny</hi>.</l></lg><lg n="10" type="stanza"><l n="28" xml:id="spp-Y10C33D--line-28">But <hi rend="underline">P───r</hi> and <hi rend="underline">copper L────h</hi> we'll excuse,</l><l n="29" xml:id="spp-Y10C33D--line-29" rend="flush right"> The commands of your Betters you dare not refuse,<hi rend="underline">Obey</hi> was the Word when you wore <hi rend="underline">Wooden Shoes</hi>.<hi rend="underline">Which no body can deny</hi>.Y10C33D-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

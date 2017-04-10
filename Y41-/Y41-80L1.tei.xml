@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y41-80L1" type="poem"><head type="note" n="1" xml:id="spp-Y41-80L1-headnote-1"><lg n="1" xml:id="spp-Y41-80L1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y41-80L1-headnote-1-line-group-1-line-1">IN IMITATION OF DEAN SWIFT.</l></lg></head><head type="note" n="2" xml:id="spp-Y41-80L1-headnote-2"><lg n="1" xml:id="spp-Y41-80L1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y41-80L1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y41-80L1-headnote-3"><lg n="1" xml:id="spp-Y41-80L1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y41-80L1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y41-80L1-line-1"><hi rend="display-initial">L</hi>OGICIANS have but ill defin'd</l><l n="2" xml:id="spp-Y41-80L1-line-2"> As rational the human mind;</l><l n="3" xml:id="spp-Y41-80L1-line-3"> Reason, they say, belongs to man,</l><l n="4" xml:id="spp-Y41-80L1-line-4"> But let them prove it if they can.</l><l n="5" xml:id="spp-Y41-80L1-line-5"> Wise Aristotle and Smiglesius,</l><l n="6" xml:id="spp-Y41-80L1-line-6"> By Ratiocinations specious,</l><l n="7" xml:id="spp-Y41-80L1-line-7"> Have strove to prove with great precision,</l><l n="8" xml:id="spp-Y41-80L1-line-8"> With definition and division,<hi rend="underline">Homo est ratione preditum</hi>;</l><l n="9" xml:id="spp-Y41-80L1-line-9"> But for my soul I cannot credit 'em.</l><l n="10" xml:id="spp-Y41-80L1-line-10"> And must in spite of them maintain,</l><l n="11" xml:id="spp-Y41-80L1-line-11"> That man and all his ways are vain;</l><l n="12" xml:id="spp-Y41-80L1-line-12"> And that this boasted lord of nature,</l><l n="13" xml:id="spp-Y41-80L1-line-13"> Is both a weak and erring creature.</l><l n="14" xml:id="spp-Y41-80L1-line-14"> That instinct is a surer guide,</l><l n="15" xml:id="spp-Y41-80L1-line-15"> Than reason-boasting mortals pride;</l><l n="16" xml:id="spp-Y41-80L1-line-16"> And that brute beasts are far before 'em,<hi rend="underline">Deus est anima brutorum</hi>.</l><l n="17" xml:id="spp-Y41-80L1-line-17"> Whoever knew an honest brute,</l><l n="18" xml:id="spp-Y41-80L1-line-18"> At law his neighbour prosecute,</l><l n="19" xml:id="spp-Y41-80L1-line-19"> Bring action for assault and battery,</l><l n="20" xml:id="spp-Y41-80L1-line-20"> Or friend beguile with lies and flattery.</l><l n="21" xml:id="spp-Y41-80L1-line-21"> O'er plains they ramble unconfin'd,</l><l n="22" xml:id="spp-Y41-80L1-line-22"> No politics disturb their mind;</l><l n="23" xml:id="spp-Y41-80L1-line-23"> They eat their meals, and take their sport,</l><l n="24" xml:id="spp-Y41-80L1-line-24"> Nor know who's in or out at court,</l><l n="25" xml:id="spp-Y41-80L1-line-25"> They never to the levee go</l><l n="26" xml:id="spp-Y41-80L1-line-26"> To treat as dearest friend, a foe:</l><l n="27" xml:id="spp-Y41-80L1-line-27"> They never importune his grace,</l><l n="28" xml:id="spp-Y41-80L1-line-28"> Nor ever cringe to men in place;</l><l n="29" xml:id="spp-Y41-80L1-line-29"> Nor undertake a dirty job,</l><l n="30" xml:id="spp-Y41-80L1-line-30"> Nor draw the quill to write for Bob,</l><l n="31" xml:id="spp-Y41-80L1-line-31"> Fraught with invective they ne'er go,</l><l n="32" xml:id="spp-Y41-80L1-line-32"> To folks at Pater-noster Row:</l><l n="33" xml:id="spp-Y41-80L1-line-33"> No judges, fidlers, dancing masters,</l><l n="34" xml:id="spp-Y41-80L1-line-34"> No pick-pockets, or poetasters,</l><l n="35" xml:id="spp-Y41-80L1-line-35"> Are known to honest quadrupeeds,</l><l n="36" xml:id="spp-Y41-80L1-line-36"> No single brute his fellows leads.</l><l n="37" xml:id="spp-Y41-80L1-line-37"> Brutes never meet in bloody fray,</l><l n="38" xml:id="spp-Y41-80L1-line-38"> Nor cut each others throats for pay.</l><l n="39" xml:id="spp-Y41-80L1-line-39"> Or beasts, it is confess'd, the ape</l><l n="40" xml:id="spp-Y41-80L1-line-40"> Comes nearest us in human shape,</l><l n="41" xml:id="spp-Y41-80L1-line-41"> Like man he imitates each fashion,</l><l n="42" xml:id="spp-Y41-80L1-line-42"> And malice is his ruling passion:</l><l n="43" xml:id="spp-Y41-80L1-line-43"> But both in malice and grimaces,</l><l n="44" xml:id="spp-Y41-80L1-line-44"> A courtier any ape surpasses.</l><l n="45" xml:id="spp-Y41-80L1-line-45"> Behold him humbly cringing wait,</l><l n="46" xml:id="spp-Y41-80L1-line-46"> Upon the minister of state:</l><l n="47" xml:id="spp-Y41-80L1-line-47"> View him soon after to inferiors</l><l n="48" xml:id="spp-Y41-80L1-line-48"> Aping the conduct of superiors:</l><l n="49" xml:id="spp-Y41-80L1-line-49"> He promises with equal air,</l><l n="50" xml:id="spp-Y41-80L1-line-50"> And to perform takes equal care.</l><l n="51" xml:id="spp-Y41-80L1-line-51"> He in his turn finds imitators,</l><l n="52" xml:id="spp-Y41-80L1-line-52"> At court, the porters, lacques, waiters,</l><l n="53" xml:id="spp-Y41-80L1-line-53"> Their master's manners still contract,</l><l n="54" xml:id="spp-Y41-80L1-line-54"> And footmen, lords and dukes can act.</l><l n="55" xml:id="spp-Y41-80L1-line-55"> Thus at the court, both great and small,</l><l n="56" xml:id="spp-Y41-80L1-line-56"> Behave alike, for all ape all.Y41-80L1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

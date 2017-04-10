@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verses made on Molly Mog, the Innkeeper<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y29-100M" type="poem"><head type="note" n="1" xml:id="spp-Y29-100M-headnote-1"><lg n="1" xml:id="spp-Y29-100M-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y29-100M-headnote-1-line-group-1-line-1">1726.</l></lg></head><head type="note" n="2" xml:id="spp-Y29-100M-headnote-2"><lg n="1" xml:id="spp-Y29-100M-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y29-100M-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y29-100M-headnote-3"><lg n="1" xml:id="spp-Y29-100M-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y29-100M-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y29-100M-line-1"> Says my Uncle I Pray you discover,&#13;What has been the cause of y<hi rend="sup">ṛ</hi> Woes,</l><l n="2" xml:id="spp-Y29-100M-line-2" rend="align(center)"> That you Pine &amp; you whine like a Lover?I've seen Molly Mog of the Rose.2</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-Y29-100M-line-3" rend="flush left">Oh! Nephew! your Grief is but Folly,&#13;In town you may find better Prog,</l><l n="4" xml:id="spp-Y29-100M-line-4" rend="align(center)"> Half a crown there will gett you a Molly,A Molly much better than Mog.<gap/><gap/><gap/><gap/>3.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-Y29-100M-line-5" rend="flush left">The Schoolboys delight in a Play-Day&#13;The School-Master's Ioy is to Flog</l><l n="6" xml:id="spp-Y29-100M-line-6" rend="align(center)"> Fop, is the Delight of a Lady,But mine is in Sweet Molly Mog.4.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-Y29-100M-line-7" rend="flush left">Will a Wisp leads the Traveller a gadding,&#13;Thro' Ditch, thro' Quagmire &amp; Bog,</l><l n="8" xml:id="spp-Y29-100M-line-8" rend="align(center)"> No light can e'er sett me a Padding,But the Eyes of my Sweet Molly Mog.5.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-Y29-100M-line-9" rend="flush left">For Guineas in Other Men's Breeches,&#13;Your Gamesters will Palm &amp; will Cog</l><l n="10" xml:id="spp-Y29-100M-line-10" rend="align(center)"> But I envy them none of their Riches,So I Palm, my Sweet Molly Mog.6.</l></lg><lg n="6" type="stanza"><l n="11" xml:id="spp-Y29-100M-line-11" rend="flush left">The Hart that's half wounded in ranging,&#13;It here &amp; there, leaps like a Frog,</l><l n="12" xml:id="spp-Y29-100M-line-12" rend="align(center)"> But my Heart, can never be changingI'ts so fix'd on my Sweet Molly Mog.7.</l></lg><lg n="7" type="stanza"><l n="13" xml:id="spp-Y29-100M-line-13" rend="flush left">I know that by Wit's tis recited,&#13;That Women, att best are a Clog,</l><l n="14" xml:id="spp-Y29-100M-line-14" rend="align(center)"> But I'm not so easily frighted,From Loving my Sweet Molly Mog.<gap/><gap/><gap/><gap/>8.</l></lg><lg n="8" type="stanza"><l n="15" xml:id="spp-Y29-100M-line-15" rend="flush left">A Letter when I am inditing&#13;Comes Cupid &amp; gives me a Jog</l><l n="16" xml:id="spp-Y29-100M-line-16" rend="align(center)"> And I fill all my Paper with writingOf nothing but sweet Molly Mof.9.</l></lg><lg n="9" type="stanza"><l n="17" xml:id="spp-Y29-100M-line-17" rend="flush left">I feel I'm in love to Distraction,&#13;My Sences are lost in a Fog,</l><l n="18" xml:id="spp-Y29-100M-line-18" rend="align(center)"> And in nothing can find Satisfaction,But in thoughts of my sweet Molly Mog.<gap/><gap/><gap/><gap/>10.</l></lg><lg n="10" type="stanza"><l n="19" xml:id="spp-Y29-100M-line-19" rend="flush left">If I woud not give up the Grace's&#13;I wish I were hang'd like a Dog,</l><l n="20" xml:id="spp-Y29-100M-line-20" rend="align(center)"> And att Court all the Drawing-Room Faces,For a Glance of my Sweet Molly Mog.11.</l></lg><lg n="11" type="stanza"><l n="21" xml:id="spp-Y29-100M-line-21" rend="flush left">For those Faces, want Nature and Spiritt,&#13;And seem as cut out of a Log,</l><l n="22" xml:id="spp-Y29-100M-line-22" rend="align(center)"> Iuno, Venus, and Pallas's MerittUnite in my Sweet Molly Mog.<gap/><gap/><gap/><gap/>12.</l></lg><lg n="12" type="stanza"><l n="23" xml:id="spp-Y29-100M-line-23" rend="flush left">Were Virgil Alive with his Phillis,&#13;And writing another Eclogue,</l><l n="24" xml:id="spp-Y29-100M-line-24" rend="align(center)"> Both his Phillis &amp; fair Amarillis,He'd give for my Sweet Molly Mog.13.</l></lg><lg n="13" type="stanza"><l n="25" xml:id="spp-Y29-100M-line-25" rend="flush left">When Molly comes up with the Liquor,&#13;Then Iealousy sets me a Gog,</l><l n="26" xml:id="spp-Y29-100M-line-26"> To be Sure, she's a Bit for the VicarAnd so I shall lose Molly Mog.<gap/><gap/><gap/><gap/></l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

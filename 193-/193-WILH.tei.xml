@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE</title>
+        <title>A<hi rend="SMALL-CAPS">UTHOR</hi> upon Himself.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="193-WILH" type="poem"><head type="note" n="1" xml:id="spp-193-WILH-headnote-1"><lg n="1" xml:id="spp-193-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-193-WILH-headnote-1-line-group-1-line-1"><hi rend="underline">A few of the first Lines were wanting in the Copy sent us by a Friend of the Author's from</hi> London.</l></lg></head><head type="note" n="2" xml:id="spp-193-WILH-headnote-2"><lg n="1" xml:id="spp-193-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-193-WILH-headnote-2-line-group-1-line-1">*···*···*···*···*···*···*···*</l></lg><lg n="2" xml:id="spp-193-WILH-headnote-2-line-group-2" type="headnote"><l n="1" xml:id="spp-193-WILH-headnote-2-line-group-2-line-1">··*···*···*···*···*···*···*</l></lg><lg n="3" xml:id="spp-193-WILH-headnote-2-line-group-3" type="headnote"><l n="1" xml:id="spp-193-WILH-headnote-2-line-group-3-line-1">··*···*···*···*···*···*···*</l></lg><lg n="4" xml:id="spp-193-WILH-headnote-2-line-group-4" type="headnote"><l n="1" xml:id="spp-193-WILH-headnote-2-line-group-4-line-1">*···*···*···*···*···*···*···*</l></lg></head><head type="note" n="3" xml:id="spp-193-WILH-headnote-3"><lg n="1" xml:id="spp-193-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-193-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-193-WILH-line-1"><hi rend="display-initial">B</hi>Y an ────────────pursu'd,</l><l n="2" xml:id="spp-193-WILH-line-2"> A Crazy Prelate, and a Royal Prude.</l><l n="3" xml:id="spp-193-WILH-line-3"> By dull Divines, who look with envious Eyes,</l><l n="4" xml:id="spp-193-WILH-line-4"> On ev'ry Genius that attempts to rise;</l><l n="5" xml:id="spp-193-WILH-line-5"> And pausing o'er a Pipe, with doubtful Nod,</l><l n="6" xml:id="spp-193-WILH-line-6"> Give Hints, that Poets ne'er believe in God.</l><l n="7" xml:id="spp-193-WILH-line-7"> So, Clowns on Scholars as on Wizards look,</l><l n="8" xml:id="spp-193-WILH-line-8"> And take a Folio for a conj'ring Book.</l></lg><lg n="2" type="stanza"><l n="9" xml:id="spp-193-WILH-line-9"><hi rend="underline">S</hi>──had the Sin of Wit no venial Crime;</l><l n="10" xml:id="spp-193-WILH-line-10"> Nay, 'twas affirm'd, he sometimes dealt in Rhime:</l><l n="11" xml:id="spp-193-WILH-line-11"> Humour, and Mirth, had Place in all he writ:</l><l n="12" xml:id="spp-193-WILH-line-12"> He reconcil'd Divinity and Wit.</l><l n="13" xml:id="spp-193-WILH-line-13"> He mov'd, and bow'd, and talk't with too much Grace;</l><l n="14" xml:id="spp-193-WILH-line-14"> Nor shew'd the Parson in his Gait or Face;</l><l n="15" xml:id="spp-193-WILH-line-15"> Despis'd luxurious Wines, and costly Meat;</l><l n="16" xml:id="spp-193-WILH-line-16"> Yet, still was at the Tables of the Great.</l><l n="17" xml:id="spp-193-WILH-line-17"> Frequented Lords; <hi rend="underline">saw those that saw the Queen</hi>;</l><l n="18" xml:id="spp-193-WILH-line-18"> At <hi rend="underline">Child</hi>'s or <hi rend="underline">Truby</hi>'s never once had been;</l><l n="19" xml:id="spp-193-WILH-line-19"> Where Town and Country Vicars flock in Tribes,</l><l n="20" xml:id="spp-193-WILH-line-20"> Secur'd by Numbers from the Lay-men's Gibes;</l><l n="21" xml:id="spp-193-WILH-line-21"> And deal in Vices of the graver Sort,</l><l n="22" xml:id="spp-193-WILH-line-22"> Tobacco, Censure, Coffee, Pride, and Port.</l></lg><lg n="3" type="stanza"><l n="23" xml:id="spp-193-WILH-line-23">B<hi rend="SMALL-CAPS">UT</hi>, after sage Monitions from his Friends,</l><l n="24" xml:id="spp-193-WILH-line-24"> His Talents to employ for nobler Ends;</l><l n="25" xml:id="spp-193-WILH-line-25"> To better Judgments willing to submit,</l><l n="26" xml:id="spp-193-WILH-line-26"> He turns to Pol[it]icks his dang'rous Wit,</l></lg><lg n="4" type="stanza"><l n="27" xml:id="spp-193-WILH-line-27">A<hi rend="SMALL-CAPS">ND</hi> now, the publick Int'rest to support,</l><l n="28" xml:id="spp-193-WILH-line-28"> By <hi rend="underline">Harley S</hi>──invited comes to Court.</l><l n="29" xml:id="spp-193-WILH-line-29"> In Favour grows with Ministers of State;</l><l n="30" xml:id="spp-193-WILH-line-30"> Admitted private, when Superiors wait:</l><l n="31" xml:id="spp-193-WILH-line-31"> And, <hi rend="underline">Harley</hi>, not asham'd his Choice to own,</l><l n="32" xml:id="spp-193-WILH-line-32"> Takes him to <hi rend="underline">Windsor</hi> in his Coach, alone.</l><l n="33" xml:id="spp-193-WILH-line-33"> At <hi rend="underline">Windsor S</hi>──no sooner can appear,</l><l n="34" xml:id="spp-193-WILH-line-34"> But, <hi rend="underline">St. John</hi> comes and whispers in his Ear;</l><l n="35" xml:id="spp-193-WILH-line-35"> The Waiters stand in Ranks; the Yeomen cry,<hi rend="underline">Make Room</hi>; as if a Duke were passing by.</l></lg><lg n="5" type="stanza"><l n="36" xml:id="spp-193-WILH-line-36">Now <hi rend="underline">Finch</hi> alarms the Lords; he hears for certain,</l><l n="37" xml:id="spp-193-WILH-line-37"> This dang'rous Priest is got behind the Curtain:<hi rend="underline">Finch</hi>, fam'd for tedious Elocution, proves</l><l n="38" xml:id="spp-193-WILH-line-38"> That <hi rend="underline">S</hi>──oils many a Spring which <hi rend="underline">Harley</hi> moves.<hi rend="underline">W</hi>──and <hi rend="underline">Ayslaby</hi>, to clear the Doubt,</l><l n="39" xml:id="spp-193-WILH-line-39"> Inform the Commons, that the Secret's out:</l><l n="40" xml:id="spp-193-WILH-line-40"> “A <hi rend="underline">certain</hi> Doctor is observ'd of late,</l><l n="41" xml:id="spp-193-WILH-line-41"> “To haunt a <hi rend="underline">certain</hi> Minister of State:</l><l n="42" xml:id="spp-193-WILH-line-42"> “From whence, with half an Eye we may discover,</l><l n="43" xml:id="spp-193-WILH-line-43"> “The Peace is made, and <hi rend="underline">Perkin</hi> must come over.<hi rend="underline">York</hi> is from <hi rend="underline">Lambeth</hi> sent, to shew the Queen</l><l n="44" xml:id="spp-193-WILH-line-44"> A dang'rous Treatise writ against the Spleen;</l><l n="45" xml:id="spp-193-WILH-line-45"> Which by the Style, the Matter, and the Drift,</l><l n="46" xml:id="spp-193-WILH-line-46"> 'Tis thought could be the Work of none but <hi rend="underline">S</hi>──</l><l n="47" xml:id="spp-193-WILH-line-47"> Poor <hi rend="underline">York</hi>! the harmless Tool of others Hate;</l><l n="48" xml:id="spp-193-WILH-line-48"> He sues for Pardon, and repents too late.</l></lg><lg n="6" type="stanza"><l n="49" xml:id="spp-193-WILH-line-49">N<hi rend="SMALL-CAPS">OW</hi>, ──────her Vengeance vows</l><l n="50" xml:id="spp-193-WILH-line-50"> On <hi rend="underline">S</hi>──'s Reproaches for her ────</l><l n="51" xml:id="spp-193-WILH-line-51"> From her red Locks her Mouth with Venom fills:</l><l n="52" xml:id="spp-193-WILH-line-52"> And thence into the Royal Ear instills.</l><l n="53" xml:id="spp-193-WILH-line-53"> The Qu──incens'd, his Services forgot,</l><l n="54" xml:id="spp-193-WILH-line-54"> Leaves him a Victim to the vengeful <hi rend="underline">Scot</hi>;</l><l n="55" xml:id="spp-193-WILH-line-55"> Now, through the Realm a Proclamation spread,</l><l n="56" xml:id="spp-193-WILH-line-56"> To fix a Price on his devoted Head.</l><l n="57" xml:id="spp-193-WILH-line-57"> While innocent, he scorns ignoble Flight;</l><l n="58" xml:id="spp-193-WILH-line-58"> His watchful Friends preserve him by a Sleight.</l></lg><lg n="7" type="stanza"><l n="59" xml:id="spp-193-WILH-line-59">B<hi rend="SMALL-CAPS">Y</hi><hi rend="underline">Harley</hi>'s Favour once again he shines;</l><l n="60" xml:id="spp-193-WILH-line-60"> Is now caress't by Candidate Divines;</l><l n="61" xml:id="spp-193-WILH-line-61"> Who change Opinions with the changing Scene:</l><l n="62" xml:id="spp-193-WILH-line-62"> Lord! how were they mistaken in the Dean!</l><l n="63" xml:id="spp-193-WILH-line-63"> Now, <hi rend="underline">Delawere</hi> again familiar grows;</l><l n="64" xml:id="spp-193-WILH-line-64"> And, in <hi rend="underline">S----t</hi>'s Ear thrusts half his powder'd Nose.</l><l n="65" xml:id="spp-193-WILH-line-65"> The <hi rend="underline">Scottish</hi> Nation, whom he durst offend,</l><l n="66" xml:id="spp-193-WILH-line-66"> Again apply that <hi rend="underline">S</hi>──would be their Friend.</l></lg><lg n="8" type="stanza"><l n="67" xml:id="spp-193-WILH-line-67">BY Faction tir'd, with Grief he waits a while,&#13;</l><l n="68" xml:id="spp-193-WILH-line-68"> His great contending Friends to reconcile.</l><l n="69" xml:id="spp-193-WILH-line-69"> Performs what Friendship, Justice, Truth require:</l><l n="70" xml:id="spp-193-WILH-line-70"> What could he more, but decently retire?193-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

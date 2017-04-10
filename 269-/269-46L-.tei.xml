@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>V<hi rend="SMALL-CAPS">ERSES</hi> <hi rend="underline">upon the late Countess of</hi></title>
+        <title>D<hi rend="SMALL-CAPS">ONEGAL</hi>, <hi rend="underline">who died in the Year</hi><lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="269-46L-" type="poem"><head type="note" n="1" xml:id="spp-269-46L--headnote-1"><lg n="1" xml:id="spp-269-46L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-269-46L--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-269-46L--headnote-2"><lg n="1" xml:id="spp-269-46L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-269-46L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-269-46L--headnote-3"><lg n="1" xml:id="spp-269-46L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-269-46L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-269-46L--line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><hi rend="display-initial">U</hi>Nerring Heav'n, with bounteous Hand,</l><l n="2" xml:id="spp-269-46L--line-2"> Has form'd a Model for your Land,</l><l n="3" xml:id="spp-269-46L--line-3"> Whom <hi rend="underline">Jove</hi> endow'd with ev'ry Grace,</l><l n="4" xml:id="spp-269-46L--line-4"> The Glory of the <hi rend="underline">Granard</hi> Race;</l><l n="5" xml:id="spp-269-46L--line-5"> Now destin'd by the Pow'rs divine,</l><l n="6" xml:id="spp-269-46L--line-6"> The Blessing of another Line.</l><l n="7" xml:id="spp-269-46L--line-7"> Then would you paint a matchless Dame,</l><l n="8" xml:id="spp-269-46L--line-8"> Whom you'd consign to endless Fame;</l><l n="9" xml:id="spp-269-46L--line-9"> Invoke not <hi rend="underline">Cytherea</hi>'s Aid,</l><l n="10" xml:id="spp-269-46L--line-10"> Nor borrow from the blue-ey'd Maid,</l><l n="11" xml:id="spp-269-46L--line-11"> Nor need you on the Graces call;────</l><l n="12" xml:id="spp-269-46L--line-12"> Take Qualities from D<hi rend="SMALL-CAPS">ONEGAL</hi>.269-46L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

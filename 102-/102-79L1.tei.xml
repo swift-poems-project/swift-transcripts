@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>MERLIN'S PROPHECY. 1709.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-102-79L1-footnote-1 #spp-102-79L1-line-7"/>
+          <link target="#spp-102-79L1-footnote-2 #spp-102-79L1-line-9"/>
+          <link target="#spp-102-79L1-footnote-3 #spp-102-79L1-line-10"/>
+          <link target="#spp-102-79L1-footnote-4 #spp-102-79L1-line-11"/>
+          <link target="#spp-102-79L1-footnote-5 #spp-102-79L1-line-12"/>
+          <link target="#spp-102-79L1-footnote-6 #spp-102-79L1-line-15"/>
+          <link target="#spp-102-79L1-footnote-7 #spp-102-79L1-line-19"/>
+          <link target="#spp-102-79L1-footnote-8 #spp-102-79L1-line-20"/>
+        </linkGrp>
+        <div n="102-79L1" type="poem"><head type="note" n="1" xml:id="spp-102-79L1-headnote-1"><lg n="1" xml:id="spp-102-79L1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-102-79L1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-102-79L1-headnote-2"><lg n="1" xml:id="spp-102-79L1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-102-79L1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-102-79L1-headnote-3"><lg n="1" xml:id="spp-102-79L1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-102-79L1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-102-79L1-line-1"><hi rend="display-initial">S</hi>EVEN and ten addyd to nine,</l><l n="2" xml:id="spp-102-79L1-line-2"> Of Fraunce her woe this is the sygne,</l><l n="3" xml:id="spp-102-79L1-line-3"> Tamys rivere twys y-frozen,</l><l n="4" xml:id="spp-102-79L1-line-4"> Walke sans wetyng shoes ne hozen.</l><l n="5" xml:id="spp-102-79L1-line-5"> Then comyth foorthe, ich understonde,</l><l n="6" xml:id="spp-102-79L1-line-6"> From towne of stoffe to fattyn londe,</l><l n="7" xml:id="spp-102-79L1-line-7"> An hardie chiftan<ref target="#spp-102-79L1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-102-79L1-footnote-1">D. of Marlborough.</note>, woe the morne,</l><l n="8" xml:id="spp-102-79L1-line-8"> To Fraunce that evere he was born.</l><l n="9" xml:id="spp-102-79L1-line-9"> Then shall the fyshe <ref target="#spp-102-79L1-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-102-79L1-footnote-2">The Dauphin.</note> beweyle his bosse;</l><l n="10" xml:id="spp-102-79L1-line-10"> Nor shall grin berrys <ref target="#spp-102-79L1-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-102-79L1-footnote-3">D. of Berry.</note> make up the losse.</l><l n="11" xml:id="spp-102-79L1-line-11"> Yonge Symnele <ref target="#spp-102-79L1-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-102-79L1-footnote-4">The young Pretender.</note> shall again miscarrye:</l><l n="12" xml:id="spp-102-79L1-line-12"> And Norways pryd <ref target="#spp-102-79L1-footnote-5">5</ref><note place="foot" n="5" xml:id="spp-102-79L1-footnote-5">Q. Anne.</note> again shall marrey.</l><l n="13" xml:id="spp-102-79L1-line-13"> And from the tree where blosums feele,</l><l n="14" xml:id="spp-102-79L1-line-14"> Rife fruit shall come, and all is wele.</l><l n="15" xml:id="spp-102-79L1-line-15"> Reaums shall daunce honde in honde<ref target="#spp-102-79L1-footnote-6">6</ref><note place="foot" n="6" xml:id="spp-102-79L1-footnote-6">By the Union.</note>,</l><l n="16" xml:id="spp-102-79L1-line-16"> And it shall be merye in old Inglonde,</l><l n="17" xml:id="spp-102-79L1-line-17"> Then old Inglonde shall be no more,</l><l n="18" xml:id="spp-102-79L1-line-18"> And no man shall be sorie therefore.</l><l n="19" xml:id="spp-102-79L1-line-19"> Geryon <ref target="#spp-102-79L1-footnote-7">7</ref><note place="foot" n="7" xml:id="spp-102-79L1-footnote-7">A king of Spain slain by Hercules.</note> shall have three hedes agayne,</l><l n="20" xml:id="spp-102-79L1-line-20"> Till Hapsburge <ref target="#spp-102-79L1-footnote-8">8</ref><note place="foot" n="8" xml:id="spp-102-79L1-footnote-8">The Archduke Charles was of the Hapsburg family.</note> makyth them but twayne.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>102-79L1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

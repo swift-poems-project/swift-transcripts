@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ON<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-457-17H2-footnote-1 #spp-457-17H2-line-21"/>
+        </linkGrp>
+        <div n="457-17H2" type="poem"><head type="note" n="1" xml:id="spp-457-17H2-headnote-1"><lg n="1" xml:id="spp-457-17H2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-457-17H2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-457-17H2-headnote-2"><lg n="1" xml:id="spp-457-17H2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-457-17H2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-457-17H2-headnote-3"><lg n="1" xml:id="spp-457-17H2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-457-17H2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-457-17H2-line-1"><hi rend="display-initial">A</hi>S a thorn-bush, or oaken-bough,</l><l n="2" xml:id="spp-457-17H2-line-2"> Stuck in an <hi rend="underline">Irish</hi> cabbin's brow,</l><l n="3" xml:id="spp-457-17H2-line-3"> Above the door, at country-fair,</l><l n="4" xml:id="spp-457-17H2-line-4"> Betokens <hi rend="underline">Entertainment there</hi>;</l><l n="5" xml:id="spp-457-17H2-line-5"> So <hi rend="underline">bays</hi> on poets brows have been</l><l n="6" xml:id="spp-457-17H2-line-6"> Set, for a sign of wit within.</l><l n="7" xml:id="spp-457-17H2-line-7"> And as ill neighbours in the night</l><l n="8" xml:id="spp-457-17H2-line-8"> Pull down an alehouse bush for spite;</l><l n="9" xml:id="spp-457-17H2-line-9"> The laurel so, by poets worn,</l><l n="10" xml:id="spp-457-17H2-line-10"> Is by the teeth of Envy torn;</l><l n="11" xml:id="spp-457-17H2-line-11"> Envy, a canker-worm which <hi rend="underline">tears</hi></l><l n="12" xml:id="spp-457-17H2-line-12"> Those sacred leaves that <hi rend="underline">lightning spares</hi>.</l><l n="13" xml:id="spp-457-17H2-line-13"> And now, t'exemplify this moral,<hi rend="underline">Tom</hi> having earn'd a twig of laurel</l><l n="14" xml:id="spp-457-17H2-line-14"> (Which, measur'd on his head, was found</l><l n="15" xml:id="spp-457-17H2-line-15"> Not long enough to reach half round,</l><l n="16" xml:id="spp-457-17H2-line-16"> But, like a girl's cockade, was tied</l><l n="17" xml:id="spp-457-17H2-line-17"> A trophy, on his temple-side);<hi rend="underline">Paddy</hi> repin'd to see him wear</l><l n="18" xml:id="spp-457-17H2-line-18"> This badge of honour in his hair,</l><l n="19" xml:id="spp-457-17H2-line-19"> And thinking this cockade of wit</l><l n="20" xml:id="spp-457-17H2-line-20"> Would his own temples better fit,</l><l n="21" xml:id="spp-457-17H2-line-21"> Forming his Muse by <ref target="#spp-457-17H2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-457-17H2-footnote-1">A dean then in <hi rend="underline">Ireland</hi>, and would-be-poet, who hoped to arrive at fame, by attacking that of other writers.</note><hi rend="underline">Smedley's</hi> model,</l><l n="22" xml:id="spp-457-17H2-line-22"> Lets drive at <hi rend="underline">Tom's</hi> devoted noddle,</l><l n="23" xml:id="spp-457-17H2-line-23"> Pelts him by turns with verse and prose,</l><l n="24" xml:id="spp-457-17H2-line-24"> Humms like a hornet at his nose,</l><l n="25" xml:id="spp-457-17H2-line-25"> At length, presumes to vent his satire on</l><l n="26" xml:id="spp-457-17H2-line-26"> The <hi rend="underline">Dean, Tom's</hi> honour'd friend and patron.</l><l n="27" xml:id="spp-457-17H2-line-27"> The <hi rend="underline">eagle</hi> in the tale, ye know,</l><l n="28" xml:id="spp-457-17H2-line-28"> Teaz'd by a buzzing wasp below,</l><l n="29" xml:id="spp-457-17H2-line-29"> Took wing to <hi rend="underline">Jove</hi>, and hop'd to rest</l><l n="30" xml:id="spp-457-17H2-line-30"> Securely in the thunderer's breast,</l><l n="31" xml:id="spp-457-17H2-line-31"> In vain; even there, to spoil his nod,</l><l n="32" xml:id="spp-457-17H2-line-32"> The <hi rend="underline">spiteful insect</hi> stung the god.457-17H2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

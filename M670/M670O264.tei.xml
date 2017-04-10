@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">On the late Examiner</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M670O264" type="poem"><head type="note" n="1" xml:id="spp-M670O264-headnote-1"><lg n="1" xml:id="spp-M670O264-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M670O264-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-M670O264-headnote-2"><lg n="1" xml:id="spp-M670O264-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M670O264-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M670O264-headnote-3"><lg n="1" xml:id="spp-M670O264-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M670O264-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-M670O264-line-1"><hi rend="display-initial">O</hi><hi rend="underline">Jonathan</hi> of merry Fame,</l><l n="2" xml:id="spp-M670O264-line-2"> As <hi rend="underline">Swift</hi> in Fancy as in Name!</l><l n="3" xml:id="spp-M670O264-line-3"> Here lye, as thou hast often done,</l><l n="4" xml:id="spp-M670O264-line-4"> Thy Holy Mother's pious Son:</l><l n="5" xml:id="spp-M670O264-line-5"> Depriv'd of Paper, Pen and Ink,</l><l n="6" xml:id="spp-M670O264-line-6"> And (what's a greater Plague) depriv'd of Drink:</l><l n="7" xml:id="spp-M670O264-line-7"> For lo! Thy Idol <hi rend="underline">OX</hi>, thy <hi rend="underline">Staff</hi> and <hi rend="underline">Rod</hi>,</l><l n="8" xml:id="spp-M670O264-line-8"> As you might say, is drop'd by G────d.</l></lg><lg n="2" type="stanza"><l n="9" xml:id="spp-M670O264-line-9">Your rampant <hi rend="underline">BULL</hi> of comely Gate,</l><l n="10" xml:id="spp-M670O264-line-10"> Who leap'd all <hi rend="underline">Cows</hi> he cou'd come at,</l><l n="11" xml:id="spp-M670O264-line-11"> Was ne'er so tame in all his Life,</l><l n="12" xml:id="spp-M670O264-line-12"> As now he sees the <hi rend="underline">Butcher's-Knife</hi>.</l></lg><lg n="3" type="stanza"><l n="13" xml:id="spp-M670O264-line-13">But <hi rend="underline">Baiting</hi> first is <hi rend="underline">Hockley</hi> Play,</l><l n="14" xml:id="spp-M670O264-line-14"> And then comes on the <hi rend="underline">Slaughter</hi> Day.</l><l n="15" xml:id="spp-M670O264-line-15"> Then O ye Sons of <hi rend="underline">Britain</hi> take your Fill,</l><l n="16" xml:id="spp-M670O264-line-16"> For all the Market says, <hi rend="underline">He is fit to kill</hi>.</l></lg><lg n="4" type="stanza"><l n="17" xml:id="spp-M670O264-line-17">But if <hi rend="underline">BULL</hi> Beef shou'd prove too toogh,</l><l n="18" xml:id="spp-M670O264-line-18"> Or for so many Mouths not quite enough;</l><l n="19" xml:id="spp-M670O264-line-19"> Go take the <hi rend="underline">OX</hi>, he's much the <hi rend="underline">fatter Beast</hi>,</l><l n="20" xml:id="spp-M670O264-line-20"> An <hi rend="underline">OX well roasted</hi> is an <hi rend="underline">English</hi> Feast.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Excellent New<lb/>SONG<lb/>UPON THE<lb/>Late GRAND-JURY.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y10CE594"><head type="note" n="1" xml:id="spp-Y10CE594-headnote-1"><lg n="1" xml:id="spp-Y10CE594-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y10CE594-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-Y10CE594-headnote-2"><lg n="1" xml:id="spp-Y10CE594-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y10CE594-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-Y10CE594-headnote-3"><lg n="1" xml:id="spp-Y10CE594-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y10CE594-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y10CE594-line-1"><hi rend="display-initial">P</hi>OOR <hi rend="underline">Monsieur</hi> his Conscience preserv'd for a Year,</l><l/><l n="2" xml:id="spp-Y10CE594-line-2">Yet in one Hour he lost it, 'tis known far and near,</l><l/><l n="3" xml:id="spp-Y10CE594-line-3">To whom did he lose it?----- A Judge or a Peer.</l><l/><l n="4" xml:id="spp-Y10CE594-line-4" rend="flush right"><hi rend="underline">Which no body can deny</hi>.</l><l/><l n="5" xml:id="spp-Y10CE594-line-5">This very same Conscience was sold in a Closet,</l><l/><l n="6" xml:id="spp-Y10CE594-line-6">Nor for a bak'd Loaf, or a Loaf in a Losset,</l><l/><l n="7" xml:id="spp-Y10CE594-line-7">But a Sweet Sugar Plumb, which you put in a Posset:</l><l/><l n="8" xml:id="spp-Y10CE594-line-8" rend="flush right"><hi rend="underline">Which no body can deny</hi>.</l><l/><l n="9" xml:id="spp-Y10CE594-line-9">O <hi rend="underline">Monsieur</hi> to sell it for nothing was Nonsense,</l><l/><l n="10" xml:id="spp-Y10CE594-line-10">For if you wou'd sell it, it shou'd have been long since,</l><l/><l n="11" xml:id="spp-Y10CE594-line-11">But now you have lost both your <hi rend="underline">Cake</hi> and your Conscience.</l><l/><l n="12" xml:id="spp-Y10CE594-line-12" rend="flush right"><hi rend="underline">Which no body can deny</hi>.</l><l/><l n="13" xml:id="spp-Y10CE594-line-13">So <hi rend="underline">Nel</hi> of the Dairy before she was wed,</l><l/><l n="14" xml:id="spp-Y10CE594-line-14">Refus'd Ten good Guineas for her Maiden-head,</l><l/><l n="15" xml:id="spp-Y10CE594-line-15">Yet gave it for nothing to smooth-spoken <hi rend="underline">Ned</hi>.</l><l/><l n="16" xml:id="spp-Y10CE594-line-16" rend="flush right"><hi rend="underline">Which no body can deny</hi>.</l><l/><l n="17" xml:id="spp-Y10CE594-line-17">But <hi rend="underline">Monsieur</hi> no <hi rend="underline">vonder dat you vere collogue</hi></l><l/><l n="18" xml:id="spp-Y10CE594-line-18">Since selling <hi rend="underline">de Contre</hi> be now all <hi rend="underline">de Vogue</hi>,</l><l/><l n="19" xml:id="spp-Y10CE594-line-19">You be but von <hi rend="underline">Fool</hi> after Seventeen <hi rend="underline">Rogue</hi>.</l><l/><l n="20" xml:id="spp-Y10CE594-line-20" rend="flush right"><hi rend="underline">Which no body can deny</hi></l><l/><l n="21" xml:id="spp-Y10CE594-line-21">Some sell it for Profit 'tis very well known,</l><l/><l n="22" xml:id="spp-Y10CE594-line-22">And some but for sitting in Sight of the Throne,</l><l/><l n="23" xml:id="spp-Y10CE594-line-23">And other some sell <hi rend="underline">what is none of their own</hi>.</l><l/><l n="24" xml:id="spp-Y10CE594-line-24" rend="flush right"><hi rend="underline">Which no body can deny</hi>.</l><l/><l n="25" xml:id="spp-Y10CE594-line-25">But <hi rend="underline">Philpot</hi> and <hi rend="underline">Corker</hi>, and <hi rend="underline">Burrus</hi> and <hi rend="underline">Hayze</hi>,</l><l/><l n="26" xml:id="spp-Y10CE594-line-26">And <hi rend="underline">Rayner</hi> and <hi rend="underline">Nicholson</hi> challenge our Praise,</l><l/><l n="27" xml:id="spp-Y10CE594-line-27">With Six other <hi rend="underline">Worthy</hi>'s as Glorious as these.</l><l/><l n="28" xml:id="spp-Y10CE594-line-28" rend="flush right"><hi rend="underline">Which no body can deny</hi>.</l><l/><l n="29" xml:id="spp-Y10CE594-line-29">There's <hi rend="underline">Donevan, Harp</hi>, and<hi rend="underline"> Archer</hi> and<hi rend="underline"> Blood</hi>,</l><l/><l n="30" xml:id="spp-Y10CE594-line-30">And <hi rend="underline">Gibson</hi> and <hi rend="underline">Gerard</hi> all true Men and good,</l><l/><l n="31" xml:id="spp-Y10CE594-line-31">All Lovers of <hi rend="underline">Ireland</hi> and Haters of <hi rend="underline">Wood</hi>.</l><l/><l n="32" xml:id="spp-Y10CE594-line-32" rend="flush right"><hi rend="underline">Which no body can deny</hi>.</l><l/><l n="33" xml:id="spp-Y10CE594-line-33">But the Slaves that wou'd sell us shall hear on't in Time,</l><l/><l n="34" xml:id="spp-Y10CE594-line-34">Their Names shall be branded in Prose and in Rhyme,</l><l/><l n="35" xml:id="spp-Y10CE594-line-35">We'll Paint 'em in Colours as Black as their <hi rend="underline">Crime</hi>.</l><l/><l n="36" xml:id="spp-Y10CE594-line-36" rend="flush right"><hi rend="underline">Which no body can deny</hi>.</l><l/><l n="37" xml:id="spp-Y10CE594-line-37">But <hi rend="underline">P-----r</hi> and <hi rend="underline">copper L-----h</hi> we'll excuse,</l><l/><l n="38" xml:id="spp-Y10CE594-line-38">The commands of your Betters you dare not refuse,</l><l/><l n="39" xml:id="spp-Y10CE594-line-39"><hi rend="underline">Obey</hi> was the Word when you wore <hi rend="underline">Wooden Shoes</hi>.</l><l/><l n="40" xml:id="spp-Y10CE594-line-40" rend="flush right"><hi rend="underline">Which no body can deny</hi>.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

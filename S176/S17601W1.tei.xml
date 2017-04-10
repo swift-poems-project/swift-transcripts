@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">A Letter of Advice to the Reverend Dr D──la──y, humbly</hi>
+        </title>
+        <title><hi rend="underline">proposed to the Consideration of a certain great Lord</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S17601W1" type="letter"><head type="note" n="1" xml:id="spp-S17601W1-headnote-1"><lg n="1" xml:id="spp-S17601W1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-S17601W1-headnote-1-line-group-1-line-1">This curious libel upon Dr Delany takes the same tone with the rebuke administered to him by Swift, for boasting of his intimacy with Delany. See Vol. XIV. p. 400 and 424, and also p. 357 of this volume, where it is observed that there occurred some coldness between the Dean and Delany. I have a copy of verses upon Lord Carteret, supposed to be written by Dr Delany himself, in which his Lordship's taste for society is characterized by the last line:</l></lg></head><head type="note" n="2" xml:id="spp-S17601W1-headnote-2"><lg n="1" xml:id="spp-S17601W1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-S17601W1-headnote-2-line-group-1-line-1">“He chooses Delany and Tickell for friends.”</l></lg></head><head type="note" n="3" xml:id="spp-S17601W1-headnote-3"><lg n="1" xml:id="spp-S17601W1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-S17601W1-headnote-3-line-group-1-line-1">This affectation of holding himself forth as the chosen favourite of the lord-lieutenant's easier hours, called down the censure of Tisdal, Smedley, and others, to one of whom we owe the following lines. They are here inserted as throwing some light on Swift's literary history.</l></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-S17601W1-line-1">W<hi rend="SMALL-CAPS">HAT</hi> Doctor, if great Carteret condescends</l><l n="2" xml:id="spp-S17601W1-line-2"> To chat with Swift and you as private friends,</l><l n="3" xml:id="spp-S17601W1-line-3"> Must you so silly be to tell the town,</l><l n="4" xml:id="spp-S17601W1-line-4"> And boast of freedoms he may blush to own;</l><l n="5" xml:id="spp-S17601W1-line-5"> Is this the modest dutiful behaviour</l><l n="6" xml:id="spp-S17601W1-line-6"> You shew your patron, for so great a favour?</l><l n="7" xml:id="spp-S17601W1-line-7"> Think you these honours to your merit due?</l><l n="8" xml:id="spp-S17601W1-line-8"> What equal honours can reflect from you?</l><l n="9" xml:id="spp-S17601W1-line-9"> You may perhaps propose immortal fame,</l><l n="10" xml:id="spp-S17601W1-line-10"> Under the shelter of your patron's name,</l><l n="11" xml:id="spp-S17601W1-line-11"> If you presume too far, you miss that end,</l><l n="12" xml:id="spp-S17601W1-line-12"> For the like course lost Swift his Gallstown friend,</l><l n="13" xml:id="spp-S17601W1-line-13"> And may in time disturb your patron too,</l><l n="14" xml:id="spp-S17601W1-line-14"> To see the simple choice he's made of you.</l><l n="15" xml:id="spp-S17601W1-line-15"> But is my lord still short of his intent?</l><l n="16" xml:id="spp-S17601W1-line-16"> Or is your merit of that vast extent,</l><l n="17" xml:id="spp-S17601W1-line-17"> That nothing less than thousands can content?</l><l n="18" xml:id="spp-S17601W1-line-18"> There was a time when Paddy, out of hope,</l><l n="19" xml:id="spp-S17601W1-line-19"> Thought a West Indian jaunt his utmost scope.</l><l n="20" xml:id="spp-S17601W1-line-20"> The world's well mended since with Patrick, now</l><l n="21" xml:id="spp-S17601W1-line-21"> Nothing but vistos and canals will do.</l><l n="22" xml:id="spp-S17601W1-line-22"> But pray, great sir, what friend of common sense,</l><l n="23" xml:id="spp-S17601W1-line-23"> Would labour to promote such vain expence?</l><l n="24" xml:id="spp-S17601W1-line-24"> And must your breth'ren all in hamlets dwell,</l><l n="25" xml:id="spp-S17601W1-line-25"> T' adorn your busts, and young St Patrick's cell?</l><l n="26" xml:id="spp-S17601W1-line-26"> Why may not some of 'em, for ought you know,</l><l n="27" xml:id="spp-S17601W1-line-27"> Have a desire to build and to bestow?</l><l n="28" xml:id="spp-S17601W1-line-28"> Retrench then, and be modest if you can, Sir,</l><l n="29" xml:id="spp-S17601W1-line-29"> Or raise objections stronger than your answer.</l><l n="30" xml:id="spp-S17601W1-line-30"> Think, Doctor, after double vicar, double rector,</l><l n="31" xml:id="spp-S17601W1-line-31"> A dignity in Christ-Church lecture:</l><l n="32" xml:id="spp-S17601W1-line-32"> And something else, which you have still forgot,</l><l n="33" xml:id="spp-S17601W1-line-33"> A college place. Won't all this boil the pot.</l><l n="34" xml:id="spp-S17601W1-line-34"> Then judge how very aukwardly it looks,</l><l n="35" xml:id="spp-S17601W1-line-35"> “You have not yet enough to buy your books.”</l><l n="36" xml:id="spp-S17601W1-line-36"> Good Patrick take advice, and first read o'er</l><l n="37" xml:id="spp-S17601W1-line-37"> The books you have, before you call for more;</l><l n="38" xml:id="spp-S17601W1-line-38"> Resign some of those cures you labour hard in,</l><l n="39" xml:id="spp-S17601W1-line-39"> If you must spend whole summers in your garden,</l><l n="40" xml:id="spp-S17601W1-line-40"> Attend some one at least, and quit Glass-Nevin,</l><l n="41" xml:id="spp-S17601W1-line-41"> Which will destroy your credit, if you live in,</l><l n="42" xml:id="spp-S17601W1-line-42"> Let Barber, tho' polite, at counter wait,</l><l n="43" xml:id="spp-S17601W1-line-43"> Nor longer be caress'd in pomp and state,</l><l n="44" xml:id="spp-S17601W1-line-44"> Quickly do this, or you may some provoke</l><l n="45" xml:id="spp-S17601W1-line-45"> To say, you mean to fleece, not feed the flock.S17601W1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

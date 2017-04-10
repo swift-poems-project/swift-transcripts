@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Excellent new <hi rend="underline">Ballad</hi>; or the true</title>
+        <title xml:id="spp-516-0271-title-1"><hi rend="underline">English</hi> <ref target="#spp-516-0271-footnote-title-1">1</ref><note n="1" xml:id="spp-516-0271-footnote-title-1" place="foot">──S<hi rend="SMALL-CAPS">AWBRIDGE</hi>, <hi rend="underline">Dean of </hi>Fernes<hi rend="underline">, lately deceased</hi>.</note> Dean to be hanged for a <hi rend="underline">Rape</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-516-0271-footnote-title-1 #spp-516-0271-title-1"/>
+          <link target="#spp-516-0271-footnote-1 #spp-516-0271-line-23"/>
+          <link target="#spp-516-0271-footnote-2 #spp-516-0271-line-32"/>
+          <link target="#spp-516-0271-footnote-3 #spp-516-0271-line-34"/>
+        </linkGrp>
+        <div n="516-0271" type="poem"><head type="note" n="1" xml:id="spp-516-0271-headnote-1"><lg n="1" xml:id="spp-516-0271-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-516-0271-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-516-0271-headnote-2"><lg n="1" xml:id="spp-516-0271-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-516-0271-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-516-0271-headnote-3"><lg n="1" xml:id="spp-516-0271-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-516-0271-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-516-0271-line-1" rend="align(center)">I.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-516-0271-line-2" rend="flush left"><hi rend="display-initial">O</hi>UR Brethren of <hi rend="underline">England</hi>, who love us so dear,And in all they do for us so kindly do mean,</l><l n="3" xml:id="spp-516-0271-line-3"> A Blessing upon them, have sent us this Year,For the Good of our Church, a true <hi rend="underline">English</hi> Dean.</l><l n="4" xml:id="spp-516-0271-line-4"> A holier Priest ne'er was wrapt up in Crape,</l><l n="5" xml:id="spp-516-0271-line-5" rend="align(center)"> The worst you can say, he committed a Rape.II.</l></lg><lg n="3" type="stanza"><l n="6" xml:id="spp-516-0271-line-6" rend="flush left">I<hi rend="SMALL-CAPS">N</hi> his Journey to <hi rend="underline">Dublin</hi>, he lighted at <hi rend="underline">Chester</hi>,And there he grew fond of another Man's Wife;</l><l n="7" xml:id="spp-516-0271-line-7"> Burst into her Chamber, and wou'd have carest her;But she valu'd her Honour much more than her Life.</l><l n="8" xml:id="spp-516-0271-line-8"> She bustled, and struggled, and made her Escape,</l><l n="9" xml:id="spp-516-0271-line-9" rend="align(center)"> To a Room full of Guests for fear of a Rape.III.</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-516-0271-line-10" rend="flush left">T<hi rend="SMALL-CAPS">HE</hi><hi rend="underline">Dean</hi> he pursu'd to recover his Game;And now to attack her again he prepares;</l><l n="11" xml:id="spp-516-0271-line-11"> But the Company stood in Defence of the Dame,They cudgel'd, and cuft him, and kickt him down Stairs.</l><l n="12" xml:id="spp-516-0271-line-12"> His Deanship was now in a damnable Scrape,</l><l n="13" xml:id="spp-516-0271-line-13" rend="align(center)"> And this was no Time for committing a Rape.IV.</l></lg><lg n="5" type="stanza"><l n="14" xml:id="spp-516-0271-line-14" rend="flush left">T<hi rend="SMALL-CAPS">O</hi><hi rend="underline">Dublin</hi> he comes, to the <hi rend="underline">Bagnio</hi> he goes,And orders the Landlord to bring him a Whore;</l><l n="15" xml:id="spp-516-0271-line-15"> No Scruple came on him his Gown to expose,'Twas what all his Life he had practis'd before,</l><l n="16" xml:id="spp-516-0271-line-16"> He had made himself drunk with the Juice of the Grape,</l><l n="17" xml:id="spp-516-0271-line-17" rend="align(center)"> And got a good <hi rend="underline">Clap</hi>, but committed no Rape.V.</l></lg><lg n="6" type="stanza"><l n="18" xml:id="spp-516-0271-line-18" rend="flush left">T<hi rend="SMALL-CAPS">HE</hi> Dean and his Landlord, a jolly Comrade,Resolv'd for a Fortnight to swim in Delight;</l><l n="19" xml:id="spp-516-0271-line-19"> For why, they had both been brought up to the TradeOf drinking all Day, and of whoring all Night.</l><l n="20" xml:id="spp-516-0271-line-20"> His Landlord was ready his Deanship to ape</l><l n="21" xml:id="spp-516-0271-line-21" rend="align(center)"> In ev'ry Debauch, but committing a Rape.VI.</l></lg><lg n="7" type="stanza"><l n="22" xml:id="spp-516-0271-line-22" rend="flush left">T<hi rend="SMALL-CAPS">HIS</hi><hi rend="underline">Protestant</hi> Zealot, this <hi rend="underline">English</hi> Divine,In Church and in State was of Principles sound;</l><l n="23" xml:id="spp-516-0271-line-23"> Was truer than <hi rend="underline">Steel</hi><ref target="#spp-516-0271-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-516-0271-footnote-1"><hi rend="underline">Sir </hi>Richard Steel<hi rend="underline"> Author of some Plays</hi>, &amp;c.</note> to the <hi rend="underline">Hanover</hi> Line,And griev'd that a <hi rend="underline">Tory</hi> should live above Ground.</l><l n="24" xml:id="spp-516-0271-line-24"> Shall a Subject so Loyal be hang'd by the Nape,</l><l n="25" xml:id="spp-516-0271-line-25" rend="align(center)"> For no other Crime but committing a Rape?VII.</l></lg><lg n="8" type="stanza"><l n="26" xml:id="spp-516-0271-line-26" rend="flush left">B<hi rend="SMALL-CAPS">Y</hi> old <hi rend="underline">Popish</hi> Canons, as wise Men have penn'd 'em,Each Priest had a Concubine, <hi rend="underline">jure Ecclesi<unclear>ae</unclear></hi>;</l><l n="27" xml:id="spp-516-0271-line-27"> Who'd be Dean of <hi rend="underline">Fernes</hi> without a <hi rend="underline">Commendam</hi>?And Precedents we can produce, if it please ye:</l><l n="28" xml:id="spp-516-0271-line-28"> Then, why should the Dean, when Whores are so cheap,</l><l n="29" xml:id="spp-516-0271-line-29" rend="align(center)"> Be put to the Peril and Toil of a Rape?VIII.</l></lg><lg n="9" type="stanza"><l n="30" xml:id="spp-516-0271-line-30" rend="flush left">If Fortune should please but to take such a Crotchet,&#13;(To thee I apply great <hi rend="underline">Smedley</hi>'s Successor)</l><l n="31" xml:id="spp-516-0271-line-31"> To give thee <hi rend="underline">Lawn-Sleeves</hi>, a <hi rend="underline">Mitre</hi>, and <hi rend="underline">Rotchet</hi>,Whom would'st thou resemble I leave thee a Guesser;</l><l n="32" xml:id="spp-516-0271-line-32"> But I only behold thee in <ref target="#spp-516-0271-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-516-0271-footnote-2"><hi rend="underline">A Bishop of </hi>Waterford<hi rend="underline">, sent from </hi>England<hi rend="underline"> a Hundred Years ago, who was hanged at </hi>Arbor-Hill<hi rend="underline">, near</hi> Dublin.</note><hi rend="underline">Atherton</hi>'s Shape,</l><l n="33" xml:id="spp-516-0271-line-33" rend="align(center)"> For <hi rend="underline">Sodomy</hi> hang'd, as thou for a Rape.IX.</l></lg><lg n="10" type="stanza"><l n="34" xml:id="spp-516-0271-line-34" rend="flush left">A<hi rend="SMALL-CAPS">H</hi>! dost thou not envy the brave <ref target="#spp-516-0271-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-516-0271-footnote-3"><hi rend="underline">See an Epitaph in </hi>P<hi rend="SMALL-CAPS">OPE'S<hi rend="underline"> Works, written by Dr.</hi></hi> A<hi rend="SMALL-CAPS"/>.</note> Colonel <hi rend="underline">Chartres</hi>,Condemn'd for thy Crime, at Threescore and Ten?</l><l n="35" xml:id="spp-516-0271-line-35"> To hang him all <hi rend="underline">England</hi> would lend him their Garters;Yet he lives, and is ready to ravish again.</l><l n="36" xml:id="spp-516-0271-line-36"> Then throttle thy self with an Ell of strong Tape,</l><l n="37" xml:id="spp-516-0271-line-37" rend="align(center)"> For thou hast not a Groat to attone for a Rape.X.</l></lg><lg n="11" type="stanza"><l n="38" xml:id="spp-516-0271-line-38" rend="flush left">T<hi rend="SMALL-CAPS">HE</hi> Dean he was vext that his Whores were so willing:He long'd for a Girl that would struggle and squall;</l><l n="39" xml:id="spp-516-0271-line-39"> He ravish'd her fairly, and sav'd a good Shilling;But, here was to pay the Devil and all.</l><l n="40" xml:id="spp-516-0271-line-40"> His Trouble and Sorrows now come in a Heap,</l><l n="41" xml:id="spp-516-0271-line-41" rend="align(center)"> And hang'd he must be for committing a Rape.XI.</l></lg><lg n="12" type="stanza"><l n="42" xml:id="spp-516-0271-line-42" rend="flush left">If Maidens are ravish'd, it is their own Choice;&#13;Why are they so wilful to struggle with Men?</l><l n="43" xml:id="spp-516-0271-line-43"> If they would but lye quiet, and stifle their Voice,No Devil, nor Dean could ravish 'em then.</l><l n="44" xml:id="spp-516-0271-line-44"> Nor would there be need of a strong Hempen Cape,</l><l n="45" xml:id="spp-516-0271-line-45" rend="align(center)"> Ty'd round the Dean's Neck, for committing a Rape.XII.</l></lg><lg n="13" type="stanza"><l n="46" xml:id="spp-516-0271-line-46" rend="flush left">O<hi rend="SMALL-CAPS">UR</hi> Church and our State dear <hi rend="underline">England</hi> maintains,For which all true Protestant Hearts should be glad;</l><l n="47" xml:id="spp-516-0271-line-47"> She sends us our Bishops, and Judges, and Deans;And better would give us, if better she had:</l><l n="48" xml:id="spp-516-0271-line-48"> But, Lord! how the Rabble will stare and will gape,</l><l n="49" xml:id="spp-516-0271-line-49"> When the good <hi rend="underline">English</hi> Dean is hang'd up for a Rape.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

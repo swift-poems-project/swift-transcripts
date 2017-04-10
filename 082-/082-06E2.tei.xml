@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-082-06E2-title-1">The D<hi rend="SMALL-CAPS">ESCRIPTION</hi> of a S<hi rend="SMALL-CAPS">ALAMANDER</hi> <ref target="#spp-082-06E2-footnote-title-1">1</ref><note n="1" xml:id="spp-082-06E2-footnote-title-1" place="foot">This excessive bitter <hi rend="underline">description of a salamander</hi>, was occasioned by the Duke of Marlborough's giving that appellation to Lord Cutts, after he had come off victorious, and without a wound, from an engagement with part of the French army, whose fire was so extremely brisk, and so incessantly poured in upon the English forces, that it was supposed nothing but a <hi rend="underline">salamander</hi> could have lived in the midst of it. <hi rend="underline">Swift</hi>.</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-082-06E2-footnote-title-1 #spp-082-06E2-title-1"/>
+          <link target="#spp-082-06E2-footnote-1 #spp-082-06E2-line-19"/>
+          <link target="#spp-082-06E2-footnote-2 #spp-082-06E2-line-19"/>
+          <link target="#spp-082-06E2-footnote-3 #spp-082-06E2-line-22"/>
+        </linkGrp>
+        <div n="082-06E2" type="poem"><head type="note" n="1" xml:id="spp-082-06E2-headnote-1"><lg n="1" xml:id="spp-082-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-082-06E2-headnote-1-line-group-1-line-1"><hi rend="underline">Out of Pliny</hi>'s Natural History, <hi rend="underline">lib</hi>. 10. <hi rend="underline">c</hi>. 67. <hi rend="underline">and lib</hi>. 29. <hi rend="underline">c</hi>. 4.</l></lg></head><head type="note" n="2" xml:id="spp-082-06E2-headnote-2"><lg n="1" xml:id="spp-082-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-082-06E2-headnote-2-line-group-1-line-1">Written in the year 1706.</l></lg></head><head type="note" n="3" xml:id="spp-082-06E2-headnote-3"><lg n="1" xml:id="spp-082-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-082-06E2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-082-06E2-line-1"><hi rend="display-initial">A</hi>S mastiff dogs in modern phrase are</l><l n="2" xml:id="spp-082-06E2-line-2"> Call'd <hi rend="underline">Pompey, Scipio</hi>, and <hi rend="underline">C<unclear>ae</unclear>sar</hi>;</l><l n="3" xml:id="spp-082-06E2-line-3"> As <hi rend="underline">pyes</hi> and <hi rend="underline">daws</hi> are often styl'd</l><l n="4" xml:id="spp-082-06E2-line-4"> With Christian nicknames like a child;</l><l n="5" xml:id="spp-082-06E2-line-5"> As we say <hi rend="underline">Monsieur</hi> to an <hi rend="underline">ape</hi>,</l><l n="6" xml:id="spp-082-06E2-line-6"> Without offence to human shape;</l><l n="7" xml:id="spp-082-06E2-line-7"> So men have got from bird and brute</l><l n="8" xml:id="spp-082-06E2-line-8"> Names that would best their natures suit.</l><l n="9" xml:id="spp-082-06E2-line-9"> The <hi rend="underline">lion, eagle, fox</hi>, and <hi rend="underline">boar</hi>,</l><l n="10" xml:id="spp-082-06E2-line-10"> Were heroes titles heretofore,</l><l n="11" xml:id="spp-082-06E2-line-11"> Bestow'd as hi'roglyphics fit</l><l n="12" xml:id="spp-082-06E2-line-12"> To shew their valour, strength, or wit:</l><l n="13" xml:id="spp-082-06E2-line-13"> For what is understood by <hi rend="underline">fame</hi>,</l><l n="14" xml:id="spp-082-06E2-line-14"> Besides the getting of a <hi rend="underline">name</hi>?</l><l n="15" xml:id="spp-082-06E2-line-15"> But, e'er since men invented guns,</l><l n="16" xml:id="spp-082-06E2-line-16"> A diff'rent way their fancy runs:</l><l n="17" xml:id="spp-082-06E2-line-17"> To paint a hero, we inquire</l><l n="18" xml:id="spp-082-06E2-line-18"> For something that will conquer <hi rend="underline">fire</hi>.</l><l n="19" xml:id="spp-082-06E2-line-19"> Would you describe Turenne <ref target="#spp-082-06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-082-06E2-footnote-1">The famous Mareschal Turenne, General of the French forces, said to have been the greatest commander of the age.  <hi rend="underline">H</hi>.</note> or Trump<ref target="#spp-082-06E2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-082-06E2-footnote-2">Van Trump, Admiral of the States-General in their last war with England, eminent for his courage and his victories.  <hi rend="underline">H</hi>.</note>?</l><l n="20" xml:id="spp-082-06E2-line-20"> Think of a bucket or a pump.</l><l n="21" xml:id="spp-082-06E2-line-21"> Are these too low?──then find out grander,</l><l n="22" xml:id="spp-082-06E2-line-22"> Call my Lord Cutts a <hi rend="underline">salamander</hi><ref target="#spp-082-06E2-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-082-06E2-footnote-3">Lord Cutts. <hi rend="underline">Salamander</hi> was a name given him by his flatterers, upon his having survived an engagement in which he stood an incessant fire for many hours.  He is said frequently to have lamented himself in these terms: “G──d d──n my bl──d, I'm The most unlucky dog upon earth; for I never engaged an enemy without being wounded, nor a whore without being p──x'd.” ·<hi rend="underline">Hawkes</hi>.</note>.</l><l n="23" xml:id="spp-082-06E2-line-23"> 'Tis well;──but since we live among</l><l n="24" xml:id="spp-082-06E2-line-24"> Detractors with an evil tongue,</l><l n="25" xml:id="spp-082-06E2-line-25"> Who may object against the term,</l><l n="26" xml:id="spp-082-06E2-line-26"> Pliny shall prove what we affirm;</l><l n="27" xml:id="spp-082-06E2-line-27"> Pliny shall prove, and we'll apply,</l><l n="28" xml:id="spp-082-06E2-line-28"> And I'll be judg'd by standers-by.First, then, our author has defin'd</l><l n="29" xml:id="spp-082-06E2-line-29"> This reptile of the serpent kind,</l><l n="30" xml:id="spp-082-06E2-line-30"> With gaudy coat, and shining train;</l><l n="31" xml:id="spp-082-06E2-line-31"> But loathsome spots his body stain:</l><l n="32" xml:id="spp-082-06E2-line-32"> Out from some hole obscure he flies,</l><l n="33" xml:id="spp-082-06E2-line-33"> When rains descend, and tempests rise,</l><l n="34" xml:id="spp-082-06E2-line-34"> Till the sun clears the air; and then</l><l n="35" xml:id="spp-082-06E2-line-35"> Crawls back neglected to his den.So, when the war has rais'd a storm,</l><l n="36" xml:id="spp-082-06E2-line-36"> I've seen a <hi rend="underline">snake</hi> in human form,</l><l n="37" xml:id="spp-082-06E2-line-37"> All stain'd with infamy and vice,</l><l n="38" xml:id="spp-082-06E2-line-38"> Leap from the dunghill in a trice,</l><l n="39" xml:id="spp-082-06E2-line-39"> Burnish, and make a gaudy show,</l><l n="40" xml:id="spp-082-06E2-line-40"> Became a gen'ral, peer, and beau,</l><l n="41" xml:id="spp-082-06E2-line-41"> Till peace hath made the sky serene;</l><l n="42" xml:id="spp-082-06E2-line-42"> Then shrink into its hole again.</l></lg><lg n="2" type="stanza"><l n="43" xml:id="spp-082-06E2-line-43" rend="indent(1)"><hi rend="underline">All this we grant──why then look yonder,&#13;Sure that must be a</hi> salamander!</l></lg><lg n="3" type="stanza"><l n="44" xml:id="spp-082-06E2-line-44">Farther, we are by Pliny told,&#13;</l><l n="45" xml:id="spp-082-06E2-line-45"> This <hi rend="underline">serpent</hi> is extremely cold;</l><l n="46" xml:id="spp-082-06E2-line-46"> So cold, that, put it in the fire,</l><l n="47" xml:id="spp-082-06E2-line-47"> 'Twill make the very flames expire:</l><l n="48" xml:id="spp-082-06E2-line-48"> Besides, it spues a filthy froth</l><l n="49" xml:id="spp-082-06E2-line-49"> (Whether through rage, or lust, or both)</l><l n="50" xml:id="spp-082-06E2-line-50"> Of matter purulent and white,</l><l n="51" xml:id="spp-082-06E2-line-51"> Which happening on the skin to light,</l><l n="52" xml:id="spp-082-06E2-line-52"> And there corrupting to a wound,</l><l n="53" xml:id="spp-082-06E2-line-53"> Spreads leprosy and baldness round.So have I seen a batter'd beau,</l><l n="54" xml:id="spp-082-06E2-line-54"> By age and claps grown cold as snow,</l><l n="55" xml:id="spp-082-06E2-line-55"> Whose breath or touch, where-e'er he came,</l><l n="56" xml:id="spp-082-06E2-line-56"> Blew out love's torch, or chill'd the flame:</l><l n="57" xml:id="spp-082-06E2-line-57"> And should some nymph who ne'er was cruel,</l><l n="58" xml:id="spp-082-06E2-line-58"> Like Charleton cheap, or fam'd Du-Ruel,</l><l n="59" xml:id="spp-082-06E2-line-59"> Receive the filth which he ejects,</l><l n="60" xml:id="spp-082-06E2-line-60"> She soon would find the same effects</l><l n="61" xml:id="spp-082-06E2-line-61"> Her tainted carcase to pursue,</l><l n="62" xml:id="spp-082-06E2-line-62"> As from the <hi rend="underline">salamander</hi>'s spue;</l><l n="63" xml:id="spp-082-06E2-line-63"> A dismal shedding of her locks,</l><l n="64" xml:id="spp-082-06E2-line-64"> And, if no leprosy, a pox.</l></lg><lg n="4" type="stanza"><l n="65" xml:id="spp-082-06E2-line-65" rend="indent(1)"><hi rend="underline">Then I'll appeal to each by-stander,&#13;If this be not a</hi> salamander?</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

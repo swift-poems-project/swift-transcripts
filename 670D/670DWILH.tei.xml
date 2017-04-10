@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <lb/>
+          <lb/>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-670DWILH-footnote-1 #spp-670DWILH-line-2"/>
+        </linkGrp>
+        <div n="670DWILH" type="poem"><head type="note" n="1" xml:id="spp-670DWILH-headnote-1"><lg n="1" xml:id="spp-670DWILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-670DWILH-headnote-1-line-group-1-line-1"><hi rend="underline">By</hi> S<hi rend="SMALL-CAPS">WIFT</hi> <hi rend="underline">and Others</hi></l></lg></head><head type="note" n="2" xml:id="spp-670DWILH-headnote-2"><lg n="1" xml:id="spp-670DWILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-670DWILH-headnote-2-line-group-1-line-1"><hi rend="underline">Irish Epigram English'd</hi>.</l></lg></head><head type="note" n="3" xml:id="spp-670DWILH-headnote-3"><lg n="1" xml:id="spp-670DWILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-670DWILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-670DWILH-line-1"><hi rend="display-initial">W</hi>Hile with the Fustian of thy BookThe witty Ancient you enrobe,</l><l n="2" xml:id="spp-670DWILH-line-2"> You make the graceful <hi rend="underline">Horace</hi> lookAs pitiful as <hi rend="underline">Tom <ref target="#spp-670DWILH-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-670DWILH-footnote-1"><hi rend="underline">A notorious </hi>Irish<hi rend="underline"> Poetaster, ridicul'd by all the Ancient Wits of this Kingdom, insomuch that he became a Proverb.</hi></note> Mac Lobe</hi>.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-670DWILH-line-3" rend="align(center)">2.</l></lg><lg n="3" type="stanza"><l n="4" xml:id="spp-670DWILH-line-4" rend="flush left">Ye Muses guard your sacred Mount,&#13;And <hi rend="underline">Helicon</hi>; for if this Log</l><l n="5" xml:id="spp-670DWILH-line-5"> Should stumble once into the Fount,He'll make it muddy as a Bog.670DWILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

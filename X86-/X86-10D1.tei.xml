@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A New COPY of</title>
+        <title>VERSES.</title>
+        <title>On the Present TIMES, Relating to the Church</title>
+        <title>and Dr. <hi rend="underline">SACHEVERELL</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X86-10D1" type="poem"><head type="note" n="1" xml:id="spp-X86-10D1-headnote-1"><lg n="1" xml:id="spp-X86-10D1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X86-10D1-headnote-1-line-group-1-line-1">This may be Sung with the Tune of, <lb/> <hi rend="underline">Ye Commons and Peers</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-X86-10D1-headnote-2"><lg n="1" xml:id="spp-X86-10D1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X86-10D1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X86-10D1-headnote-3"><lg n="1" xml:id="spp-X86-10D1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X86-10D1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X86-10D1-line-1" rend="align(center)">I.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-X86-10D1-line-2" rend="flush left"><hi rend="display-initial">A</hi> Wonderful Age</l><l n="3" xml:id="spp-X86-10D1-line-3"> Is now on the Stage</l><l n="4" xml:id="spp-X86-10D1-line-4"> I'll tell you a Tale if I can,</l><l n="5" xml:id="spp-X86-10D1-line-5"> How the Modern <hi rend="underline">Whiggs</hi></l><l n="6" xml:id="spp-X86-10D1-line-6"> Dance Forty One Jiggs,</l><l n="7" xml:id="spp-X86-10D1-line-7" rend="align(center)"> But God Bless our Gracious <hi rend="underline">Queen ANNE</hi>.II.</l></lg><lg n="3" type="stanza"><l n="8" xml:id="spp-X86-10D1-line-8" rend="flush left">The <hi rend="underline">Kirk</hi> with Applause,</l><l n="9" xml:id="spp-X86-10D1-line-9"> Is Establish'd by Laws,</l><l n="10" xml:id="spp-X86-10D1-line-10"> As the <hi rend="underline">Orthodox</hi> Church of a Nation,</l><l n="11" xml:id="spp-X86-10D1-line-11"> And our Bishops do own</l><l n="12" xml:id="spp-X86-10D1-line-12"> It's as good as their own,</l><l n="13" xml:id="spp-X86-10D1-line-13" rend="align(center)"> And this Sir, is call'd <hi rend="underline">Moderation</hi>.III.</l></lg><lg n="4" type="stanza"><l n="14" xml:id="spp-X86-10D1-line-14" rend="flush left">It's no Riddle now,&#13;</l><l n="15" xml:id="spp-X86-10D1-line-15"> To shew you Sir how,</l><l n="16" xml:id="spp-X86-10D1-line-16"> A Church by Oppression may speed,</l><l n="17" xml:id="spp-X86-10D1-line-17"> Nor is it a Jest</l><l n="18" xml:id="spp-X86-10D1-line-18"> That the Kirk Faith is best</l><l n="19" xml:id="spp-X86-10D1-line-19" rend="align(center) flush left"> On the other side of the Tweed.IV.</l></lg><lg n="5" type="stanza"><l n="20" xml:id="spp-X86-10D1-line-20">As no Climate can suit,&#13;</l><l n="21" xml:id="spp-X86-10D1-line-21"> With every Fruit,</l><l n="22" xml:id="spp-X86-10D1-line-22"> Ev'n so Sir, it is with Religion,</l><l n="23" xml:id="spp-X86-10D1-line-23"> The best Church by far</l><l n="24" xml:id="spp-X86-10D1-line-24"> Is what grows where you are,</l><l n="25" xml:id="spp-X86-10D1-line-25" rend="align(center)"> Were it <hi rend="underline">Mahomet</hi>'s Ass and his Pidgeon.V.</l></lg><lg n="6" type="stanza"><l n="26" xml:id="spp-X86-10D1-line-26" rend="flush left">Another strange story&#13;</l><l n="27" xml:id="spp-X86-10D1-line-27"> That Vexes the <hi rend="underline">Tory</hi>,</l><l n="28" xml:id="spp-X86-10D1-line-28"> But sure there's no Mystery in it,</l><l n="29" xml:id="spp-X86-10D1-line-29"> That a Pension or Place,</l><l n="30" xml:id="spp-X86-10D1-line-30"> Give Communicants grace,</l><l n="31" xml:id="spp-X86-10D1-line-31" rend="align(center)"> Who resolve to turn Tail the next Minute.VI.</l></lg><lg n="7" type="stanza"><l n="32" xml:id="spp-X86-10D1-line-32" rend="flush left">For if it ben't Strange&#13;</l><l n="33" xml:id="spp-X86-10D1-line-33"> That our Faith we may Change,</l><l n="34" xml:id="spp-X86-10D1-line-34"> As often as Country's and Fashions;</l><l n="35" xml:id="spp-X86-10D1-line-35"> Then sure there's no harm</l><l n="36" xml:id="spp-X86-10D1-line-36"> That one should Conform</l><l n="37" xml:id="spp-X86-10D1-line-37" rend="align(center)"> To serve his own private occasion.VII.</l></lg><lg n="8" type="stanza"><l n="38" xml:id="spp-X86-10D1-line-38" rend="flush left">Another New Dance&#13;</l><l n="39" xml:id="spp-X86-10D1-line-39"> The <hi rend="underline">Whiggs</hi> lately Advance,</l><l n="40" xml:id="spp-X86-10D1-line-40"> Is to Cry up the Health of Pretender,</l><l n="41" xml:id="spp-X86-10D1-line-41"> And those who would own</l><l n="42" xml:id="spp-X86-10D1-line-42"> The Queen Heir to the Crown,</l><l n="43" xml:id="spp-X86-10D1-line-43" rend="align(center)"> Are Traytors not fit to Defend Her.VIII.</l></lg><lg n="9" type="stanza"><l n="44" xml:id="spp-X86-10D1-line-44" rend="flush left">That Subject's most Loyal&#13;</l><l n="45" xml:id="spp-X86-10D1-line-45"> Who hates the Blood Royal,</l><l n="46" xml:id="spp-X86-10D1-line-46"> And they for Employments have Merit,</l><l n="47" xml:id="spp-X86-10D1-line-47"> Who Swear Queen and Steeple</l><l n="48" xml:id="spp-X86-10D1-line-48"> Were made by the People</l><l n="49" xml:id="spp-X86-10D1-line-49" rend="align(center)"> And neither has Right to Inherit.IX.</l></lg><lg n="10" type="stanza"><l n="50" xml:id="spp-X86-10D1-line-50" rend="flush left">The Monarchy's fix't&#13;</l><l n="51" xml:id="spp-X86-10D1-line-51"> By proving it mixt,</l><l n="52" xml:id="spp-X86-10D1-line-52"> And by Non-Resistance o're thrown,</l><l n="53" xml:id="spp-X86-10D1-line-53"> And Preaching Obedience</l><l n="54" xml:id="spp-X86-10D1-line-54"> Destroys our Allegiance</l><l n="55" xml:id="spp-X86-10D1-line-55" rend="align(center)"> And thus the Whigs prop up the Throne.X.</l></lg><lg n="11" type="stanza"><l n="56" xml:id="spp-X86-10D1-line-56" rend="flush left">That Vice-Roy is best,&#13;</l><l n="57" xml:id="spp-X86-10D1-line-57"> Who would take off the Test</l><l n="58" xml:id="spp-X86-10D1-line-58"> And made a Dark Speech to attempt it;</l><l n="59" xml:id="spp-X86-10D1-line-59"> But he like <hi rend="underline">True-Blue</hi>,</l><l n="60" xml:id="spp-X86-10D1-line-60"> When he found twould not do,</l><l n="61" xml:id="spp-X86-10D1-line-61" rend="align(center) flush left"> Swore Dam him; if ever he meant it.XI.</l></lg><lg n="12" type="stanza"><l n="62" xml:id="spp-X86-10D1-line-62">It's no News that <hi rend="underline">Tom Double</hi></l><l n="63" xml:id="spp-X86-10D1-line-63"> A Nation should Bubble,</l><l n="64" xml:id="spp-X86-10D1-line-64"> Nor is't any Wonder or Riddle,</l><l n="65" xml:id="spp-X86-10D1-line-65"> That a Parliament Rump</l><l n="66" xml:id="spp-X86-10D1-line-66"> Should Play Hop-step and Jump,</l><l n="67" xml:id="spp-X86-10D1-line-67" rend="align(center)"> Or Dance any Jigg to his Fiddle.XII.</l></lg><lg n="13" type="stanza"><l n="68" xml:id="spp-X86-10D1-line-68" rend="flush left">But of late Sir; they tell&#13;</l><l n="69" xml:id="spp-X86-10D1-line-69"> How <hi rend="underline">SACHEVERELL</hi>,</l><l n="70" xml:id="spp-X86-10D1-line-70"> By bringing Old Doctrines in Fashion,</l><l n="71" xml:id="spp-X86-10D1-line-71"> Has like a Damn'd Rogue</l><l n="72" xml:id="spp-X86-10D1-line-72"> Brought Religion in Voge,</l><l n="73" xml:id="spp-X86-10D1-line-73" rend="align(center)"> And so open'd the Eyes of the Nation.XIII.</l></lg><lg n="14" type="stanza"><l n="74" xml:id="spp-X86-10D1-line-74" rend="flush left">Then let's Pray without Spleen,&#13;</l><l n="75" xml:id="spp-X86-10D1-line-75"> May God bless the Queen;</l><l n="76" xml:id="spp-X86-10D1-line-76"> And let her Fellow-Monarchs the People,</l><l n="77" xml:id="spp-X86-10D1-line-77"> May she Prosper and Thrive</l><l n="78" xml:id="spp-X86-10D1-line-78"> Whilst we are Alive,</l><l n="79" xml:id="spp-X86-10D1-line-79"> And so may the Church with the Steeple.X86-10D1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

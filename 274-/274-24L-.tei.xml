@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN</title>
+        <title>EPILOGUE:</title>
+        <title><hi rend="underline">Spoken by Mr</hi>. G<hi rend="SMALL-CAPS">RIFFITH</hi>, <hi rend="underline">on the</hi></title>
+        <title><hi rend="underline">same Occasion</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="274-24L-" type="poem"><head type="note" n="1" xml:id="spp-274-24L--headnote-1"><lg n="1" xml:id="spp-274-24L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-274-24L--headnote-1-line-group-1-line-1">By Dean S<hi rend="SMALL-CAPS">WIFT</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-274-24L--headnote-2"><lg n="1" xml:id="spp-274-24L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-274-24L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-274-24L--headnote-3"><lg n="1" xml:id="spp-274-24L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-274-24L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-274-24L--line-1"><hi rend="display-initial">W</hi>HO dares affirm this is no pious Age,</l><l n="2" xml:id="spp-274-24L--line-2"> When Charity begins to tread the Stage:</l><l n="3" xml:id="spp-274-24L--line-3"> When Actors, who at best are hardly Savers,</l><l n="4" xml:id="spp-274-24L--line-4"> Will give a Night of Benefit to Weavers?</l><l n="5" xml:id="spp-274-24L--line-5"> Stay────let me see how finely will it Sound,<hi rend="underline">Imprimis</hi>: From his Grace a hundred Pound.</l><l n="6" xml:id="spp-274-24L--line-6"> Peers, Clergy, Gentry, all are Benefactors;</l><l n="7" xml:id="spp-274-24L--line-7"> And then comes in the <hi rend="underline">Item</hi> of the Actors.<hi rend="underline">Item</hi>, the Actors freely gave a Day,</l><l n="8" xml:id="spp-274-24L--line-8"> The Poet had no more who made the Play.</l></lg><lg n="2" type="stanza"><l n="9" xml:id="spp-274-24L--line-9">But whence this wond'rous Charity in Players;&#13;</l><l n="10" xml:id="spp-274-24L--line-10"> They learnt it not at Sermons, or at Prayers.</l><l n="11" xml:id="spp-274-24L--line-11"> Under the Rose, since here are none but Friends,</l><l n="12" xml:id="spp-274-24L--line-12"> (To own the Truth) we have some private Ends:<gap/><gap/></l><l n="13" xml:id="spp-274-24L--line-13"> We'll dress in <hi rend="underline">Manufactures</hi> made at home;</l><l n="14" xml:id="spp-274-24L--line-14"> Equip our <hi rend="underline">Kings</hi> and <hi rend="underline">Generals</hi> at the <hi rend="underline">Coomb</hi>.</l><l n="15" xml:id="spp-274-24L--line-15"> We'll rig from <hi rend="underline">Meath-Street, Egypt</hi>'s haughty Queen,</l><l n="16" xml:id="spp-274-24L--line-16"> And <hi rend="underline">Anthony</hi> shall court her, in <hi rend="underline">Ratteen</hi>.</l><l n="17" xml:id="spp-274-24L--line-17"> In <hi rend="underline">Blew Shalloon</hi>, shall <hi rend="underline">Hannibal</hi> be clad,</l><l n="18" xml:id="spp-274-24L--line-18"> And <hi rend="underline">Scipio</hi> trail an <hi rend="underline">Irish Purple Plad</hi>.</l><l n="19" xml:id="spp-274-24L--line-19"> In <hi rend="underline">Drugget</hi> Dress, of thirty Pence a Yard,</l><l n="20" xml:id="spp-274-24L--line-20"> See <hi rend="underline">Philip</hi>'s Son amidst his <hi rend="underline">Persian</hi> Guard;</l><l n="21" xml:id="spp-274-24L--line-21"> And proud <hi rend="underline">Roxana</hi>, fir'd with jealous Rage,</l><l n="22" xml:id="spp-274-24L--line-22"> With fifty Yards of <hi rend="underline">Crape</hi>, shall sweep the Stage.</l><l n="23" xml:id="spp-274-24L--line-23"> In short, our Kings and Princesses within</l><l n="24" xml:id="spp-274-24L--line-24"> Are all resolv'd the Project to begin;</l><l n="25" xml:id="spp-274-24L--line-25"> And you, our Subjects, when you here resort,</l><l n="26" xml:id="spp-274-24L--line-26"> Must imitate the Fashion of the Court.</l></lg><lg n="3" type="stanza"><l n="27" xml:id="spp-274-24L--line-27">O! Cou'd I see this Audience clad in <hi rend="underline">Stuff</hi>,</l><l n="28" xml:id="spp-274-24L--line-28"> Tho' Money's scarce, we should have Trade enough;</l><l n="29" xml:id="spp-274-24L--line-29"> But <hi rend="underline">Chints, Brocades</hi>, and <hi rend="underline">Lace</hi> take all away,</l><l n="30" xml:id="spp-274-24L--line-30"> And scarce a Crown is left to see the Play.</l></lg><lg n="4" type="stanza"><l n="31" xml:id="spp-274-24L--line-31">Perhaps you wonder whence this Friendship springs,&#13;</l><l n="32" xml:id="spp-274-24L--line-32"> Between the <hi rend="underline">Weavers</hi>, and us Play-House Kings.</l><l n="33" xml:id="spp-274-24L--line-33"> But Wit and Weaving had the same Beginning,<hi rend="underline">Pallas</hi> first taught us Poetry and Spinning:</l><l n="34" xml:id="spp-274-24L--line-34"> And pray observe how this Alliance fits,</l><l n="35" xml:id="spp-274-24L--line-35"> For <hi rend="underline">Weavers</hi> now are just as poor as Wits;</l><l n="36" xml:id="spp-274-24L--line-36"> Their Brother Quill-Men, Workers for the Stage,</l><l n="37" xml:id="spp-274-24L--line-37"> For sorry <hi rend="underline">Stuff</hi>, can get a Crown a Page;</l><l n="38" xml:id="spp-274-24L--line-38"> But <hi rend="underline">Weavers</hi> will be kinder to the <hi rend="underline">Players</hi>;</l><l n="39" xml:id="spp-274-24L--line-39"> And sell for twenty Pence a Yard of theirs;</l><l n="40" xml:id="spp-274-24L--line-40"> And to your Knowledge, there is often less in</l><l n="41" xml:id="spp-274-24L--line-41"> The <hi rend="underline">Poets</hi> Wits, than in the <hi rend="underline">Players</hi> Dressing.274-24L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

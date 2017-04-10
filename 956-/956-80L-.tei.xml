@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CANTATA.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="956-80L-" type="poem"><head type="note" n="1" xml:id="spp-956-80L--headnote-1"><lg n="1" xml:id="spp-956-80L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-956-80L--headnote-1-line-group-1-line-1">BY DR. SWIFT.</l></lg></head><head type="note" n="2" xml:id="spp-956-80L--headnote-2"><lg n="1" xml:id="spp-956-80L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-956-80L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-956-80L--headnote-3"><lg n="1" xml:id="spp-956-80L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-956-80L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-956-80L--line-1"><hi rend="display-initial">I</hi>N harmony would you excell,</l><l n="2" xml:id="spp-956-80L--line-2"> Suit your words to your music well;<gap/><gap/><gap/></l><l n="3" xml:id="spp-956-80L--line-3"> For Pegasus runs every race</l><l n="4" xml:id="spp-956-80L--line-4"> By galloping high, or level pace,</l><l n="5" xml:id="spp-956-80L--line-5"> Or ambling, or sweet Canterbury,</l><l n="6" xml:id="spp-956-80L--line-6"> Or with a down, a high down derry.</l><l n="7" xml:id="spp-956-80L--line-7"> No victory he ever got</l><l n="8" xml:id="spp-956-80L--line-8"> By joggling, joggling, joggling trot;</l><l n="9" xml:id="spp-956-80L--line-9"> No Muse harmonious entertains</l><l n="10" xml:id="spp-956-80L--line-10"> Rough, roistering, rustic, roaring strains.</l><l n="11" xml:id="spp-956-80L--line-11"> Nor shall you twine the crackling bays</l><l n="12" xml:id="spp-956-80L--line-12"> By sneaking, sniveling roundelays.Now slowly move your fiddle-stick,</l><l n="13" xml:id="spp-956-80L--line-13"> Now, tantan, tantantivi, quick;<gap/><gap/></l><l n="14" xml:id="spp-956-80L--line-14"> Now trembling, shivering, quivering, quaking,</l><l n="15" xml:id="spp-956-80L--line-15"> Set hoping hearts of Lovers aching.</l><l n="16" xml:id="spp-956-80L--line-16"> Fly, fly, above the sky,<gap/></l><l n="17" xml:id="spp-956-80L--line-17"> Rambling, gambling, trolloping, lolloping, galloping.<gap/><gap/><gap/><gap/></l><l n="18" xml:id="spp-956-80L--line-18"> Now sweep, sweep the deep.</l><l n="19" xml:id="spp-956-80L--line-19"> See Celia, Celia dies,</l><l n="20" xml:id="spp-956-80L--line-20"> While true Lovers' eyes</l><l n="21" xml:id="spp-956-80L--line-21"> Weeping sleep, Sleeping weep,</l><l n="22" xml:id="spp-956-80L--line-22"> Weeping sleep, Bo peep, bo peep.956-80L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE</title>
+        <title>MISHAP.</title>
+        <title>A<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y52AM279" type="poem"><head type="note" n="1" xml:id="spp-Y52AM279-headnote-1"><lg n="1" xml:id="spp-Y52AM279-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y52AM279-headnote-1-line-group-1-line-1">Written by the late Rev. D. J. S. D. D. D. S. P. D.</l></lg></head><head type="note" n="2" xml:id="spp-Y52AM279-headnote-2"><lg n="1" xml:id="spp-Y52AM279-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y52AM279-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y52AM279-headnote-3"><lg n="1" xml:id="spp-Y52AM279-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y52AM279-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y52AM279-line-1"><hi rend="display-initial">A</hi>S youthful <hi rend="underline">Strephon</hi>, t'other day,</l><l n="2" xml:id="spp-Y52AM279-line-2"> Walk'd with a friend, along the quay,</l><l n="3" xml:id="spp-Y52AM279-line-3"> A lovely nymph, the shepherd saw,</l><l n="4" xml:id="spp-Y52AM279-line-4"> In whom they cou'd not find a flaw;</l><l n="5" xml:id="spp-Y52AM279-line-5"> Her winning form, and graceful parts:</l><l n="6" xml:id="spp-Y52AM279-line-6"> Too soon transfix'd their tender hearts:</l><l n="7" xml:id="spp-Y52AM279-line-7"> Oh! she was fair, divinely fair!</l><l n="8" xml:id="spp-Y52AM279-line-8"> Had jet-black eyes, and flowing hair,</l><l n="9" xml:id="spp-Y52AM279-line-9"> Which down her back in ringlets play'd,</l><l n="10" xml:id="spp-Y52AM279-line-10"> And dignify'd, the comely maid.But words, alas! are poor and vain</l><l n="11" xml:id="spp-Y52AM279-line-11"> To paint the younger shepherd's pain,</l><l n="12" xml:id="spp-Y52AM279-line-12"> As down a lane the goddess flew,</l><l n="13" xml:id="spp-Y52AM279-line-13"> And seem'd to take her last adieu.</l><l n="14" xml:id="spp-Y52AM279-line-14"> But <hi rend="underline">Strephon</hi>, wise as he was young,</l><l n="15" xml:id="spp-Y52AM279-line-15"> Follow'd her close, and held his tongue,</l><l n="16" xml:id="spp-Y52AM279-line-16"> Till at her friend's she safe arrived;</l><l n="17" xml:id="spp-Y52AM279-line-17"> A loss too great to be survived!</l><l n="18" xml:id="spp-Y52AM279-line-18"> Trembling he found the door on jar,</l><l n="19" xml:id="spp-Y52AM279-line-19"> And saw his fond love-leading star:</l><l n="20" xml:id="spp-Y52AM279-line-20"> But, oh! most sad and dismal case!</l><l n="21" xml:id="spp-Y52AM279-line-21"> Men are ne'er seen come near this place;</l><l n="22" xml:id="spp-Y52AM279-line-22"> Therefore, Miss bid him change his station,</l><l n="23" xml:id="spp-Y52AM279-line-23"> To save her half-lost reputation.</l><l n="24" xml:id="spp-Y52AM279-line-24"> Who can imagine <hi rend="underline">Strephon</hi>'s plight</l><l n="25" xml:id="spp-Y52AM279-line-25"> When miss was call'd from the first flight,</l><l n="26" xml:id="spp-Y52AM279-line-26"> With shrilling accents of a shrew?</l><l n="27" xml:id="spp-Y52AM279-line-27"> “What noise is that?──Come up here you:</l><l n="28" xml:id="spp-Y52AM279-line-28"> “You have some fellow with you sure;</l><l n="29" xml:id="spp-Y52AM279-line-29"> “Come up, I say, and shut the door.”</l><l n="30" xml:id="spp-Y52AM279-line-30"> The trembling lad was much confused</l><l n="31" xml:id="spp-Y52AM279-line-31"> To hear the fair one so abused</l><l n="32" xml:id="spp-Y52AM279-line-32"> (Whose real merit's right to praise</l><l n="33" xml:id="spp-Y52AM279-line-33"> Demands a nobler poets lays,)</l><l n="34" xml:id="spp-Y52AM279-line-34"> On his account. With down-cast look</l><l n="35" xml:id="spp-Y52AM279-line-35"> Behind the door his station took:</l><l n="36" xml:id="spp-Y52AM279-line-36"> Sucking his cheeks, he silent stood</l><l n="37" xml:id="spp-Y52AM279-line-37"> As lifeless as a piece of wood.</l><l n="38" xml:id="spp-Y52AM279-line-38"> He view'd the charmer of his soul;</l><l n="39" xml:id="spp-Y52AM279-line-39"> And cou'd not his address controul:</l><l n="40" xml:id="spp-Y52AM279-line-40"> “Oh lovely beauteous fair, said he,</l><l n="41" xml:id="spp-Y52AM279-line-41"> “Who wou'd not suffer much for thee?</l><l n="42" xml:id="spp-Y52AM279-line-42"> “Who wou'd not bear an age of pain</l><l n="43" xml:id="spp-Y52AM279-line-43"> “A single smile from you to gain?</l><l n="44" xml:id="spp-Y52AM279-line-44"> “Or freely give up life and land</l><l n="45" xml:id="spp-Y52AM279-line-45"> “For one soft kiss of thy fair hand?</l><l n="46" xml:id="spp-Y52AM279-line-46"> “But I'm constrain'd to leave behind</l><l n="47" xml:id="spp-Y52AM279-line-47"> “The dearest treasure of my mind:</l><l n="48" xml:id="spp-Y52AM279-line-48"> “Yet one kind kiss before we part.”</l><l n="49" xml:id="spp-Y52AM279-line-49"> At this the nymph let such a F──<hi rend="SMALL-CAPS">T</hi></l><l n="50" xml:id="spp-Y52AM279-line-50"> As made the very cellar ring,</l><l n="51" xml:id="spp-Y52AM279-line-51"> Bottles and glasses all to sing.</l><l n="52" xml:id="spp-Y52AM279-line-52"> The modest youth his silence broke,</l><l n="53" xml:id="spp-Y52AM279-line-53"> (Being with laughter like to choak.)</l><l n="54" xml:id="spp-Y52AM279-line-54"> Again the lady call'd above;</l><l n="55" xml:id="spp-Y52AM279-line-55"> Again the youth address'd his love;</l><l n="56" xml:id="spp-Y52AM279-line-56"> Again, again did <hi rend="underline">C<unclear>ae</unclear>lia</hi> f--t,</l><l n="57" xml:id="spp-Y52AM279-line-57"> And quite set free the shepherd's heart;</l><l n="58" xml:id="spp-Y52AM279-line-58"> Nor can the force of time or art</l><l n="59" xml:id="spp-Y52AM279-line-59"> Efface the memory of the F──<hi rend="SMALL-CAPS">T</hi>.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

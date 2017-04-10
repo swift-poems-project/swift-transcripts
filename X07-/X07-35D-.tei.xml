@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">Sh──────n </hi>to<hi rend="underline"> D--n J──────n</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X07-35D-" type="poem"><head type="note" n="1" xml:id="spp-X07-35D--headnote-1"><lg n="1" xml:id="spp-X07-35D--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X07-35D--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X07-35D--headnote-2"><lg n="1" xml:id="spp-X07-35D--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X07-35D--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X07-35D--headnote-3"><lg n="1" xml:id="spp-X07-35D--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X07-35D--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X07-35D--line-1"><hi rend="display-initial">D</hi>Ear <hi rend="underline">Dan</hi>, it does amaze me quite,</l><l n="2" xml:id="spp-X07-35D--line-2"> To see you Write, and Write, and Write,</l><l n="3" xml:id="spp-X07-35D--line-3" rend="flush right"> But how the Devil you can come by't,'s a Wonder.</l></lg><lg n="2" type="stanza"><l n="4" xml:id="spp-X07-35D--line-4">Tho' 'tis but <hi rend="underline">Grubstreet</hi>, yet that same</l><l n="5" xml:id="spp-X07-35D--line-5"> I think so much above thy Aim,</l><l n="6" xml:id="spp-X07-35D--line-6" rend="flush right"> As the Sublime, and shining FlameOf Thunder.</l></lg><lg n="3" type="stanza"><l n="7" xml:id="spp-X07-35D--line-7">Does far surpass the sooty Blaze&#13;</l><l n="8" xml:id="spp-X07-35D--line-8"> Of Slut dispensing Kitchen Grease,</l><l n="9" xml:id="spp-X07-35D--line-9" rend="flush right"> And if this be the present CaseConsider.</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-X07-35D--line-10">How much your Ribaldry provokes,&#13;</l><l n="11" xml:id="spp-X07-35D--line-11"> With fulsome Lines, and poor dull Jokes,</l><l n="12" xml:id="spp-X07-35D--line-12" rend="flush right"> There's no Return but Cudgel-Strokes,On Hide Sir,</l></lg><lg n="5" type="stanza"><l n="13" xml:id="spp-X07-35D--line-13">Can I in Honour make to you.&#13;</l><l n="14" xml:id="spp-X07-35D--line-14"> For if you'd finely run me through,</l><l n="15" xml:id="spp-X07-35D--line-15" rend="flush right"> Perhaps I'd take a Rapier too,And fight you.</l></lg><lg n="6" type="stanza"><l n="16" xml:id="spp-X07-35D--line-16">Thy Blood might then my wrath asswage,&#13;</l><l n="17" xml:id="spp-X07-35D--line-17"> When Honour call'd me to engage,</l><l n="18" xml:id="spp-X07-35D--line-18" rend="flush right"> But you're so far below my Rage,I slight you.</l></lg><lg n="7" type="stanza"><l n="19" xml:id="spp-X07-35D--line-19">From Barking Cur, the Mastiff flies,&#13;</l><l n="20" xml:id="spp-X07-35D--line-20"> But when behind he bites his Thighs,</l><l n="21" xml:id="spp-X07-35D--line-21" rend="flush right"> He turns and pisses out his Eyes,Disdaining</l></lg><lg n="8" type="stanza"><l n="22" xml:id="spp-X07-35D--line-22">So small and pitiful a Foe,&#13;</l><l n="23" xml:id="spp-X07-35D--line-23"> From noisy Boasting brought so low,</l><l n="24" xml:id="spp-X07-35D--line-24" rend="flush right"> The Picture's drawn, I'm sure, you knowMy meaning.X07-35D-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Horace, B.I. ode 14</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="770-001C" type="poem"><head type="note" n="1" xml:id="spp-770-001C-headnote-1"><lg n="1" xml:id="spp-770-001C-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-770-001C-headnote-1-line-group-1-line-1">O Navis reserent in Mare <lb/> Paraphrased &amp; inscribed to Ireland</l></lg></head><head type="note" n="2" xml:id="spp-770-001C-headnote-2"><lg n="1" xml:id="spp-770-001C-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-770-001C-headnote-2-line-group-1-line-1">Novem<hi rend="sup">r</hi> 08. 17<hi rend="sup">th</hi> 08. 1724</l></lg></head><head type="note" n="3" xml:id="spp-770-001C-headnote-3"><lg n="1" xml:id="spp-770-001C-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-770-001C-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-770-001C-line-1"> Poor floating Isle tosst on ill Fortunes Waves&#13;</l><l n="2" xml:id="spp-770-001C-line-2"> Ordain'd by fate to be y<hi rend="sup">ẹ</hi> Land of Slaves</l><l n="3" xml:id="spp-770-001C-line-3"> Shall moveing Delos, now deep rooted Stand</l><l n="4" xml:id="spp-770-001C-line-4"> Thou fixt of old, be now y<hi rend="sup">ẹ</hi> moveing Land</l><l n="5" xml:id="spp-770-001C-line-5"> Alow me one old Simile to Steal</l><l n="6" xml:id="spp-770-001C-line-6"> Betwixt a Ship at Sea, &amp; Common weal</l><l n="7" xml:id="spp-770-001C-line-7"> Let me Suppose thee for a Ship a while</l><l n="8" xml:id="spp-770-001C-line-8"> And thus address thee, in a Saylor's Style</l><l n="9" xml:id="spp-770-001C-line-9"> Un happy Ship, thou art return'd in vain,</l><l n="10" xml:id="spp-770-001C-line-10"> New waves shall drive thee to y<hi rend="sup">ẹ</hi> deep again</l><l n="11" xml:id="spp-770-001C-line-11"> Look to thy Self, &amp; be no more y<hi rend="sup">e</hi>: Sport</l><l n="12" xml:id="spp-770-001C-line-12"> of giddy winds, but make Some friendly Port,</l><l n="13" xml:id="spp-770-001C-line-13"> Lost are thy oars, which us'd thy Course to guide</l><l n="14" xml:id="spp-770-001C-line-14"> Like faith full Councellors on either Side</l><l n="15" xml:id="spp-770-001C-line-15"> Thy mast, which like Some aged Patriot stood</l><l n="16" xml:id="spp-770-001C-line-16"> The Single Pillar for his Country's good.</l><l n="17" xml:id="spp-770-001C-line-17"> To Lead thee as a Staff directs y<hi rend="sup">ẹ</hi> blind</l><l n="18" xml:id="spp-770-001C-line-18"> Be hold its Craks by yon rough Eastern wind </l><l n="19" xml:id="spp-770-001C-line-19"> Your Cables Burst and you must quickly feel</l><l n="20" xml:id="spp-770-001C-line-20"> The waves imperious entring at Your Keel,</l><l n="21" xml:id="spp-770-001C-line-21"> So, Commonwealth's receive a foreign Yoke,</l><l n="22" xml:id="spp-770-001C-line-22"> When the Strong Cords, of union once are broke</l><l n="23" xml:id="spp-770-001C-line-23"> Torn by A Sudden Tempest is thy Saile</l><l n="24" xml:id="spp-770-001C-line-24"> Expanded to invite a milder Gale,</l><l n="25" xml:id="spp-770-001C-line-25"> So, when Some writer in A publick Cause</l><l n="26" xml:id="spp-770-001C-line-26"> His pen to Save a sinking nation, draws,</l><l n="27" xml:id="spp-770-001C-line-27"> While all is calm, his arguments prevail</l><l n="28" xml:id="spp-770-001C-line-28"> The people's voice, fanning his paper Sail,</l><l n="29" xml:id="spp-770-001C-line-29"> Till power discharging all her Storm'y bags</l><l n="30" xml:id="spp-770-001C-line-30"> Flutter, y<hi rend="sup">e</hi> feeble Pamphett into rag's</l><l n="31" xml:id="spp-770-001C-line-31"> The nation Scar'd y<hi rend="sup">ẹ</hi> author doom'd to Death,</l><l n="32" xml:id="spp-770-001C-line-32"> Who fondly putt his trust in pop'lar breath,</l><l n="33" xml:id="spp-770-001C-line-33"> A larger Sacafice in vain you vow</l><l n="34" xml:id="spp-770-001C-line-34"> There's not a pow'r above will help you now</l><l n="35" xml:id="spp-770-001C-line-35"> A Nation thus who oft Heaven's Call Neglects</l><l n="36" xml:id="spp-770-001C-line-36"> In vain from Injur'd Heaven Releif expects</l><l n="37" xml:id="spp-770-001C-line-37"> Twill, not avail, when thy Strong Sides are broke</l><l n="38" xml:id="spp-770-001C-line-38"> That thy Descent is from y<hi rend="sup">e</hi><hi rend="sup">.</hi> brittish Oake</l><l n="39" xml:id="spp-770-001C-line-39"> Or when Y<hi rend="sup">ṛ</hi> name &amp; Family you boast</l><l n="40" xml:id="spp-770-001C-line-40"> from Fleets triumphant o'er y<hi rend="sup">ẹ</hi> Gallick Coast,</l><l n="41" xml:id="spp-770-001C-line-41"> So, when Hibernia made her Claim like thine</l><l n="42" xml:id="spp-770-001C-line-42"> Her Sons descended from y<hi rend="sup">ẹ</hi> Brittish Line,</l><l n="43" xml:id="spp-770-001C-line-43"> Her Martial Son's whose valour still remaines</l><l n="44" xml:id="spp-770-001C-line-44"> On French Records for twenty long Campaines</l><l n="45" xml:id="spp-770-001C-line-45"> Led Captive to A prison from a Throne</l><l n="46" xml:id="spp-770-001C-line-46"> Sav'd Europes Liberty, &amp; lost her own,</l><l n="47" xml:id="spp-770-001C-line-47"> The Ships decay'd no Mariner confides</l><l n="48" xml:id="spp-770-001C-line-48"> Lur'd by y<hi rend="sup">ẹ</hi> gilded Sterns, &amp; painted Sides</l><l n="49" xml:id="spp-770-001C-line-49"> So Att a Ball, unthinking fools delight</l><l n="50" xml:id="spp-770-001C-line-50"> In gay Trappings of a birthday night,</l><l n="51" xml:id="spp-770-001C-line-51"> They on the rich Brocades &amp; Sattins rav'd</l><l n="52" xml:id="spp-770-001C-line-52"> Nor ever thought their Country was enslav'd</l><l n="53" xml:id="spp-770-001C-line-53"> Dear Vesell, Still be to thy Steerig &amp; Just</l><l n="54" xml:id="spp-770-001C-line-54"> Nor Change thy Course w<hi rend="sup">tḥ</hi> ev'ry gust</l><l n="55" xml:id="spp-770-001C-line-55"> Like Supple Patriots of the modern Sort</l><l n="56" xml:id="spp-770-001C-line-56"> Who turn by every gale y<hi rend="sup">ṭ</hi> blows from Court</l><l n="57" xml:id="spp-770-001C-line-57"> Weary and Sea Sick, when in thee Confined</l><l n="58" xml:id="spp-770-001C-line-58"> Now for thy Safety, Cares distract my minde</l><l n="59" xml:id="spp-770-001C-line-59"> As those who long have Stood y<hi rend="sup">ẹ</hi> Storm's of State</l><l n="60" xml:id="spp-770-001C-line-60"> Retire, &amp; Still bemoan their Country's fate</l><l n="61" xml:id="spp-770-001C-line-61"> But chiefly when you hear y<hi rend="sup">e</hi> Surges roar</l><l n="62" xml:id="spp-770-001C-line-62"> Avoid y<hi rend="sup">ẹ</hi> Rocks on Brittains angry Shore</l><l n="63" xml:id="spp-770-001C-line-63"> They lye alas, to easy to be found</l><l n="64" xml:id="spp-770-001C-line-64"> For thee alone, they lye y<hi rend="sup">ẹ</hi> Island round.770-001C   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

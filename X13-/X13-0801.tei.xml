@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-X13-0801-title-1"><hi rend="underline">From Dr</hi>. S<hi rend="SMALL-CAPS">WIFT</hi> <hi rend="underline">to Dr</hi>. <ref target="#spp-X13-0801-footnote-title-1">1</ref><note n="1" xml:id="spp-X13-0801-footnote-title-1" place="foot">Dr. <hi rend="underline">Sheridan</hi> was an eminent School-master, whom the Dean is supposed thus to describe under the Character of <hi rend="underline">Lilly.<lb/>_Lilly</hi> is a Person very excellent in his Art; perfectly skilled in the Writings and Languages of ancient <hi rend="underline">Greece</hi> and <hi rend="underline">Rome</hi>. He hath much Invention; often writes humorous Verses that are diverting enough, but is defective in Judgment. He is honest, generous, friendly, and good-natured, but without one Grain of Discretion: And, with all, so heedless, unattentive, shattered and absent, that you cannot depend a Minute on his Promise or Engagement. He is somewhat too careless in Expences. How subject he was to be deceived, appears from the following Certificate under the Doctor's own Hand, dated <hi rend="underline">Oct</hi>. 22, 1731.<lb/>_<hi rend="underline">Dr. </hi>Sheridan<hi rend="underline">, forced to promise and allowed, that he hath been thirty Times deceived in affirming his Servants and Agents to be honest; does now, the one and thirtieth Time, positively assert, that his present Agent at </hi>Quilca, Wooly<hi rend="underline"> by Name, is the most honest, diligent, and skilful Fellow in</hi> Ireland. Signed at Dr. <hi rend="underline">Grattan</hi>'s House. T<hi rend="SMALL-CAPS">HOMAS</hi> S<hi rend="SMALL-CAPS">HERIDAN</hi></note> S<hi rend="SMALL-CAPS">HERIDAN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X13-0801-footnote-title-1 #spp-X13-0801-title-1"/>
+        </linkGrp>
+        <div n="X13-0801"><head type="note" n="1" xml:id="spp-X13-0801-headnote-1"><lg n="1" xml:id="spp-X13-0801-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X13-0801-headnote-1-line-group-1-line-1"><hi rend="underline">Dec</hi>. 14, 1719, 9 <hi rend="underline">at Night</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-X13-0801-headnote-2"><lg n="1" xml:id="spp-X13-0801-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X13-0801-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-X13-0801-headnote-3"><lg n="1" xml:id="spp-X13-0801-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X13-0801-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X13-0801-line-1"><hi rend="underline">SIR</hi>,</l></lg><lg n="2" type="stanza"><l><hi rend="display-initial">I</hi>T is impossible to know by your Letter whether the Wine is to be bottled To-morrow, or no.</l><l/><l n="2" xml:id="spp-X13-0801-line-2"><gap/></l><l/><l n="3" xml:id="spp-X13-0801-line-3">For my part, it was by meer Chance I came to sit with the Ladies this Night.</l><l/><l n="4" xml:id="spp-X13-0801-line-4">And, if they had not told me there was a Letter from you, and your Man <hi rend="underline">Alexander</hi> had not gone, and come back from the Deanry, and the Boy here had not been sent to let <hi rend="underline">Alexander</hi> know I was here, I should have missed the Letter outright.</l><l/><l n="5" xml:id="spp-X13-0801-line-5">Truly I don't know who's bound to be sending for Corks to stop your Bottles, with a Vengeance.</l><l/><l n="6" xml:id="spp-X13-0801-line-6">Make a Page of your own Age, and send your Man <hi rend="underline">Alexander</hi> to buy Corks, for <hi rend="underline">Saunders</hi> already hath got above ten Jaunts.</l><l/><l n="7" xml:id="spp-X13-0801-line-7">Mrs. <hi rend="underline">Dingley</hi> and Mrs. <hi rend="underline">Johnson</hi> say, truly they don't care for your Wife's Company, although they like your Wine; but they had rather have it at their own House, to drink in quiet.</l><l/><l n="8" xml:id="spp-X13-0801-line-8">However, they own it is very civil in Mr. <hi rend="underline">Sheridan</hi>, to make the Offer; and they cannot deny it.</l><l/><l n="9" xml:id="spp-X13-0801-line-9">I wish <hi rend="underline">Alexander</hi> safe at St. <hi rend="underline">Catherine</hi>'s To-night, with all my Heart and Soul, upon my Word and Honour.</l><l/><l n="10" xml:id="spp-X13-0801-line-10">But I think it base in you to send a poor Fellow out so late at this Time of Year, when one would not turn out a Dog that one valued; I appeal to your Friend Mr. <hi rend="underline">Conna</hi>.</l><l/><l n="11" xml:id="spp-X13-0801-line-11">I would present my humble Service to my Lady <hi rend="underline">Mountcashell</hi>: but, truly, I thought she would have made Advances to have been acquainted with me, as she pretended.</l><l/><l n="12" xml:id="spp-X13-0801-line-12">But now I can write no more, for you see plainly my Paper is ended.</l><l/><l n="13" xml:id="spp-X13-0801-line-13"/></lg><lg n="3" type="stanza"><l/></lg><lg n="4" type="stanza"><l>P.S.<hi rend="underline">I wish when you prated,</hi>.</l><l/><l n="14" xml:id="spp-X13-0801-line-14">Your Letter you'd dated,</l><l/><l n="15" xml:id="spp-X13-0801-line-15">Much Plague it created,</l><l/><l n="16" xml:id="spp-X13-0801-line-16">I scolded and rated;</l><l/><l n="17" xml:id="spp-X13-0801-line-17">My Soul it much grated,</l><l/><l n="18" xml:id="spp-X13-0801-line-18">For your Man, I long waited.</l><l/><l n="19" xml:id="spp-X13-0801-line-19">I think you are fated,</l><l/><l n="20" xml:id="spp-X13-0801-line-20">Like a Bear to be baited:</l><l/><l n="21" xml:id="spp-X13-0801-line-21">Your Man is belated,</l><l/><l n="22" xml:id="spp-X13-0801-line-22">The Case, I have stated,</l><l/><l n="23" xml:id="spp-X13-0801-line-23">And me you have cheated.</l><l/><l n="24" xml:id="spp-X13-0801-line-24">My Stable's unslated,</l><l/><l n="25" xml:id="spp-X13-0801-line-25">Come back t'us well freighted;</l><l/><l n="26" xml:id="spp-X13-0801-line-26">I remember my late-head</l><l/><l n="27" xml:id="spp-X13-0801-line-27">And wish you Translated,</l><l/><l n="28" xml:id="spp-X13-0801-line-28">For teazing me</l><l/><l n="29" xml:id="spp-X13-0801-line-29"/></lg><lg n="5" type="stanza"><l/></lg><lg n="6" type="stanza"><l n="2" xml:id="spp-X13-0801-line-2">P.S.<hi rend="underline">Mrs. </hi>Dingley<hi rend="underline"/>Johnson<hi rend="underline"> Madam</hi>.</l><l/><l n="30" xml:id="spp-X13-0801-line-30">Desires me singly</l><l/><l n="31" xml:id="spp-X13-0801-line-31">Her Service to present you,</l><l/><l n="32" xml:id="spp-X13-0801-line-32">Hopes that will content you;</l><l/><l n="33" xml:id="spp-X13-0801-line-33">But </l><l/><l n="34" xml:id="spp-X13-0801-line-34">Is grown a Sad Dame,</l><l/><l n="35" xml:id="spp-X13-0801-line-35">For want of your Converse,</l><l/><l n="36" xml:id="spp-X13-0801-line-36">And cannot send one Verse</l><l/><l n="37" xml:id="spp-X13-0801-line-37"/></lg><lg n="7" type="stanza"><l/></lg><lg n="8" type="stanza"><l n="3" xml:id="spp-X13-0801-line-3" rend="flush right">P.S.<hi rend="underline">You keep such a twattling</hi>[V<hi rend="SMALL-CAPS">IDA</hi>,</l><l/><l n="38" xml:id="spp-X13-0801-line-38" rend="flush right"><hi rend="underline">With you and your bottling,</hi>[Rule 34</l><l/><l n="39" xml:id="spp-X13-0801-line-39" rend="flush right"><hi rend="underline">But I see the Sum Total,</hi>.S<hi rend="SMALL-CAPS">TELLA</hi>.</l><l/><l n="40" xml:id="spp-X13-0801-line-40">We shall ne'er have one Bottle;</l><l/><l n="41" xml:id="spp-X13-0801-line-41">The long and the short,</l><l/><l n="42" xml:id="spp-X13-0801-line-42">We shall not have a Quart.</l><l/><l n="43" xml:id="spp-X13-0801-line-43">I wish you would sign't,</l><l/><l n="44" xml:id="spp-X13-0801-line-44">That we may have a Pint.</l><l/><l n="45" xml:id="spp-X13-0801-line-45">For all your colloguing,</l><l/><l n="46" xml:id="spp-X13-0801-line-46">I'd be glad of a Knogging:</l><l/><l n="47" xml:id="spp-X13-0801-line-47">But I doubt 'tis a Sham,</l><l/><l n="48" xml:id="spp-X13-0801-line-48">You won't give us a Dram.</l><l/><l n="49" xml:id="spp-X13-0801-line-49">'Tis of Shine, a Mouth Moon-full,</l><l/><l n="50" xml:id="spp-X13-0801-line-50">You won't part with a Spoon-full,</l><l/><l n="51" xml:id="spp-X13-0801-line-51">And I must be nimble,</l><l/><l n="52" xml:id="spp-X13-0801-line-52">If I can fill my Thimble,</l><l/><l n="53" xml:id="spp-X13-0801-line-53">You see I won't stop,</l><l/><l n="54" xml:id="spp-X13-0801-line-54">Till I come to a Drop;</l><l/><l n="55" xml:id="spp-X13-0801-line-55">But I doubt the Oraculum,</l><l/><l n="56" xml:id="spp-X13-0801-line-56">Is a poor Supernaculum;</l><l/><l n="57" xml:id="spp-X13-0801-line-57">Tho' perhaps you may tell it</l><l/><l n="58" xml:id="spp-X13-0801-line-58">For a Grace, if we smell it</l><l/><l n="59" xml:id="spp-X13-0801-line-59"><gap/></l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Molly Mog</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y29-600L" type="poem"><head type="note" n="1" xml:id="spp-Y29-600L-headnote-1"><lg n="1" xml:id="spp-Y29-600L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y29-600L-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y29-600L-headnote-2"><lg n="1" xml:id="spp-Y29-600L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y29-600L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y29-600L-headnote-3"><lg n="1" xml:id="spp-Y29-600L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y29-600L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y29-600L-line-1" rend="align(center)">1</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-Y29-600L-line-2" rend="flush left">Says my Uncle I pray you discover&#13;</l><l n="3" xml:id="spp-Y29-600L-line-3"> What has been y<hi rend="sup">e</hi> Cause of yo<hi rend="sup">r</hi> Woes</l><l n="4" xml:id="spp-Y29-600L-line-4"> That you pine &amp; you whine like a Lov<hi rend="sup">r</hi></l><l n="5" xml:id="spp-Y29-600L-line-5" rend="align(center)"> I've seen Molly Mog of y<hi rend="sup">e</hi> Rose2</l></lg><lg n="3" type="stanza"><l n="6" xml:id="spp-Y29-600L-line-6" rend="flush left">Oh Nephew yo<hi rend="sup">r</hi> grief is but Folly</l><l n="7" xml:id="spp-Y29-600L-line-7"> In town you may find better Prog</l><l n="8" xml:id="spp-Y29-600L-line-8"> Half a crown y<hi rend="sup">re</hi> will gett you a Molly</l><l n="9" xml:id="spp-Y29-600L-line-9" rend="align(center)"> A Molly much better then Mog<gap/><gap/><gap/><gap/>3</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-Y29-600L-line-10" rend="flush left">The School boy's Desire's a playday&#13;</l><l n="11" xml:id="spp-Y29-600L-line-11"> The School Mast<hi rend="sup">rs</hi> Joy is to flog</l><l n="12" xml:id="spp-Y29-600L-line-12"> The Milkmaid's delight is on mayDay</l><l n="13" xml:id="spp-Y29-600L-line-13" rend="align(center)"> But mine is on Sweet Molly Mog4</l></lg><lg n="5" type="stanza"><l n="14" xml:id="spp-Y29-600L-line-14" rend="flush left">Will a wisp leads y<hi rend="sup">e</hi> Traveller a gadding</l><l n="15" xml:id="spp-Y29-600L-line-15"> Thro ditch &amp; thro Quagmire &amp; Bog</l><l n="16" xml:id="spp-Y29-600L-line-16"> But noe light can sett me a-madding</l><l n="17" xml:id="spp-Y29-600L-line-17" rend="align(center)"> Like y<hi rend="sup">e</hi> Eyes of my Sweet Molly Mog5</l></lg><lg n="6" type="stanza"><l n="18" xml:id="spp-Y29-600L-line-18" rend="flush left">For guineas in other mens breeches&#13;</l><l n="19" xml:id="spp-Y29-600L-line-19"> Yo<hi rend="sup">r</hi> Gamesters will palm &amp; will Cog</l><l n="20" xml:id="spp-Y29-600L-line-20"> But I envy them none of their Riches</l><l n="21" xml:id="spp-Y29-600L-line-21" rend="align(center)"> So I may win Sweet Molly Mog6</l></lg><lg n="7" type="stanza"><l n="22" xml:id="spp-Y29-600L-line-22" rend="flush left">The Heart when half wounded w<hi rend="sup">th</hi> changing</l><l n="23" xml:id="spp-Y29-600L-line-23"> It leaps here &amp; there like a Frogg</l><l n="24" xml:id="spp-Y29-600L-line-24"> But my Heart can never be ranging</l><l n="25" xml:id="spp-Y29-600L-line-25" rend="align(center)"> 'Tis so fix't upon Sweet Molly Mogg7</l></lg><lg n="8" type="stanza"><l n="26" xml:id="spp-Y29-600L-line-26" rend="flush left">Who follows all Ladies of pleasure&#13;</l><l n="27" xml:id="spp-Y29-600L-line-27"> To pleasure is nought but a Hog</l><l n="28" xml:id="spp-Y29-600L-line-28"> All y<hi rend="sup">e</hi> Sex can not give so good measure</l><l n="29" xml:id="spp-Y29-600L-line-29" rend="align(center)"> of Joys, as my sweet Molly Mog8</l></lg><lg n="9" type="stanza"><l n="30" xml:id="spp-Y29-600L-line-30" rend="flush left">I know that by Witts tis recitted&#13;</l><l n="31" xml:id="spp-Y29-600L-line-31"> That women att best are a Clog</l><l n="32" xml:id="spp-Y29-600L-line-32"> But I'me not soe easily frighted</l><l n="33" xml:id="spp-Y29-600L-line-33" rend="align(center)"> From loving of Sweet Molly Mog9</l></lg><lg n="10" type="stanza"><l n="34" xml:id="spp-Y29-600L-line-34" rend="flush left">I feel I'm in love to distraction&#13;</l><l n="35" xml:id="spp-Y29-600L-line-35"> My senses all lost in a Fog</l><l n="36" xml:id="spp-Y29-600L-line-36"> And there's no·thing can give Satisfaction</l><l n="37" xml:id="spp-Y29-600L-line-37" rend="align(center)"> But thinking on Sweet Molly Mog10</l></lg><lg n="11" type="stanza"><l n="38" xml:id="spp-Y29-600L-line-38" rend="flush left">A Letter when I am inditing&#13;</l><l n="39" xml:id="spp-Y29-600L-line-39"> Comes Cupid &amp; gives me a Jog</l><l n="40" xml:id="spp-Y29-600L-line-40"> And I fill up y<hi rend="sup">e</hi> Paper w<hi rend="sup">th</hi> writing</l><l n="41" xml:id="spp-Y29-600L-line-41" rend="align(center)"> of nothing but Sweet Molly Mog11</l></lg><lg n="12" type="stanza"><l n="42" xml:id="spp-Y29-600L-line-42" rend="flush left">If I would not give up y<hi rend="sup">e</hi> 3 Graces</l><l n="43" xml:id="spp-Y29-600L-line-43"> I wish I were hangd like a Dog</l><l n="44" xml:id="spp-Y29-600L-line-44"> And at Court all y<hi rend="sup">e</hi> Drawing Room Faces</l><l n="45" xml:id="spp-Y29-600L-line-45" rend="align(center)"> for a glance of my Sweet Molly Mog<gap/><gap/><gap/><gap/>12</l></lg><lg n="13" type="stanza"><l n="46" xml:id="spp-Y29-600L-line-46" rend="flush left">Those faces want Nature &amp; Spirit&#13;</l><l n="47" xml:id="spp-Y29-600L-line-47"> and seem as cutt out of a Log</l><l n="48" xml:id="spp-Y29-600L-line-48"> Juno, Venus, &amp; Pallas's Meritt</l><l n="49" xml:id="spp-Y29-600L-line-49" rend="align(center)"> Unite in my Sweet Molly Mog;13</l></lg><lg n="14" type="stanza"><l n="50" xml:id="spp-Y29-600L-line-50" rend="flush left">Those who toast all y<hi rend="sup">e</hi> Family Royal</l><l n="51" xml:id="spp-Y29-600L-line-51"> In Bumpers of Hogan &amp; Nog.</l><l n="52" xml:id="spp-Y29-600L-line-52"> Have Hearts not more true &amp; more Loyal</l><l n="53" xml:id="spp-Y29-600L-line-53" rend="align(center)"> Than mine is To Sweet Molly Mog14</l></lg><lg n="15" type="stanza"><l n="54" xml:id="spp-Y29-600L-line-54" rend="flush left">Were Virgil alive w<hi rend="sup">th</hi> his Phillis</l><l n="55" xml:id="spp-Y29-600L-line-55"> An writing another Eclog</l><l n="56" xml:id="spp-Y29-600L-line-56"> Both his Phillis &amp; <hi rend="underline">Sweet</hi> Amarillys</l><l n="57" xml:id="spp-Y29-600L-line-57" rend="align(center)"> Hed give up for my Sweet Molly Mog15</l></lg><lg n="16" type="stanza"><l n="58" xml:id="spp-Y29-600L-line-58" rend="flush left">When she smiles on each Guest like her Liquor&#13;</l><l n="59" xml:id="spp-Y29-600L-line-59"> Then Jealousie setts me agog</l><l n="60" xml:id="spp-Y29-600L-line-60"> To be Sure she's a bitt for y<hi rend="sup">e</hi> Vicar</l><l n="61" xml:id="spp-Y29-600L-line-61"> and soe I shall lose Molly Mog<gap/><gap/><gap/><gap/>Y29-600L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

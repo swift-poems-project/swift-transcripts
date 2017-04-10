@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">The Fable of the Bitches</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="207-ROGP" type="poem"><head type="note" n="1" xml:id="spp-207-ROGP-headnote-1"><lg n="1" xml:id="spp-207-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-207-ROGP-headnote-1-line-group-1-line-1">WROTE IN THE YEAR 1715, ON AN ATTEMPT TO REPEAL THE TEST ACT</l></lg></head><head type="note" n="2" xml:id="spp-207-ROGP-headnote-2"><lg n="1" xml:id="spp-207-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-207-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-207-ROGP-headnote-3"><lg n="1" xml:id="spp-207-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-207-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-207-ROGP-line-1"> A bitch that was full pregnant grown,&#13;</l><l n="2" xml:id="spp-207-ROGP-line-2"> By all the dogs and curs in town;</l><l n="3" xml:id="spp-207-ROGP-line-3"> Finding her ripened time was come,</l><l n="4" xml:id="spp-207-ROGP-line-4"> Her litter teeming from her womb,</l><l n="5" xml:id="spp-207-ROGP-line-5"> Went here and there, and everywhere,</l><l n="6" xml:id="spp-207-ROGP-line-6"> To find an easy place to lay her.</l></lg><lg n="2" type="stanza"><l n="7" xml:id="spp-207-ROGP-line-7">At length to Music's house she came,&#13;</l><l n="8" xml:id="spp-207-ROGP-line-8"> And begged like one both blind and lame;</l><l n="9" xml:id="spp-207-ROGP-line-9"> `My only friend, my dear,' said she,</l><l n="10" xml:id="spp-207-ROGP-line-10"> `You see 'tis mere necessity,</l><l n="11" xml:id="spp-207-ROGP-line-11"> Hath sent me to your house to whelp,</l><l n="12" xml:id="spp-207-ROGP-line-12"> I'll die, if you deny your help.'</l></lg><lg n="3" type="stanza"><l n="13" xml:id="spp-207-ROGP-line-13">With fawning whine, and rueful tone,&#13;</l><l n="14" xml:id="spp-207-ROGP-line-14"> With artful sigh and feignèd groan,</l><l n="15" xml:id="spp-207-ROGP-line-15"> With couchant cringe, and flattering tale,</l><l n="16" xml:id="spp-207-ROGP-line-16"> Smooth Bawty did so far prevail;</l><l n="17" xml:id="spp-207-ROGP-line-17"> That Music gave her leave to litter,</l><l n="18" xml:id="spp-207-ROGP-line-18"> But mark what followed──faith, she bit her.</l></lg><lg n="4" type="stanza"><l n="19" xml:id="spp-207-ROGP-line-19">Whole baskets full of bits and scraps,&#13;</l><l n="20" xml:id="spp-207-ROGP-line-20"> And broth enough to fill her paps,</l><l n="21" xml:id="spp-207-ROGP-line-21"> For well she knew her numerous brood,</l><l n="22" xml:id="spp-207-ROGP-line-22"> For want of milk, would suck her blood.</l></lg><lg n="5" type="stanza"><l n="23" xml:id="spp-207-ROGP-line-23">But when she thought her pains were done,&#13;</l><l n="24" xml:id="spp-207-ROGP-line-24"> And now 'twas high time to be gone;</l><l n="25" xml:id="spp-207-ROGP-line-25"> In civil terms, `My friend,' says she,</l><l n="26" xml:id="spp-207-ROGP-line-26"> `My house you've had on courtesy;</l><l n="27" xml:id="spp-207-ROGP-line-27"> And now I earnestly desire,</l><l n="28" xml:id="spp-207-ROGP-line-28"> That you would with your cubs retire:</l><l n="29" xml:id="spp-207-ROGP-line-29"> For should you stay but one week longer,</l><l n="30" xml:id="spp-207-ROGP-line-30"> I shall be starved with cold and hunger.'</l></lg><lg n="6" type="stanza"><l n="31" xml:id="spp-207-ROGP-line-31">The guest replied, `My friend, your leave,&#13;</l><l n="32" xml:id="spp-207-ROGP-line-32"> I must a little longer crave;</l><l n="33" xml:id="spp-207-ROGP-line-33"> Stay till my tender cubs can find</l><l n="34" xml:id="spp-207-ROGP-line-34"> Their way──for now you see they're blind;</l><l n="35" xml:id="spp-207-ROGP-line-35"> But when we've gathered strength, I swear,</l><l n="36" xml:id="spp-207-ROGP-line-36"> We'll to our barn again repair.'</l><l n="37" xml:id="spp-207-ROGP-line-37"> The time passed on, and Music came,</l><l n="38" xml:id="spp-207-ROGP-line-38"> Her kennel once again to claim;</l><l n="39" xml:id="spp-207-ROGP-line-39"> But Bawty, lost to shame and honour,</l><l n="40" xml:id="spp-207-ROGP-line-40"> Set her cubs at once upon her;</l><l n="41" xml:id="spp-207-ROGP-line-41"> Made her retire, and quit her right,</l><l n="42" xml:id="spp-207-ROGP-line-42"> And loudly cried `A bite, a bite.'</l></lg><lg n="7" type="stanza"><l n="43" xml:id="spp-207-ROGP-line-43">THE MORAL</l></lg><lg n="8" type="stanza"><l n="44" xml:id="spp-207-ROGP-line-44">Thus did the Grecian wooden horse,&#13;</l><l n="45" xml:id="spp-207-ROGP-line-45"> Conceal a fatal armed force;</l><l n="46" xml:id="spp-207-ROGP-line-46"> No sooner brought within the walls,</l><l n="47" xml:id="spp-207-ROGP-line-47"> But Ilium's lost, and Priam falls.207-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

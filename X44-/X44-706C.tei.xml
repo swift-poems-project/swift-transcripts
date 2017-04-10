@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A True &amp; faithfull Jnventory of y<hi rend="sup">e</hi> Goods belonging Dr Swift</title>
+        <title>Vicar of Lara Cor; upon Lend<hi rend="sup">g</hi> 08. his House to y<hi rend="sup">e</hi> Bishop of ────till his<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X44-706C" type="poem"><head type="note" n="1" xml:id="spp-X44-706C-headnote-1"><lg n="1" xml:id="spp-X44-706C-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-706C-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X44-706C-headnote-2"><lg n="1" xml:id="spp-X44-706C-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-706C-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X44-706C-headnote-3"><lg n="1" xml:id="spp-X44-706C-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-706C-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X44-706C-line-1"> An Oaken broken Elbow-Chair&#13;</l><l n="2" xml:id="spp-X44-706C-line-2"> A Caudle Cup with·out an Ear</l><l n="3" xml:id="spp-X44-706C-line-3"> A Batter'd, shatter'd ash Bed·stead</l><l n="4" xml:id="spp-X44-706C-line-4"> A Box of Dear w<hi rend="sup">tḥ</hi>out a Lid</l><l n="5" xml:id="spp-X44-706C-line-5"> A Pair of Tongues, but out of Joynt</l><l n="6" xml:id="spp-X44-706C-line-6"> A Back·sword Poker w<hi rend="sup">tḥ</hi>out point</l><l n="7" xml:id="spp-X44-706C-line-7"> A Pot y<hi rend="sup">ṭ</hi>'<hi rend="sup">s</hi> Crackt a·Cross, around</l><l n="8" xml:id="spp-X44-706C-line-8"> W<hi rend="sup">tḥ</hi> an old Knotted Garter bound</l><l n="9" xml:id="spp-X44-706C-line-9"> An Iron Lock w<hi rend="sup">tḥ</hi>out a Key,</l><l n="10" xml:id="spp-X44-706C-line-10"> A Wig w<hi rend="sup">tḥ</hi> hang<hi rend="sup">g̣</hi> quite grown grey,<gap/><gap/><gap/><gap/></l><l n="11" xml:id="spp-X44-706C-line-11"> A Curtain worn to half a stripe</l><l n="12" xml:id="spp-X44-706C-line-12"> A P<hi rend="sup">ṛ</hi> of Bellows w<hi rend="sup">tḥ</hi>out Pipe<unclear>hole</unclear></l><l n="13" xml:id="spp-X44-706C-line-13"> A Dish, w<hi rend="sup">cḥ</hi> might good Meat afford<unclear>hole</unclear></l><l n="14" xml:id="spp-X44-706C-line-14"> An Ovid &amp; a<unclear>hole</unclear></l><l n="15" xml:id="spp-X44-706C-line-15"> A Bottle bottom wooden Platter</l><l n="16" xml:id="spp-X44-706C-line-16"> 1 is for meal &amp; 1 for water</l><l n="17" xml:id="spp-X44-706C-line-17"> There likewise is a Copper skillet</l><l n="18" xml:id="spp-X44-706C-line-18"> W<hi rend="sup">cḥ</hi> runs as fast out as you fill it</l><l n="19" xml:id="spp-X44-706C-line-19"> A Candlestick, snuff dish, &amp; save all</l><l n="20" xml:id="spp-X44-706C-line-20"> &amp; thus his Household Goods you have all</l><l n="21" xml:id="spp-X44-706C-line-21"> These to your lordship as J freind</l><l n="22" xml:id="spp-X44-706C-line-22"> Till you have built J recommend</l><l n="23" xml:id="spp-X44-706C-line-23"> They'll serve you Lordship at a shift</l><l n="24" xml:id="spp-X44-706C-line-24"> Why not as well as D<hi rend="sup">ṛ</hi> Swift?X44-706C   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-969-15W1-title-1">TO THE DEAN OF ST PATRICK'S,<ref target="#spp-969-15W1-footnote-title-1">1</ref><note n="1" xml:id="spp-969-15W1-footnote-title-1" place="foot">Whimsical Medley, p. 352</note></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-969-15W1-footnote-title-1 #spp-969-15W1-title-1"/>
+        </linkGrp>
+        <div n="969-15W1" type="letter"><head type="note" n="1" xml:id="spp-969-15W1-headnote-1"><lg n="1" xml:id="spp-969-15W1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-969-15W1-headnote-1-line-group-1-line-1">IN ANSWER TO HIS LEFT-HANDED LETTER.</l></lg></head><head type="note" n="2" xml:id="spp-969-15W1-headnote-2"><lg n="1" xml:id="spp-969-15W1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-969-15W1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-969-15W1-headnote-3"><lg n="1" xml:id="spp-969-15W1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-969-15W1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-969-15W1-line-1"> S<hi rend="SMALL-CAPS">INCE</hi> your poetic prancer is turn'd into Cancer,</l><l n="2" xml:id="spp-969-15W1-line-2"> I'll tell you at once, Sir, I'm now not your man, Sir;</l><l n="3" xml:id="spp-969-15W1-line-3"> For pray, Sir, what pleasure in fighting is found</l><l n="4" xml:id="spp-969-15W1-line-4"> With a coward, who studies to traverse his ground?</l><l n="5" xml:id="spp-969-15W1-line-5"> When I drew forth my pen, with your pen you ran back;</l><l n="6" xml:id="spp-969-15W1-line-6"> But I found out the way to your den by its track:</l><l n="7" xml:id="spp-969-15W1-line-7"> From thence the black monster I drew, o' my conscience,</l><l n="8" xml:id="spp-969-15W1-line-8"> And so brought to light what before was stark non-sense.</l><l n="9" xml:id="spp-969-15W1-line-9"> When I with my right hand did stoutly pursue,</l><l n="10" xml:id="spp-969-15W1-line-10"> You turn'd to your left, and you writ like a Jew;</l><l n="11" xml:id="spp-969-15W1-line-11"> Which, good Mister Dean, I can't think so fair,</l><l n="12" xml:id="spp-969-15W1-line-12"> Therefore turn about to the right, as you were;</l><l n="13" xml:id="spp-969-15W1-line-13"> Then if with true courage your ground you maintain,</l><l n="14" xml:id="spp-969-15W1-line-14"> My fame is immortal, when Jonathan's slain:</l><l n="15" xml:id="spp-969-15W1-line-15"> Who's greater by far than great Alexander,</l><l n="16" xml:id="spp-969-15W1-line-16"> As much as a teal surpasses a gander;</l><l n="17" xml:id="spp-969-15W1-line-17"> As much as a game-cock's excell'd by a sparrow;</l><l n="18" xml:id="spp-969-15W1-line-18"> As much as a coach is below a wheelbarrow:</l><l n="19" xml:id="spp-969-15W1-line-19"> As much and much more as the most handsome man</l><l n="20" xml:id="spp-969-15W1-line-20" rend="flush right"> Of all the whole world is exceeded by Dan.T. S<hi rend="SMALL-CAPS">HERIDAN</hi>.</l></lg><lg n="2" type="verse-paragraph"><l n="21" xml:id="spp-969-15W1-line-21">This was written with that hand which in others is commonly called the left-hand.&#13;969-15W1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">STELLA</hi>'s Birth-Day.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-740CWILH-footnote-1 #spp-740CWILH-line-49"/>
+          <link target="#spp-740CWILH-footnote-2 #spp-740CWILH-line-55"/>
+          <link target="#spp-740CWILH-footnote-3 #spp-740CWILH-line-56"/>
+        </linkGrp>
+        <div n="740CWILH" type="poem"><head type="note" n="1" xml:id="spp-740CWILH-headnote-1"><lg n="1" xml:id="spp-740CWILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-740CWILH-headnote-1-line-group-1-line-1">A great Bottle of Wine, long buried, being that Day dug up.</l></lg></head><head type="note" n="2" xml:id="spp-740CWILH-headnote-2"><lg n="1" xml:id="spp-740CWILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-740CWILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-740CWILH-headnote-3"><lg n="1" xml:id="spp-740CWILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-740CWILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-740CWILH-line-1"><hi rend="display-initial">R</hi>Esolv'd my annual Verse to pay</l><l n="2" xml:id="spp-740CWILH-line-2"> By Duty bound, on <hi rend="underline">Stella</hi>'s Day;</l><l n="3" xml:id="spp-740CWILH-line-3"> Furnish'd with Paper, Pens, and Ink,</l><l n="4" xml:id="spp-740CWILH-line-4"> I gravely sat me down to think:</l><l n="5" xml:id="spp-740CWILH-line-5"> I bit my Nails, and scratch'd my Head,</l><l n="6" xml:id="spp-740CWILH-line-6"> But found my Wit and Fancy fled:</l><l n="7" xml:id="spp-740CWILH-line-7"> Or, if with more than usual Pain,</l><l n="8" xml:id="spp-740CWILH-line-8"> A Thought came slowly from my Brain,</l><l n="9" xml:id="spp-740CWILH-line-9"> It cost me Lord knows how much Time</l><l n="10" xml:id="spp-740CWILH-line-10"> To shape it into Sense and Rhyme;</l><l n="11" xml:id="spp-740CWILH-line-11"> And, what was yet a greater Curse,</l><l n="12" xml:id="spp-740CWILH-line-12"> Long-thinking made my Fancy worse.</l></lg><lg n="2" type="stanza"><l n="13" xml:id="spp-740CWILH-line-13">Forsaken by th'inspiring Nine,&#13;</l><l n="14" xml:id="spp-740CWILH-line-14"> I waited at <hi rend="underline">Apollo</hi>'s Shrine;</l><l n="15" xml:id="spp-740CWILH-line-15"> I told him what the World would say</l><l n="16" xml:id="spp-740CWILH-line-16"> If <hi rend="underline">Stella</hi> were unsung to Day;</l><l n="17" xml:id="spp-740CWILH-line-17"> How I should hide my Head for Shame,</l><l n="18" xml:id="spp-740CWILH-line-18"> When both the <hi rend="underline">Jacks</hi> and <hi rend="underline">Robin</hi> came;</l><l n="19" xml:id="spp-740CWILH-line-19"> How <hi rend="underline">Ford</hi> would frown, how <hi rend="underline">Jim</hi> would leer,</l><l n="20" xml:id="spp-740CWILH-line-20"> How <hi rend="underline">Sh--n</hi> the Rogue would sneer,</l><l n="21" xml:id="spp-740CWILH-line-21"> And swear it does not always follow,</l><l n="22" xml:id="spp-740CWILH-line-22"> That <hi rend="underline">Semel'n anno ridet Apollo</hi>.</l><l n="23" xml:id="spp-740CWILH-line-23"> I have assur'd them twenty times,</l><l n="24" xml:id="spp-740CWILH-line-24"> That <hi rend="underline">Ph<unclear>oe</unclear>bus</hi> help'd me in my Rhymes,<hi rend="underline">Ph<unclear>oe</unclear>bus</hi> inspir'd me from above,</l><l n="25" xml:id="spp-740CWILH-line-25"> And he and I were Hand in Glove.</l><l n="26" xml:id="spp-740CWILH-line-26"> But finding me so dull and dry since,</l><l n="27" xml:id="spp-740CWILH-line-27"> They'll call it all poetick Licence:</l><l n="28" xml:id="spp-740CWILH-line-28"> And when I brag of Aid divine,</l><l n="29" xml:id="spp-740CWILH-line-29"> Think <hi rend="underline">Eusden</hi>'s Right as good as mine.</l></lg><lg n="3" type="stanza"><l n="30" xml:id="spp-740CWILH-line-30">Nor do I ask for <hi rend="underline">Stella</hi>'s sake;</l><l n="31" xml:id="spp-740CWILH-line-31"> 'Tis my own Credit lies at Stake.</l><l n="32" xml:id="spp-740CWILH-line-32"> And <hi rend="underline">Stella</hi> will be sung, while I</l><l n="33" xml:id="spp-740CWILH-line-33"> Can only be a Stander-by.</l></lg><lg n="4" type="stanza"><l n="34" xml:id="spp-740CWILH-line-34"><hi rend="underline">Apollo</hi> having thought a little,</l><l n="35" xml:id="spp-740CWILH-line-35"> Return'd this Answer to a Tittle.</l></lg><lg n="5" type="stanza"><l n="36" xml:id="spp-740CWILH-line-36">Though you should live like old <hi rend="underline">Methusalem</hi>,</l><l n="37" xml:id="spp-740CWILH-line-37"> I furnish Hints, and you should use all 'em,</l><l n="38" xml:id="spp-740CWILH-line-38"> You yearly sing as she grows old,</l><l n="39" xml:id="spp-740CWILH-line-39"> You'd leave her Virtues half untold.</l><l n="40" xml:id="spp-740CWILH-line-40"> But to say truth, such Dulness reigns</l><l n="41" xml:id="spp-740CWILH-line-41"> Through the whole set of <hi rend="underline">Ir--sh</hi> D---ns;</l><l n="42" xml:id="spp-740CWILH-line-42"> I'm daily stunn'd with such a Medley,</l><l n="43" xml:id="spp-740CWILH-line-43"> D---n <hi rend="underline">W</hi>--, D---n <hi rend="underline">D--l</hi>, and D---n <hi rend="underline">S</hi>---;</l><l n="44" xml:id="spp-740CWILH-line-44"> That, let what D---n soever come,</l><l n="45" xml:id="spp-740CWILH-line-45"> My Orders are, I'm not at Home;</l><l n="46" xml:id="spp-740CWILH-line-46"> And if your Voice had not been loud,</l><l n="47" xml:id="spp-740CWILH-line-47"> You must have pass'd among the Crowd.</l></lg><lg n="6" type="stanza"><l n="48" xml:id="spp-740CWILH-line-48">But, now, your Danger to prevent,&#13;</l><l n="49" xml:id="spp-740CWILH-line-49"> You must apply to Mrs. <ref target="#spp-740CWILH-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-740CWILH-footnote-1"><hi rend="underline">The House-Keeper.</hi></note><hi rend="underline">Brent</hi>,</l><l n="50" xml:id="spp-740CWILH-line-50"> For she, as Priestess, knows the Rites</l><l n="51" xml:id="spp-740CWILH-line-51"> Wherein the God of <hi rend="underline">Earth</hi> delights.</l><l n="52" xml:id="spp-740CWILH-line-52"> First, nine Ways looking, let her stand</l><l n="53" xml:id="spp-740CWILH-line-53"> With an old Poker in her Hand;</l><l n="54" xml:id="spp-740CWILH-line-54"> Let her describe a Circle round</l><l n="55" xml:id="spp-740CWILH-line-55"> In <ref target="#spp-740CWILH-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-740CWILH-footnote-2"><hi rend="underline">The Butler.</hi></note><hi rend="underline">Saunder</hi>'s Cellar on the Ground:</l><l n="56" xml:id="spp-740CWILH-line-56"> A Spade let prudent <ref target="#spp-740CWILH-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-740CWILH-footnote-3"><hi rend="underline">The Footman.</hi></note><hi rend="underline">Archy</hi> hold,</l><l n="57" xml:id="spp-740CWILH-line-57"> And with Discretion dig the Mould:</l><l n="58" xml:id="spp-740CWILH-line-58"> Let <hi rend="underline">Stella</hi> look with watchful Eye,<hi rend="underline">Rebecca, Ford</hi>, and <hi rend="underline">Grattons</hi> by.</l></lg><lg n="7" type="stanza"><l n="59" xml:id="spp-740CWILH-line-59">Behold the B<hi rend="SMALL-CAPS">OTTLE</hi>, where it lies</l><l n="60" xml:id="spp-740CWILH-line-60"> With Neck elated tow'rds the Skies!</l><l n="61" xml:id="spp-740CWILH-line-61"> The God of Winds and God of Fire</l><l n="62" xml:id="spp-740CWILH-line-62"> Did to it's wond'rous Birth conspire;</l><l n="63" xml:id="spp-740CWILH-line-63"> And <hi rend="underline">Bacchus</hi> for the Poet's Use</l><l n="64" xml:id="spp-740CWILH-line-64"> Pour'd in a strong inspiring Juice:</l><l n="65" xml:id="spp-740CWILH-line-65"> See! as you raise it from its Tomb,</l><l n="66" xml:id="spp-740CWILH-line-66"> It drags behind a spacious Womb,</l><l n="67" xml:id="spp-740CWILH-line-67"> And in the spacious Womb contains</l><l n="68" xml:id="spp-740CWILH-line-68"> A Sov'reign Medicine for the Brains.</l></lg><lg n="8" type="stanza"><l n="69" xml:id="spp-740CWILH-line-69">You'll find it soon if Fate consents;&#13;</l><l n="70" xml:id="spp-740CWILH-line-70"> If not, a thousand Mrs. <hi rend="underline">Brents</hi>,</l><l n="71" xml:id="spp-740CWILH-line-71"> Ten thousand <hi rend="underline">Archy</hi>'s arm'd with Spades</l><l n="72" xml:id="spp-740CWILH-line-72"> May dig in vain in <hi rend="underline">Pluto</hi>'s Shades.</l></lg><lg n="9" type="stanza"><l n="73" xml:id="spp-740CWILH-line-73">From thence a plenteous Draught infuse,&#13;</l><l n="74" xml:id="spp-740CWILH-line-74"> And boldly then invoke the Muse:</l><l n="75" xml:id="spp-740CWILH-line-75"> (But first let <hi rend="underline">Robert</hi> on his Knees</l><l n="76" xml:id="spp-740CWILH-line-76"> With Caution drain it from the Lees)</l><l n="77" xml:id="spp-740CWILH-line-77"> The Muse will at your Call appear,</l><l n="78" xml:id="spp-740CWILH-line-78"> With <hi rend="underline">Stella</hi>'s Praise to crown the Year.740CWILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

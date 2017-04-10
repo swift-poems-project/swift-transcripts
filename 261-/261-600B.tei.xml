@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Written on the Deanery Window of S<hi rend="sup">t</hi> Patricks Dublin</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="261-600B" type="poem"><head type="note" n="1" xml:id="spp-261-600B-headnote-1"><lg n="1" xml:id="spp-261-600B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-261-600B-headnote-1-line-group-1-line-1">by Dr Delany</l></lg></head><head type="note" n="2" xml:id="spp-261-600B-headnote-2"><lg n="1" xml:id="spp-261-600B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-261-600B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-261-600B-headnote-3"><lg n="1" xml:id="spp-261-600B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-261-600B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-261-600B-line-1"> Are the Guests of this house still doomd to be cheated&#13;</l><l n="2" xml:id="spp-261-600B-line-2"> Sure; the Fates have decreed, they by halves shoud be treated</l><l n="3" xml:id="spp-261-600B-line-3"> In the days of good Iohn if you came here to dine</l><l n="4" xml:id="spp-261-600B-line-4"> You had choice of good meat; but no choice of good Wine</l><l n="5" xml:id="spp-261-600B-line-5"> In Ionathans reign, if you come here to eat</l><l n="6" xml:id="spp-261-600B-line-6"> You have choice of good wine but no choice of good meat</l><l n="7" xml:id="spp-261-600B-line-7"> O Iove, then how fully might all sides be blessd</l><l n="8" xml:id="spp-261-600B-line-8"> Would'st thou but agree to this humble request</l><l n="9" xml:id="spp-261-600B-line-9"> Put both Deans in one, or if thats too much trouble</l><l n="10" xml:id="spp-261-600B-line-10"> Instead of the Dean make the Deanerys double261-600B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

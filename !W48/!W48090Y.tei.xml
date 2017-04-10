@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="!W48090Y" type="poem"><head type="note" n="1" xml:id="spp-!W48090Y-headnote-1"><lg n="1" xml:id="spp-!W48090Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-!W48090Y-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-!W48090Y-headnote-2"><lg n="1" xml:id="spp-!W48090Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-!W48090Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-!W48090Y-headnote-3"><lg n="1" xml:id="spp-!W48090Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-!W48090Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-!W48090Y-line-1"><hi rend="black-letter">W</hi>·higg's y<hi rend="sup">e</hi> first letter of his name<hi rend="black-letter">H</hi>·ypocrisy y<hi rend="sup">e</hi> second of y<hi rend="sup">e</hi> same<hi rend="black-letter">A</hi>·narchy his darling &amp; his aim<hi rend="black-letter">R</hi>·ebellion, Discord, Mutiny &amp; Faction<hi rend="black-letter">T</hi>·om, Captain of y<hi rend="sup">e</hi> Mobb in soul &amp; Action<hi rend="black-letter">O</hi>·'re grown in sin, Cornuted, Old, in Debt,<hi rend="black-letter">N</hi>·oll's soul &amp; Ireton's live w<hi rend="sup">th</hi>in him Yet!W48090Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>EPISTLE TO DR SHERIDAN.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-R27610W1-footnote-1 #spp-R27610W1-line-22"/>
+        </linkGrp>
+        <div n="R27610W1" type="poem"><head type="note" n="1" xml:id="spp-R27610W1-headnote-1"><lg n="1" xml:id="spp-R27610W1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-R27610W1-headnote-1-line-group-1-line-1">[From the original manuscript in possession of Leonard Macnally, Esq. Barrister at Law, Dublin.]</l></lg></head><head type="note" n="2" xml:id="spp-R27610W1-headnote-2"><lg n="1" xml:id="spp-R27610W1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-R27610W1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-R27610W1-headnote-3"><lg n="1" xml:id="spp-R27610W1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-R27610W1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-R27610W1-line-1">S<hi rend="SMALL-CAPS">OME</hi> ancient authors wisely write,</l><l n="2" xml:id="spp-R27610W1-line-2"> That he who drinks will wake at night,</l><l n="3" xml:id="spp-R27610W1-line-3"> Will never fail to lose his rest,</l><l n="4" xml:id="spp-R27610W1-line-4"> And feel a streightness in his chest;</l><l n="5" xml:id="spp-R27610W1-line-5"> A streightness in a double sense,</l><l n="6" xml:id="spp-R27610W1-line-6"> A streightness both of breath and pence:</l><l n="7" xml:id="spp-R27610W1-line-7"> Physicians say, it is but reasonable,</l><l n="8" xml:id="spp-R27610W1-line-8"> He that comes home at hour unseasonable,</l><l n="9" xml:id="spp-R27610W1-line-9"> (Besides a fall and broken shins,</l><l n="10" xml:id="spp-R27610W1-line-10"> Those smaller judgments for his sins;)</l><l n="11" xml:id="spp-R27610W1-line-11"> If, when he goes to bed, he meets</l><l n="12" xml:id="spp-R27610W1-line-12"> A teazing wife between the sheets,</l><l n="13" xml:id="spp-R27610W1-line-13"> 'Tis six to five he'll never sleep,</l><l n="14" xml:id="spp-R27610W1-line-14"> But rave and toss till morning-peep.</l><l n="15" xml:id="spp-R27610W1-line-15"> Yet harmless Betty must be blamed</l><l n="16" xml:id="spp-R27610W1-line-16"> Because you feel your lungs inflamed;</l><l n="17" xml:id="spp-R27610W1-line-17"> But if you would not get a fever,</l><l n="18" xml:id="spp-R27610W1-line-18"> You never must one moment leave her.</l><l n="19" xml:id="spp-R27610W1-line-19"> This comes of all your drunken tricks,</l><l n="20" xml:id="spp-R27610W1-line-20"> Your Parry's and your brace of Dicks;</l><l n="21" xml:id="spp-R27610W1-line-21"> Your hunting Helsham in his laboratory</l><l n="22" xml:id="spp-R27610W1-line-22"> Too, was the time you saw that Drab lae a Pery. <ref target="#spp-R27610W1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-R27610W1-footnote-1">So in the manuscript.</note></l><l n="23" xml:id="spp-R27610W1-line-23"> But like the prelate who lives yonder-a</l><l n="24" xml:id="spp-R27610W1-line-24"> And always cries he is like Cassandra;</l><l n="25" xml:id="spp-R27610W1-line-25"> I always told you, Mr Sheridan,</l><l n="26" xml:id="spp-R27610W1-line-26"> If once this company you were rid on,</l><l n="27" xml:id="spp-R27610W1-line-27"> Frequented honest folk, and very few,</l><l n="28" xml:id="spp-R27610W1-line-28"> You'd live till all your friends were weary of you.</l><l n="29" xml:id="spp-R27610W1-line-29"> But if rack punch you still would swallow,</l><l n="30" xml:id="spp-R27610W1-line-30"> I then forewarned you what would follow.</l><l n="31" xml:id="spp-R27610W1-line-31"> Are the Deanery sober hours?</l><l n="32" xml:id="spp-R27610W1-line-32"> Be witness for me all ye powers.</l><l n="33" xml:id="spp-R27610W1-line-33"> The cloth is laid at eight, and then</l><l n="34" xml:id="spp-R27610W1-line-34"> We sit till half an hour past ten;</l><l n="35" xml:id="spp-R27610W1-line-35"> One bottle well might serve for three</l><l n="36" xml:id="spp-R27610W1-line-36"> If Mrs Robinson drank like me.</l><l n="37" xml:id="spp-R27610W1-line-37"> Ask how I fret when she has beckon'd</l><l n="38" xml:id="spp-R27610W1-line-38"> To Robert to bring up a second;</l><l n="39" xml:id="spp-R27610W1-line-39"> I hate to have it in my sight,</l><l n="40" xml:id="spp-R27610W1-line-40"> And drink my share in perfect spite.</l><l n="41" xml:id="spp-R27610W1-line-41"> If Robin brings the ladies word,</l><l n="42" xml:id="spp-R27610W1-line-42"> The coach is come, I 'scape a third;</l><l n="43" xml:id="spp-R27610W1-line-43"> If not, why then I fall a talking</l><l n="44" xml:id="spp-R27610W1-line-44"> How sweet a night it is for walking;</l><l n="45" xml:id="spp-R27610W1-line-45"> For in all conscience, were my treasure able,</l><l n="46" xml:id="spp-R27610W1-line-46"> I'd think a quart a piece unreasonable;</l><l n="47" xml:id="spp-R27610W1-line-47"> It strikes eleven,──get out of doors.──</l><l n="48" xml:id="spp-R27610W1-line-48"> This is my constant farewell.Yours,J.S.</l><l n="49" xml:id="spp-R27610W1-line-49"> Oct. 18th 1724, nine in the morning.</l></lg><lg n="2" type="stanza"><l n="50" xml:id="spp-R27610W1-line-50">You had best hap yourself up in a chair, and dine with me than with the provost.&#13;R27610W1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

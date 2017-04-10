@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">The Description of a Salamander</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="082-ROGP" type="poem"><head type="note" n="1" xml:id="spp-082-ROGP-headnote-1"><lg n="1" xml:id="spp-082-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-082-ROGP-headnote-1-line-group-1-line-1">OUT OF PLINY'S NAT. HIST. LIB.10 C.67 AND LIB.29 C.4</l></lg></head><head type="note" n="2" xml:id="spp-082-ROGP-headnote-2"><lg n="1" xml:id="spp-082-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-082-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-082-ROGP-headnote-3"><lg n="1" xml:id="spp-082-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-082-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-082-ROGP-line-1"> As mastiff dogs in modern phrase are&#13;</l><l n="2" xml:id="spp-082-ROGP-line-2"> Called Pompey, Scipio, and Caesar;</l><l n="3" xml:id="spp-082-ROGP-line-3"> As pies and daws are often styled</l><l n="4" xml:id="spp-082-ROGP-line-4"> With Christian nicknames like a child;</l><l n="5" xml:id="spp-082-ROGP-line-5"> As we say '<hi rend="underline">Monsieur</hi>' to an ape</l><l n="6" xml:id="spp-082-ROGP-line-6"> Without offence to human shape:</l><l n="7" xml:id="spp-082-ROGP-line-7"> So men have got from bird and brute</l><l n="8" xml:id="spp-082-ROGP-line-8"> Names that would best their natures suit:</l><l n="9" xml:id="spp-082-ROGP-line-9"> The lion, eagle, fox and boar</l><l n="10" xml:id="spp-082-ROGP-line-10"> Were heroes' titles heretofore,</l><l n="11" xml:id="spp-082-ROGP-line-11"> Bestowed as hieroglyphics fit</l><l n="12" xml:id="spp-082-ROGP-line-12"> To show their valour, strength or wit.</l><l n="13" xml:id="spp-082-ROGP-line-13"> For what is understood by fame</l><l n="14" xml:id="spp-082-ROGP-line-14"> Besides the getting of a name?</l><l n="15" xml:id="spp-082-ROGP-line-15"> But e'er since men invented guns,</l><l n="16" xml:id="spp-082-ROGP-line-16"> A different way their fancy runs:</l><l n="17" xml:id="spp-082-ROGP-line-17"> To paint a hero, we inquire</l><l n="18" xml:id="spp-082-ROGP-line-18"> For something that will conquer fire.</l><l n="19" xml:id="spp-082-ROGP-line-19"> Would you describe Turenne or Trump,</l><l n="20" xml:id="spp-082-ROGP-line-20"> Think of a bucket or a pump.</l><l n="21" xml:id="spp-082-ROGP-line-21"> Are these too low? Then find out grander,</l><l n="22" xml:id="spp-082-ROGP-line-22"> Call my Lord Cutts a salamander.</l><l n="23" xml:id="spp-082-ROGP-line-23"> 'Tis well: but since we live among</l><l n="24" xml:id="spp-082-ROGP-line-24"> Detractors with an evil tongue,</l><l n="25" xml:id="spp-082-ROGP-line-25"> Who may object against the term,</l><l n="26" xml:id="spp-082-ROGP-line-26"> Pliny shall prove what we affirm:</l><l n="27" xml:id="spp-082-ROGP-line-27"> Pliny shall prove, and we'll apply,</l><l n="28" xml:id="spp-082-ROGP-line-28"> And I'll be judged by standers-by.</l></lg><lg n="2" type="stanza"><l n="29" xml:id="spp-082-ROGP-line-29">First then, our author has defined&#13;</l><l n="30" xml:id="spp-082-ROGP-line-30"> This reptile, of the serpent kind,</l><l n="31" xml:id="spp-082-ROGP-line-31"> With gaudy coat, and shining train,</l><l n="32" xml:id="spp-082-ROGP-line-32"> But loathsome spots his body stain:</l><l n="33" xml:id="spp-082-ROGP-line-33"> Out from some hole obscure he flies</l><l n="34" xml:id="spp-082-ROGP-line-34"> When rains descend, and tempests rise,</l><l n="35" xml:id="spp-082-ROGP-line-35"> Till the sun clears the air; and then</l><l n="36" xml:id="spp-082-ROGP-line-36"> Crawls back, neglected, to his den.</l></lg><lg n="3" type="stanza"><l n="37" xml:id="spp-082-ROGP-line-37">So when the war has raised a storm&#13;</l><l n="38" xml:id="spp-082-ROGP-line-38"> I've seen a snake in human form,</l><l n="39" xml:id="spp-082-ROGP-line-39"> All stained with infamy and vice,</l><l n="40" xml:id="spp-082-ROGP-line-40"> Leap from the dunghill in a trice;</l><l n="41" xml:id="spp-082-ROGP-line-41"> Burnish and make a gaudy show,</l><l n="42" xml:id="spp-082-ROGP-line-42"> Become a general, peer and beau,</l><l n="43" xml:id="spp-082-ROGP-line-43"> Till peace hath made the sky serene,</l><l n="44" xml:id="spp-082-ROGP-line-44"> Then shrink into its hole again.</l></lg><lg n="4" type="stanza"><l n="45" xml:id="spp-082-ROGP-line-45">All this we grant──why, then look yonder,&#13;Sure that must be a salamander!</l></lg><lg n="5" type="stanza"><l n="46" xml:id="spp-082-ROGP-line-46">Farther we are by Pliny told,&#13;</l><l n="47" xml:id="spp-082-ROGP-line-47"> This serpent is extremely cold;</l><l n="48" xml:id="spp-082-ROGP-line-48"> So cold, that put it in the fire,</l><l n="49" xml:id="spp-082-ROGP-line-49"> 'Twill make the very flames expire:</l><l n="50" xml:id="spp-082-ROGP-line-50"> Besides, it spews a filthy froth,</l><l n="51" xml:id="spp-082-ROGP-line-51"> (Whether through rage, or lust, or both)</l><l n="52" xml:id="spp-082-ROGP-line-52"> Of matter purulent and white,</l><l n="53" xml:id="spp-082-ROGP-line-53"> Which happening on the skin to light,</l><l n="54" xml:id="spp-082-ROGP-line-54"> And there corrupting to a wound,</l><l n="55" xml:id="spp-082-ROGP-line-55"> Spreads leprosy and baldness round.</l></lg><lg n="6" type="stanza"><l n="56" xml:id="spp-082-ROGP-line-56">So have I seen a battered beau&#13;</l><l n="57" xml:id="spp-082-ROGP-line-57"> By age and claps grown cold as snow,</l><l n="58" xml:id="spp-082-ROGP-line-58"> Whose breath or touch, where'er he came,</l><l n="59" xml:id="spp-082-ROGP-line-59"> Blew out love's torch, or chilled the flame:</l><l n="60" xml:id="spp-082-ROGP-line-60"> And should some nymph who ne'er was cruel,</l><l n="61" xml:id="spp-082-ROGP-line-61"> Like Carleton cheap, or famed Du Ruel,</l><l n="62" xml:id="spp-082-ROGP-line-62"> Receive the filth which he ejects;</l><l n="63" xml:id="spp-082-ROGP-line-63"> She soon would find the same effects,</l><l n="64" xml:id="spp-082-ROGP-line-64"> Her tainted carcass to pursue,</l><l n="65" xml:id="spp-082-ROGP-line-65"> As from the salamander's spew:</l><l n="66" xml:id="spp-082-ROGP-line-66"> A dismal shedding of her locks</l><l n="67" xml:id="spp-082-ROGP-line-67"> And, if no leprosy, a pox.</l></lg><lg n="7" type="stanza"><l n="68" xml:id="spp-082-ROGP-line-68">Then I'll appeal to each bystander,&#13;If this be not a salamander?082-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

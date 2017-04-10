@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">The</hi> Q<hi rend="SMALL-CAPS">UIDNUNCKI'S</hi>: <hi rend="underline">A</hi> T<hi rend="SMALL-CAPS">ALE</hi></title>
+        <title><hi rend="underline">Occasion'd by the Death of the</hi></title>
+        <title><hi rend="underline">Duke Regent of</hi> France.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-Y20-03P7-footnote-1 #spp-Y20-03P7-line-2"/>
+        </linkGrp>
+        <div n="Y20-03P7" type="poem"><head type="note" n="1" xml:id="spp-Y20-03P7-headnote-1"><lg n="1" xml:id="spp-Y20-03P7-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y20-03P7-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y20-03P7-headnote-2"><lg n="1" xml:id="spp-Y20-03P7-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y20-03P7-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y20-03P7-headnote-3"><lg n="1" xml:id="spp-Y20-03P7-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y20-03P7-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y20-03P7-line-1"><hi rend="display-initial">H</hi>OW vain are Mortal Man's Endeavours!</l><l n="2" xml:id="spp-Y20-03P7-line-2"> (Said, at <ref target="#spp-Y20-03P7-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-Y20-03P7-footnote-1"><hi rend="underline">Coffee-House near St. </hi>James's.</note> Dame <hi rend="underline">Elleot</hi>'s, Master <hi rend="underline">Tr────s</hi>)</l><l n="3" xml:id="spp-Y20-03P7-line-3"> Good <hi rend="underline">Orleans</hi> dead! in Truth 'tis hard:</l><l n="4" xml:id="spp-Y20-03P7-line-4"> Oh! may all Statesmen die prepar'd!</l><l n="5" xml:id="spp-Y20-03P7-line-5"> I do foresee (and for fore-seeing</l><l n="6" xml:id="spp-Y20-03P7-line-6"> He equals any Man in Being)</l><l n="7" xml:id="spp-Y20-03P7-line-7"> The Army ne'er can be disbanded.</l><l n="8" xml:id="spp-Y20-03P7-line-8"> ────I wish the King were safely landed.</l><l n="9" xml:id="spp-Y20-03P7-line-9"> Ah Friends! great Changes threat the Land!</l><l n="10" xml:id="spp-Y20-03P7-line-10"> All <hi rend="underline">France</hi> and <hi rend="underline">England</hi> at a Stand!</l><l n="11" xml:id="spp-Y20-03P7-line-11"> There's <hi rend="underline">Meroweis</hi>──mark! strange Work!</l><l n="12" xml:id="spp-Y20-03P7-line-12"> And there's the <hi rend="underline">Czar</hi>, and there's the <hi rend="underline">Turk</hi>────</l><l n="13" xml:id="spp-Y20-03P7-line-13"> The <hi rend="underline">Pope</hi>──An <hi rend="underline">India</hi>-Merchant by,</l><l n="14" xml:id="spp-Y20-03P7-line-14"> Cut short the Speech with this Reply:A<hi rend="SMALL-CAPS">LL</hi> at a Stand? You see great Changes?</l><l n="15" xml:id="spp-Y20-03P7-line-15"> Ah, Sir! you never saw the <hi rend="underline">Ganges</hi>.</l><l n="16" xml:id="spp-Y20-03P7-line-16"> There dwell the Nations of <hi rend="underline">Quidnuncki</hi>'s,</l><l n="17" xml:id="spp-Y20-03P7-line-17"> (So <hi rend="underline">Monomotapa</hi> calls Monkies:)</l><l n="18" xml:id="spp-Y20-03P7-line-18"> On either Bank, from Bough to Bough,</l><l n="19" xml:id="spp-Y20-03P7-line-19"> They meet and chat (as we may now.)</l><l n="20" xml:id="spp-Y20-03P7-line-20"> Whispers go round, they grin, they shrug,</l><l n="21" xml:id="spp-Y20-03P7-line-21"> They bow, they snarl, they scratch, they hug;</l><l n="22" xml:id="spp-Y20-03P7-line-22"> And, just as Chance, or Whim provoke them,</l><l n="23" xml:id="spp-Y20-03P7-line-23"> They either bite their Friends, or stroke them.T<hi rend="SMALL-CAPS">HERE</hi> have I seen some active Prig,</l><l n="24" xml:id="spp-Y20-03P7-line-24"> To shew his Parts, bestride a Twig:</l><l n="25" xml:id="spp-Y20-03P7-line-25"> Lord! how the chatt'ring Tribe admire,</l><l n="26" xml:id="spp-Y20-03P7-line-26"> Not that he's wiser, but he's higher:</l><l n="27" xml:id="spp-Y20-03P7-line-27"> All long to try the vent'rous Thing,</l><l n="28" xml:id="spp-Y20-03P7-line-28"> (For Pow'r is but to have one's Swing.)</l><l n="29" xml:id="spp-Y20-03P7-line-29"> From Side to Side he springs, he spurns,</l><l n="30" xml:id="spp-Y20-03P7-line-30"> And bangs his Foes and Friends by Turns.</l><l n="31" xml:id="spp-Y20-03P7-line-31"> Thus, as in giddy Freaks he bounces,<hi rend="underline">Crack</hi> goes the Twig, and in he flounces!</l><l n="32" xml:id="spp-Y20-03P7-line-32"> Down the swift Stream the Wretch is born;</l><l n="33" xml:id="spp-Y20-03P7-line-33"> Never, ah never, to return!<hi rend="underline">Z────ds</hi>! What a Fall had our dear Brother;<hi rend="underline">Morblue</hi>! cries one, and <hi rend="underline">Damme</hi>, t'other.</l><l n="34" xml:id="spp-Y20-03P7-line-34"> The Nations give a gen'ral Screech,</l><l n="35" xml:id="spp-Y20-03P7-line-35"> None cocks his Tail, none claws his Breech;</l><l n="36" xml:id="spp-Y20-03P7-line-36"> Each trembles for the publick Weal,</l><l n="37" xml:id="spp-Y20-03P7-line-37"> And, for a While, forgets to steal.A W<hi rend="SMALL-CAPS">HILE</hi>, all Eyes intent and steddy,</l><l n="38" xml:id="spp-Y20-03P7-line-38"> Pursue him, whirling down the Eddy.</l><l n="39" xml:id="spp-Y20-03P7-line-39"> But out of Mind when out of View,</l><l n="40" xml:id="spp-Y20-03P7-line-40"> Some other mounts the Twig a-new;</l><l n="41" xml:id="spp-Y20-03P7-line-41"> And Bus'ness, on each Monkey Shore,</l><l n="42" xml:id="spp-Y20-03P7-line-42"> Runs the same Track it went before.Y20-03P7   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

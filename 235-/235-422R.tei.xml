@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>EPITAPH<lb/>ON A<lb/><hi rend="underline">MISER</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SB"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="235-422R"><head type="note" n="1" xml:id="spp-235-422R-headnote-1"><lg n="1" xml:id="spp-235-422R-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-235-422R-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-235-422R-headnote-2"><lg n="1" xml:id="spp-235-422R-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-235-422R-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-235-422R-headnote-3"><lg n="1" xml:id="spp-235-422R-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-235-422R-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-235-422R-line-1"><unclear>S pencilled left margin above line</unclear><hi rend="display-initial">B</hi>ENEATH this verdant <hi rend="underline">Hillock</hi> lies</l><l/><l n="2" xml:id="spp-235-422R-line-2"><hi rend="underline">Demar</hi> the <hi rend="underline">Wealthy</hi> and the <hi rend="underline">Wise</hi>.</l><l/><l n="3" xml:id="spp-235-422R-line-3"><gap/></l><l/><l n="4" xml:id="spp-235-422R-line-4"><gap/></l><l/><l n="5" xml:id="spp-235-422R-line-5">His <hi rend="underline">Heirs</hi>, that he might safely rest,</l><l/><l n="6" xml:id="spp-235-422R-line-6">Have put his <hi rend="underline">Carcass</hi> in a <hi rend="underline">Chest</hi>:</l><l/><l n="7" xml:id="spp-235-422R-line-7">The very <hi rend="underline">Chest</hi>, in which, they say,</l><l/><l n="8" xml:id="spp-235-422R-line-8">His <hi rend="underline">other Self</hi>, his <hi rend="underline">Money</hi>, lay.</l><l/><l n="9" xml:id="spp-235-422R-line-9">And if his <hi rend="underline">Heirs</hi> continue kind</l><l/><l n="10" xml:id="spp-235-422R-line-10">To that dear <hi rend="underline">Self</hi> he left behind,</l><l/><l n="11" xml:id="spp-235-422R-line-11">I dare believe, that Four in Five</l><l/><l n="12" xml:id="spp-235-422R-line-12">Will think his <hi rend="underline">better Half</hi> alive.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

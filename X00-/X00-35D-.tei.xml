@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X00-35D-" type="poem"><head type="note" n="1" xml:id="spp-X00-35D--headnote-1"><lg n="1" xml:id="spp-X00-35D--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X00-35D--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X00-35D--headnote-2"><lg n="1" xml:id="spp-X00-35D--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X00-35D--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X00-35D--headnote-3"><lg n="1" xml:id="spp-X00-35D--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X00-35D--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X00-35D--line-1"><hi rend="display-initial">T</hi>H<hi rend="SMALL-CAPS">REE</hi> merry Lads, you own we are,</l><l n="2" xml:id="spp-X00-35D--line-2"> 'Tis very true, and free from Care,</l><l n="3" xml:id="spp-X00-35D--line-3" rend="flush right"> But envious, we cannot bear,Believe Sir.</l></lg><lg n="2" type="stanza"><l n="4" xml:id="spp-X00-35D--line-4">For were all Forms of Beauty thine,&#13;</l><l n="5" xml:id="spp-X00-35D--line-5"> Were you like <hi rend="underline">Nereus</hi> soft and fine,</l><l n="6" xml:id="spp-X00-35D--line-6" rend="flush right"> We shou'd not in the least repineOr grieve Sir.<gap/><gap/><gap/><gap/></l></lg><lg n="3" type="stanza"><l n="7" xml:id="spp-X00-35D--line-7">And all your trifling Beaux and Fops,&#13;</l><l n="8" xml:id="spp-X00-35D--line-8"> Who comb their Brows, and sleek their Chops,</l><l n="9" xml:id="spp-X00-35D--line-9" rend="flush right"> Are but the Offspring of Toy-Shops,Meer Vapour.</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-X00-35D--line-10">We know your Morning Hours you pass,&#13;</l><l n="11" xml:id="spp-X00-35D--line-11"> To cull and gather out a Face,</l><l n="12" xml:id="spp-X00-35D--line-12" rend="flush right"> Is this the Way you take your Glass?Forbear it.</l></lg><lg n="5" type="stanza"><l n="13" xml:id="spp-X00-35D--line-13">Those Loads of Paint upon your Toilet,&#13;</l><l n="14" xml:id="spp-X00-35D--line-14"> Will never mend your Face but spoil it,</l><l n="15" xml:id="spp-X00-35D--line-15" rend="flush right"> It looks as if you did parboil it,Drink Claret.</l></lg><lg n="6" type="stanza"><l n="16" xml:id="spp-X00-35D--line-16">Your Cheeks by sleeking are so lean,&#13;</l><l n="17" xml:id="spp-X00-35D--line-17"> That they're like <hi rend="underline">Cynthia</hi> in the Wane,</l><l n="18" xml:id="spp-X00-35D--line-18" rend="flush right"> Or Breast of Goose, when 'tis pick'd clean,Or Pullet.</l></lg><lg n="7" type="stanza"><l n="19" xml:id="spp-X00-35D--line-19">See what by *******************&#13;</l><l n="20" xml:id="spp-X00-35D--line-20"> You've made your Phiz a Skelleton,</l><l n="21" xml:id="spp-X00-35D--line-21" rend="flush right"> From the long Distance of your CrownT' your Gullet.X00-35D-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

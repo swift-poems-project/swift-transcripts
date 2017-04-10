@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">Verses spoken </hi>Extempore<hi rend="underline"> by Dean </hi>Swift<hi rend="underline"> on his Curate's</hi></title>
+        <title><hi rend="underline">Complaint of hard Duty</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="675-34XB" type="poem"><head type="note" n="1" xml:id="spp-675-34XB-headnote-1"><lg n="1" xml:id="spp-675-34XB-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-675-34XB-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-675-34XB-headnote-2"><lg n="1" xml:id="spp-675-34XB-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-675-34XB-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-675-34XB-headnote-3"><lg n="1" xml:id="spp-675-34XB-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-675-34XB-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-675-34XB-line-1"><hi rend="display-initial">I</hi> March'd three Miles through scorching Sand,</l><l n="2" xml:id="spp-675-34XB-line-2"> With Zeal in Heart, and Notes in Hand;</l><l n="3" xml:id="spp-675-34XB-line-3"> I rode four more to Great St. <hi rend="underline">Mary</hi>;</l><l n="4" xml:id="spp-675-34XB-line-4"> Using four Legs when two were weary.</l><l n="5" xml:id="spp-675-34XB-line-5"> To three fair Virgins I did tie Men,</l><l n="6" xml:id="spp-675-34XB-line-6"> In the close Bands of pleasing Hymen;</l><l n="7" xml:id="spp-675-34XB-line-7"> I dipp'd two Babes in Holy-Water,</l><l n="8" xml:id="spp-675-34XB-line-8"> And purify'd their Mothers after.</l><l n="9" xml:id="spp-675-34XB-line-9"> Within an Hour, and eke a Half,</l><l n="10" xml:id="spp-675-34XB-line-10"> I preach'd three Congregations deaf,<gap/><gap/></l><l n="11" xml:id="spp-675-34XB-line-11"> Which, thund'ring out with Lungs long-winded.</l><l n="12" xml:id="spp-675-34XB-line-12"> I chopp'd so fast, that few there minded.</l><l n="13" xml:id="spp-675-34XB-line-13"> My Emblem, the laborious Sun,</l><l n="14" xml:id="spp-675-34XB-line-14"> Saw all these mighty Labours done,</l><l n="15" xml:id="spp-675-34XB-line-15"> Before one Race of his was run;</l><l n="16" xml:id="spp-675-34XB-line-16"> All this perform'd by <hi rend="underline">Robert Hewit</hi>,</l><l n="17" xml:id="spp-675-34XB-line-17"> What Mortal else cou'd e'er go through it.675-34XB   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

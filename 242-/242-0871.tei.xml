@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Part of the 9th O<hi rend="SMALL-CAPS">DE</hi> of the 4th Book of <hi rend="underline">Horace</hi>, addressed to Dr. WILLIAM KING, late Lord Arch-Bishop of <hi rend="underline">Dublin</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="242-0871" type="poem"><head type="note" n="1" xml:id="spp-242-0871-headnote-1"><lg n="1" xml:id="spp-242-0871-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-242-0871-headnote-1-line-group-1-line-1"><hi rend="underline">Paulum sepultæ</hi>, &amp;c.</l></lg></head><head type="note" n="2" xml:id="spp-242-0871-headnote-2"><lg n="1" xml:id="spp-242-0871-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-242-0871-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-242-0871-headnote-3"><lg n="1" xml:id="spp-242-0871-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-242-0871-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-242-0871-line-1"><hi rend="display-initial">V</hi>IRTUE conceal'd within our Breast</l><l n="2" xml:id="spp-242-0871-line-2"> Is Inactivity at best:</l><l n="3" xml:id="spp-242-0871-line-3"> But, never shall the Muse endure</l><l n="4" xml:id="spp-242-0871-line-4"> To let your Virtues lye obscure,</l><l n="5" xml:id="spp-242-0871-line-5"> Or suffer Envy to conceal</l><l n="6" xml:id="spp-242-0871-line-6"> Your Labours for the publick Weal.</l><l n="7" xml:id="spp-242-0871-line-7"> Within your Breast all Wisdom lies,</l><l n="8" xml:id="spp-242-0871-line-8"> Either to govern or advise;</l><l n="9" xml:id="spp-242-0871-line-9"> Your steady Soul preserves her Frame</l><l n="10" xml:id="spp-242-0871-line-10"> In good and evil Times the same.</l><l n="11" xml:id="spp-242-0871-line-11"> Pale Avarice and lurking Fraud,</l><l n="12" xml:id="spp-242-0871-line-12"> Stand in your sacred Presence aw'd;</l><l n="13" xml:id="spp-242-0871-line-13"> Your Hand alone from Gold abstains,</l><l n="14" xml:id="spp-242-0871-line-14"> Which drags the slavish World in Chains.</l></lg><lg n="2" type="stanza"><l n="15" xml:id="spp-242-0871-line-15">Him for a happy Man I own,&#13;</l><l n="16" xml:id="spp-242-0871-line-16"> Whose Fortune is not overgrown;</l><l n="17" xml:id="spp-242-0871-line-17"> And happy he, who wisely knows</l><l n="18" xml:id="spp-242-0871-line-18"> To use the Gifts that Heav'n bestows;</l><l n="19" xml:id="spp-242-0871-line-19"> Or, if it please the pow'rs Divine,</l><l n="20" xml:id="spp-242-0871-line-20"> Can suffer Want, and not repine.</l><l n="21" xml:id="spp-242-0871-line-21"> The Man, who, Infamy to shun,</l><l n="22" xml:id="spp-242-0871-line-22"> Into the Arms of Death would run:</l><l n="23" xml:id="spp-242-0871-line-23"> That Man is ready to defend,</l><l n="24" xml:id="spp-242-0871-line-24"> His Life, his Country, or his Friend.242-0871   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

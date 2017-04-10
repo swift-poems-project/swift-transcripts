@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">Ay</hi> and <hi rend="underline">No</hi>: a Fable.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R56532D-" type="poem"><head type="note" n="1" xml:id="spp-R56532D--headnote-1"><lg n="1" xml:id="spp-R56532D--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-R56532D--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-R56532D--headnote-2"><lg n="1" xml:id="spp-R56532D--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-R56532D--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-R56532D--headnote-3"><lg n="1" xml:id="spp-R56532D--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-R56532D--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-R56532D--line-1"><hi rend="display-initial">I</hi>N Fable all things hold Discourse;</l><l n="2" xml:id="spp-R56532D--line-2"> Then <hi rend="underline">Words</hi>, no doubt, must talk of course.Once on a Time, near <hi rend="underline">Channel-Row</hi>,</l><l n="3" xml:id="spp-R56532D--line-3"> Two hostile Adverbs, <hi rend="underline">Ay</hi> and <hi rend="underline">No</hi>,</l><l n="4" xml:id="spp-R56532D--line-4"> Were hast'ning to the Field of Fight,</l><l n="5" xml:id="spp-R56532D--line-5"> And Front to Front stood opposite.</l><l n="6" xml:id="spp-R56532D--line-6"> Before each Gen'ral join'd the Van,<hi rend="underline">Ay</hi>, the more courteous Knight, began.Stop, peevish Particle, beware!</l><l n="7" xml:id="spp-R56532D--line-7"> I'm told you are not such a Bear,</l><l n="8" xml:id="spp-R56532D--line-8"> But sometimes <hi rend="underline">yield</hi>, when <hi rend="underline">offer'd fair</hi>.</l><l n="9" xml:id="spp-R56532D--line-9"> Suffer yon' Folks a while to tattle;</l><l n="10" xml:id="spp-R56532D--line-10"> 'Tis <hi rend="underline">We</hi> who must decide the Battle.</l><l n="11" xml:id="spp-R56532D--line-11"> Whene'er we war on yonder Stage</l><l n="12" xml:id="spp-R56532D--line-12"> With various Fate, and equal Rage,</l><l n="13" xml:id="spp-R56532D--line-13"> The Nation trembles at each Blow</l><l n="14" xml:id="spp-R56532D--line-14"> That <hi rend="underline">No</hi> gives <hi rend="underline">Ay</hi>, and <hi rend="underline">Ay</hi> gives <hi rend="underline">No</hi>;</l><l n="15" xml:id="spp-R56532D--line-15"> Yet in expensive long Contention,</l><l n="16" xml:id="spp-R56532D--line-16"> We gain nor Office, Grant, or Pension.</l><l n="17" xml:id="spp-R56532D--line-17"> Why then shou'd <hi rend="underline">Kinsfolks</hi> quarrel thus?</l><l n="18" xml:id="spp-R56532D--line-18"> (For, <hi rend="underline">Two</hi> of <hi rend="underline">You</hi> make <hi rend="underline">One</hi> of <hi rend="underline">Us</hi>.)</l><l n="19" xml:id="spp-R56532D--line-19"> To some wise Statesman let us go,</l><l n="20" xml:id="spp-R56532D--line-20"> Where each his <hi rend="underline">proper Use</hi> may know.</l><l n="21" xml:id="spp-R56532D--line-21"> He may admit two such Commanders,</l><l n="22" xml:id="spp-R56532D--line-22"> And make those wait, who serv'd in <hi rend="underline">Flanders</hi>.</l><l n="23" xml:id="spp-R56532D--line-23"> Let's quarter on a Great-Man's Tongue,</l><l n="24" xml:id="spp-R56532D--line-24"> A Treas'ry Lord, not Maister <hi rend="underline">Y────g</hi>.</l><l n="25" xml:id="spp-R56532D--line-25"> Obsequious at his high Command,<hi rend="underline">Ay</hi> shall march forth to Tax the Land:</l><l n="26" xml:id="spp-R56532D--line-26"> Impeachments, <hi rend="underline">No</hi> can best resist,</l><l n="27" xml:id="spp-R56532D--line-27"> And <hi rend="underline">Ay</hi> support the Civil List:<hi rend="underline">Ay</hi> quick as <hi rend="underline">C<unclear>ae</unclear>sar</hi>, wins the Day;</l><l n="28" xml:id="spp-R56532D--line-28"> And <hi rend="underline">No</hi>, like <hi rend="underline">Fabius</hi>, by Delay.</l><l n="29" xml:id="spp-R56532D--line-29"> Sometimes, in mutual sly Disguise,</l><l n="30" xml:id="spp-R56532D--line-30"> Let <hi rend="underline">Ay's</hi> seem <hi rend="underline">No's</hi>, and <hi rend="underline">No's</hi> seem <hi rend="underline">I's;</hi> be in Courts Denials meant,</l><l n="31" xml:id="spp-R56532D--line-31"> Ay's</l><l n="32" xml:id="spp-R56532D--line-32"> And <hi rend="underline">No's</hi> in Bishops give Consent.Thus <hi rend="underline">Ay</hi> propos'd────And for Reply,<hi rend="underline">No</hi>, for the first time, answer'd <hi rend="underline">I</hi>.</l><l n="33" xml:id="spp-R56532D--line-33"> They parted with a Thousand Kisses,</l><l n="34" xml:id="spp-R56532D--line-34"> And fight e'er since, for <hi rend="underline">Pay</hi>, like <hi rend="underline">Swisses</hi>.R56532D-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

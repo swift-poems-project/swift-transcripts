@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The distrest maid, being put to her last shift,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="!W1264ZL" type="poem"><head type="note" n="1" xml:id="spp-!W1264ZL-headnote-1"><lg n="1" xml:id="spp-!W1264ZL-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-!W1264ZL-headnote-1-line-group-1-line-1">To the PRINTER.</l></lg></head><head type="note" n="2" xml:id="spp-!W1264ZL-headnote-2"><lg n="1" xml:id="spp-!W1264ZL-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-!W1264ZL-headnote-2-line-group-1-line-1">A friend of mine who was acquainted with Dr. Swift, found lately a copy of the following production of his. The paper was so damaged, and ink so bad, that the whole could not be made out; nor can I say this is correct. But as it is probable some of your readers who were intimate with the Dean may be able to correct and compleat it, and also furnish his reply, I send it to you for publication.</l></lg></head><head type="note" n="3" xml:id="spp-!W1264ZL-headnote-3"><lg n="1" xml:id="spp-!W1264ZL-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-!W1264ZL-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-!W1264ZL-line-1">HUMBLY SHEWETH,</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-!W1264ZL-line-2"><hi rend="display-initial">T</hi>HAT your petitioner, who is about 25 years of age, has never been a bride,</l><l n="3" xml:id="spp-!W1264ZL-line-3"> Co-heiress to an estate of 800 l. per. annum beside;</l><l n="4" xml:id="spp-!W1264ZL-line-4"> That your petitioner's mother, who is old enough to be her grannum,</l><l n="5" xml:id="spp-!W1264ZL-line-5"> Has a jointure on the said estate of 400 l. per annum.</l><l n="6" xml:id="spp-!W1264ZL-line-6"> Which, together with some incumb'rances on the said estate,</l><l n="7" xml:id="spp-!W1264ZL-line-7"> Has kept your petitioner's virginity at a very low rate:</l><l n="8" xml:id="spp-!W1264ZL-line-8"> However, as the saying is, let a concern never so little bring,</l><l n="9" xml:id="spp-!W1264ZL-line-9"> Yet the limb of an estate is a very pretty thing.</l><l n="10" xml:id="spp-!W1264ZL-line-10"> Wherefore, and in consideration of which a certain clerk</l><l n="11" xml:id="spp-!W1264ZL-line-11"> Thought it meet and proper to become your petitioner's spark:</l><l n="12" xml:id="spp-!W1264ZL-line-12"> So to clear off part of the estate, 2000 l. he tender'd,</l><l n="13" xml:id="spp-!W1264ZL-line-13"> On condition that your petitioner was to him forth with surrender'd:</l><l n="14" xml:id="spp-!W1264ZL-line-14"> So that getting the mortgages in his name, and me for his wife,</l><l n="15" xml:id="spp-!W1264ZL-line-15"> He might have an estate, in-tail, thereby on your petitioner's life.</l><l n="16" xml:id="spp-!W1264ZL-line-16"> These fair proposals wrought so far on your petitioner's mother,</l><l n="17" xml:id="spp-!W1264ZL-line-17"> That she would marry her daughter to him for-sooth and no other:</l><l n="18" xml:id="spp-!W1264ZL-line-18"> Hoping that as he was a man, both of good fortune and honour,</l><l n="19" xml:id="spp-!W1264ZL-line-19"> He might make a very handsome settlement upon her.</l><l n="20" xml:id="spp-!W1264ZL-line-20"> Betty, quoth she, by the world, we have caught a gudgeon:</l><l n="21" xml:id="spp-!W1264ZL-line-21"> Ay marry, says I, I warrant ye, as taking it in dudgeon:</l><l n="22" xml:id="spp-!W1264ZL-line-22"> How now, hussy, says she, falling into a very great passion,</l><l n="23" xml:id="spp-!W1264ZL-line-23"> You shall marry him──'Tis very well known he's a man of good fashion;</l><l n="24" xml:id="spp-!W1264ZL-line-24"> His riches will make amends for his lack of youth and beauty;</l><l n="25" xml:id="spp-!W1264ZL-line-25"> So I consented, as you know it was my duty.</l><l n="26" xml:id="spp-!W1264ZL-line-26"> But when the writings were drawn, the man he would not settle,</l><l n="27" xml:id="spp-!W1264ZL-line-27"> And this, as you may well suppose, set my mother upon her mettle;</l><l n="28" xml:id="spp-!W1264ZL-line-28"> Good, Mr. Powel, I'd have you know there are two words to a bargain.[The ensuing line I did not make out]</l><l n="29" xml:id="spp-!W1264ZL-line-29"> Now for my part, I'd marry the man without an inch of a candle;</l><l n="30" xml:id="spp-!W1264ZL-line-30"> But my mother having already taken this as a handle,</l><l n="31" xml:id="spp-!W1264ZL-line-31"> Will not be brought by any means at all to submission;</l><l n="32" xml:id="spp-!W1264ZL-line-32"> And for the man's part, he'll marry me upon no other condition:</l><l n="33" xml:id="spp-!W1264ZL-line-33"> The premises tenderly consider'd, I beg you will use your discretion,</l><l n="34" xml:id="spp-!W1264ZL-line-34"> And go to the petitioner's mother to make intercession,</l><l n="35" xml:id="spp-!W1264ZL-line-35"> I order that she with the clerk may make up the aforesaid breach,</l><l n="36" xml:id="spp-!W1264ZL-line-36" rend="flush right"> And your petitioner, as in duty bound, shall pray, as long as you shall preachC. J.!W1264ZL   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

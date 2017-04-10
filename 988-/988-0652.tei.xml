@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A</title>
+        <title>LETTER</title>
+        <title>TO THE</title>
+        <title>Reverend Dr. <hi rend="underline">Sheridan</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-988-0652-footnote-1 #spp-988-0652-line-8"/>
+        </linkGrp>
+        <div n="988-0652" type="letter"><head type="note" n="1" xml:id="spp-988-0652-headnote-1"><lg n="1" xml:id="spp-988-0652-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-988-0652-headnote-1-line-group-1-line-1">Written in the Y<hi rend="SMALL-CAPS">EAR</hi> 1718.</l></lg></head><head type="note" n="2" xml:id="spp-988-0652-headnote-2"><lg n="1" xml:id="spp-988-0652-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-988-0652-headnote-2-line-group-1-line-1"><hi rend="underline">SIR</hi>,</l></lg></head><head type="note" n="3" xml:id="spp-988-0652-headnote-3"><lg n="1" xml:id="spp-988-0652-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-988-0652-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-988-0652-line-1"><hi rend="display-initial">W</hi>HATE'ER your Predecessors taught us,</l><l n="2" xml:id="spp-988-0652-line-2"> I have a great Esteem for <hi rend="underline">Plautus</hi>;</l><l n="3" xml:id="spp-988-0652-line-3"> And think your Boys may gather there-hence</l><l n="4" xml:id="spp-988-0652-line-4"> More Wit and Humour than from <hi rend="underline">Terence</hi>.</l><l n="5" xml:id="spp-988-0652-line-5"> But as to Comic <hi rend="underline">Aristophanes</hi>,</l><l n="6" xml:id="spp-988-0652-line-6"> The Rogue too Bawdy and too Prophane is.</l><l n="7" xml:id="spp-988-0652-line-7"> I went in vain to look for <hi rend="underline">Eupolis</hi>,</l><l n="8" xml:id="spp-988-0652-line-8"> Down in the <ref target="#spp-988-0652-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-988-0652-footnote-1">N. B. <hi rend="underline">The </hi>Strand<hi rend="underline"> in </hi>London<hi rend="underline">. The Fact may be false, but the Rhyme cost me some Trouble</hi>.</note><hi rend="underline">Strand</hi> just where the new Pole is,</l><l n="9" xml:id="spp-988-0652-line-9"> For I can tell you one Thing, that I can,</l><l n="10" xml:id="spp-988-0652-line-10"> You will not find it in the <hi rend="underline">Vatican</hi>.</l><l n="11" xml:id="spp-988-0652-line-11"> He and <hi rend="underline">Cratinus</hi> used, as <hi rend="underline">Horace</hi> says,</l><l n="12" xml:id="spp-988-0652-line-12"> To take his greatest Grandees for Asses.</l><l n="13" xml:id="spp-988-0652-line-13"> Poets, in those Days used to venture high,</l><l n="14" xml:id="spp-988-0652-line-14"> But these are lost full many a Century.</l></lg><lg n="2" type="verse-paragraph"><l n="15" xml:id="spp-988-0652-line-15">T<hi rend="SMALL-CAPS">HUS</hi> you may see, dear Friend, <hi rend="underline">ex pede</hi> hence</l><l n="16" xml:id="spp-988-0652-line-16"> My Judgment of the old Comedians.</l></lg><lg n="3" type="triplet"><l n="17" xml:id="spp-988-0652-line-17">P<hi rend="SMALL-CAPS">ROCEED</hi> to Tragicks, first <hi rend="underline">Eurypides</hi></l><l n="18" xml:id="spp-988-0652-line-18"> (An Author, where I sometimes dip a Days)</l><l n="19" xml:id="spp-988-0652-line-19"> Is rightly censur'd by the Stagirite,</l><l n="20" xml:id="spp-988-0652-line-20"> Who says his Numbers do not fadge a-right.</l><l n="21" xml:id="spp-988-0652-line-21"> A Friend of mine, that Author despises</l><l n="22" xml:id="spp-988-0652-line-22"> So much, he swears the very best Piece is</l><l n="23" xml:id="spp-988-0652-line-23"> For aught he knows, as bad as <hi rend="underline">Thespis</hi>'s.</l><l n="24" xml:id="spp-988-0652-line-24"> And that a Woman, in those Tragedies</l><l n="25" xml:id="spp-988-0652-line-25"> Commonly speaking, but a sad Jade is.</l><l n="26" xml:id="spp-988-0652-line-26"> At least, I'm well assur'd, that no Folk lays</l><l n="27" xml:id="spp-988-0652-line-27"> The Weight on him, they do on <hi rend="underline">Sophocles</hi>.</l><l n="28" xml:id="spp-988-0652-line-28"> But above all I prefer <hi rend="underline"><unclear>AE</unclear>schylus</hi>,</l><l n="29" xml:id="spp-988-0652-line-29"> Whose moving Touches, when they please, kill us.</l></lg><lg n="4" type="verse-paragraph"><l n="30" xml:id="spp-988-0652-line-30">A<hi rend="SMALL-CAPS">ND</hi> now I find my Muse but ill able</l><l n="31" xml:id="spp-988-0652-line-31"> To hold out longer in Trisyllable.</l><l n="32" xml:id="spp-988-0652-line-32"> I chose these Rhymes out, for their Difficulty:</l><l n="33" xml:id="spp-988-0652-line-33"> Will you return as hard ones, if I call t'ye?988-0652   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

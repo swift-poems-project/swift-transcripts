@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Letter to the Rev'd Doct<hi rend="sup">r</hi> Sheridan.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="988-001A"><head type="note" n="1" xml:id="spp-988-001A-headnote-1"><lg n="1" xml:id="spp-988-001A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-988-001A-headnote-1-line-group-1-line-1">Written in the Year 1718.&#13;</l></lg></head><head type="note" n="2" xml:id="spp-988-001A-headnote-2"><lg n="1" xml:id="spp-988-001A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-988-001A-headnote-2-line-group-1-line-1">By the Rev<hi rend="sup">d</hi> D<hi rend="sup">r</hi> 08. J: S. D. S. P. D.</l></lg></head><head type="note" n="3" xml:id="spp-988-001A-headnote-3"><lg n="1" xml:id="spp-988-001A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-988-001A-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-988-001A-line-1">Sir.</l></lg><lg n="2" type="triplet"><l>Whatee'r your predecessors taught us,&#13;</l><l/><l n="2" xml:id="spp-988-001A-line-2">I have a great Esteem for Plautus:</l><l/><l n="3" xml:id="spp-988-001A-line-3">And think your Boys may Gather there-hence</l><l/><l n="4" xml:id="spp-988-001A-line-4">More wit and humour than from Terence.</l><l/><l n="5" xml:id="spp-988-001A-line-5">But as to comic Aristophanes,</l><l/><l n="6" xml:id="spp-988-001A-line-6">The Rogue too baudy and too profane is.</l><l/><l n="7" xml:id="spp-988-001A-line-7">I went in vain to look for Eupolis</l><l/><l n="8" xml:id="spp-988-001A-line-8">Down in the Strand, just where the new Pole is;</l><l/><l n="9" xml:id="spp-988-001A-line-9">For I can tell you one thing that I can,</l><l/><l n="10" xml:id="spp-988-001A-line-10">You will not find it in the Vatican.</l><l/><l n="11" xml:id="spp-988-001A-line-11">He and Cratinus used, as Horace says,</l><l/><l n="12" xml:id="spp-988-001A-line-12">To take his greatest Grandees for Asses.</l><l/><l n="13" xml:id="spp-988-001A-line-13">Poets in those Days us·d to venture high;</l><l/><l n="14" xml:id="spp-988-001A-line-14">But these are lost full many a Century.</l><l/><l n="15" xml:id="spp-988-001A-line-15">Thus you may see, dear friend, <hi rend="underline">ex pede</hi> hence</l><l/><l n="16" xml:id="spp-988-001A-line-16">My Judgement of the old Comedians.</l><l/><l n="17" xml:id="spp-988-001A-line-17">Proceed to tragics, first Euripides,</l><l/><l n="18" xml:id="spp-988-001A-line-18">(An Author, where I sometimes dip a days)</l><l/><l n="19" xml:id="spp-988-001A-line-19">Is rightly censur'd by the Stagirite</l><l/><l n="20" xml:id="spp-988-001A-line-20">Who says his numbers do not fadge aright.</l><l/><l n="21" xml:id="spp-988-001A-line-21">A friend of mine that author despises</l><l/><l n="22" xml:id="spp-988-001A-line-22">So much, he swears the very piece is,</l><l/><l n="23" xml:id="spp-988-001A-line-23">For aught he knows as bad as Thespis's</l><l/><l n="24" xml:id="spp-988-001A-line-24">And that a woman, in those tragedies</l><l/><l n="25" xml:id="spp-988-001A-line-25">Commonly speacking, but a sad jade is.</l><l/><l n="26" xml:id="spp-988-001A-line-26">At least I'm well assur'd, that no folk lays</l><l/><l n="27" xml:id="spp-988-001A-line-27">The weight on him they do on Sophocles.</l><l/><l n="28" xml:id="spp-988-001A-line-28">But above all I prefer <unclear>AE</unclear>schylus,</l><l/><l n="29" xml:id="spp-988-001A-line-29">Whose moving touches, when they please, kill us.</l><l/><l n="30" xml:id="spp-988-001A-line-30">And now I find my muse but ill able,</l><l/><l n="31" xml:id="spp-988-001A-line-31">To hold out longer in Trisyllable.</l><l/><l n="32" xml:id="spp-988-001A-line-32">I chose these Rhimes out for their difficulty:</l><l/><l n="33" xml:id="spp-988-001A-line-33">Will you return as hard ones, If I call t'ye.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

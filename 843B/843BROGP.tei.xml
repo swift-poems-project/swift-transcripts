@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>`<hi rend="underline">Behold! A Proof of Irish Sense</hi>!'</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="843BROGP" type="poem"><head type="note" n="1" xml:id="spp-843BROGP-headnote-1"><lg n="1" xml:id="spp-843BROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-843BROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-843BROGP-headnote-2"><lg n="1" xml:id="spp-843BROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-843BROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-843BROGP-headnote-3"><lg n="1" xml:id="spp-843BROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-843BROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-843BROGP-line-1"> Behold! a proof of Irish sense!&#13;Here Irish wit is seen!</l><l n="2" xml:id="spp-843BROGP-line-2"> When nothing's left, that's worth defence,We build a magazine.843BROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

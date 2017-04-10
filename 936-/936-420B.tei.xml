@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Riddle</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="936-420B" type="poem"><head type="note" n="1" xml:id="spp-936-420B-headnote-1"><lg n="1" xml:id="spp-936-420B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-936-420B-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-936-420B-headnote-2"><lg n="1" xml:id="spp-936-420B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-936-420B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-936-420B-headnote-3"><lg n="1" xml:id="spp-936-420B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-936-420B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-936-420B-line-1"> of all Inhabitants on Earth&#13;</l><l n="2" xml:id="spp-936-420B-line-2"> to Man alone I owe my birth</l><l n="3" xml:id="spp-936-420B-line-3"> and yet the Cow the Sheep the Bee</l><l n="4" xml:id="spp-936-420B-line-4"> Are my Parents more then He</l><l n="5" xml:id="spp-936-420B-line-5"> I-- a virtue Strange and rare</l><l n="6" xml:id="spp-936-420B-line-6"> Make the fairest look more fair</l><l n="7" xml:id="spp-936-420B-line-7"> And my self what yet is rarer</l><l n="8" xml:id="spp-936-420B-line-8"> Growing Older still Grow fairer</l><l n="9" xml:id="spp-936-420B-line-9"> Like Sots alone I'm dull enough</l><l n="10" xml:id="spp-936-420B-line-10"> Doz'd with Smoak and Smear'd with Snuff</l><l n="11" xml:id="spp-936-420B-line-11"> but amid good Cheer and wine</l><l n="12" xml:id="spp-936-420B-line-12"> I with double lustre Shine</l><l n="13" xml:id="spp-936-420B-line-13"> Emblem of the fair am I</l><l n="14" xml:id="spp-936-420B-line-14"> Polish'd Neck and radiant Eye</l><l n="15" xml:id="spp-936-420B-line-15"> In my eye the greatest Grace</l><l n="16" xml:id="spp-936-420B-line-16"> Emblem of the Cyclops race</l><l n="17" xml:id="spp-936-420B-line-17"> Metals I like them subdue</l><l n="18" xml:id="spp-936-420B-line-18"> Slave like them to Vulcan too</l><l n="19" xml:id="spp-936-420B-line-19"> Emblem of a Monarch old</l><l n="20" xml:id="spp-936-420B-line-20"> Wise and Glorious to behold</l><l n="21" xml:id="spp-936-420B-line-21"> Wasted He appears and pale</l><l n="22" xml:id="spp-936-420B-line-22"> Watching for the publick Weel</l><l n="23" xml:id="spp-936-420B-line-23"> Emblem of the bashful Dame</l><l n="24" xml:id="spp-936-420B-line-24"> Who In Silence feeds her flame</l><l n="25" xml:id="spp-936-420B-line-25"> Often Aiding to Impart</l><l n="26" xml:id="spp-936-420B-line-26"> All the Secrets of her heart<gap/><gap/><gap/><gap/></l><l n="27" xml:id="spp-936-420B-line-27"> Various is my Shape and Hue</l><l n="28" xml:id="spp-936-420B-line-28"> big like Bess and small like Sue</l><l n="29" xml:id="spp-936-420B-line-29"> Now brown and burnishd like a Nut</l><l n="30" xml:id="spp-936-420B-line-30"> at other times a very Slut</l><l n="31" xml:id="spp-936-420B-line-31"> often fair and tall and slender</l><l n="32" xml:id="spp-936-420B-line-32"> Taper soft and smooth and Slender</l><l n="33" xml:id="spp-936-420B-line-33"> Like Flora deck'd with Fairest flowers</l><l n="34" xml:id="spp-936-420B-line-34"> like Phebus Guardian of the Hours</l><l n="35" xml:id="spp-936-420B-line-35"> but what·ever be my dress</l><l n="36" xml:id="spp-936-420B-line-36"> Greater be my Size or less</l><l n="37" xml:id="spp-936-420B-line-37"> Swelling be my Shape or small</l><l n="38" xml:id="spp-936-420B-line-38"> Like thy self I shine on all<gap/><gap/><gap/><gap/></l><l n="39" xml:id="spp-936-420B-line-39"> Soon or late my date is done</l><l n="40" xml:id="spp-936-420B-line-40"> as my thread of Life is Spun</l><l n="41" xml:id="spp-936-420B-line-41"> Yet to Cut the fatal thread</l><l n="42" xml:id="spp-936-420B-line-42"> oft revives my drooping head</l><l n="43" xml:id="spp-936-420B-line-43"> Yet I perish in my prime</l><l n="44" xml:id="spp-936-420B-line-44"> Seldom by the teeth of time<gap/><gap/><gap/><gap/></l><l n="45" xml:id="spp-936-420B-line-45"> Die like Lovers as they Gaze</l><l n="46" xml:id="spp-936-420B-line-46"> Die for those I Live to please</l><l n="47" xml:id="spp-936-420B-line-47"> Pine unpitied to my Urn</l><l n="48" xml:id="spp-936-420B-line-48"> Nor Warm the fair for whom I burn</l><l n="49" xml:id="spp-936-420B-line-49"> Unpitied Unrelented too</l><l n="50" xml:id="spp-936-420B-line-50"> Die Like all who look on You936-420B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

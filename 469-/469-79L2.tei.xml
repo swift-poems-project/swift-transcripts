@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ON BURNING A DULL POEM. 1729.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="469-79L2" type="poem"><head type="note" n="1" xml:id="spp-469-79L2-headnote-1"><lg n="1" xml:id="spp-469-79L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-469-79L2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-469-79L2-headnote-2"><lg n="1" xml:id="spp-469-79L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-469-79L2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-469-79L2-headnote-3"><lg n="1" xml:id="spp-469-79L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-469-79L2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-469-79L2-line-1"><hi rend="display-initial">A</hi>N ass's hoof alone can hold</l><l n="2" xml:id="spp-469-79L2-line-2"> That poisonous juice, which kills by cold.</l><l n="3" xml:id="spp-469-79L2-line-3"> Methought, when I this poem read,</l><l n="4" xml:id="spp-469-79L2-line-4"> No vessel but an ass's head</l><l n="5" xml:id="spp-469-79L2-line-5"> Such frigid fustian could contain;</l><l n="6" xml:id="spp-469-79L2-line-6"> I mean, the head without the brain.</l><l n="7" xml:id="spp-469-79L2-line-7"> The cold conceits, the chilling thoughts,</l><l n="8" xml:id="spp-469-79L2-line-8"> Went down like stupifying draughts:</l><l n="9" xml:id="spp-469-79L2-line-9"> I found my head began to swim,</l><l n="10" xml:id="spp-469-79L2-line-10"> A numbness crept through every limb.</l><l n="11" xml:id="spp-469-79L2-line-11"> In haste, with imprecations dire,</l><l n="12" xml:id="spp-469-79L2-line-12"> I threw the volume in the fire:</l><l n="13" xml:id="spp-469-79L2-line-13"> When (who could think?) though cold as ice,</l><l n="14" xml:id="spp-469-79L2-line-14"> It burnt to ashes in a trice.How could I more enhance its fame?</l><l n="15" xml:id="spp-469-79L2-line-15"> Though born in snow, it dy'd in flame.469-79L2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

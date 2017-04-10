@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TO SWIFT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X18-15W1" type="poem"><head type="note" n="1" xml:id="spp-X18-15W1-headnote-1"><lg n="1" xml:id="spp-X18-15W1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X18-15W1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X18-15W1-headnote-2"><lg n="1" xml:id="spp-X18-15W1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X18-15W1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X18-15W1-headnote-3"><lg n="1" xml:id="spp-X18-15W1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X18-15W1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X18-15W1-line-1"> I <hi rend="SMALL-CAPS">CAN'T</hi> but wonder, Mr Dean,</l><l n="2" xml:id="spp-X18-15W1-line-2"> To see you live, so often slain.</l><l n="3" xml:id="spp-X18-15W1-line-3"> My arrows fly and fly in vain,</l><l n="4" xml:id="spp-X18-15W1-line-4"> But still I try and try again.</l><l n="5" xml:id="spp-X18-15W1-line-5"> I'm now, Sir, in a writing vein;</l><l n="6" xml:id="spp-X18-15W1-line-6"> Don't think, like you, I squeeze and strain.</l><l n="7" xml:id="spp-X18-15W1-line-7"> Perhaps you'll ask me what I mean;</l><l n="8" xml:id="spp-X18-15W1-line-8"> I will not tell, because it's plain.</l><l n="9" xml:id="spp-X18-15W1-line-9"> Your Muse, I am told, is in the wane;</l><l n="10" xml:id="spp-X18-15W1-line-10"> If so, from pen and ink refrain.</l><l n="11" xml:id="spp-X18-15W1-line-11"> Indeed, believe me, I'm in pain</l><l n="12" xml:id="spp-X18-15W1-line-12"> For her and you; your life's a scene</l><l n="13" xml:id="spp-X18-15W1-line-13"> Of verse, and rhymes, and hurricane,</l><l n="14" xml:id="spp-X18-15W1-line-14"> Enough to crack the strongest brain.</l><l n="15" xml:id="spp-X18-15W1-line-15"> Now to conclude, I do remain,</l><l n="16" xml:id="spp-X18-15W1-line-16"> Your honest friend,T<hi rend="SMALL-CAPS">OM</hi> S<hi rend="SMALL-CAPS">HERIDAN</hi>.X18-15W1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

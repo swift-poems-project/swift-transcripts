@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dean <hi rend="underline">Swift</hi>'s Answer to the Earl of <hi rend="underline">Orrery</hi>,</title>
+        <title>and Dr. <hi rend="underline">Delany</hi>; on receiving a Paper Book</title>
+        <title>and a Silver Standish, on his Birth-Day.<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="611-33LH" type="poem"><head type="note" n="1" xml:id="spp-611-33LH-headnote-1"><lg n="1" xml:id="spp-611-33LH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-611-33LH-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-611-33LH-headnote-2"><lg n="1" xml:id="spp-611-33LH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-611-33LH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-611-33LH-headnote-3"><lg n="1" xml:id="spp-611-33LH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-611-33LH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-611-33LH-line-1"><hi rend="display-initial">A</hi> Paper book is sent by <hi rend="underline">Bo--le</hi>,</l><l n="2" xml:id="spp-611-33LH-line-2"> Too richly gilt for me to soil.<hi rend="underline">De--ny</hi> sends a silver standish,</l><l n="3" xml:id="spp-611-33LH-line-3"> When I no more a pen can brandish;</l><l n="4" xml:id="spp-611-33LH-line-4"> Let both around my tomb be plac'd</l><l n="5" xml:id="spp-611-33LH-line-5"> As trophies of a muse deceas'd,</l><l n="6" xml:id="spp-611-33LH-line-6"> And let the friendly lines they writ</l><l n="7" xml:id="spp-611-33LH-line-7"> In praise of long departed wit,</l><l n="8" xml:id="spp-611-33LH-line-8"> Be grav'd on either side in columns,</l><l n="9" xml:id="spp-611-33LH-line-9"> More to my fame than all my <hi rend="underline">volumes</hi>;</l><l n="10" xml:id="spp-611-33LH-line-10"> To burst with envy, spite, and rage,</l><l n="11" xml:id="spp-611-33LH-line-11"> The <hi rend="underline">Vandals</hi> of the present age.611-33LH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

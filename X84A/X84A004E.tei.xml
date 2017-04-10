@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>(4) On the <hi rend="black-letter">Thanksgiveing</hi> day<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X84A004E" type="poem"><head type="note" n="1" xml:id="spp-X84A004E-headnote-1"><lg n="1" xml:id="spp-X84A004E-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X84A004E-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X84A004E-headnote-2"><lg n="1" xml:id="spp-X84A004E-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X84A004E-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X84A004E-headnote-3"><lg n="1" xml:id="spp-X84A004E-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X84A004E-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X84A004E-line-1"><hi rend="display-initial">I</hi>n joy·full sounds your joy·full voices raise</l><l n="2" xml:id="spp-X84A004E-line-2"> And Learn the people whom to thank &amp; praise</l><l n="3" xml:id="spp-X84A004E-line-3"> Thank prudent <hi rend="black-letter">Anna's</hi> providential reign</l><l n="4" xml:id="spp-X84A004E-line-4"> For peace, &amp; plenty both of Coin &amp; grain</l><l n="5" xml:id="spp-X84A004E-line-5"> Thank the scotish pears for our unbought firme union</l><l n="6" xml:id="spp-X84A004E-line-6"> Thank Bishops for Occassional Communion</l><l n="7" xml:id="spp-X84A004E-line-7"> Thanke the stock jobbers for our thriveing trade</l><l n="8" xml:id="spp-X84A004E-line-8"> Thank just Godolphine that our debts are pay'd</l><l n="9" xml:id="spp-X84A004E-line-9"> Thank Marleburough's zeal yt scorn'd the proffer'd treaty</l><l n="10" xml:id="spp-X84A004E-line-10"> But thank Eugine that the French did not beat you<gap/><gap/></l><l n="11" xml:id="spp-X84A004E-line-11"> Thank your own selves if you are tax'd &amp; sham'd</l><l n="12" xml:id="spp-X84A004E-line-12"> But thank the Almighty if you are not damn'd.X84A004E   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE LAST DAY.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="578-80XB" type="poem"><head type="note" n="1" xml:id="spp-578-80XB-headnote-1"><lg n="1" xml:id="spp-578-80XB-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-578-80XB-headnote-1-line-group-1-line-1">By Doctor SWIFT, never before printed.</l></lg></head><head type="note" n="2" xml:id="spp-578-80XB-headnote-2"><lg n="1" xml:id="spp-578-80XB-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-578-80XB-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-578-80XB-headnote-3"><lg n="1" xml:id="spp-578-80XB-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-578-80XB-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-578-80XB-line-1"><hi rend="display-initial">W</hi>ITH a whirl of thought opprest,</l><l n="2" xml:id="spp-578-80XB-line-2"> I sunk from reverie to rest,</l><l n="3" xml:id="spp-578-80XB-line-3"> A dreadful vision seiz'd my head,</l><l n="4" xml:id="spp-578-80XB-line-4"> I saw the graves give up their dead;</l><l n="5" xml:id="spp-578-80XB-line-5"> Jove arm'd with terrors, burst the skies,</l><l n="6" xml:id="spp-578-80XB-line-6"> And thunder roars, and lightning flies.</l><l n="7" xml:id="spp-578-80XB-line-7"> Amazed, confused, its fate unknown,</l><l n="8" xml:id="spp-578-80XB-line-8"> The world stands trembling at his throne;</l><l n="9" xml:id="spp-578-80XB-line-9"> While each pale sinner hangs his head,</l><l n="10" xml:id="spp-578-80XB-line-10"> Jove nodding, shook the Heavens, and said,</l><l n="11" xml:id="spp-578-80XB-line-11"> Offending race of human kind,</l><l n="12" xml:id="spp-578-80XB-line-12"> By nature, reason, learning blind,</l><l n="13" xml:id="spp-578-80XB-line-13"> You who thro' frailty stepp'd aside,</l><l n="14" xml:id="spp-578-80XB-line-14"> And you who never fell thro' pride;</l><l n="15" xml:id="spp-578-80XB-line-15"> All you who different sects have shamm'd,</l><l n="16" xml:id="spp-578-80XB-line-16"> And came to see each other damn'd;</l><l n="17" xml:id="spp-578-80XB-line-17"> So some folks told you, but they knew</l><l n="18" xml:id="spp-578-80XB-line-18"> No more of Jove's designs than you.</l><l n="19" xml:id="spp-578-80XB-line-19"> The world's mad business now is o'er,</l><l n="20" xml:id="spp-578-80XB-line-20"> And I present such pranks no more.</l><l n="21" xml:id="spp-578-80XB-line-21"> I────at such blockheads set my wit,</l><l n="22" xml:id="spp-578-80XB-line-22"> I────damn such fools; go, go, you're bit.578-80XB   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

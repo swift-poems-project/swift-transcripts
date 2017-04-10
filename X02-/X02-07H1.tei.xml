@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">Another Reply by the Dean in </hi>DAN</title>
+        <title>JACKSON's<hi rend="underline"> Name</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X02-07H1" type="poem"><head type="note" n="1" xml:id="spp-X02-07H1-headnote-1"><lg n="1" xml:id="spp-X02-07H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X02-07H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X02-07H1-headnote-2"><lg n="1" xml:id="spp-X02-07H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X02-07H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X02-07H1-headnote-3"><lg n="1" xml:id="spp-X02-07H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X02-07H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X02-07H1-line-1"><hi rend="display-initial">T</hi>HREE days for answer I have waited,</l><l n="2" xml:id="spp-X02-07H1-line-2"> I thought an ace you'd ne'er have bated,</l><l n="3" xml:id="spp-X02-07H1-line-3" rend="flush right"> And art thou forc'd to yield, ill-fatedpoetaster?</l></lg><lg n="2" type="stanza"><l n="4" xml:id="spp-X02-07H1-line-4">Henceforth acknowledge, that a nose&#13;</l><l n="5" xml:id="spp-X02-07H1-line-5"> Of thy dimension's fit for prose,</l><l n="6" xml:id="spp-X02-07H1-line-6" rend="flush right"> But ev'ry one that knows <hi rend="underline">Dan</hi>, knowsthy master.</l></lg><lg n="3" type="stanza"><l n="7" xml:id="spp-X02-07H1-line-7">Blush for ill-spelling, for ill-lines,&#13;</l><l n="8" xml:id="spp-X02-07H1-line-8"> And fly with hurry to '<hi rend="underline">ramines</hi>;</l><l n="9" xml:id="spp-X02-07H1-line-9" rend="flush right"> Thy fame, thy genius now declines,proud boaster.</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-X02-07H1-line-10">I hear with some concern you roar,&#13;</l><l n="11" xml:id="spp-X02-07H1-line-11"> And flying think to quit the score</l><l n="12" xml:id="spp-X02-07H1-line-12" rend="flush right"> By clapping billets on your doorand posts, Sir.</l></lg><lg n="5" type="stanza"><l n="13" xml:id="spp-X02-07H1-line-13">Thy ruin, <hi rend="underline">Tom</hi>, I never meant,</l><l n="14" xml:id="spp-X02-07H1-line-14"> I'm griev'd to hear your banishment,</l><l n="15" xml:id="spp-X02-07H1-line-15" rend="flush right"> But pleas'd to find you do relentand cry on.</l></lg><lg n="6" type="stanza"><l n="16" xml:id="spp-X02-07H1-line-16">I maul'd you, when you look'd so bluff,&#13;</l><l n="17" xml:id="spp-X02-07H1-line-17"> But now I'll secret keep your stuff;</l><l n="18" xml:id="spp-X02-07H1-line-18" rend="flush right"> For know, prostration is enoughto th' lion.<gap/>X02-07H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

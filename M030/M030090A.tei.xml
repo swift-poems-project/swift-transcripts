@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Lamentation of Glumdalclith,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M030090A" type="poem"><head type="note" n="1" xml:id="spp-M030090A-headnote-1"><lg n="1" xml:id="spp-M030090A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M030090A-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-M030090A-headnote-2"><lg n="1" xml:id="spp-M030090A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M030090A-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M030090A-headnote-3"><lg n="1" xml:id="spp-M030090A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M030090A-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-M030090A-line-1"><hi rend="display-initial">S</hi>oon as Glumdalclitch missd her pleasing Care</l><l n="2" xml:id="spp-M030090A-line-2"> She wept she blubberd and she tore her hair</l><l n="3" xml:id="spp-M030090A-line-3"> No British Miss sincerer Grief has known,</l><l n="4" xml:id="spp-M030090A-line-4"> Her Squirrell missing or her Sparrow flown;</l><l n="5" xml:id="spp-M030090A-line-5"> She furld her Sampler &amp; hauld in her thread</l><l n="6" xml:id="spp-M030090A-line-6"> And stuck her Needle in Grildrigs Bed;</l><l n="7" xml:id="spp-M030090A-line-7"> Then Spread her hands &amp; with a Bounce let fall</l><l n="8" xml:id="spp-M030090A-line-8"> Her Baby like the Giant in Guildhall.</l><l n="9" xml:id="spp-M030090A-line-9"> In Peals of Thunder now she roars, and now</l><l n="10" xml:id="spp-M030090A-line-10"> She gently whimpers like a lowing Cow:</l><l n="11" xml:id="spp-M030090A-line-11"> Yet lovely in her Sorrow still appears</l><l n="12" xml:id="spp-M030090A-line-12"> Her Locks dishevell'd &amp; her flood of Tears</l><l n="13" xml:id="spp-M030090A-line-13"> Seem like the lofty Barn of some rich Swain</l><l n="14" xml:id="spp-M030090A-line-14"> When from the Thatch drips fast a Showr of rain.In vain she searchd each Cranny of the house</l><l n="15" xml:id="spp-M030090A-line-15"> Each gaping Chink impervious to a Mouse</l><l n="16" xml:id="spp-M030090A-line-16"> “Was it for this she cry'd with daily Care</l><l n="17" xml:id="spp-M030090A-line-17"> Within thy reach I set the Vinegar!</l><l n="18" xml:id="spp-M030090A-line-18"> And filld the Cruet with the acid tide</l><l n="19" xml:id="spp-M030090A-line-19"> While Pepper Water Worms thy bait supplyd;</l><l n="20" xml:id="spp-M030090A-line-20"> Where twin'd the Silver eel around thy Hook,</l><l n="21" xml:id="spp-M030090A-line-21"> And all the little Monsters of the Brook,</l><l n="22" xml:id="spp-M030090A-line-22"> Sure in that Lake he dropt; My Grilly's drown'd,</l><l n="23" xml:id="spp-M030090A-line-23"> She draggd the Cruet, but no Grilldrig found,Vain is thy Courage, Grilly, vain thy boast</l><l n="24" xml:id="spp-M030090A-line-24"> But little Creatures enterprize the Most.</l><l n="25" xml:id="spp-M030090A-line-25"> Trembling I've seen thee dare the Kittens paw,</l><l n="26" xml:id="spp-M030090A-line-26"> Nay mix with Children as they play at Taw</l><l n="27" xml:id="spp-M030090A-line-27"> Nor fear the marbles as they bounding flew;</l><l n="28" xml:id="spp-M030090A-line-28"> Marbles to them but rolling Rocks to you.Why did I trust thee with that Giddy Youth</l><l n="29" xml:id="spp-M030090A-line-29"> Who from a page can ever learn the Truth?</l><l n="30" xml:id="spp-M030090A-line-30"> Vers'd in Court Tricks that Money loving Boy</l><l n="31" xml:id="spp-M030090A-line-31"> To some Lords Daughter sold the living Toy:</l><l n="32" xml:id="spp-M030090A-line-32"> Or rent him Limb from Limb in cruel play,</l><l n="33" xml:id="spp-M030090A-line-33"> As Children tear the Wings of flies away,</l><l n="34" xml:id="spp-M030090A-line-34"> From place to place o'er Brobdingnag I'll roam<unclear>gutter</unclear></l><l n="35" xml:id="spp-M030090A-line-35"> And never will return or bring thee home.</l><l n="36" xml:id="spp-M030090A-line-36"> But who hath Eyes to trace the passing wind?</l><l n="37" xml:id="spp-M030090A-line-37"> How then thy fairy footsteps can I find?</l><l n="38" xml:id="spp-M030090A-line-38"> Dost thou bewilderd wander all alone,</l><l n="39" xml:id="spp-M030090A-line-39"> In the green Thicket of a mossy Stone</l><l n="40" xml:id="spp-M030090A-line-40"> Or tumbled from a Toadstools slippry Round</l><l n="41" xml:id="spp-M030090A-line-41"> Perhaps all maimd lie grov'ling on the Ground<unclear>gutter</unclear></l><l n="42" xml:id="spp-M030090A-line-42"> Dost thou Imbosomd in the lovely Rose</l><l n="43" xml:id="spp-M030090A-line-43"> Or sunk within the Peaches down, repose?</l><l n="44" xml:id="spp-M030090A-line-44"> Within the King Cup if thy Limbs are Spread</l><l n="45" xml:id="spp-M030090A-line-45"> Or in the Golden Cowslips velvet head:</l><l n="46" xml:id="spp-M030090A-line-46"> O shew me Flora midst those Sweets the flower<unclear>gutter</unclear></l><l n="47" xml:id="spp-M030090A-line-47"> Where sleeps my Grildrig in his fragrant Bow<unclear>gutter</unclear>But ah! I fear the little fancy roves,</l><l n="48" xml:id="spp-M030090A-line-48"> On little females and on little Loves;</l><l n="49" xml:id="spp-M030090A-line-49"> Thy Pigmy Children and thy tiny Spouse,</l><l n="50" xml:id="spp-M030090A-line-50"> The Baby playthings that adorn thy house,</l><l n="51" xml:id="spp-M030090A-line-51"> Doors, Windows, Chimneys &amp; the Spacious Rooms</l><l n="52" xml:id="spp-M030090A-line-52"> Equal in Size to Cells of Honeycombs</l><l n="53" xml:id="spp-M030090A-line-53"> Hast thou for these now venturd from the Shore</l><l n="54" xml:id="spp-M030090A-line-54"> Thy Bark a Bean Shell and a Straw thy Oar?</l><l n="55" xml:id="spp-M030090A-line-55"> Or in thy Box now bounding on the Main,</l><l n="56" xml:id="spp-M030090A-line-56"> Shall I ne'er bear thyself &amp; house again?</l><l n="57" xml:id="spp-M030090A-line-57"> And shall I sett thee on my hand no more,</l><l n="58" xml:id="spp-M030090A-line-58"> To see the leap the Lines and traverse o'er</l><l n="59" xml:id="spp-M030090A-line-59"> My spacious Palm? of Stature scarce a Span,</l><l n="60" xml:id="spp-M030090A-line-60"> Mimick the Actions of a real man?</l><l n="61" xml:id="spp-M030090A-line-61"> No more behold thee turn my Watche's Key</l><l n="62" xml:id="spp-M030090A-line-62"> As Seamen at a Capstern Anchors weigh?</l><l n="63" xml:id="spp-M030090A-line-63"> How wert thou wont to walk with cautious tread</l><l n="64" xml:id="spp-M030090A-line-64"> A Dish of Tea like Milk pail on thy Head?</l><l n="65" xml:id="spp-M030090A-line-65"> How chase the Mite that bore thy Cheese away</l><l n="66" xml:id="spp-M030090A-line-66"> And keep the rolling Maggott at a Bay?”She said but broken Accents stopt her voice</l><l n="67" xml:id="spp-M030090A-line-67"> Soft as the speaking Trumpets mellow Noise;</l><l n="68" xml:id="spp-M030090A-line-68"> She sobbd a Storm and wipd her flowing Eyes,</l><l n="69" xml:id="spp-M030090A-line-69"> Which seemd like two broad Suns in misty Skies!</l><l n="70" xml:id="spp-M030090A-line-70"> Oh! Squander not thy Grief; those Tears comand</l><l n="71" xml:id="spp-M030090A-line-71"> To weep upon our Cod in Newfoundland:</l><l n="72" xml:id="spp-M030090A-line-72"> The plenteous pickle shall preserve the fish</l><l n="73" xml:id="spp-M030090A-line-73"> And Europe taste thy Sorrows in a DishM030090A   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

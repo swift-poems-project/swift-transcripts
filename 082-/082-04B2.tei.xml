@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CXXXII. LORD CUTTS.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CCalella"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="082-04B2" type="poem"><head type="note" n="1" xml:id="spp-082-04B2-headnote-1"><lg n="1" xml:id="spp-082-04B2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-082-04B2-headnote-1-line-group-1-line-1">He thus characterizes his Lordship, for whom he seems to have had a most rooted contempt, having elsewhere called him “the vainest old fool he ever knew:”</l></lg></head><head type="note" n="2" xml:id="spp-082-04B2-headnote-2"><lg n="1" xml:id="spp-082-04B2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-082-04B2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-082-04B2-headnote-3"><lg n="1" xml:id="spp-082-04B2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-082-04B2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-082-04B2-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> To paint a hero we inquire&#13;</l><l n="2" xml:id="spp-082-04B2-line-2"> For something that will conquer <hi rend="underline">fire</hi>.</l><l n="3" xml:id="spp-082-04B2-line-3"> Would you describe Turenne or Trump?</l><l n="4" xml:id="spp-082-04B2-line-4"> Think of a <hi rend="underline">bucket</hi>, or a <hi rend="underline">pump</hi>.</l><l n="5" xml:id="spp-082-04B2-line-5"> Are these too low, then find out grander,</l><l n="6" xml:id="spp-082-04B2-line-6"> Call my Lord Cutts a <hi rend="underline">Salamander</hi>.</l><l n="7" xml:id="spp-082-04B2-line-7"> 'Tis well──but since we live among</l><l n="8" xml:id="spp-082-04B2-line-8"> Detractors with an evil tongue,</l><l n="9" xml:id="spp-082-04B2-line-9"> Who may object against the term,</l><l n="10" xml:id="spp-082-04B2-line-10"> Pliny shall prove what we affirm:<gap/><gap/></l><l n="11" xml:id="spp-082-04B2-line-11"> First then, our author has defin'd</l><l n="12" xml:id="spp-082-04B2-line-12"> This reptile of the serpent kind,</l><l n="13" xml:id="spp-082-04B2-line-13"> With gaudy coat, and shining train;</l><l n="14" xml:id="spp-082-04B2-line-14"> But loathsome spots his body stain:</l><l n="15" xml:id="spp-082-04B2-line-15"> Out from some hole obscure he flies,</l><l n="16" xml:id="spp-082-04B2-line-16"> When rains descend and tempests rise,</l><l n="17" xml:id="spp-082-04B2-line-17"> Till the sun clears the air, and then</l><l n="18" xml:id="spp-082-04B2-line-18"> Crawls back, neglected, to his den.So when the war has rais'd a storm,</l><l n="19" xml:id="spp-082-04B2-line-19"> I've seen a snake in human form,</l><l n="20" xml:id="spp-082-04B2-line-20"> All stain'd with infamy and vice,</l><l n="21" xml:id="spp-082-04B2-line-21"> Leap from the dunghill in a trice,</l><l n="22" xml:id="spp-082-04B2-line-22"> Burnish and make a gaudy shew,</l><l n="23" xml:id="spp-082-04B2-line-23"> Become a <hi rend="underline">General</hi>, <hi rend="underline">Peer</hi>, and <hi rend="underline">Beau</hi>,</l><l n="24" xml:id="spp-082-04B2-line-24"> Till peace has made the sky serene,</l><l n="25" xml:id="spp-082-04B2-line-25"> Then shrink into its hole again.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l><l n="26" xml:id="spp-082-04B2-line-26"> ──Now I'll appeal to each by-stander,</l><l n="27" xml:id="spp-082-04B2-line-27"> If this be not a Salamander?082-04B2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

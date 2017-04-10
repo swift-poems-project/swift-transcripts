@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A</title>
+        <title>LETTER</title>
+        <title>FROM<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X16-WILH" type="letter"><head type="note" n="1" xml:id="spp-X16-WILH-headnote-1"><lg n="1" xml:id="spp-X16-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X16-WILH-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X16-WILH-headnote-2"><lg n="1" xml:id="spp-X16-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X16-WILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X16-WILH-headnote-3"><lg n="1" xml:id="spp-X16-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X16-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-X16-WILH-line-1"> I'd have you to know as sure as you're Dean&#13;</l><l n="2" xml:id="spp-X16-WILH-line-2"> On Thursday my Cask of Obrien I'll drain</l><l n="3" xml:id="spp-X16-WILH-line-3"> If my Wife be not willing I say she's a Quean</l><l n="4" xml:id="spp-X16-WILH-line-4"> And my right to the Cellar I gad I'll maintain</l><l n="5" xml:id="spp-X16-WILH-line-5"> As bravely as any that fought at Dunblain</l><l n="6" xml:id="spp-X16-WILH-line-6"> Go tell her it over and over again.</l><l n="7" xml:id="spp-X16-WILH-line-7"> I hope as I ride to the Town it wont rain</l><l n="8" xml:id="spp-X16-WILH-line-8"> For shou'd it I fear it will cool my hot Brain</l><l n="9" xml:id="spp-X16-WILH-line-9"> Entirely extinguish my Poetick vein,</l><l n="10" xml:id="spp-X16-WILH-line-10"> And then I shou'd be as stupid as Kain.</l><l n="11" xml:id="spp-X16-WILH-line-11"> Who preach'd on three Heads tho' he mention'd but twain.</l><l n="12" xml:id="spp-X16-WILH-line-12"> Now Wardels in hast and begins to complain</l><l n="13" xml:id="spp-X16-WILH-line-13"> Your most humble Serv<hi rend="sup">t</hi> dear Sir I remainT──S──n</l></lg><lg n="2" type="verse-paragraph"><l n="14" xml:id="spp-X16-WILH-line-14">Get Helsham Walmsley Delany&#13;</l><l n="15" xml:id="spp-X16-WILH-line-15"> And some Grattens if there be any</l><l n="16" xml:id="spp-X16-WILH-line-16"> Take care you do not bid too many.X16-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

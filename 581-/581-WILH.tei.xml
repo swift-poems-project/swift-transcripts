@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <lb/>
+          <lb/>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-581-WILH-footnote-1 #spp-581-WILH-line-45"/>
+        </linkGrp>
+        <div n="581-WILH" type="poem"><head type="note" n="1" xml:id="spp-581-WILH-headnote-1"><lg n="1" xml:id="spp-581-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-581-WILH-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-581-WILH-headnote-2"><lg n="1" xml:id="spp-581-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-581-WILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-581-WILH-headnote-3"><lg n="1" xml:id="spp-581-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-581-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-581-WILH-line-1"><hi rend="black-letter">C<hi rend="SMALL-CAPS-ITALICS">ORINNA</hi></hi>, Pride of <hi rend="underline">Drury-Lane</hi>,</l><l n="2" xml:id="spp-581-WILH-line-2"> For whom no Shepherd sighs in vain;</l><l n="3" xml:id="spp-581-WILH-line-3"> Never did <hi rend="underline">Covent Garden</hi> boast</l><l n="4" xml:id="spp-581-WILH-line-4"> So bright a batter'd, strolling Toast;</l><l n="5" xml:id="spp-581-WILH-line-5"> No drunken Rake to pick her up,</l><l n="6" xml:id="spp-581-WILH-line-6"> No Cellar where on Tick to sup;</l><l n="7" xml:id="spp-581-WILH-line-7"> Returning at the Midnight Hour;</l><l n="8" xml:id="spp-581-WILH-line-8"> Four Stories climbing to her Bow'r;</l><l n="9" xml:id="spp-581-WILH-line-9"> Then, seated on a three-legg'd Chair,</l><l n="10" xml:id="spp-581-WILH-line-10"> Takes off her artificial Hair:</l><l n="11" xml:id="spp-581-WILH-line-11"> Now, picking out a Crystal Eye,</l><l n="12" xml:id="spp-581-WILH-line-12"> She wipes it clean, and lays it by.</l><l n="13" xml:id="spp-581-WILH-line-13"> Her Eye-Brows from a Mouse's Hyde,</l><l n="14" xml:id="spp-581-WILH-line-14"> Stuck on with Art on either Side,</l><l n="15" xml:id="spp-581-WILH-line-15"> Pulls off with Care, and first displays 'em,</l><l n="16" xml:id="spp-581-WILH-line-16"> Then in a Play-Book smoothly lays 'em.</l><l n="17" xml:id="spp-581-WILH-line-17"> Now dextrously her Plumpers draws,</l><l n="18" xml:id="spp-581-WILH-line-18"> That serve to fill her hollow Jaws.</l><l n="19" xml:id="spp-581-WILH-line-19"> Untwists a Wire; and from her Gums</l><l n="20" xml:id="spp-581-WILH-line-20"> A Set of Teeth completely comes.</l><l n="21" xml:id="spp-581-WILH-line-21"> Pulls out the Rags contriv'd to prop</l><l n="22" xml:id="spp-581-WILH-line-22"> Her flabby Dugs and down they drop.</l><l n="23" xml:id="spp-581-WILH-line-23"> Proceeding on, the lovely Goddess</l><l n="24" xml:id="spp-581-WILH-line-24"> Unlaces next her Steel-Rib'd Bodice;</l><l n="25" xml:id="spp-581-WILH-line-25"> Which by the Operator's Skill,</l><l n="26" xml:id="spp-581-WILH-line-26"> Press down the Lumps, the Hollows fill,</l><l n="27" xml:id="spp-581-WILH-line-27"> Up goes her Hand, and off she slips</l><l n="28" xml:id="spp-581-WILH-line-28"> The Bolsters that supply her Hips.</l><l n="29" xml:id="spp-581-WILH-line-29"> With gentlest Touch, she next explores</l><l n="30" xml:id="spp-581-WILH-line-30"> Her Shankers, Issues, running Sores,</l><l n="31" xml:id="spp-581-WILH-line-31"> Effects of many a sad Disaster;</l><l n="32" xml:id="spp-581-WILH-line-32"> And then to each applies a Plaister.</l><l n="33" xml:id="spp-581-WILH-line-33"> But must, before she goes to Bed,</l><l n="34" xml:id="spp-581-WILH-line-34"> Rub off the Dawbs of White and Red;</l><l n="35" xml:id="spp-581-WILH-line-35"> And smooth the Furrows in her Front,</l><l n="36" xml:id="spp-581-WILH-line-36"> With greasy Paper stuck upon't.</l><l n="37" xml:id="spp-581-WILH-line-37"> She takes a <hi rend="underline">Bolus</hi> e'er she sleeps;</l><l n="38" xml:id="spp-581-WILH-line-38"> And then between two Blankets creeps.</l><l n="39" xml:id="spp-581-WILH-line-39"> With Pains of Love tormented lies;</l><l n="40" xml:id="spp-581-WILH-line-40"> Or if she chance to close her Eyes,</l><l n="41" xml:id="spp-581-WILH-line-41"> Of <hi rend="underline">Bridewell</hi> and the <hi rend="underline">Compter</hi> dreams,</l><l n="42" xml:id="spp-581-WILH-line-42"> And feels the Lash, and faintly screams;</l><l n="43" xml:id="spp-581-WILH-line-43"> Or, by a faithless Bully drawn,</l><l n="44" xml:id="spp-581-WILH-line-44"> At some Hedge-Tavern lies in Pawn;</l><l n="45" xml:id="spp-581-WILH-line-45"> Or to <hi rend="underline">Jamaica</hi> seems transported,<ref target="#spp-581-WILH-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-581-WILH-footnote-1">──<hi rend="underline">Et longam incomitata videtur_Ire viam</hi> ─.</note>Alone, and by no Planter courted;</l><l n="46" xml:id="spp-581-WILH-line-46"> Or, near <hi rend="underline">Fleet-Ditch</hi>'s oozy Brinks,</l><l n="47" xml:id="spp-581-WILH-line-47"> Surrounded with a Hundred Stinks,</l><l n="48" xml:id="spp-581-WILH-line-48"> Belated, seems on watch to lye,</l><l n="49" xml:id="spp-581-WILH-line-49"> And snap some Cully passing by;</l><l n="50" xml:id="spp-581-WILH-line-50"> Or, struck with Fear, her Fancy runs</l><l n="51" xml:id="spp-581-WILH-line-51"> On Watchmen, Constables and Duns,</l><l n="52" xml:id="spp-581-WILH-line-52"> From whom she meets with frequent Rubs;</l><l n="53" xml:id="spp-581-WILH-line-53"> But, never from Religious Clubs;</l><l n="54" xml:id="spp-581-WILH-line-54"> Whose Favour she is sure to find,</l><l n="55" xml:id="spp-581-WILH-line-55"> Because she pays 'em all in Kind.<hi rend="underline">CORINNA</hi> wakes. A dreadful Sight!</l><l n="56" xml:id="spp-581-WILH-line-56"> Behold the Ruins of the Night!</l><l n="57" xml:id="spp-581-WILH-line-57"> A wicked Rat her Plaister stole,</l><l n="58" xml:id="spp-581-WILH-line-58"> Half eat, and dragg'd it to his Hole.</l><l n="59" xml:id="spp-581-WILH-line-59"> The Crystal Eye, alas, was miss't;</l><l n="60" xml:id="spp-581-WILH-line-60"> And <hi rend="underline">Puss</hi> had on her Plumpers p---st.</l><l n="61" xml:id="spp-581-WILH-line-61"> A Pigeon pick'd her Issue-Peas;</l><l n="62" xml:id="spp-581-WILH-line-62"> And <hi rend="underline">Shock</hi> her Tresses fill'd with Fleas.T<hi rend="SMALL-CAPS">HE</hi> Nymph, tho' in this mangled Plight,</l><l n="63" xml:id="spp-581-WILH-line-63"> Must ev'ry Morn her Limbs unite.</l><l n="64" xml:id="spp-581-WILH-line-64"> But how shall I describe her Arts</l><l n="65" xml:id="spp-581-WILH-line-65"> To recollect the scatter'd Parts?</l><l n="66" xml:id="spp-581-WILH-line-66"> Or shew the Anguish, Toil, and Pain,</l><l n="67" xml:id="spp-581-WILH-line-67"> Of gath'ring up herself again?</l><l n="68" xml:id="spp-581-WILH-line-68"> The bashful Muse will never bear</l><l n="69" xml:id="spp-581-WILH-line-69"> In such a Scene to interfere.<hi rend="underline">Corinna</hi> in the Morning dizen'd,</l><l n="70" xml:id="spp-581-WILH-line-70"> Who sees, will spew; who smells, be poison'd.581-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

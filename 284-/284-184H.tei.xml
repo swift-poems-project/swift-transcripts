@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Epitaph on Judge Boat</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-284-184H-footnote-1 #spp-284-184H-line-8"/>
+        </linkGrp>
+        <div n="284-184H" type="poem"><head type="note" n="1" xml:id="spp-284-184H-headnote-1"><lg n="1" xml:id="spp-284-184H-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-284-184H-headnote-1-line-group-1-line-1">set by D<hi rend="sup">r</hi> Hayes</l></lg></head><head type="note" n="2" xml:id="spp-284-184H-headnote-2"><lg n="1" xml:id="spp-284-184H-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-284-184H-headnote-2-line-group-1-line-1">Moderato \tempo indication\</l></lg></head><head type="note" n="3" xml:id="spp-284-184H-headnote-3"><lg n="1" xml:id="spp-284-184H-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-284-184H-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-284-184H-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> Here lies Judge Boat within a Coffin Judge Boat Judge Boat within a Coffin&#13;</l><l n="2" xml:id="spp-284-184H-line-2"> pray Gentlefolks pray Gentlefolks pray Gentlefolks for·bear your scoffing</l><l n="3" xml:id="spp-284-184H-line-3"> A Boat a Judge yes where's the Blunder</l><l n="4" xml:id="spp-284-184H-line-4"> a Wooden Judge a Wooden Judge a Wooden Judge is no such wonder a Wooden Judge a Wooden Judge a Wooden Judge is no such wonder</l><l n="5" xml:id="spp-284-184H-line-5"> And in his Robes we must agree in his Robes in his Robes we must agree</l><l n="6" xml:id="spp-284-184H-line-6"> no Boat no Boat was better deck'd than He no Boat was better deck'd than He</l><l n="7" xml:id="spp-284-184H-line-7"> 'Tis needless to discribe him fuller 'tis needless to discribe to discribe him fuller 'tis needless to describe him fuller</l><l n="8" xml:id="spp-284-184H-line-8"> in short he was an able <ref target="#spp-284-184H-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-284-184H-footnote-1">Query, whether the Author meant Schollar &amp; willfully mistook.</note> Sculler284-184H   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

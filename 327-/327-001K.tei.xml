@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ACE"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="327-001K" type="poem"><head type="note" n="1" xml:id="spp-327-001K-headnote-1"><lg n="1" xml:id="spp-327-001K-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-327-001K-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-327-001K-headnote-2"><lg n="1" xml:id="spp-327-001K-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-327-001K-headnote-2-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-327-001K-line-1"> As Thomas was cudgeld one day by his wife,&#13;</l><l n="2" xml:id="spp-327-001K-line-2"> He took to his heels &amp; ran for his life,</l><l n="3" xml:id="spp-327-001K-line-3"> Toms three dearest friends came by in the Squabble,</l><l n="4" xml:id="spp-327-001K-line-4"> And Screen'd him at once f<hi rend="sup">m</hi> y<hi rend="sup">e</hi> Shrew &amp; the Rabble.</l><l n="5" xml:id="spp-327-001K-line-5"> They ventur'd to give him some friendly advice,</l><l n="6" xml:id="spp-327-001K-line-6"> But Tom is a fellow of Humour so nice.</l><l n="7" xml:id="spp-327-001K-line-7"> Too proud to take Council, too wise to take warning,</l><l n="8" xml:id="spp-327-001K-line-8"> He sent to all three, a Challenge next morning.</l><l n="9" xml:id="spp-327-001K-line-9"> He fought w<hi rend="sup">th</hi> all three, thrice ventur'd his life,</l><l n="10" xml:id="spp-327-001K-line-10"> Then went home again, &amp; was threshd by his wife.327-001K   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

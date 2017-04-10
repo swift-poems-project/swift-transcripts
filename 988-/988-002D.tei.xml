@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dean Swift to Tho: Sheridan.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-988-002D-footnote-1 #spp-988-002D-line-9"/>
+        </linkGrp>
+        <div n="988-002D" type="poem"><head type="note" n="1" xml:id="spp-988-002D-headnote-1"><lg n="1" xml:id="spp-988-002D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-988-002D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-988-002D-headnote-2"><lg n="1" xml:id="spp-988-002D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-988-002D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-988-002D-headnote-3"><lg n="1" xml:id="spp-988-002D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-988-002D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-988-002D-line-1"> S<hi rend="sup">ṛ</hi></l></lg><lg n="2" type="triplet"><l n="2" xml:id="spp-988-002D-line-2">Whate'er Your Predecessors taught us,&#13;</l><l n="3" xml:id="spp-988-002D-line-3"> I have a great Esteem for Plautus,</l><l n="4" xml:id="spp-988-002D-line-4"> And think Your Boys may gather there-hence</l><l n="5" xml:id="spp-988-002D-line-5"> More Wit and Humour than from Terence</l><l n="6" xml:id="spp-988-002D-line-6"> But as to Comick Aristophanes</l><l n="7" xml:id="spp-988-002D-line-7"> The Rogue too Bawdy and too prophane is</l><l n="8" xml:id="spp-988-002D-line-8"> I went in vain to look for Eupolis</l><l n="9" xml:id="spp-988-002D-line-9"> Down in the <ref target="#spp-988-002D-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-988-002D-footnote-1">NB. the Strand in London._Fact may be false but the Rhyme cost me some Trouble.</note> Strand just where the New Pole is</l><l n="10" xml:id="spp-988-002D-line-10"> For I can tell you One thing that I can</l><l n="11" xml:id="spp-988-002D-line-11"> You will not find it in the Vatican</l><l n="12" xml:id="spp-988-002D-line-12"> He and Cratinus us'd as Horace says,</l><l n="13" xml:id="spp-988-002D-line-13"> To take the Greatest Grandees for Asses.</l><l n="14" xml:id="spp-988-002D-line-14"> Poets in those days us'd to Venture high</l><l n="15" xml:id="spp-988-002D-line-15"> But these are lost full many a Century.Thus You may see, Dear Friend, ex pede hence</l><l n="16" xml:id="spp-988-002D-line-16"> My Judgement of the Old Comedians.Proceed to Tragicks. First Euripides</l><l n="17" xml:id="spp-988-002D-line-17"> (An Author where I sometimes dip a days)</l><l n="18" xml:id="spp-988-002D-line-18"> Is rightly censur'd by the Stagirite</l><l n="19" xml:id="spp-988-002D-line-19"> Who says his Numbers do not fadge a right</l><l n="20" xml:id="spp-988-002D-line-20"> A Friend of mine that Author despises </l><l n="21" xml:id="spp-988-002D-line-21"> So much that he swears the Very best piece is</l><l n="22" xml:id="spp-988-002D-line-22"> For ought he knows as bad as Thespis's.</l><l n="23" xml:id="spp-988-002D-line-23"> And that a Woman in these Tragedys</l><l n="24" xml:id="spp-988-002D-line-24"> Commonly speaking but a Jade is.</l><l n="25" xml:id="spp-988-002D-line-25"> At least I'm well assur'd that no folk lays</l><l n="26" xml:id="spp-988-002D-line-26"> The Weight on him they do on Sophocles.</l><l n="27" xml:id="spp-988-002D-line-27"> But above all I prefer <unclear>AE</unclear>schylus</l><l n="28" xml:id="spp-988-002D-line-28"> Whose moving touches when they please kill usAnd now I find My Muse but ill able</l><l n="29" xml:id="spp-988-002D-line-29"> To hold out longer in TryssylableI chose these Rhymes out for their difficulty</l><l n="30" xml:id="spp-988-002D-line-30"> Will You return as hard ones if I call t' Ye</l></lg><lg n="3" type="stanza"><l n="31" xml:id="spp-988-002D-line-31" rend="flush right">Jonathan Swift.&#13;988-002D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

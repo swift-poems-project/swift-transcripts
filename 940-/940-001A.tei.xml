@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Letter to Doct<hi rend="sup">r</hi> Helsham.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="940-001A" type="letter"><head type="note" n="1" xml:id="spp-940-001A-headnote-1"><lg n="1" xml:id="spp-940-001A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-940-001A-headnote-1-line-group-1-line-1">By Dr J. S. D. S. P: D.</l></lg></head><head type="note" n="2" xml:id="spp-940-001A-headnote-2"><lg n="1" xml:id="spp-940-001A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-940-001A-headnote-2-line-group-1-line-1">Sir,</l></lg><lg n="2" xml:id="spp-940-001A-headnote-2-line-group-2" type="headnote"><l n="1" xml:id="spp-940-001A-headnote-2-line-group-2-line-1">Pray discrutiate what follows.</l></lg></head><head type="note" n="3" xml:id="spp-940-001A-headnote-3"><lg n="1" xml:id="spp-940-001A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-940-001A-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-940-001A-line-1" rend="align(center)">1</l></lg><lg n="2" type="verse-paragraph"><l n="2" xml:id="spp-940-001A-line-2" rend="flush left">The dullest beast, and Gentleman's Liquor,&#13;</l><l n="3" xml:id="spp-940-001A-line-3" rend="align(center)"> When Young, is often due to the Vicar.2</l></lg><lg n="3" type="verse-paragraph"><l n="4" xml:id="spp-940-001A-line-4" rend="flush left">The Dullest of Beasts, and swines delight,&#13;</l><l n="5" xml:id="spp-940-001A-line-5" rend="align(center)"> Make up a bird very swift of Flight.3</l></lg><lg n="4" type="verse-paragraph"><l n="6" xml:id="spp-940-001A-line-6" rend="flush left">The Dullest Beast, when high in stature, 3}&#13;</l><l n="7" xml:id="spp-940-001A-line-7"> And another of Royall nature,</l><l n="8" xml:id="spp-940-001A-line-8" rend="align(center)"> For Breeding is an useful creature.4</l></lg><lg n="5" type="verse-paragraph"><l n="9" xml:id="spp-940-001A-line-9" rend="flush left">The dullest Beast, &amp; a party distrest,&#13;</l><l n="10" xml:id="spp-940-001A-line-10" rend="align(center)"> When too long, is bad at best.5</l></lg><lg n="6" type="verse-paragraph"><l n="11" xml:id="spp-940-001A-line-11" rend="flush left">The dullest beast and the saddle it wears,&#13;</l><l n="12" xml:id="spp-940-001A-line-12" rend="align(center)"> Is good for Partridge, not for hares.6</l></lg><lg n="7" type="verse-paragraph"><l n="13" xml:id="spp-940-001A-line-13" rend="flush left">The dullest beast and kind noise of a Cat,&#13;</l><l n="14" xml:id="spp-940-001A-line-14" rend="align(center)"> Will make a horse go tho' he be not fat.7</l></lg><lg n="8" type="verse-paragraph"><l n="15" xml:id="spp-940-001A-line-15" rend="flush left">The dullest beast, &amp; of Birds in the Air,&#13;</l><l n="16" xml:id="spp-940-001A-line-16" rend="align(center)"> Is that by which all Irishmen swear.8</l></lg><lg n="9" type="verse-paragraph"><l n="17" xml:id="spp-940-001A-line-17" rend="flush left">The dullest beast &amp; fam'd College for teauges,&#13;</l><l n="18" xml:id="spp-940-001A-line-18" rend="align(center)"> Is a person very unfit for intrigues.9</l></lg><lg n="10" type="verse-paragraph"><l n="19" xml:id="spp-940-001A-line-19" rend="flush left">The dullest beast, &amp; a coblers tool,&#13;</l><l n="20" xml:id="spp-940-001A-line-20"> With a boy that is only fit for a School,</l><l n="21" xml:id="spp-940-001A-line-21" rend="align(center)"> In Summer is very pleasant &amp; cool.10</l></lg><lg n="11" type="verse-paragraph"><l n="22" xml:id="spp-940-001A-line-22" rend="flush left">The dullest beast &amp; that which you kiss,&#13;</l><l n="23" xml:id="spp-940-001A-line-23" rend="align(center)"> May break a limb of master or Miss.11</l></lg><lg n="12" type="verse-paragraph"><l n="24" xml:id="spp-940-001A-line-24" rend="flush left">Of Serpent·kind, and what at distance kills&#13;</l><l n="25" xml:id="spp-940-001A-line-25" rend="align(center)"> Poor M<hi rend="sup">ṛ</hi><hi rend="sup">s</hi> Dingley oft hath felt its Bills.12</l></lg><lg n="13" type="verse-paragraph"><l n="26" xml:id="spp-940-001A-line-26" rend="flush left">The dullest beast and Eggs unsound;&#13;</l><l n="27" xml:id="spp-940-001A-line-27" rend="align(center)"> Without it I rather would on the ground.13</l></lg><lg n="14" type="verse-paragraph"><l n="28" xml:id="spp-940-001A-line-28" rend="flush left">The dullest beast &amp; what covers a house&#13;</l><l n="29" xml:id="spp-940-001A-line-29" rend="align(center)"> Without it a writer is not worth a louse14</l></lg><lg n="15" type="verse-paragraph"><l n="30" xml:id="spp-940-001A-line-30" rend="flush left">The dullest beast and scandalous vermin&#13;</l><l n="31" xml:id="spp-940-001A-line-31" rend="align(center)"> Of roast or boil'd to the Hungry is charming15</l></lg><lg n="16" type="verse-paragraph"><l n="32" xml:id="spp-940-001A-line-32" rend="flush left">The dullest beast, and whats cover'd with Crust,&#13;</l><l n="33" xml:id="spp-940-001A-line-33" rend="align(center)"> There's nobody but a fool that would trust.16</l></lg><lg n="17" type="verse-paragraph"><l n="34" xml:id="spp-940-001A-line-34" rend="flush left">The dullest beast mending highways&#13;</l><l n="35" xml:id="spp-940-001A-line-35" rend="align(center)"> Is to a Horse an evil disease.17</l></lg><lg n="18" type="verse-paragraph"><l n="36" xml:id="spp-940-001A-line-36" rend="flush left">The dullest beast &amp; a hole in the ground,&#13;</l><l n="37" xml:id="spp-940-001A-line-37" rend="align(center)"> Will dress a dinner worth 5. £.18</l></lg><lg n="19" type="verse-paragraph"><l n="38" xml:id="spp-940-001A-line-38" rend="flush left">The dullest beast &amp; what Drs pretend,&#13;</l><l n="39" xml:id="spp-940-001A-line-39" rend="align(center)"> The cook·maid often has by the End.19</l></lg><lg n="20" type="verse-paragraph"><l n="40" xml:id="spp-940-001A-line-40" rend="flush left">The dullest beast &amp; fish for Lent,&#13;</l><l n="41" xml:id="spp-940-001A-line-41" rend="align(center)"> May give you a blow you'll for·ever repent.20</l></lg><lg n="21" type="verse-paragraph"><l n="42" xml:id="spp-940-001A-line-42" rend="flush left">The dullest beast and a shamefull Jeer,&#13;</l><l n="43" xml:id="spp-940-001A-line-43"> Without it a Lady should never appear.<gap/><gap/>940-001A   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

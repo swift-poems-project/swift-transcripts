@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To GEORGE NIM-DAN-DEAN, Esq;</title>
+        <title>Upon his incomparable V<hi rend="SMALL-CAPS">ERSES</hi>, <hi rend="underline">&amp;c</hi>. of A<hi rend="SMALL-CAPS">UGUST</hi> 2d,</title>
+        <title><hi rend="SMALL-CAPS">M DCC XXI</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-X24-1351-footnote-1"/>
+          <link target="#spp-X24-1351-footnote-1 #spp-X24-1351-line-56"/>
+          <link target="#spp-X24-1351-footnote-2 #spp-X24-1351-line-58"/>
+        </linkGrp>
+        <div n="X24-1351" type="poem"><head type="note" n="1" xml:id="spp-X24-1351-headnote-1"><lg n="1" xml:id="spp-X24-1351-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X24-1351-headnote-1-line-group-1-line-1">Written by Dr. D<hi rend="SMALL-CAPS">ELANY</hi>, in the Name of T<hi rend="SMALL-CAPS">HOMAS </hi>S<hi rend="SMALL-CAPS">HERIDAN</hi>. <ref target="#spp-X24-1351-footnote-1">1</ref><note n="1" xml:id="spp-X24-1351-footnote-1" place="foot">These verses were all written in circles, one within another, as appears from the observations in the following poem by Dr. Swift</note></l></lg></head><head type="note" n="2" xml:id="spp-X24-1351-headnote-2"><lg n="1" xml:id="spp-X24-1351-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X24-1351-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X24-1351-headnote-3"><lg n="1" xml:id="spp-X24-1351-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X24-1351-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X24-1351-line-1"><hi rend="display-initial">H</hi>A<hi rend="SMALL-CAPS">IL</hi>, human compound quadrifarious!</l><l n="2" xml:id="spp-X24-1351-line-2"> Invincible as Wight Briareus!</l><l n="3" xml:id="spp-X24-1351-line-3"> Hail! doubly doubled mighty merry one,</l><l n="4" xml:id="spp-X24-1351-line-4"> Stronger than triple body'd Geryon!</l><l n="5" xml:id="spp-X24-1351-line-5"> O may your Vastness deign t'excuse</l><l n="6" xml:id="spp-X24-1351-line-6"> The praises of a puny Muse,</l><l n="7" xml:id="spp-X24-1351-line-7"> Unable, in her utmost flight,</l><l n="8" xml:id="spp-X24-1351-line-8"> To reach thy huge Colossian height.</l><l n="9" xml:id="spp-X24-1351-line-9"> T'attempt to write like thee were frantic,</l><l n="10" xml:id="spp-X24-1351-line-10"> Whose lines are, like thyself, gigantic.</l></lg><lg n="2" type="stanza"><l n="11" xml:id="spp-X24-1351-line-11">Yet let me bless, in humbler strain,&#13;</l><l n="12" xml:id="spp-X24-1351-line-12"> Thy vast, thy bold Cambysian vein,</l><l n="13" xml:id="spp-X24-1351-line-13"> Pour'd out t'inrich thy native isle,</l><l n="14" xml:id="spp-X24-1351-line-14"> As Egypt wont to be with Nile.</l><l n="15" xml:id="spp-X24-1351-line-15"> Oh how I joy to see thee wander,</l><l n="16" xml:id="spp-X24-1351-line-16"> In many a winding loose meander,</l><l n="17" xml:id="spp-X24-1351-line-17"> In circling mazes, smooth and supple,</l><l n="18" xml:id="spp-X24-1351-line-18"> And ending in a clink quadruple;</l><l n="19" xml:id="spp-X24-1351-line-19"> Loud, yet agreeable withal,</l><l n="20" xml:id="spp-X24-1351-line-20"> Like rivers rattling in their fall.</l><l n="21" xml:id="spp-X24-1351-line-21"> Thine, sure is poetry divine,</l><l n="22" xml:id="spp-X24-1351-line-22"> Where wit and majesty combine;</l><l n="23" xml:id="spp-X24-1351-line-23"> Where ev'ry line, as huge as seven,</l><l n="24" xml:id="spp-X24-1351-line-24"> If stretch'd in length, would reach to Heav'n:</l><l n="25" xml:id="spp-X24-1351-line-25"> Here all comparing wou'd be sland'ring,</l><l n="26" xml:id="spp-X24-1351-line-26"> The least is more than Alexandrine.</l></lg><lg n="3" type="stanza"><l n="27" xml:id="spp-X24-1351-line-27">Against thy verse Time sees with pain,&#13;</l><l n="28" xml:id="spp-X24-1351-line-28"> He whets his envious scythe in vain:</l><l n="29" xml:id="spp-X24-1351-line-29"> For, tho' from thee he much may pare,</l><l n="30" xml:id="spp-X24-1351-line-30"> Yet much thou still wilt have to spare.</l></lg><lg n="4" type="stanza"><l n="31" xml:id="spp-X24-1351-line-31">Thou hast alone the skill to feast&#13;</l><l n="32" xml:id="spp-X24-1351-line-32"> With Roman elegance of taste,</l><l n="33" xml:id="spp-X24-1351-line-33"> Who hast of rhymes as vast resources</l><l n="34" xml:id="spp-X24-1351-line-34"> As Pompey's caterer of courses.</l></lg><lg n="5" type="stanza"><l n="35" xml:id="spp-X24-1351-line-35">Oh thou, of all the Nine inspir'd!&#13;</l><l n="36" xml:id="spp-X24-1351-line-36"> My languid soul, with teaching tir'd,</l><l n="37" xml:id="spp-X24-1351-line-37"> How is it raptur'd, when it thinks</l><l n="38" xml:id="spp-X24-1351-line-38"> On thy harmonious sett of clinks;</l><l n="39" xml:id="spp-X24-1351-line-39"> Each answ'ring each in various rhymes,</l><l n="40" xml:id="spp-X24-1351-line-40"> Like echo to St. Patrick's chimes?</l></lg><lg n="6" type="stanza"><l n="41" xml:id="spp-X24-1351-line-41">Thy Muse, majestic in her rage,&#13;</l><l n="42" xml:id="spp-X24-1351-line-42"> Moves like Statira on the stage,</l><l n="43" xml:id="spp-X24-1351-line-43"> And scarcely can one page sustain</l><l n="44" xml:id="spp-X24-1351-line-44"> The length of such a flowing train:</l><l n="45" xml:id="spp-X24-1351-line-45"> Her train, of variegated dye,</l><l n="46" xml:id="spp-X24-1351-line-46"> Shews like Thaumantia's in the sky;</l><l n="47" xml:id="spp-X24-1351-line-47"> Alike they glow, alike they please,</l><l n="48" xml:id="spp-X24-1351-line-48"> Alike imprest by Ph<unclear>oe</unclear>bus' rays.</l></lg><lg n="7" type="stanza"><l n="49" xml:id="spp-X24-1351-line-49">Thy verse──(Ye Gods! I cannot bear it)&#13;</l><l n="50" xml:id="spp-X24-1351-line-50"> To what, to what shall I compare it?</l><l n="51" xml:id="spp-X24-1351-line-51"> 'Tis like, what I have oft heard spoke on,</l><l n="52" xml:id="spp-X24-1351-line-52"> The famous statue of Laocoon.</l><l n="53" xml:id="spp-X24-1351-line-53"> 'Tis like──O yes, 'tis very like it,</l><l n="54" xml:id="spp-X24-1351-line-54"> The long long string with which you fly kite.</l><l n="55" xml:id="spp-X24-1351-line-55"> 'Tis like what you, and one or two more,</l><l n="56" xml:id="spp-X24-1351-line-56"> Roar to your Echo <ref target="#spp-X24-1351-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-X24-1351-footnote-1">At Gallstown there is so famous an Echo, that, if you repeat two lines of Virgil out of a speaking-trumpet, you may hear the nymph return them to your ear with great propriety and clearness.</note> in good-humour;</l><l n="57" xml:id="spp-X24-1351-line-57"> And ev'ry couplet thou hast writ</l><l n="58" xml:id="spp-X24-1351-line-58"> Concludes like Rattah-whittah-whit<ref target="#spp-X24-1351-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-X24-1351-footnote-2">These words allude to their amusements with the Echo, having no other signification but to express the sound of stones returned by the Echo, when beaten one against the other.</note>.X24-1351   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

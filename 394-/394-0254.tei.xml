@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Advice to the <hi rend="underline">Grub-street</hi> Verse-writers.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JDurham"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-394-0254-footnote-1 #spp-394-0254-line-8"/>
+        </linkGrp>
+        <div n="394-0254" type="poem"><head type="note" n="1" xml:id="spp-394-0254-headnote-1"><lg n="1" xml:id="spp-394-0254-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-394-0254-headnote-1-line-group-1-line-1">Written in the Year 1726.</l></lg></head><head type="note" n="2" xml:id="spp-394-0254-headnote-2"><lg n="1" xml:id="spp-394-0254-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-394-0254-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-394-0254-headnote-3"><lg n="1" xml:id="spp-394-0254-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-394-0254-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-394-0254-line-1"><hi rend="display-initial">Y</hi>E Poets ragged and forlorn,Down from your Garrets haste,</l><l n="2" xml:id="spp-394-0254-line-2"> Ye Rhimers, dead as soon as born,Not yet consign'd to Paste;</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-394-0254-line-3">I know a Trick to make you thrive;&#13;O, 'tis a quaint Device:</l><l n="4" xml:id="spp-394-0254-line-4"> Your still-born Poems shall revive,And scorn to wrap up Spice.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-394-0254-line-5">Get all your Verses printed fair,&#13;Then, let them well be dry'd;</l><l n="6" xml:id="spp-394-0254-line-6"> And <hi rend="underline">Curl</hi> must have a special CareTo leave the Margin wide.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-394-0254-line-7">Lend these to Paper-sparing <hi rend="underline">Pope</hi>;And, when he sits to write,</l><l n="8" xml:id="spp-394-0254-line-8"> No Letter with an <hi rend="underline">Envelope</hi><ref target="#spp-394-0254-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-394-0254-footnote-1">A Blank Cover.</note>Could give him more Delight.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-394-0254-line-9">When <hi rend="underline">Pope</hi> has fill'd the Margins round,Why then recal your Loan;</l><l n="10" xml:id="spp-394-0254-line-10"> Sell them to <hi rend="underline">Curl</hi> for fifty Pound,And swear they are your own.394-0254   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

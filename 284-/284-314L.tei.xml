@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="284-314L" type="poem"><head type="note" n="1" xml:id="spp-284-314L-headnote-1"><lg n="1" xml:id="spp-284-314L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-284-314L-headnote-1-line-group-1-line-1">N. 103</l></lg></head><head type="note" n="2" xml:id="spp-284-314L-headnote-2"><lg n="1" xml:id="spp-284-314L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-284-314L-headnote-2-line-group-1-line-1">A 4 Voc.</l></lg></head><head type="note" n="3" xml:id="spp-284-314L-headnote-3"><lg n="1" xml:id="spp-284-314L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-284-314L-headnote-3-line-group-1-line-1">D<hi rend="sup">r</hi> 08. Hayes</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-284-314L-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> Here lies Iudge Boat within a Coffin·Iudge·Boat·Iudge·Boat·within·a·Coffin:&#13;</l><l n="2" xml:id="spp-284-314L-line-2"> pray Gentlefolks·pray·Gentlefolks·pray·Gentlefolks forbear your scoffing</l><l n="3" xml:id="spp-284-314L-line-3"> a Boat a Iudge Yes where's the blunder</l><l n="4" xml:id="spp-284-314L-line-4"> a wooden Iudge·a·wooden·Iudge·a·wooden·Iudge is no such wonder·a·wooden·Iudge·a wooden·Iudge·a·wooden·Iudge·is·no·such·wonder</l><l n="5" xml:id="spp-284-314L-line-5"> And in his Robes we must a-gree·in·his·Robes·in·his·Robes·we·must·agree</l><l n="6" xml:id="spp-284-314L-line-6"> no Boat·no·Boat was better dock'd than he·no·Boat·was·better·Dock't·than·He</l><l n="7" xml:id="spp-284-314L-line-7"> 'tis needless to describe him fuller·'tis·needless·to·describe·to·describe him·fuller·'tis·needless·to·describe·him·fuller</l><l n="8" xml:id="spp-284-314L-line-8"> in short he was an able sculler284-314L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

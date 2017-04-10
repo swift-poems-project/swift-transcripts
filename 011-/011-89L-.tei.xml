@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-011-89L--title-1">ODE <ref target="#spp-011-89L--footnote-title-1">1</ref><note n="1" xml:id="spp-011-89L--footnote-title-1" place="foot">With much pleasure we here present to the publick an Ode which had been long sought after without success. That it is Swift's, there is not the least doubt. He refers to it in the second stanza of his “Ode to the Athenian Society,” and expressly marks it by a marginal note, under the title of “The Ode  I writ to the King in Ireland.” See “The Gentleman's Journal, July, 1692,” p. 13.</note> TO KING WILLIAM,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-011-89L--footnote-title-1 #spp-011-89L--title-1"/>
+        </linkGrp>
+        <div n="011-89L-" type="poem"><head type="note" n="1" xml:id="spp-011-89L--headnote-1"><lg n="1" xml:id="spp-011-89L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-011-89L--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-011-89L--headnote-2"><lg n="1" xml:id="spp-011-89L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-011-89L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-011-89L--headnote-3"><lg n="1" xml:id="spp-011-89L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-011-89L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-011-89L--line-1"><hi rend="display-initial">T</hi>O purchase kingdoms, and to buy renown,Are arts peculiar to dissembling France;</l><l n="2" xml:id="spp-011-89L--line-2"> You, mighty Monarch, nobler actions crown,And solid virtue does your name advance.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-011-89L--line-3">Your matchless courage with your prudence joins&#13;The glorious structure of your fame to raise;</l><l n="4" xml:id="spp-011-89L--line-4"> With its own light your dazzling glory shines,And into adoration turns our praise.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-011-89L--line-5">Had you by dull succession gain'd your crown&#13;(Cowards are Monarchs by that title made),</l><l n="6" xml:id="spp-011-89L--line-6"> Part of your merit Chance would call her own,And half your virtues had been lost in shade.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-011-89L--line-7">But now your worth its just reward shall have:&#13;What trophies and what triumphs are your due!</l><l n="8" xml:id="spp-011-89L--line-8"> Who could so well a dying nation save,At once deserve a crown, and gain it too!</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-011-89L--line-9">You saw how near we were to ruin brought,&#13;You saw th' impetuous torrent rolling on;</l><l n="10" xml:id="spp-011-89L--line-10"> And timely on the coming danger thought,Which we could neither obviate nor shun.</l></lg><lg n="6" type="stanza"><l n="11" xml:id="spp-011-89L--line-11">Britannia stript from her sole guard, the laws,&#13;Ready to fall Rome's bloody sacrifice;</l><l n="12" xml:id="spp-011-89L--line-12"> You straight stept in, and from the monster's jawsDid bravely snatch the lovely, helpless prize.</l></lg><lg n="7" type="stanza"><l n="13" xml:id="spp-011-89L--line-13">Nor this is all; as glorious is the care&#13;To preserve conquests, as at first to gain:</l><l n="14" xml:id="spp-011-89L--line-14"> In this your virtue claims a double share,Which, what it bravely won, does well maintain.</l></lg><lg n="8" type="stanza"><l n="15" xml:id="spp-011-89L--line-15">Your arm has now your rightful title shew'd,&#13;An arm on which all Europe's hopes depend,</l><l n="16" xml:id="spp-011-89L--line-16"> To which they look as to some guardian God,That must their doubtful liberty defend.</l></lg><lg n="9" type="stanza"><l n="17" xml:id="spp-011-89L--line-17">Amaz'd, thy action at the B<hi rend="SMALL-CAPS">OYNE</hi> we see!When Schomberg started at the vast design:</l><l n="18" xml:id="spp-011-89L--line-18"> The boundless glory all redounds to thee,Th' impulse, the fight, th' event, were wholly thine.</l></lg><lg n="10" type="stanza"><l n="19" xml:id="spp-011-89L--line-19">The brave attempt does all our foes disarm;&#13;You need but now give orders and command,</l><l n="20" xml:id="spp-011-89L--line-20"> Your name shall the remaining work perform,And spare the labour of your conquering hand.</l></lg><lg n="11" type="stanza"><l n="21" xml:id="spp-011-89L--line-21">France does in vain her feeble arts apply,&#13;To interrupt the fortune of your course:</l><l n="22" xml:id="spp-011-89L--line-22"> Your influence does the vain attacks defyOf secret malice, or of open force.</l></lg><lg n="12" type="stanza"><l n="23" xml:id="spp-011-89L--line-23">Boldly we hence the brave commencement date&#13;Of glorious deeds, that must all tongues employ:</l><l n="24" xml:id="spp-011-89L--line-24"> W<hi rend="SMALL-CAPS">ILLIAM</hi>'s the pledge and earnest given by FateOf England's glory, and her lasting joy.011-89L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

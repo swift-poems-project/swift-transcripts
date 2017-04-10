@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On Wisdom's Defeat<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y18-760L" type="poem"><head type="note" n="1" xml:id="spp-Y18-760L-headnote-1"><lg n="1" xml:id="spp-Y18-760L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y18-760L-headnote-1-line-group-1-line-1">Quid est Sapientia? Semper idem velle, atque idem nolle.</l></lg></head><head type="note" n="2" xml:id="spp-Y18-760L-headnote-2"><lg n="1" xml:id="spp-Y18-760L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y18-760L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y18-760L-headnote-3"><lg n="1" xml:id="spp-Y18-760L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y18-760L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y18-760L-line-1"><hi rend="black-letter">Minerva</hi> has vowed, since the <hi rend="black-letter">Bishops</hi> do slight her,</l><l n="2" xml:id="spp-Y18-760L-line-2"> Should the <hi rend="black-letter">Reverend Peers</hi> by chance e'er invite her,</l><l n="3" xml:id="spp-Y18-760L-line-3"> She's resolved never more to be known by the <hi rend="black-letter">Mitre</hi>.</l></lg><lg n="2" type="stanza"><l n="4" xml:id="spp-Y18-760L-line-4">The <hi rend="black-letter">Temporal Lords</hi> who voted against her,</l><l n="5" xml:id="spp-Y18-760L-line-5"> She frankly forgives, as not having incens'd her,</l><l n="6" xml:id="spp-Y18-760L-line-6"> For securing their <hi rend="black-letter">Pensions</hi> is the best proof of their Sense, Sir.</l></lg><lg n="3" type="stanza"><l n="7" xml:id="spp-Y18-760L-line-7">At first putting the Question their Lordships were for't&#13;</l><l n="8" xml:id="spp-Y18-760L-line-8"> And his Grace's wise motion did bravely Support</l><l n="9" xml:id="spp-Y18-760L-line-9"> Till positive orders were whispered from Court.</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-Y18-760L-line-10">So this they alledge in their Justification,&#13;</l><l n="11" xml:id="spp-Y18-760L-line-11"> They vote for their bread in undoing the Nation</l><l n="12" xml:id="spp-Y18-760L-line-12"> And the first Law of nature is self Preservation.<gap/><gap/><gap/>Y18-760L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Day of Iudgment,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="578-362Y" type="poem"><head type="note" n="1" xml:id="spp-578-362Y-headnote-1"><lg n="1" xml:id="spp-578-362Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-578-362Y-headnote-1-line-group-1-line-1">Swift</l></lg></head><head type="note" n="2" xml:id="spp-578-362Y-headnote-2"><lg n="1" xml:id="spp-578-362Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-578-362Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-578-362Y-headnote-3"><lg n="1" xml:id="spp-578-362Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-578-362Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-578-362Y-line-1"> With a Whirl of thought Opprest,&#13;</l><l n="2" xml:id="spp-578-362Y-line-2"> I sunk from Reverie to Rest,</l><l n="3" xml:id="spp-578-362Y-line-3"> An Horrid Vision Seiz'd my Head,</l><l n="4" xml:id="spp-578-362Y-line-4"> I Saw the Graves Give up their Dead,</l><l n="5" xml:id="spp-578-362Y-line-5"> Iove arm'd with terrors Burst the Skies,</l><l n="6" xml:id="spp-578-362Y-line-6"> And thunder roars &amp; Lightning flies,</l><l n="7" xml:id="spp-578-362Y-line-7"> Amazed Confused, its fate unknown,</l><l n="8" xml:id="spp-578-362Y-line-8"> The World stands, trembling at his throne,</l><l n="9" xml:id="spp-578-362Y-line-9"> While each pale Sinner hung his head,</l><l n="10" xml:id="spp-578-362Y-line-10"> Iove nodding Shook the Heavens &amp; Said</l><l n="11" xml:id="spp-578-362Y-line-11"> “Offending Race of human kind,</l><l n="12" xml:id="spp-578-362Y-line-12"> “By Nature, Reason, Learning, Blind</l><l n="13" xml:id="spp-578-362Y-line-13"> “You who thro' Frailty stepp'<hi rend="sup">d</hi> aside,</l><l n="14" xml:id="spp-578-362Y-line-14"> “And you who never fell thro' Pride</l><l n="15" xml:id="spp-578-362Y-line-15"> “You who in Different Sects were shamm'd</l><l n="16" xml:id="spp-578-362Y-line-16"> “And come to See each other Damn'd</l><l n="17" xml:id="spp-578-362Y-line-17"> “So some folk told you, But they knew,</l><l n="18" xml:id="spp-578-362Y-line-18"> “No more of Iove's Designs than You,</l><l n="19" xml:id="spp-578-362Y-line-19"> “The Worlds mad Business now is oer</l><l n="20" xml:id="spp-578-362Y-line-20"> “And I Resent these Pranks no more,</l><l n="21" xml:id="spp-578-362Y-line-21"> “I to such Blockheads set my wit</l><l n="22" xml:id="spp-578-362Y-line-22"> “I Damn such Fools──Go──·──Go──you're Bit,578-362Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

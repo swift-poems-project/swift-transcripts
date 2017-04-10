@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>EPIGRAM.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SB"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="327-03P1" type="poem"><head type="note" n="1" xml:id="spp-327-03P1-headnote-1"><lg n="1" xml:id="spp-327-03P1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-327-03P1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-327-03P1-headnote-2"><lg n="1" xml:id="spp-327-03P1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-327-03P1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-327-03P1-headnote-3"><lg n="1" xml:id="spp-327-03P1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-327-03P1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-327-03P1-line-1"><hi rend="display-initial">A</hi>S <hi rend="underline">Thomas</hi> was cudgell'd one Day by his Wife,</l><l n="2" xml:id="spp-327-03P1-line-2"> He took to the Street, and fled for his Life;<hi rend="underline">Tom</hi>'s three dearest Friends came by in the Squabble,</l><l n="3" xml:id="spp-327-03P1-line-3"> And sav'd him at once from the Shrew and the Rabble;</l><l n="4" xml:id="spp-327-03P1-line-4"> Then ventur'd to give him some sober Advice──</l><l n="5" xml:id="spp-327-03P1-line-5"> But, <hi rend="underline">Tom</hi> is a Person of Honour so nice,</l><l n="6" xml:id="spp-327-03P1-line-6"> Too wise to take Council, too proud to take Warning,</l><l n="7" xml:id="spp-327-03P1-line-7"> That he sent to all Three a Challenge next Morning:</l><l n="8" xml:id="spp-327-03P1-line-8"> Three Duels he fought, thrice ventur'd his Life;</l><l n="9" xml:id="spp-327-03P1-line-9"> Went home, and was cudgell'd again by his Wife.327-03P1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Wrote by Delany on y<hi rend="sup">e</hi> North Window of the Deanery</title>
+        <title>House of S<hi rend="sup">t</hi> 08. Patricks to y<hi rend="sup">e</hi> Dean &amp; y<hi rend="sup">e</hi> Deans Answer w<hi rend="sup">ch</hi> 08: begins</title>
+        <title>Apollo to y<hi rend="sup">e</hi> Dean</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="261-500C" type="poem"><head type="note" n="1" xml:id="spp-261-500C-headnote-1"><lg n="1" xml:id="spp-261-500C-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-261-500C-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-261-500C-headnote-2"><lg n="1" xml:id="spp-261-500C-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-261-500C-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-261-500C-headnote-3"><lg n="1" xml:id="spp-261-500C-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-261-500C-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-261-500C-line-1"> Are the Guests of this House Still doom'd to be Cheated&#13;</l><l n="2" xml:id="spp-261-500C-line-2"> Sure y<hi rend="sup">e</hi> fates have decreed they by halfes Should be treated</l><l n="3" xml:id="spp-261-500C-line-3"> In y<hi rend="sup">e</hi> Days of old John if you came here to dine</l><l n="4" xml:id="spp-261-500C-line-4"> You had choice of good meat, no choice of good wine</l><l n="5" xml:id="spp-261-500C-line-5"> In Jonathans reign if you came here to Eate</l><l n="6" xml:id="spp-261-500C-line-6"> You have choice of good wine, no choice of good meat</l><l n="7" xml:id="spp-261-500C-line-7"> Oh Jove then how fully might all Sides be blest</l><l n="8" xml:id="spp-261-500C-line-8"> Wouls't thou but agree to this humble request</l><l n="9" xml:id="spp-261-500C-line-9"> Put both Deans in one, or if that·is too much trouble</l><l n="10" xml:id="spp-261-500C-line-10"> Instead of y<hi rend="sup">e</hi> Deans make y<hi rend="sup">e</hi> Deanery Double261-500C   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

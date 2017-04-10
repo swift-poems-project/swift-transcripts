@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ON STEPHEN DUCK,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="521-79L2" type="poem"><head type="note" n="1" xml:id="spp-521-79L2-headnote-1"><lg n="1" xml:id="spp-521-79L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-521-79L2-headnote-1-line-group-1-line-1">A QUIBBLING EPIGRAM. 1730.</l></lg></head><head type="note" n="2" xml:id="spp-521-79L2-headnote-2"><lg n="1" xml:id="spp-521-79L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-521-79L2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-521-79L2-headnote-3"><lg n="1" xml:id="spp-521-79L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-521-79L2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-521-79L2-line-1"><hi rend="display-initial">T</hi>HE thresher Duck could o'er the Queen prevail,</l><l n="2" xml:id="spp-521-79L2-line-2"> The proverb says, <hi rend="underline">no fence against a flail</hi>.</l><l n="3" xml:id="spp-521-79L2-line-3"> From <hi rend="underline">threshing</hi> corn he turns to <hi rend="underline">thresh</hi> his brains;</l><l n="4" xml:id="spp-521-79L2-line-4"> For which her Majesty allows him <hi rend="underline">grains</hi>.</l><l n="5" xml:id="spp-521-79L2-line-5"> Though 'tis confest, that those, who ever saw</l><l n="6" xml:id="spp-521-79L2-line-6"> His poems, think them all not worth a <hi rend="underline">straw</hi>!Thrice happy Duck, employ'd in threshing <hi rend="underline">stubble</hi>!</l><l n="7" xml:id="spp-521-79L2-line-7"> Thy toil is lessen'd, and thy profits double.521-79L2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

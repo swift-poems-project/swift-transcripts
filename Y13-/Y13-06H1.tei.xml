@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>* NEWGATE'S GARLAND:</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y13-06H1" type="poem"><head type="note" n="1" xml:id="spp-Y13-06H1-headnote-1"><lg n="1" xml:id="spp-Y13-06H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y13-06H1-headnote-1-line-group-1-line-1"><hi rend="underline">Being a new ballad, shewing how Mr. </hi>Jonathan Wild's<hi rend="underline"> throat was cut from ear to ear with a penknife by Mr. </hi>Blake<hi rend="underline">, alias </hi>Blueskin<hi rend="underline">, the bold highwayman, as he stood at his trial in the</hi> Old-Baily, 1725.</l></lg></head><head type="note" n="2" xml:id="spp-Y13-06H1-headnote-2"><lg n="1" xml:id="spp-Y13-06H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y13-06H1-headnote-2-line-group-1-line-1"><hi rend="underline">To the Tune of the</hi> Cut-purse.</l></lg></head><head type="note" n="3" xml:id="spp-Y13-06H1-headnote-3"><lg n="1" xml:id="spp-Y13-06H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y13-06H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y13-06H1-line-1" rend="align(center)">I.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-Y13-06H1-line-2" rend="flush left"><hi rend="display-initial">Y</hi>E gallants of <hi rend="underline">Newgate</hi>, whose fingers are nice</l><l n="3" xml:id="spp-Y13-06H1-line-3"> In diving in pockets, or cogging of dice;</l><l n="4" xml:id="spp-Y13-06H1-line-4"> Ye sharpers so rich, who can buy off the noose,</l><l n="5" xml:id="spp-Y13-06H1-line-5"> Ye honester poor rogues, who die in your shoes,Attend and draw near,Good news ye shall hear,</l><l n="6" xml:id="spp-Y13-06H1-line-6"> How <hi rend="underline">Jonathan's</hi> throat was cut from ear to ear,</l><l n="7" xml:id="spp-Y13-06H1-line-7"> How <hi rend="underline">Blueskin's</hi> sharp penknife hath set you at ease,</l><l n="8" xml:id="spp-Y13-06H1-line-8" rend="align(center)"> And ev'ry man round me may rob, if he please.II.</l></lg><lg n="3" type="stanza"><l n="9" xml:id="spp-Y13-06H1-line-9" rend="flush left">When to the <hi rend="underline">Old-Baily</hi> this <hi rend="underline">Blueskin</hi> was led,</l><l n="10" xml:id="spp-Y13-06H1-line-10"> He held up his hand; his indictment was read;</l><l n="11" xml:id="spp-Y13-06H1-line-11"> Loud rattled his chains; near him <hi rend="underline">Jonathan</hi> stood;</l><l n="12" xml:id="spp-Y13-06H1-line-12"> For full forty pounds was the price of his blood.Then, hopeless of life,He drew his penknife,</l><l n="13" xml:id="spp-Y13-06H1-line-13"> And made a sad widow of <hi rend="underline">Jonathan's</hi> wife.</l><l n="14" xml:id="spp-Y13-06H1-line-14"> But forty pounds paid her her grief shall appease;</l><l n="15" xml:id="spp-Y13-06H1-line-15" rend="align(center)"> And ev'ry man round me may rob, if he please.III.</l></lg><lg n="4" type="stanza"><l n="16" xml:id="spp-Y13-06H1-line-16" rend="flush left">Some say there are courtiers of highest renown,&#13;</l><l n="17" xml:id="spp-Y13-06H1-line-17"> Who steal the king's gold, and leave him but a <hi rend="underline">crown</hi>:</l><l n="18" xml:id="spp-Y13-06H1-line-18"> Some say there are peers, and some parliament-men,</l><l n="19" xml:id="spp-Y13-06H1-line-19"> Who meet once a year to rob courtiers agen.Let them all take their swingTo pillage the king,</l><l n="20" xml:id="spp-Y13-06H1-line-20"> And get a blue ribbon, instead of a string.</l><l n="21" xml:id="spp-Y13-06H1-line-21"> Now <hi rend="underline">Blueskin's</hi> sharp penknife hath set you at ease;</l><l n="22" xml:id="spp-Y13-06H1-line-22" rend="align(center)"> And ev'ry man round me may rob, if he please.IV.</l></lg><lg n="5" type="stanza"><l n="23" xml:id="spp-Y13-06H1-line-23" rend="flush left">Knaves of old, to hide guilt by their cunning inventions,&#13;</l><l n="24" xml:id="spp-Y13-06H1-line-24"> Call'd briberies grants, and plain robberies pensions:</l><l n="25" xml:id="spp-Y13-06H1-line-25"> Physicians and lawyers (who take their degrees</l><l n="26" xml:id="spp-Y13-06H1-line-26"> To be learned rogues) call'd their pilfering fees.Since this happy dayNow ev'ry man may</l><l n="27" xml:id="spp-Y13-06H1-line-27"> Rob (as safe as in office) upon the highway.</l><l n="28" xml:id="spp-Y13-06H1-line-28"> For <hi rend="underline">Blueskin's</hi> sharp penknife hath set you at ease;</l><l n="29" xml:id="spp-Y13-06H1-line-29" rend="align(center)"> And ev'ry man round me may rob, if he please.V.</l></lg><lg n="6" type="stanza"><l n="30" xml:id="spp-Y13-06H1-line-30" rend="flush left">Some cheat in the customs, some rob the excise;&#13;</l><l n="31" xml:id="spp-Y13-06H1-line-31"> But he who robs both is esteemed most wise.</l><l n="32" xml:id="spp-Y13-06H1-line-32"> Church-wardens, too prudent to hazard the halter,</l><l n="33" xml:id="spp-Y13-06H1-line-33"> As yet only venture to steal from the altar.But now to get gold,They may be more bold,</l><l n="34" xml:id="spp-Y13-06H1-line-34"> And rob on the highway, since <hi rend="underline">Jonathan's</hi> cold:</l><l n="35" xml:id="spp-Y13-06H1-line-35"> For <hi rend="underline">Blueskin's</hi> sharp penknife hath set you at ease;</l><l n="36" xml:id="spp-Y13-06H1-line-36" rend="align(center)"> And ev'ry man round me may rob, if he please.VI.</l></lg><lg n="7" type="stanza"><l n="37" xml:id="spp-Y13-06H1-line-37" rend="flush left">Some by publick revenues, which pass'd through their hands,&#13;</l><l n="38" xml:id="spp-Y13-06H1-line-38"> Have purchas'd clean houses, and bought dirty lands:</l><l n="39" xml:id="spp-Y13-06H1-line-39"> Some to steal from a charity think it no sin,</l><l n="40" xml:id="spp-Y13-06H1-line-40"> Which at home (says the proverb) does always begin.But, if ever you beAssign'd a trustee,</l><l n="41" xml:id="spp-Y13-06H1-line-41"> Treat not orphans like masters of the chancery;</l><l n="42" xml:id="spp-Y13-06H1-line-42"> But take the highway, and more honestly seize;</l><l n="43" xml:id="spp-Y13-06H1-line-43" rend="align(center)"> For ev'ry man round me may rob, if he please.VII.</l></lg><lg n="8" type="stanza"><l n="44" xml:id="spp-Y13-06H1-line-44" rend="flush left">What a pother has here been with <hi rend="underline">Wood</hi> and his brass,</l><l n="45" xml:id="spp-Y13-06H1-line-45"> Who would modestly make a few half-pennies pass!</l><l n="46" xml:id="spp-Y13-06H1-line-46"> The patent is good, and the precedent's old,</l><l n="47" xml:id="spp-Y13-06H1-line-47"> For <hi rend="underline">Diomede</hi> changed his copper for gold:But, if <hi rend="underline">Ireland</hi> despiseThe new half-pennies,</l><l n="48" xml:id="spp-Y13-06H1-line-48"> With more safety to rob on the road I advise:</l><l n="49" xml:id="spp-Y13-06H1-line-49"> For <hi rend="underline">Blueskin's</hi> sharp penknife hath set thee at ease;</l><l n="50" xml:id="spp-Y13-06H1-line-50"> And ev'ry man round me may rob, if he please.Y13-06H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

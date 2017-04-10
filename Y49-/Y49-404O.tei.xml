@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Upon Burnett.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y49-404O" type="poem"><head type="note" n="1" xml:id="spp-Y49-404O-headnote-1"><lg n="1" xml:id="spp-Y49-404O-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-404O-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y49-404O-headnote-2"><lg n="1" xml:id="spp-Y49-404O-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-404O-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y49-404O-headnote-3"><lg n="1" xml:id="spp-Y49-404O-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-404O-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y49-404O-line-1">Here Sarum lyes&#13;of late as wise</l><l n="2" xml:id="spp-Y49-404O-line-2"> And learn'd as Tom Aquinas,</l><l n="3" xml:id="spp-Y49-404O-line-3"> Lawnsleeves He wore</l><l n="4" xml:id="spp-Y49-404O-line-4"> But was no more</l><l n="5" xml:id="spp-Y49-404O-line-5"> A Christian, than Socinus.Oaths Pro, and Con,</l><l n="6" xml:id="spp-Y49-404O-line-6"> He swallow'd down,</l><l n="7" xml:id="spp-Y49-404O-line-7"> Lov'd Gold like any Layman;</l><l n="8" xml:id="spp-Y49-404O-line-8"> Wrote, preach'd &amp; pray'd,</l><l n="9" xml:id="spp-Y49-404O-line-9"> But yet betray'd</l><l n="10" xml:id="spp-Y49-404O-line-10"> The Church of God for Mammon.Of every Vice,He had a Spice,</l><l n="11" xml:id="spp-Y49-404O-line-11"> Altho' a Reverend Prelate,Yet liv'd and dy'd,If not bely'd,A true dissenting Zealot.If such a SoulTo Heaven is Stole,</l><l n="12" xml:id="spp-Y49-404O-line-12"> And scap'd old Satan's Clutches,We'll then presume,There may be Room,</l><l n="13" xml:id="spp-Y49-404O-line-13"> For Marleborough, &amp; his Dutchess.Y49-404O   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

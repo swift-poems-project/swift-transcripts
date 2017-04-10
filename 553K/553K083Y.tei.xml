@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lines of Dean Swifts</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="553K083Y" type="poem"><head type="note" n="1" xml:id="spp-553K083Y-headnote-1"><lg n="1" xml:id="spp-553K083Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-553K083Y-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-553K083Y-headnote-2"><lg n="1" xml:id="spp-553K083Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-553K083Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-553K083Y-headnote-3"><lg n="1" xml:id="spp-553K083Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-553K083Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-553K083Y-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> The time is not remote, when I&#13;</l><l n="2" xml:id="spp-553K083Y-line-2"> Must by the course of nature die;</l><l n="3" xml:id="spp-553K083Y-line-3"> When I foresee my special friends</l><l n="4" xml:id="spp-553K083Y-line-4"> Will try to find their private ends;</l><l n="5" xml:id="spp-553K083Y-line-5"> And tho' 'tis hardly understood,</l><l n="6" xml:id="spp-553K083Y-line-6"> Which way my death can do them good,</l><l n="7" xml:id="spp-553K083Y-line-7"> Yet thus methinks I hear them speak,</l><l n="8" xml:id="spp-553K083Y-line-8"> See how the Dean begins to break.</l><l n="9" xml:id="spp-553K083Y-line-9"> Poor gentleman he droops apace,</l><l n="10" xml:id="spp-553K083Y-line-10"> You plainly find it in his face.</l><l n="11" xml:id="spp-553K083Y-line-11"> That old virtigo in his head</l><l n="12" xml:id="spp-553K083Y-line-12"> Will never leave him till hes dead.</l><l n="13" xml:id="spp-553K083Y-line-13"> Besides his memory decays</l><l n="14" xml:id="spp-553K083Y-line-14"> He recollects not what he says. &amp;c──<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l></lg><lg n="2" type="stanza"><l n="15" xml:id="spp-553K083Y-line-15">Behold the fatal day arrive!&#13;</l><l n="16" xml:id="spp-553K083Y-line-16"> How is the Dean! he·s just alive</l><l n="17" xml:id="spp-553K083Y-line-17"> Now the departing prayer is read,</l><l n="18" xml:id="spp-553K083Y-line-18"> He hardly breaths, the Dean is dead.Before the passing bell began,</l><l n="19" xml:id="spp-553K083Y-line-19"> The news thro half the town had ran,</l><l n="20" xml:id="spp-553K083Y-line-20"> Oh, may we all for death prepare</l><l n="21" xml:id="spp-553K083Y-line-21"> What has he left, and who·s his heir?</l><l n="22" xml:id="spp-553K083Y-line-22"> I know no more than what the news is,</l><l n="23" xml:id="spp-553K083Y-line-23"> 'Tis all bequeathd to public uses;</l><l n="24" xml:id="spp-553K083Y-line-24"> To public uses──theres a whim!</l><l n="25" xml:id="spp-553K083Y-line-25"> What had the public done for him?</l><l n="26" xml:id="spp-553K083Y-line-26"> Mere envy, avarice, &amp; pride,</l><l n="27" xml:id="spp-553K083Y-line-27"> He gave it all──but first he dyd.</l><l n="28" xml:id="spp-553K083Y-line-28"> And had the Dean in all the nation</l><l n="29" xml:id="spp-553K083Y-line-29"> No worthy friend? No near relation?</l><l n="30" xml:id="spp-553K083Y-line-30"> So ready to do strangers good</l><l n="31" xml:id="spp-553K083Y-line-31"> Forgetting his own flesh &amp; blood!<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l></lg><lg n="3" type="stanza"><l n="32" xml:id="spp-553K083Y-line-32">Here shift the scene to represent.&#13;</l><l n="33" xml:id="spp-553K083Y-line-33"> How those I love my death lament.</l><l n="34" xml:id="spp-553K083Y-line-34"> Poor Pope will grieve a month, &amp; Gay</l><l n="35" xml:id="spp-553K083Y-line-35"> A week, &amp; Arbuthnot a day.</l><l n="36" xml:id="spp-553K083Y-line-36"> St. John himself will scarce forbear</l><l n="37" xml:id="spp-553K083Y-line-37"> To bite his pen, &amp; drop a tear.</l><l n="38" xml:id="spp-553K083Y-line-38"> The rest will give a shrug, &amp; cry,</l><l n="39" xml:id="spp-553K083Y-line-39"> Im sorry, but we all must die.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l></lg><lg n="4" type="stanza"><l n="40" xml:id="spp-553K083Y-line-40">My female friends, whose tender hearts&#13;</l><l n="41" xml:id="spp-553K083Y-line-41"> Have better learnd to act their parts,</l><l n="42" xml:id="spp-553K083Y-line-42"> Recieve the news in doleful dumps“The Dean is dead (pray what is trumps?)</l><l n="43" xml:id="spp-553K083Y-line-43"> Then, Lord, have mercy on his soul!</l><l n="44" xml:id="spp-553K083Y-line-44"> (Ladies, Ill venture for the vole)</l><l n="45" xml:id="spp-553K083Y-line-45"> Six Deans they say must bear the pall.</l><l n="46" xml:id="spp-553K083Y-line-46"> (I wish I knew what King to call)</l><l n="47" xml:id="spp-553K083Y-line-47"> Madam, your husband will attend</l><l n="48" xml:id="spp-553K083Y-line-48"> The funral of so good a friend.</l><l n="49" xml:id="spp-553K083Y-line-49"> No, madam, 'tis a shocking sight</l><l n="50" xml:id="spp-553K083Y-line-50"> And hes engagd to·morrow night:</l><l n="51" xml:id="spp-553K083Y-line-51"> My Lady Club will take it ill</l><l n="52" xml:id="spp-553K083Y-line-52"> If he should fail her at quadrill.</l><l n="53" xml:id="spp-553K083Y-line-53"> He lovd the Dean, (I lead a heart)</l><l n="54" xml:id="spp-553K083Y-line-54"> But dearest friends, they say must part.</l><l n="55" xml:id="spp-553K083Y-line-55"> His time was come, he ran his race</l><l n="56" xml:id="spp-553K083Y-line-56"> We hope hes in a better place.”Why do we grieve that friends should die?</l><l n="57" xml:id="spp-553K083Y-line-57"> No loss more easy to supply.</l><l n="58" xml:id="spp-553K083Y-line-58"> One year is past; a different scene!</l><l n="59" xml:id="spp-553K083Y-line-59"> No farther mention of the Dean:</l><l n="60" xml:id="spp-553K083Y-line-60"> Who now, alas! no more is mist,</l><l n="61" xml:id="spp-553K083Y-line-61"> Than if he never did exist.</l><l n="62" xml:id="spp-553K083Y-line-62"> Where·s now the favourite of Apollo?</l><l n="63" xml:id="spp-553K083Y-line-63"> Departed:──“And his works must follow”</l><l n="64" xml:id="spp-553K083Y-line-64"> Must undergo the common fate;</l><l n="65" xml:id="spp-553K083Y-line-65"> His kind of wit is out of date.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>553K083Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

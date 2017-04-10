@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X19A002D" type="poem"><head type="note" n="1" xml:id="spp-X19A002D-headnote-1"><lg n="1" xml:id="spp-X19A002D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X19A002D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X19A002D-headnote-2"><lg n="1" xml:id="spp-X19A002D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X19A002D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X19A002D-headnote-3"><lg n="1" xml:id="spp-X19A002D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X19A002D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X19A002D-line-1"> Poor Tom wilt thou never accept a defiance&#13;</l><l n="2" xml:id="spp-X19A002D-line-2"> Tho' I dare You to more than Quadruple Alliance</l><l n="3" xml:id="spp-X19A002D-line-3"> You're so Retrograde sure Y<hi rend="sup">u</hi> were born under Cancer</l><l n="4" xml:id="spp-X19A002D-line-4"> Must I make my self hoarse w<hi rend="sup">th</hi> demanding an Answer</l><l n="5" xml:id="spp-X19A002D-line-5"> If this be You practice mean scrub I assure You</l><l n="6" xml:id="spp-X19A002D-line-6"> And swear by each Fate; and Y<hi rend="sup">ṛ</hi> New friends each Fury</l><l n="7" xml:id="spp-X19A002D-line-7"> I'll Drive You to Cavan, from Cavan to Dundalk</l><l n="8" xml:id="spp-X19A002D-line-8"> I'll tear all Your Rules, and Demolish Y<hi rend="sup">ṛ</hi> Pun Talk</l><l n="9" xml:id="spp-X19A002D-line-9"> Nay further the Moment You're free from Y<hi rend="sup">r</hi> scalding</l><l n="10" xml:id="spp-X19A002D-line-10"> I'll Chew You to Bullets and puff You att Baldwin.X19A002D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

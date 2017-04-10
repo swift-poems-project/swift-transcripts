@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verses by D<hi rend="sup">r</hi> 08: Swift to M<hi rend="sup">r</hi> Delany Author of the<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="!W26008D" type="poem"><head type="note" n="1" xml:id="spp-!W26008D-headnote-1"><lg n="1" xml:id="spp-!W26008D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-!W26008D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-!W26008D-headnote-2"><lg n="1" xml:id="spp-!W26008D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-!W26008D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-!W26008D-headnote-3"><lg n="1" xml:id="spp-!W26008D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-!W26008D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-!W26008D-line-1"> Your lines may be like what Apollo would write&#13;</l><l n="2" xml:id="spp-!W26008D-line-2"> As Stella's bright eyes may compare with his light</l><l n="3" xml:id="spp-!W26008D-line-3"> Yet who would suppose she borrow'd their fire</l><l n="4" xml:id="spp-!W26008D-line-4"> From Ph<unclear>oe</unclear>bus's rayes, if a star could supply her</l><l n="5" xml:id="spp-!W26008D-line-5"> Or why are you charg'd S<hi rend="sup">r</hi>: with aiming so high</l><l n="6" xml:id="spp-!W26008D-line-6"> And to steal like Prometheus your flames from the Sky</l><l n="7" xml:id="spp-!W26008D-line-7"> When a mortal we know could have lent you with ease</l><l n="8" xml:id="spp-!W26008D-line-8"> Ten thousand bright thoughts full as pritty as these</l><l n="9" xml:id="spp-!W26008D-line-9"> Let Swift to his presence a Bard but admit</l><l n="10" xml:id="spp-!W26008D-line-10"> If he writes, who can't see where he borrow'd his Wit</l><l n="11" xml:id="spp-!W26008D-line-11"> Some may think it celestial, divine too his Strains</l><l n="12" xml:id="spp-!W26008D-line-12"> They may say they're Apollo's, I'd swear they're the Deans!W26008D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An E<hi rend="SMALL-CAPS">LEGY</hi> on <hi rend="underline">Dicky</hi> and</title>
+        <title><hi rend="underline">Dolly, &amp;c</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="430-S831" type="poem"><head type="note" n="1" xml:id="spp-430-S831-headnote-1"><lg n="1" xml:id="spp-430-S831-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-430-S831-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-430-S831-headnote-2"><lg n="1" xml:id="spp-430-S831-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-430-S831-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-430-S831-headnote-3"><lg n="1" xml:id="spp-430-S831-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-430-S831-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-430-S831-line-1"><hi rend="display-initial">U</hi>Nder this Stone, lies <hi rend="underline">Dicky</hi> and <hi rend="underline">Dolly</hi>,<hi rend="underline">Doll</hi> dying first, <hi rend="underline">Dick</hi> grew Melancholly,</l><l n="2" xml:id="spp-430-S831-line-2"> For <hi rend="underline">Dick</hi> without <hi rend="underline">Doll</hi> thought Living a Folly.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-430-S831-line-3"><hi rend="underline">Dick</hi> lost in <hi rend="underline">Doll, a</hi> Wife Tender and Dear,</l><l n="4" xml:id="spp-430-S831-line-4"> But <hi rend="underline">Dick</hi> lost by <hi rend="underline">Doll</hi>, twelve hundred a Year,</l><l n="5" xml:id="spp-430-S831-line-5"> A Loss that <hi rend="underline">Dick</hi> thought, no Mortal cou'd bear.</l></lg><lg n="3" type="stanza"><l n="6" xml:id="spp-430-S831-line-6"><hi rend="underline">Dick</hi> Sigh'd for his <hi rend="underline">Doll</hi> and his mournfull Arms Cross'd,</l><l n="7" xml:id="spp-430-S831-line-7"> Thought much of his <hi rend="underline">Doll</hi>, and the Jointure he lost,</l><l n="8" xml:id="spp-430-S831-line-8"> The first vex'd him much, but the other vex'd most.</l></lg><lg n="4" type="stanza"><l n="9" xml:id="spp-430-S831-line-9">Thus loaded with Grief, <hi rend="underline">Dick</hi> Sigh'd and he cry'd,</l><l n="10" xml:id="spp-430-S831-line-10"> To live without both full three Months he try'd,</l><l n="11" xml:id="spp-430-S831-line-11"> But lik'd neither loss and so quietly dy'd.</l></lg><lg n="5" type="stanza"><l n="12" xml:id="spp-430-S831-line-12">One Bed while alive held both <hi rend="underline">Doll</hi> and <hi rend="underline">Dick</hi></l><l n="13" xml:id="spp-430-S831-line-13"> One Coach oft' carried them when they were quick,</l><l n="14" xml:id="spp-430-S831-line-14"> One Grave now contains them both <hi rend="underline">H<unclear>ae</unclear>c et Hic</hi>.</l></lg><lg n="6" type="stanza"><l n="15" xml:id="spp-430-S831-line-15"><hi rend="underline">Dick</hi> left a Pattern few will copy after,</l><l n="16" xml:id="spp-430-S831-line-16"> Then Reader pray shed some tears of Salt Water,</l><l n="17" xml:id="spp-430-S831-line-17"> For so sad a Tale is no Subject of Laughter.</l></lg><lg n="7" type="stanza"><l n="18" xml:id="spp-430-S831-line-18"><hi rend="underline">M</hi>------ Smiles for the Joynture, though gotten, so late,</l><l n="19" xml:id="spp-430-S831-line-19"> The Son laughs that got, the hard gotten Estate,</l><l n="20" xml:id="spp-430-S831-line-20"> And <hi rend="underline">C</hi>---- grins for getting, the <hi rend="underline">Alicant</hi> Plate.</l></lg><lg n="8" type="stanza"><l n="21" xml:id="spp-430-S831-line-21">Here quiet they Lie, in hopes to rise one Day,&#13;</l><l n="22" xml:id="spp-430-S831-line-22"> Both Solemnly put, in this hole on a <hi rend="underline">Sunday</hi>,</l><l n="23" xml:id="spp-430-S831-line-23"> And here rest, <hi rend="underline">Sic transit Gloria Mundi</hi>.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

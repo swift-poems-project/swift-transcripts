@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">The Description of an </hi>Irish<hi rend="underline"> Feast, trans-</hi></title>
+        <title>
+          <hi rend="underline">lated almost literally out of the original</hi>
+          <lb/>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-244-05M2-footnote-1 #spp-244-05M2-line-11"/>
+          <link target="#spp-244-05M2-footnote-2 #spp-244-05M2-line-21"/>
+          <link target="#spp-244-05M2-footnote-3 #spp-244-05M2-line-45"/>
+          <link target="#spp-244-05M2-footnote-4 #spp-244-05M2-line-53"/>
+          <link target="#spp-244-05M2-footnote-5 #spp-244-05M2-line-61"/>
+        </linkGrp>
+        <div n="244-05M2" type="poem"><head type="note" n="1" xml:id="spp-244-05M2-headnote-1"><lg n="1" xml:id="spp-244-05M2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-244-05M2-headnote-1-line-group-1-line-1">Translated in the Year 1720.</l></lg></head><head type="note" n="2" xml:id="spp-244-05M2-headnote-2"><lg n="1" xml:id="spp-244-05M2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-244-05M2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-244-05M2-headnote-3"><lg n="1" xml:id="spp-244-05M2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-244-05M2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-244-05M2-line-1"><hi rend="display-initial">O</hi><hi rend="underline">ROURK</hi>'s noble Fare</l><l n="2" xml:id="spp-244-05M2-line-2"> Will ne'er be forgot,</l><l n="3" xml:id="spp-244-05M2-line-3"> By those who were there,</l><l n="4" xml:id="spp-244-05M2-line-4"> Or those who were not.</l><l n="5" xml:id="spp-244-05M2-line-5"> His Revels to keep,</l><l n="6" xml:id="spp-244-05M2-line-6"> We sup and we dine</l><l n="7" xml:id="spp-244-05M2-line-7"> On seven Score Sheep,</l><l n="8" xml:id="spp-244-05M2-line-8"> Fat Bullocks and Swine.<hi rend="underline">Usquebaugh</hi> to our Feast</l><l n="9" xml:id="spp-244-05M2-line-9"> In Pails was brought up,</l><l n="10" xml:id="spp-244-05M2-line-10"> An hundred at least,</l><l n="11" xml:id="spp-244-05M2-line-11"> And a <ref target="#spp-244-05M2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-244-05M2-footnote-1">Wooden Vessel.</note> Madder our Cup.</l><l n="12" xml:id="spp-244-05M2-line-12"> O there is the Sport!</l><l n="13" xml:id="spp-244-05M2-line-13"> We rise with the Light,</l><l n="14" xml:id="spp-244-05M2-line-14"> In disorderly Sort,</l><l n="15" xml:id="spp-244-05M2-line-15"> From snoring all Night.</l><l n="16" xml:id="spp-244-05M2-line-16"> O how was I trick'd!</l><l n="17" xml:id="spp-244-05M2-line-17"> My Pipe it was broke,</l><l n="18" xml:id="spp-244-05M2-line-18"> My Pocket was pick'd,</l><l n="19" xml:id="spp-244-05M2-line-19"> I lost my new Cloak.</l><l n="20" xml:id="spp-244-05M2-line-20"> I'm rifled, quoth <hi rend="underline">Nell</hi>,</l><l n="21" xml:id="spp-244-05M2-line-21"> Of Mantle and <ref target="#spp-244-05M2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-244-05M2-footnote-2">Handkerchief</note> Kercher:</l><l n="22" xml:id="spp-244-05M2-line-22"> Why then fare them well,</l><l n="23" xml:id="spp-244-05M2-line-23"> The De'el take the Searcher.</l><l n="24" xml:id="spp-244-05M2-line-24"> Come, Harper, strike up,</l><l n="25" xml:id="spp-244-05M2-line-25"> But, first, by your Favour,</l><l n="26" xml:id="spp-244-05M2-line-26"> Boy, give us a Cup:</l><l n="27" xml:id="spp-244-05M2-line-27"> Ah! this has some Savour.</l><l n="28" xml:id="spp-244-05M2-line-28"> O <hi rend="underline">Rourk</hi>'s jolly Boys</l><l n="29" xml:id="spp-244-05M2-line-29"> Ne'er dreamt of the Matter,</l><l n="30" xml:id="spp-244-05M2-line-30"> Till rous'd by the Noise,</l><l n="31" xml:id="spp-244-05M2-line-31"> And musical Clatter,</l><l n="32" xml:id="spp-244-05M2-line-32"> They bounce from their Nest,</l><l n="33" xml:id="spp-244-05M2-line-33"> No longer will tarry,</l><l n="34" xml:id="spp-244-05M2-line-34"> They rise ready drest,</l><l n="35" xml:id="spp-244-05M2-line-35"> Without one <hi rend="underline">Ave Mary</hi>.</l><l n="36" xml:id="spp-244-05M2-line-36"> They dance in a Round,</l><l n="37" xml:id="spp-244-05M2-line-37"> Cutting Capers and Ramping;</l><l n="38" xml:id="spp-244-05M2-line-38"> A Mercy the Ground</l><l n="39" xml:id="spp-244-05M2-line-39"> Did not burst with their stamping.</l><l n="40" xml:id="spp-244-05M2-line-40"> The Floor is all wet</l><l n="41" xml:id="spp-244-05M2-line-41"> With Leaps and with Jumps,</l><l n="42" xml:id="spp-244-05M2-line-42"> While the Water and Sweat,</l><l n="43" xml:id="spp-244-05M2-line-43"> Splish splash in their Pumps.</l><l n="44" xml:id="spp-244-05M2-line-44"> Bless you late and early,<hi rend="underline">Laughlin O Enagin</hi>.</l><l n="45" xml:id="spp-244-05M2-line-45"> By my Hand, you dance rarely,<ref target="#spp-244-05M2-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-244-05M2-footnote-3">The Name of an <hi rend="underline">Irish</hi> Woman.</note><hi rend="underline">Margery Grinagin</hi>.</l><l n="46" xml:id="spp-244-05M2-line-46"> Bring Straw for our Bed,</l><l n="47" xml:id="spp-244-05M2-line-47"> Shake it down to the Feet,</l><l n="48" xml:id="spp-244-05M2-line-48"> Then over us spread,</l><l n="49" xml:id="spp-244-05M2-line-49"> The winnowing Sheet.</l><l n="50" xml:id="spp-244-05M2-line-50"> To show I don't flinch,</l><l n="51" xml:id="spp-244-05M2-line-51"> Fill the Bowl up again,</l><l n="52" xml:id="spp-244-05M2-line-52"> Then give as a Pinch</l><l n="53" xml:id="spp-244-05M2-line-53"> Of your Sneezing, <ref target="#spp-244-05M2-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-244-05M2-footnote-4">An <hi rend="underline">Irish</hi> Word for a Woman.</note><hi rend="underline">a Yean</hi>.</l><l n="54" xml:id="spp-244-05M2-line-54"> Good Lord, what a Sight,</l><l n="55" xml:id="spp-244-05M2-line-55"> After all their good Cheer,</l><l n="56" xml:id="spp-244-05M2-line-56"> For People to fight</l><l n="57" xml:id="spp-244-05M2-line-57"> In the midst of their Beer?</l><l n="58" xml:id="spp-244-05M2-line-58"> They rise from their Feast,</l><l n="59" xml:id="spp-244-05M2-line-59"> And hot are their Brains,</l><l n="60" xml:id="spp-244-05M2-line-60"> A Cubit at least</l><l n="61" xml:id="spp-244-05M2-line-61"> The Length of their <ref target="#spp-244-05M2-footnote-5">5</ref><note place="foot" n="5" xml:id="spp-244-05M2-footnote-5">Daggers, or short Swords.</note> Skeans.</l><l n="62" xml:id="spp-244-05M2-line-62"> What Stabs and what Cuts,</l><l n="63" xml:id="spp-244-05M2-line-63"> What clatt'ring of Sticks;</l><l n="64" xml:id="spp-244-05M2-line-64"> What Strokes on the Guts,</l><l n="65" xml:id="spp-244-05M2-line-65"> What Bastings and Kicks!</l><l n="66" xml:id="spp-244-05M2-line-66"> With Cudgels of Oak,</l><l n="67" xml:id="spp-244-05M2-line-67"> Well harden'd in Flame,</l><l n="68" xml:id="spp-244-05M2-line-68"> An hundred Heads broke,</l><l n="69" xml:id="spp-244-05M2-line-69"> An hundred struck lame,</l><l n="70" xml:id="spp-244-05M2-line-70"> You Churl, I'll maintain</l><l n="71" xml:id="spp-244-05M2-line-71"> My Father built <hi rend="underline">Lusk</hi>,</l><l n="72" xml:id="spp-244-05M2-line-72"> The Castle of <hi rend="underline">Slain</hi>,</l><l n="73" xml:id="spp-244-05M2-line-73"> And <hi rend="underline">Carrick Drumrusk</hi>:</l><l n="74" xml:id="spp-244-05M2-line-74"> The Earl of <hi rend="underline">Kildare</hi></l><l n="75" xml:id="spp-244-05M2-line-75"> And <hi rend="underline">Moynalta</hi>, his Brother,</l><l n="76" xml:id="spp-244-05M2-line-76"> As great as they are,</l><l n="77" xml:id="spp-244-05M2-line-77"> I was nurst by their Mother.</l><l n="78" xml:id="spp-244-05M2-line-78"> Ask that of old <hi rend="underline">Madam</hi>,</l><l n="79" xml:id="spp-244-05M2-line-79"> She'll tell you who's who,</l><l n="80" xml:id="spp-244-05M2-line-80"> As far up as <hi rend="underline">Adam</hi>,</l><l n="81" xml:id="spp-244-05M2-line-81"> She knows it is true.</l><l n="82" xml:id="spp-244-05M2-line-82"> Come down with that Beam,</l><l n="83" xml:id="spp-244-05M2-line-83"> If Cudgels are Scarce,</l><l n="84" xml:id="spp-244-05M2-line-84"> A Blow on the Weam,</l><l n="85" xml:id="spp-244-05M2-line-85"> Or a Kick on the A──se.244-05M2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

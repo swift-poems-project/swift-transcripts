@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">PROMETHEUS</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="344-25MB" type="poem"><head type="note" n="1" xml:id="spp-344-25MB-headnote-1"><lg n="1" xml:id="spp-344-25MB-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-344-25MB-headnote-1-line-group-1-line-1">The following Copy of Verses came from <hi rend="underline">Ireland</hi>, and it having received the Approbation of the Ingenious of that Nation, we think it may not be disagreeable to the Taste of our <hi rend="underline">English</hi> Readers.</l></lg></head><head type="note" n="2" xml:id="spp-344-25MB-headnote-2"><lg n="1" xml:id="spp-344-25MB-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-344-25MB-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-344-25MB-headnote-3"><lg n="1" xml:id="spp-344-25MB-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-344-25MB-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-344-25MB-line-1"><hi rend="display-initial">W</hi>HEN first the 'Squire, and Tinker W────,</l><l n="2" xml:id="spp-344-25MB-line-2"> Gravely consulting <hi rend="underline">Ireland</hi>'s good,</l><l n="3" xml:id="spp-344-25MB-line-3"> Together mingled in a Mass,</l><l n="4" xml:id="spp-344-25MB-line-4"> Smith's Dust, with Copper, Lead and Brass:</l><l n="5" xml:id="spp-344-25MB-line-5"> The Mixture, thus by chymick Art,</l><l n="6" xml:id="spp-344-25MB-line-6"> United close in ev'ry Part,</l><l n="7" xml:id="spp-344-25MB-line-7"> In Fillets roll'd, or cut in Pieces,</l><l n="8" xml:id="spp-344-25MB-line-8"> Appear'd like one continued Species;</l><l n="9" xml:id="spp-344-25MB-line-9"> And by the framing Engine struck,</l><l n="10" xml:id="spp-344-25MB-line-10"> On all the same Impression took:</l><l n="11" xml:id="spp-344-25MB-line-11"> So to confound this hated Coin,</l><l n="12" xml:id="spp-344-25MB-line-12"> All Parties and Religions join;</l><l n="13" xml:id="spp-344-25MB-line-13"> Whigs, Tories, Trimmers, H──────ans,</l><l n="14" xml:id="spp-344-25MB-line-14"> Quakers, Conformists, Presbyterians,<hi rend="underline">Scotch, Irish, English, French</hi>, unite,</l><l n="15" xml:id="spp-344-25MB-line-15"> With equal Int'rest, equal Spite,</l><l n="16" xml:id="spp-344-25MB-line-16"> Together mingled in a Lump,</l><l n="17" xml:id="spp-344-25MB-line-17"> Do all in one Opinion jump;</l><l n="18" xml:id="spp-344-25MB-line-18"> And every one begins to find</l><l n="19" xml:id="spp-344-25MB-line-19"> The same Impression on his Mind.</l><l n="20" xml:id="spp-344-25MB-line-20"> A strange Event! whom Gold invites</l><l n="21" xml:id="spp-344-25MB-line-21"> To War and Bloodshed, Brass unites.</l><l n="22" xml:id="spp-344-25MB-line-22"> So Goldsmiths say, the coarsest Stuff</l><l n="23" xml:id="spp-344-25MB-line-23"> Will serve for Sodder well enough;</l><l n="24" xml:id="spp-344-25MB-line-24"> So by the Kettle's loud Alarm</l><l n="25" xml:id="spp-344-25MB-line-25"> The Bees are gather'd to a Storm;</l><l n="26" xml:id="spp-344-25MB-line-26"> So by the Brazen Trumpets bluster,</l><l n="27" xml:id="spp-344-25MB-line-27"> Troops of all Tongues and Nations muster,</l><l n="28" xml:id="spp-344-25MB-line-28"> And so the Harp of <hi rend="underline">Ireland</hi> brings</l><l n="29" xml:id="spp-344-25MB-line-29"> Whole Crowds about its brazen Strings.There is a Chain let down from <hi rend="underline">Jove</hi>,</l><l n="30" xml:id="spp-344-25MB-line-30"> But fastened to his Throne above;</l><l n="31" xml:id="spp-344-25MB-line-31"> So strong, that from the lower End,</l><l n="32" xml:id="spp-344-25MB-line-32"> (They say) all human Things depend.</l><l n="33" xml:id="spp-344-25MB-line-33"> This Chain (as ancient Poets hold)</l><l n="34" xml:id="spp-344-25MB-line-34"> When <hi rend="underline">Jove</hi> was young, was made of Gold.<hi rend="underline">Prometheus</hi> once this Chain purloyn'd,</l><l n="35" xml:id="spp-344-25MB-line-35"> Dissolv'd, and into Money coin'd,</l><l n="36" xml:id="spp-344-25MB-line-36"> Then whips me on a Chain of Brass,</l><l n="37" xml:id="spp-344-25MB-line-37"> (<hi rend="underline">Venus was brib'd to let it pass</hi>)</l><l n="38" xml:id="spp-344-25MB-line-38"> Now, while this Brazen Chain prevail'd,<hi rend="underline">Jove</hi> saw that all Devotion fail'd;</l><l n="39" xml:id="spp-344-25MB-line-39"> No Temple to his Godship raised,</l><l n="40" xml:id="spp-344-25MB-line-40"> No Sacrifice on Altars blaz'd;</l><l n="41" xml:id="spp-344-25MB-line-41"> In short, such dire Confusion follow'd,</l><l n="42" xml:id="spp-344-25MB-line-42"> Earth must have been in <hi rend="underline">Chaos</hi> swallow'd.<hi rend="underline">Jove</hi> stood amaz'd, and looking round,</l><l n="43" xml:id="spp-344-25MB-line-43"> With much ado the Cheat he found;</l><l n="44" xml:id="spp-344-25MB-line-44"> 'Twas plain, he could no longer hold,</l><l n="45" xml:id="spp-344-25MB-line-45"> The World in any Chain, but Gold.</l><l n="46" xml:id="spp-344-25MB-line-46"> And to the God of Wealth, his Brother,</l><l n="47" xml:id="spp-344-25MB-line-47"> Sent <hi rend="underline">Mercury</hi> to get another.<hi rend="underline">Prometheus</hi> on a Rack is laid,</l><l n="48" xml:id="spp-344-25MB-line-48"> Ty'd with the Chain himself had made;</l><l n="49" xml:id="spp-344-25MB-line-49"> On Icy Caucasus to shiver,</l><l n="50" xml:id="spp-344-25MB-line-50"> Whilst Vultures eat his growing Liver.</l><l n="51" xml:id="spp-344-25MB-line-51"> Ye Pow'rs of <hi rend="underline">Grub-street</hi>, make me able</l><l n="52" xml:id="spp-344-25MB-line-52"> Discreetly to apply this Fable.</l><l n="53" xml:id="spp-344-25MB-line-53"> Say,──Who's to be understood</l><l n="54" xml:id="spp-344-25MB-line-54"> By that old Thief <hi rend="underline">Prometheus</hi>?──────W────.</l><l n="55" xml:id="spp-344-25MB-line-55"> For <hi rend="underline">Jove</hi>, it is not hard to guess him,</l><l n="56" xml:id="spp-344-25MB-line-56"> I mean his Maj──God bless him.</l><l n="57" xml:id="spp-344-25MB-line-57"> This Thief, the Blacksmith, was so bold,</l><l n="58" xml:id="spp-344-25MB-line-58"> He strove to steal that Chain of Gold,</l><l n="59" xml:id="spp-344-25MB-line-59"> Which links the Subject to the King,</l><l n="60" xml:id="spp-344-25MB-line-60"> And change it for a brazen String.</l><l n="61" xml:id="spp-344-25MB-line-61"> But sure, if nothing else must pass,</l><l n="62" xml:id="spp-344-25MB-line-62"> Between the K──, and us, but Brass:</l><l n="63" xml:id="spp-344-25MB-line-63"> Altho' the Chain will never crack,</l><l n="64" xml:id="spp-344-25MB-line-64"> Yet our Devotion may grow slack.But <hi rend="underline">Jove</hi> will soon convert, I hope,</l><l n="65" xml:id="spp-344-25MB-line-65"> This Brazen Chain into a Rope,</l><l n="66" xml:id="spp-344-25MB-line-66"> With which <hi rend="underline">Prometheus</hi> shall be ty'd,</l><l n="67" xml:id="spp-344-25MB-line-67"> And high in Air for ever ride:</l><l n="68" xml:id="spp-344-25MB-line-68"> Where, if we find his Liver grows,</l><l n="69" xml:id="spp-344-25MB-line-69"> Instead of Vultures, we have Crows.344-25MB   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE<lb/>Reverend Dr. <hi rend="underline">SH──────N</hi><lb/>TO<lb/>J. S. D. D. D. S. P. D.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-971-0601-footnote-1 #spp-971-0601-line-14"/>
+        </linkGrp>
+        <div n="971-0601"><head type="note" n="1" xml:id="spp-971-0601-headnote-1"><lg n="1" xml:id="spp-971-0601-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-971-0601-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-971-0601-headnote-2"><lg n="1" xml:id="spp-971-0601-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-971-0601-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-971-0601-headnote-3"><lg n="1" xml:id="spp-971-0601-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-971-0601-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-971-0601-line-1"><hi rend="display-initial">D</hi>EAR Dean, since in <hi rend="underline">Cruxes</hi> and <hi rend="underline">Puns</hi> you and I deal,</l><l/><l n="2" xml:id="spp-971-0601-line-2">Pray why is a Woman a Sieve and a Riddle?</l><l/><l n="3" xml:id="spp-971-0601-line-3">'Tis a Thought that came into my Noddle this Morning,</l><l/><l n="4" xml:id="spp-971-0601-line-4">In Bed as I lay, Sir, a tossing and turning.</l><l/><l n="5" xml:id="spp-971-0601-line-5">You'll find, if you read but a few of your Histories,</l><l/><l n="6" xml:id="spp-971-0601-line-6">All Women, as <hi rend="underline">Eve</hi>, all Women are Mysteries.</l><l/><l n="7" xml:id="spp-971-0601-line-7">To find out this Riddle, I know you'll be eager,</l><l/><l n="8" xml:id="spp-971-0601-line-8">And make every one of the Sex a <hi rend="underline">Bell-phagor</hi>.</l><l/><l n="9" xml:id="spp-971-0601-line-9">But that will not do, for I mean to come-mend 'em,</l><l/><l n="10" xml:id="spp-971-0601-line-10">I swear without Jest, I an Honour intend 'em.</l><l/><l n="11" xml:id="spp-971-0601-line-11">In a Sieve, Sir, their ancient Extraction I quite tell,</l><l/><l n="12" xml:id="spp-971-0601-line-12">In a Riddle I give you their Power and their Title.</l><l/><l n="13" xml:id="spp-971-0601-line-13">This I told you before, do you know what I mean, Sir?</l><l/><l n="14" xml:id="spp-971-0601-line-14"><ref target="#spp-971-0601-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-971-0601-footnote-1"><hi rend="underline">The Dean's Answer</hi>.</note><hi rend="underline">Not I, by my Troth, Sir</hi>.--- Then read it again, Sir.</l><l/><l n="15" xml:id="spp-971-0601-line-15"><gap/></l><l/><l n="16" xml:id="spp-971-0601-line-16"><gap/></l><l/><l n="17" xml:id="spp-971-0601-line-17">The Reason I send you these Lines of Rhymes double,</l><l/><l n="18" xml:id="spp-971-0601-line-18">Is purely through pity, to save you the Trouble</l><l/><l n="19" xml:id="spp-971-0601-line-19">Of thinking two Hours for a Rhyme, as you did last;</l><l/><l n="20" xml:id="spp-971-0601-line-20">When your <hi rend="underline">Pegasus</hi> canter'd in triple, and rid fast.</l><l/><l n="21" xml:id="spp-971-0601-line-21"/></lg><lg n="2" type="stanza"><l>As for my little Nag, which I keep at <hi rend="underline">Parnassus</hi></l><l/><l n="22" xml:id="spp-971-0601-line-22">With <hi rend="underline">Ph<unclear>oe</unclear>bus</hi>'s Leave, to run with his Asses.</l><l/><l n="23" xml:id="spp-971-0601-line-23">He goes slow and sure, and he never is jaded,</l><l/><l n="24" xml:id="spp-971-0601-line-24">While your fiery Steed is whipp'd, spurr'd, bastinaded.</l><l/><l n="25" xml:id="spp-971-0601-line-25"><gap/></l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>GEORGE ROCHFORT'S VERSES,</title>
+        <title>FOR THE REV. DR SWIFT, DEAN OF ST PATRICK'S, AT LARACON,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="966-15W2" type="poem"><head type="note" n="1" xml:id="spp-966-15W2-headnote-1"><lg n="1" xml:id="spp-966-15W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-966-15W2-headnote-1-line-group-1-line-1">MUSA CLONSHOGHIANA.</l></lg></head><head type="note" n="2" xml:id="spp-966-15W2-headnote-2"><lg n="1" xml:id="spp-966-15W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-966-15W2-headnote-2-line-group-1-line-1">T<hi rend="SMALL-CAPS">HIS</hi> addition to the familiar poetry, which occupied so much of Dean Swift's leisure, is made from Mr Smith's papers.</l></lg></head><head type="note" n="3" xml:id="spp-966-15W2-headnote-3"><lg n="1" xml:id="spp-966-15W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-966-15W2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-966-15W2-line-1">T<hi rend="SMALL-CAPS">HAT</hi> Downpatrick's Dean, or Patrick's down went,</l><l n="2" xml:id="spp-966-15W2-line-2"> Like two arrand Deans, two Deans errant I meant;</l><l n="3" xml:id="spp-966-15W2-line-3"> So that Christmas appears at Bellcampe like a Lent,</l><l n="4" xml:id="spp-966-15W2-line-4"> Gives the gamesters of both houses great discontent.Our parsons agree here, as those did at Trent,</l><l n="5" xml:id="spp-966-15W2-line-5"> Dan's forehead has got a most damnable dent,</l><l n="6" xml:id="spp-966-15W2-line-6"> Besides a large hole in his Michaelmas rent.But your fancy on rhyming so cursedly bent,</l><l n="7" xml:id="spp-966-15W2-line-7"> With your bloody ouns in one stanza pent;</l><l n="8" xml:id="spp-966-15W2-line-8"> Does Jack's utter ruin at picket prevent,</l><l n="9" xml:id="spp-966-15W2-line-9"> For an answer in specie to yours must be sent;</l><l n="10" xml:id="spp-966-15W2-line-10"> So this moment at crambo (not shuffling) is spent,</l><l n="11" xml:id="spp-966-15W2-line-11"> And I lose by this crotchet quaterze, point, and quint,</l><l n="12" xml:id="spp-966-15W2-line-12"> Which you know to a gamester is great bitterment;</l><l n="13" xml:id="spp-966-15W2-line-13"> But whisk shall revenge me on you, Batt, and Brent.Bellcampe, January 1, 1717.966-15W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

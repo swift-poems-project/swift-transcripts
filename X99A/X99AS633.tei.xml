@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">The SPEECH of the P──────t of T──────y C──────ge, to His</hi>
+        </title>
+        <title><hi rend="underline">Royal Highness GEORGE Prince of WALES</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X99AS633" type="poem"><head type="note" n="1" xml:id="spp-X99AS633-headnote-1"><lg n="1" xml:id="spp-X99AS633-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X99AS633-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X99AS633-headnote-2"><lg n="1" xml:id="spp-X99AS633-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X99AS633-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X99AS633-headnote-3"><lg n="1" xml:id="spp-X99AS633-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X99AS633-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X99AS633-line-1" rend="align(center)">I.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-X99AS633-line-2" rend="flush left"><hi rend="display-initial">I</hi>Llustrious Prince we'r come before you,</l><l n="3" xml:id="spp-X99AS633-line-3"> Who more than in our <hi rend="underline">Founder</hi>'s Glory,To be by You protected;</l><l n="4" xml:id="spp-X99AS633-line-4"> Deign to descend and give us Laws,</l><l n="5" xml:id="spp-X99AS633-line-5" rend="align(center)"> For we are Converts to Your Cause,From this Day well Affected.II.</l></lg><lg n="3" type="stanza"><l n="6" xml:id="spp-X99AS633-line-6" rend="flush left">The Noble View of Your High Merits,&#13;</l><l n="7" xml:id="spp-X99AS633-line-7"> Has charm'd our Thoughts and fir'd our Spirits,With Zeal so Warm and Hearty;</l><l n="8" xml:id="spp-X99AS633-line-8"> That we resolve to be Devoted,</l><l n="9" xml:id="spp-X99AS633-line-9" rend="align(center)"> At least until we be Promoted,To Your just Power and Party.III.</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-X99AS633-line-10" rend="flush left">Urg'd by a Passionate Desire,&#13;</l><l n="11" xml:id="spp-X99AS633-line-11"> Of being rais'd a little Higher,From a Lazy Cloister'd Life,</l><l n="12" xml:id="spp-X99AS633-line-12"> We cannot Flatter Him nor Fawn,</l><l n="13" xml:id="spp-X99AS633-line-13" rend="align(center)"> But fain would honour'd be with <hi rend="underline">Lawn</hi>,And settled by a W<hi rend="SMALL-CAPS">IFE</hi>.IV.</l></lg><lg n="5" type="stanza"><l n="14" xml:id="spp-X99AS633-line-14" rend="flush left">For this we have before Resorted,&#13;</l><l n="15" xml:id="spp-X99AS633-line-15"> Paid Levees punctually, and CourtedOur Charge at Home long quitting,</l><l n="16" xml:id="spp-X99AS633-line-16"> But now we'er come just in a <hi rend="underline">Nick</hi>,</l><l n="17" xml:id="spp-X99AS633-line-17" rend="align(center)"> Upon a Vacant <hi rend="underline">Bishoprick</hi>,This Bait can't fail of hitting.V.</l></lg><lg n="6" type="stanza"><l n="18" xml:id="spp-X99AS633-line-18" rend="flush left">Thus, <hi rend="underline">Sir</hi>, You see how much Affection,</l><l n="19" xml:id="spp-X99AS633-line-19"> Not Interest Sways in this Election,But sense of Loyal Duty;</l><l n="20" xml:id="spp-X99AS633-line-20"> For You surpass all Princes far,</l><l n="21" xml:id="spp-X99AS633-line-21" rend="align(center)"> As <hi rend="underline">Glow-Worms</hi> do exceed a <hi rend="underline">Star</hi>,In Goodness Wit and Beauty.VI.</l></lg><lg n="7" type="stanza"><l n="22" xml:id="spp-X99AS633-line-22" rend="flush left">To Us our <hi rend="underline">Irish</hi> Commons owe,</l><l n="23" xml:id="spp-X99AS633-line-23"> That Wisdom which their Actions show,Their Principles from ours springs;</l><l n="24" xml:id="spp-X99AS633-line-24"> Taught e'er the Deel himself could Dream on't,</l><l n="25" xml:id="spp-X99AS633-line-25" rend="align(center)"> That of their Illustrious House a stem on't,Should rise the Best of Kings.VII.</l></lg><lg n="8" type="stanza"><l n="26" xml:id="spp-X99AS633-line-26" rend="flush left">The glad presages with our Eyes,&#13;</l><l n="27" xml:id="spp-X99AS633-line-27"> Behold a KING, Chaste, Valiant, Wise,In Forreign Fields Victorious,</l><l n="28" xml:id="spp-X99AS633-line-28"> Who in His Youth the <hi rend="underline">Turks</hi> Attacks,</l><l n="29" xml:id="spp-X99AS633-line-29" rend="align(center)"> And made them still to turn their Backs,Was ever King so Glorious?VIII.</l></lg><lg n="9" type="stanza"><l n="30" xml:id="spp-X99AS633-line-30" rend="flush left">Since <hi rend="underline">Ormond</hi>'s like a Traytor gone,</l><l n="31" xml:id="spp-X99AS633-line-31"> We scorn to do what some have done,For Learning much more Famous;</l><l n="32" xml:id="spp-X99AS633-line-32"> Fools may pursue their Adverse Fate,</l><l n="33" xml:id="spp-X99AS633-line-33" rend="align(center)"> And stick to the Unfortunate,We Laugh while they Condemn us.IX.</l></lg><lg n="10" type="stanza"><l n="34" xml:id="spp-X99AS633-line-34" rend="flush left">For being of that gen'rous Mind,&#13;</l><l n="35" xml:id="spp-X99AS633-line-35"> To Success we are still inclin'd,And quit the suffering Side:</l><l n="36" xml:id="spp-X99AS633-line-36"> If on our Friends cross Planets Frown,</l><l n="37" xml:id="spp-X99AS633-line-37" rend="align(center)"> We joyn the Cry and Hunt them down,And Saile with Wind and Tide.X.</l></lg><lg n="11" type="stanza"><l n="38" xml:id="spp-X99AS633-line-38" rend="flush left">Hence 'twas this Choice we long Delay'd,&#13;</l><l n="39" xml:id="spp-X99AS633-line-39"> Till our rash Foes the Rebells Fled,Whilst Fortune held the Scale;</l><l n="40" xml:id="spp-X99AS633-line-40"> But since their driven like Mist before You,</l><l n="41" xml:id="spp-X99AS633-line-41" rend="align(center)"> Or rising Sun we now Adore You,Because You now Prevail.XI.</l></lg><lg n="12" type="stanza"><l n="42" xml:id="spp-X99AS633-line-42" rend="flush left">Descend then from Your lofty Seat,&#13;</l><l n="43" xml:id="spp-X99AS633-line-43"> Behold th' attending <hi rend="underline">Muses</hi> wait,With us to Sing Your Praises;<hi rend="underline">Calliope</hi> now Strings up her Lyre,</l><l n="44" xml:id="spp-X99AS633-line-44" rend="align(center)"> And <hi rend="underline">Cloe, Ph<unclear>ae</unclear>bus</hi>, does inspire,The Theam their Fancy raises.XII.</l></lg><lg n="13" type="stanza"><l n="45" xml:id="spp-X99AS633-line-45" rend="flush left">If then our <hi rend="underline">Nursery</hi> You will Nourish,</l><l n="46" xml:id="spp-X99AS633-line-46"> We and our <hi rend="underline">Muses</hi> too will Flourish,Encourag'd by Your Favour;</l><l n="47" xml:id="spp-X99AS633-line-47"> We'll Doctrines Teach the Times to serve,</l><l n="48" xml:id="spp-X99AS633-line-48" rend="align(center)"> And more <hi rend="underline">Five Thousand Pounds</hi>, deserve,<hi rend="underline">By future Good Behaviour</hi>.XIII.</l></lg><lg n="14" type="stanza"><l n="49" xml:id="spp-X99AS633-line-49" rend="flush left">Now take our <hi rend="underline">Harp</hi> into Your Hand,</l><l n="50" xml:id="spp-X99AS633-line-50"> The joyful Strings at Your Command,In doleful Sounds no more shall Mourn:</l><l n="51" xml:id="spp-X99AS633-line-51"> We with sincerity of Heart,</l><l n="52" xml:id="spp-X99AS633-line-52" rend="align(center)"> To all Your Tunes shall bear a part,Unless we see the Tables turn.XIV.</l></lg><lg n="15" type="stanza"><l n="53" xml:id="spp-X99AS633-line-53" rend="flush left">If so, <hi rend="underline">Great Sir</hi>, You will Excuse us,</l><l n="54" xml:id="spp-X99AS633-line-54"> For we and our attending <hi rend="underline">Muses</hi>May live to change our Strain,</l><l n="55" xml:id="spp-X99AS633-line-55"> And turn with merry Hearts our Tune,</l><l n="56" xml:id="spp-X99AS633-line-56" rend="indent(1)"> Upon some Happy <hi rend="underline">Tenth</hi> of <hi rend="underline">June,So the King Enjoys his own again</hi>.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

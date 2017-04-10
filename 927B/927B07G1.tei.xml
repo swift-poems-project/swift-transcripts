@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ANOTHER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough 18JA08"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="927B07G1"><head type="note" n="1" xml:id="spp-927B07G1-headnote-1"><lg n="1" xml:id="spp-927B07G1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-927B07G1-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-927B07G1-headnote-2"><lg n="1" xml:id="spp-927B07G1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-927B07G1-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-927B07G1-headnote-3"><lg n="1" xml:id="spp-927B07G1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-927B07G1-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-927B07G1-line-1"><hi rend="display-initial">B</hi>Egotten, and born, and dying with noise,</l><l/><l n="2" xml:id="spp-927B07G1-line-2">The terror of women, and pleasure of boys,</l><l/><l n="3" xml:id="spp-927B07G1-line-3">Like the fiction of poets concerning the wind,</l><l/><l n="4" xml:id="spp-927B07G1-line-4">I'm chiefly unruly when strongest confin'd.</l><l/><l n="5" xml:id="spp-927B07G1-line-5">For silver and gold I don't trouble my head,</l><l/><l n="6" xml:id="spp-927B07G1-line-6">But all I delight in is pieces of lead;</l><l/><l n="7" xml:id="spp-927B07G1-line-7">Except when I trade with a ship or a town,</l><l/><l n="8" xml:id="spp-927B07G1-line-8">Why then I make pieces of iron go down.</l><l/><l n="9" xml:id="spp-927B07G1-line-9">One property more I would have you remark,</l><l/><l n="10" xml:id="spp-927B07G1-line-10">No lady was ever more fond of a spark;</l><l/><l n="11" xml:id="spp-927B07G1-line-11">The moment I get one, my soul's all a-fire,</l><l/><l n="12" xml:id="spp-927B07G1-line-12">I roar out my joy, and in transport expire.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

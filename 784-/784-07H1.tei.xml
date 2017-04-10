@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TOM <hi rend="underline">and</hi> DICK.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="784-07H1" type="poem"><head type="note" n="1" xml:id="spp-784-07H1-headnote-1"><lg n="1" xml:id="spp-784-07H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-784-07H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-784-07H1-headnote-2"><lg n="1" xml:id="spp-784-07H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-784-07H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-784-07H1-headnote-3"><lg n="1" xml:id="spp-784-07H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-784-07H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-784-07H1-line-1"><hi rend="display-initial">T</hi><hi rend="underline">OM</hi> and <hi rend="underline">Dick</hi> had equal fame,And both had equal knowledge;<hi rend="underline">Tom</hi> cou'd write and spell his name,But <hi rend="underline">Dick</hi> had seen the college.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-784-07H1-line-2"><hi rend="underline">Dick</hi> a coxcomb, <hi rend="underline">Tom</hi> was mad,And both alike diverting,<hi rend="underline">Tom</hi> was held the merrier lad,But <hi rend="underline">Dick</hi> the best at farting.</l></lg><lg n="3" type="stanza"><l n="3" xml:id="spp-784-07H1-line-3"><hi rend="underline">Dick</hi> would cock his nose in scorn,But <hi rend="underline">Tom</hi> was kind and loving;<hi rend="underline">Tom</hi> a foot-boy bred and born,But <hi rend="underline">Dick</hi> was from an oven.</l></lg><lg n="4" type="stanza"><l n="4" xml:id="spp-784-07H1-line-4"><hi rend="underline">Dick</hi> could neatly dance a jig,But <hi rend="underline">Tom</hi> was best at borees;<hi rend="underline">Tom</hi> would pray for ev'ry whig,And <hi rend="underline">Dick</hi> curse all the tories.</l></lg><lg n="5" type="stanza"><l n="5" xml:id="spp-784-07H1-line-5"><hi rend="underline">Dick</hi> would make a woful noise,And scold at an election;<hi rend="underline">Tom</hi> huzza'd the black-guard boys,And held them in subjection.</l></lg><lg n="6" type="stanza"><l n="6" xml:id="spp-784-07H1-line-6"><hi rend="underline">Tom</hi> could move with lordly grace,<hi rend="underline">Dick</hi> nimbly skip the gutter;<hi rend="underline">Tom</hi> could talk with solemn face,But <hi rend="underline">Dick</hi> could better sputter.</l></lg><lg n="7" type="stanza"><l n="7" xml:id="spp-784-07H1-line-7"><hi rend="underline">Dick</hi> was come to high renownSince he commenc'd physician;<hi rend="underline">Tom</hi> was held by all the townThe deeper politician.</l></lg><lg n="8" type="stanza"><l n="8" xml:id="spp-784-07H1-line-8"><hi rend="underline">Tom</hi> had the genteeler swing,His hat could nicely put on;<hi rend="underline">Dick</hi> knew better how to swingHis cane upon a button.</l></lg><lg n="9" type="stanza"><l n="9" xml:id="spp-784-07H1-line-9"><hi rend="underline">Dick</hi> for repartee was fit,And <hi rend="underline">Tom</hi> for deep discerning;<hi rend="underline">Dick</hi> was thought the brighter wit,But <hi rend="underline">Tom</hi> had better learning.</l></lg><lg n="10" type="stanza"><l n="10" xml:id="spp-784-07H1-line-10"><hi rend="underline">Dick</hi> with zealous no's and ay'sCould roar as loud as <hi rend="underline">Stentor</hi>,</l><l n="11" xml:id="spp-784-07H1-line-11"> In the house 'tis all he says;But <hi rend="underline">Tom</hi> is eloquenter.784-07H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

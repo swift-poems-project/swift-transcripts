@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">A Quibbling Elegy on the Worshipful Judge Boat</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="284-ROGP" type="poem"><head type="note" n="1" xml:id="spp-284-ROGP-headnote-1"><lg n="1" xml:id="spp-284-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-284-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-284-ROGP-headnote-2"><lg n="1" xml:id="spp-284-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-284-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-284-ROGP-headnote-3"><lg n="1" xml:id="spp-284-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-284-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-284-ROGP-line-1"> To mournful ditties, Clio, change thy note,&#13;</l><l n="2" xml:id="spp-284-ROGP-line-2"> Since cruel fate hath sunk our Justice Boat;</l><l n="3" xml:id="spp-284-ROGP-line-3"> Why should he sink where nothing seemed to press?</l><l n="4" xml:id="spp-284-ROGP-line-4"> His lading little, and his ballast less.</l><l n="5" xml:id="spp-284-ROGP-line-5"> Tossed in the waves of this tempestuous world,</l><l n="6" xml:id="spp-284-ROGP-line-6"> At length, his anchor fixed, and canvas furled,</l><l n="7" xml:id="spp-284-ROGP-line-7"> To Lazy Hill retiring from his court,</l><l n="8" xml:id="spp-284-ROGP-line-8"> At his Ring's·End he founders in the port.</l><l n="9" xml:id="spp-284-ROGP-line-9"> With water filled he could no longer float,</l><l n="10" xml:id="spp-284-ROGP-line-10"> The common death of many a stronger boat.</l></lg><lg n="2" type="stanza"><l n="11" xml:id="spp-284-ROGP-line-11">A post so filled, on nature's laws entrenches;&#13;</l><l n="12" xml:id="spp-284-ROGP-line-12"> Benches on boats are placed, not Boats on benches.</l><l n="13" xml:id="spp-284-ROGP-line-13"> And yet our boat, how shall I reconcile it?</l><l n="14" xml:id="spp-284-ROGP-line-14"> Was both a boat, and in one sense a pilot.</l><l n="15" xml:id="spp-284-ROGP-line-15"> With every wind he sailed, and well could tack:</l><l n="16" xml:id="spp-284-ROGP-line-16"> Had many pendants, but abhorred a jack.</l><l n="17" xml:id="spp-284-ROGP-line-17"> He's gone, although his friends began to hope</l><l n="18" xml:id="spp-284-ROGP-line-18"> That he might yet be lifted by a rope.</l></lg><lg n="3" type="stanza"><l n="19" xml:id="spp-284-ROGP-line-19">Behold the awful bench, on which he sat,&#13;</l><l n="20" xml:id="spp-284-ROGP-line-20"> He was as hard, and ponderous wood as that:</l><l n="21" xml:id="spp-284-ROGP-line-21"> Yet, when his sand was out, we find at last,</l><l n="22" xml:id="spp-284-ROGP-line-22"> That, death has overset him with a blast.</l><l n="23" xml:id="spp-284-ROGP-line-23"> Our Boat is now sailed to the Stygian ferry,</l><l n="24" xml:id="spp-284-ROGP-line-24"> There to supply old Charon's leaky wherry:</l><l n="25" xml:id="spp-284-ROGP-line-25"> Charon in him will ferry souls to hell;</l><l n="26" xml:id="spp-284-ROGP-line-26"> A trade, our Boat has practised here so well.</l><l n="27" xml:id="spp-284-ROGP-line-27"> And, Cerberus hath ready in his paws,</l><l n="28" xml:id="spp-284-ROGP-line-28"> Both pitch and brimstone to fill up his flaws;</l><l n="29" xml:id="spp-284-ROGP-line-29"> Yet, spite of death and fate, I here maintain</l><l n="30" xml:id="spp-284-ROGP-line-30"> We may place Boat in his old post again.</l><l n="31" xml:id="spp-284-ROGP-line-31"> The way is thus; and well deserves your thanks:</l><l n="32" xml:id="spp-284-ROGP-line-32"> Take the three strongest of his broken planks,</l><l n="33" xml:id="spp-284-ROGP-line-33"> Fix them on high, conspicuous to be seen,</l><l n="34" xml:id="spp-284-ROGP-line-34"> Formed like the triple tree near Stephen's Green;</l><l n="35" xml:id="spp-284-ROGP-line-35"> And when we view it thus, with thief at end on't,</l><l n="36" xml:id="spp-284-ROGP-line-36"> We'll cry; look, here's our Boat, and there's the pendant.</l></lg><lg n="4" type="stanza"><l n="37" xml:id="spp-284-ROGP-line-37">THE EPITAPH</l></lg><lg n="5" type="stanza"><l n="38" xml:id="spp-284-ROGP-line-38">Here lies Judge Boat within a coffin.&#13;</l><l n="39" xml:id="spp-284-ROGP-line-39"> Pray gentlefolks forbear your scoffing.</l><l n="40" xml:id="spp-284-ROGP-line-40"> A boat a judge! yes, where's the blunder?</l><l n="41" xml:id="spp-284-ROGP-line-41"> A wooden judge is no such wonder.</l><l n="42" xml:id="spp-284-ROGP-line-42"> And in his robes, you must agree,</l><l n="43" xml:id="spp-284-ROGP-line-43"> No boat was better decked than he.</l><l n="44" xml:id="spp-284-ROGP-line-44"> 'Tis needless to describe him fuller.</l><l n="45" xml:id="spp-284-ROGP-line-45"> In short, he was an able sculler.284-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

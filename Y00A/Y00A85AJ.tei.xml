@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y00A85AJ" type="poem"><head type="note" n="1" xml:id="spp-Y00A85AJ-headnote-1"><lg n="1" xml:id="spp-Y00A85AJ-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y00A85AJ-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y00A85AJ-headnote-2"><lg n="1" xml:id="spp-Y00A85AJ-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y00A85AJ-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y00A85AJ-headnote-3"><lg n="1" xml:id="spp-Y00A85AJ-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y00A85AJ-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y00A85AJ-line-1">Thus spoke great <hi rend="underline">Bedell</hi> from his tomb,</l><l n="2" xml:id="spp-Y00A85AJ-line-2"> Mortal! I would not change my doom,</l><l n="3" xml:id="spp-Y00A85AJ-line-3"> To live in such a restless state;</l><l n="4" xml:id="spp-Y00A85AJ-line-4"> To be unfortunately great;</l><l n="5" xml:id="spp-Y00A85AJ-line-5"> To pity fools; to spurn at knaves;</l><l n="6" xml:id="spp-Y00A85AJ-line-6"> To shine among a race of slaves;</l><l n="7" xml:id="spp-Y00A85AJ-line-7"> To learn from wise men to complain,</l><l n="8" xml:id="spp-Y00A85AJ-line-8"> And only rise to fall again:</l><l n="9" xml:id="spp-Y00A85AJ-line-9"> No────let my dusty relics rest,</l><l n="10" xml:id="spp-Y00A85AJ-line-10"> Till I shall rise amongst the blest.Y00A85AJ   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

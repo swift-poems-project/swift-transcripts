@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="!W39#6L4" type="poem"><head type="note" n="1" xml:id="spp-!W39#6L4-headnote-1"><lg n="1" xml:id="spp-!W39#6L4-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-!W39#6L4-headnote-1-line-group-1-line-1">Swift often used to make extempore distichs. Having preached one Sunday at St. Ann's Church, in Dublin, where there is only the basement of a tower without any spire, the building never having been finished, the present Archdeacon Mahon who was then a boy, followed Swift from curiosity when he went out of the church, and heard him grumble out──</l></lg></head><head type="note" n="2" xml:id="spp-!W39#6L4-headnote-2"><lg n="1" xml:id="spp-!W39#6L4-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-!W39#6L4-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-!W39#6L4-headnote-3"><lg n="1" xml:id="spp-!W39#6L4-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-!W39#6L4-headnote-3-line-group-1-line-1">!W39#6L4</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-!W39#6L4-line-1">!W39#6L4   1  A beggarly people!&#13;!W39#6L4   2  A church and no steeple!!W39#6L4   3  (<hi rend="underline">Ex relatione</hi> Mr. Downes, brother-in-law to Mr. Mahon.)!W39#6L4   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

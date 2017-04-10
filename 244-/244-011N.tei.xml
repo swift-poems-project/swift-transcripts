@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Description of an Irish Feast, Translated almost litterally</title>
+        <title>out of the Original Irish in y<hi rend="sup">e</hi> year 1720. by Dean Swift</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-244-011N-footnote-1 #spp-244-011N-line-14"/>
+        </linkGrp>
+        <div n="244-011N" type="poem"><head type="note" n="1" xml:id="spp-244-011N-headnote-1"><lg n="1" xml:id="spp-244-011N-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-244-011N-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-244-011N-headnote-2"><lg n="1" xml:id="spp-244-011N-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-244-011N-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-244-011N-headnote-3"><lg n="1" xml:id="spp-244-011N-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-244-011N-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-244-011N-line-1"> O Ruark's noble Fare, will ne'er be forgot&#13;by those who were there, or those who were not</l><l n="2" xml:id="spp-244-011N-line-2"> His Revell's to keep, we sup, and we Dineon seven score sheep, fat Bullucks and Swine</l><l n="3" xml:id="spp-244-011N-line-3"> Usquebaugh to our feast, in Pails was brought upan hundred at least, and a Madder our Cup.·(i.e.·a·wooden·vessel</l><l n="4" xml:id="spp-244-011N-line-4"> O There is the sport, we rise with the Lightin disorderly sort, from snoring all night</l><l n="5" xml:id="spp-244-011N-line-5"> O! how was I trick't, my Pipe it was brokemy Pocket was pick't, I lost my new cloak</l><l n="6" xml:id="spp-244-011N-line-6"> I'm rifled quoth Nell, of Mantle and Kercherwhy then fare them well, the De'el take the Searcher</l><l n="7" xml:id="spp-244-011N-line-7"> Come harper strike up, but first by your favourBoy give us a Cup, ay, this has some savour</l><l n="8" xml:id="spp-244-011N-line-8"> O Ruarks jolly boys; ne'er dream't of the mattertill rouz'd by the noise, and musical clatter</l><l n="9" xml:id="spp-244-011N-line-9"> They bounce from their Nest, no longer will tarrythey rise ready drest, without one Ave mary</l><l n="10" xml:id="spp-244-011N-line-10"> They dance in a round cutting Capers and rampingA mercy the ground, did not burst with their stomping.</l><l n="11" xml:id="spp-244-011N-line-11"> The floor is all wet, with leaps and with jumpswhile the water and Sweat, Splish splash in their pumps</l><l n="12" xml:id="spp-244-011N-line-12"> Bless you late and early, Laughlin o Enikinby my hand you dance rarely, Margery Greenegan</l><l n="13" xml:id="spp-244-011N-line-13"> Bring straw for our bed, shake it down to the feetthen over us spread, the winnowing Sheet</l><l n="14" xml:id="spp-244-011N-line-14"> To shew I don't flinch, fill the Bowl up againthen give us a pinch, of your Sneezing <ref target="#spp-244-011N-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-244-011N-footnote-1">a yean. an Irish name for a woman. i.e. Hanah</note><hi rend="black-letter">a yean</hi></l><l n="15" xml:id="spp-244-011N-line-15"> Good lord what a sight after all their good cheerfor people to fight, in the midst of their Beer.</l><l n="16" xml:id="spp-244-011N-line-16"> They rise from their feast, &amp; hot are their Brainsa Cubit at least, the length of their Skeans</l><l n="17" xml:id="spp-244-011N-line-17"> What stabs and what Cuts, with clattering of stickswhat strokes on the Guts, what basting and kicks</l><l n="18" xml:id="spp-244-011N-line-18"> With Cudgels of oak, well harden'd in flamean hundred heads broke, an hundred struck lame</l><l n="19" xml:id="spp-244-011N-line-19"> You churl I'll maintain, my father built Luskthe Castle of Slane, and Carrick Drumrusk</l><l n="20" xml:id="spp-244-011N-line-20"> The Earl of Kildare, &amp; moynalta his Brotheras great as they are, I was nurs'd by their mother</l><l n="21" xml:id="spp-244-011N-line-21"> Ask that of old madam? She'll tell you who's who.as far up as Adam, She knows it is true.</l><l n="22" xml:id="spp-244-011N-line-22"> Come down with that Beam, if Cudgels are scarcea blow on the Weam. and a Kick on the <hi rend="black-letter">A──se</hi>.244-011N   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

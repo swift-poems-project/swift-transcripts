@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-147-79L1-title-1">THE WINDSOR <ref target="#spp-147-79L1-footnote-title-1">1</ref><note n="1" xml:id="spp-147-79L1-footnote-title-1" place="foot">It is said, that Queen Anne had nominated Dr. Swift to an English bishoprick; which was opposed by Dr. Sharp, archbishop of York, and the dutchess of Somerset, who had prevailed on his grace to go with her to the queen to lay aside the nomination, which her majesty refused; but, the dutchess falling on her knees, and shewing the above prophecy to her majesty, the bishoprick was given to another. See p. 93.</note>. 1711.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-147-79L1-footnote-title-1 #spp-147-79L1-title-1"/>
+          <link target="#spp-147-79L1-footnote-1 #spp-147-79L1-line-1"/>
+          <link target="#spp-147-79L1-footnote-2 #spp-147-79L1-line-2"/>
+          <link target="#spp-147-79L1-footnote-3 #spp-147-79L1-line-2"/>
+          <link target="#spp-147-79L1-footnote-4 #spp-147-79L1-line-3"/>
+          <link target="#spp-147-79L1-footnote-5 #spp-147-79L1-line-4"/>
+          <link target="#spp-147-79L1-footnote-6 #spp-147-79L1-line-4"/>
+          <link target="#spp-147-79L1-footnote-7 #spp-147-79L1-line-5"/>
+          <link target="#spp-147-79L1-footnote-8 #spp-147-79L1-line-6"/>
+          <link target="#spp-147-79L1-footnote-9 #spp-147-79L1-line-15"/>
+          <link target="#spp-147-79L1-footnote-10 #spp-147-79L1-line-15"/>
+          <link target="#spp-147-79L1-footnote-11 #spp-147-79L1-line-17"/>
+          <link target="#spp-147-79L1-footnote-12 #spp-147-79L1-line-18"/>
+          <link target="#spp-147-79L1-footnote-13 #spp-147-79L1-line-21"/>
+          <link target="#spp-147-79L1-footnote-14 #spp-147-79L1-line-23"/>
+        </linkGrp>
+        <div n="147-79L1" type="poem"><head type="note" n="1" xml:id="spp-147-79L1-headnote-1"><lg n="1" xml:id="spp-147-79L1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-147-79L1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-147-79L1-headnote-2"><lg n="1" xml:id="spp-147-79L1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-147-79L1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-147-79L1-headnote-3"><lg n="1" xml:id="spp-147-79L1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-147-79L1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-147-79L1-line-1"><hi rend="display-initial">W</hi>HEN a holy black <hi rend="underline">Swede, the son of Bob</hi><ref target="#spp-147-79L1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-147-79L1-footnote-1">Dr. John Robinson, bishop of Bristol, one of the plenipotentiaries at Utrecht.</note>,</l><l n="2" xml:id="spp-147-79L1-line-2"> With a <hi rend="underline">saint</hi><ref target="#spp-147-79L1-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-147-79L1-footnote-2">He was dean of Windsor, and lord privy seal.</note> at his chin, and a <hi rend="underline">seal</hi><ref target="#spp-147-79L1-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-147-79L1-footnote-3"><unclear>A second cue to n.2</unclear></note> at his fob,</l><l n="3" xml:id="spp-147-79L1-line-3"> Shall not see one <ref target="#spp-147-79L1-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-147-79L1-footnote-4">The New Style (which was not used in Great-Britain and Ireland till 1752) was then observed in most parts of Europe. The bishop set out from England the latter end of December, O.S.; and, on his arrival at Utrecht, by the variation of the style, he found January somewhat advanced.</note> New-year's-day in that year,</l><l n="4" xml:id="spp-147-79L1-line-4"> Then let old <hi rend="underline">Englond</hi> make good chear:<hi rend="underline">Windsor</hi><ref target="#spp-147-79L1-footnote-5">5</ref><note place="foot" n="5" xml:id="spp-147-79L1-footnote-5">Alluding to the deanry and bishoprick being possessed by the same person, then at Utrecht.</note> and <hi rend="underline">Bristow</hi><«FN1·><ref target="#spp-147-79L1-footnote-6">6</ref><unclear n="6" xml:id="spp-147-79L1-footnote-6">A second cue to n.6 then shall be</unclear></«FN1·></l><l n="5" xml:id="spp-147-79L1-line-5"> Joined together in the <hi rend="underline">Low-countree</hi><ref target="#spp-147-79L1-footnote-7">7</ref><note place="foot" n="7" xml:id="spp-147-79L1-footnote-7"><unclear>This footnote states the same material as footnote 6.</unclear></note>.</l><l n="6" xml:id="spp-147-79L1-line-6"> Then shall the tall black <hi rend="underline">Daventry Bird</hi><ref target="#spp-147-79L1-footnote-8">8</ref><note place="foot" n="8" xml:id="spp-147-79L1-footnote-8">Earl of Nottingham.</note></l><l n="7" xml:id="spp-147-79L1-line-7"> Speak against peace right many a word;</l><l n="8" xml:id="spp-147-79L1-line-8"> And some shall admire his conying wit,</l><l n="9" xml:id="spp-147-79L1-line-9"> For many good <hi rend="underline">groats</hi> his tongue shall slit.</l><l n="10" xml:id="spp-147-79L1-line-10"> But, spight of the <hi rend="underline">Harpy</hi> that <hi rend="underline">crawls on all four</hi>,</l><l n="11" xml:id="spp-147-79L1-line-11"> There shall be peace, pardie, and war no more.</l><l n="12" xml:id="spp-147-79L1-line-12"> But <hi rend="underline">Englond</hi> must cry alack and well-a-day,</l><l n="13" xml:id="spp-147-79L1-line-13"> If the <hi rend="underline">stick</hi> be taken from the <hi rend="underline">dead sea</hi>.</l><l n="14" xml:id="spp-147-79L1-line-14"> And, dear <hi rend="underline">Englond</hi>, if aught I understond,</l><l n="15" xml:id="spp-147-79L1-line-15"> Beware of <hi rend="underline">Carrots</hi><ref target="#spp-147-79L1-footnote-9">9</ref><note place="foot" n="9" xml:id="spp-147-79L1-footnote-9">The dutchess of Somerset.</note> from <hi rend="underline">Northumberlond</hi>.<hi rend="underline">Carrots</hi> sown <hi rend="underline">Thynne</hi><ref target="#spp-147-79L1-footnote-10">10</ref><note place="foot" n="10" xml:id="spp-147-79L1-footnote-10">Thomas Thynne of Longleate, esq; a gentleman of very great estate, married the above lady after the death of her first husband Henry Cavendish earl of Ogle, only son to Henry duke of Newcastle, to whom she had been betrothed in her infancy.</note> a deep root may get,</l><l n="16" xml:id="spp-147-79L1-line-16"> If so be they are in <hi rend="underline">Somer set</hi>:</l><l n="17" xml:id="spp-147-79L1-line-17"> Their <ref target="#spp-147-79L1-footnote-11">11</ref><note place="foot" n="11" xml:id="spp-147-79L1-footnote-11">Count Koningsmark.</note><hi rend="underline">Conyngs mark</hi> thou; for I have been told,</l><l n="18" xml:id="spp-147-79L1-line-18"> They <hi rend="underline">assassine</hi> when young, and <hi rend="underline">poison</hi> when old.<hi rend="underline">Root</hi> out these <hi rend="underline">Carrots</hi>, O thou<ref target="#spp-147-79L1-footnote-12">12</ref><note place="foot" n="12" xml:id="spp-147-79L1-footnote-12">ANNA.</note>, whose name</l><l n="19" xml:id="spp-147-79L1-line-19"> Is backwards and forwards always the same;</l><l n="20" xml:id="spp-147-79L1-line-20"> And keep close to thee always that <hi rend="underline">name</hi>,</l><l n="21" xml:id="spp-147-79L1-line-21"> Which backwards and forwards <ref target="#spp-147-79L1-footnote-13">13</ref><note place="foot" n="13" xml:id="spp-147-79L1-footnote-13">MASHAM.</note> is almost the same.</l><l n="22" xml:id="spp-147-79L1-line-22"> And, <hi rend="underline">Englond</hi>, wouldst thou be happy still,</l><l n="23" xml:id="spp-147-79L1-line-23"> Bury those <hi rend="underline">Carrots</hi> under a <hi rend="underline">Hill</hi><ref target="#spp-147-79L1-footnote-14">14</ref><note place="foot" n="14" xml:id="spp-147-79L1-footnote-14">Lady Masham's maiden name was Hill.</note>.147-79L1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>V<hi rend="SMALL-CAPS">ERSES</hi> left with a silver standish on the<lb/>D<hi rend="SMALL-CAPS">EAN</hi> of S<hi rend="SMALL-CAPS">T </hi>P<hi rend="SMALL-CAPS">ATR·CK'S</hi> desk on his birth-<lb/>day, by Dr D<hi rend="SMALL-CAPS">ELANY</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough 10JA08"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-610-07G1-footnote-1 #spp-610-07G1-line-10"/>
+        </linkGrp>
+        <div n="610-07G1"><head type="note" n="1" xml:id="spp-610-07G1-headnote-1"><lg n="1" xml:id="spp-610-07G1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-610-07G1-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-610-07G1-headnote-2"><lg n="1" xml:id="spp-610-07G1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-610-07G1-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-610-07G1-headnote-3"><lg n="1" xml:id="spp-610-07G1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-610-07G1-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-610-07G1-line-1"><hi rend="display-initial">H</hi>Ither from Mexico I came</l><l/><l n="2" xml:id="spp-610-07G1-line-2">To serve a proud Iernian dame:</l><l/><l n="3" xml:id="spp-610-07G1-line-3">Was long submitted to her will;</l><l/><l n="4" xml:id="spp-610-07G1-line-4">At length she lost me at quadrille:</l><l/><l n="5" xml:id="spp-610-07G1-line-5">Through various shapes I often pass'd,</l><l/><l n="6" xml:id="spp-610-07G1-line-6">Still hoping to have rest at last:</l><l/><l n="7" xml:id="spp-610-07G1-line-7">And still ambitious to obtain</l><l/><l n="8" xml:id="spp-610-07G1-line-8">Admittance to the patriot Dean;</l><l/><l n="9" xml:id="spp-610-07G1-line-9">And sometimes got within his door,</l><l/><l n="10" xml:id="spp-610-07G1-line-10">But soon turn'd out to serve the poor<ref target="#spp-610-07G1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-610-07G1-footnote-1">Alluding to 500 l. a-year lent by the Dean, without interest, to poor tradesmen.</note>?</l><l/><l n="11" xml:id="spp-610-07G1-line-11">Not strolling idleness to aid,</l><l/><l n="12" xml:id="spp-610-07G1-line-12">But honest industry decay'd.</l><l/><l n="13" xml:id="spp-610-07G1-line-13">At length an artist purchas'd me,</l><l/><l n="14" xml:id="spp-610-07G1-line-14">And wrought me to the shape you see.</l><l/><l n="15" xml:id="spp-610-07G1-line-15"/></lg><lg n="2" type="stanza"><l>This done, to Hermes I apply'd:&#13;</l><l/><l n="16" xml:id="spp-610-07G1-line-16">“O Hermes, gratify my pride;</l><l/><l n="17" xml:id="spp-610-07G1-line-17">“Be it my fate to serve a sage,</l><l/><l n="18" xml:id="spp-610-07G1-line-18">“The greatest genius of his age;</l><l/><l n="19" xml:id="spp-610-07G1-line-19">“That matchless pen let me supply,</l><l/><l n="20" xml:id="spp-610-07G1-line-20">“Whose living lines will never die.”</l><l/><l n="21" xml:id="spp-610-07G1-line-21"/></lg><lg n="3" type="stanza"><l>I grant your suit, the god reply'd,&#13;</l><l/><l n="22" xml:id="spp-610-07G1-line-22">And here he left me to reside.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

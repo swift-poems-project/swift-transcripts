@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dr. to Dr. SWIFT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S1091801" type="poem"><head type="note" n="1" xml:id="spp-S1091801-headnote-1"><lg n="1" xml:id="spp-S1091801-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-S1091801-headnote-1-line-group-1-line-1">June 28, 1734.</l></lg></head><head type="note" n="2" xml:id="spp-S1091801-headnote-2"><lg n="1" xml:id="spp-S1091801-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-S1091801-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-S1091801-headnote-3"><lg n="1" xml:id="spp-S1091801-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-S1091801-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-S1091801-line-1"> I ritu a verse o na molli o mi ne.&#13;</l><l n="2" xml:id="spp-S1091801-line-2"> Asta lassa me pole, a l<unclear>ae</unclear>dis o fine,</l><l n="3" xml:id="spp-S1091801-line-3"> I ne ver neu a niso ne at in mi ni is,</l><l n="4" xml:id="spp-S1091801-line-4"> A manat a glans ora sito fer diis,</l><l n="5" xml:id="spp-S1091801-line-5"> De armo lis abuti hos face an hos nos is,</l><l n="6" xml:id="spp-S1091801-line-6"> As fer a sal illi, as reddas aro sis,</l><l n="7" xml:id="spp-S1091801-line-7"> Ac is o mi molli is almi de lite,</l><l n="8" xml:id="spp-S1091801-line-8"> Illo verbi de, an illo verbi nite.S1091801   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

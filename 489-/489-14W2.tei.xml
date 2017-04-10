@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A</title>
+        <title>BETWEEN</title>
+        <title xml:id="spp-489-14W2-title-1">AN EMINENT LAWYER <ref target="#spp-489-14W2-footnote-title-1">1</ref><note n="1" xml:id="spp-489-14W2-footnote-title-1" place="foot">Mr Lindsay.──F.</note> AND DR JONATHAN SWIFT,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-489-14W2-footnote-title-1 #spp-489-14W2-title-1"/>
+          <link target="#spp-489-14W2-footnote-1 #spp-489-14W2-line-31"/>
+          <link target="#spp-489-14W2-footnote-2 #spp-489-14W2-line-59"/>
+        </linkGrp>
+        <div n="489-14W2" type="poem"><head type="note" n="1" xml:id="spp-489-14W2-headnote-1"><lg n="1" xml:id="spp-489-14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-489-14W2-headnote-1-line-group-1-line-1">IN ALLUSION TO HORACE, BOOK II. SATIRE I.</l></lg></head><head type="note" n="2" xml:id="spp-489-14W2-headnote-2"><lg n="1" xml:id="spp-489-14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-489-14W2-headnote-2-line-group-1-line-1">“Sunt quibus in Satirâ,” &amp;c.</l></lg></head><head type="note" n="3" xml:id="spp-489-14W2-headnote-3"><lg n="1" xml:id="spp-489-14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-489-14W2-headnote-3-line-group-1-line-1">WRITTEN BY MR LINDSAY, IN 1729.</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-489-14W2-line-1" rend="align(center)">DR SWIFT.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-489-14W2-line-2" rend="flush left">S<hi rend="SMALL-CAPS">INCE</hi> there are persons who complain</l><l n="3" xml:id="spp-489-14W2-line-3"> There's too much satire in my vein;</l><l n="4" xml:id="spp-489-14W2-line-4"> That I am often found exceeding</l><l n="5" xml:id="spp-489-14W2-line-5"> The rules of raillery and breeding;</l><l n="6" xml:id="spp-489-14W2-line-6"> With too much freedom treat my betters,</l><l n="7" xml:id="spp-489-14W2-line-7"> Not sparing even men of letters:</l><l n="8" xml:id="spp-489-14W2-line-8"> You, who are skill'd in lawyers' lore,</l><l n="9" xml:id="spp-489-14W2-line-9"> What's your advice? Shall I give o'er?</l><l n="10" xml:id="spp-489-14W2-line-10"> Nor ever fools or knaves expose,</l><l n="11" xml:id="spp-489-14W2-line-11"> Either in verse, or humorous prose:</l><l n="12" xml:id="spp-489-14W2-line-12"> And to avoid all future ill,</l><l n="13" xml:id="spp-489-14W2-line-13"> In my scrutoire lock up my quill?</l></lg><lg n="3" type="stanza"><l n="14" xml:id="spp-489-14W2-line-14" rend="align(center)">LAWYER.</l></lg><lg n="4" type="stanza"><l n="15" xml:id="spp-489-14W2-line-15" rend="flush left">Since you are pleased to condescend&#13;</l><l n="16" xml:id="spp-489-14W2-line-16"> To ask the judgment of a friend,</l><l n="17" xml:id="spp-489-14W2-line-17"> Your case consider'd, I must think</l><l n="18" xml:id="spp-489-14W2-line-18"> You should withdraw from pen and ink,</l><l n="19" xml:id="spp-489-14W2-line-19"> Forbear your poetry and jokes,</l><l n="20" xml:id="spp-489-14W2-line-20"> And live like other Christian folks;</l><l n="21" xml:id="spp-489-14W2-line-21"> Or if the Muses must inspire</l><l n="22" xml:id="spp-489-14W2-line-22"> Your fancy with their pleasing fire,</l><l n="23" xml:id="spp-489-14W2-line-23"> Take subjects safer for your wit</l><l n="24" xml:id="spp-489-14W2-line-24"> Than those on which you lately writ.</l><l n="25" xml:id="spp-489-14W2-line-25"> Commend the times, your thoughts correct,</l><l n="26" xml:id="spp-489-14W2-line-26"> And follow the prevailing sect;</l><l n="27" xml:id="spp-489-14W2-line-27"> Assert that Hyde, in writing story,</l><l n="28" xml:id="spp-489-14W2-line-28"> Shews all the malice of a Tory;</l><l n="29" xml:id="spp-489-14W2-line-29"> While Burnet in his deathless page,</l><l n="30" xml:id="spp-489-14W2-line-30"> Discovers freedom without rage.</l><l n="31" xml:id="spp-489-14W2-line-31"> To Woolston <ref target="#spp-489-14W2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-489-14W2-footnote-1">A degraded clergyman of the church of England, who wrote against the miracles of our Saviour.──F.</note> recommend our youth,</l><l n="32" xml:id="spp-489-14W2-line-32"> For learning, probity, and truth;</l><l n="33" xml:id="spp-489-14W2-line-33"> That noble genius, who unbinds</l><l n="34" xml:id="spp-489-14W2-line-34"> The chains which fetter freeborn minds;</l><l n="35" xml:id="spp-489-14W2-line-35"> Redeems us from the slavish fears</l><l n="36" xml:id="spp-489-14W2-line-36"> Which lasted near two thousand years;</l><l n="37" xml:id="spp-489-14W2-line-37"> He can alone the priesthood humble,</l><l n="38" xml:id="spp-489-14W2-line-38"> Make gilded spires and altars tumble.</l></lg><lg n="5" type="stanza"><l n="39" xml:id="spp-489-14W2-line-39" rend="align(center)">DR SWIFT.</l></lg><lg n="6" type="stanza"><l n="40" xml:id="spp-489-14W2-line-40" rend="flush left">Must I commend against my conscience,&#13;</l><l n="41" xml:id="spp-489-14W2-line-41"> Such stupid blasphemy and nonsense;</l><l n="42" xml:id="spp-489-14W2-line-42"> To such a subject tune my lyre,</l><l n="43" xml:id="spp-489-14W2-line-43"> And sing like one of Milton's choir,</l><l n="44" xml:id="spp-489-14W2-line-44"> Where devils to a vale retreat,</l><l n="45" xml:id="spp-489-14W2-line-45"> And call the laws of Wisdom, Fate;</l><l n="46" xml:id="spp-489-14W2-line-46"> Lament upon their hapless fall,</l><l n="47" xml:id="spp-489-14W2-line-47"> That Force free Virtue should enthrall?</l><l n="48" xml:id="spp-489-14W2-line-48"> Or shall the charms of Wealth and Power</l><l n="49" xml:id="spp-489-14W2-line-49"> Make me pollute the Muses' bower?</l></lg><lg n="7" type="stanza"><l n="50" xml:id="spp-489-14W2-line-50" rend="align(center)">LAWYER.</l></lg><lg n="8" type="stanza"><l n="51" xml:id="spp-489-14W2-line-51" rend="flush left">As from the tripod of Apollo,&#13;</l><l n="52" xml:id="spp-489-14W2-line-52"> Hear from my desk the words that follow:</l><l n="53" xml:id="spp-489-14W2-line-53"> “Some, by philosophers misled,</l><l n="54" xml:id="spp-489-14W2-line-54"> Must honour you alive and dead;</l><l n="55" xml:id="spp-489-14W2-line-55"> And such as know what Greece has writ,</l><l n="56" xml:id="spp-489-14W2-line-56"> Must taste your irony and wit;</l><l n="57" xml:id="spp-489-14W2-line-57"> While most that are, or would be great,</l><l n="58" xml:id="spp-489-14W2-line-58"> Must dread your pen, your person hate;</l><l n="59" xml:id="spp-489-14W2-line-59"> And you on Drapier's hill <ref target="#spp-489-14W2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-489-14W2-footnote-2">In the county of Armagh.──F.</note> must lie,</l><l n="60" xml:id="spp-489-14W2-line-60"> And there without a mitre die.”489-14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

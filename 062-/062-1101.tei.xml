@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-062-1101-title-1">The D<ref target="#spp-062-1101-footnote-title-1">1</ref><note n="1" xml:id="spp-062-1101-footnote-title-1" place="foot">When the Earl of <hi rend="underline">Berkeley</hi> was sent to <hi rend="underline">Ireland</hi> as one of the Lords Justices, the Author, in Compliance with his Invitation, went over with him as Chaplain and private Secretary. But <hi rend="underline">Bush</hi>, another of the Earl's Attendants, having insinuated, that the Place of Secretary was not proper for a Clergyman, found Means, soon after they arrived at <hi rend="underline">Dublin</hi>, to obtain it for himself.────<hi rend="underline">Swift</hi> fired with Indignation at his injurious Treatment, writ this satirical Copy of Verses.</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-062-1101-footnote-title-1 #spp-062-1101-title-1"/>
+          <link target="#spp-062-1101-footnote-1 #spp-062-1101-line-5"/>
+          <link target="#spp-062-1101-footnote-2 #spp-062-1101-line-6"/>
+          <link target="#spp-062-1101-footnote-3 #spp-062-1101-line-12"/>
+        </linkGrp>
+        <div n="062-1101" type="poem"><head type="note" n="1" xml:id="spp-062-1101-headnote-1"><lg n="1" xml:id="spp-062-1101-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-062-1101-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-062-1101-headnote-2"><lg n="1" xml:id="spp-062-1101-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-062-1101-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-062-1101-headnote-3"><lg n="1" xml:id="spp-062-1101-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-062-1101-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-062-1101-line-1"><hi rend="display-initial">W</hi>HEN wise Lord <hi rend="underline">Berkeley</hi> first came here,Statesmen and Mob expected Wonders;</l><l n="2" xml:id="spp-062-1101-line-2"> Nor thought to find so great a PeerEre a Week past committing Blunders.</l><l n="3" xml:id="spp-062-1101-line-3"> 'Till on a Day cut out by Fate,When Folks came thick to make their Court,</l><l n="4" xml:id="spp-062-1101-line-4"> Out slipt a Mystery of State,To give the Town and Country Sport.</l><l n="5" xml:id="spp-062-1101-line-5"> Now enters <hi rend="underline">Bush</hi><ref target="#spp-062-1101-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-062-1101-footnote-1">My Lord's wise Secretary.</note> with new State Airs,His Lordship's Premier Minister;</l><l n="6" xml:id="spp-062-1101-line-6"> And who, in all profound Affairs,Is held as needful as his Clyster<ref target="#spp-062-1101-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-062-1101-footnote-2">Always taken before my Lord went to Council.</note>,</l><l n="7" xml:id="spp-062-1101-line-7"> With Head reclining on his Shoulder,He deals and hears mysterious Chat,</l><l n="8" xml:id="spp-062-1101-line-8"> While every ignorant BeholderAsks of his Neighbour, Who is that?</l><l n="9" xml:id="spp-062-1101-line-9"> With this he put up to my Lord,The Courtiers kept their Distance due,</l><l n="10" xml:id="spp-062-1101-line-10"> He twitch'd his Sleeve, and stole a Word;Then to a Corner both withdrew.</l><l n="11" xml:id="spp-062-1101-line-11"> Imagine now my Lord and <hi rend="underline">Bush</hi>Whisp'ring in <hi rend="underline">junto</hi> most profound,</l><l n="12" xml:id="spp-062-1101-line-12"> Like good King <hi rend="underline">Phiz</hi>, and good King <hi rend="underline">Ush</hi><ref target="#spp-062-1101-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-062-1101-footnote-3">Vide the <hi rend="underline">Rehearsal</hi>, a Comedy, wrote by the Duke of <hi rend="underline">Buckingham</hi>.</note>,While all the rest stood gaping round.</l><l n="13" xml:id="spp-062-1101-line-13"> At length a Spark, not too well bred,Of forward Face and Air acute,</l><l n="14" xml:id="spp-062-1101-line-14"> Advanc'd on Tiptoe, lean'd his Head,To over-hear the grand Dispute;</l><l n="15" xml:id="spp-062-1101-line-15"> To learn what Northern Kings design,Or, from <hi rend="underline">Whitehall</hi> some new Express,</l><l n="16" xml:id="spp-062-1101-line-16"> Papists disarm'd, or Fall of Coin:For sure (thought he) it can't be less.</l><l n="17" xml:id="spp-062-1101-line-17"> My Lord, said <hi rend="underline">Bush</hi>, a Friend and IDisguis'd in two old threadbare Coats,</l><l n="18" xml:id="spp-062-1101-line-18"> 'Ere Morning's Dawn stole out to spyHow Markets went for Hay and Oats:</l><l n="19" xml:id="spp-062-1101-line-19"> With that he draws two Handfuls out,The one was Oats, the other Hay;</l><l n="20" xml:id="spp-062-1101-line-20"> Puts this to's Excellency's Snout,And begs he would the other weigh.</l><l n="21" xml:id="spp-062-1101-line-21"> My Lord seems pleas'd, but still directsBy all Means to bring down the Rates;</l><l n="22" xml:id="spp-062-1101-line-22"> Then with a Congee circumflex,<hi rend="underline">Bush</hi>, smiling round on all, retreats.</l><l n="23" xml:id="spp-062-1101-line-23"> Our List'ner stood a while confus'd,But gathering Spirits wisely ran for't,</l><l n="24" xml:id="spp-062-1101-line-24"> Enrag'd to see the World abus'dBy two such whisp'ring Kings of <hi rend="underline">Brentford</hi>.062-1101   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

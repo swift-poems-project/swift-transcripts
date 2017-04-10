@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">The</hi> PARSONS's C<hi rend="SMALL-CAPS">ASE</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="676-34JL" type="poem"><head type="note" n="1" xml:id="spp-676-34JL-headnote-1"><lg n="1" xml:id="spp-676-34JL-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-676-34JL-headnote-1-line-group-1-line-1"><hi rend="underline">In Imitation of</hi> M<hi rend="SMALL-CAPS">ARTIAL</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-676-34JL-headnote-2"><lg n="1" xml:id="spp-676-34JL-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-676-34JL-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-676-34JL-headnote-3"><lg n="1" xml:id="spp-676-34JL-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-676-34JL-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-676-34JL-line-1"><hi rend="display-initial">T</hi>HAT you, Friend <hi rend="underline">Marcus</hi>, like a Stoick,</l><l n="2" xml:id="spp-676-34JL-line-2"> Can wish to die, in Strain Heroick,</l><l n="3" xml:id="spp-676-34JL-line-3"> No real Fortitude implies:</l><l n="4" xml:id="spp-676-34JL-line-4"> Yet, all must own, thy <hi rend="underline">Wish</hi> is wise.</l><l n="5" xml:id="spp-676-34JL-line-5"> Thy <hi rend="underline">Curate</hi>'s <hi rend="underline">Place</hi>, thy fruitful <hi rend="underline">Wife</hi>,</l><l n="6" xml:id="spp-676-34JL-line-6"> Thy busy drudging Scene of Life;</l><l n="7" xml:id="spp-676-34JL-line-7"> Thy insolent, illit'rate <hi rend="underline">Vicar</hi>,</l><l n="8" xml:id="spp-676-34JL-line-8"> Thy Want of all consoling Liquor;</l><l n="9" xml:id="spp-676-34JL-line-9"> Thy Thread-bare Gown, thy Cassock rent,</l><l n="10" xml:id="spp-676-34JL-line-10"> Thy Credit sunk, thy Money spent;</l><l n="11" xml:id="spp-676-34JL-line-11"> Thy Week made up of Fasting Days,</l><l n="12" xml:id="spp-676-34JL-line-12"> Thy <hi rend="underline">Grate</hi>, unconscious of a Blaze;<gap/><gap/><gap/><gap/></l><l n="13" xml:id="spp-676-34JL-line-13"> And, to complete thy other Curses,</l><l n="14" xml:id="spp-676-34JL-line-14"> The quarterly Demands of Nurses,</l><l n="15" xml:id="spp-676-34JL-line-15"> Are <hi rend="underline">Ills</hi> you wisely wish to leave,</l><l n="16" xml:id="spp-676-34JL-line-16"> And fly for Refuge to the <hi rend="underline">Grave</hi>;</l><l n="17" xml:id="spp-676-34JL-line-17"> And, O! what Virtue you express</l><l n="18" xml:id="spp-676-34JL-line-18"> In wishing such Afflictions less!</l><l n="19" xml:id="spp-676-34JL-line-19"> But, now should <hi rend="underline">Fortune</hi> shift the Scene,</l><l n="20" xml:id="spp-676-34JL-line-20"> And make thy <hi rend="underline">Curateship</hi> a <hi rend="underline">Dean</hi>;</l><l n="21" xml:id="spp-676-34JL-line-21"> Or, some rich Benefice provide,</l><l n="22" xml:id="spp-676-34JL-line-22"> To pamper Luxury and Pride;</l><l n="23" xml:id="spp-676-34JL-line-23"> With Labour small and Income great,</l><l n="24" xml:id="spp-676-34JL-line-24"> With Chariot, less for Use than State;</l><l n="25" xml:id="spp-676-34JL-line-25"> With swelling Scarf, and glossy Gown,</l><l n="26" xml:id="spp-676-34JL-line-26"> And, Licence to reside in Town;</l><l n="27" xml:id="spp-676-34JL-line-27"> To shine, where all the Gay resort,</l><l n="28" xml:id="spp-676-34JL-line-28"> At Concert, Coffee-house, or Court;</l><l n="29" xml:id="spp-676-34JL-line-29"> And, weekly persecute his Grace,</l><l n="30" xml:id="spp-676-34JL-line-30"> With Visits, or to beg a Place;</l><l n="31" xml:id="spp-676-34JL-line-31"> With Underlings thy Flock to teach,</l><l n="32" xml:id="spp-676-34JL-line-32"> With no Desire to pray or preach;</l><l n="33" xml:id="spp-676-34JL-line-33"> With haughty Spouse, in Vesture fine,</l><l n="34" xml:id="spp-676-34JL-line-34"> With plenteous Meals, and gen'rous Wine;</l><l n="35" xml:id="spp-676-34JL-line-35"> Would not thou wish, in so much Ease,</l><l n="36" xml:id="spp-676-34JL-line-36"> Thy Years as num'rous as thy Days?676-34JL   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>APOLLO OUTWITTED.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="119-06E2"><head type="note" n="1" xml:id="spp-119-06E2-headnote-1"><lg n="1" xml:id="spp-119-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-119-06E2-headnote-1-line-group-1-line-1">To the Honourable Mrs F<hi rend="SMALL-CAPS">INCH</hi>, afterwards Countess of W<hi rend="SMALL-CAPS">INCHELSEA</hi>, under her name of A<hi rend="SMALL-CAPS">RDELIA</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-119-06E2-headnote-2"><lg n="1" xml:id="spp-119-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-119-06E2-headnote-2-line-group-1-line-1">Written in the year 1707.</l></lg></head><head type="note" n="3" xml:id="spp-119-06E2-headnote-3"><lg n="1" xml:id="spp-119-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-119-06E2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-119-06E2-line-1"><hi rend="display-initial">P</hi>H<unclear>oe</unclear>bus, now short'ning ev'ry shade,</l><l/><l n="2" xml:id="spp-119-06E2-line-2">Up to the northern <hi rend="underline">tropic</hi> came,</l><l/><l n="3" xml:id="spp-119-06E2-line-3">And thence beheld a lovely maid,</l><l/><l n="4" xml:id="spp-119-06E2-line-4">Attending on a royal dame.</l><l/><l n="5" xml:id="spp-119-06E2-line-5"/></lg><lg n="2" type="stanza"><l>The god laid down his feeble rays,&#13;</l><l/><l n="6" xml:id="spp-119-06E2-line-6">Then lighted from his glitt'ring coach;</l><l/><l n="7" xml:id="spp-119-06E2-line-7">But fenc'd his head with his own bays,</l><l/><l n="8" xml:id="spp-119-06E2-line-8">Before he durst the nymph approach.</l><l/><l n="9" xml:id="spp-119-06E2-line-9"/></lg><lg n="3" type="stanza"><l>Under those sacred leaves, secure&#13;</l><l/><l n="10" xml:id="spp-119-06E2-line-10">From common ligtning of the skies,</l><l/><l n="11" xml:id="spp-119-06E2-line-11">He fondly thought he might endure</l><l/><l n="12" xml:id="spp-119-06E2-line-12">The flashes of Ardelia's eyes.</l><l/><l n="13" xml:id="spp-119-06E2-line-13"/></lg><lg n="4" type="stanza"><l>The nymph, who oft had read in books&#13;</l><l/><l n="14" xml:id="spp-119-06E2-line-14">Of that bright god whom bards invoke,</l><l/><l n="15" xml:id="spp-119-06E2-line-15">Soon knew Apollo by his looks,</l><l/><l n="16" xml:id="spp-119-06E2-line-16">And guess'd his bus'ness ere he spoke.</l><l/><l n="17" xml:id="spp-119-06E2-line-17"/></lg><lg n="5" type="stanza"><l>He is the old celestial cant&#13;</l><l/><l n="18" xml:id="spp-119-06E2-line-18">Confess'd his flame, and swore by Styx</l><l/><l n="19" xml:id="spp-119-06E2-line-19">Whate'er she would desire to grant──</l><l/><l n="20" xml:id="spp-119-06E2-line-20">But wise Ardelia knew his tricks.</l><l/><l n="21" xml:id="spp-119-06E2-line-21"/></lg><lg n="6" type="stanza"><l>Ovid had warn'd her to beware&#13;</l><l/><l n="22" xml:id="spp-119-06E2-line-22">Of strolling gods, whose usual trade is,</l><l/><l n="23" xml:id="spp-119-06E2-line-23">Under pretence of taking air,</l><l/><l n="24" xml:id="spp-119-06E2-line-24">To pick up sublunary ladies.</l><l/><l n="25" xml:id="spp-119-06E2-line-25"/></lg><lg n="7" type="stanza"><l>Howe'er, she gave no flat denial,&#13;</l><l/><l n="26" xml:id="spp-119-06E2-line-26">As having malice in her heart;</l><l/><l n="27" xml:id="spp-119-06E2-line-27">And was resolv'd, upon a trial,</l><l/><l n="28" xml:id="spp-119-06E2-line-28">To cheat the god in his own art.</l><l/><l n="29" xml:id="spp-119-06E2-line-29"/></lg><lg n="8" type="stanza"><l>Hear my request, the virgin said;&#13;</l><l/><l n="30" xml:id="spp-119-06E2-line-30">Let which I please of all the Nine</l><l/><l n="31" xml:id="spp-119-06E2-line-31">Attend, whene'er I want their aid,</l><l/><l n="32" xml:id="spp-119-06E2-line-32">Obey my call, and only mine.</l><l/><l n="33" xml:id="spp-119-06E2-line-33"/></lg><lg n="9" type="stanza"><l>By vow oblig'd, by passion led,&#13;</l><l/><l n="34" xml:id="spp-119-06E2-line-34">The god could not refuse her pray'r:</l><l/><l n="35" xml:id="spp-119-06E2-line-35">He wav'd his wreath thrice o'er her head,</l><l/><l n="36" xml:id="spp-119-06E2-line-36">Thrice mutter'd something to the air.</l><l/><l n="37" xml:id="spp-119-06E2-line-37"/></lg><lg n="10" type="stanza"><l>And now he thought to seize his due:&#13;</l><l/><l n="38" xml:id="spp-119-06E2-line-38">But she the charm already try'd:</l><l/><l n="39" xml:id="spp-119-06E2-line-39">Thalia heard the call, and flew</l><l/><l n="40" xml:id="spp-119-06E2-line-40">To wait at bright Ardelia's side.</l><l/><l n="41" xml:id="spp-119-06E2-line-41"/></lg><lg n="11" type="stanza"><l>On sight of this celestial <hi rend="underline">prude</hi>,</l><l/><l n="42" xml:id="spp-119-06E2-line-42">Apollo thought it vain to stay;</l><l/><l n="43" xml:id="spp-119-06E2-line-43">Nor in her presence durst be rude;</l><l/><l n="44" xml:id="spp-119-06E2-line-44">But made his leg, and went away.</l><l/><l n="45" xml:id="spp-119-06E2-line-45"/></lg><lg n="12" type="stanza"><l>He hop'd to find some lucky hour,&#13;</l><l/><l n="46" xml:id="spp-119-06E2-line-46">When on their queen the muses wait:</l><l/><l n="47" xml:id="spp-119-06E2-line-47">But Pallas owns Ardelia's pow'r;</l><l/><l n="48" xml:id="spp-119-06E2-line-48">For vows divine are kept by fate.</l><l/><l n="49" xml:id="spp-119-06E2-line-49"/></lg><lg n="13" type="stanza"><l>Then, full of rage, Apollo spoke:&#13;</l><l/><l n="50" xml:id="spp-119-06E2-line-50">Deceitful nymph, I see thy art;</l><l/><l n="51" xml:id="spp-119-06E2-line-51">And, though I can't my gift revoke,</l><l/><l n="52" xml:id="spp-119-06E2-line-52">I'll disappoint its nobler part.</l><l/><l n="53" xml:id="spp-119-06E2-line-53"/></lg><lg n="14" type="stanza"><l>Let stubborn pride possess thee long,&#13;</l><l/><l n="54" xml:id="spp-119-06E2-line-54">And be thou negligent of fame;</l><l/><l n="55" xml:id="spp-119-06E2-line-55">With ev'ry muse to grace thy song,</l><l/><l n="56" xml:id="spp-119-06E2-line-56">Mayst thou despise a poet's name.</l><l/><l n="57" xml:id="spp-119-06E2-line-57"/></lg><lg n="15" type="stanza"><l>Of modest poets be thou first;&#13;</l><l/><l n="58" xml:id="spp-119-06E2-line-58">To silent shades repeat thy verse,</l><l/><l n="59" xml:id="spp-119-06E2-line-59">Till Fame and Echo almost burst,</l><l/><l n="60" xml:id="spp-119-06E2-line-60">Yet hardly dare one line rehearse.</l><l/><l n="61" xml:id="spp-119-06E2-line-61"/></lg><lg n="16" type="stanza"><l>And last, my vengeance to complete,&#13;</l><l/><l n="62" xml:id="spp-119-06E2-line-62">May you descend to take renown,</l><l/><l n="63" xml:id="spp-119-06E2-line-63">Prevail'd on by the thing you hate,</l><l/><l n="64" xml:id="spp-119-06E2-line-64">A Whig, and one that wears a gown.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

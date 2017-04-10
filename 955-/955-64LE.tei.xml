@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A <hi rend="underline">from the</hi> LIFE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-955-64LE-footnote-1 #spp-955-64LE-line-9"/>
+          <link target="#spp-955-64LE-footnote-2 #spp-955-64LE-line-9"/>
+          <link target="#spp-955-64LE-footnote-3 #spp-955-64LE-line-9"/>
+        </linkGrp>
+        <div n="955-64LE" type="poem"><head type="note" n="1" xml:id="spp-955-64LE-headnote-1"><lg n="1" xml:id="spp-955-64LE-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-955-64LE-headnote-1-line-group-1-line-1"><hi rend="underline">Two Pieces by </hi>Dean Swift<hi rend="underline">, not published in his Works</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-955-64LE-headnote-2"><lg n="1" xml:id="spp-955-64LE-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-955-64LE-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-955-64LE-headnote-3"><lg n="1" xml:id="spp-955-64LE-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-955-64LE-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-955-64LE-line-1"><hi rend="display-initial">C</hi>OME sit by my side, while this picture I draw:</l><l n="2" xml:id="spp-955-64LE-line-2"> In chatt'ring a magpye, in pride a jackdaw;</l><l n="3" xml:id="spp-955-64LE-line-3"> A temper the devil himself could not bridle,</l><l n="4" xml:id="spp-955-64LE-line-4"> Impertinent mixture of busy and idle:</l><l n="5" xml:id="spp-955-64LE-line-5"> As rude as a bear, no mule half so crabbed,</l><l n="6" xml:id="spp-955-64LE-line-6"> She swills like a sow, and she breeds like a rabbit.</l><l n="7" xml:id="spp-955-64LE-line-7"> An houswife in bed, at table a slattern,</l><l n="8" xml:id="spp-955-64LE-line-8"> For all an example, for no one a pattern</l><l n="9" xml:id="spp-955-64LE-line-9"> Now tell me, friend Thomas<ref target="#spp-955-64LE-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-955-64LE-footnote-1"><hi rend="underline">Dr. Sheridan</hi>.</note>, Ford, Gratten<ref target="#spp-955-64LE-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-955-64LE-footnote-2"><hi rend="underline">The Dean's Friend</hi>.</note>, and merry Dan<ref target="#spp-955-64LE-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-955-64LE-footnote-3"><hi rend="underline">Mr. Dan Jackson</hi>.</note>.</l><l n="10" xml:id="spp-955-64LE-line-10"> Has this any likeness to good Madam Sheridan?955-64LE   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

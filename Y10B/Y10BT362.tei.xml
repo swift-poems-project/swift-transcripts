@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">TO THE</hi>
+          <lb/>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBehr"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y10BT362" type="poem"><head type="note" n="1" xml:id="spp-Y10BT362-headnote-1"><lg n="1" xml:id="spp-Y10BT362-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y10BT362-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y10BT362-headnote-2"><lg n="1" xml:id="spp-Y10BT362-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y10BT362-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y10BT362-headnote-3"><lg n="1" xml:id="spp-Y10BT362-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y10BT362-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-Y10BT362-line-1"><hi rend="display-initial">A</hi>ND shall the <hi rend="underline">Patriot</hi> who maintain'd your Cause,</l><l n="2" xml:id="spp-Y10BT362-line-2"> From future <hi rend="underline">Ages</hi>, only meet <hi rend="underline">Applause</hi>,</l><l n="3" xml:id="spp-Y10BT362-line-3"> Shall He, who timely rose t' his Country's <hi rend="underline">Aid</hi>,</l><l n="4" xml:id="spp-Y10BT362-line-4"> By her own <hi rend="underline">Sons</hi>, her Guardians be betray'd!</l><l n="5" xml:id="spp-Y10BT362-line-5"> Did <hi rend="underline">Heathen-Virtues</hi> in your Hearts reside,</l><l n="6" xml:id="spp-Y10BT362-line-6"> These Wretches had been Damn'd for <hi rend="underline">Parracide</hi>.Shou'd YOU behold, whilst Dreadful Armies threat,</l><l n="7" xml:id="spp-Y10BT362-line-7"> The sure Destruction of an injur'd State,</l><l n="8" xml:id="spp-Y10BT362-line-8"> Some <hi rend="underline">Hero</hi> with Superiour Virtue bless'd,</l><l n="9" xml:id="spp-Y10BT362-line-9"> Avert their Rage, and Succour the Distress'd;</l><l n="10" xml:id="spp-Y10BT362-line-10"> Inspir'd with Love of Glorious <hi rend="underline">Liberty</hi>,</l><l n="11" xml:id="spp-Y10BT362-line-11"> Do Wonders to preserve his Country free.</l><l n="12" xml:id="spp-Y10BT362-line-12"> He like the <hi rend="underline">Guardian Shepherd</hi> stands, and they</l><l n="13" xml:id="spp-Y10BT362-line-13"> Like Lions spoil'd, of their expected <hi rend="underline">PREY</hi>,</l><l n="14" xml:id="spp-Y10BT362-line-14"> Each urging in his Rage the deadly Dart,</l><l n="15" xml:id="spp-Y10BT362-line-15"> Resolv'd to Pierce the Generous Hero's Heart;</l><l n="16" xml:id="spp-Y10BT362-line-16"> Struck with the Sight, your SOULS would swell with Grief,</l><l n="17" xml:id="spp-Y10BT362-line-17"> And dare ten thousand Deaths to his Relief,</l><l n="18" xml:id="spp-Y10BT362-line-18"> But, if the <hi rend="underline">People he preserv'd</hi>, should <hi rend="underline">Cry</hi><hi rend="underline">He went too far, and he Deserv'd to────Die</hi>,</l><l n="19" xml:id="spp-Y10BT362-line-19"> Would not your Soul such Treachery detest,</l><l n="20" xml:id="spp-Y10BT362-line-20"> And Indignation boil within your Breast,</l><l n="21" xml:id="spp-Y10BT362-line-21"> Would not you wish that wretched State preserv'd</l><l n="22" xml:id="spp-Y10BT362-line-22"> To feel the tenfold Ruine they Deserv'd.If then <hi rend="underline">Oppression</hi> has not quite Subdu'd</l><l n="23" xml:id="spp-Y10BT362-line-23"> At once your <hi rend="underline">Prudence</hi> and your Gratitude,</l><l n="24" xml:id="spp-Y10BT362-line-24"> If you Yourselves, conspire not your Undoing,</l><l n="25" xml:id="spp-Y10BT362-line-25"> And don't deserve, and won't draw down your Ruine,</l><l n="26" xml:id="spp-Y10BT362-line-26"> If Yet to Virtue You have some Pretence,</l><l n="27" xml:id="spp-Y10BT362-line-27"> If yet You are not lost to Common Sense,</l><l n="28" xml:id="spp-Y10BT362-line-28"> Assist your <hi rend="underline">Patriot</hi> in Your own Defence.</l><l n="29" xml:id="spp-Y10BT362-line-29"> That stupid Cant, <hi rend="underline">He too far</hi>, despise,</l><l n="30" xml:id="spp-Y10BT362-line-30"> And know that to be <hi rend="underline">Brave</hi> is to be Wise:</l><l n="31" xml:id="spp-Y10BT362-line-31"> Think how He Strugl'd for YOUR LIBERTY,</l><l n="32" xml:id="spp-Y10BT362-line-32" rend="flush right"> And give him <hi rend="underline">FREEDOM</hi>, whilst your Selves are Free.M. B.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

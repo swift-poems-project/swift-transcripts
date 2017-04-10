@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TO THE LANDLORD.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="404A04B2" type="poem"><head type="note" n="1" xml:id="spp-404A04B2-headnote-1"><lg n="1" xml:id="spp-404A04B2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-404A04B2-headnote-1-line-group-1-line-1">III. SIGN OF THE THREE CROSSES.</l></lg></head><head type="note" n="2" xml:id="spp-404A04B2-headnote-2"><lg n="1" xml:id="spp-404A04B2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-404A04B2-headnote-2-line-group-1-line-1">Swift in his journies on foot from Dublin to London, was accustomed to stop for refreshment or rest at the neat little ale-houses on the road's sides. One of these, between Dunchurch and Daventry, was formerly distinguished by the sign of the <hi rend="underline">three crosses</hi>, in reference to the three intersecting ways, which fixed the site of the house. At this, the Dean called for his breakfast; but the landlady, being engaged with accommodating her more constant customers, some waggoners, and staying to settle an altercation which unexpectedly arose, keeping him waiting, and inattentive to his repeated exclamations, he took from his pocket a diamond, and wrote on every pane of glass in her bettermost room:</l></lg></head><head type="note" n="3" xml:id="spp-404A04B2-headnote-3"><lg n="1" xml:id="spp-404A04B2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-404A04B2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-404A04B2-line-1"> There hang three crosses at thy door:&#13;</l><l n="2" xml:id="spp-404A04B2-line-2"> Hang up thy wife, and she'll make four.404A04B2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

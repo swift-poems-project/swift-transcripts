@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE</title>
+        <title>Best <hi rend="underline">in</hi> C<hi rend="SMALL-CAPS">HRISTENDOM</hi></title>
+        <title>A<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y01E31A1" type="poem"><head type="note" n="1" xml:id="spp-Y01E31A1-headnote-1"><lg n="1" xml:id="spp-Y01E31A1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y01E31A1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y01E31A1-headnote-2"><lg n="1" xml:id="spp-Y01E31A1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y01E31A1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y01E31A1-headnote-3"><lg n="1" xml:id="spp-Y01E31A1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y01E31A1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y01E31A1-line-1"><hi rend="display-initial">M</hi>USING one Day on <hi rend="underline">This</hi> and <hi rend="underline">That</hi>,</l><l n="2" xml:id="spp-Y01E31A1-line-2"> And thinking on I <hi rend="underline">know not what</hi>;</l><l n="3" xml:id="spp-Y01E31A1-line-3"> A jolly Nymph, of <hi rend="underline">Ph<unclear>ae</unclear>bus</hi>' Strain,</l><l n="4" xml:id="spp-Y01E31A1-line-4"> Attack'd me thus in merry Vein.</l></lg><lg n="2" type="stanza"><l n="5" xml:id="spp-Y01E31A1-line-5">The Rival Deities of Old,&#13;</l><l n="6" xml:id="spp-Y01E31A1-line-6"> A Shepherd chose (as I am told)</l><l n="7" xml:id="spp-Y01E31A1-line-7"> To whom each Goddess made her Suit;</l><l n="8" xml:id="spp-Y01E31A1-line-8"> And he decided their Dispute.</l><l n="9" xml:id="spp-Y01E31A1-line-9"> No Deities your Aid implore,</l><l n="10" xml:id="spp-Y01E31A1-line-10"> But Nymphs in Number three times Four.</l><l n="11" xml:id="spp-Y01E31A1-line-11"> (Nymphs full as sprightly and as good,</l><l n="12" xml:id="spp-Y01E31A1-line-12"> As e'er were made of Flesh and Blood,</l><l n="13" xml:id="spp-Y01E31A1-line-13"> Who now are sporting on the Plain,)</l><l n="14" xml:id="spp-Y01E31A1-line-14"> Have chose thee Umpire, happy Swain!</l><l n="15" xml:id="spp-Y01E31A1-line-15"> Here, read these Words────and quickly tell,</l><l n="16" xml:id="spp-Y01E31A1-line-16"> Thou, who in Wisdom dost excell,</l><l n="17" xml:id="spp-Y01E31A1-line-17"> Relate, or think me troublesome,</l><l n="18" xml:id="spp-Y01E31A1-line-18"> What means the────<hi rend="underline">Best in Christendom</hi>?</l><l n="19" xml:id="spp-Y01E31A1-line-19"> She smil'd, she blush'd, and with a Grace,</l><l n="20" xml:id="spp-Y01E31A1-line-20"> Hung down her Head, and veil'd her Face.</l></lg><lg n="3" type="stanza"><l n="21" xml:id="spp-Y01E31A1-line-21">From various Things, said I, arise&#13;</l><l n="22" xml:id="spp-Y01E31A1-line-22"> Variety of Qualities.</l><l n="23" xml:id="spp-Y01E31A1-line-23"> This fires the Soul, and that the Blood;</l><l n="24" xml:id="spp-Y01E31A1-line-24"> Mysterious some, some understood.</l><l n="25" xml:id="spp-Y01E31A1-line-25"> But, ah! how wide my Task and far is,</l><l n="26" xml:id="spp-Y01E31A1-line-26"> From what was giv'n to Shepherd <hi rend="underline">Paris</hi>!</l><l n="27" xml:id="spp-Y01E31A1-line-27"> Naked he view'd the Heav'nly Fair;</l><l n="28" xml:id="spp-Y01E31A1-line-28"> And did not slip one single Hair;</l><l n="29" xml:id="spp-Y01E31A1-line-29"> So curious in Examination,</l><l n="30" xml:id="spp-Y01E31A1-line-30"> No <hi rend="underline">Part</hi> escap'd his <hi rend="underline">Penetration</hi>.</l><l n="31" xml:id="spp-Y01E31A1-line-31"> But since my Judgment is requir'd,</l><l n="32" xml:id="spp-Y01E31A1-line-32"> I'll speak, for now I am inspir'd.</l><l n="33" xml:id="spp-Y01E31A1-line-33"> The Nymph so sprightly, Blyth and Gay,</l><l n="34" xml:id="spp-Y01E31A1-line-34"> Shall change their Notes another Way.</l><l n="35" xml:id="spp-Y01E31A1-line-35"> The <hi rend="underline">Best</hi>, must something be, <hi rend="underline">Divine</hi>:</l><l n="36" xml:id="spp-Y01E31A1-line-36"> And sure that THING must needs be thine.</l></lg><lg n="4" type="stanza"><l n="37" xml:id="spp-Y01E31A1-line-37">If so, says She (with swelling Veins)&#13;</l><l n="38" xml:id="spp-Y01E31A1-line-38"> Then prithee take it for thy Pains.Y01E31A1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

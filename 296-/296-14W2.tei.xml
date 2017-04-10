@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A SELEGY,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="296-14W2" type="poem"><head type="note" n="1" xml:id="spp-296-14W2-headnote-1"><lg n="1" xml:id="spp-296-14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-296-14W2-headnote-1-line-group-1-line-1">ON THE DEATH OF A LATE FAMOUS GENERAL.</l></lg></head><head type="note" n="2" xml:id="spp-296-14W2-headnote-2"><lg n="1" xml:id="spp-296-14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-296-14W2-headnote-2-line-group-1-line-1">1722.</l></lg></head><head type="note" n="3" xml:id="spp-296-14W2-headnote-3"><lg n="1" xml:id="spp-296-14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-296-14W2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-296-14W2-line-1"> H<hi rend="SMALL-CAPS">IS</hi> Grace! impossible! what, dead!</l><l n="2" xml:id="spp-296-14W2-line-2"> Of old age too, and in his bed!</l><l n="3" xml:id="spp-296-14W2-line-3"> And could that mighty warrior fall,</l><l n="4" xml:id="spp-296-14W2-line-4"> And so inglorious, after all?</l><l n="5" xml:id="spp-296-14W2-line-5"> Well, since he's gone, no matter how,</l><l n="6" xml:id="spp-296-14W2-line-6"> The last loud trump must wake him now;</l><l n="7" xml:id="spp-296-14W2-line-7"> And, trust me, as the noise grows stronger,</l><l n="8" xml:id="spp-296-14W2-line-8"> He'd wish to sleep a little longer.</l><l n="9" xml:id="spp-296-14W2-line-9"> And could he be indeed so old</l><l n="10" xml:id="spp-296-14W2-line-10"> As by the newspapers we're told?</l><l n="11" xml:id="spp-296-14W2-line-11"> Threescore, I think, is pretty high;</l><l n="12" xml:id="spp-296-14W2-line-12"> 'Twas time in conscience he should die!</l><l n="13" xml:id="spp-296-14W2-line-13"> This world he cumber'd long enough;</l><l n="14" xml:id="spp-296-14W2-line-14"> He burnt his candle to the snuff;</l><l n="15" xml:id="spp-296-14W2-line-15"> And that's the reason, some folks think,</l><l n="16" xml:id="spp-296-14W2-line-16"> He left behind so great a stink.</l><l n="17" xml:id="spp-296-14W2-line-17"> Behold his funeral appears,</l><l n="18" xml:id="spp-296-14W2-line-18"> Nor widow's sighs, nor orphan's tears,</l><l n="19" xml:id="spp-296-14W2-line-19"> Wont at such times each heart to pierce,</l><l n="20" xml:id="spp-296-14W2-line-20"> Attend the progress of his hearse.</l><l n="21" xml:id="spp-296-14W2-line-21"> But what of that? his friends may say,</l><l n="22" xml:id="spp-296-14W2-line-22"> He had those honours in his day.</l><l n="23" xml:id="spp-296-14W2-line-23"> True to his profit and his pride,</l><l n="24" xml:id="spp-296-14W2-line-24"> He made them weep before he died.Come hither, all ye empty things!</l><l n="25" xml:id="spp-296-14W2-line-25"> Ye bubbles raised by breath of kings!</l><l n="26" xml:id="spp-296-14W2-line-26"> Who float upon the tide of state;</l><l n="27" xml:id="spp-296-14W2-line-27"> Come hither, and behold your fate!</l><l n="28" xml:id="spp-296-14W2-line-28"> Let Pride be taught by this rebuke,</l><l n="29" xml:id="spp-296-14W2-line-29"> How very mean a thing's a duke;</l><l n="30" xml:id="spp-296-14W2-line-30"> From all his ill-got honours flung,</l><l n="31" xml:id="spp-296-14W2-line-31"> Turn'd to that dirt from whence he sprung.296-14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

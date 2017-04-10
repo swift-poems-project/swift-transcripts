@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">A Cantata</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="956-ROGP" type="poem"><head type="note" n="1" xml:id="spp-956-ROGP-headnote-1"><lg n="1" xml:id="spp-956-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-956-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-956-ROGP-headnote-2"><lg n="1" xml:id="spp-956-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-956-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-956-ROGP-headnote-3"><lg n="1" xml:id="spp-956-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-956-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-956-ROGP-line-1"> In harmony would you excel,&#13;</l><l n="2" xml:id="spp-956-ROGP-line-2"> Suit your words to music well,</l><l n="3" xml:id="spp-956-ROGP-line-3"> music well,</l><l n="4" xml:id="spp-956-ROGP-line-4"> Suit your words to your music well,</l><l n="5" xml:id="spp-956-ROGP-line-5"> Suit your words to music well,</l><l n="6" xml:id="spp-956-ROGP-line-6"> For Pegasus runs, runs every race</l><l n="7" xml:id="spp-956-ROGP-line-7"> By gal-lal-lal-lal-laloping high, or level pace,</l><l n="8" xml:id="spp-956-ROGP-line-8"> Or ambling or sweet Canterbury,</l><l n="9" xml:id="spp-956-ROGP-line-9"> Or with a down, a high down derry.</l><l n="10" xml:id="spp-956-ROGP-line-10"> No, no victory, victory he ever got,</l><l n="11" xml:id="spp-956-ROGP-line-11"> By jo-o-o-o-ogling, jo-o-o-o-ogling trot.</l><l n="12" xml:id="spp-956-ROGP-line-12"> No muse harmonious entertains,</l><l n="13" xml:id="spp-956-ROGP-line-13"> Rough roistering, rustic, roar-oar-oaring strains,</l><l n="14" xml:id="spp-956-ROGP-line-14"> Nor shall you twine the cra-a-a-ackling, crackling bays,</l><l n="15" xml:id="spp-956-ROGP-line-15"> By sneaking, snivelling rou-ou-oun-oundelays.</l><l n="16" xml:id="spp-956-ROGP-line-16"> Now slowly move your fiddle stick,</l><l n="17" xml:id="spp-956-ROGP-line-17"> Now, tantantantantantantivi,</l><l n="18" xml:id="spp-956-ROGP-line-18"> Now tantantantantantivi</l><l n="19" xml:id="spp-956-ROGP-line-19"> quick, quick.</l><l n="20" xml:id="spp-956-ROGP-line-20"> Now trembling, shivering, quivering, quaking,</l><l n="21" xml:id="spp-956-ROGP-line-21"> Set hoping, hoping, hoping hearts of lovers aching,</l><l n="22" xml:id="spp-956-ROGP-line-22"> Fly, fly-y-y-y</l><l n="23" xml:id="spp-956-ROGP-line-23"> Above the sky,</l><l n="24" xml:id="spp-956-ROGP-line-24"> Rambling, gambolling, ra-a-a-a-a-ambling, gambolling,</l><l n="25" xml:id="spp-956-ROGP-line-25"> Trolloping, lolloping, galloping, Trolloping,</l><l n="26" xml:id="spp-956-ROGP-line-26"> lolloping, galloping, trollop,</l><l n="27" xml:id="spp-956-ROGP-line-27"> Lolloping, trolloping, galloping, Lolloping,</l><l n="28" xml:id="spp-956-ROGP-line-28"> trolloping, galloping, lollop,</l><l n="29" xml:id="spp-956-ROGP-line-29"> Now cree-ee-eep, sweep, sweep, sweep the deep,</l><l n="30" xml:id="spp-956-ROGP-line-30"> See, see, Celia, Celia dies, Dies, dies, dies, dies, dies, dies, dies,</l><l n="31" xml:id="spp-956-ROGP-line-31"> While true lovers' eyes</l><l n="32" xml:id="spp-956-ROGP-line-32"> Weeping sleep, Sleeping weep, Weeping sleep.</l><l n="33" xml:id="spp-956-ROGP-line-33"> Bo peep, bo peep, bo peep, Bo peep, peep, bo bo peep.956-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

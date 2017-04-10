@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE</title>
+        <title>
+          <lb/>
+          <lb/>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="082-11L-" type="poem"><head type="note" n="1" xml:id="spp-082-11L--headnote-1"><lg n="1" xml:id="spp-082-11L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-082-11L--headnote-1-line-group-1-line-1"><hi rend="underline">Out of </hi>Pliny<hi rend="underline"> Nat. Hist. </hi>L. 10. C. 67<hi rend="underline">. and</hi> L. 29. C. 4.</l></lg></head><head type="note" n="2" xml:id="spp-082-11L--headnote-2"><lg n="1" xml:id="spp-082-11L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-082-11L--headnote-2-line-group-1-line-1"><hi rend="underline">Anno</hi>. 1705.</l></lg></head><head type="note" n="3" xml:id="spp-082-11L--headnote-3"><lg n="1" xml:id="spp-082-11L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-082-11L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-082-11L--line-1"><hi rend="display-initial">A</hi>S Mastive Dogs in Modern Phrase are</l><l n="2" xml:id="spp-082-11L--line-2"> Call'd <hi rend="underline">Pompey, Scipio</hi> and <hi rend="underline">C<unclear>ae</unclear>sar</hi>;</l><l n="3" xml:id="spp-082-11L--line-3"> As <hi rend="underline">Pies</hi> and <hi rend="underline">Daws</hi> are often stil'd</l><l n="4" xml:id="spp-082-11L--line-4"> With Christian Nick-names like a Child;</l><l n="5" xml:id="spp-082-11L--line-5"> As we say, <hi rend="underline">Monsieur</hi>, to an <hi rend="underline">Ape</hi></l><l n="6" xml:id="spp-082-11L--line-6"> Without offence to Human Shape:</l><l n="7" xml:id="spp-082-11L--line-7"> So Men have got from Bird and Brute</l><l n="8" xml:id="spp-082-11L--line-8"> Names that would best their Natures suit:</l><l n="9" xml:id="spp-082-11L--line-9"> The <hi rend="underline">Lyon, Eagle, Fox</hi> and <hi rend="underline">Bear</hi></l><l n="10" xml:id="spp-082-11L--line-10"> Were Hero's Titles heretofore,</l><l n="11" xml:id="spp-082-11L--line-11"> Bestow'd as Hi'roglyphicks fit</l><l n="12" xml:id="spp-082-11L--line-12"> T' express their Valor, Strength or Wit.</l><l n="13" xml:id="spp-082-11L--line-13"> For, what is understood by <hi rend="underline">Fame</hi></l><l n="14" xml:id="spp-082-11L--line-14"> Beside the getting of a Name?</l><l n="15" xml:id="spp-082-11L--line-15"> But e're since Men invented Guns,</l><l n="16" xml:id="spp-082-11L--line-16"> A different way their Fancy runs;</l><l n="17" xml:id="spp-082-11L--line-17"> To paint a Hero, we enquire</l><l n="18" xml:id="spp-082-11L--line-18"> For something that will conquer Fire,</l><l n="19" xml:id="spp-082-11L--line-19"> Would you describe <hi rend="underline">Turenne</hi> or <hi rend="underline">Trump</hi></l><l n="20" xml:id="spp-082-11L--line-20"> Think of a Bucket or a Pump.</l><l n="21" xml:id="spp-082-11L--line-21"> Are these too low?──then find out grander,</l><l n="22" xml:id="spp-082-11L--line-22"> Call my Lord <hi rend="underline">C</hi>────a <hi rend="underline">Salamander</hi>.</l><l n="23" xml:id="spp-082-11L--line-23"> 'Tis well.──But since we live among</l><l n="24" xml:id="spp-082-11L--line-24"> Detractors with an evil Tongue,</l><l n="25" xml:id="spp-082-11L--line-25"> Who may object against the Term,<hi rend="underline">Pliny</hi> shall prove what we affirm:<hi rend="underline">Pliny</hi> shall prove, and we'll apply,</l><l n="26" xml:id="spp-082-11L--line-26"> And I'll be judg'd by standers-by.</l></lg><lg n="2" type="stanza"><l n="27" xml:id="spp-082-11L--line-27">FIRST then, our Author has defin'd&#13;</l><l n="28" xml:id="spp-082-11L--line-28"> This Reptil, of the Serpent kind,</l><l n="29" xml:id="spp-082-11L--line-29"> With gawdy Coat, and shining Train,</l><l n="30" xml:id="spp-082-11L--line-30"> But loathsom Spots his Body stain:</l><l n="31" xml:id="spp-082-11L--line-31"> Out from some Hole obscure he flies</l><l n="32" xml:id="spp-082-11L--line-32"> When Rains descend, and Tempests rise,</l><l n="33" xml:id="spp-082-11L--line-33"> Till the Sun clears the Air; and then</l><l n="34" xml:id="spp-082-11L--line-34"> Crawls back neglected to his Den.</l></lg><lg n="3" type="stanza"><l n="35" xml:id="spp-082-11L--line-35">SO when the War has rais'd a Storm&#13;</l><l n="36" xml:id="spp-082-11L--line-36"> I've seen a <hi rend="underline">Snake</hi> in human Form,</l><l n="37" xml:id="spp-082-11L--line-37"> All stain'd with Infamy and Vice,</l><l n="38" xml:id="spp-082-11L--line-38"> Leap from the Dunghill in a trice,</l><l n="39" xml:id="spp-082-11L--line-39"> Burnish and make a gaudy show,</l><l n="40" xml:id="spp-082-11L--line-40"> Become a General, Peer and Beau,</l><l n="41" xml:id="spp-082-11L--line-41"> Till Peace hath made the Sky Serene,</l><l n="42" xml:id="spp-082-11L--line-42"> Then shrink into it's Hole again.</l></lg><lg n="4" type="stanza"><l n="43" xml:id="spp-082-11L--line-43" rend="indent(2)"><hi rend="underline">All this we grant──why, then look yonder,&#13;Sure that must be a</hi> Salamander!</l></lg><lg n="5" type="stanza"><l n="44" xml:id="spp-082-11L--line-44">FARTHER, we are by <hi rend="underline">Pliny</hi> told</l><l n="45" xml:id="spp-082-11L--line-45"> This <hi rend="underline">Serpent</hi> is extreamly cold,</l><l n="46" xml:id="spp-082-11L--line-46"> So cold, that put it in the Fire,</l><l n="47" xml:id="spp-082-11L--line-47"> 'Twill make the very Flames expire,</l><l n="48" xml:id="spp-082-11L--line-48"> Beside, it Spues a filthy Froth,</l><l n="49" xml:id="spp-082-11L--line-49"> (Whether thro' Rage or Love, or both)</l><l n="50" xml:id="spp-082-11L--line-50"> Of Matter purulent and white</l><l n="51" xml:id="spp-082-11L--line-51"> Which happ'ning on the Skin to light,</l><l n="52" xml:id="spp-082-11L--line-52"> And there corrupting to a Wound</l><l n="53" xml:id="spp-082-11L--line-53"> Spreads Leprosy and Baldness round.</l></lg><lg n="6" type="stanza"><l n="54" xml:id="spp-082-11L--line-54">SO have I seen a batter'd Beau&#13;</l><l n="55" xml:id="spp-082-11L--line-55"> By Age and Claps grown cold as Snow,</l><l n="56" xml:id="spp-082-11L--line-56"> Whose Breath or Touch, where e'er he came,</l><l n="57" xml:id="spp-082-11L--line-57"> Blew out Love's Torch or chill'd the Flame:</l><l n="58" xml:id="spp-082-11L--line-58"> And should some Nymph who ne'er was cruel,</l><l n="59" xml:id="spp-082-11L--line-59"> Like <hi rend="underline">Carleton</hi> cheap, or fam'd <hi rend="underline">Duruel</hi>,</l><l n="60" xml:id="spp-082-11L--line-60"> Receive the Filth which he ejects,</l><l n="61" xml:id="spp-082-11L--line-61"> She soon would find, the same Effects</l><l n="62" xml:id="spp-082-11L--line-62"> Her tainted Carcase to pursue,</l><l n="63" xml:id="spp-082-11L--line-63"> As from the <hi rend="underline">Salamander</hi>'s Spue;</l><l n="64" xml:id="spp-082-11L--line-64"> A Dismal shedding of her Locks</l><l n="65" xml:id="spp-082-11L--line-65"> And, if no Leprosy, a Pox.</l></lg><lg n="7" type="stanza"><l n="66" xml:id="spp-082-11L--line-66" rend="indent(2)"><hi rend="underline">Then I'll appeal to each By-stander,&#13;Whether this ben't a</hi> Salamander.082-11L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

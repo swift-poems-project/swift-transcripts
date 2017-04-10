@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="981-002D" type="poem"><head type="note" n="1" xml:id="spp-981-002D-headnote-1"><lg n="1" xml:id="spp-981-002D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-981-002D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-981-002D-headnote-2"><lg n="1" xml:id="spp-981-002D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-981-002D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-981-002D-headnote-3"><lg n="1" xml:id="spp-981-002D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-981-002D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-981-002D-line-1"> Perlegi Versus versos, Jonathan bone, tersos&#13;</l><l n="2" xml:id="spp-981-002D-line-2"> Perlepidos quidem, scribendo semper es idem,</l><l n="3" xml:id="spp-981-002D-line-3"> Laudibus extollo Te, Tu mihi magnus Apollo.</l><l n="4" xml:id="spp-981-002D-line-4"> Tu frater Ph<unclear>oe</unclear>bes Occulis Collyria pr<unclear>ae</unclear>bes,</l><l n="5" xml:id="spp-981-002D-line-5"> Ne minus insan<unclear>ae</unclear> reparas quoq; Damna Dian<unclear>ae</unclear></l><l n="6" xml:id="spp-981-002D-line-6"> Qu<unclear>ae</unclear> me percussit radijs (nec dixeris ussit)</l><l n="7" xml:id="spp-981-002D-line-7"> Frigore collecto, Medicus moderamine tecto</l><l n="8" xml:id="spp-981-002D-line-8"> Lodicum binum premit, et negat is mihi Vinum.</l><l n="9" xml:id="spp-981-002D-line-9"> O Terra et C<unclear>oe</unclear>lum! quam reddit pectus anhelum.</l><l n="10" xml:id="spp-981-002D-line-10"> Os mihi jam siccum, Liceat mihi bibere dic cum?</l><l n="11" xml:id="spp-981-002D-line-11"> Ex Vestro grato poculo tam s<unclear>ae</unclear>pe probato</l><l n="12" xml:id="spp-981-002D-line-12"> Vina crepant sales Ostendet quis mihi tales,</l><l n="13" xml:id="spp-981-002D-line-13"> Lumina Vos sperno dum Cupp<unclear>ae</unclear> Gaudia cerno</l><l n="14" xml:id="spp-981-002D-line-14"> Perdere etenim pellem nostram quoq; crura Mavellem</l><l n="15" xml:id="spp-981-002D-line-15"> Amphora, quam dulces risus, queis pectora mulces</l><l n="16" xml:id="spp-981-002D-line-16"> Pangitur a Flacco cum pectus turget Jaccho</l><l n="17" xml:id="spp-981-002D-line-17"> Clarius Evohe ingeminans geminatur et Ohe</l><l n="18" xml:id="spp-981-002D-line-18"> Nempe Jocosa propago lusit sic Vocis Imago.981-002D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

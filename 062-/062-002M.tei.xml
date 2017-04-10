@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Discovery.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-062-002M-footnote-1 #spp-062-002M-line-6"/>
+          <link target="#spp-062-002M-footnote-2 #spp-062-002M-line-7"/>
+        </linkGrp>
+        <div n="062-002M" type="poem"><head type="note" n="1" xml:id="spp-062-002M-headnote-1"><lg n="1" xml:id="spp-062-002M-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-062-002M-headnote-1-line-group-1-line-1">By Dean Swift.</l></lg></head><head type="note" n="2" xml:id="spp-062-002M-headnote-2"><lg n="1" xml:id="spp-062-002M-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-062-002M-headnote-2-line-group-1-line-1">Written when he was Chaplain to L<hi rend="sup">d</hi> 08. Berkley, L<hi rend="sup">d</hi> 08. L<hi rend="sup">t</hi> 08. of Ireland.</l></lg></head><head type="note" n="3" xml:id="spp-062-002M-headnote-3"><lg n="1" xml:id="spp-062-002M-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-062-002M-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-062-002M-line-1" rend="align(center)">1.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-062-002M-line-2" rend="flush left">When wise Lord Berkeley first came here,&#13;We Irish Fools expected Wonders;</l><l n="3" xml:id="spp-062-002M-line-3" rend="align(center)"> Nor thought to find so great a Peer,Ere a Week past, committing Blunders.2.</l></lg><lg n="3" type="stanza"><l n="4" xml:id="spp-062-002M-line-4" rend="flush left">'Till on a Day, cut out by Fate,&#13;When Folks came thick to make their Court,</l><l n="5" xml:id="spp-062-002M-line-5" rend="align(center)"> Out slipp'd a Mystery of State,To give the Town, and Country Sport.3.</l></lg><lg n="4" type="stanza"><l n="6" xml:id="spp-062-002M-line-6" rend="flush left">Now enter <ref target="#spp-062-002M-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-062-002M-footnote-1">My Lord's wise Secretary.</note> Bush with new State Airs,His Lordship's Premier Minister,</l><l n="7" xml:id="spp-062-002M-line-7" rend="align(center)"> And who, in all profound Affairs,Is held as needful as his <ref target="#spp-062-002M-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-062-002M-footnote-2">always taken before my Lord went to Council.</note> Glyster.4.</l></lg><lg n="5" type="stanza"><l n="8" xml:id="spp-062-002M-line-8" rend="flush left">With Head reclining on his Shoulder,&#13;He deals, and hears mysterious Chat;</l><l n="9" xml:id="spp-062-002M-line-9" rend="align(center)"> While ev'ry ignorant BeholderAsks of his Neighbour; who is that?5.</l></lg><lg n="6" type="stanza"><l n="10" xml:id="spp-062-002M-line-10" rend="flush left">With this he put up to my Lord,&#13;The Courtiers kept their Distance due,</l><l n="11" xml:id="spp-062-002M-line-11" rend="align(center)"> He twitch'd his Slieve, and stole a Word,Then to a Corner both withdrew.6.</l></lg><lg n="7" type="stanza"><l n="12" xml:id="spp-062-002M-line-12" rend="flush left">Imagine now my Lord and Bush&#13;Whisp'ring in Junto most profound,</l><l n="13" xml:id="spp-062-002M-line-13" rend="align(center)"> Like good King Phys, and good King Ush,While all the rest stood gaping round.7.</l></lg><lg n="8" type="stanza"><l n="14" xml:id="spp-062-002M-line-14" rend="flush left">At length a Spark, not too well bred,&#13;Of forward Face, and Ear acute,</l><l n="15" xml:id="spp-062-002M-line-15" rend="align(center)"> Advanc'd on Tiptoe, lean'd his HeadTo overhear the grand Dispute;8.</l></lg><lg n="9" type="stanza"><l n="16" xml:id="spp-062-002M-line-16" rend="flush left">To learn what Northern Kings design,&#13;Or from Whitehall some new Express,</l><l n="17" xml:id="spp-062-002M-line-17" rend="align(center)"> Papists disarm'd, or Fall of Coin,For sure (thought he) it can't be less.9.</l></lg><lg n="10" type="stanza"><l n="18" xml:id="spp-062-002M-line-18" rend="flush left">My Lord, said Bush, a Friend and I,&#13;Disguis'd in two old thread-bare Coats,</l><l n="19" xml:id="spp-062-002M-line-19" rend="align(center)"> E're Morning's Dawn stole out to spy,How Markets went for Hay and Oats.10</l></lg><lg n="11" type="stanza"><l n="20" xml:id="spp-062-002M-line-20" rend="flush left">With that he draws two Handfuls out,&#13;The one was Oats, the other Hay,</l><l n="21" xml:id="spp-062-002M-line-21" rend="align(center)"> Puts this to's Excellency's Snout,And begs he wou'd the other weigh.11.</l></lg><lg n="12" type="stanza"><l n="22" xml:id="spp-062-002M-line-22" rend="flush left">My Lord seems pleas'd, but still directs,&#13;By all means to bring down the Rates;</l><l n="23" xml:id="spp-062-002M-line-23" rend="align(center)"> Then, with a Congee Circumflex,Bush, smiling round on all, retreats.12.</l></lg><lg n="13" type="stanza"><l n="24" xml:id="spp-062-002M-line-24" rend="flush left">Our Listner stood a while confus'd,&#13;But gath'ring Spirits, wisely ran for't,</l><l n="25" xml:id="spp-062-002M-line-25"> Enrag'd to see the World abus'dBy two such whisp'ring Kings of Branford.062-002M   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A</title>
+        <title>REBUS</title>
+        <title>Written by a LADY, On</title>
+        <title>The Rev. <hi rend="underline">D---n S----t</hi>.</title>
+        <title>WITH HIS<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-715-WILH-footnote-1 #spp-715-WILH-line-1"/>
+          <link target="#spp-715-WILH-footnote-2 #spp-715-WILH-line-3"/>
+        </linkGrp>
+        <div n="715-WILH" type="poem"><head type="note" n="1" xml:id="spp-715-WILH-headnote-1"><lg n="1" xml:id="spp-715-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-715-WILH-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-715-WILH-headnote-2"><lg n="1" xml:id="spp-715-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-715-WILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-715-WILH-headnote-3"><lg n="1" xml:id="spp-715-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-715-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-715-WILH-line-1"><hi rend="display-initial">C</hi>UTT the Name of the M<hi rend="SMALL-CAPS">AN</hi> who his <hi rend="underline">Mistress</hi> deny'd, 3} <ref target="#spp-715-WILH-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-715-WILH-footnote-1"><hi rend="underline">Jo──seph</hi>,</note></l><l n="2" xml:id="spp-715-WILH-line-2"> And let the <hi rend="underline">first</hi> of it, be only apply'd</l><l n="3" xml:id="spp-715-WILH-line-3"> To join with the <hi rend="underline">Prophet</hi> who D<hi rend="SMALL-CAPS">AVID</hi> did Chide. <ref target="#spp-715-WILH-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-715-WILH-footnote-2"><hi rend="underline">Nathan</hi>.</note></l><l n="4" xml:id="spp-715-WILH-line-4"> Then say what a <hi rend="underline">Horse</hi> is that runs very <hi rend="underline">fast</hi>,</l><l n="5" xml:id="spp-715-WILH-line-5"> And that which deserves to be <hi rend="underline">first</hi> put the <hi rend="underline">last</hi>;</l><l n="6" xml:id="spp-715-WILH-line-6"> Spell all then, and put them together, to find</l><l n="7" xml:id="spp-715-WILH-line-7"> The N<hi rend="SMALL-CAPS">AME</hi> and the V<hi rend="SMALL-CAPS">ERTUES</hi> of <hi rend="underline">Him</hi> I design'd.</l><l n="8" xml:id="spp-715-WILH-line-8"> Like the <hi rend="underline">Patriarch</hi> in <hi rend="underline">Egypt</hi>, he's vers'd in the <hi rend="underline">State</hi>.</l><l n="9" xml:id="spp-715-WILH-line-9"> Like the <hi rend="underline">Prophet</hi> in <hi rend="underline">Jury</hi>, he's free with the <hi rend="underline">Great</hi>.</l><l n="10" xml:id="spp-715-WILH-line-10"> Like a <hi rend="underline">Racer</hi> he <hi rend="underline">flys</hi> to Succour with speed,</l><l n="11" xml:id="spp-715-WILH-line-11"> When his <hi rend="underline">Friends</hi> want his Aid, or <hi rend="underline">Desert</hi> is in need.715-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

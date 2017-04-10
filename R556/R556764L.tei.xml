@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bounce, and Fopp.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R556764L" type="poem"><head type="note" n="1" xml:id="spp-R556764L-headnote-1"><lg n="1" xml:id="spp-R556764L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-R556764L-headnote-1-line-group-1-line-1">An Epistle from a dog at Twickenham to a Dog at Court.</l></lg></head><head type="note" n="2" xml:id="spp-R556764L-headnote-2"><lg n="1" xml:id="spp-R556764L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-R556764L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-R556764L-headnote-3"><lg n="1" xml:id="spp-R556764L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-R556764L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-R556764L-line-1"> To Thee Sweet Fop these lines J Send&#13;</l><l n="2" xml:id="spp-R556764L-line-2"> Who tho' no Spaniel am a Freind.</l><l n="3" xml:id="spp-R556764L-line-3"> My Tail indeed twas but in play</l><l n="4" xml:id="spp-R556764L-line-4"> Now flurting this, &amp; now that way</l><l n="5" xml:id="spp-R556764L-line-5"> Did with a touch of just the tip</l><l n="6" xml:id="spp-R556764L-line-6"> Once chance to hurt Your Lapdog Ship</l><l n="7" xml:id="spp-R556764L-line-7"> But thence to think J'le bite Your Head of</l><l n="8" xml:id="spp-R556764L-line-8"> Sure Bounce is One You never read of.Fop You can dance &amp; make a leg</l><l n="9" xml:id="spp-R556764L-line-9"> Can fetch and carry, cringe &amp; beg,</l><l n="10" xml:id="spp-R556764L-line-10"> And what's the top of all Your tricks</l><l n="11" xml:id="spp-R556764L-line-11"> Can Stoop to pick up Strings &amp; Sticks</l><l n="12" xml:id="spp-R556764L-line-12"> Wee Country Dogs Love Nobler Sport.</l><l n="13" xml:id="spp-R556764L-line-13"> And Scorn the pranks of Dogs at Court</l><l n="14" xml:id="spp-R556764L-line-14"> Fye Naughty thing where'ere You come</l><l n="15" xml:id="spp-R556764L-line-15"> To fart &amp; piss about the room</l><l n="16" xml:id="spp-R556764L-line-16"> To lay Your Head in every lap</l><l n="17" xml:id="spp-R556764L-line-17"> And when They think not of you Snap</l><l n="18" xml:id="spp-R556764L-line-18"> The worst that Envy, or that Spite</l><l n="19" xml:id="spp-R556764L-line-19"> Can Say of me is, J can bite</l><l n="20" xml:id="spp-R556764L-line-20"> That Sturdy Beggars, Rogues in raggs,</l><l n="21" xml:id="spp-R556764L-line-21"> That poke at Me, can make no braggs</l><l n="22" xml:id="spp-R556764L-line-22"> And that to towze Such things as flutter</l><l n="23" xml:id="spp-R556764L-line-23"> To Honest Bounce is Bread and Butter</l><l n="24" xml:id="spp-R556764L-line-24"> While You &amp; every Courtly Fop</l><l n="25" xml:id="spp-R556764L-line-25"> Fawn on the Devil for a chop.</l><l n="26" xml:id="spp-R556764L-line-26"> J've the Humanity to hate</l><l n="27" xml:id="spp-R556764L-line-27"> A Butcher, tho' He brings Me meat.</l><l n="28" xml:id="spp-R556764L-line-28"> And let me tell You have a Nose</l><l n="29" xml:id="spp-R556764L-line-29"> (What ever Stinking Fopps Suppose)</l><l n="30" xml:id="spp-R556764L-line-30"> That under Cloath of Gold, or Tissue,</l><l n="31" xml:id="spp-R556764L-line-31"> Can Smell a plaister or an issue:Your pilfering Lord with Simple Pride</l><l n="32" xml:id="spp-R556764L-line-32"> May wear a picklock at His Side,</l><l n="33" xml:id="spp-R556764L-line-33"> My Master wants no key of State</l><l n="34" xml:id="spp-R556764L-line-34"> For Bounce can keep His House and GateBefore my Puppyes Set your beef</l><l n="35" xml:id="spp-R556764L-line-35"> Not one True Bounce will be a Theif</l><l n="36" xml:id="spp-R556764L-line-36"> Nor one without permission feed</l><l n="37" xml:id="spp-R556764L-line-37"> (Though come of Jlay's hungry Breed)</l><l n="38" xml:id="spp-R556764L-line-38"> But whatSoe're the Fathers Race,</l><l n="39" xml:id="spp-R556764L-line-39"> From me They Suck a little Grace,</l><l n="40" xml:id="spp-R556764L-line-40"> While Your Fine Whelps learn All to Steal</l><l n="41" xml:id="spp-R556764L-line-41"> Bred up by hand, and chick and veal.See Bounce like Berecynthia crown'd</l><l n="42" xml:id="spp-R556764L-line-42"> With thundring Jnfants All around.</l><l n="43" xml:id="spp-R556764L-line-43"> Beneath beside her and a·top</l><l n="44" xml:id="spp-R556764L-line-44"> A hundred Sons &amp; not One Fop:</l><l n="45" xml:id="spp-R556764L-line-45"> When All Such Dogs have had Their Dayes,</l><l n="46" xml:id="spp-R556764L-line-46"> As Knavish Pams, &amp; fawning Trayes,</l><l n="47" xml:id="spp-R556764L-line-47"> The Motley Race of Hervey queen'es</l><l n="48" xml:id="spp-R556764L-line-48"> And Courtly Vices, Beastly Venyes,<gap/><gap/></l><l n="49" xml:id="spp-R556764L-line-49"> Fair Thames Shall hear from Shoar to Shoar,</l><l n="50" xml:id="spp-R556764L-line-50"> A hundred Bounces manly roar,<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>My Eldest born resides not far</l><l n="51" xml:id="spp-R556764L-line-51"> Where Shines Great Straffords guilded Starr,</l><l n="52" xml:id="spp-R556764L-line-52"> To those high doors with equall grace</l><l n="53" xml:id="spp-R556764L-line-53"> He Stands the Guardian of the Place</l><l n="54" xml:id="spp-R556764L-line-54"> My Second Child of Fortune waits</l><l n="55" xml:id="spp-R556764L-line-55"> At Burlingtons Palladian Gates.</l><l n="56" xml:id="spp-R556764L-line-56"> Jn whose Bright Palace every Guest,</l><l n="57" xml:id="spp-R556764L-line-57"> And every Dog's Supremely blest,<gap/><gap/><gap/><gap/><gap/><gap/>And oh'would Fate the Bliss decree</l><l n="58" xml:id="spp-R556764L-line-58"> To Mine (J ask it not to Me)</l><l n="59" xml:id="spp-R556764L-line-59"> That Tow My Tallest Sons might grace</l><l n="60" xml:id="spp-R556764L-line-60"> Each walking with Majestick Pace</l><l n="61" xml:id="spp-R556764L-line-61"> Jülus Side as erst Evanders,</l><l n="62" xml:id="spp-R556764L-line-62"> Jnstead of Spyes, &amp; Pimps, &amp; Panders,<gap/><gap/></l><l n="63" xml:id="spp-R556764L-line-63"> That so a Noble Youth and True,</l><l n="64" xml:id="spp-R556764L-line-64"> Might have at least a Freind, or Two;<gap/><gap/></l><l n="65" xml:id="spp-R556764L-line-65"> Then Bounce (tis all that Bounce can crave)</l><l n="66" xml:id="spp-R556764L-line-66"> Shall wagg Her Tail within the GraveAnd tho' no Doctors Whigg or Tory Ones</l><l n="67" xml:id="spp-R556764L-line-67"> Except The Sect of Pythagoreans</l><l n="68" xml:id="spp-R556764L-line-68"> Have Jmmortality assign'd</l><l n="69" xml:id="spp-R556764L-line-69"> To any Beast but Drydens Hind;</l><l n="70" xml:id="spp-R556764L-line-70"> Yet Master P──Whom Witt and Sence</l><l n="71" xml:id="spp-R556764L-line-71"> Have made Tremendous as a Prince,</l><l n="72" xml:id="spp-R556764L-line-72"> Tho' now of Mighty Peers He Sings,</l><l n="73" xml:id="spp-R556764L-line-73"> And now a word or two of Kings</l><l n="74" xml:id="spp-R556764L-line-74"> Has Sworn by <hi rend="underline">Stix</hi> (the Poets Oath,</l><l n="75" xml:id="spp-R556764L-line-75"> The dread of Dogs &amp; Poets both)</l><l n="76" xml:id="spp-R556764L-line-76"> His Lords and Ladyes He'le renounce</l><l n="77" xml:id="spp-R556764L-line-77"> To Sing Fidelity, and Bounce.R556764L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

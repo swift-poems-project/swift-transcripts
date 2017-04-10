@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DESIRE AND POSSESSION. 1727.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="411-14W2" type="poem"><head type="note" n="1" xml:id="spp-411-14W2-headnote-1"><lg n="1" xml:id="spp-411-14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-411-14W2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-411-14W2-headnote-2"><lg n="1" xml:id="spp-411-14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-411-14W2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-411-14W2-headnote-3"><lg n="1" xml:id="spp-411-14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-411-14W2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-411-14W2-line-1"> 'T<hi rend="SMALL-CAPS">IS</hi> strange what different thoughts inspire</l><l n="2" xml:id="spp-411-14W2-line-2"> In men, Possession and Desire!</l><l n="3" xml:id="spp-411-14W2-line-3"> Think what they wish so great a blessing;</l><l n="4" xml:id="spp-411-14W2-line-4"> So disappointed when possessing!A moralist profoundly sage</l><l n="5" xml:id="spp-411-14W2-line-5"> (I know not in what book or page,</l><l n="6" xml:id="spp-411-14W2-line-6"> Or whether o'er a pot of ale)</l><l n="7" xml:id="spp-411-14W2-line-7"> Related thus the following tale.Possession, and Desire, his brother,</l><l n="8" xml:id="spp-411-14W2-line-8"> But still at variance with each other,</l><l n="9" xml:id="spp-411-14W2-line-9"> Were seen contending in a race;</l><l n="10" xml:id="spp-411-14W2-line-10"> And kept at first an equal pace;</l><l n="11" xml:id="spp-411-14W2-line-11"> 'Tis said, their course continued long,</l><l n="12" xml:id="spp-411-14W2-line-12"> For this was active, that was strong:</l><l n="13" xml:id="spp-411-14W2-line-13"> Till Envy, Slander, Sloth, and Doubt,</l><l n="14" xml:id="spp-411-14W2-line-14"> Misled them many a league about;</l><l n="15" xml:id="spp-411-14W2-line-15"> Seduced by some deceiving light,</l><l n="16" xml:id="spp-411-14W2-line-16"> They take the wrong way for the right;</l><l n="17" xml:id="spp-411-14W2-line-17"> Through slippery by-roads, dark and deep,</l><l n="18" xml:id="spp-411-14W2-line-18"> They often climb, and often creep.Desire, the swifter of the two,</l><l n="19" xml:id="spp-411-14W2-line-19"> Along the plain like lightning flew:</l><l n="20" xml:id="spp-411-14W2-line-20"> Till, entering on a broad highway,</l><l n="21" xml:id="spp-411-14W2-line-21"> Where power and titles scatter'd lay,</l><l n="22" xml:id="spp-411-14W2-line-22"> He strove to pick up all he found,</l><l n="23" xml:id="spp-411-14W2-line-23"> And by excursions lost his ground:</l><l n="24" xml:id="spp-411-14W2-line-24"> No sooner got, than with disdain</l><l n="25" xml:id="spp-411-14W2-line-25"> He threw them on the ground again;</l><l n="26" xml:id="spp-411-14W2-line-26"> And hasted forward to pursue</l><l n="27" xml:id="spp-411-14W2-line-27"> Fresh objects, fairer to his view,</l><l n="28" xml:id="spp-411-14W2-line-28"> In hope to spring some nobler game;</l><l n="29" xml:id="spp-411-14W2-line-29"> But all he took was just the same:</l><l n="30" xml:id="spp-411-14W2-line-30"> Too scornful now to stop his pace,</l><l n="31" xml:id="spp-411-14W2-line-31"> He spurn'd them in his rival's face.Possession kept the beaten road,</l><l n="32" xml:id="spp-411-14W2-line-32"> And gather'd all his brother strew'd;</l><l n="33" xml:id="spp-411-14W2-line-33"> But overcharged, and out of wind,</l><l n="34" xml:id="spp-411-14W2-line-34"> Though strong in limbs, he lagg'd behind.Desire had now the goal in sight;</l><l n="35" xml:id="spp-411-14W2-line-35"> It was a tower of monstrous height;</l><l n="36" xml:id="spp-411-14W2-line-36"> Where on the summit Fortune stands,</l><l n="37" xml:id="spp-411-14W2-line-37"> A crown and sceptre in her hands;</l><l n="38" xml:id="spp-411-14W2-line-38"> Beneath a chasm as deep as Hell,</l><l n="39" xml:id="spp-411-14W2-line-39"> Where many a bold adventurer fell.</l><l n="40" xml:id="spp-411-14W2-line-40"> Desire, in rapture, gazed awhile,</l><l n="41" xml:id="spp-411-14W2-line-41"> And saw the treacherous goddess smile;</l><l n="42" xml:id="spp-411-14W2-line-42"> But as he climb'd to grasp the crown,</l><l n="43" xml:id="spp-411-14W2-line-43"> She knock'd him with the sceptre down!</l><l n="44" xml:id="spp-411-14W2-line-44"> He tumbled in the gulf profound;</l><l n="45" xml:id="spp-411-14W2-line-45"> There doom'd to whirl an endless round.Possession's load was grown so great,</l><l n="46" xml:id="spp-411-14W2-line-46"> He sunk beneath the cumb'rous weight;</l><l n="47" xml:id="spp-411-14W2-line-47"> And, as he now expiring lay,</l><l n="48" xml:id="spp-411-14W2-line-48"> Flocks every ominous bird of prey;</l><l n="49" xml:id="spp-411-14W2-line-49"> The raven, vulture, owl, and kite,</l><l n="50" xml:id="spp-411-14W2-line-50"> At once upon his carcase light,</l><l n="51" xml:id="spp-411-14W2-line-51"> And strip his hide, and pick his bones,</l><l n="52" xml:id="spp-411-14W2-line-52"> Regardless of his dying groans.411-14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

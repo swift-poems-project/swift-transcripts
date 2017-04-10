@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <lb/>
+          <lb/>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="667BWILH" type="poem"><head type="note" n="1" xml:id="spp-667BWILH-headnote-1"><lg n="1" xml:id="spp-667BWILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-667BWILH-headnote-1-line-group-1-line-1"><hi rend="underline">By</hi> S<hi rend="SMALL-CAPS">WIFT</hi> <hi rend="underline">and Others</hi></l></lg></head><head type="note" n="2" xml:id="spp-667BWILH-headnote-2"><lg n="1" xml:id="spp-667BWILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-667BWILH-headnote-2-line-group-1-line-1"><hi rend="underline">To the same</hi>.</l></lg></head><head type="note" n="3" xml:id="spp-667BWILH-headnote-3"><lg n="1" xml:id="spp-667BWILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-667BWILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-667BWILH-line-1"><hi rend="display-initial">T</hi>HY Labours, <hi rend="underline">Carthy</hi>, long conceal'd from Light,</l><l n="2" xml:id="spp-667BWILH-line-2"> Pil'd in a Garret charm'd the Author's Sight.</l><l n="3" xml:id="spp-667BWILH-line-3"> But forc'd from their Retirement into Day,</l><l n="4" xml:id="spp-667BWILH-line-4"> The Tender Embryos half unknown decay,</l><l n="5" xml:id="spp-667BWILH-line-5"> Thus Lamps, which burn'd in Tombs with silent Glare,</l><l n="6" xml:id="spp-667BWILH-line-6"> Expire, when first expos'd to open Air.667BWILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

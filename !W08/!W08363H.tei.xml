@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>\<hi rend="underline">top line of title lost owing to moisture damage, but the bottoms of the few remaining characters are consistent with the supposition that the top line was "A faithful Inventory"</hi>\</title>
+        <title>Of the Furniture belonging to \<hi rend="underline">hole</hi>\s Roo\<hi rend="underline">hole</hi>\</title>
+        <title>In T: C: D</title>
+        <title>In imitation of D<hi rend="sup">r</hi> Swift's ma\<hi rend="underline">hole</hi>\r</title>
+        <title>written in y<hi rend="sup">e</hi> year 1725.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="!W08363H" type="poem"><head type="note" n="1" xml:id="spp-!W08363H-headnote-1"><lg n="1" xml:id="spp-!W08363H-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-!W08363H-headnote-1-line-group-1-line-1">Quæq; ipse miserrima \<hi rend="underline">hole</hi>\i. virg.</l></lg></head><head type="note" n="2" xml:id="spp-!W08363H-headnote-2"><lg n="1" xml:id="spp-!W08363H-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-!W08363H-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-!W08363H-headnote-3"><lg n="1" xml:id="spp-!W08363H-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-!W08363H-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-!W08363H-line-1"> Imprimis there's a table blotted,&#13;</l><l n="2" xml:id="spp-!W08363H-line-2"> A tatter'd hanging all besnotted.</l><l n="3" xml:id="spp-!W08363H-line-3"> A Bed of flocks, as I may rank<unclear>hole</unclear></l><l n="4" xml:id="spp-!W08363H-line-4"> Reduc'd to rug &amp; half a blanket.</l><l n="5" xml:id="spp-!W08363H-line-5"> A tinder box without a flint,</l><l n="6" xml:id="spp-!W08363H-line-6"> An oaken desk with nothing in't.</l><l n="7" xml:id="spp-!W08363H-line-7"> A pair of tongs, bought from a broker,</l><l n="8" xml:id="spp-!W08363H-line-8"> A Fender, &amp; a rusty poker.</l><l n="9" xml:id="spp-!W08363H-line-9"> A penny pot &amp; bason, this</l><l n="10" xml:id="spp-!W08363H-line-10"> design'd for water, that for piss.</l><l n="11" xml:id="spp-!W08363H-line-11"> A broken winded pair of bellows,</l><l n="12" xml:id="spp-!W08363H-line-12"> Two knives &amp; forks, but neither fellows.</l><l n="13" xml:id="spp-!W08363H-line-13"> Item a Surplice, not un meeting</l><l n="14" xml:id="spp-!W08363H-line-14"> Either for table-cloth or Sheeting.</l><l n="15" xml:id="spp-!W08363H-line-15"> There is likewise a pair of breeches,</l><l n="16" xml:id="spp-!W08363H-line-16"> But patch'd, and fallen in the Stitches,</l><l n="17" xml:id="spp-!W08363H-line-17"> Hung up in Study very little,</l><l n="18" xml:id="spp-!W08363H-line-18"> Playster'd with cobwebs, ink &amp; Spittle.<unclear>hole</unclear>·········· osp······ all So pleasing</l><l n="19" xml:id="spp-!W08363H-line-19"> From <unclear>hole</unclear> light Window w<hi rend="sup">th</hi>out glazing</l><l n="20" xml:id="spp-!W08363H-line-20"> A Tr<unclear>hole</unclear> &amp; a College-bottle,</l><l n="21" xml:id="spp-!W08363H-line-21"> Pil'd <unclear>hole</unclear> on Locke &amp; Aristotle.</l><l n="22" xml:id="spp-!W08363H-line-22"> A P<hi rend="underline">?</hi><unclear>damage</unclear>-book which he Seldom handles,<del>A sav</del><hi rend="underline">hole</hi><unclear>ll, and two </unclear><hi rend="underline">del</hi>·farth<unclear/> farthing candles.</l><l n="23" xml:id="spp-!W08363H-line-23"> A Smuty ballad, musty libel,</l><l n="24" xml:id="spp-!W08363H-line-24"> A Burgersdicius &amp; a bible.</l><l n="25" xml:id="spp-!W08363H-line-25"> The C<unclear>hole</unclear><hi rend="underline">?</hi>sars, Seasons &amp; the Senses</l><l n="26" xml:id="spp-!W08363H-line-26"> By Overton, to Save expences.</l><l n="27" xml:id="spp-!W08363H-line-27"> Item (if I am not <unclear>ins by Swiftmuch</unclear> mistaken)</l><l n="28" xml:id="spp-!W08363H-line-28"> A Mouse-trap with a bit of bacon.</l><l n="29" xml:id="spp-!W08363H-line-29"> A Candl<unclear>hole</unclear>stick without a Snuffer,</l><l n="30" xml:id="spp-!W08363H-line-30"> Whereby his fingers often Suffer.</l><l n="31" xml:id="spp-!W08363H-line-31"> Two odd old Shoes I Should not Skip here,</l><l n="32" xml:id="spp-!W08363H-line-32"> Each Strapless Serves instead of Slipper.</l><l n="33" xml:id="spp-!W08363H-line-33"> And Chairs a Couple, I forgot 'em,</l><l n="34" xml:id="spp-!W08363H-line-34"> But each of them without a bott<gap/></l><l n="35" xml:id="spp-!W08363H-line-35"> Thus I in Rhyme have comprehended</l><l n="36" xml:id="spp-!W08363H-line-36"> His goods, &amp; So my Schedule's ended.!W08363H   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

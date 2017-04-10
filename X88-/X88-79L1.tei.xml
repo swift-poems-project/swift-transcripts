@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A TOWN ECLOGUE. 1710.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X88-79L1" type="poem"><head type="note" n="1" xml:id="spp-X88-79L1-headnote-1"><lg n="1" xml:id="spp-X88-79L1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X88-79L1-headnote-1-line-group-1-line-1">Scene, T<hi rend="SMALL-CAPS">HE </hi>R<hi rend="SMALL-CAPS">OYAL </hi>E<hi rend="SMALL-CAPS">XCHANGE</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-X88-79L1-headnote-2"><lg n="1" xml:id="spp-X88-79L1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X88-79L1-headnote-2-line-group-1-line-1">C<hi rend="SMALL-CAPS">ORYDON</hi>.</l></lg></head><head type="note" n="3" xml:id="spp-X88-79L1-headnote-3"><lg n="1" xml:id="spp-X88-79L1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X88-79L1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-X88-79L1-line-1"><hi rend="display-initial">N</hi>OW the keen rigour of the winter's o'er,</l><l n="2" xml:id="spp-X88-79L1-line-2"> No hail descends, and frosts can pinch no more,</l><l n="3" xml:id="spp-X88-79L1-line-3"> Whilst other girls confess the genial spring,</l><l n="4" xml:id="spp-X88-79L1-line-4"> And laugh aloud, or amorous ditties sing,</l><l n="5" xml:id="spp-X88-79L1-line-5"> Secure from cold their lovely necks display,</l><l n="6" xml:id="spp-X88-79L1-line-6"> And throw each useless chafing-dish away;</l><l n="7" xml:id="spp-X88-79L1-line-7"> Why sits my Phillis discontented here,</l><l n="8" xml:id="spp-X88-79L1-line-8"> Nor feels the turn of the revolving year?</l><l n="9" xml:id="spp-X88-79L1-line-9"> Why on that brow dwell sorrow and dismay,</l><l n="10" xml:id="spp-X88-79L1-line-10"> Where Loves were wont to sport, and Smiles to play?P<hi rend="SMALL-CAPS">HILLIS</hi>. Ah, Corydon! survey the 'Change around,</l><l n="11" xml:id="spp-X88-79L1-line-11"> Through all the 'Change no wretch like me is found:</l><l n="12" xml:id="spp-X88-79L1-line-12"> Alas! the day, when I, poor heedless maid,</l><l n="13" xml:id="spp-X88-79L1-line-13"> Was to your rooms in Lincoln's-Inn betray'd;</l><l n="14" xml:id="spp-X88-79L1-line-14"> Then how you swore, how many vows you made!</l><l n="15" xml:id="spp-X88-79L1-line-15"> Ye listening Zephyrs, that o'erheard his love,</l><l n="16" xml:id="spp-X88-79L1-line-16"> Waft the soft accents to the gods above.</l><l n="17" xml:id="spp-X88-79L1-line-17"> Alas! the day; for (oh, eternal shame!)</l><l n="18" xml:id="spp-X88-79L1-line-18"> I sold you handkerchiefs, and lost my fame.C<hi rend="SMALL-CAPS">OR</hi>. When I forget the favour you bestow'd,</l><l n="19" xml:id="spp-X88-79L1-line-19"> Red herrings shall be spawn'd in Tyburn Road.</l><l n="20" xml:id="spp-X88-79L1-line-20"> Fleet-street transform'd become a flowery green,</l><l n="21" xml:id="spp-X88-79L1-line-21"> And mass be sung where operas are seen.</l><l n="22" xml:id="spp-X88-79L1-line-22"> The wealthy cit and the St. James's beau</l><l n="23" xml:id="spp-X88-79L1-line-23"> Shall change their quarters, and their joys forego;</l><l n="24" xml:id="spp-X88-79L1-line-24"> Stock-jobbing this to Jonathan's shall come,</l><l n="25" xml:id="spp-X88-79L1-line-25"> At the Groom Porter's that play off his plum.P<hi rend="SMALL-CAPS">HIL</hi>. But what to me does all that love avail,</l><l n="26" xml:id="spp-X88-79L1-line-26"> If, whilst I doze at home o'er porter's ale,</l><l n="27" xml:id="spp-X88-79L1-line-27"> Each night with wine and wenches you regale?</l><l n="28" xml:id="spp-X88-79L1-line-28"> My live-long hours in anxious cares are past,</l><l n="29" xml:id="spp-X88-79L1-line-29"> And raging hunger lays my beauty waste.</l><l n="30" xml:id="spp-X88-79L1-line-30"> On templars spruce in vain I glances throw,</l><l n="31" xml:id="spp-X88-79L1-line-31"> And with shrill voice invite them as they go.</l><l n="32" xml:id="spp-X88-79L1-line-32"> Expos'd in vain my glossy ribbands shine,</l><l n="33" xml:id="spp-X88-79L1-line-33"> And unregarded wave upon the twine.</l><l n="34" xml:id="spp-X88-79L1-line-34"> The week flies round; and, when my profit 's known,</l><l n="35" xml:id="spp-X88-79L1-line-35"> I hardly clear enough to change a crown.C<hi rend="SMALL-CAPS">OR</hi>. Hard fate of virtue, thus to be distrest,</l><l n="36" xml:id="spp-X88-79L1-line-36"> Thou fairest of thy trade, and far the best!</l><l n="37" xml:id="spp-X88-79L1-line-37"> As fruitmens stalls the summer-market grace,</l><l n="38" xml:id="spp-X88-79L1-line-38"> And ruddy peaches them; as first in place</l><l n="39" xml:id="spp-X88-79L1-line-39"> Plum-cake is seen o'er smaller pastry ware,</l><l n="40" xml:id="spp-X88-79L1-line-40"> And ice on that; so Phillis does appear</l><l n="41" xml:id="spp-X88-79L1-line-41"> In play house and in park, above the rest</l><l n="42" xml:id="spp-X88-79L1-line-42"> Of belles mechanic, elegantly drest.P<hi rend="SMALL-CAPS">HIL</hi>. And yet Crepundia, that conceited fair,</l><l n="43" xml:id="spp-X88-79L1-line-43"> Amidst her toys, affects a saucy air,</l><l n="44" xml:id="spp-X88-79L1-line-44"> And views me hourly with a scornful eye.C<hi rend="SMALL-CAPS">OR</hi>. She might as well with bright Cleora vie.P<hi rend="SMALL-CAPS">HIL</hi>. With this large petticoat I strive in vain</l><l n="45" xml:id="spp-X88-79L1-line-45"> To hide my folly past, and coming pain;</l><l n="46" xml:id="spp-X88-79L1-line-46"> 'Tis now no secret; she, and fifty more,</l><l n="47" xml:id="spp-X88-79L1-line-47"> Observe the symptoms I had once before:</l><l n="48" xml:id="spp-X88-79L1-line-48"> A second babe at Wapping must be plac'd,</l><l n="49" xml:id="spp-X88-79L1-line-49"> When I scarce bear the charges of the last.C<hi rend="SMALL-CAPS">OR</hi>. What I could raise I sent; a pound of plums,</l><l n="50" xml:id="spp-X88-79L1-line-50"> Five shillings, and a coral for his gums;</l><l n="51" xml:id="spp-X88-79L1-line-51"> To-morrow I intend him something more.P<hi rend="SMALL-CAPS">HIL</hi>. I sent a frock and pair of shoes before.C<hi rend="SMALL-CAPS">OR</hi>. However, you shall home with me to-night,</l><l n="52" xml:id="spp-X88-79L1-line-52"> Forget your cares, and revel in delight.</l><l n="53" xml:id="spp-X88-79L1-line-53"> I have in store a pint or two of wine,</l><l n="54" xml:id="spp-X88-79L1-line-54"> Some cracknels, and the remnant of a chine.And now on either side, and all around,</l><l n="55" xml:id="spp-X88-79L1-line-55"> The weighty shop-boards fall, and bars resound;</l><l n="56" xml:id="spp-X88-79L1-line-56"> Each ready semstress slips her pattins on,</l><l n="57" xml:id="spp-X88-79L1-line-57"> And ties her hood, preparing to be gone.X88-79L1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

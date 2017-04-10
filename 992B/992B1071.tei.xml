@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ANOTHER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="992B1071" type="poem"><head type="note" n="1" xml:id="spp-992B1071-headnote-1"><lg n="1" xml:id="spp-992B1071-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-992B1071-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-992B1071-headnote-2"><lg n="1" xml:id="spp-992B1071-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-992B1071-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-992B1071-headnote-3"><lg n="1" xml:id="spp-992B1071-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-992B1071-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-992B1071-line-1"><hi rend="display-initial">D</hi><hi rend="underline">AN</hi>'s evil Genius in a Trice</l><l n="2" xml:id="spp-992B1071-line-2"> Had stripp'd him of his Coin at Dice;<hi rend="underline">Chloe</hi> observing this Disgrace,</l><l n="3" xml:id="spp-992B1071-line-3"> On <hi rend="underline">Pam</hi> cut out his rueful Face.</l><l n="4" xml:id="spp-992B1071-line-4"> By G──, says <hi rend="underline">Dan</hi>, 'tis very hard,</l><l n="5" xml:id="spp-992B1071-line-5" rend="flush right"> Cut out at Dice, cut out at Card!G.R──────<hi rend="SMALL-CAPS">D</hi><hi rend="underline">sculp</hi>.992B1071   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

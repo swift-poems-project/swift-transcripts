@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">On the Little House by the Church<lb/>Yard of</hi> Castleknock.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 24JE04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-126-11M1-footnote-1 #spp-126-11M1-line-3"/>
+          <link target="#spp-126-11M1-footnote-2 #spp-126-11M1-line-18"/>
+          <link target="#spp-126-11M1-footnote-3 #spp-126-11M1-line-40"/>
+          <link target="#spp-126-11M1-footnote-4 #spp-126-11M1-line-44"/>
+          <link target="#spp-126-11M1-footnote-5 #spp-126-11M1-line-72"/>
+        </linkGrp>
+        <div n="126-11M1"><head type="note" n="1" xml:id="spp-126-11M1-headnote-1"><lg n="1" xml:id="spp-126-11M1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-126-11M1-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-126-11M1-headnote-2"><lg n="1" xml:id="spp-126-11M1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-126-11M1-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-126-11M1-headnote-3"><lg n="1" xml:id="spp-126-11M1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-126-11M1-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-126-11M1-line-1"><hi rend="display-initial">W</hi>HOEVER pleaseth to enquire,</l><l/><l n="2" xml:id="spp-126-11M1-line-2">Why yonder Steeple wants a Spire,</l><l/><l n="3" xml:id="spp-126-11M1-line-3">The gray old Fellow Poet <ref target="#spp-126-11M1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-126-11M1-footnote-1">Mr. <hi rend="underline">Beaumont</hi> of <hi rend="underline">Trim</hi>.</note><hi rend="underline">Joe</hi></l><l/><l n="4" xml:id="spp-126-11M1-line-4">The Philosophic Cause will show.</l><l/><l n="5" xml:id="spp-126-11M1-line-5">Once, on a Time a Western Blast,</l><l/><l n="6" xml:id="spp-126-11M1-line-6">At least twelve Inches overcast,</l><l/><l n="7" xml:id="spp-126-11M1-line-7">Reckoning Roof, Weathercock and all,</l><l/><l n="8" xml:id="spp-126-11M1-line-8">Which came with a prodigious Fall;</l><l/><l n="9" xml:id="spp-126-11M1-line-9">And tumbling topsy-turvy round</l><l/><l n="10" xml:id="spp-126-11M1-line-10">Light with its Bottom on the Ground.</l><l/><l n="11" xml:id="spp-126-11M1-line-11">F<hi rend="SMALL-CAPS">OR</hi> by the Laws of Gravitation,</l><l/><l n="12" xml:id="spp-126-11M1-line-12">It fell into its proper Station.</l><l/><l n="13" xml:id="spp-126-11M1-line-13">T<hi rend="SMALL-CAPS">HIS</hi> is the little strutting Pile,</l><l/><l n="14" xml:id="spp-126-11M1-line-14">You see just by the Church-yard Stile;</l><l/><l n="15" xml:id="spp-126-11M1-line-15">The Walls in tumbling gave a Knock;</l><l/><l n="16" xml:id="spp-126-11M1-line-16">And thus the Steeple got a Shock;</l><l/><l n="17" xml:id="spp-126-11M1-line-17">From whence the neighbouring Farmer calls</l><l/><l n="18" xml:id="spp-126-11M1-line-18">The Steeple, Knock, the Vicar, <ref target="#spp-126-11M1-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-126-11M1-footnote-2">Rev. Archdeacon <hi rend="underline">Wall</hi>.</note><hi rend="underline">Walls</hi>.</l><l/><l n="19" xml:id="spp-126-11M1-line-19">T<hi rend="SMALL-CAPS">HE</hi> Vicar once a Week creeps in,</l><l/><l n="20" xml:id="spp-126-11M1-line-20">Sits with his Knees up to his Chin;</l><l/><l n="21" xml:id="spp-126-11M1-line-21">Here conns his Notes, and takes a Whet,</l><l/><l n="22" xml:id="spp-126-11M1-line-22"><gap/></l><l/><l n="23" xml:id="spp-126-11M1-line-23">Till the small ragged Flock is met.</l><l/><l n="24" xml:id="spp-126-11M1-line-24">A <hi rend="SMALL-CAPS">TRAVELLER</hi>, who by did pass,</l><l/><l n="25" xml:id="spp-126-11M1-line-25">Observ'd the Roof behind the Grass;</l><l/><l n="26" xml:id="spp-126-11M1-line-26">On Tiptoe stood and rear'd his Snout,</l><l/><l n="27" xml:id="spp-126-11M1-line-27">And saw the Parson creeping out;</l><l/><l n="28" xml:id="spp-126-11M1-line-28">Was much surpriz'd to see a Crow</l><l/><l n="29" xml:id="spp-126-11M1-line-29">Venture to build his Nest so low.</l><l/><l n="30" xml:id="spp-126-11M1-line-30">A S<hi rend="SMALL-CAPS">CHOOL-BOY</hi> ran unto't and thought,</l><l/><l n="31" xml:id="spp-126-11M1-line-31">The Crib was down, the Blackbird caught.</l><l/><l n="32" xml:id="spp-126-11M1-line-32">A Third, who lost his Way by Night,</l><l/><l n="33" xml:id="spp-126-11M1-line-33">Was forc'd, for Safety, to alight,</l><l/><l n="34" xml:id="spp-126-11M1-line-34">And stepping o'er the Fabric-roof,</l><l/><l n="35" xml:id="spp-126-11M1-line-35">His Horse had like to spoil his Hoof.</l><l/><l n="36" xml:id="spp-126-11M1-line-36"><hi rend="underline">Warburton</hi> took it in his Noddle,</l><l/><l n="37" xml:id="spp-126-11M1-line-37">This Building was design'd a Model,</l><l/><l n="38" xml:id="spp-126-11M1-line-38">Or of a Pigeon-house, or Oven,</l><l/><l n="39" xml:id="spp-126-11M1-line-39">To bake one Loaf, and keep one Dove in.</l><l/><l n="40" xml:id="spp-126-11M1-line-40">T<hi rend="SMALL-CAPS">HEN</hi><ref target="#spp-126-11M1-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-126-11M1-footnote-3">A Friend of the Author's.</note> Mrs. <hi rend="underline">Johnson</hi> gave her Verdict,</l><l/><l n="41" xml:id="spp-126-11M1-line-41">And ev'ry one was pleas'd, that heard it:</l><l/><l n="42" xml:id="spp-126-11M1-line-42">All that you make this Stir about,</l><l/><l n="43" xml:id="spp-126-11M1-line-43">Is but a Still which wants a Spout.</l><l/><l n="44" xml:id="spp-126-11M1-line-44">The Rev'rend Dr. <ref target="#spp-126-11M1-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-126-11M1-footnote-4">Minister of <hi rend="underline">Trim</hi>.</note><hi rend="underline">Reymond</hi> guess'd,</l><l/><l n="45" xml:id="spp-126-11M1-line-45">More probably than all the rest;</l><l/><l n="46" xml:id="spp-126-11M1-line-46">He said, but that it wanted Room,</l><l/><l n="47" xml:id="spp-126-11M1-line-47">It might have been a Pigmy's Tomb.</l><l/><l n="48" xml:id="spp-126-11M1-line-48">T<hi rend="SMALL-CAPS">HE</hi> Doctor's Family came by,</l><l/><l n="49" xml:id="spp-126-11M1-line-49">And little Miss began to cry;</l><l/><l n="50" xml:id="spp-126-11M1-line-50">Give me that House in my own Hand;</l><l/><l n="51" xml:id="spp-126-11M1-line-51">Then Madam bad the Chariot stand,</l><l/><l n="52" xml:id="spp-126-11M1-line-52">Call'd to the Clerk in manner mild,</l><l/><l n="53" xml:id="spp-126-11M1-line-53">Pray reach that Thing here to the Child,</l><l/><l n="54" xml:id="spp-126-11M1-line-54">That Thing, I mean, among the Kale,</l><l/><l n="55" xml:id="spp-126-11M1-line-55">And here's to buy a Pot of Ale.</l><l/><l n="56" xml:id="spp-126-11M1-line-56"><gap/></l><l/><l n="57" xml:id="spp-126-11M1-line-57"><gap/></l><l/><l n="58" xml:id="spp-126-11M1-line-58"><gap/></l><l/><l n="59" xml:id="spp-126-11M1-line-59"><gap/></l><l/><l n="60" xml:id="spp-126-11M1-line-60">T<hi rend="SMALL-CAPS">HE</hi> Clerk said to her in a Heat,</l><l/><l n="61" xml:id="spp-126-11M1-line-61">What? sell my Master's Country Seat?</l><l/><l n="62" xml:id="spp-126-11M1-line-62">Where he comes ev'ry Week from Town;</l><l/><l n="63" xml:id="spp-126-11M1-line-63">He would not sell it for a Crown.</l><l/><l n="64" xml:id="spp-126-11M1-line-64"><gap/></l><l/><l n="65" xml:id="spp-126-11M1-line-65"><gap/></l><l/><l n="66" xml:id="spp-126-11M1-line-66"><gap/></l><l/><l n="67" xml:id="spp-126-11M1-line-67"><gap/></l><l/><l n="68" xml:id="spp-126-11M1-line-68"><gap/></l><l/><l n="69" xml:id="spp-126-11M1-line-69"><gap/></l><l/><l n="70" xml:id="spp-126-11M1-line-70">Poh! Fellow, keep not such a Pother</l><l/><l n="71" xml:id="spp-126-11M1-line-71">In half an Hour thou'lt make another.</l><l/><l n="72" xml:id="spp-126-11M1-line-72">S<hi rend="SMALL-CAPS">AYS</hi><ref target="#spp-126-11M1-footnote-5">5</ref><note place="foot" n="5" xml:id="spp-126-11M1-footnote-5">The Waiting Woman.</note><hi rend="underline">Nancy</hi>, I can make for Miss,</l><l/><l n="73" xml:id="spp-126-11M1-line-73">A finer House ten times than this,</l><l/><l n="74" xml:id="spp-126-11M1-line-74">The Dean will give me Willow-Sticks,</l><l/><l n="75" xml:id="spp-126-11M1-line-75">And <hi rend="underline">Joe</hi> my Apron full of Bricks.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

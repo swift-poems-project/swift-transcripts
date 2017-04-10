@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Punch's Petition to y<hi rend="sup">e</hi> 08─Ladies</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-Y08B020B-footnote-1 #spp-Y08B020B-line-6"/>
+        </linkGrp>
+        <div n="Y08B020B" type="poem"><head type="note" n="1" xml:id="spp-Y08B020B-headnote-1"><lg n="1" xml:id="spp-Y08B020B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y08B020B-headnote-1-line-group-1-line-1">Quid non Mortalia pectora Cogis Auri Særa fames</l></lg></head><head type="note" n="2" xml:id="spp-Y08B020B-headnote-2"><lg n="1" xml:id="spp-Y08B020B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y08B020B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y08B020B-headnote-3"><lg n="1" xml:id="spp-Y08B020B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y08B020B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-Y08B020B-line-1"> Fair ones to <unclear>insyou</unclear> who Hearts Command</l><l n="2" xml:id="spp-Y08B020B-line-2"> And Gently Sway with Fan in hand</l><l n="3" xml:id="spp-Y08B020B-line-3"> Your Favorite Punch a Supliant Falls</l><l n="4" xml:id="spp-Y08B020B-line-4"> And Humbly for Assistance Calls</l><l n="5" xml:id="spp-Y08B020B-line-5"> He humbly Calls and begs you'l stop</l><l n="6" xml:id="spp-Y08B020B-line-6"> The Gothi<unclear>c overk</unclear> Rage of <ref target="#spp-Y08B020B-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-Y08B020B-footnote-1">······ Hopkins Esq<hi rend="sup">r</hi> Master of the Revels &amp; Secatary to his Grace y<hi rend="sup">e</hi> Duke of Grafton w<hi rend="sup">n</hi> he was Lord Lieu<hi rend="sup">t</hi> of Ierland</note> Vander Hop</l><l n="7" xml:id="spp-Y08B020B-line-7"> Who Invades without Pretence or Right</l><l n="8" xml:id="spp-Y08B020B-line-8"> Or any Law but that of Might</l><l n="9" xml:id="spp-Y08B020B-line-9"> Our Pigmy──land, and treats Our Kings</l><l n="10" xml:id="spp-Y08B020B-line-10"> Like Paltry Idle Wooden Things</l><l n="11" xml:id="spp-Y08B020B-line-11"> Has beat Our Dancer of Doors</l><l n="12" xml:id="spp-Y08B020B-line-12"> And Call'd Our Chastest Virgins Whores</l><l n="13" xml:id="spp-Y08B020B-line-13"> Nor has he left Our Queen a Rag on</l><l n="14" xml:id="spp-Y08B020B-line-14"> Has forc'd Away Our George and Dragon</l><l n="15" xml:id="spp-Y08B020B-line-15"> Has broke Our Wyers, nor was he Civil</l><l n="16" xml:id="spp-Y08B020B-line-16"> To Doctor Faustus or the Divel</l><l n="17" xml:id="spp-Y08B020B-line-17"> E'ne me he hurry'd with fell Rage</l><l n="18" xml:id="spp-Y08B020B-line-18"> Most hoarsly Squawling of the Stage</l><l n="19" xml:id="spp-Y08B020B-line-19"> And faith Our fright was very great</l><l n="20" xml:id="spp-Y08B020B-line-20"> To See a Minister of State</l><l n="21" xml:id="spp-Y08B020B-line-21"> Arm'd with Power and Fury come</l><l n="22" xml:id="spp-Y08B020B-line-22"> To force us from Our little home</l><l n="23" xml:id="spp-Y08B020B-line-23"> Who fear'd, as I am Sure we had reason</l><l n="24" xml:id="spp-Y08B020B-line-24"> An Accusation of high Treason</l><l n="25" xml:id="spp-Y08B020B-line-25"> Till starting up! Crys Benamere</l><l n="26" xml:id="spp-Y08B020B-line-26"> Treason──my Friends we need not Fear</l><l n="27" xml:id="spp-Y08B020B-line-27"> For against the Brass, we Us'd no Power</l><l n="28" xml:id="spp-Y08B020B-line-28"> Nor strove to Save the Chancellor</l><l n="29" xml:id="spp-Y08B020B-line-29"> Nor did we shew the least affection</l><l n="30" xml:id="spp-Y08B020B-line-30"> To Rochfort on Westmeath Election</l><l n="31" xml:id="spp-Y08B020B-line-31"> Nor did we Sing──Mac-Hugh he means.──</l><l n="32" xml:id="spp-Y08B020B-line-32"> Thou Villain──I'le dash out thy brains</l><l n="33" xml:id="spp-Y08B020B-line-33"> It is no affair of State that brings</l><l n="34" xml:id="spp-Y08B020B-line-34"> Me here──nor business of the Kings</l><l n="35" xml:id="spp-Y08B020B-line-35"> I come to Seize you all as Debtors</l><l n="36" xml:id="spp-Y08B020B-line-36"> And bind you fast in Iron Fetters</l><l n="37" xml:id="spp-Y08B020B-line-37"> From Sight of ev'ry friend in Town</l><l n="38" xml:id="spp-Y08B020B-line-38"> Till fifty pound to me's paid Down.</l><l n="39" xml:id="spp-Y08B020B-line-39"> Fifty──Quoth I──a Divilish Sum</l><l n="40" xml:id="spp-Y08B020B-line-40"> But stay till the new half-pence come</l><l n="41" xml:id="spp-Y08B020B-line-41"> Then shall we all be Rich as Iews</l><l n="42" xml:id="spp-Y08B020B-line-42"> From Castle down to lowest Stews</l><l n="43" xml:id="spp-Y08B020B-line-43"> That Sum to you shall then be told</l><l n="44" xml:id="spp-Y08B020B-line-44"> Tho now we cannot Furnish Gold.──</l><l n="45" xml:id="spp-Y08B020B-line-45"> Quoth he──thou lovest Punch to prate</l><l n="46" xml:id="spp-Y08B020B-line-46"> And Could'st for Ever hold Debate</l><l n="47" xml:id="spp-Y08B020B-line-47"> But thinkst thou that I've Nought to do</l><l n="48" xml:id="spp-Y08B020B-line-48"> But Trifle time away with You</l><l n="49" xml:id="spp-Y08B020B-line-49"> Or dost thou think that I can come</l><l n="50" xml:id="spp-Y08B020B-line-50"> To Carry nought but farthings home</l><l n="51" xml:id="spp-Y08B020B-line-51"> Thou I ne're do things by halves</l><l n="52" xml:id="spp-Y08B020B-line-52"> Farthings are made for Irish slaves</l><l n="53" xml:id="spp-Y08B020B-line-53"> No Brass for me──I must be Gold</l><l n="54" xml:id="spp-Y08B020B-line-54"> Or fifty pounds in Silver told.</l><l n="55" xml:id="spp-Y08B020B-line-55"> That can by any means Obtain,</l><l n="56" xml:id="spp-Y08B020B-line-56"> Freedom for thee, And for this Train<hi rend="black-letter">Votre tres humble Serviteur</hi>.</l><l n="57" xml:id="spp-Y08B020B-line-57"> I am not in jest Said I──I'm Sure</l><l n="58" xml:id="spp-Y08B020B-line-58"> But from the Bottom of my Belly</l><l n="59" xml:id="spp-Y08B020B-line-59"> In Sober Sadness, It is I tell you</l><l n="60" xml:id="spp-Y08B020B-line-60"> I think it is good Reasoning</l><l n="61" xml:id="spp-Y08B020B-line-61"> For us fictitious men to bring</l><l n="62" xml:id="spp-Y08B020B-line-62"> Brass Counters made by William Wood</l><l n="63" xml:id="spp-Y08B020B-line-63"> Which may as well be Understood</l><l n="64" xml:id="spp-Y08B020B-line-64"> Intrinsick, As We flesh &amp; Blood</l><l n="65" xml:id="spp-Y08B020B-line-65"> Then Since We are but Mimick Men</l><l n="66" xml:id="spp-Y08B020B-line-66"> Pray let us let us pay in Mimick Coyn</l><l n="67" xml:id="spp-Y08B020B-line-67"> Besides its said that You and I</l><l n="68" xml:id="spp-Y08B020B-line-68"> Are of <unclear>insthe</unclear> self same Family,</l><l n="69" xml:id="spp-Y08B020B-line-69"> And faith, I'me apt to think so too.</l><l n="70" xml:id="spp-Y08B020B-line-70"> For who is liker me then You</l><l n="71" xml:id="spp-Y08B020B-line-71"> For the Same Grave and Aukward Grace</l><l n="72" xml:id="spp-Y08B020B-line-72"> Shews forth it Self in Either face</l><l n="73" xml:id="spp-Y08B020B-line-73"> And each of us with labour Struts</l><l n="74" xml:id="spp-Y08B020B-line-74"> Behind a Tun at least of Guts</l><l n="75" xml:id="spp-Y08B020B-line-75"> We tally well in these respects</l><l n="76" xml:id="spp-Y08B020B-line-76"> And best of all in Intellects</l><l n="77" xml:id="spp-Y08B020B-line-77"> For when you made distinction learn'd</l><l n="78" xml:id="spp-Y08B020B-line-78"> Twixt the words Sorry and Concern'd</l><l n="79" xml:id="spp-Y08B020B-line-79"> And when upon a Grave affair</l><l n="80" xml:id="spp-Y08B020B-line-80"> Amazed you Gaped behind the Chair</l><l n="81" xml:id="spp-Y08B020B-line-81"> They Cry'd──How like to Punchanello</l><l n="82" xml:id="spp-Y08B020B-line-82"> Is that Same Fat, Clod Pated Fellow</l><l n="83" xml:id="spp-Y08B020B-line-83"> Then Prithy Cozen let us Buss</l><l n="84" xml:id="spp-Y08B020B-line-84"> And Cease to treat thy kindred thus.</l><l n="85" xml:id="spp-Y08B020B-line-85"> Quoth he Thou Vile mishapen beast</l><l n="86" xml:id="spp-Y08B020B-line-86"> Thou knave am I become thy Iest<gap/><gap/><gap/><gap/></l><l n="87" xml:id="spp-Y08B020B-line-87"> Now not a Puppet of you all</l><l n="88" xml:id="spp-Y08B020B-line-88"> Shall stir a step without this wall</l><l n="89" xml:id="spp-Y08B020B-line-89"> Nor Merry Andrew beat his Drum</l><l n="90" xml:id="spp-Y08B020B-line-90"> Untill you pay the aforesaid Sum</l><l n="91" xml:id="spp-Y08B020B-line-91"> Then Marching off with Soluem Pace</l><l n="92" xml:id="spp-Y08B020B-line-92"> To write dispatches for his Grace</l><l n="93" xml:id="spp-Y08B020B-line-93"> The Revel Mas<hi rend="sup">r</hi>- left the room</l><l n="94" xml:id="spp-Y08B020B-line-94"> And us Condem'd to fatal Doom</l></lg><lg n="2" type="stanza"><l n="95" xml:id="spp-Y08B020B-line-95">Now fair Ones if I 'ere found Grace&#13;</l><l n="96" xml:id="spp-Y08B020B-line-96"> Or if my Ioakes did Ever please</l><l n="97" xml:id="spp-Y08B020B-line-97"> Use all your Interst with the Seck</l><l n="98" xml:id="spp-Y08B020B-line-98"> They Say he is at the Ladies Beck</l><l n="99" xml:id="spp-Y08B020B-line-99"> And thô <unclear>he inserted with caret</unclear> thirsts as much for Gold</l><l n="100" xml:id="spp-Y08B020B-line-100"> As Ever Midas did of Old</l><l n="101" xml:id="spp-Y08B020B-line-101"> Your Charmes I am Sure can never fail</l><l n="102" xml:id="spp-Y08B020B-line-102"> Your Eyes must Influence, Must prevail</l><l n="103" xml:id="spp-Y08B020B-line-103"> At your Command he'l Set us free</l><l n="104" xml:id="spp-Y08B020B-line-104"> Let us to you Owe Liberty</l><l n="105" xml:id="spp-Y08B020B-line-105"> Get us a Lycence now to play</l><l n="106" xml:id="spp-Y08B020B-line-106"> And as in Duty bound We'l Pray<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>Y08B020B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

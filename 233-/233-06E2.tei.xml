@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-233-06E2-title-1">An E<hi rend="SMALL-CAPS">LEGY</hi> on the much lamented death of<lb/>Mr D<hi rend="SMALL-CAPS">EMAR</hi>, the famous rich usurer, who<lb/>died the sixth of July 1720 <ref target="#spp-233-06E2-footnote-title-1">1</ref><note n="1" xml:id="spp-233-06E2-footnote-title-1" place="foot">This elegy was a subject started and partly executed in company, consisting of Swift and Stella, and a few friends. Every one threw in a hint; and Stella's were the 31st, 32d, 33d, and 34th lines. <hi rend="underline">Hawkes</hi></note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-233-06E2-footnote-title-1 #spp-233-06E2-title-1"/>
+          <link target="#spp-233-06E2-footnote-1 #"/>
+          <link target="#spp-233-06E2-footnote-1 #spp-233-06E2-line-40"/>
+        </linkGrp>
+        <div n="233-06E2"><head type="note" n="1" xml:id="spp-233-06E2-headnote-1"><lg n="1" xml:id="spp-233-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-233-06E2-headnote-1-line-group-1-line-1">Written in the year 1720.&#13;</l></lg></head><head type="note" n="2" xml:id="spp-233-06E2-headnote-2"><lg n="1" xml:id="spp-233-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-233-06E2-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-233-06E2-headnote-3"><lg n="1" xml:id="spp-233-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-233-06E2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-233-06E2-line-1"><hi rend="display-initial">K</hi><hi rend="underline">Now all men by these presents</hi>, Death the tamer</l><l/><l n="2" xml:id="spp-233-06E2-line-2">By <hi rend="underline">mortgage</hi> hath secur'd the <hi rend="underline">corpse</hi> of Demar;</l><l/><l n="3" xml:id="spp-233-06E2-line-3">Nor can <hi rend="underline">four hundred thousand Sterling pound</hi></l><l/><l n="4" xml:id="spp-233-06E2-line-4">Redeem him from his <hi rend="underline">prison</hi> under ground.</l><l/><l n="5" xml:id="spp-233-06E2-line-5">His heirs might well, of all his wealth possest,</l><l/><l n="6" xml:id="spp-233-06E2-line-6">Bestow to bury him one iron chest.</l><l/><l n="7" xml:id="spp-233-06E2-line-7">Plutus the God of wealth will joy to know</l><l/><l n="8" xml:id="spp-233-06E2-line-8">His faithful steward in the shades below.</l><l/><l n="9" xml:id="spp-233-06E2-line-9">He walk'd the streets, and wore a threadbare cloak;</l><l/><l n="10" xml:id="spp-233-06E2-line-10">He din'd and supp'd at charge of other folk:</l><l/><l n="11" xml:id="spp-233-06E2-line-11">And by his looks, had he held out his palms,</l><l/><l n="12" xml:id="spp-233-06E2-line-12">He might be thought an object fit for alms;</l><l/><l n="13" xml:id="spp-233-06E2-line-13">So, to the poor if he refus'd his pelf,</l><l/><l n="14" xml:id="spp-233-06E2-line-14">He us'd them full as kindly as himself.</l><l/><l n="15" xml:id="spp-233-06E2-line-15"/></lg><lg n="2" type="stanza"><l>Where-e'er he went, he never saw his <hi rend="underline">betters;</hi></l><l/><l n="16" xml:id="spp-233-06E2-line-16"><hi rend="underline">Lords, knights</hi> and '<hi rend="underline">squires</hi>, were all his humble debtors;</l><l/><l n="17" xml:id="spp-233-06E2-line-17">And under <hi rend="underline">hand</hi> and <hi rend="underline">seal</hi> the Irish nation</l><l/><l n="18" xml:id="spp-233-06E2-line-18">Were forc'd to own to him their <hi rend="underline">obligation</hi>.</l><l/><l n="19" xml:id="spp-233-06E2-line-19"/></lg><lg n="3" type="stanza"><l>He that could once have half a kingdom bought,&#13;</l><l/><l n="20" xml:id="spp-233-06E2-line-20">In half a minute is not worth a groat.</l><l/><l n="21" xml:id="spp-233-06E2-line-21">His <hi rend="underline">coffers</hi> from the <hi rend="underline">coffin</hi> could not save,</l><l/><l n="22" xml:id="spp-233-06E2-line-22">Nor all his <hi rend="underline">int'rest</hi> keep him from the grave.</l><l/><l n="23" xml:id="spp-233-06E2-line-23">A golden monument would not be right,</l><l/><l n="24" xml:id="spp-233-06E2-line-24">Because we wish the earth upon him light.</l><l/><l n="25" xml:id="spp-233-06E2-line-25"/></lg><lg n="4" type="stanza"><l>Oh London tavern<ref target="#spp-233-06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-233-06E2-footnote-1">A tavern in Dublin where Demar kept his office.</note>! thou hast lost a friend,</l><l/><l n="26" xml:id="spp-233-06E2-line-26">Though in thy walls he ne'er did farthing spend:</l><l/><l n="27" xml:id="spp-233-06E2-line-27">He <hi rend="underline">touch'd</hi> the <hi rend="underline">pence</hi> when others <hi rend="underline">touch'd</hi> the <hi rend="underline">pot</hi>;</l><l/><l n="28" xml:id="spp-233-06E2-line-28">The hand that sign'd the mortgage paid the shot.</l><l/><l n="29" xml:id="spp-233-06E2-line-29"/></lg><lg n="5" type="stanza"><l>Old as he was, no vulgar known disease&#13;</l><l/><l n="30" xml:id="spp-233-06E2-line-30">On him could ever boast a power to seize;</l><l/><l n="31" xml:id="spp-233-06E2-line-31">But as his gold he weigh'd, grim Death in spight</l><l/><l n="32" xml:id="spp-233-06E2-line-32">Cast in his dart, which made three moidores light;</l><l/><l n="33" xml:id="spp-233-06E2-line-33">And as he saw his darling <hi rend="underline">money</hi> fail,</l><l/><l n="34" xml:id="spp-233-06E2-line-34">Blew his last breath to sink the lighter scale.</l><l/><l n="35" xml:id="spp-233-06E2-line-35">He who so long was <hi rend="underline">current</hi>, 'twould be strange</l><l/><l n="36" xml:id="spp-233-06E2-line-36">If he should now be <hi rend="underline">cry'd down</hi> since his <hi rend="underline">change</hi>.</l><l/><l n="37" xml:id="spp-233-06E2-line-37"/></lg><lg n="6" type="stanza"><l>The <hi rend="underline">sexton</hi> shall green sods on thee bestow:</l><l/><l n="38" xml:id="spp-233-06E2-line-38">Alas, the <hi rend="underline">sexton</hi> is thy <hi rend="underline">banker</hi> now.</l><l/><l n="39" xml:id="spp-233-06E2-line-39">A dismal <hi rend="underline">banker</hi> must that <hi rend="underline">banker</hi> be,</l><l/><l n="40" xml:id="spp-233-06E2-line-40">Who gives no <hi rend="underline">bills</hi> but of <hi rend="underline">mortality</hi><ref target="#spp-233-06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-233-06E2-footnote-1">See an epitaph on this miser, p. 171.</note>.</l><l/><l n="41" xml:id="spp-233-06E2-line-41"><gap/></l><l/><l n="42" xml:id="spp-233-06E2-line-42"><gap/></l><l/><l n="43" xml:id="spp-233-06E2-line-43"><gap/></l><l/><l n="44" xml:id="spp-233-06E2-line-44"><gap/></l><l/><l n="45" xml:id="spp-233-06E2-line-45"><gap/></l><l/><l n="46" xml:id="spp-233-06E2-line-46"><gap/></l><l/><l n="47" xml:id="spp-233-06E2-line-47"><gap/></l><l/><l n="48" xml:id="spp-233-06E2-line-48"><gap/></l><l/><l n="49" xml:id="spp-233-06E2-line-49"><gap/></l><l/><l n="50" xml:id="spp-233-06E2-line-50"><gap/></l><l/><l n="51" xml:id="spp-233-06E2-line-51"><gap/></l><l/><l n="52" xml:id="spp-233-06E2-line-52"><gap/></l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

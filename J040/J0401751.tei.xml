@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-J0401751-footnote-1"/>
+        </linkGrp>
+        <div n="J0401751" type="poem"><head type="note" n="1" xml:id="spp-J0401751-headnote-1"><lg n="1" xml:id="spp-J0401751-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-J0401751-headnote-1-line-group-1-line-1">All this is one morning's work in bed,──and so</l></lg></head><head type="note" n="2" xml:id="spp-J0401751-headnote-2"><lg n="1" xml:id="spp-J0401751-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-J0401751-headnote-2-line-group-1-line-1">that's for the rhyme<ref target="#spp-J0401751-footnote-1">1</ref><note n="1" xml:id="spp-J0401751-footnote-1" place="foot">In the original it was, <hi rend="underline">good mollows, little sollaws</hi>. But in these words, and many others, he writes constantly <hi rend="underline">ll</hi> for <hi rend="underline">rr</hi></note>.</l></lg></head><head type="note" n="3" xml:id="spp-J0401751-headnote-3"><lg n="1" xml:id="spp-J0401751-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-J0401751-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-J0401751-line-1"> good morrow,&#13;</l><l n="2" xml:id="spp-J0401751-line-2"> little sirrahs;J0401751   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

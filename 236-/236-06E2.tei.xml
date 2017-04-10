@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-236-06E2-title-1">An excellent new S<hi rend="SMALL-CAPS">ONG</hi> on a seditious<lb/>pamphlet <ref target="#spp-236-06E2-footnote-title-1">1</ref><note n="1" xml:id="spp-236-06E2-footnote-title-1" place="foot">Dr Swift having wrote a treatise, advising the people of Ireland to wear their own manufactures, a prosecution was set on foot against Waters the printer thereof; which was carried on with so much violence, that the then Lord Chief Justice, one Whitshed, thought proper, in a manner the most extraordinary to keep the grand jury above twelve hours, and to send them eleven times out of court, until he had wearied them into a special verdict. <hi rend="underline">Dub. edit</hi>. See vol. 3. p. 3</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-236-06E2-footnote-title-1 #spp-236-06E2-title-1"/>
+        </linkGrp>
+        <div n="236-06E2"><head type="note" n="1" xml:id="spp-236-06E2-headnote-1"><lg n="1" xml:id="spp-236-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-236-06E2-headnote-1-line-group-1-line-1"><hi rend="underline">To the tune of</hi> Packington's pound.</l></lg></head><head type="note" n="2" xml:id="spp-236-06E2-headnote-2"><lg n="1" xml:id="spp-236-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-236-06E2-headnote-2-line-group-1-line-1">Written in the year 1720.</l></lg></head><head type="note" n="3" xml:id="spp-236-06E2-headnote-3"><lg n="1" xml:id="spp-236-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-236-06E2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-236-06E2-line-1"><hi rend="display-initial">B</hi>Rocados and damasks, and tabbies, and gawses,</l><l/><l n="2" xml:id="spp-236-06E2-line-2">Are by Robert Ballentine lately brought over,</l><l/><l n="3" xml:id="spp-236-06E2-line-3">With forty things more: now hear what the law says,</l><l/><l n="4" xml:id="spp-236-06E2-line-4">Whoe'er will not wear them, is not the King's lover.</l><l/><l n="5" xml:id="spp-236-06E2-line-5">Though a printer and dean</l><l/><l n="6" xml:id="spp-236-06E2-line-6">Seditiously mean</l><l/><l n="7" xml:id="spp-236-06E2-line-7">Our true Irish hearts from old England to wean;</l><l/><l n="8" xml:id="spp-236-06E2-line-8">We'll buy English silks for our wives and our daughters,</l><l/><l n="9" xml:id="spp-236-06E2-line-9">In spite of his Deanship and journeyman Waters.</l><l/><l n="10" xml:id="spp-236-06E2-line-10" rend="align(center)">II.</l></lg><lg n="2" type="stanza"><l rend="flush left">In England the dead in woollen are clad,&#13;</l><l/><l n="11" xml:id="spp-236-06E2-line-11">The Dean and his printer then let us cry fie on;</l><l/><l n="12" xml:id="spp-236-06E2-line-12">To be cloth'd like a carcase would make a Teague mad,</l><l/><l n="13" xml:id="spp-236-06E2-line-13">Since a living dog better is than a dead lion.</l><l/><l n="14" xml:id="spp-236-06E2-line-14">Our wives they grow sullen</l><l/><l n="15" xml:id="spp-236-06E2-line-15">At wearing of woollen,</l><l/><l n="16" xml:id="spp-236-06E2-line-16">And all we poor shopkeepers must our horns pull in.</l><l/><l n="17" xml:id="spp-236-06E2-line-17">Then we'll buy English silks for our wives and our daughters,</l><l/><l n="18" xml:id="spp-236-06E2-line-18">In spite of his Deanship and journeyman Waters.</l><l/><l n="19" xml:id="spp-236-06E2-line-19" rend="align(center)">III.</l></lg><lg n="3" type="stanza"><l rend="flush left">Whoever our trading with England would hinder,&#13;</l><l/><l n="20" xml:id="spp-236-06E2-line-20">To <hi rend="underline">inflame</hi> both the nations do plainly conspire;</l><l/><l n="21" xml:id="spp-236-06E2-line-21">Because Irish linen will soon turn to tinder;</l><l/><l n="22" xml:id="spp-236-06E2-line-22">And wool it is greasy, and quickly takes fire.</l><l/><l n="23" xml:id="spp-236-06E2-line-23">Therefore I assure ye,</l><l/><l n="24" xml:id="spp-236-06E2-line-24">Our noble grand jury,</l><l/><l n="25" xml:id="spp-236-06E2-line-25">When they saw the Dean's book, they were in a great fury:</l><l/><l n="26" xml:id="spp-236-06E2-line-26">They would buy English silks for their wives, and their daughters,</l><l/><l n="27" xml:id="spp-236-06E2-line-27">In spite of his Deanship and journeyman Waters.</l><l/><l n="28" xml:id="spp-236-06E2-line-28" rend="align(center)">IV.</l></lg><lg n="4" type="stanza"><l rend="flush left">This wicked rogue Waters, who always is sinning,&#13;</l><l/><l n="29" xml:id="spp-236-06E2-line-29">And before <hi rend="underline">Corum nobus</hi> so oft has been call'd,</l><l/><l n="30" xml:id="spp-236-06E2-line-30">Henceforward shall print neither pamphlets nor linen,</l><l/><l n="31" xml:id="spp-236-06E2-line-31">And, if swearing can do't, shall be swingingly maul'd:</l><l/><l n="32" xml:id="spp-236-06E2-line-32">And as for the Dean,</l><l/><l n="33" xml:id="spp-236-06E2-line-33">You know whom I mean,</l><l/><l n="34" xml:id="spp-236-06E2-line-34">If the printer will peach him, he'll scarce come off clean.</l><l/><l n="35" xml:id="spp-236-06E2-line-35">Then we'll buy English silks for our wives and our daughters,</l><l/><l n="36" xml:id="spp-236-06E2-line-36">In spite of his Deanship and journeyman Waters.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

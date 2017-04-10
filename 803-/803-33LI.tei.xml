@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">The following Poem is the Product</hi>
+        </title>
+        <title>
+          <hi rend="underline">of Ireland; it was occasion'd by</hi>
+        </title>
+        <title>
+          <hi rend="underline">the B────────of that Kingdom en-</hi>
+        </title>
+        <title>
+          <hi rend="underline">deavouring to get an Act to divide</hi>
+        </title>
+        <title>
+          <hi rend="underline">the Church-Livings, which Bill</hi>
+        </title>
+        <title><hi rend="underline">was rejected by the </hi>Irish<hi rend="underline"> House of</hi></title>
+        <title><hi rend="underline">Commons</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="803-33LI" type="poem"><head type="note" n="1" xml:id="spp-803-33LI-headnote-1"><lg n="1" xml:id="spp-803-33LI-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-803-33LI-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-803-33LI-headnote-2"><lg n="1" xml:id="spp-803-33LI-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-803-33LI-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-803-33LI-headnote-3"><lg n="1" xml:id="spp-803-33LI-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-803-33LI-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-803-33LI-line-1"><hi rend="display-initial">O</hi>LD <hi rend="underline">Latimer</hi> preaching did fairly describe</l><l n="2" xml:id="spp-803-33LI-line-2"> A B──────who rul'd all the rest of his tribe;</l><l n="3" xml:id="spp-803-33LI-line-3"> And who is this B────? and where does he dwell?</l><l n="4" xml:id="spp-803-33LI-line-4"> Why truly 'tis Satan, Archb────of hell:</l><l n="5" xml:id="spp-803-33LI-line-5"> And he was a primate, and he wore a mitre,</l><l n="6" xml:id="spp-803-33LI-line-6"> Surrounded with jewels of sulphur and nitre.</l><l n="7" xml:id="spp-803-33LI-line-7"> How nearly this ──────our ──────resembles!</l><l n="8" xml:id="spp-803-33LI-line-8"> But his has the odds, who believes, and who trembles.</l><l n="9" xml:id="spp-803-33LI-line-9"> Cou'd you see his grim face, for a pound to a penny,</l><l n="10" xml:id="spp-803-33LI-line-10"> You'd swear it must be the baboon of <hi rend="underline">Kil</hi>────</l><l n="11" xml:id="spp-803-33LI-line-11"> Poor Satan will think the comparison odious,</l><l n="12" xml:id="spp-803-33LI-line-12"> I wish I could find him out one more commodious;</l><l n="13" xml:id="spp-803-33LI-line-13"> But this I am sure the most rev'rend old dragon</l><l n="14" xml:id="spp-803-33LI-line-14"> Has got on the bench many ----- suffragan;</l><l n="15" xml:id="spp-803-33LI-line-15"> And all men believe he pr-----es there <hi rend="underline">incog</hi>.</l><l n="16" xml:id="spp-803-33LI-line-16"> To give them, by turns, an invisible jog.Our ──────puft up with wealth and pride</l><l n="17" xml:id="spp-803-33LI-line-17"> To hell on the backs of the clergy wou'd ride;</l><l n="18" xml:id="spp-803-33LI-line-18"> They mounted and labour'd with whip and with spur,</l><l n="19" xml:id="spp-803-33LI-line-19"> In vain────for the devil a parson wou'd stir.</l><l n="20" xml:id="spp-803-33LI-line-20"> So the commons unhors'd them, and this was their doom,</l><l n="21" xml:id="spp-803-33LI-line-21"> On their cro────s to ride, like a witch on a bro<gap/></l><l n="22" xml:id="spp-803-33LI-line-22"> Tho' they gallop so fast, on the road you may find 'em,</l><l n="23" xml:id="spp-803-33LI-line-23"> And have left us but three out of twenty behind 'em.</l><l n="24" xml:id="spp-803-33LI-line-24"> Lord <hi rend="underline">B</hi>──'s good grace, lord <hi rend="underline">C────r</hi>, and lord <hi rend="underline">H────d</hi>,</l><l n="25" xml:id="spp-803-33LI-line-25"> In spight of the devil wou'd still be untoward.</l><l n="26" xml:id="spp-803-33LI-line-26"> They came of good blood, and cou'd not endure</l><l n="27" xml:id="spp-803-33LI-line-27"> Their former companions shou'd beg at their door.</l><l n="28" xml:id="spp-803-33LI-line-28"> When Christ was betray'd to <hi rend="underline">Pilate</hi> the pr<unclear>ae</unclear>tor,</l><l n="29" xml:id="spp-803-33LI-line-29"> In a dozen apostles but one prov'd a traitor!</l><l n="30" xml:id="spp-803-33LI-line-30"> One traitor alone, and faithful eleven;</l><l n="31" xml:id="spp-803-33LI-line-31"> But w-- can afford you six t──────in seven.</l><l n="32" xml:id="spp-803-33LI-line-32"> What a clutter with clippings, dividings and cleavings,</l><l n="33" xml:id="spp-803-33LI-line-33"> And the clergy forsooth must take up with their leavings.</l><l n="34" xml:id="spp-803-33LI-line-34"> If making divisions was all their intent,</l><l n="35" xml:id="spp-803-33LI-line-35"> We thank them, they've done it, but not as they meant;</l><l n="36" xml:id="spp-803-33LI-line-36"> And so may such ──────for ever divide,</l><l n="37" xml:id="spp-803-33LI-line-37"> That no honest heathen wou'd be on their side.</l><l n="38" xml:id="spp-803-33LI-line-38"> How shou'd we rejoice, if, like <hi rend="underline">Judas</hi> the first,</l><l n="39" xml:id="spp-803-33LI-line-39"> Those splitters of parsons in sunder should burst?</l><l n="40" xml:id="spp-803-33LI-line-40"> Now hear an allusion!────a mitre, you know,</l><l n="41" xml:id="spp-803-33LI-line-41"> Is divided above, but united below.</l><l n="42" xml:id="spp-803-33LI-line-42"> If this you consider, our emblem is right,</l><l n="43" xml:id="spp-803-33LI-line-43"> The ────────divide, but the clergy unite.</l><l n="44" xml:id="spp-803-33LI-line-44"> Shou'd the bottom be split, our ────────would dread</l><l n="45" xml:id="spp-803-33LI-line-45"> That the mitre will never stick fast on their head,</l><l n="46" xml:id="spp-803-33LI-line-46"> And yet they have learnt the chief art of a sovereign,</l><l n="47" xml:id="spp-803-33LI-line-47"> As <hi rend="underline">Machiavel</hi> taught 'em, <hi rend="underline">divide and ye govern</hi>.</l><l n="48" xml:id="spp-803-33LI-line-48"> But courage, my l────, tho' it cannot be said</l><l n="49" xml:id="spp-803-33LI-line-49"> That one cloven tongue ever sat on your head,</l><l n="50" xml:id="spp-803-33LI-line-50"> I'll hold you a groat, and I wish I cou'd see it,</l><l n="51" xml:id="spp-803-33LI-line-51"> If your stockings were off, you cou'd shew cloven f--t.But hold, cry the ────, and give us fair play;</l><l n="52" xml:id="spp-803-33LI-line-52"> Before you condemn us, hear what we can say.</l><l n="53" xml:id="spp-803-33LI-line-53"> What truer affection cou'd ever be shewn,</l><l n="54" xml:id="spp-803-33LI-line-54"> Than saving your souls, by damning our own.</l><l n="55" xml:id="spp-803-33LI-line-55"> And have we not practis'd all methods to gain you?</l><l n="56" xml:id="spp-803-33LI-line-56"> With the tyth of the tyth of the tyths to maintain you;</l><l n="57" xml:id="spp-803-33LI-line-57"> Provided a fund for building your spittles,</l><l n="58" xml:id="spp-803-33LI-line-58"> You are only to live four years without vittles!</l><l n="59" xml:id="spp-803-33LI-line-59"> Content, my good l────ds, but let us change hands;</l><l n="60" xml:id="spp-803-33LI-line-60"> First take you our tythes, and give us your lands:</l><l n="61" xml:id="spp-803-33LI-line-61"> So God bless the church, and three of our m────es;</l><l n="62" xml:id="spp-803-33LI-line-62"> And God bless the commons, for biting the bitters.803-33LI   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

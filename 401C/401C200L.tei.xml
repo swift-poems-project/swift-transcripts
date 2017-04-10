@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verses wrote extempore by the Dean of S<hi rend="sup">t</hi> Patricks<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="401C200L" type="poem"><head type="note" n="1" xml:id="spp-401C200L-headnote-1"><lg n="1" xml:id="spp-401C200L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-401C200L-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-401C200L-headnote-2"><lg n="1" xml:id="spp-401C200L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-401C200L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-401C200L-headnote-3"><lg n="1" xml:id="spp-401C200L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-401C200L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-401C200L-line-1"> Your Mould'ring Walls are mending still&#13;Your Churches in neglect lye</l><l n="2" xml:id="spp-401C200L-line-2"> But yet the Scripture you fullfillBy walking circumspectly.</l><l n="3" xml:id="spp-401C200L-line-3"> The Church and Clergy here no doubtAre very much a·kin</l><l n="4" xml:id="spp-401C200L-line-4"> Both weather-beaten are withoutBoth empty are within.401C200L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

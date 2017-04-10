@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ANOTHER. By <hi rend="underline">D────ny</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="994A35D-" type="poem"><head type="note" n="1" xml:id="spp-994A35D--headnote-1"><lg n="1" xml:id="spp-994A35D--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-994A35D--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-994A35D--headnote-2"><lg n="1" xml:id="spp-994A35D--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-994A35D--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-994A35D--headnote-3"><lg n="1" xml:id="spp-994A35D--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-994A35D--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-994A35D--line-1"><hi rend="display-initial">Y</hi>OU that gape at strange Sights, come hither and see Sirs,</l><l n="2" xml:id="spp-994A35D--line-2"> How <hi rend="underline">Dan</hi> starts to Life, from a pair of dead Scissars.</l><l n="3" xml:id="spp-994A35D--line-3"> And Nature, asham'd of the Work she has done,</l><l n="4" xml:id="spp-994A35D--line-4"> Would fain palm the Picture on Us for her own.994A35D-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

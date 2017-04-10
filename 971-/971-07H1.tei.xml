@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Reverend Dr. <hi rend="underline">SHERRIDAN</hi> to</title>
+        <title xml:id="spp-971-07H1-title-1">J. S. D. D. D. S. P. D.<ref target="#spp-971-07H1-footnote-title-1">1</ref><note n="1" xml:id="spp-971-07H1-footnote-title-1" place="foot"><hi rend="underline">Jonathan Swift</hi>, doctor of divinity, dean of St. <hi rend="underline">Patricks Dublin</hi>.</note></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-971-07H1-footnote-title-1 #spp-971-07H1-title-1"/>
+          <link target="#spp-971-07H1-footnote-1 #spp-971-07H1-line-13"/>
+        </linkGrp>
+        <div n="971-07H1" type="poem"><head type="note" n="1" xml:id="spp-971-07H1-headnote-1"><lg n="1" xml:id="spp-971-07H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-971-07H1-headnote-1-line-group-1-line-1">Written in the Year 1712.</l></lg></head><head type="note" n="2" xml:id="spp-971-07H1-headnote-2"><lg n="1" xml:id="spp-971-07H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-971-07H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-971-07H1-headnote-3"><lg n="1" xml:id="spp-971-07H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-971-07H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-971-07H1-line-1"><hi rend="display-initial">D</hi>EAR dean, since in <hi rend="underline">cruxes</hi> and <hi rend="underline">puns</hi> you and I deal,</l><l n="2" xml:id="spp-971-07H1-line-2"> Pray why is a woman a sieve and a riddle?</l><l n="3" xml:id="spp-971-07H1-line-3"> 'Tis a thought, that came into my noddle this morning,</l><l n="4" xml:id="spp-971-07H1-line-4"> In bed as I lay, Sir, a tossing and turning.</l><l n="5" xml:id="spp-971-07H1-line-5"> You'll find, if you read but a few of your histories,</l><l n="6" xml:id="spp-971-07H1-line-6"> All women as <hi rend="underline">Eve</hi>, all women are mysteries.</l><l n="7" xml:id="spp-971-07H1-line-7"> To find out this riddle I know you'll be eager,</l><l n="8" xml:id="spp-971-07H1-line-8"> And make every one of the sex a <hi rend="underline">bel phagor</hi>.</l><l n="9" xml:id="spp-971-07H1-line-9"> But that will not do, for I mean to come-mend 'em:</l><l n="10" xml:id="spp-971-07H1-line-10"> I swear without jest I an honour intend 'em.</l><l n="11" xml:id="spp-971-07H1-line-11"> In a sieve, Sir, their antient extraction I quite tell,</l><l n="12" xml:id="spp-971-07H1-line-12"> In a riddle I give you their power and their title.</l><l n="13" xml:id="spp-971-07H1-line-13"> This I told you before, do you know what I mean, Sir?<ref target="#spp-971-07H1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-971-07H1-footnote-1">The Dean's answer.</note><hi rend="underline">Not I, by my troth, Sir</hi>.──Then read it again, Sir.<gap/><gap/></l><l n="14" xml:id="spp-971-07H1-line-14"> The reason I send you these lines of rhymes double</l><l n="15" xml:id="spp-971-07H1-line-15"> Is purely through pity to save you the trouble</l><l n="16" xml:id="spp-971-07H1-line-16"> Of thinking two hours for a rhyme as you did last;</l><l n="17" xml:id="spp-971-07H1-line-17"> When your <hi rend="underline">pegasus</hi> canter'd in triple, and rid fast.</l></lg><lg n="2" type="stanza"><l n="18" xml:id="spp-971-07H1-line-18">As for my little nag, which I keep at <hi rend="underline">Parnassus</hi>,</l><l n="19" xml:id="spp-971-07H1-line-19"> With <hi rend="underline">Ph<unclear>oe</unclear>bus</hi>'s leave, to run with his asses,</l><l n="20" xml:id="spp-971-07H1-line-20"> He goes slow and sure, and he never is jaded,</l><l n="21" xml:id="spp-971-07H1-line-21"> While your fiery steed is whipp'd, spurr'd, bastinaded.<gap/>971-07H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

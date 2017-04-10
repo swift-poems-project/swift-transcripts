@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Description of D<hi rend="sup">r</hi> Delany·s Villa.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y07B083Y" type="poem"><head type="note" n="1" xml:id="spp-Y07B083Y-headnote-1"><lg n="1" xml:id="spp-Y07B083Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y07B083Y-headnote-1-line-group-1-line-1">by D<hi rend="sup">r</hi>. Sheridan.</l></lg></head><head type="note" n="2" xml:id="spp-Y07B083Y-headnote-2"><lg n="1" xml:id="spp-Y07B083Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y07B083Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y07B083Y-headnote-3"><lg n="1" xml:id="spp-Y07B083Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y07B083Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y07B083Y-line-1"> Would you that Delville I describe,&#13;</l><l n="2" xml:id="spp-Y07B083Y-line-2"> Believe me Sir I will not gibe.</l><l n="3" xml:id="spp-Y07B083Y-line-3"> For Who woud be satirical</l><l n="4" xml:id="spp-Y07B083Y-line-4"> Upon a thing so very small.</l></lg><lg n="2" type="stanza"><l n="5" xml:id="spp-Y07B083Y-line-5">You scarce upon the borders enter,&#13;</l><l n="6" xml:id="spp-Y07B083Y-line-6"> Before you're at the very center,</l><l n="7" xml:id="spp-Y07B083Y-line-7"> A single Crow can make it night,</l><l n="8" xml:id="spp-Y07B083Y-line-8"> When o'er your farm she takes her flight.</l><l n="9" xml:id="spp-Y07B083Y-line-9"> Yet in this narrow compass we,</l><l n="10" xml:id="spp-Y07B083Y-line-10"> Observe a great variety.</l><l n="11" xml:id="spp-Y07B083Y-line-11"> Both Walks, Walls, meadows, &amp; parterres,</l><l n="12" xml:id="spp-Y07B083Y-line-12"> Windows, &amp; doors, &amp; Rooms &amp; Stairs,</l><l n="13" xml:id="spp-Y07B083Y-line-13"> And hills, &amp; dales, &amp; woods &amp; fields,</l><l n="14" xml:id="spp-Y07B083Y-line-14"> And hay, &amp; grass, &amp; Corn it yields,</l><l n="15" xml:id="spp-Y07B083Y-line-15"> All to your haggard brought so cheap in,</l><l n="16" xml:id="spp-Y07B083Y-line-16"> Without the mowing, or the Reaping,</l><l n="17" xml:id="spp-Y07B083Y-line-17"> A Razor tho to say it I am loth,</l><l n="18" xml:id="spp-Y07B083Y-line-18"> Woud shave you &amp; your meadows both.</l><l n="19" xml:id="spp-Y07B083Y-line-19"> Tho small the farm, yet heres a House,</l><l n="20" xml:id="spp-Y07B083Y-line-20"> Full large to entertain a Mouse,</l><l n="21" xml:id="spp-Y07B083Y-line-21"> But where a Rat is dreaded more,</l><l n="22" xml:id="spp-Y07B083Y-line-22"> Than savage Caledonian Boar,</l><l n="23" xml:id="spp-Y07B083Y-line-23"> For if 'tis enterd by a Rat,</l><l n="24" xml:id="spp-Y07B083Y-line-24"> There is no room to bring a Cat.</l><l n="25" xml:id="spp-Y07B083Y-line-25"> A little Rivulet seems to steal,</l><l n="26" xml:id="spp-Y07B083Y-line-26"> Down thro a thing you call a Vale,</l><l n="27" xml:id="spp-Y07B083Y-line-27"> Like tears adown a wrinkled cheek,</l><l n="28" xml:id="spp-Y07B083Y-line-28"> Or rain a·long a blade of Leak,</l><l n="29" xml:id="spp-Y07B083Y-line-29"> And this you call your sweet meander,</l><l n="30" xml:id="spp-Y07B083Y-line-30"> Which might be suck·d up by a Gander,</l><l n="31" xml:id="spp-Y07B083Y-line-31"> Could he but force his nether bill,</l><l n="32" xml:id="spp-Y07B083Y-line-32"> To scoop the Channel of the rill,</l><l n="33" xml:id="spp-Y07B083Y-line-33"> I'm sure you·d make a mighty Clutter,</l><l n="34" xml:id="spp-Y07B083Y-line-34"> Where it as big as City gutter.</l><l n="35" xml:id="spp-Y07B083Y-line-35"> Next come I to your Kitchen garden,</l><l n="36" xml:id="spp-Y07B083Y-line-36"> Which one poor slug, woud fare but hard in,</l><l n="37" xml:id="spp-Y07B083Y-line-37"> And round this garden is a Walk,</l><l n="38" xml:id="spp-Y07B083Y-line-38"> No longer than a Taylors Chalk,</l><l n="39" xml:id="spp-Y07B083Y-line-39"> Thus I compute what space is in it,</l><l n="40" xml:id="spp-Y07B083Y-line-40"> A snail creep·s round it in a minute.</l><l n="41" xml:id="spp-Y07B083Y-line-41"> One Lettuce makes a shift to squeeze,</l><l n="42" xml:id="spp-Y07B083Y-line-42"> Up thro a tuft you call your Trees.</l><l n="43" xml:id="spp-Y07B083Y-line-43"> And once a year a single Rose,</l><l n="44" xml:id="spp-Y07B083Y-line-44"> Peep·s thro the bud, but never blows,</l><l n="45" xml:id="spp-Y07B083Y-line-45"> It cannot blow for want of Ro<gap/></l><l n="46" xml:id="spp-Y07B083Y-line-46"> In vain you may expect its Blo<gap/></l><l n="47" xml:id="spp-Y07B083Y-line-47"> In short, in all your boasted seat,</l><l n="48" xml:id="spp-Y07B083Y-line-48"> There's nothing but yourself is great.Y07B083Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

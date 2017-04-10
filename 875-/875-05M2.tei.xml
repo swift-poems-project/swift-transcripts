@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>D<hi rend="SMALL-CAPS">RAPIER</hi>'s HILL.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-875-05M2-footnote-1 #spp-875-05M2-line-9"/>
+          <link target="#spp-875-05M2-footnote-2 #spp-875-05M2-line-16"/>
+        </linkGrp>
+        <div n="875-05M2" type="poem"><head type="note" n="1" xml:id="spp-875-05M2-headnote-1"><lg n="1" xml:id="spp-875-05M2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-875-05M2-headnote-1-line-group-1-line-1">Written in the Year 1729.</l></lg></head><head type="note" n="2" xml:id="spp-875-05M2-headnote-2"><lg n="1" xml:id="spp-875-05M2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-875-05M2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-875-05M2-headnote-3"><lg n="1" xml:id="spp-875-05M2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-875-05M2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-875-05M2-line-1"><hi rend="display-initial">W</hi>E give the World to understand,</l><l n="2" xml:id="spp-875-05M2-line-2"> Our thriving D──n has purchas'd Land;</l><l n="3" xml:id="spp-875-05M2-line-3"> A Purchase which will bring him clear</l><l n="4" xml:id="spp-875-05M2-line-4"> Above his Rent four Pounds a Year;</l><l n="5" xml:id="spp-875-05M2-line-5"> Provided, to improve the Ground,</l><l n="6" xml:id="spp-875-05M2-line-6"> He will but add Two hundred Pound,</l><l n="7" xml:id="spp-875-05M2-line-7"> And from his endless hoarded Store,</l><l n="8" xml:id="spp-875-05M2-line-8"> To build a House, five hundred more.</l><l n="9" xml:id="spp-875-05M2-line-9"> Sir <hi rend="underline">Arthur</hi><ref target="#spp-875-05M2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-875-05M2-footnote-1">The Gentleman of whom the Purchase was made.</note> too shall have his Will,</l><l n="10" xml:id="spp-875-05M2-line-10"> And call the Mansion <hi rend="underline">Drapier</hi>'s Hill:</l><l n="11" xml:id="spp-875-05M2-line-11"> That when a Nation, long enslav'd,</l><l n="12" xml:id="spp-875-05M2-line-12"> Forgets by whom it once was sav'd;</l><l n="13" xml:id="spp-875-05M2-line-13"> When none the D<hi rend="SMALL-CAPS">RAPIER</hi>'s Praise shall sing;</l><l n="14" xml:id="spp-875-05M2-line-14"> His Signs aloft no longer swing;<gap/><gap/></l><l n="15" xml:id="spp-875-05M2-line-15"> His Medals and his Prints forgotten,</l><l n="16" xml:id="spp-875-05M2-line-16"> And all his <ref target="#spp-875-05M2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-875-05M2-footnote-2">Medals were cast, many Signs hung up, and Handkerchiefs made with Devices, in Honour of the Author, under the Name of <hi rend="underline">M.B. Drapier</hi>.</note> Handkerchiefs are rotten;</l><l n="17" xml:id="spp-875-05M2-line-17"> His famous L<hi rend="SMALL-CAPS">ETTERS</hi> made waste Paper;</l><l n="18" xml:id="spp-875-05M2-line-18"> This Hill may keep the Name of D<hi rend="SMALL-CAPS">RAPIER</hi>:</l><l n="19" xml:id="spp-875-05M2-line-19"> In Spight of Envy flourish still,</l><l n="20" xml:id="spp-875-05M2-line-20"> And D<hi rend="SMALL-CAPS">RAPIER</hi>'s vie with C<hi rend="SMALL-CAPS">OOPER</hi>'s Hill.875-05M2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

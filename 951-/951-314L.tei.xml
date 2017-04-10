@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="951-314L" type="poem"><head type="note" n="1" xml:id="spp-951-314L-headnote-1"><lg n="1" xml:id="spp-951-314L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-951-314L-headnote-1-line-group-1-line-1">N. 98</l></lg></head><head type="note" n="2" xml:id="spp-951-314L-headnote-2"><lg n="1" xml:id="spp-951-314L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-951-314L-headnote-2-line-group-1-line-1">A 3 Voc.</l></lg></head><head type="note" n="3" xml:id="spp-951-314L-headnote-3"><lg n="1" xml:id="spp-951-314L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-951-314L-headnote-3-line-group-1-line-1">D<hi rend="sup">r</hi> Hayes</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-951-314L-line-1"> Come buy my fine Wares&#13;</l><l n="2" xml:id="spp-951-314L-line-2"> Plumbs Apples and Pears</l><l n="3" xml:id="spp-951-314L-line-3"> a Hundred a Penny</l><l n="4" xml:id="spp-951-314L-line-4"> in Conscience too Many,</l><l n="5" xml:id="spp-951-314L-line-5"> come will you have any</l><l n="6" xml:id="spp-951-314L-line-6"> my Children are seven,·my·Children·are·seven</l><l n="7" xml:id="spp-951-314L-line-7"> I wish them in Heaven,·I·wish·them,·I·wish·them·I·wish·them·in·Heaven:</l><l n="8" xml:id="spp-951-314L-line-8"> My Husbands a Sott</l><l n="9" xml:id="spp-951-314L-line-9"> with his Pipe and his Pott,</l><l n="10" xml:id="spp-951-314L-line-10"> not a farthing will gain 'em,</l><l n="11" xml:id="spp-951-314L-line-11"> &amp; I must maintain them·and·I·must·maintain·them951-314L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

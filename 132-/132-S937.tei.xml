@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE</title>
+        <title>VIRTUES</title>
+        <title>OF</title>
+        <title><hi rend="underline">SID HAMET</hi> the MAGICIAN's<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="132-S937" type="poem"><head type="note" n="1" xml:id="spp-132-S937-headnote-1"><lg n="1" xml:id="spp-132-S937-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-132-S937-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-132-S937-headnote-2"><lg n="1" xml:id="spp-132-S937-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-132-S937-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-132-S937-headnote-3"><lg n="1" xml:id="spp-132-S937-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-132-S937-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-132-S937-line-1"><hi rend="display-initial">T</hi>HE <hi rend="underline">Rod</hi> was but a harmless Wand,</l><l n="2" xml:id="spp-132-S937-line-2"> While <hi rend="underline">Moses</hi> held it in his Hand,</l><l n="3" xml:id="spp-132-S937-line-3"> But soon as e'er he <hi rend="underline">lay'd</hi> it <hi rend="underline">down</hi>,</l><l n="4" xml:id="spp-132-S937-line-4"> 'Twas a devouring Serpent grown.OUR great Magician, <hi rend="underline">Hamet Sid</hi>,</l><l n="5" xml:id="spp-132-S937-line-5"> Reverses what the Prophet did;</l><l n="6" xml:id="spp-132-S937-line-6"> His <hi rend="underline">Rod</hi> was honest <hi rend="underline">English</hi> Wood,</l><l n="7" xml:id="spp-132-S937-line-7"> That, senseless, in a Corner stood,</l><l n="8" xml:id="spp-132-S937-line-8"> Till Metamorphos'd by his Grasp,</l><l n="9" xml:id="spp-132-S937-line-9"> It grew an all-devouring Asp;</l><l n="10" xml:id="spp-132-S937-line-10"> Would hiss, and sting, and roll, and twist,</l><l n="11" xml:id="spp-132-S937-line-11"> By the meer Virtue of his Fist:</l><l n="12" xml:id="spp-132-S937-line-12"> But when he <hi rend="underline">lay'd it down</hi>, as quick</l><l n="13" xml:id="spp-132-S937-line-13"> Resum'd the Figure of a Stick.SO to Her Midnight Feasts the Hag,</l><l n="14" xml:id="spp-132-S937-line-14"> Rides on a Broomstick for a Nag,</l><l n="15" xml:id="spp-132-S937-line-15"> That, rais'd by Magick of her Breech,</l><l n="16" xml:id="spp-132-S937-line-16"> O'er Sea and Land conveys the Witch;</l><l n="17" xml:id="spp-132-S937-line-17"> But, with the Morning-Dawn, resumes</l><l n="18" xml:id="spp-132-S937-line-18"> The Peaceful State of common Brooms.THEY tell us something strange and odd,</l><l n="19" xml:id="spp-132-S937-line-19"> Abut a certain Magick <hi rend="underline">Rod</hi>,</l><l n="20" xml:id="spp-132-S937-line-20"> That, bending down it's Top, divines</l><l n="21" xml:id="spp-132-S937-line-21"> When e'er the Soil has Golden Mines:</l><l n="22" xml:id="spp-132-S937-line-22"> Where there are none, it stands erect,</l><l n="23" xml:id="spp-132-S937-line-23"> Scorning to show the least Respect.</l><l n="24" xml:id="spp-132-S937-line-24"> As ready was the <hi rend="underline">Wand</hi> of <hi rend="underline">Sid</hi></l><l n="25" xml:id="spp-132-S937-line-25"> To <hi rend="underline">bend</hi> where <hi rend="underline">Golden Mines</hi> were hid,</l><l n="26" xml:id="spp-132-S937-line-26"> In <hi rend="underline">Scottish</hi> Hills found precious Ore,</l><l n="27" xml:id="spp-132-S937-line-27"> Where none e'er look'd for it before;</l><l n="28" xml:id="spp-132-S937-line-28"> And, by a <hi rend="underline">gentle Bow</hi>, divin'd</l><l n="29" xml:id="spp-132-S937-line-29"> How well a <hi rend="underline">Cully</hi>'s Purse was lin'd:</l><l n="30" xml:id="spp-132-S937-line-30"> To a forlorn and broken <hi rend="underline">Rake</hi>,</l><l n="31" xml:id="spp-132-S937-line-31"> Stood without Motion, like a Stake.THE <hi rend="underline">Rod</hi> of <hi rend="underline">Hermes</hi> was renown'd</l><l n="32" xml:id="spp-132-S937-line-32"> For Charms above and under Ground;</l><l n="33" xml:id="spp-132-S937-line-33"> To sleep could Mortal Eye-lids fix</l><l n="34" xml:id="spp-132-S937-line-34"> Add drive departed Souls to <hi rend="underline">Styx</hi>.</l><l n="35" xml:id="spp-132-S937-line-35"> That <hi rend="underline">Rod</hi> was just a Type of <hi rend="underline">Sid's</hi>,</l><l n="36" xml:id="spp-132-S937-line-36"> Which, o'er a <hi rend="underline">British</hi> Senate's Lids,</l><l n="37" xml:id="spp-132-S937-line-37"> Could <hi rend="underline">scatter Opium</hi> full as well,</l><l n="38" xml:id="spp-132-S937-line-38"> And drive as many <hi rend="underline">Souls to Hell</hi>.<hi rend="underline">SID</hi>'s Rod was slender, white and tall,</l><l n="39" xml:id="spp-132-S937-line-39"> Which oft he us'd to fish withal:<hi rend="underline">A PLACE</hi> was fastned to the Hook,</l><l n="40" xml:id="spp-132-S937-line-40"> And many Score of <hi rend="underline">Gudgeons</hi> took:</l><l n="41" xml:id="spp-132-S937-line-41"> Yet, still so happy was his Fate,</l><l n="42" xml:id="spp-132-S937-line-42"> He caught his <hi rend="underline">Fish</hi>, and sav'd his <hi rend="underline">Bait</hi>.<hi rend="underline">SID</hi>'s Brethern of the conjuring Tribe,</l><l n="43" xml:id="spp-132-S937-line-43"> A Circle with their <hi rend="underline">Rod</hi> describe,</l><l n="44" xml:id="spp-132-S937-line-44"> Which proves a Magical Redoubt</l><l n="45" xml:id="spp-132-S937-line-45"> To keep <hi rend="underline">Mischievous Spirits</hi> out:<hi rend="underline">Sid's Rod</hi> was of a larger Stride,</l><l n="46" xml:id="spp-132-S937-line-46"> And made a Circle thrice as wide,</l><l n="47" xml:id="spp-132-S937-line-47"> Where <hi rend="underline">Spirits</hi> throng'd with hideous Din,</l><l n="48" xml:id="spp-132-S937-line-48"> And he stood there to <hi rend="underline">take them in</hi></l><l n="49" xml:id="spp-132-S937-line-49"> But, when th' enchanted <hi rend="underline">Rod</hi> was <hi rend="underline">broke</hi>,</l><l n="50" xml:id="spp-132-S937-line-50"> They vanish'd in a stinking Smoak,<hi rend="underline"/>'s Scepter was of Wood,</l><l n="51" xml:id="spp-132-S937-line-51"> Like <hi rend="underline">Sid's</hi>, but nothing near so good;</l><l n="52" xml:id="spp-132-S937-line-52"> Tho' down from Ancestors Divine.</l><l n="53" xml:id="spp-132-S937-line-53"> Transmitted to the Heroes Line,</l><l n="54" xml:id="spp-132-S937-line-54"> Thence, thro' a long Descent of Kings,</l><l n="55" xml:id="spp-132-S937-line-55"> Came an <hi rend="underline">HEIR-LOOM</hi>, as <hi rend="underline">Homer</hi> sings,</l><l n="56" xml:id="spp-132-S937-line-56"> Tho' this Description looks so big,</l><l n="57" xml:id="spp-132-S937-line-57"> That <hi rend="underline">Scepter</hi> was a sapless Twig:</l><l n="58" xml:id="spp-132-S937-line-58"> Which, from the fatal Day when first</l><l n="59" xml:id="spp-132-S937-line-59"> It left the Forest where 'twas nurst,</l><l n="60" xml:id="spp-132-S937-line-60"> As <hi rend="underline">Homer</hi> tells us o'er and o'er,</l><l n="61" xml:id="spp-132-S937-line-61"> Nor Leaf, nor Fruit, nor Blossom bore.<hi rend="underline">Sid's</hi> Scepter, full of Juice, did shoot,</l><l n="62" xml:id="spp-132-S937-line-62"> In Golden Boughs, and Golden Fruit,</l><l n="63" xml:id="spp-132-S937-line-63"> And He, the <hi rend="underline">Dragon</hi>, never sleeping,</l><l n="64" xml:id="spp-132-S937-line-64"> Guarded each fair <hi rend="underline">Hesperian</hi> Pippin.</l><l n="65" xml:id="spp-132-S937-line-65"> No <hi rend="underline">Hobby-horse</hi>, with gorgeous Top,</l><l n="66" xml:id="spp-132-S937-line-66"> The dearest in <hi rend="underline">Charles Mather</hi>'s Shop,</l><l n="67" xml:id="spp-132-S937-line-67"> Or glitt'ring Tinsel of <hi rend="underline">May-Fair</hi>,</l><l n="68" xml:id="spp-132-S937-line-68"> Could with this <hi rend="underline">Rod</hi> of <hi rend="underline">Sid</hi> compare.DEAR <hi rend="underline">Sid</hi>, then why wer't thou so mad?</l><l n="69" xml:id="spp-132-S937-line-69"> To break the <hi rend="underline">Rod</hi> like naughty Lad?</l><l n="70" xml:id="spp-132-S937-line-70"> You should have kiss'd it in your Distress,</l><l n="71" xml:id="spp-132-S937-line-71"> And then return'd it to <hi rend="underline">your Mistress</hi>,</l><l n="72" xml:id="spp-132-S937-line-72"> Or made it a <hi rend="underline">Newmarket</hi> Switch,</l><l n="73" xml:id="spp-132-S937-line-73"> And not a <hi rend="underline">Rod</hi> for thy own Breech.</l><l n="74" xml:id="spp-132-S937-line-74"> For since old <hi rend="underline">Sid</hi> has broken this,</l><l n="75" xml:id="spp-132-S937-line-75"> His next will be a <hi rend="underline">Rod in Piss</hi>.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

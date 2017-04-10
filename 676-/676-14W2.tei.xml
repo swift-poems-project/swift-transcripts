@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE PARSON'S CASE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="676-14W2" type="poem"><head type="note" n="1" xml:id="spp-676-14W2-headnote-1"><lg n="1" xml:id="spp-676-14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-676-14W2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-676-14W2-headnote-2"><lg n="1" xml:id="spp-676-14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-676-14W2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-676-14W2-headnote-3"><lg n="1" xml:id="spp-676-14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-676-14W2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-676-14W2-line-1"> T<hi rend="SMALL-CAPS">HAT</hi> you, friend Marcus, like a stoic,</l><l n="2" xml:id="spp-676-14W2-line-2"> Can wish to die in strains heroic,</l><l n="3" xml:id="spp-676-14W2-line-3"> No real fortitude implies:</l><l n="4" xml:id="spp-676-14W2-line-4"> Yet, all must own, thy wish is wise.</l><l n="5" xml:id="spp-676-14W2-line-5"> Thy curate's place, thy fruitful wife,</l><l n="6" xml:id="spp-676-14W2-line-6"> Thy busy, drudging scene of life,</l><l n="7" xml:id="spp-676-14W2-line-7"> Thy insolent, illiterate vicar,</l><l n="8" xml:id="spp-676-14W2-line-8"> Thy want of all-consoling liquor,</l><l n="9" xml:id="spp-676-14W2-line-9"> Thy threadbare gown, thy cassock rent,</l><l n="10" xml:id="spp-676-14W2-line-10"> Thy credit sunk, thy money spent,</l><l n="11" xml:id="spp-676-14W2-line-11"> Thy week made up of fasting-days,</l><l n="12" xml:id="spp-676-14W2-line-12"> Thy grate unconscious of a blaze,<gap/><gap/><gap/><gap/></l><l n="13" xml:id="spp-676-14W2-line-13"> And to complete thy other curses,</l><l n="14" xml:id="spp-676-14W2-line-14"> The quarterly demands of nurses,</l><l n="15" xml:id="spp-676-14W2-line-15"> Are ills you wisely wish to leave,</l><l n="16" xml:id="spp-676-14W2-line-16"> And fly for refuge to the grave;</l><l n="17" xml:id="spp-676-14W2-line-17"> And, O, what virtue you express,</l><l n="18" xml:id="spp-676-14W2-line-18"> In wishing such afflictions less!But, now, should Fortune shift the scene,</l><l n="19" xml:id="spp-676-14W2-line-19"> And make thy curateship a dean:</l><l n="20" xml:id="spp-676-14W2-line-20"> Or some rich benefice provide,</l><l n="21" xml:id="spp-676-14W2-line-21"> To pamper luxury and pride;</l><l n="22" xml:id="spp-676-14W2-line-22"> With labour small, and income great;</l><l n="23" xml:id="spp-676-14W2-line-23"> With chariot less for use than state;</l><l n="24" xml:id="spp-676-14W2-line-24"> With swelling scarf, and glossy gown,</l><l n="25" xml:id="spp-676-14W2-line-25"> And licence to reside in town:</l><l n="26" xml:id="spp-676-14W2-line-26"> To shine where all the gay resort,</l><l n="27" xml:id="spp-676-14W2-line-27"> At concerts, coffeehouse, or court:</l><l n="28" xml:id="spp-676-14W2-line-28"> And weekly persecute his grace</l><l n="29" xml:id="spp-676-14W2-line-29"> With visits, or to beg a place:</l><l n="30" xml:id="spp-676-14W2-line-30"> With underlings thy flock to teach,</l><l n="31" xml:id="spp-676-14W2-line-31"> With no desire to pray or preach;</l><l n="32" xml:id="spp-676-14W2-line-32"> With haughty spouse in vesture fine,</l><l n="33" xml:id="spp-676-14W2-line-33"> With plenteous meals and generous wine;</l><l n="34" xml:id="spp-676-14W2-line-34"> Would'st thou not wish, in so much ease,</l><l n="35" xml:id="spp-676-14W2-line-35"> Thy years as numerous as thy days?676-14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

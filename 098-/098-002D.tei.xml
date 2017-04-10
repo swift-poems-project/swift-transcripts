@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Grubstreet Elegy on the</title>
+        <title>Supposed Death of Patrige the<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SB"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-098-002D-footnote-1 #spp-098-002D-line-19"/>
+          <link target="#spp-098-002D-footnote-2 #spp-098-002D-line-31"/>
+          <link target="#spp-098-002D-footnote-3 #spp-098-002D-line-82"/>
+        </linkGrp>
+        <div n="098-002D" type="poem"><head type="note" n="1" xml:id="spp-098-002D-headnote-1"><lg n="1" xml:id="spp-098-002D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-098-002D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-098-002D-headnote-2"><lg n="1" xml:id="spp-098-002D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-098-002D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-098-002D-headnote-3"><lg n="1" xml:id="spp-098-002D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-098-002D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-098-002D-line-1"> Well, 'tis as Bickerstaff has Guest,&#13;</l><l n="2" xml:id="spp-098-002D-line-2"> Tho we all took it for a jest:</l><l n="3" xml:id="spp-098-002D-line-3"> Patrige is dead, nay more, he died,</l><l n="4" xml:id="spp-098-002D-line-4"> E'er He cou'd prove the Squire Ly'd.</l><l n="5" xml:id="spp-098-002D-line-5"> Strange an Astrologer shou'd die,</l><l n="6" xml:id="spp-098-002D-line-6"> Without One Wonder in the Sky;</l><l n="7" xml:id="spp-098-002D-line-7"> Not one of all his Crony Starrs,</l><l n="8" xml:id="spp-098-002D-line-8"> To Pay their duty att his Hearse!</l><l n="9" xml:id="spp-098-002D-line-9"> No Meteor no Ecclipse appear'd!</l><l n="10" xml:id="spp-098-002D-line-10"> No Comet with a fiery Beard!</l><l n="11" xml:id="spp-098-002D-line-11"> The sun has Rose, and gone to Bed,</l><l n="12" xml:id="spp-098-002D-line-12"> Just as if Patrige were not dead;</l><l n="13" xml:id="spp-098-002D-line-13"> Nor hid himself behind the Moon,</l><l n="14" xml:id="spp-098-002D-line-14"> To make a dreadfull Night at Noon:</l><l n="15" xml:id="spp-098-002D-line-15"> He at fit Periods walks through Aries,</l><l n="16" xml:id="spp-098-002D-line-16"> Howe'er our Earthly Motion Varies,</l><l n="17" xml:id="spp-098-002D-line-17"> And twice a Year He'll cut the <unclear>AE</unclear>quator,</l><l n="18" xml:id="spp-098-002D-line-18"> As if there had been no such Matter.Some Wits have Wonder'd what Analogy</l><l n="19" xml:id="spp-098-002D-line-19"> There is 'twixt <ref target="#spp-098-002D-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-098-002D-footnote-1">Patrige was a Cobler.</note> Cobling and Astrology;</l><l n="20" xml:id="spp-098-002D-line-20"> How Patrige made his Opticks rise,</l><l n="21" xml:id="spp-098-002D-line-21"> From a shoe Sole to reach the Skies.A List the Coblers Temples ties</l><l n="22" xml:id="spp-098-002D-line-22"> To keep the hair out of their Eyes;</l><l n="23" xml:id="spp-098-002D-line-23"> From whence 'tis plain the Diadem</l><l n="24" xml:id="spp-098-002D-line-24"> That Princes Wear derives from them;</l><l n="25" xml:id="spp-098-002D-line-25"> And therefore Crowns are now a-daye's</l><l n="26" xml:id="spp-098-002D-line-26"> Adorn'd with Golden Stars and Rays,</l><l n="27" xml:id="spp-098-002D-line-27"> Which plainly shows the near alliance</l><l n="28" xml:id="spp-098-002D-line-28"> 'Twixt Cobling, and the Planets Science.Besides, that slow-pac'd Sign Bootes</l><l n="29" xml:id="spp-098-002D-line-29"> As 'tis miscall'd, we know not who 'tis;</l><l n="30" xml:id="spp-098-002D-line-30"> But Patrige ended all disputes</l><l n="31" xml:id="spp-098-002D-line-31"> He knew his Trade, and call'd it <ref target="#spp-098-002D-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-098-002D-footnote-2">see his Almanack</note> Boots.The horned Moon which heretofore</l><l n="32" xml:id="spp-098-002D-line-32"> Upon their Shooes the Romans Wore,</l><l n="33" xml:id="spp-098-002D-line-33"> Whose Wideness kept their Toes from Corns,</l><l n="34" xml:id="spp-098-002D-line-34"> And whence we claim our Shooing-Horns,</l><l n="35" xml:id="spp-098-002D-line-35"> Shews how the Art of Cobling bears</l><l n="36" xml:id="spp-098-002D-line-36"> A near Resemblance to the Spheres.A Scrap of Parchment hung by Geometry,</l><l n="37" xml:id="spp-098-002D-line-37"> A great Refinem<hi rend="sup">ṭ</hi> in Barometry;</l><l n="38" xml:id="spp-098-002D-line-38"> Can like the Starrs foretel the Weather;</l><l n="39" xml:id="spp-098-002D-line-39"> And what is Parchment else but Leather?</l><l n="40" xml:id="spp-098-002D-line-40"> Which an Astrologer might use</l><l n="41" xml:id="spp-098-002D-line-41"> Either for Almanacks or Shooes.Thus Patrige, by his Wit and Parts,</l><l n="42" xml:id="spp-098-002D-line-42"> At once did Practice both these Arts;</l><l n="43" xml:id="spp-098-002D-line-43"> And as the Boading Owl, (or rather</l><l n="44" xml:id="spp-098-002D-line-44"> The Bat, because her Wings are Leather)</l><l n="45" xml:id="spp-098-002D-line-45"> Steals from her Private Cell by Night</l><l n="46" xml:id="spp-098-002D-line-46"> And flies about the Candle-Light:</l><l n="47" xml:id="spp-098-002D-line-47"> So Learned Patrige could as Well</l><l n="48" xml:id="spp-098-002D-line-48"> Creep in the dark from Leathern Cell,</l><l n="49" xml:id="spp-098-002D-line-49"> And in his fancy, fly, as far,</l><l n="50" xml:id="spp-098-002D-line-50"> To peep upon a twinkling Star.</l><l n="51" xml:id="spp-098-002D-line-51"> Besides, he cou'd Confound the Spheres,</l><l n="52" xml:id="spp-098-002D-line-52"> And set the Planets by the Ears:</l><l n="53" xml:id="spp-098-002D-line-53"> To shew his skill, he Mars wou'd join</l><l n="54" xml:id="spp-098-002D-line-54"> To Venus in Aspect Mali'n,</l><l n="55" xml:id="spp-098-002D-line-55"> Then Call in Mercury for Aid,</l><l n="56" xml:id="spp-098-002D-line-56"> And Cure the Wounds that Venus made.Great Scholars have in Lucian read,</l><l n="57" xml:id="spp-098-002D-line-57"> When Philip King of Greece was dead,</l><l n="58" xml:id="spp-098-002D-line-58"> His soul and spirit did divide,</l><l n="59" xml:id="spp-098-002D-line-59"> And each part took a diff'rent Side;</l><l n="60" xml:id="spp-098-002D-line-60"> One Rose a Star, the other fell</l><l n="61" xml:id="spp-098-002D-line-61"> Beneath, and mended shoes in Hell.Thus Patrige still shines in each Art,</l><l n="62" xml:id="spp-098-002D-line-62"> The Cobling, and Star-gazing Part,</l><l n="63" xml:id="spp-098-002D-line-63"> And is install'd as good a Star,</l><l n="64" xml:id="spp-098-002D-line-64"> As any of the C<unclear>ae</unclear>sars are.Triumphant Star! some pity shew,</l><l n="65" xml:id="spp-098-002D-line-65"> On Coblers Militant below,</l><l n="66" xml:id="spp-098-002D-line-66"> Whom Roguish Boys in storm Nights</l><l n="67" xml:id="spp-098-002D-line-67"> Torment, by Pissing out their Lights;</l><l n="68" xml:id="spp-098-002D-line-68"> Or thro' a Chinck convey their smoke,</l><l n="69" xml:id="spp-098-002D-line-69"> Inclos'd Artificers to Choke.Thou, high-Exalted in thy Sphere,</l><l n="70" xml:id="spp-098-002D-line-70"> Mays't follow still thy Calling there.</l><l n="71" xml:id="spp-098-002D-line-71"> To Thee the Bull will Lend his hide,</l><l n="72" xml:id="spp-098-002D-line-72"> By Ph<unclear>oe</unclear>bus, newly Tann'd and Dry'd.</l><l n="73" xml:id="spp-098-002D-line-73"> For Thee they Argo's Hulk will Tax,</l><l n="74" xml:id="spp-098-002D-line-74"> And scrape her Pitchy Sides for Wax.</l><l n="75" xml:id="spp-098-002D-line-75"> Then Ariadne kindly Lends,</l><l n="76" xml:id="spp-098-002D-line-76"> Her Braided Hair to make thee Ends;</l><l n="77" xml:id="spp-098-002D-line-77"> The Point of Sagitarius Dart</l><l n="78" xml:id="spp-098-002D-line-78"> Turns to an Awl, by Heavenly Art;</l><l n="79" xml:id="spp-098-002D-line-79"> And Vulcan wheedl'd by his Wife</l><l n="80" xml:id="spp-098-002D-line-80"> Will Forge for thee a Paring knife.</l><l n="81" xml:id="spp-098-002D-line-81"> For want of Room by Virgo's Side,</l><l n="82" xml:id="spp-098-002D-line-82"> She'll strain a Point, and sit <ref target="#spp-098-002D-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-098-002D-footnote-3">Tibi Brachia contrahet Ingens Scorpius, &amp;c.</note> astride</l><l n="83" xml:id="spp-098-002D-line-83"> To Take Thee kindly in between</l><l n="84" xml:id="spp-098-002D-line-84" rend="align(center)"> And Then the Signs will be Thirteen.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>The Epitaph.</l></lg><lg n="2" type="stanza"><l n="85" xml:id="spp-098-002D-line-85" rend="flush left">Here, Five foot deep, Lies on his back,&#13;</l><l n="86" xml:id="spp-098-002D-line-86"> A Cobler, Starmonger, and Quack.</l><l n="87" xml:id="spp-098-002D-line-87"> Who to the Stars in pure good-Will,</l><l n="88" xml:id="spp-098-002D-line-88"> Does to his best, Look upward still.</l><l n="89" xml:id="spp-098-002D-line-89"> Weep all You Customers that use</l><l n="90" xml:id="spp-098-002D-line-90"> His Pills, his Almanack, or Shooes.</l><l n="91" xml:id="spp-098-002D-line-91"> And You that did Your fortune seek,</l><l n="92" xml:id="spp-098-002D-line-92"> Step to his Grave but Once a Week,</l><l n="93" xml:id="spp-098-002D-line-93"> This Earth which bears his Body's Print,</l><l n="94" xml:id="spp-098-002D-line-94"> You'll find has so much Virtue in't</l><l n="95" xml:id="spp-098-002D-line-95"> That I durst pawn my Ears, twill tell</l><l n="96" xml:id="spp-098-002D-line-96"> Whate'er concerns You, full as Well</l><l n="97" xml:id="spp-098-002D-line-97"> In Physick, Stolen Goods, or Love,</l><l n="98" xml:id="spp-098-002D-line-98"> As He himself could, when above.098-002D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

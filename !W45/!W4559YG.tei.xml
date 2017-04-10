@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CCalella"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="!W4559YG" type="letter"><head type="note" n="1" xml:id="spp-!W4559YG-headnote-1"><lg n="1" xml:id="spp-!W4559YG-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-!W4559YG-headnote-1-line-group-1-line-1">I also remember another sign, on which the D<hi rend="SMALL-CAPS">RAPER</hi>'s head was placed between two angels; one of which held the Irish harp, and the other a paper, called <hi rend="underline">The </hi>Draper'<hi rend="underline">s letter to the people of Ireland</hi>, with these lines underneath;</l></lg></head><head type="note" n="2" xml:id="spp-!W4559YG-headnote-2"><lg n="1" xml:id="spp-!W4559YG-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-!W4559YG-headnote-2-line-group-1-line-1">I will not presume, for many reasons, to compare these lines, 'though wrote in gold, to the golden verses of P<hi rend="SMALL-CAPS">YTHAGORAS</hi>; yet I will venture to affirm, that they gained the author as much popularity in Dublin, as ever the moral ones of that philosopher did in Samos: For an invitation to a glass of good liquor, will always procure a man more friends, than any lecturer in morality whatsoever can draw after him.</l></lg></head><head type="note" n="3" xml:id="spp-!W4559YG-headnote-3"><lg n="1" xml:id="spp-!W4559YG-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-!W4559YG-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-!W4559YG-line-1"><hi rend="underline">'Tho' none knows the author, yet all knows the </hi>Draper<hi rend="underline">,</hi>.!W4559YG   </l><l n="2" xml:id="spp-!W4559YG-line-2"> Who sets up the sign of the harp and his paper.</l><l n="3" xml:id="spp-!W4559YG-line-3"> His harp is well tun'd, and his paper well writ,</l><l n="4" xml:id="spp-!W4559YG-line-4"> And the liquor fold here is as bright as his wit</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

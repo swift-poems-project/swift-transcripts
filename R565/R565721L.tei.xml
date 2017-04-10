@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Fable</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R565721L" type="poem"><head type="note" n="1" xml:id="spp-R565721L-headnote-1"><lg n="1" xml:id="spp-R565721L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-R565721L-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-R565721L-headnote-2"><lg n="1" xml:id="spp-R565721L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-R565721L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-R565721L-headnote-3"><lg n="1" xml:id="spp-R565721L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-R565721L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-R565721L-line-1"> In fable, all things hold Discourse:&#13;</l><l n="2" xml:id="spp-R565721L-line-2"> Then words, no doubt must talk of course.</l><l n="3" xml:id="spp-R565721L-line-3"> Once on a time, near Chanell Row,</l><l n="4" xml:id="spp-R565721L-line-4"> Two hostile adverbs, Aye and No,</l><l n="5" xml:id="spp-R565721L-line-5"> Were hasting to the feild to fight,</l><l n="6" xml:id="spp-R565721L-line-6"> Where front to front were opposite.</l><l n="7" xml:id="spp-R565721L-line-7"> Before each Generall joyn'd the Van;</l><l n="8" xml:id="spp-R565721L-line-8"> Aye the more courteous Knight began.</l><l n="9" xml:id="spp-R565721L-line-9"> Stop peevish particle, beware;</l><l n="10" xml:id="spp-R565721L-line-10"> I'me told you are not such a Bear,</l><l n="11" xml:id="spp-R565721L-line-11"> But sometimes yeild, when offer'd fair</l><l n="12" xml:id="spp-R565721L-line-12"> Suffer yon folks a while to prattle;</l><l n="13" xml:id="spp-R565721L-line-13"> T'is we that must decide the battle.</l><l n="14" xml:id="spp-R565721L-line-14"> When e're we war on Yonder Stage,</l><l n="15" xml:id="spp-R565721L-line-15"> With various fate, &amp; equal rage,</l><l n="16" xml:id="spp-R565721L-line-16"> The Nation trembles at each blow,</l><l n="17" xml:id="spp-R565721L-line-17"> That No gives Aye, &amp; Aye gives No:</l><l n="18" xml:id="spp-R565721L-line-18"> But in expensive long contention,</l><l n="19" xml:id="spp-R565721L-line-19"> We gain not Office, Grant, or Pension,</l><l n="20" xml:id="spp-R565721L-line-20"> Why then should kinsfolks quarrell thus?</l><l n="21" xml:id="spp-R565721L-line-21"> For two of you, make one of us.</l><l n="22" xml:id="spp-R565721L-line-22"> To some wise Statesman let us goe,</l><l n="23" xml:id="spp-R565721L-line-23"> Where each his proper use may know</l><l n="24" xml:id="spp-R565721L-line-24"> Hee may admit two such Comanders,</l><l n="25" xml:id="spp-R565721L-line-25"> And let those wait who Serv'd in Flanders</l><l n="26" xml:id="spp-R565721L-line-26"> Let's quarter on a great mans Tongue,</l><l n="27" xml:id="spp-R565721L-line-27"> A Treasury Lord, not M<hi rend="sup">r</hi> Yonge;</l><l n="28" xml:id="spp-R565721L-line-28"> Obsequious at his high comand,</l><l n="29" xml:id="spp-R565721L-line-29"> Aye Shall march forth, &amp; Tax the land;</l><l n="30" xml:id="spp-R565721L-line-30"> Impeachments, No can best resist;</l><l n="31" xml:id="spp-R565721L-line-31"> And Aye support the Civill List;</l><l n="32" xml:id="spp-R565721L-line-32"> Aye, quick as C<unclear>ae</unclear>ser win the day,</l><l n="33" xml:id="spp-R565721L-line-33"> And No──like Fabius, by delay.</l><l n="34" xml:id="spp-R565721L-line-34"> Sometimes in mutuall Sly disguise,</l><l n="35" xml:id="spp-R565721L-line-35"> Let Aye's seem Noe's &amp; Noe's seem Aye's:</l><l n="36" xml:id="spp-R565721L-line-36"> Ayes be in Court denialls ment;</l><l n="37" xml:id="spp-R565721L-line-37"> And Noe's in Bishops give consent.</l><l n="38" xml:id="spp-R565721L-line-38"> Thus Aye proposd, &amp; for Reply,</l><l n="39" xml:id="spp-R565721L-line-39"> No for the first time, answer'd Aye.</l><l n="40" xml:id="spp-R565721L-line-40"> They parted with a Thousand kisses,</l><l n="41" xml:id="spp-R565721L-line-41"> And fight e're since for pay like Suisses.R565721L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

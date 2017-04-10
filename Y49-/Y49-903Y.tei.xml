@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>another</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y49-903Y" type="poem"><head type="note" n="1" xml:id="spp-Y49-903Y-headnote-1"><lg n="1" xml:id="spp-Y49-903Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-903Y-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y49-903Y-headnote-2"><lg n="1" xml:id="spp-Y49-903Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-903Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y49-903Y-headnote-3"><lg n="1" xml:id="spp-Y49-903Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-903Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y49-903Y-line-1"> Here Sarum lies&#13;</l><l n="2" xml:id="spp-Y49-903Y-line-2"> Who was as Wise</l><l n="3" xml:id="spp-Y49-903Y-line-3"> As any you Adore is</l><l n="4" xml:id="spp-Y49-903Y-line-4"> The Sleeves he Wore</l><l n="5" xml:id="spp-Y49-903Y-line-5"> became him more</l><l n="6" xml:id="spp-Y49-903Y-line-6"> Than any of Your Tories</l></lg><lg n="2" type="stanza"><l n="7" xml:id="spp-Y49-903Y-line-7">Oaths pro &amp; Con he n'ere could down&#13;</l><l n="8" xml:id="spp-Y49-903Y-line-8"> With Gold he served his <hi rend="underline">Nation</hi></l><l n="9" xml:id="spp-Y49-903Y-line-9"> Writ preached &amp; prayed</l><l n="10" xml:id="spp-Y49-903Y-line-10"> But Nere betrayed</l><l n="11" xml:id="spp-Y49-903Y-line-11"> His Mother Church for <hi rend="underline">fashion</hi></l></lg><lg n="3" type="stanza"><l n="12" xml:id="spp-Y49-903Y-line-12">Now since he is dead&#13;</l><l n="13" xml:id="spp-Y49-903Y-line-13"> and to Heaven <hi rend="underline">is</hi><del>flown</del><add>fled</add></l><l n="14" xml:id="spp-Y49-903Y-line-14"> And Scaped old Saten fairly</l><l n="15" xml:id="spp-Y49-903Y-line-15"> Where We persume</l><l n="16" xml:id="spp-Y49-903Y-line-16"> there <hi rend="underline">Wont</hi> be room</l><l n="17" xml:id="spp-Y49-903Y-line-17"> for Bullingbrook nor HarleyY49-903Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

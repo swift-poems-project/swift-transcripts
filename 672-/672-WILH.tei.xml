@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <lb/>
+          <lb/>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-672-WILH-footnote-1 #spp-672-WILH-line-2"/>
+        </linkGrp>
+        <div n="672-WILH" type="poem"><head type="note" n="1" xml:id="spp-672-WILH-headnote-1"><lg n="1" xml:id="spp-672-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-672-WILH-headnote-1-line-group-1-line-1"><hi rend="underline">By</hi> S<hi rend="SMALL-CAPS">WIFT</hi> <hi rend="underline">and Others</hi></l></lg></head><head type="note" n="2" xml:id="spp-672-WILH-headnote-2"><lg n="1" xml:id="spp-672-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-672-WILH-headnote-2-line-group-1-line-1"><hi rend="underline">Upon his having</hi> Rotten Teeth.</l></lg></head><head type="note" n="3" xml:id="spp-672-WILH-headnote-3"><lg n="1" xml:id="spp-672-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-672-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-672-WILH-line-1"><hi rend="display-initial">A</hi> Mastiff's teeth are justly held in vogue,</l><l n="2" xml:id="spp-672-WILH-line-2"> They <ref target="#spp-672-WILH-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-672-WILH-footnote-1">Book-binders use a Dog's-Tooth.</note> burnish paper, or they bite a rogue:</l><l n="3" xml:id="spp-672-WILH-line-3"> To neither use thy tusks contribute right,</l><l n="4" xml:id="spp-672-WILH-line-4"> Too rough to polish, and too blunt to bite.672-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

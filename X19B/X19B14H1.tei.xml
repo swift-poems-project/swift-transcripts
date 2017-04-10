@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Copy of a Copy of Verses from</title>
+        <title>T<hi rend="SMALL-CAPS">HOMAS </hi>S<hi rend="SMALL-CAPS">HERIDAN</hi>, Clerk, to</title>
+        <title xml:id="spp-X19B14H1-title-3">G<hi rend="SMALL-CAPS">EORGE</hi><note place="foot">G<hi rend="SMALL-CAPS">EORGE</hi> R<hi rend="SMALL-CAPS">OCHFORT</hi>, Esq;»<hi rend="SMALL-CAPS"> </hi>N<hi rend="SMALL-CAPS">IM</hi><ref target="#spp-X19B14H1-footnote-title-1">1</ref><note n="1" xml:id="spp-X19B14H1-footnote-title-1" place="foot">His brother J<hi rend="SMALL-CAPS">OHN</hi> R<hi rend="SMALL-CAPS">OCHFORT</hi>, called N<hi rend="SMALL-CAPS">IM</hi>, because he was a great hunter, from N<hi rend="SMALL-CAPS">IMROD</hi>.</note><hi rend="SMALL-CAPS">-</hi>D<hi rend="SMALL-CAPS">AN</hi><ref target="#spp-X19B14H1-footnote-title-2">2</ref><note n="2" xml:id="spp-X19B14H1-footnote-title-2" place="foot">The Rev. Mr. D<hi rend="SMALL-CAPS">ANIEL</hi>-J<hi rend="SMALL-CAPS">ACKSON</hi>.</note><hi rend="SMALL-CAPS">-</hi>D<hi rend="SMALL-CAPS">EAN</hi><ref target="#spp-X19B14H1-footnote-title-3">3</ref><note n="3" xml:id="spp-X19B14H1-footnote-title-3" place="foot">Dr. S<hi rend="SMALL-CAPS">WIFT</hi>, dean of St. <hi rend="underline">Patrick</hi>'s.</note>, Esq;</note></title>
+        <title>Written <hi rend="underline">July</hi> 15th, 1721, at Night.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X19B14H1-footnote-title-1 #spp-X19B14H1-title-1"/>
+          <link target="#spp-X19B14H1-footnote-title-2 #spp-X19B14H1-title-2"/>
+          <link target="#spp-X19B14H1-footnote-title-3 #spp-X19B14H1-title-3"/>
+          <link target="#spp-X19B14H1-footnote-1 #spp-X19B14H1-line-13"/>
+          <link target="#spp-X19B14H1-footnote-2 #spp-X19B14H1-line-16"/>
+        </linkGrp>
+        <div n="X19B14H1" type="poem"><head type="note" n="1" xml:id="spp-X19B14H1-headnote-1"><lg n="1" xml:id="spp-X19B14H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X19B14H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X19B14H1-headnote-2"><lg n="1" xml:id="spp-X19B14H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X19B14H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X19B14H1-headnote-3"><lg n="1" xml:id="spp-X19B14H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X19B14H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X19B14H1-line-1"><hi rend="display-initial">I</hi>'D have you t' know <hi rend="underline">George, Dan, Dean</hi>, and <hi rend="underline">Nim</hi>,</l><l n="2" xml:id="spp-X19B14H1-line-2"> That I've learned how verse t'compose trim,</l><l n="3" xml:id="spp-X19B14H1-line-3"> Much better b'half th'n you, n'r you, n'r him,</l><l n="4" xml:id="spp-X19B14H1-line-4"> And th't I'd rid'cule their, 'nd your flam flim,</l><l n="5" xml:id="spp-X19B14H1-line-5"> Ay' b't then, p'rhaps says you, t's a m'rry whim</l><l n="6" xml:id="spp-X19B14H1-line-6"> With 'bundance of mark't notes i' th' rim,</l><l n="7" xml:id="spp-X19B14H1-line-7"> So th't I ought n't for t' be morose 'nd t' look grim,</l><l n="8" xml:id="spp-X19B14H1-line-8"> Think n't your 'p'stle put m' in a meagrim;</l><l n="9" xml:id="spp-X19B14H1-line-9"> Though, 'n rep't't'on day, I'ppear ver' slim,</l><l n="10" xml:id="spp-X19B14H1-line-10"> Th' last bowl't <hi rend="underline">Helsham</hi>'s did m' head t' swim,</l><l n="11" xml:id="spp-X19B14H1-line-11"> So th't I h'd man' aches 'n 'v'ry scrubb'd limb,</l><l n="12" xml:id="spp-X19B14H1-line-12"> Cause th' top of th' bowl I'h'd oft us'd t' skim;</l><l n="13" xml:id="spp-X19B14H1-line-13"> And b'sides <ref target="#spp-X19B14H1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-X19B14H1-footnote-1">Dr. D<hi rend="SMALL-CAPS">ELANY</hi>.</note><hi rend="underline">D'lan'</hi> swears th't I'h'd swall'w'd s'v'r'l brim-</l><l n="14" xml:id="spp-X19B14H1-line-14"> mers, 'nd that my vis'ge's cov'r'd o'r with r'd pim-</l><l n="15" xml:id="spp-X19B14H1-line-15"> ples: m'r'o'er though m' scull were (s'tis n't)'s strong's tim-</l><l n="16" xml:id="spp-X19B14H1-line-16"> ber, 't must have ak'd. Th' clans of th' c'lledge Sanh'drim,pres'nt th'r humbl' and 'fect'nate respects; that's t'say, <hi rend="underline">D'lan', 'chlin, P. Ludl', Dic' St'wart, H'lsham</hi>, capt'n <hi rend="underline">P'rr' Walmst'nd</hi>, <ref target="#spp-X19B14H1-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-X19B14H1-footnote-2">Mr. S<hi rend="SMALL-CAPS">TOPFORD</hi> of <hi rend="underline">Finglas</hi>, minister of that parish, afterwards bishop of <hi rend="underline">Cloyne</hi>.</note> longsh'nks <hi rend="underline">Timm</hi>.X19B14H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

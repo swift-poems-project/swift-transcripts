@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Excellent New SONG, being</title>
+        <title>the intended SPEECH of a fa-<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="142-50L-" type="poem"><head type="note" n="1" xml:id="spp-142-50L--headnote-1"><lg n="1" xml:id="spp-142-50L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-142-50L--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-142-50L--headnote-2"><lg n="1" xml:id="spp-142-50L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-142-50L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-142-50L--headnote-3"><lg n="1" xml:id="spp-142-50L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-142-50L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-142-50L--line-1"><hi rend="display-initial">A</hi>N Orator <hi rend="underline">dismal</hi> of <hi rend="underline">Nottinghamshire</hi>,</l><l n="2" xml:id="spp-142-50L--line-2"> Who has forty Years let out his Conscience to hire,</l><l n="3" xml:id="spp-142-50L--line-3"> Out of Zeal for his Country, and <hi rend="underline">want of a Place</hi>,</l><l n="4" xml:id="spp-142-50L--line-4"> Is come up, <hi rend="underline">vi &amp; armis</hi>, to <hi rend="underline">break the Queen's Peace</hi>.</l><l n="5" xml:id="spp-142-50L--line-5"> He has vamp't an old Speech, and the Court to their sorrow,</l><l n="6" xml:id="spp-142-50L--line-6"> Shall hear him harrangue against PRIOR to Morrow.</l><l n="7" xml:id="spp-142-50L--line-7"> When once he begins, he never will flinch,</l><l n="8" xml:id="spp-142-50L--line-8"> But repeats the same Note a whole Day like a <hi rend="underline">Finch</hi>.</l><l n="9" xml:id="spp-142-50L--line-9"> I have heard all the Speech repeated by <hi rend="underline">Hoppy</hi>,</l><l n="10" xml:id="spp-142-50L--line-10" rend="align(center)"> And <hi rend="underline">Mistakes to prevent, I have obtain'd a Copy</hi>.The SPEECH.</l></lg><lg n="2" type="stanza"><l n="11" xml:id="spp-142-50L--line-11" rend="flush left"><hi rend="display-initial">W</hi><hi rend="underline">Hearas, Notwithstanding</hi>, I am in great Pain,</l><l n="12" xml:id="spp-142-50L--line-12"> To hear we are making a Peace without <hi rend="underline">Spain</hi>;</l><l n="13" xml:id="spp-142-50L--line-13"> But, <hi rend="underline">most noble Senators</hi>, 'tis a great Shame</l><l n="14" xml:id="spp-142-50L--line-14"> There should be a Peace, while I'm <hi rend="underline">Not in game</hi>.</l><l n="15" xml:id="spp-142-50L--line-15"> The Duke shew'd me all his fine House; and the Dutchess</l><l n="16" xml:id="spp-142-50L--line-16"> From her Cioset brought out a full Purse in her Clutches,</l><l n="17" xml:id="spp-142-50L--line-17"> I talk'd of a <hi rend="underline">Peace</hi>, and they both gave a Start,</l><l n="18" xml:id="spp-142-50L--line-18"> His Grace swore by God, and her Grace let a Fart:</l><l n="19" xml:id="spp-142-50L--line-19"> My <hi rend="underline">long old fashion'd Pocket</hi>, was presently cramm'd;</l><l n="20" xml:id="spp-142-50L--line-20"> And sooner than vote for a Peace I'll be damn'd.</l><l n="21" xml:id="spp-142-50L--line-21"> But, some will cry <hi rend="underline">Turn-Coat</hi>, and rip up old Stories,</l><l n="22" xml:id="spp-142-50L--line-22"> How I always pretended to be for the <hi rend="underline">Tories</hi>:I answer; the <hi rend="underline">Tories</hi> were in my good Graces,</l><l n="23" xml:id="spp-142-50L--line-23"> Till all my <hi rend="underline">Relations</hi> were put into <hi rend="underline">Places</hi>.</l><l n="24" xml:id="spp-142-50L--line-24"> But still I'm in Principle ever the same,</l><l n="25" xml:id="spp-142-50L--line-25"> And will quit my best Friends, while I'm <hi rend="underline">Not in game</hi>.When I and some others subscribed our Names</l><l n="26" xml:id="spp-142-50L--line-26"> To a Plot for expelling my Master King <hi rend="underline">James</hi>;</l><l n="27" xml:id="spp-142-50L--line-27"> I withdrew my Subscription by help of a <hi rend="underline">Blot</hi>,</l><l n="28" xml:id="spp-142-50L--line-28"> And so might discover, or gain by the Plot:</l><l n="29" xml:id="spp-142-50L--line-29"> I had my Advantage and stood at Defiance,</l><l n="30" xml:id="spp-142-50L--line-30"> For <hi rend="underline">Daniel</hi> was got from the Den of the Lions:</l><l n="31" xml:id="spp-142-50L--line-31"> I <hi rend="underline">came in</hi> without Danger; and was I to blame?</l><l n="32" xml:id="spp-142-50L--line-32"> For rather than <hi rend="underline">hang</hi>, I would be <hi rend="underline">Not in game</hi>.I swore to the <hi rend="underline">Queen</hi> that the <hi rend="underline">Prince of Ha--er</hi></l><l n="33" xml:id="spp-142-50L--line-33"> During her Sacred Life, should never come over:</l><l n="34" xml:id="spp-142-50L--line-34"> I made use of a <hi rend="underline">Trope</hi>; that <hi rend="underline">an Heir to invite,</hi>.</l><l n="35" xml:id="spp-142-50L--line-35"> Was like keeping her Monument always in sight</l><l n="36" xml:id="spp-142-50L--line-36"> But when I thought proper, I alter'd my Note;</l><l n="37" xml:id="spp-142-50L--line-37"> And in her own hearing I boldly did Vote,</l><l n="38" xml:id="spp-142-50L--line-38"> That her Majesty stood in great need of a <hi rend="underline">Tutor</hi>,</l><l n="39" xml:id="spp-142-50L--line-39"> And must have an <hi rend="underline">old</hi> or a <hi rend="underline">young Coadjutor</hi>:</l><l n="40" xml:id="spp-142-50L--line-40"> For why; I would fain have put all in a Flame,</l><l n="41" xml:id="spp-142-50L--line-41"> Because, for some Reasons, I was <hi rend="underline">Not in game</hi>.Now my new <hi rend="underline">Benefactors</hi> have <hi rend="underline">brought me about</hi>,</l><l n="42" xml:id="spp-142-50L--line-42"> And I'll vote against Peace, <hi rend="underline">with Spain</hi>, or <hi rend="underline">without</hi>:</l><l n="43" xml:id="spp-142-50L--line-43"> Tho' the <hi rend="underline">Court</hi> gives my <hi rend="underline">Nephews</hi>, and <hi rend="underline">Brothers</hi>, and <hi rend="underline">Cousins</hi>,</l><l n="44" xml:id="spp-142-50L--line-44"> And all my whole Family, Places by Dozens;</l><l n="45" xml:id="spp-142-50L--line-45"> Yet since I know where a <hi rend="underline">full Purse</hi> may be found,</l><l n="46" xml:id="spp-142-50L--line-46"> And hardly pay Eighteenpence Tax in the Pound:</l><l n="47" xml:id="spp-142-50L--line-47"> Since the <hi rend="underline">Tories</hi> have thus disappointed my Hopes,</l><l n="48" xml:id="spp-142-50L--line-48"> And will neither regard my <hi rend="underline">Figures</hi> nor <hi rend="underline">Tropes</hi>;</l><l n="49" xml:id="spp-142-50L--line-49"> I'll <hi rend="underline">Speech</hi> against <hi rend="underline">Peace</hi> while <hi rend="underline">Dismal</hi>'s my Name,</l><l n="50" xml:id="spp-142-50L--line-50"> And be a <hi rend="underline">true Whig</hi>, while I am <hi rend="underline">Not in game</hi>.142-50L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

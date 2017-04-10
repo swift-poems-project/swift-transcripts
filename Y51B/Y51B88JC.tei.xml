@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y51B88JC" type="poem"><head type="note" n="1" xml:id="spp-Y51B88JC-headnote-1"><lg n="1" xml:id="spp-Y51B88JC-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y51B88JC-headnote-1-line-group-1-line-1">The Dean, shaking his head, said, “Let us see whether a man who is neither a fool nor a parasite cannot write four lines that will sound as well as those;” and taking Doctor Sheridan's pencil wrote the following:</l></lg></head><head type="note" n="2" xml:id="spp-Y51B88JC-headnote-2"><lg n="1" xml:id="spp-Y51B88JC-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y51B88JC-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y51B88JC-headnote-3"><lg n="1" xml:id="spp-Y51B88JC-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y51B88JC-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y51B88JC-line-1"> Hold friend C<hi rend="SMALL-CAPS">ONCANNON</hi>, by your leave,</l><l n="2" xml:id="spp-Y51B88JC-line-2"> Your paraphrase is rather civil;</l><l n="3" xml:id="spp-Y51B88JC-line-3"> B<hi rend="SMALL-CAPS">OURBON</hi> and M<hi rend="SMALL-CAPS">AT</hi> were sons of E<hi rend="SMALL-CAPS">VE</hi>,</l><l n="4" xml:id="spp-Y51B88JC-line-4"> N<hi rend="SMALL-CAPS">ASSAU</hi> the offspring of a D<hi rend="SMALL-CAPS">EVIL</hi>.Y51B88JC   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">A Dialogue between an Eminent Lawyer</hi>
+        </title>
+        <title>
+          <hi rend="underline">and Dr Swift, Dean of St Patrick's</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="489-ROGP" type="poem"><head type="note" n="1" xml:id="spp-489-ROGP-headnote-1"><lg n="1" xml:id="spp-489-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-489-ROGP-headnote-1-line-group-1-line-1">BEING AN ALLUSION TO THE FIRST SATIRE OF THE SECOND BOOK OF HORACE</l></lg></head><head type="note" n="2" xml:id="spp-489-ROGP-headnote-2"><lg n="1" xml:id="spp-489-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-489-ROGP-headnote-2-line-group-1-line-1"><hi rend="underline">Sunt guibus in satyra, </hi>&amp;c.</l></lg></head><head type="note" n="3" xml:id="spp-489-ROGP-headnote-3"><lg n="1" xml:id="spp-489-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-489-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-489-ROGP-line-1"> [SWIFT]Since there are people who complain</l><l n="2" xml:id="spp-489-ROGP-line-2"> There's too much satire in my vein,</l><l n="3" xml:id="spp-489-ROGP-line-3"> That I am often found exceeding</l><l n="4" xml:id="spp-489-ROGP-line-4"> The rules of raillery and breeding,</l><l n="5" xml:id="spp-489-ROGP-line-5"> With too much freedom treat my betters,</l><l n="6" xml:id="spp-489-ROGP-line-6"> Not sparing even men of letters,</l><l n="7" xml:id="spp-489-ROGP-line-7"> You, who are skilled in lawyer's lore,</l><l n="8" xml:id="spp-489-ROGP-line-8"> What's your advice? shall I give o'er,</l><l n="9" xml:id="spp-489-ROGP-line-9"> Nor ever fools or knaves expose</l><l n="10" xml:id="spp-489-ROGP-line-10"> Either in verse or humorous prose,</l><l n="11" xml:id="spp-489-ROGP-line-11"> And, to avoid all future ill,</l><l n="12" xml:id="spp-489-ROGP-line-12"> In my scrutoire lock up my quill?</l></lg><lg n="2" type="stanza"><l n="13" xml:id="spp-489-ROGP-line-13">[FRIEND]Since you are pleased to condescend</l><l n="14" xml:id="spp-489-ROGP-line-14"> To ask the judgement of a friend,</l><l n="15" xml:id="spp-489-ROGP-line-15"> Your case considered, I must think</l><l n="16" xml:id="spp-489-ROGP-line-16"> You should withdraw from pen and ink,</l><l n="17" xml:id="spp-489-ROGP-line-17"> Forbear your poetry and jokes,</l><l n="18" xml:id="spp-489-ROGP-line-18"> And live like other Christian folks;</l><l n="19" xml:id="spp-489-ROGP-line-19"> Or if the muses must inspire</l><l n="20" xml:id="spp-489-ROGP-line-20"> Your fancy with their pleasing fire,</l><l n="21" xml:id="spp-489-ROGP-line-21"> Take subjects safer for your wit</l><l n="22" xml:id="spp-489-ROGP-line-22"> Than those on which you lately writ,</l><l n="23" xml:id="spp-489-ROGP-line-23"> Commend the times, your thoughts correct</l><l n="24" xml:id="spp-489-ROGP-line-24"> And follow the prevailing sect,</l><l n="25" xml:id="spp-489-ROGP-line-25"> Assert that Hyde in writing story</l><l n="26" xml:id="spp-489-ROGP-line-26"> Shows all the malice of a Tory,</l><l n="27" xml:id="spp-489-ROGP-line-27"> While Burnet in his deathless page</l><l n="28" xml:id="spp-489-ROGP-line-28"> Discovers freedom without rage;</l><l n="29" xml:id="spp-489-ROGP-line-29"> To Woolston recommend our youth</l><l n="30" xml:id="spp-489-ROGP-line-30"> For learning, probity, and truth,</l><l n="31" xml:id="spp-489-ROGP-line-31"> That noble genius, who unbinds</l><l n="32" xml:id="spp-489-ROGP-line-32"> The chains which fetter free-born minds,</l><l n="33" xml:id="spp-489-ROGP-line-33"> Redeems us from the slavish fears</l><l n="34" xml:id="spp-489-ROGP-line-34"> Which lasted near two thousand years,</l><l n="35" xml:id="spp-489-ROGP-line-35"> He can alone the priesthood humble,</l><l n="36" xml:id="spp-489-ROGP-line-36"> Make gilded spires and altars tumble.</l></lg><lg n="3" type="stanza"><l n="37" xml:id="spp-489-ROGP-line-37">[SWIFT]Must I commend against my conscience</l><l n="38" xml:id="spp-489-ROGP-line-38"> Such stupid blasphemy and nonsense?</l><l n="39" xml:id="spp-489-ROGP-line-39"> To such a subject tune my lyre</l><l n="40" xml:id="spp-489-ROGP-line-40"> And sing like one of Milton's choir,</l><l n="41" xml:id="spp-489-ROGP-line-41"> Where devils to a vale retreat</l><l n="42" xml:id="spp-489-ROGP-line-42"> And call the laws of wisdom fate,</l><l n="43" xml:id="spp-489-ROGP-line-43"> Lament upon their hapless fall</l><l n="44" xml:id="spp-489-ROGP-line-44"> That force free virtue should enthral?</l><l n="45" xml:id="spp-489-ROGP-line-45"> Or, shall the charms of wealth and power</l><l n="46" xml:id="spp-489-ROGP-line-46"> Make me pollute the muses' bower?</l></lg><lg n="4" type="stanza"><l n="47" xml:id="spp-489-ROGP-line-47">[FRIEND]As from the tripod of Apollo</l><l n="48" xml:id="spp-489-ROGP-line-48"> Hear from my desk the words that follow;</l><l n="49" xml:id="spp-489-ROGP-line-49"> Some by philosophers misled,</l><l n="50" xml:id="spp-489-ROGP-line-50"> Must honour you alive and dead,</l><l n="51" xml:id="spp-489-ROGP-line-51"> And such as know what Greece has writ</l><l n="52" xml:id="spp-489-ROGP-line-52"> Must taste your irony and wit,</l><l n="53" xml:id="spp-489-ROGP-line-53"> While most that are or would be great,</l><l n="54" xml:id="spp-489-ROGP-line-54"> Must dread your pen, your person hate,</l><l n="55" xml:id="spp-489-ROGP-line-55"> And you on Drapier's Hill must lie,</l><l n="56" xml:id="spp-489-ROGP-line-56"> And there without a mitre die.489-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Quibbling Elegy on the Worshipful Judge<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-284-647Y-footnote-1 #spp-284-647Y-line-7"/>
+          <link target="#spp-284-647Y-footnote-2 #spp-284-647Y-line-9"/>
+          <link target="#spp-284-647Y-footnote-3 #spp-284-647Y-line-16"/>
+          <link target="#spp-284-647Y-footnote-4 #spp-284-647Y-line-26"/>
+          <link target="#spp-284-647Y-footnote-5 #spp-284-647Y-line-34"/>
+        </linkGrp>
+        <div n="284-647Y" type="poem"><head type="note" n="1" xml:id="spp-284-647Y-headnote-1"><lg n="1" xml:id="spp-284-647Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-284-647Y-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-284-647Y-headnote-2"><lg n="1" xml:id="spp-284-647Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-284-647Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-284-647Y-headnote-3"><lg n="1" xml:id="spp-284-647Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-284-647Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-284-647Y-line-1"> To mournful Ditties, Clio, change thy Note,&#13;</l><l n="2" xml:id="spp-284-647Y-line-2"> Since cruel Fate hath sunk our Justice Boat.</l><l n="3" xml:id="spp-284-647Y-line-3"> Why should he sink where nothing seem'd to press?</l><l n="4" xml:id="spp-284-647Y-line-4"> His Lading little, and his Ballast less,</l><l n="5" xml:id="spp-284-647Y-line-5"> Tost in the Waves of this tempestuous World,</l><l n="6" xml:id="spp-284-647Y-line-6"> At length his Anchor fix'd and Canvass furl'd,</l><l n="7" xml:id="spp-284-647Y-line-7"> To Lazy-hill <ref target="#spp-284-647Y-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-284-647Y-footnote-1">Two Villages near the Sea, where Boatmen live─.</note>  retiring from his Court,</l><l n="8" xml:id="spp-284-647Y-line-8"> At his Ring's-end he founders in the Port:</l><l n="9" xml:id="spp-284-647Y-line-9"> With water fill'd<ref target="#spp-284-647Y-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-284-647Y-footnote-2">It was said he died of a Dropsy─.</note>, he could no longer flote,</l><l n="10" xml:id="spp-284-647Y-line-10"> The common Death of many a stronger Boat.──</l><l n="11" xml:id="spp-284-647Y-line-11"> A Post so fill'd on Nature's Laws intrenches;</l><l n="12" xml:id="spp-284-647Y-line-12"> Benches on Boats are plac'd, not Boats on Benches;</l><l n="13" xml:id="spp-284-647Y-line-13"> And yet our Boat how shall I reconcile it?</l><l n="14" xml:id="spp-284-647Y-line-14"> Was both a Boat and in one sense a Pilot!</l><l n="15" xml:id="spp-284-647Y-line-15"> With ev'ry wind he sail'd, and well could tack,</l><l n="16" xml:id="spp-284-647Y-line-16"> Had many pendents, but abhorr'd a Iack<ref target="#spp-284-647Y-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-284-647Y-footnote-3">a Jacobite─.</note>.</l><l n="17" xml:id="spp-284-647Y-line-17"> He's gone altho' his Friends began to hope</l><l n="18" xml:id="spp-284-647Y-line-18"> That He might yet be lifted by a Rope.</l><l n="19" xml:id="spp-284-647Y-line-19"> Behold the awful Bench on which he sat!</l><l n="20" xml:id="spp-284-647Y-line-20"> He was as hard &amp; pond'rous wood as that:</l><l n="21" xml:id="spp-284-647Y-line-21"> Yet when his sand was out, we find, at last,</l><l n="22" xml:id="spp-284-647Y-line-22"> That Death has overset him w<hi rend="sup">th</hi>- a Blast.</l><l n="23" xml:id="spp-284-647Y-line-23"> Our Boat is now sail'd to the Stygian Ferry,</l><l n="24" xml:id="spp-284-647Y-line-24"> There to supply old Charon's leaky Wherry:</l><l n="25" xml:id="spp-284-647Y-line-25"> Charon in him will ferry Souls to Hell,</l><l n="26" xml:id="spp-284-647Y-line-26"> A Trade our Boat <ref target="#spp-284-647Y-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-284-647Y-footnote-4">In hanging People as a Judge.─.</note> hath practis'd here so well;</l><l n="27" xml:id="spp-284-647Y-line-27"> And Cerberus hath ready in his Paws,</l><l n="28" xml:id="spp-284-647Y-line-28"> Both Pitch and Brimstone to fill-up his flaws.</l><l n="29" xml:id="spp-284-647Y-line-29"> Yet spite of Death and Fate, I here maintain,</l><l n="30" xml:id="spp-284-647Y-line-30"> We may place Boat in his old Post again.</l><l n="31" xml:id="spp-284-647Y-line-31"> The way is thus, and well deserves your thanks</l><l n="32" xml:id="spp-284-647Y-line-32"> Take the three strongest of his broken Planks,</l><l n="33" xml:id="spp-284-647Y-line-33"> Fix them on high, conspicuous to be seen,</l><l n="34" xml:id="spp-284-647Y-line-34"> Form'd like the Tripple Tree on Stepen's Green<ref target="#spp-284-647Y-footnote-5">5</ref><note place="foot" n="5" xml:id="spp-284-647Y-footnote-5">Where the Dublin Gallows stands.─.</note>,</l><l n="35" xml:id="spp-284-647Y-line-35"> And when we view it thus w<hi rend="sup">tḥ</hi> Thief at end on't,</l><l n="36" xml:id="spp-284-647Y-line-36"> We'll cry, “Look! here's our Boat, &amp; there's the Pendent.</l></lg><lg n="2" type="stanza"><l n="37" xml:id="spp-284-647Y-line-37" rend="align(center)"><hi rend="underline">The Epitaph</hi>.</l></lg><lg n="3" type="stanza"><l n="38" xml:id="spp-284-647Y-line-38" rend="flush left"/></lg><lg n="4" type="stanza"><l n="39" xml:id="spp-284-647Y-line-39">Here lies Judge Boat, within a Coffin,&#13;</l><l n="40" xml:id="spp-284-647Y-line-40"> Pray, gentle Folks! forbear your Scoffing.</l><l n="41" xml:id="spp-284-647Y-line-41"> A Boat a Judge! yes, where's the Blunder?</l><l n="42" xml:id="spp-284-647Y-line-42"> A wooden Judge is no such wonder:</l><l n="43" xml:id="spp-284-647Y-line-43"> And in his Robes you must agree,</l><l n="44" xml:id="spp-284-647Y-line-44"> No Boat was better deck'd than He.</l><l n="45" xml:id="spp-284-647Y-line-45"> 'Tis needless to describe him fuller;</l><l n="46" xml:id="spp-284-647Y-line-46"> In short He was an able Sculler.284-647Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

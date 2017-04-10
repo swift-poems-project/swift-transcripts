@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A New Simile for the Ladies</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="613-135F" type="poem"><head type="note" n="1" xml:id="spp-613-135F-headnote-1"><lg n="1" xml:id="spp-613-135F-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-613-135F-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-613-135F-headnote-2"><lg n="1" xml:id="spp-613-135F-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-613-135F-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-613-135F-headnote-3"><lg n="1" xml:id="spp-613-135F-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-613-135F-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-613-135F-line-1"> I often try'd in vain to find&#13;</l><l n="2" xml:id="spp-613-135F-line-2"> A Simile for woman kind</l><l n="3" xml:id="spp-613-135F-line-3"> A Simile I mean to fit 'em</l><l n="4" xml:id="spp-613-135F-line-4"> In ev'ry circumstance to hit 'em</l><l n="5" xml:id="spp-613-135F-line-5"> Through ev'ry bird and beast I went</l><l n="6" xml:id="spp-613-135F-line-6"> I ransanckd ev'ry element</l><l n="7" xml:id="spp-613-135F-line-7"> and after peping through all nature</l><l n="8" xml:id="spp-613-135F-line-8"> To find so wimsical a creature</l><l n="9" xml:id="spp-613-135F-line-9"> A cloud presented to my view</l><l n="10" xml:id="spp-613-135F-line-10"> And strait this parallel I drew</l></lg><lg n="2" type="stanza"><l n="11" xml:id="spp-613-135F-line-11">clouds turn with ev'ry wind about&#13;</l><l n="12" xml:id="spp-613-135F-line-12"> They keep us in suspense and doubt</l><l n="13" xml:id="spp-613-135F-line-13"> yet oft perverse like women kind</l><l n="14" xml:id="spp-613-135F-line-14"> are seen to scud against the wind</l><l n="15" xml:id="spp-613-135F-line-15"> and not women just the same</l><l n="16" xml:id="spp-613-135F-line-16"> for who can tell at what they aim</l><l n="17" xml:id="spp-613-135F-line-17"> Clouds keep the stoutest mortals under</l><l n="18" xml:id="spp-613-135F-line-18"> when bellowing they their thunder</l></lg><lg n="3" type="stanza"><l n="19" xml:id="spp-613-135F-line-19">So when the alarm bell is rung&#13;</l><l n="20" xml:id="spp-613-135F-line-20"> of Zanthes everlasting toungue</l><l n="21" xml:id="spp-613-135F-line-21"> the husband dreads its loudness more</l><l n="22" xml:id="spp-613-135F-line-22"> Then lightening flash or thunders roar</l><l n="23" xml:id="spp-613-135F-line-23"> clouds weep as they do without pain</l><l n="24" xml:id="spp-613-135F-line-24"> and what are tears but womens rain</l><l n="25" xml:id="spp-613-135F-line-25"> the clouds about the welkin roam</l><l n="26" xml:id="spp-613-135F-line-26"> and ladies never stay at home</l><l n="27" xml:id="spp-613-135F-line-27"> The clouds build castles in the Air</l><l n="28" xml:id="spp-613-135F-line-28"> A thing peculiar to the fair</l><l n="29" xml:id="spp-613-135F-line-29"> for all the schemes of their forecasting</l><l n="30" xml:id="spp-613-135F-line-30"> are not more solid or more lasting</l><l n="31" xml:id="spp-613-135F-line-31"> A cloud is light by turns &amp; dark</l><l n="32" xml:id="spp-613-135F-line-32"> so is a lady with her spark</l><l n="33" xml:id="spp-613-135F-line-33"> now with a sudden pouting Gloom</l><l n="34" xml:id="spp-613-135F-line-34"> she seems to darken all the room</l><l n="35" xml:id="spp-613-135F-line-35"> again she's pleas'd her fears beguild</l><l n="36" xml:id="spp-613-135F-line-36"> and all is clear when she has smil'd</l><l n="37" xml:id="spp-613-135F-line-37"> In this they're wondrously alike</l><l n="38" xml:id="spp-613-135F-line-38"> I hope the Simile will strike</l><l n="39" xml:id="spp-613-135F-line-39"> Tho in the darkest dumps you <del>veiw</del>view e'm</l><l n="40" xml:id="spp-613-135F-line-40"> Stay but a moment you'll see thro 'em</l><l n="41" xml:id="spp-613-135F-line-41"> The clouds are apt to make reflexion</l><l n="42" xml:id="spp-613-135F-line-42"> and grequently produce infection</l><l n="43" xml:id="spp-613-135F-line-43"> So C<unclear>ae</unclear>lia with small provocation</l><l n="44" xml:id="spp-613-135F-line-44"> blasts ev'ry neighbours reputation</l><l n="45" xml:id="spp-613-135F-line-45"> The clouds delight in Gawdy show</l><l n="46" xml:id="spp-613-135F-line-46"> for they like ladies have their bow</l><l n="47" xml:id="spp-613-135F-line-47"> The Gravest matron will confess</l><l n="48" xml:id="spp-613-135F-line-48"> That she herself is fond of dress</l><l n="49" xml:id="spp-613-135F-line-49"> observe the clouds in pomp array'd</l><l n="50" xml:id="spp-613-135F-line-50"> what various colours are display'd</l><l n="51" xml:id="spp-613-135F-line-51"> the pink the rose the violets dye</l><l n="52" xml:id="spp-613-135F-line-52"> In that Great drawing room the sky</l><l n="53" xml:id="spp-613-135F-line-53"> how do these differ from our Graces</l><l n="54" xml:id="spp-613-135F-line-54"> In Garden silks brocades and laces</l><l n="55" xml:id="spp-613-135F-line-55"> are they not such another sight</l><l n="56" xml:id="spp-613-135F-line-56"> when met upon a birth day nightThe Clouds delight to change their fashion</l><l n="57" xml:id="spp-613-135F-line-57"> Dear ladies be not in a passion</l><l n="58" xml:id="spp-613-135F-line-58"> nor let this whim to you seem strange</l><l n="59" xml:id="spp-613-135F-line-59"> who ever'y hour delight in change</l><l n="60" xml:id="spp-613-135F-line-60"> In them and you alike are seen</l><l n="61" xml:id="spp-613-135F-line-61"> The sullen symptoms of the spleen</l><l n="62" xml:id="spp-613-135F-line-62"> The moment that your vapours rise</l><l n="63" xml:id="spp-613-135F-line-63"> We see them dropping from your eyes</l><l n="64" xml:id="spp-613-135F-line-64"> In evening fair you may behold</l><l n="65" xml:id="spp-613-135F-line-65"> The Clouds are fringed with borrowd Gold</l><l n="66" xml:id="spp-613-135F-line-66"> and this is many a ladys case</l><l n="67" xml:id="spp-613-135F-line-67"> who flaunts about in borrowd lace</l><l n="68" xml:id="spp-613-135F-line-68"> Grave matrons are like clouds of snow</l><l n="69" xml:id="spp-613-135F-line-69"> their words fall thick and soft &amp; slow</l><l n="70" xml:id="spp-613-135F-line-70"> while brisk coquets like rattling hail</l><l n="71" xml:id="spp-613-135F-line-71"> our ears on ev'ry side assail</l><l n="72" xml:id="spp-613-135F-line-72"> clouds when they intercept your sight</l><l n="73" xml:id="spp-613-135F-line-73"> deprive us of celestial light</l><l n="74" xml:id="spp-613-135F-line-74"> so when my Cloe I pursue</l><l n="75" xml:id="spp-613-135F-line-75"> no heaven besides I have in veiw</l><l n="76" xml:id="spp-613-135F-line-76"> Thus on Comparison you see</l><l n="77" xml:id="spp-613-135F-line-77"> in ev'ry instance they agree</l><l n="78" xml:id="spp-613-135F-line-78"> so like so very much the the same</l><l n="79" xml:id="spp-613-135F-line-79"> that one may Go by t'others name</l><l n="80" xml:id="spp-613-135F-line-80"> let me proclaim it then aloud</l><l n="81" xml:id="spp-613-135F-line-81"> that ev'ry woman is a cloud613-135F   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

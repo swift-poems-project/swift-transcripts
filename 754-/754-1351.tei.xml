@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To STELLA.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="754-1351" type="poem"><head type="note" n="1" xml:id="spp-754-1351-headnote-1"><lg n="1" xml:id="spp-754-1351-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-754-1351-headnote-1-line-group-1-line-1">M<hi rend="SMALL-CAPS">ARCH</hi> 13, <hi rend="SMALL-CAPS">M DCC XXIII-IV</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-754-1351-headnote-2"><lg n="1" xml:id="spp-754-1351-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-754-1351-headnote-2-line-group-1-line-1">[Written on the Day of her Birth, but not on the Subject, when I was sick in bed.]</l></lg></head><head type="note" n="3" xml:id="spp-754-1351-headnote-3"><lg n="1" xml:id="spp-754-1351-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-754-1351-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-754-1351-line-1"><hi rend="display-initial">T</hi>O<hi rend="SMALL-CAPS">RMENTED</hi> with incessant pains,</l><l n="2" xml:id="spp-754-1351-line-2"> Can I devise poetic strains?</l><l n="3" xml:id="spp-754-1351-line-3"> Time was, when I could yearly pay</l><l n="4" xml:id="spp-754-1351-line-4"> My verse on Stella's native day:</l><l n="5" xml:id="spp-754-1351-line-5"> But now, unable grown to write,</l><l n="6" xml:id="spp-754-1351-line-6"> I grieve she ever saw the light.</l><l n="7" xml:id="spp-754-1351-line-7"> Ungrateful; since to her I owe</l><l n="8" xml:id="spp-754-1351-line-8"> That I these pains can undergo.</l><l n="9" xml:id="spp-754-1351-line-9"> She tends me, like an humble slave;</l><l n="10" xml:id="spp-754-1351-line-10"> And, when indecently I rave,</l><l n="11" xml:id="spp-754-1351-line-11"> When out my brutish passions break,</l><l n="12" xml:id="spp-754-1351-line-12"> With gall in ev'ry word I speak,</l><l n="13" xml:id="spp-754-1351-line-13"> She, with soft speech, my anguish chears,</l><l n="14" xml:id="spp-754-1351-line-14"> Or melts my passions down with tears:</l><l n="15" xml:id="spp-754-1351-line-15"> Although 'tis easy to descry</l><l n="16" xml:id="spp-754-1351-line-16"> She wants assistance more than I;</l><l n="17" xml:id="spp-754-1351-line-17"> Yet seems to feel my pains alone,</l><l n="18" xml:id="spp-754-1351-line-18"> And is a Stoic in her own.</l><l n="19" xml:id="spp-754-1351-line-19"> When, among scholars, can we find</l><l n="20" xml:id="spp-754-1351-line-20"> So soft, and yet so firm a mind?</l><l n="21" xml:id="spp-754-1351-line-21"> All accidents of life conspire</l><l n="22" xml:id="spp-754-1351-line-22"> To raise up Stella's virtue higher;</l><l n="23" xml:id="spp-754-1351-line-23"> Or else, to introduce the rest</l><l n="24" xml:id="spp-754-1351-line-24"> Which had been latent in her breast.</l><l n="25" xml:id="spp-754-1351-line-25"> Her firmness who could e'er have known,</l><l n="26" xml:id="spp-754-1351-line-26"> Had she not evils of her own?</l><l n="27" xml:id="spp-754-1351-line-27"> Her kindness who could ever guess,</l><l n="28" xml:id="spp-754-1351-line-28"> Had not her friends been in distress?</l><l n="29" xml:id="spp-754-1351-line-29"> Whatever base returns you find</l><l n="30" xml:id="spp-754-1351-line-30"> From me, Dear Stella, still be kind,</l><l n="31" xml:id="spp-754-1351-line-31"> In your own heart you'll reap the fruit,</l><l n="32" xml:id="spp-754-1351-line-32"> Tho' I continue still a brute.</l><l n="33" xml:id="spp-754-1351-line-33"> But when I once am out of pain,</l><l n="34" xml:id="spp-754-1351-line-34"> I promise to be good again:</l><l n="35" xml:id="spp-754-1351-line-35"> Meantime your other juster friends</l><l n="36" xml:id="spp-754-1351-line-36"> Shall for my follies make amends:</l><l n="37" xml:id="spp-754-1351-line-37"> So may we long continue thus,</l><l n="38" xml:id="spp-754-1351-line-38"> Admiring you, you pitying us.754-1351   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

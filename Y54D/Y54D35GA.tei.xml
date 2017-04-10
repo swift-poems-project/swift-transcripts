@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>MARTIAL. <hi rend="underline">Book </hi>I<hi rend="underline">. Epigram</hi> 87.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y54D35GA" type="poem"><head type="note" n="1" xml:id="spp-Y54D35GA-headnote-1"><lg n="1" xml:id="spp-Y54D35GA-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y54D35GA-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y54D35GA-headnote-2"><lg n="1" xml:id="spp-Y54D35GA-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y54D35GA-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y54D35GA-headnote-3"><lg n="1" xml:id="spp-Y54D35GA-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y54D35GA-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y54D35GA-line-1"><hi rend="display-initial">M</hi>Y neighbour <hi rend="underline">Hunks</hi>'s house, and mine</l><l n="2" xml:id="spp-Y54D35GA-line-2"> Are built so near they almost join,</l><l n="3" xml:id="spp-Y54D35GA-line-3"> The windows too project so much,</l><l n="4" xml:id="spp-Y54D35GA-line-4"> That thro' the casements we may touch:</l><l n="5" xml:id="spp-Y54D35GA-line-5"> Nay, I'm so happy, most men think,</l><l n="6" xml:id="spp-Y54D35GA-line-6"> To live so near a man of chink,</l><l n="7" xml:id="spp-Y54D35GA-line-7"> That they are apt to envy me,</l><l n="8" xml:id="spp-Y54D35GA-line-8"> For keeping such good company.</l><l n="9" xml:id="spp-Y54D35GA-line-9"> But he's as far from me, I vow,</l><l n="10" xml:id="spp-Y54D35GA-line-10"> As <hi rend="underline">London</hi> is from good Lord <hi rend="underline">How</hi>.</l><l n="11" xml:id="spp-Y54D35GA-line-11"> Who sooths the poor <hi rend="underline">Barbadoes</hi> folks,</l><l n="12" xml:id="spp-Y54D35GA-line-12"> All gall'd and raw with <hi rend="underline">L──r</hi>'s yokes.</l><l n="13" xml:id="spp-Y54D35GA-line-13"> For when old <hi rend="underline">Huncks</hi> I chance to meet,</l><l n="14" xml:id="spp-Y54D35GA-line-14" rend="flush right"> Or one or both must quit the street;Thus he that would not see old <hi rend="underline">Roger</hi>.Must be his neighbour or his lodger.X.Y54D35GA   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

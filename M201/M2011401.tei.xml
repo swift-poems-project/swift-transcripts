@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LETTER CXXIV.<lb/>Dr. ARBUTHNOT, the Queen's domestic<lb/>Physician, to Dr. SWIFT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M2011401"><head type="note" n="1" xml:id="spp-M2011401-headnote-1"><lg n="1" xml:id="spp-M2011401-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M2011401-headnote-1-line-group-1-line-1">The <hi rend="underline">dragon</hi> was with us on <hi rend="underline">Saturday</hi> night last, after having sent us really a most excellent copy of verses. I really believe, when he lays down, he will prove a very good poet. I remember the first part of his verses was complaining of ill usage; and at last he concludes,</l></lg></head><head type="note" n="2" xml:id="spp-M2011401-headnote-2"><lg n="1" xml:id="spp-M2011401-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M2011401-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-M2011401-headnote-3"><lg n="1" xml:id="spp-M2011401-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M2011401-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-M2011401-line-1">He that cares not to rule, will be sure to obey,&#13;</l><l/><l n="2" xml:id="spp-M2011401-line-2">When summon'd by <hi rend="underline">Arbuthnot, Pope, Parnell, </hi>and<hi rend="underline"> Gay</hi>.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

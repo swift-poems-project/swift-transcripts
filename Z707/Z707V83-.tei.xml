@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>English'd thus</title>
+        <title><hi rend="underline">A Short Way to a</hi> Bishoprick.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z707V83-" type="poem"><head type="note" n="1" xml:id="spp-Z707V83--headnote-1"><lg n="1" xml:id="spp-Z707V83--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Z707V83--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Z707V83--headnote-2"><lg n="1" xml:id="spp-Z707V83--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Z707V83--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Z707V83--headnote-3"><lg n="1" xml:id="spp-Z707V83--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Z707V83--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-Z707V83--line-1"><hi rend="display-initial">U</hi>Nto Prelatick Order you'd ascend</l><l n="2" xml:id="spp-Z707V83--line-2"> Come on, I'll shew you how to do't, My Friend,</l><l n="3" xml:id="spp-Z707V83--line-3"> Do not in Study waste the precious Day,</l><l n="4" xml:id="spp-Z707V83--line-4"> To <hi rend="underline">Necessary</hi> Knowledge short's the Way,</l><l n="5" xml:id="spp-Z707V83--line-5"> Turn over a few Books, and learn to prate,</l><l n="6" xml:id="spp-Z707V83--line-6"> Leave others solidly Things to debate.</l><l n="7" xml:id="spp-Z707V83--line-7"> Load not with serious Piety your Breast,</l><l n="8" xml:id="spp-Z707V83--line-8"> Alas! at COURT 'tis nothing but a Jest;</l><l n="9" xml:id="spp-Z707V83--line-9"> Yet let a feigned Gravity take Place,</l><l n="10" xml:id="spp-Z707V83--line-10"> And Complaisance still dwell upon your Face.</l><l n="11" xml:id="spp-Z707V83--line-11"> Within your Parish never should you stay,</l><l n="12" xml:id="spp-Z707V83--line-12"> Nor to your People Preach or with them Pray,</l><l n="13" xml:id="spp-Z707V83--line-13"> Your <hi rend="underline">Constant Business</hi> lyes another Way.</l><l n="14" xml:id="spp-Z707V83--line-14"> To please great Men must your chief Study be,</l><l n="15" xml:id="spp-Z707V83--line-15"> And win the Ladies too with----- Pleasantry.</l><l n="16" xml:id="spp-Z707V83--line-16"> Follow these Rules with Care, if you be wise,</l><l n="17" xml:id="spp-Z707V83--line-17"> Experience shews 'tis the best Way to rise.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

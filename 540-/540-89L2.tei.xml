@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A PANEGYRICK, 1731 <«FN1·>It is not quite certain whether this severe character (originally printed in these Miscellanies) was by Atterbury, or his friend Wesley; but it is more probably our Bishop's. Since the former edition it has been also printed as Swift's. It is the communication of a correspondent; as are the following lines, which Atterbury is said to have repeated with great emotion on a noble Lord's quitting his apartment, after proposing and improperly pressing some terms which the Bishop had rejected with disdain:</«FN1·></title>
+        <title>“Unmov'd by pity, and by shame unaw'd,</title>
+        <title>The genuine spawn of bully and of bawd;</title>
+        <title>Ungrateful to th' ungrateful wretch he grew by,</title>
+        <title>A baseborn, blundering, blustering, bloody, booby!”.».</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="540-89L2" type="poem"><head type="note" n="1" xml:id="spp-540-89L2-headnote-1"><lg n="1" xml:id="spp-540-89L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-540-89L2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-540-89L2-headnote-2"><lg n="1" xml:id="spp-540-89L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-540-89L2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-540-89L2-headnote-3"><lg n="1" xml:id="spp-540-89L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-540-89L2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-540-89L2-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><hi rend="display-initial">W</hi>ITH Favour and Fortune fastidiously blest,</l><l n="2" xml:id="spp-540-89L2-line-2"> He's loud in his laugh, and coarse in his jest;</l><l n="3" xml:id="spp-540-89L2-line-3"> Of Favour and Fortune unmerited vain,</l><l n="4" xml:id="spp-540-89L2-line-4"> A Sharper in trifles, a Dupe in the main,</l><l n="5" xml:id="spp-540-89L2-line-5"> Atchieving of Nothing, still promising Wonders,</l><l n="6" xml:id="spp-540-89L2-line-6"> By dint of Experience improving in Blunders;</l><l n="7" xml:id="spp-540-89L2-line-7"> Oppressing true Merit, exalting the Base;</l><l n="8" xml:id="spp-540-89L2-line-8"> And selling his Country to purchase a Place;</l><l n="9" xml:id="spp-540-89L2-line-9"> A Jobber of Stocks by retailing false news,</l><l n="10" xml:id="spp-540-89L2-line-10"> A Prater at court in the style of the Mews;</l><l n="11" xml:id="spp-540-89L2-line-11"> Of Virtue and Worth by profession a Giber;</l><l n="12" xml:id="spp-540-89L2-line-12"> Of Juries and Senates the Bully and Briber.</l><l n="13" xml:id="spp-540-89L2-line-13"> Though I name not the Wretch, you know whom I mean,</l><l n="14" xml:id="spp-540-89L2-line-14"> 'Tis the Cur-dog of Britain, and Spaniel of Spain.<gap/>540-89L2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

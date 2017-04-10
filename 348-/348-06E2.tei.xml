@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-348-06E2-title-1">W<hi rend="SMALL-CAPS">HITSHED</hi>'s motto on his coach <ref target="#spp-348-06E2-footnote-title-1">1</ref><note n="1" xml:id="spp-348-06E2-footnote-title-1" place="foot">The noted Chief Justice who twice prosecuted the Drapier, and dissolved the grand jury for not finding the bill against him. See his letters, in vol. 3</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-348-06E2-footnote-title-1 #spp-348-06E2-title-1"/>
+          <link target="#spp-348-06E2-footnote-1 #spp-348-06E2-line-21"/>
+          <link target="#spp-348-06E2-footnote-2 #spp-348-06E2-line-22"/>
+        </linkGrp>
+        <div n="348-06E2"><head type="note" n="1" xml:id="spp-348-06E2-headnote-1"><lg n="1" xml:id="spp-348-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-348-06E2-headnote-1-line-group-1-line-1">L<hi rend="SMALL-CAPS">IBERTAS ET NATALE SOLUM</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-348-06E2-headnote-2"><lg n="1" xml:id="spp-348-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-348-06E2-headnote-2-line-group-1-line-1"><hi rend="underline">Liberty and my native country</hi>.</l></lg></head><head type="note" n="3" xml:id="spp-348-06E2-headnote-3"><lg n="1" xml:id="spp-348-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-348-06E2-headnote-3-line-group-1-line-1">Written in the year 1724.</l></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-348-06E2-line-1"><hi rend="display-initial">L</hi><hi rend="underline">Ibertas et natale solum</hi>:</l><l/><l n="2" xml:id="spp-348-06E2-line-2">Fine words! I wonder where you stole 'em.</l><l/><l n="3" xml:id="spp-348-06E2-line-3">Could nothing, but thy chief reproach,</l><l/><l n="4" xml:id="spp-348-06E2-line-4">Serve for a motto on thy coach?</l><l/><l n="5" xml:id="spp-348-06E2-line-5">But let me now the words translate:</l><l/><l n="6" xml:id="spp-348-06E2-line-6"><hi rend="underline">Natale solum</hi>, my estate;</l><l/><l n="7" xml:id="spp-348-06E2-line-7">My dear estate, how well I love it!</l><l/><l n="8" xml:id="spp-348-06E2-line-8">My tenants, if you doubt, will prove it:</l><l/><l n="9" xml:id="spp-348-06E2-line-9">They swear I am so kind and good,</l><l/><l n="10" xml:id="spp-348-06E2-line-10">I hug them, till I squeeze their blood.</l><l/><l n="11" xml:id="spp-348-06E2-line-11"><hi rend="underline">Libertas</hi> bears a large import:</l><l/><l n="12" xml:id="spp-348-06E2-line-12">First, how to swagger in a court;</l><l/><l n="13" xml:id="spp-348-06E2-line-13">And, secondly, to shew my fury</l><l/><l n="14" xml:id="spp-348-06E2-line-14">Against an uncomplying jury;</l><l/><l n="15" xml:id="spp-348-06E2-line-15">And, thirdly, 'tis a new invention</l><l/><l n="16" xml:id="spp-348-06E2-line-16">To favour Wood, and keep my pension;</l><l/><l n="17" xml:id="spp-348-06E2-line-17">And, fourthly, 'tis to play an odd trick,</l><l/><l n="18" xml:id="spp-348-06E2-line-18">Get the great seal, and turn out Brod'rick;</l><l/><l n="19" xml:id="spp-348-06E2-line-19">And, fifthly, (you know whom I mean),</l><l/><l n="20" xml:id="spp-348-06E2-line-20">To humble that vexatious Dean;</l><l/><l n="21" xml:id="spp-348-06E2-line-21">And, sixthly, for my soul to barter it<ref target="#spp-348-06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-348-06E2-footnote-1">(<hi rend="underline">i.e</hi>.) Liberty to barter his soul. <hi rend="underline">Hawkes</hi>.</note>,</l><l/><l n="22" xml:id="spp-348-06E2-line-22">For fifty times its worth, to Carteret<ref target="#spp-348-06E2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-348-06E2-footnote-2">Lord Carteret, Lord Lieutenant of Ireland.</note>.</l><l/><l n="23" xml:id="spp-348-06E2-line-23">Now, since your motto thus you construe,</l><l/><l n="24" xml:id="spp-348-06E2-line-24">I must confess you've spoken once true.</l><l/><l n="25" xml:id="spp-348-06E2-line-25"><hi rend="underline">Libertas et natale solum</hi>:</l><l/><l n="26" xml:id="spp-348-06E2-line-26">You had good reason, when you stole 'em.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

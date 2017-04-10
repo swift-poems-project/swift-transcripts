@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To DEAN SWIFT. By Sir ARTHUR<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="876-1351" type="poem"><head type="note" n="1" xml:id="spp-876-1351-headnote-1"><lg n="1" xml:id="spp-876-1351-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-876-1351-headnote-1-line-group-1-line-1">Written in the Year <hi rend="SMALL-CAPS">M DCC XXVIII</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-876-1351-headnote-2"><lg n="1" xml:id="spp-876-1351-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-876-1351-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-876-1351-headnote-3"><lg n="1" xml:id="spp-876-1351-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-876-1351-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-876-1351-line-1"><hi rend="display-initial">G</hi>OOD cause have I to sing and vapour,</l><l n="2" xml:id="spp-876-1351-line-2"> For I am landlord to the Drapier:</l><l n="3" xml:id="spp-876-1351-line-3"> He, that of ev'ry ear's the charmer,</l><l n="4" xml:id="spp-876-1351-line-4"> Now condescends to be my farmer,</l><l n="5" xml:id="spp-876-1351-line-5"> And grace my villa with his strains;</l><l n="6" xml:id="spp-876-1351-line-6"> Lives such a Bard on British plains?</l><l n="7" xml:id="spp-876-1351-line-7"> No; not in all the British Court;</l><l n="8" xml:id="spp-876-1351-line-8"> For none but witlings there resort,</l><l n="9" xml:id="spp-876-1351-line-9"> Whose names and works (tho' dead) are made</l><l n="10" xml:id="spp-876-1351-line-10"> Immortal by the Dunciad;</l><l n="11" xml:id="spp-876-1351-line-11"> And sure, as monument of brass,</l><l n="12" xml:id="spp-876-1351-line-12"> Their fame to future times shall pass,</l><l n="13" xml:id="spp-876-1351-line-13"> How, with a weakly warbling tongue,</l><l n="14" xml:id="spp-876-1351-line-14"> Of Brazen Knight they vainly sung:</l><l n="15" xml:id="spp-876-1351-line-15"> A subject for their genius fit;</l><l n="16" xml:id="spp-876-1351-line-16"> He dares defy both sense and wit.</l><l n="17" xml:id="spp-876-1351-line-17"> What dares he not? He can, we know it,</l><l n="18" xml:id="spp-876-1351-line-18"> A laureat make that is no poet;</l><l n="19" xml:id="spp-876-1351-line-19"> A judge, without the least pretence</l><l n="20" xml:id="spp-876-1351-line-20"> To common law, or common sense;</l><l n="21" xml:id="spp-876-1351-line-21"> A bishop that is no divine;</l><l n="22" xml:id="spp-876-1351-line-22"> And coxcombs in red ribbons shine:</l><l n="23" xml:id="spp-876-1351-line-23"> Nay, he can make what's greater far,</l><l n="24" xml:id="spp-876-1351-line-24"> A middle-state 'twixt peace and war;</l><l n="25" xml:id="spp-876-1351-line-25"> And say, there shall, for years together,</l><l n="26" xml:id="spp-876-1351-line-26"> Be peace and war, and both, and neither.</l><l n="27" xml:id="spp-876-1351-line-27"> Happy, O Market hill! at least,</l><l n="28" xml:id="spp-876-1351-line-28"> That court and courtiers have no taste:</l><l n="29" xml:id="spp-876-1351-line-29"> You never else had known the Dean,</l><l n="30" xml:id="spp-876-1351-line-30"> But, as of old, obscurely lain;</l><l n="31" xml:id="spp-876-1351-line-31"> All things gone on the same dull track,</l><l n="32" xml:id="spp-876-1351-line-32"> And Drapier's-hill been still Drumlack;</l><l n="33" xml:id="spp-876-1351-line-33"> But now your name with Penshurst vies,</l><l n="34" xml:id="spp-876-1351-line-34"> And wing'd with fame shall reach the skies.876-1351   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

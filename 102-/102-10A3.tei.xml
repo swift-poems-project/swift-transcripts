@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Prophecy.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="102-10A3" type="poem"><head type="note" n="1" xml:id="spp-102-10A3-headnote-1"><lg n="1" xml:id="spp-102-10A3-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-102-10A3-headnote-1-line-group-1-line-1">In the next Place I shall present you with a very Notable and Remarkable Prophecy relating to these Times. It is said to be one of the Prophesies of our <hi rend="underline">British Merlin</hi>, above 1000 Years ago, and said to be translated about the end of the Reign of K <hi rend="underline">Henry</hi> VII. Printed at <hi rend="underline">London</hi> by <hi rend="underline">Johan Haukins</hi>, in the Year 1530. Page 39<hi rend="sup">th.</hi> of <hi rend="underline">Merlin's Prophesies</hi>. I have given it you in the old Orthography.</l></lg></head><head type="note" n="2" xml:id="spp-102-10A3-headnote-2"><lg n="1" xml:id="spp-102-10A3-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-102-10A3-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-102-10A3-headnote-3"><lg n="1" xml:id="spp-102-10A3-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-102-10A3-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-102-10A3-line-1"><hi rend="black-letter">Seven and Ten addyd to Nyne,&#13;</hi>.<unclear>ENDNOTES:</unclear></l><l n="2" xml:id="spp-102-10A3-line-2"> Of France hir Woe thys is the Sygne,</l><l n="3" xml:id="spp-102-10A3-line-3"> Teamys Rivere twys y-frozen,</l><l n="4" xml:id="spp-102-10A3-line-4"> Walke sans wetynge Shoes ne Hozen,</l><l n="5" xml:id="spp-102-10A3-line-5"> Then comyth foorthe, Ich understonde,</l><l n="6" xml:id="spp-102-10A3-line-6"> From Towne of Stoffe to fattyn Lond,</l><l n="7" xml:id="spp-102-10A3-line-7"> An herdie Chiftan, woe the Morne</l><l n="8" xml:id="spp-102-10A3-line-8"> To France, that evere he was Borne;</l><l n="9" xml:id="spp-102-10A3-line-9"> Then shall the Fyshe beweyle his Bosse,</l><l n="10" xml:id="spp-102-10A3-line-10"> Nor shall Grin Berris make up the Losse.</l><l n="11" xml:id="spp-102-10A3-line-11"> Young Symnele shall again miscarrye,</l><l n="12" xml:id="spp-102-10A3-line-12"> And Norway's Pryd again shall Marreye,</l><l n="13" xml:id="spp-102-10A3-line-13"> And from the Tree where Blosums fele,</l><l n="14" xml:id="spp-102-10A3-line-14"> Ripe Fruit shall come, and all is wele;</l><l n="15" xml:id="spp-102-10A3-line-15"> Reaums shall Dance hond in hond,</l><l n="16" xml:id="spp-102-10A3-line-16"> And it shall be merye in old Inglond,</l><l n="17" xml:id="spp-102-10A3-line-17"> Then old Inglond shall be no more,</l><l n="18" xml:id="spp-102-10A3-line-18"> And no Man shall be sorry therefore,</l><l n="19" xml:id="spp-102-10A3-line-19"> Geryon shall have three Heads again,</l><l n="20" xml:id="spp-102-10A3-line-20"> Till Hapsburgh maketh them but twain</l><l n="21" xml:id="spp-102-10A3-line-21"> Now having given you the Prophecy in the Character and Stile it was given me, without Alteration, I shall give you a short Explanation of the same.<hi rend="underline">Seven and Ten makes Seventeen</hi>; which is thought to signifie Seventeen Hundred, and added to Nine, 1709. beginning at the first of <hi rend="underline">Jan</hi>.<gap/><gap/></l><l n="22" xml:id="spp-102-10A3-line-22"> This same Year the River <hi rend="underline">Thames</hi> was twice frozen over, so that Men went over as we may say Dry-shod.</l></lg><lg n="2" type="stanza"><l n="23" xml:id="spp-102-10A3-line-23"><gap/> The <hi rend="underline">Chieftain</hi>, or General, that is signified by the <hi rend="underline">Town of Stuff to fatten Land</hi>, may be understood of the D. of <hi rend="underline">Marlborough</hi>,</l></lg><lg n="3" type="stanza"><l n="24" xml:id="spp-102-10A3-line-24"> for in some Countries they use to throw Marle on the Ground to fatten it, and make it Fertile; and <hi rend="underline">Borough</hi> every one knows to signifie a Town.<gap/></l><l n="25" xml:id="spp-102-10A3-line-25"> By the <hi rend="underline">Fish</hi> may be understood the <hi rend="underline">Dolphin</hi>, or <hi rend="underline">Dauphin</hi> of <hi rend="underline">France</hi>,</l></lg><lg n="4" type="stanza"><l n="26" xml:id="spp-102-10A3-line-26"> and he bewailing his <hi rend="underline">Bosse</hi>, may signifie the D. of <hi rend="underline">Burgundy</hi> his Son, for <hi rend="underline">Bosse</hi> is an old <hi rend="underline">English</hi> Word for Hump-Shoulders, as that Duke is known to be,</l></lg><lg n="5" type="stanza"><l n="27" xml:id="spp-102-10A3-line-27"> and it seems to mean that he shall be either Over-come or Slain.</l></lg><lg n="6" type="stanza"><l n="28" xml:id="spp-102-10A3-line-28"> By <hi rend="underline">Green Berries</hi>, we may imagine it to mean the D. of <hi rend="underline">Berry</hi>, who shall neither have Valour nor Fortune to supply the Loss.</l></lg><lg n="7" type="stanza"><l n="29" xml:id="spp-102-10A3-line-29"> By <hi rend="underline">Young Simnell</hi>, you may guess it to be the <hi rend="underline">Pretender</hi>, which if he offers to Invade us again, shall miscarry.</l></lg><lg n="8" type="stanza"><l n="30" xml:id="spp-102-10A3-line-30"> There was one <hi rend="underline">Lambert Simnel</hi>, I think, did Personate the Son of K. <hi rend="underline">Edward</hi> the IVth.</l><l n="31" xml:id="spp-102-10A3-line-31"> As for <hi rend="underline">Norway</hi>'s <hi rend="underline">Pride</hi>, I leave the Reader to judge as he thinks fit. I should be glad to see it according as I understand it.</l><l n="32" xml:id="spp-102-10A3-line-32"> Now <hi rend="underline">Reaums</hi> was an old Name for Kingdoms, as now we call them Realms,</l></lg><lg n="9" type="stanza"><l n="33" xml:id="spp-102-10A3-line-33"> and their Dancing hand in hand must undoubtedly signifie the Union of the Two Kingdoms,</l></lg><lg n="10" type="stanza"><l n="34" xml:id="spp-102-10A3-line-34"> for he says <hi rend="underline">Old-England</hi> shall be no more; meaning, that <hi rend="underline">England</hi> and <hi rend="underline">Scotland</hi>, as I take it, shall be call'd by the Name of <hi rend="underline">Great-Britain</hi>.<gap/><gap/></l><l n="35" xml:id="spp-102-10A3-line-35"> Then for <hi rend="underline">Geryon</hi>,</l></lg><lg n="11" type="stanza"><l n="36" xml:id="spp-102-10A3-line-36"> it is said he was a King of <hi rend="underline">Spain</hi>, whom <hi rend="underline">Hercules</hi> slew:</l></lg><lg n="12" type="stanza"><l n="37" xml:id="spp-102-10A3-line-37"> He was feigned by the Poets to have Three Heads, which our Prophecy says he shall have again.</l></lg><lg n="13" type="stanza"><l n="38" xml:id="spp-102-10A3-line-38"><gap/> This is wonderfully come to pass;</l></lg><lg n="14" type="stanza"><l n="39" xml:id="spp-102-10A3-line-39"> for <hi rend="underline">Portugal</hi> being properly a part of <hi rend="underline">Spain</hi>, there is one King, and in <hi rend="underline">Spain</hi> it self there is two Contending Rivals,</l></lg><lg n="15" type="stanza"><l n="40" xml:id="spp-102-10A3-line-40"><hi rend="underline">Charles</hi> and <hi rend="underline">Philip</hi>.</l></lg><lg n="16" type="stanza"><l n="41" xml:id="spp-102-10A3-line-41"> And when he says <hi rend="underline">Hapsburgh</hi> shall make them but Twain or Two; This is plain that <hi rend="underline">Charles</hi> the IIId. King of <hi rend="underline">Spain</hi>, now contending with <hi rend="underline">Philip</hi> D. of <hi rend="underline">Anjou</hi>, is Lineally descended from the Count of <hi rend="underline">Hapsburgh</hi>, Founder of the <hi rend="underline">Austrian</hi> Family;</l></lg><lg n="17" type="stanza"><l n="42" xml:id="spp-102-10A3-line-42"> so that the meaning of making the Three Heads but Two again, must needs be, That K. <hi rend="underline">Charles</hi> the IIId. with the Assistance of his good Friends, shall force <hi rend="underline">Philip</hi> out of the Kingdom of <hi rend="underline">Spain</hi>, sending him into <hi rend="underline">France</hi> again by the Weeping-Cross.</l><l n="43" xml:id="spp-102-10A3-line-43"> And thus I have given you the Prophecy or Prediction of old <hi rend="underline">Merlin</hi>, and the Explanation of it, according to my Judgment, and leave every Reader to make what further Interpretation of it he can.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>102-10A3   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

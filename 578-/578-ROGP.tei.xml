@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">On the Day of Judgement</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="578-ROGP" type="poem"><head type="note" n="1" xml:id="spp-578-ROGP-headnote-1"><lg n="1" xml:id="spp-578-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-578-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-578-ROGP-headnote-2"><lg n="1" xml:id="spp-578-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-578-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-578-ROGP-headnote-3"><lg n="1" xml:id="spp-578-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-578-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-578-ROGP-line-1"> With a whirl of thought oppressed,&#13;</l><l n="2" xml:id="spp-578-ROGP-line-2"> I sink from reverie to rest.</l><l n="3" xml:id="spp-578-ROGP-line-3"> An horrid vision seized my head,</l><l n="4" xml:id="spp-578-ROGP-line-4"> I saw the graves give up their dead.</l><l n="5" xml:id="spp-578-ROGP-line-5"> Jove, armed with terrors, burst the skies,</l><l n="6" xml:id="spp-578-ROGP-line-6"> And thunder roars, and lightning flies!</l><l n="7" xml:id="spp-578-ROGP-line-7"> Amazed, confused, its fate unknown,</l><l n="8" xml:id="spp-578-ROGP-line-8"> The world stands trembling at his throne.</l><l n="9" xml:id="spp-578-ROGP-line-9"> While each pale sinner hangs his head,</l><l n="10" xml:id="spp-578-ROGP-line-10"> Jove, nodding, shook the heavens, and said,</l><l n="11" xml:id="spp-578-ROGP-line-11"> 'Offending race of humankind,</l><l n="12" xml:id="spp-578-ROGP-line-12"> By nature, reason, learning, blind;</l><l n="13" xml:id="spp-578-ROGP-line-13"> You who through frailty stepped aside,</l><l n="14" xml:id="spp-578-ROGP-line-14"> And you who never fell──<hi rend="underline">through pride</hi>;</l><l n="15" xml:id="spp-578-ROGP-line-15"> You who in different sects have shammed,</l><l n="16" xml:id="spp-578-ROGP-line-16"> And come to see each other damned;</l><l n="17" xml:id="spp-578-ROGP-line-17"> (So some folks told you, but they knew</l><l n="18" xml:id="spp-578-ROGP-line-18"> No more of Jove's designs than you)</l><l n="19" xml:id="spp-578-ROGP-line-19"> The world's mad business now is o'er,</l><l n="20" xml:id="spp-578-ROGP-line-20"> And I resent these pranks no more.</l><l n="21" xml:id="spp-578-ROGP-line-21"> I to such blockheads set my wit!</l><l n="22" xml:id="spp-578-ROGP-line-22"> I damn such fools!──Go, go you're bit.'578-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TO SWIFT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="983-15W1" type="poem"><head type="note" n="1" xml:id="spp-983-15W1-headnote-1"><lg n="1" xml:id="spp-983-15W1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-983-15W1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-983-15W1-headnote-2"><lg n="1" xml:id="spp-983-15W1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-983-15W1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-983-15W1-headnote-3"><lg n="1" xml:id="spp-983-15W1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-983-15W1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-983-15W1-line-1">A H<hi rend="SMALL-CAPS">IGHLANDER</hi> once fought a Frenchman at Margate,</l><l n="2" xml:id="spp-983-15W1-line-2"> The weapons a rapier, a backsword, and target;</l><l n="3" xml:id="spp-983-15W1-line-3"> Brisk Monsieur advanc'd as fast as he could,</l><l n="4" xml:id="spp-983-15W1-line-4"> But all his fine pushes were caught in the wood;</l><l n="5" xml:id="spp-983-15W1-line-5"> While Sawney with backsword did slash him and nick him,</l><l n="6" xml:id="spp-983-15W1-line-6"> While t'other, enraged that he could not once prick him,</l><l n="7" xml:id="spp-983-15W1-line-7"> Cry'd “Sirrah, you rascal, you son of a whore,</l><l n="8" xml:id="spp-983-15W1-line-8"> Me'll fight you, begar, if you'll come from your door!”Our case is the same; if you'll fight like a man,</l><l n="9" xml:id="spp-983-15W1-line-9"> Don't fly from my weapon, and sculk behind Dan;</l><l n="10" xml:id="spp-983-15W1-line-10"> For he's not to be pierc'd; his leather's so tough,</l><l n="11" xml:id="spp-983-15W1-line-11"> The devil himself can't get through his buff.</l><l n="12" xml:id="spp-983-15W1-line-12"> Besides, I cannot but say that it is hard,</l><l n="13" xml:id="spp-983-15W1-line-13"> Not only to make him your shield, but your vizard;</l><l n="14" xml:id="spp-983-15W1-line-14"> And like a tragedian, you rant and you roar,</l><l n="15" xml:id="spp-983-15W1-line-15"> Thro' the horrible grin of your <hi rend="underline">larva's</hi> wide bore.</l><l n="16" xml:id="spp-983-15W1-line-16"> Nay, further, which makes me complain much, and frump it,</l><l n="17" xml:id="spp-983-15W1-line-17"> You make his long nose your loud speaking-trumpet;</l><l n="18" xml:id="spp-983-15W1-line-18"> With the din of which tube my head you so bother,</l><l n="19" xml:id="spp-983-15W1-line-19"> That I scarce can distinguish my right ear from t'other.983-15W1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

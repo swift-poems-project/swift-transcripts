@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Helter Skelter,</title>
+        <title>OR</title>
+        <title>The Hue and Cry after the A<hi rend="SMALL-CAPS">TTOR-</hi></title>
+        <title><hi rend="SMALL-CAPS">NIES</hi>, going to ride the Circuit.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="573-WILH" type="poem"><head type="note" n="1" xml:id="spp-573-WILH-headnote-1"><lg n="1" xml:id="spp-573-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-573-WILH-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-573-WILH-headnote-2"><lg n="1" xml:id="spp-573-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-573-WILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-573-WILH-headnote-3"><lg n="1" xml:id="spp-573-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-573-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-573-WILH-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><hi rend="display-initial">N</hi>OW the active young Attornies</l><l n="2" xml:id="spp-573-WILH-line-2"> Briskly travel on their Journies,<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l><l n="3" xml:id="spp-573-WILH-line-3"> Looking big as any Gyants,</l><l n="4" xml:id="spp-573-WILH-line-4"> On the Horses of their Clients;</l><l n="5" xml:id="spp-573-WILH-line-5"> Like so many little Mars's,</l><l n="6" xml:id="spp-573-WILH-line-6"> With their Tilters at their Arses,</l><l n="7" xml:id="spp-573-WILH-line-7"> Brazen hilted lately burnish'd,</l><l n="8" xml:id="spp-573-WILH-line-8"> And with Harness-Buckles furnish'd;</l><l n="9" xml:id="spp-573-WILH-line-9"> And with Whips and Spurs so neat,</l><l n="10" xml:id="spp-573-WILH-line-10"> And with Jockey-Coats compleat;</l><l n="11" xml:id="spp-573-WILH-line-11"> And with Boots so very grazy</l><l n="12" xml:id="spp-573-WILH-line-12"> And with Saddles eke so easy</l><l n="13" xml:id="spp-573-WILH-line-13"> And with Bridles fine and gay,</l><l n="14" xml:id="spp-573-WILH-line-14"> Bridles borrow'd for a Day,</l><l n="15" xml:id="spp-573-WILH-line-15"> Bridles destin'd far to roam,</l><l n="16" xml:id="spp-573-WILH-line-16"> Ah! never to return Home;</l><l n="17" xml:id="spp-573-WILH-line-17"> And with Hats so very big, Sir,</l><l n="18" xml:id="spp-573-WILH-line-18"> And wi[t]h powder'd Caps and Wigs, Sir;</l><l n="19" xml:id="spp-573-WILH-line-19"> And with Ruffles to be shewn,</l><l n="20" xml:id="spp-573-WILH-line-20"> Cambrick Ruffles not their own;</l><l n="21" xml:id="spp-573-WILH-line-21"> And with Holland Shirts so white,</l><l n="22" xml:id="spp-573-WILH-line-22"> Shirts becoming to the sight,</l><l n="23" xml:id="spp-573-WILH-line-23"> Shirts be wrought with different Letters,</l><l n="24" xml:id="spp-573-WILH-line-24"> As belonging to their betters:</l><l n="25" xml:id="spp-573-WILH-line-25"> With their pretty tinsel'd Boxes,</l><l n="26" xml:id="spp-573-WILH-line-26"> Gotten from their dainty Doxies,</l><l n="27" xml:id="spp-573-WILH-line-27"> And with Rings so very trim,</l><l n="28" xml:id="spp-573-WILH-line-28"> Lately taken out of Lim──</l><l n="29" xml:id="spp-573-WILH-line-29"> And with very little Pence,</l><l n="30" xml:id="spp-573-WILH-line-30"> And as very little Sence:</l><l n="31" xml:id="spp-573-WILH-line-31"> With some Law but little Justice,</l><l n="32" xml:id="spp-573-WILH-line-32"> Having stolen from mine Hostess,</l><l n="33" xml:id="spp-573-WILH-line-33"> From the Barber and the Cutler,</l><l n="34" xml:id="spp-573-WILH-line-34"> Like the Soldier from the Sutler;</l><l n="35" xml:id="spp-573-WILH-line-35"> From the Vintner and the Taylor,</l><l n="36" xml:id="spp-573-WILH-line-36"> Like the Felon from the Jailer,</l><l n="37" xml:id="spp-573-WILH-line-37"> Into this and t'other County,</l><l n="38" xml:id="spp-573-WILH-line-38"> Living on the publick Bounty;</l><l n="39" xml:id="spp-573-WILH-line-39"> Thorough Town and thorough Village,</l><l n="40" xml:id="spp-573-WILH-line-40"> All to plunder, all to pillage;</l><l n="41" xml:id="spp-573-WILH-line-41"> Thorow Mountains thorow Vallies;</l><l n="42" xml:id="spp-573-WILH-line-42"> Thorow stinking Lanes and Allies;</l><l n="43" xml:id="spp-573-WILH-line-43"> Some to Cuckold Farmers Spouses,</l><l n="44" xml:id="spp-573-WILH-line-44"> And make merry in their Houses;</l><l n="45" xml:id="spp-573-WILH-line-45"> Some to tumble Country-Wenches</l><l n="46" xml:id="spp-573-WILH-line-46"> On their Rushy Beds and Benches,</l><l n="47" xml:id="spp-573-WILH-line-47"> And, if they begin a Fray,</l><l n="48" xml:id="spp-573-WILH-line-48"> Draw their Swords and run away:</l><l n="49" xml:id="spp-573-WILH-line-49"> All to murder Equity,</l><l n="50" xml:id="spp-573-WILH-line-50"> And to take a double Fee;</l><l n="51" xml:id="spp-573-WILH-line-51"> Till the People all are quiet</l><l n="52" xml:id="spp-573-WILH-line-52"> And forget to broil and riot,</l><l n="53" xml:id="spp-573-WILH-line-53"> Low in Pocket, Cow'd in Courage,</l><l n="54" xml:id="spp-573-WILH-line-54"> Safely glad to sup their Porridge,</l><l n="55" xml:id="spp-573-WILH-line-55"> And Vacation's over──then</l><l n="56" xml:id="spp-573-WILH-line-56"> Hey for Dublin Town agen!573-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

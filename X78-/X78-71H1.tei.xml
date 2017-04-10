@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A</title>
+        <title>TRIP <hi rend="SMALL-CAPS">TO</hi> DUNKIRK;</title>
+        <title>Or, a Hue-and-Cry after the pretended Prince of <hi rend="underline">Wales</hi>:</title>
+        <title xml:id="spp-X78-71H1-title-1">Being a Panegyrick on the DESCENT<ref target="#spp-X78-71H1-footnote-title-1">1</ref><note n="1" xml:id="spp-X78-71H1-footnote-title-1" place="foot">First printed in 1708; and re-printed in the “Harleian Miscellany,” vol. I. p. 205.</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X78-71H1-footnote-title-1 #spp-X78-71H1-title-1"/>
+        </linkGrp>
+        <div n="X78-71H1" type="poem"><head type="note" n="1" xml:id="spp-X78-71H1-headnote-1"><lg n="1" xml:id="spp-X78-71H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X78-71H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X78-71H1-headnote-2"><lg n="1" xml:id="spp-X78-71H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X78-71H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X78-71H1-headnote-3"><lg n="1" xml:id="spp-X78-71H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X78-71H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-X78-71H1-line-1"><hi rend="display-initial">W</hi>HY, hark ye me, Sirs──if this rumour holds true,</l><l n="2" xml:id="spp-X78-71H1-line-2"> We are like here, egad, to have somewhat to do:</l><l n="3" xml:id="spp-X78-71H1-line-3"> The <hi rend="underline">French</hi>, as they say, (he'll believe it that sees it)</l><l n="4" xml:id="spp-X78-71H1-line-4"> Are coming, gadsookers! to pay us a visit;</l><l n="5" xml:id="spp-X78-71H1-line-5"> With such a vast fleet──(Lord have mercy upon's,</l><l n="6" xml:id="spp-X78-71H1-line-6"> And keep us from popery, swords, and great guns!)</l><l n="7" xml:id="spp-X78-71H1-line-7"> That, as I'm alive──though I ne'er was afraid yet,</l><l n="8" xml:id="spp-X78-71H1-line-8"> It almost had frighten'd me──first when I heard it.</l><l n="9" xml:id="spp-X78-71H1-line-9"> Nay, more than all this, it is certainly said</l><l n="10" xml:id="spp-X78-71H1-line-10"> There's a little <hi rend="underline">Welsh monarch</hi> to come at their head;</l><l n="11" xml:id="spp-X78-71H1-line-11"> And he (shame the Devil, and let us speak truth)</l><l n="12" xml:id="spp-X78-71H1-line-12"> Ye know in your hearts, is a very smart youth;</l><l n="13" xml:id="spp-X78-71H1-line-13"> And doubtless will prove, when he's pleas'd to bestir him,</l><l n="14" xml:id="spp-X78-71H1-line-14"> As valiant as e'er was his father before him,</l><l n="15" xml:id="spp-X78-71H1-line-15"> Who, bent on some great expedition in view,</l><l n="16" xml:id="spp-X78-71H1-line-16"> Now glitters in arms with an equipage too;</l><l n="17" xml:id="spp-X78-71H1-line-17"> Which, positively, you may swear is all new.</l><l n="18" xml:id="spp-X78-71H1-line-18"> For, as I have heard (if some people speak right)</l><l n="19" xml:id="spp-X78-71H1-line-19"> He ne'er march'd before──unless 'twere to sh──te;</l><l n="20" xml:id="spp-X78-71H1-line-20"> But now, at the head of ten thousand brave fellows,</l><l n="21" xml:id="spp-X78-71H1-line-21"> (That is, as accounts thence are pleas'd for to tell us)</l><l n="22" xml:id="spp-X78-71H1-line-22"> He's going on some strange adventure or other,</l><l n="23" xml:id="spp-X78-71H1-line-23"> (Perhaps 'tis to seek out his father or mother)</l><l n="24" xml:id="spp-X78-71H1-line-24"> In <hi rend="underline">Ireland</hi>, or <hi rend="underline">Scotland</hi>, or some land or another;</l><l n="25" xml:id="spp-X78-71H1-line-25"> I can't tell you where, but to some place no doubt,</l><l n="26" xml:id="spp-X78-71H1-line-26"> Which you'll hear time enough, if he e'er does set out,</l><l n="27" xml:id="spp-X78-71H1-line-27"> With an army of <hi rend="underline">French</hi>, Popish bridles and knives,</l><l n="28" xml:id="spp-X78-71H1-line-28"> To cut all our throats, and to ride all our wives:</l><l n="29" xml:id="spp-X78-71H1-line-29"> Then stand to your arms, all good people, I'd wish you,</l><l n="30" xml:id="spp-X78-71H1-line-30"> Ye loyal train'd-bands, and ye valiant militia;</l><l n="31" xml:id="spp-X78-71H1-line-31"> Brush up your buff doublets, and <hi rend="underline">Scotch</hi> basket-hilt,</l><l n="32" xml:id="spp-X78-71H1-line-32"> (By which, to your honour, no blood was e'er spilt);</l><l n="33" xml:id="spp-X78-71H1-line-33"> The nation will now your assistance want sore,</l><l n="34" xml:id="spp-X78-71H1-line-34"> Which, as I remember, they ne'er had before,</l><l n="35" xml:id="spp-X78-71H1-line-35"> Nor will──────</l></lg><lg n="2" type="triplet"><l n="36" xml:id="spp-X78-71H1-line-36">I hope in kind Heaven, e'er want any more:&#13;</l><l n="37" xml:id="spp-X78-71H1-line-37"> Although, for your zeal it is not to be question'd,</l><l n="38" xml:id="spp-X78-71H1-line-38"> You've always been ready, when aught has occasion'd:</l><l n="39" xml:id="spp-X78-71H1-line-39"> At every rejoicing you've made a fine show</l><l n="40" xml:id="spp-X78-71H1-line-40"> (And that is one part of a soldier, we know);</l><l n="41" xml:id="spp-X78-71H1-line-41"> Been drunk, and done all that became you to do.</l><l n="42" xml:id="spp-X78-71H1-line-42"> And as for your valour, we cannot deny it,</l><l n="43" xml:id="spp-X78-71H1-line-43"> It is known you can fight──though you'd rather be quiet.</l><l n="44" xml:id="spp-X78-71H1-line-44"> Nor has the <hi rend="underline">French</hi> threats, or their menaces, scar'd us,</l><l n="45" xml:id="spp-X78-71H1-line-45"> Because we knew well we'd a hero to guard us.</l><l n="46" xml:id="spp-X78-71H1-line-46"> Then, since they're so hot on't, 'gad, e'en let them come,</l><l n="47" xml:id="spp-X78-71H1-line-47"> I'll warrant they'll be maul'd──though I don't say by whom:</l><l n="48" xml:id="spp-X78-71H1-line-48"> We've rods here in piss that will firk off their tails,</l><l n="49" xml:id="spp-X78-71H1-line-49"> For all their brave alls──and their monarch of <hi rend="underline">Wales</hi>.</l><l n="50" xml:id="spp-X78-71H1-line-50"> Adsheart, the young hero had best take a care,</l><l n="51" xml:id="spp-X78-71H1-line-51"> That he ben't in conclusion drawn into a snare:</l><l n="52" xml:id="spp-X78-71H1-line-52"> For, as it is said, his old godsire intends</l><l n="53" xml:id="spp-X78-71H1-line-53"> (Or at least would be glad as the matter now stands)</l><l n="54" xml:id="spp-X78-71H1-line-54"> To get shut of him handsomly off of his hands;</l><l n="55" xml:id="spp-X78-71H1-line-55"> And therefore e'en tells him, in words very plain,</l><l n="56" xml:id="spp-X78-71H1-line-56"> “That he hopes (which is true) ne'er to see him again.”</l><l n="57" xml:id="spp-X78-71H1-line-57"> So, e'en sink or swim, fleet, forces, and all,</l><l n="58" xml:id="spp-X78-71H1-line-58"> He'll venture this cast, though it cost him a fall.To <hi rend="underline">Ireland</hi> some think this <hi rend="underline">Welsh</hi> hero is bound,</l><l n="59" xml:id="spp-X78-71H1-line-59"> But that this is a jest, one may venture five pound;</l><l n="60" xml:id="spp-X78-71H1-line-60"> For there is an old debt still on <hi rend="underline">Lewis's</hi> score:</l><l n="61" xml:id="spp-X78-71H1-line-61"> He was bit in assisting his father before;</l><l n="62" xml:id="spp-X78-71H1-line-62"> And therefore he'll hardly come there any more.No, <hi rend="underline">Scotland's</hi> the place, they say, he's design'd to,</l><l n="63" xml:id="spp-X78-71H1-line-63"> Where 'tis thought────</l><l n="64" xml:id="spp-X78-71H1-line-64"> He's a great many friends──which, perhaps he'll scarce find so.</l><l n="65" xml:id="spp-X78-71H1-line-65"> But let him take care what may follow hereafter,</l><l n="66" xml:id="spp-X78-71H1-line-66"> If he trust to the <hi rend="underline">Scots</hi>, he may chance catch a <hi rend="underline">Tartar</hi>:</l><l n="67" xml:id="spp-X78-71H1-line-67"> And, if he should fall in our clutches, ye know,</l><l n="68" xml:id="spp-X78-71H1-line-68"> He'd be damnably mump'd, I can tell him but so.</l><l n="69" xml:id="spp-X78-71H1-line-69"> Were I in his case, I'd not trust my own brother:</l><l n="70" xml:id="spp-X78-71H1-line-70"> They sold us one King; should they sell us another?</l><l n="71" xml:id="spp-X78-71H1-line-71"> For our <hi rend="underline">Jacks</hi> here at home──as brave fellows as may be,</l><l n="72" xml:id="spp-X78-71H1-line-72"> They prick up their ears at the news on't already;</l><l n="73" xml:id="spp-X78-71H1-line-73"> And, out of their zeal, they expect him at least</l><l n="74" xml:id="spp-X78-71H1-line-74"> To be here, <hi rend="underline">French</hi> and all, when the wind's next at East:</l><l n="75" xml:id="spp-X78-71H1-line-75"> But some are more cautious, and question it much,</l><l n="76" xml:id="spp-X78-71H1-line-76"> And doubt the invasion's design'd on the <hi rend="underline">Dutch</hi>;</l><l n="77" xml:id="spp-X78-71H1-line-77"> For the noise of his landing, they swear, 'tis a bite all,</l><l n="78" xml:id="spp-X78-71H1-line-78"> They'll trust to't no more──till they see him at <hi rend="underline">White-hall</hi>.But this is but talk all, and so let it rest,</l><l n="79" xml:id="spp-X78-71H1-line-79"> Some are still of opinion 'twill all prove a jest:</l><l n="80" xml:id="spp-X78-71H1-line-80"> This hero at <hi rend="underline">Dunkirk</hi> will make his campaign,</l><l n="81" xml:id="spp-X78-71H1-line-81"> And so gallop back to <hi rend="underline">St. Germain's</hi> again.X78-71H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

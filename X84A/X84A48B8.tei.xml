@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE THANKSGIVING<«FN1·>For the probable occasion of this poem, see Scott's Swift, vol. ii. p. 72; therefore it was written, in all likelihood, in 1710.·».</«FN1·></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X84A48B8-footnote-1 #spp-X84A48B8-line-3"/>
+          <link target="#spp-X84A48B8-footnote-2 #spp-X84A48B8-line-5"/>
+          <link target="#spp-X84A48B8-footnote-3 #spp-X84A48B8-line-9"/>
+        </linkGrp>
+        <div n="X84A48B8" type="poem"><head type="note" n="1" xml:id="spp-X84A48B8-headnote-1"><lg n="1" xml:id="spp-X84A48B8-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X84A48B8-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X84A48B8-headnote-2"><lg n="1" xml:id="spp-X84A48B8-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X84A48B8-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X84A48B8-headnote-3"><lg n="1" xml:id="spp-X84A48B8-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X84A48B8-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X84A48B8-line-1"> In sounds of joy your tunefull voices raise,&#13;</l><l n="2" xml:id="spp-X84A48B8-line-2"> And teach the people whom to thank and praise;</l><l n="3" xml:id="spp-X84A48B8-line-3"> Thank humble Sarah's <ref target="#spp-X84A48B8-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-X84A48B8-footnote-1">Sarah, Duchess of Marlborough.</note> providential reign,</l><l n="4" xml:id="spp-X84A48B8-line-4"> For peace and plenty, both of coin and graine;</l><l n="5" xml:id="spp-X84A48B8-line-5"> Thanks to Vulpone <ref target="#spp-X84A48B8-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-X84A48B8-footnote-2">Vulpone is a nick-name constantly employed in the satirical poems and lampoons of that day. It was first applied to Godolphin, by Dr. Sacheverel, in his celebrated sermon, and is said to have been the true cause for his impeachment by the minister. In the Examiner for January 10, 1710, Swift writes: “We remember when a poor nick-name, borrowed from an old play of Ben Jonson, and mentioned in a sermon without any particular application, was made use of to spur on an impeachment.” Godolphin was a strenuous advocate for the Scotch union.</note> for your unbought union;</l><l n="6" xml:id="spp-X84A48B8-line-6"> Thank bishops for occasional communion;</l><l n="7" xml:id="spp-X84A48B8-line-7"> Thank Banks and brokers for your thriving trade;</l><l n="8" xml:id="spp-X84A48B8-line-8"> Once more thank Vulpo that your debts are paid;</l><l n="9" xml:id="spp-X84A48B8-line-9"> Thank Marlborough's zeal that scorn'd the proffered treaty<ref target="#spp-X84A48B8-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-X84A48B8-footnote-3">Probably alluding to the treaty of Gertruydenberg. See the Examiner for February 8, 1711.</note>,</l><l n="10" xml:id="spp-X84A48B8-line-10"> And thank Eugene the Frenchmen did not beat ye;</l><l n="11" xml:id="spp-X84A48B8-line-11"> Thanks to yourselves if ye are tax'd and sham'd,</l><l n="12" xml:id="spp-X84A48B8-line-12"> And sing Te Deum when the three are d────d.X84A48B8   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

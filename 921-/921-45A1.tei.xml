@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">The Gulph of all human Possessions</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="921-45A1" type="poem"><head type="note" n="1" xml:id="spp-921-45A1-headnote-1"><lg n="1" xml:id="spp-921-45A1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-921-45A1-headnote-1-line-group-1-line-1">R<hi rend="SMALL-CAPS">IDDLE</hi> LXII.</l></lg></head><head type="note" n="2" xml:id="spp-921-45A1-headnote-2"><lg n="1" xml:id="spp-921-45A1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-921-45A1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-921-45A1-headnote-3"><lg n="1" xml:id="spp-921-45A1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-921-45A1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-921-45A1-line-1"><hi rend="display-initial">C</hi>OME hither and behold the Fruits,</l><l n="2" xml:id="spp-921-45A1-line-2"> Vain Man, of all thy vain Pursuits.</l><l n="3" xml:id="spp-921-45A1-line-3"> Take wise Advice and look behind,</l><l n="4" xml:id="spp-921-45A1-line-4"> Bring all past Actions to thy Mind.</l><l n="5" xml:id="spp-921-45A1-line-5"> Here you may see, as in a Glass,</l><l n="6" xml:id="spp-921-45A1-line-6"> How soon all human Pleasures pass.</l><l n="7" xml:id="spp-921-45A1-line-7"> How will it mortify thy Pride,</l><l n="8" xml:id="spp-921-45A1-line-8"> To turn the true impartial Side!</l><l n="9" xml:id="spp-921-45A1-line-9"> How will your Eyes contain their Tears,</l><l n="10" xml:id="spp-921-45A1-line-10"> When all the sad Reverse appears!This Cave within its Womb confines</l><l n="11" xml:id="spp-921-45A1-line-11"> The last Result of all Designs:</l><l n="12" xml:id="spp-921-45A1-line-12"> Here lie deposited the Spoils</l><l n="13" xml:id="spp-921-45A1-line-13"> Of busy Mortals endless Toils:</l><l n="14" xml:id="spp-921-45A1-line-14"> Here, with an easy Search we find</l><l n="15" xml:id="spp-921-45A1-line-15"> The foul Corruptions of Mankind.</l><l n="16" xml:id="spp-921-45A1-line-16"> The wretched Purchase here behold</l><l n="17" xml:id="spp-921-45A1-line-17"> Of Traytors who their Country sold.This Gulph insatiable imbibes</l><l n="18" xml:id="spp-921-45A1-line-18"> The Lawyer's Fees, the Statesman's Bribes.</l><l n="19" xml:id="spp-921-45A1-line-19"> Here, in their proper Shape and Mein,</l><l n="20" xml:id="spp-921-45A1-line-20"> Fraud, Perjury, and Guilt are seen.Necessity, the Tyrant's Law,</l><l n="21" xml:id="spp-921-45A1-line-21"> All humane Race must hither draw:</l><l n="22" xml:id="spp-921-45A1-line-22"> All prompted by the same Desire,</l><l n="23" xml:id="spp-921-45A1-line-23"> The vig'rous Youth, and aged Sire:</l><l n="24" xml:id="spp-921-45A1-line-24"> Behold, the Coward, and the Brave,</l><l n="25" xml:id="spp-921-45A1-line-25"> The haughty Prince, the humble Slave,</l><l n="26" xml:id="spp-921-45A1-line-26"> Physician, Lawyer, and Divine,</l><l n="27" xml:id="spp-921-45A1-line-27"> All make Oblations at this Shrine.</l><l n="28" xml:id="spp-921-45A1-line-28"> Some enter boldly, some by Stealth,</l><l n="29" xml:id="spp-921-45A1-line-29"> And leave behind their fruitless Wealth.</l><l n="30" xml:id="spp-921-45A1-line-30"> For while the bashful Sylvan Maid,</l><l n="31" xml:id="spp-921-45A1-line-31"> As half asham'd, and half afraid,</l><l n="32" xml:id="spp-921-45A1-line-32"> Approaching, finds it hard to part</l><l n="33" xml:id="spp-921-45A1-line-33"> With that which dwelt so near her Heart;</l><l n="34" xml:id="spp-921-45A1-line-34"> The courtly Dame, unmov'd by Fear,</l><l n="35" xml:id="spp-921-45A1-line-35"> Profusely pours her Off'rings here.A Treasure here of Learning lurks;</l><l n="36" xml:id="spp-921-45A1-line-36"> Huge Heaps of never-dying Works;</l><l n="37" xml:id="spp-921-45A1-line-37"> Labours of many an antient Sage,</l><l n="38" xml:id="spp-921-45A1-line-38"> And Millions of the present Age.In at this Gulph all Off'rings pass,</l><l n="39" xml:id="spp-921-45A1-line-39"> And lie an undistinguish'd Mass.<hi rend="underline">Deucalion</hi>, to restore Mankind</l><l n="40" xml:id="spp-921-45A1-line-40"> Was bid to throw the Stones behind;</l><l n="41" xml:id="spp-921-45A1-line-41"> So, those who here their Gifts convey,</l><l n="42" xml:id="spp-921-45A1-line-42"> Are forc'd to look another Way;</l><l n="43" xml:id="spp-921-45A1-line-43"> For few, a chosen few, must know,</l><l n="44" xml:id="spp-921-45A1-line-44"> The Mysteries that lie below.Sad Charnel-house! a dismal Dome,</l><l n="45" xml:id="spp-921-45A1-line-45"> For which all Mortals leave their Home;</l><l n="46" xml:id="spp-921-45A1-line-46"> The Young, the Beautiful, and Brave,</l><l n="47" xml:id="spp-921-45A1-line-47"> Here bury'd in one common Grave;</l><l n="48" xml:id="spp-921-45A1-line-48"> Where each Supply of Dead renews</l><l n="49" xml:id="spp-921-45A1-line-49"> Unwholesome Damps, offensive Dews:</l><l n="50" xml:id="spp-921-45A1-line-50"> And lo! the Writing on the Walls</l><l n="51" xml:id="spp-921-45A1-line-51"> Points out where each new Victim falls;</l><l n="52" xml:id="spp-921-45A1-line-52"> The Food of Worms, and Beasts obscene,</l><l n="53" xml:id="spp-921-45A1-line-53"> Who round the Vault luxuriant reign.See where those mangled Corpses lie,</l><l n="54" xml:id="spp-921-45A1-line-54"> Condemn'd by Female Hands to die;</l><l n="55" xml:id="spp-921-45A1-line-55"> A comely Dame once clad in white,</l><l n="56" xml:id="spp-921-45A1-line-56"> Lies there consign'd to endless Night;</l><l n="57" xml:id="spp-921-45A1-line-57"> By cruel Hands her Blood was spilt,</l><l n="58" xml:id="spp-921-45A1-line-58"> And yet her Wealth was all her Guilt.And here six Virgins in a Tomb,</l><l n="59" xml:id="spp-921-45A1-line-59"> All beauteous Offspring of one Womb,</l><l n="60" xml:id="spp-921-45A1-line-60"> Oft in the Train of <hi rend="underline">Venus</hi> seen,</l><l n="61" xml:id="spp-921-45A1-line-61"> As fair and lovely as their Queen:</l><l n="62" xml:id="spp-921-45A1-line-62"> In Royal Garments each was drest,</l><l n="63" xml:id="spp-921-45A1-line-63"> Each with a Gold and Purple Vest;</l><l n="64" xml:id="spp-921-45A1-line-64"> I saw them of their Garments stript,</l><l n="65" xml:id="spp-921-45A1-line-65"> Their Throats were cut, their Bellies ript,</l><l n="66" xml:id="spp-921-45A1-line-66"> Twice were they bury'd, twice were born,</l><l n="67" xml:id="spp-921-45A1-line-67"> Twice from their Sepulchres were torn;</l><l n="68" xml:id="spp-921-45A1-line-68"> But, now dismember'd here are cast,</l><l n="69" xml:id="spp-921-45A1-line-69"> And find a resting Place at last.Here, oft the curious Trav'ler finds</l><l n="70" xml:id="spp-921-45A1-line-70"> The Combat of opposing Winds:</l><l n="71" xml:id="spp-921-45A1-line-71"> And seeks to learn the secret Cause,</l><l n="72" xml:id="spp-921-45A1-line-72"> Which alien seems from Nature's Laws;</l><l n="73" xml:id="spp-921-45A1-line-73"> Why at this Cave's tremendous Mouth,</l><l n="74" xml:id="spp-921-45A1-line-74"> He feels at once both North and South:</l><l n="75" xml:id="spp-921-45A1-line-75"> Whether the Winds in Caverns pent,</l><l n="76" xml:id="spp-921-45A1-line-76"> Through Clefts oppugnant force a Vent;</l><l n="77" xml:id="spp-921-45A1-line-77"> Or, whether, op'ning all his Stores,</l><l n="78" xml:id="spp-921-45A1-line-78"> Fierce <hi rend="underline"><unclear>AE</unclear>olus</hi> in Tempest roars.Yet from this mangled Mass of Things,</l><l n="79" xml:id="spp-921-45A1-line-79"> In Time a new Creation springs.</l><l n="80" xml:id="spp-921-45A1-line-80"> These crude Materials once shall rise,</l><l n="81" xml:id="spp-921-45A1-line-81"> To fill the Earth, and Air, and Skies:</l><l n="82" xml:id="spp-921-45A1-line-82"> In various Forms appear agen</l><l n="83" xml:id="spp-921-45A1-line-83"> Of Vegetables, Brutes, and Men.</l><l n="84" xml:id="spp-921-45A1-line-84"> So <hi rend="underline">Jove</hi> pronounc'd among the Gods,<hi rend="underline">Olympus</hi> trembling as he nods.921-45A1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

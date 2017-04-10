@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To Lady CARTERET;</title>
+        <title>A <hi rend="underline">Riddle</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CLee"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="936-29L-" type="poem"><head type="note" n="1" xml:id="spp-936-29L--headnote-1"><lg n="1" xml:id="spp-936-29L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-936-29L--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-936-29L--headnote-2"><lg n="1" xml:id="spp-936-29L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-936-29L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-936-29L--headnote-3"><lg n="1" xml:id="spp-936-29L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-936-29L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-936-29L--line-1"><hi rend="display-initial">O</hi>F all Inhabitants on Earth,</l><l n="2" xml:id="spp-936-29L--line-2"> To Man alone I owe my Birth,</l><l n="3" xml:id="spp-936-29L--line-3"> And yet the Cow, the Sheep, the Bee,</l><l n="4" xml:id="spp-936-29L--line-4"> Are all my Parents more than he:</l><l n="5" xml:id="spp-936-29L--line-5"> I, a Virtue, strange and rare,</l><l n="6" xml:id="spp-936-29L--line-6"> Make the fairest look more fair;</l><l n="7" xml:id="spp-936-29L--line-7"> And my self, which yet is rarer,</l><l n="8" xml:id="spp-936-29L--line-8"> Growing old, grow still the fairer.</l><l n="9" xml:id="spp-936-29L--line-9"> Like Sots, alone I'm dull enough,</l><l n="10" xml:id="spp-936-29L--line-10"> When dos'd with Smoak, and smear'd with Snuff:</l><l n="11" xml:id="spp-936-29L--line-11"> But in the midst of Mirth, and Wine,</l><l n="12" xml:id="spp-936-29L--line-12"> I with double Lustre shine.</l><l n="13" xml:id="spp-936-29L--line-13"> Emblem of the Fair am I,</l><l n="14" xml:id="spp-936-29L--line-14"> Polish'd Neck, and radiant Eye;</l><l n="15" xml:id="spp-936-29L--line-15"> In my Eye my greatest Grace,</l><l n="16" xml:id="spp-936-29L--line-16"> Emblem of the <hi rend="underline">Cyclops</hi> Race;</l><l n="17" xml:id="spp-936-29L--line-17"> Metals, I like them subdue,</l><l n="18" xml:id="spp-936-29L--line-18"> Slave like them, to V<hi rend="SMALL-CAPS">ULCAN</hi> too.</l><l n="19" xml:id="spp-936-29L--line-19"> Emblem of a Monarch old,</l><l n="20" xml:id="spp-936-29L--line-20"> Wise, and Glorious to behold;</l><l n="21" xml:id="spp-936-29L--line-21"> Wasted he appears, and pale,</l><l n="22" xml:id="spp-936-29L--line-22"> Watching for the publick Weal;</l><l n="23" xml:id="spp-936-29L--line-23"> Emblem of the bashful Dame,</l><l n="24" xml:id="spp-936-29L--line-24"> That in secret feeds her Flame,</l><l n="25" xml:id="spp-936-29L--line-25"> Often aiding to impart,</l><l n="26" xml:id="spp-936-29L--line-26"> All the Secrets of her Heart:<gap/><gap/><gap/><gap/></l><l n="27" xml:id="spp-936-29L--line-27"> Various is my Bulk and Hue,</l><l n="28" xml:id="spp-936-29L--line-28"> Big like B<hi rend="SMALL-CAPS">ESS</hi>, and small like S<hi rend="SMALL-CAPS">UE</hi>;<gap/><gap/></l><l n="29" xml:id="spp-936-29L--line-29"> Often fair, and soft, and tender,</l><l n="30" xml:id="spp-936-29L--line-30"> Taper, tall, and smooth, and slender;</l><l n="31" xml:id="spp-936-29L--line-31"> Like F<hi rend="SMALL-CAPS">LORA</hi> deck'd with fairest Flowers,</l><l n="32" xml:id="spp-936-29L--line-32"> Like P<hi rend="SMALL-CAPS">HEBUS</hi>, Guardian of the Hours:</l><l n="33" xml:id="spp-936-29L--line-33"> But, whatever be my Dress,</l><l n="34" xml:id="spp-936-29L--line-34"> Greater be my Size or less,</l><l n="35" xml:id="spp-936-29L--line-35"> Swelling be my Shape or small,</l><l n="36" xml:id="spp-936-29L--line-36"> Like thy self I shine in all:</l><l n="37" xml:id="spp-936-29L--line-37"> Clouded, if my Face is seen,</l><l n="38" xml:id="spp-936-29L--line-38"> My Complexion wan and green,</l><l n="39" xml:id="spp-936-29L--line-39"> Languid like a love-sick Maid,</l><l n="40" xml:id="spp-936-29L--line-40"> Steel affords me present Aid.</l><l n="41" xml:id="spp-936-29L--line-41"> Soon or late, my Date is done,</l><l n="42" xml:id="spp-936-29L--line-42"> As my Thread of Life is spun;</l><l n="43" xml:id="spp-936-29L--line-43"> Yet to cut the fatal Thread,</l><l n="44" xml:id="spp-936-29L--line-44"> Oft, revives my drooping Head:</l><l n="45" xml:id="spp-936-29L--line-45"> Yet I perish in my Prime,</l><l n="46" xml:id="spp-936-29L--line-46"> Seldom by the Death of Time;<gap/><gap/><gap/><gap/></l><l n="47" xml:id="spp-936-29L--line-47"> Die like Lovers as they gaze,</l><l n="48" xml:id="spp-936-29L--line-48"> Die for those I live to please;</l><l n="49" xml:id="spp-936-29L--line-49"> Pine unpitied to my Urn,</l><l n="50" xml:id="spp-936-29L--line-50"> Nor warm the Fair for whom I burn:</l><l n="51" xml:id="spp-936-29L--line-51"> Unpitied, unlamented too,</l><l n="52" xml:id="spp-936-29L--line-52"> Die like all that look on you.936-29L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

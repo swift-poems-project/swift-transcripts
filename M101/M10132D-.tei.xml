@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">Namby Pamby</hi>:</title>
+        <title>OR,</title>
+        <title>A Pon the New V<hi rend="SMALL-CAPS">ERSIFI-</hi></title>
+        <title><hi rend="SMALL-CAPS">CATION</hi> address'd to <hi rend="underline">A──P</hi>──  Esq.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M10132D-" type="poem"><head type="note" n="1" xml:id="spp-M10132D--headnote-1"><lg n="1" xml:id="spp-M10132D--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M10132D--headnote-1-line-group-1-line-1"><hi rend="underline">Nauty Pauty </hi>Jack-a-Dandy<hi rend="underline"> <lb/>  Stole a Piece of Sugar-Candy <lb/>  From the Grocer's Shoppy-Shop, <lb/> And away did Hoppy-Hop</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-M10132D--headnote-2"><lg n="1" xml:id="spp-M10132D--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M10132D--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M10132D--headnote-3"><lg n="1" xml:id="spp-M10132D--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M10132D--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-M10132D--line-1"><hi rend="display-initial">A</hi>LL ye Poets of the Age,</l><l n="2" xml:id="spp-M10132D--line-2"> All ye Witlings of the Stage,</l><l n="3" xml:id="spp-M10132D--line-3"> Learn your Jingles to reform;</l><l n="4" xml:id="spp-M10132D--line-4"> Crop your Numbers, and conform.</l><l n="5" xml:id="spp-M10132D--line-5"> Let your little Verses flow</l><l n="6" xml:id="spp-M10132D--line-6"> Gently, sweetly, Row by Row:</l><l n="7" xml:id="spp-M10132D--line-7"> Let the Verse the Subject fit;</l><l n="8" xml:id="spp-M10132D--line-8"> Little Subject, little Wit:<hi rend="underline">Namby Pamby</hi> is your Guide;<hi rend="underline">Albion</hi>'s Joy, <hi rend="underline">Hibernia</hi>'s Pride.<hi rend="underline">Namby Pamby Phillip-is</hi>,</l><l n="9" xml:id="spp-M10132D--line-9"> Rhimy pim'd on Missy-Miss;<hi rend="underline">Tartaretta Tartaree</hi></l><l n="10" xml:id="spp-M10132D--line-10"> From the Navel to the Knee;</l><l n="11" xml:id="spp-M10132D--line-11"> That her Father's Gracy-Grace</l><l n="12" xml:id="spp-M10132D--line-12"> Might give him a Placy-Place</l><l n="13" xml:id="spp-M10132D--line-13"> He no longer writes of Mammy<hi rend="underline">Andromache</hi> and her Lammy</l><l n="14" xml:id="spp-M10132D--line-14"> Hanging panging at the Breast</l><l n="15" xml:id="spp-M10132D--line-15"> Of a Matron most distrest.</l><l n="16" xml:id="spp-M10132D--line-16"> Now the Venal Poet sings</l><l n="17" xml:id="spp-M10132D--line-17"> Baby Clouts, and Baby Things,</l><l n="18" xml:id="spp-M10132D--line-18"> Baby-Dolls, and Baby-Houses,</l><l n="19" xml:id="spp-M10132D--line-19"> Little Misses, Little Spouses,</l><l n="20" xml:id="spp-M10132D--line-20"> Little Play-Things, Little Toys,</l><l n="21" xml:id="spp-M10132D--line-21"> Little Girls, and Little Boys:</l><l n="22" xml:id="spp-M10132D--line-22"> As an Actor does his Part,</l><l n="23" xml:id="spp-M10132D--line-23"> So the Nurses get by Heart<hi rend="underline">Namby Pamby</hi>'s Little Rhimes,</l><l n="24" xml:id="spp-M10132D--line-24"> Little Jingle, Little Chimes,</l><l n="25" xml:id="spp-M10132D--line-25"> To repeat to little Miss,</l><l n="26" xml:id="spp-M10132D--line-26"> Piddling Ponds of Pissy-Piss;</l><l n="27" xml:id="spp-M10132D--line-27"> Cacking packing like a Lady,</l><l n="28" xml:id="spp-M10132D--line-28"> Or Bye-bying in the Crady.<hi rend="underline">Namby Pamby</hi> ne'er will die</l><l n="29" xml:id="spp-M10132D--line-29"> While the Nurse sings <hi rend="underline">Lullabye.</hi>'s doubly Mild,</l><l n="30" xml:id="spp-M10132D--line-30"> Namby Pamby</l><l n="31" xml:id="spp-M10132D--line-31"> Once a Man, and twice a Child;</l><l n="32" xml:id="spp-M10132D--line-32"> To his Hanging Sleeves restor'd;</l><l n="33" xml:id="spp-M10132D--line-33"> Now he foots it like a Lord;</l><l n="34" xml:id="spp-M10132D--line-34"> Now he Pumps his little Wits;</l><l n="35" xml:id="spp-M10132D--line-35"> Sh────ing Writes, and Writing Sh────s,</l><l n="36" xml:id="spp-M10132D--line-36"> All by little tiny Bits.</l><l n="37" xml:id="spp-M10132D--line-37"> Now methinks I hear him say,<hi rend="underline">Boys and Girls, Come out to Play,</hi>.</l><l n="38" xml:id="spp-M10132D--line-38"> Moon do's shine as bright as Day</l><l n="39" xml:id="spp-M10132D--line-39"> Now my <hi rend="underline">Namby Pamby</hi>'s found,</l><l n="40" xml:id="spp-M10132D--line-40"> Sitting on the <hi rend="underline">Friar's Ground,</hi>'s never Old.<hi rend="underline">Bally-Cally</hi> they begin,<hi rend="underline">Namby Pamby</hi> still keeps-in.<hi rend="underline">Namby Pamby</hi> is no Clown,<hi rend="underline">London-Bridge is broken down</hi>:</l><l n="41" xml:id="spp-M10132D--line-41"> Picking Silver, picking Gold,</l><l n="42" xml:id="spp-M10132D--line-42"> Namby Pamby</l><l n="43" xml:id="spp-M10132D--line-43"> Now he <hi rend="underline">courts the gay Ladee,</hi>:</l><l n="44" xml:id="spp-M10132D--line-44"> Dancing o'er the Lady-Lee</l><l n="45" xml:id="spp-M10132D--line-45"> Now he sings of <hi rend="underline">Lick-spit Lyar</hi>:</l><l n="46" xml:id="spp-M10132D--line-46"> Burning in the Brimstone Fire;</l><l n="47" xml:id="spp-M10132D--line-47"> Lyar, Lyar, Lick-spit, Lick,</l><l n="48" xml:id="spp-M10132D--line-48"> Turn about the Candle-stick</l><l n="49" xml:id="spp-M10132D--line-49"> Now he sings of <hi rend="underline">Jackey-Horner</hi>, Oh, fie!<hi rend="underline">Putting in, </hi>Oh, fie<hi rend="underline">! his Thumb,</hi>Oh, strange! <hi rend="underline">a Plum</hi>.</l><l n="50" xml:id="spp-M10132D--line-50"> Sitting in the Chimney-corner,</l><l n="51" xml:id="spp-M10132D--line-51"> Eating of a Christmas Pie,</l><l n="52" xml:id="spp-M10132D--line-52"> Putting in his Thumb</l><l n="53" xml:id="spp-M10132D--line-53"> Pulling out, </l><l n="54" xml:id="spp-M10132D--line-54"> And again, how <hi rend="underline">Nancy Cock</hi>,</l><l n="55" xml:id="spp-M10132D--line-55"> Nasty Girl! <hi rend="underline">besh---t her Smock</hi>.</l><l n="56" xml:id="spp-M10132D--line-56"> Now he acts the <hi rend="underline">Granadier</hi>,</l><l n="57" xml:id="spp-M10132D--line-57"> Calling for <hi rend="underline">a Pot of Beer:</hi>.</l><l n="58" xml:id="spp-M10132D--line-58"> Where's his Money? He's forgot:</l><l n="59" xml:id="spp-M10132D--line-59"> Get him gone, a Drunken Sot</l><l n="60" xml:id="spp-M10132D--line-60"> Now on <hi rend="underline">Cock-Horse</hi> does he ride;</l><l n="61" xml:id="spp-M10132D--line-61"> And anon on Timber stride,<hi rend="underline">See-and-Saw and Sacch'ry down,</hi>London<hi rend="underline"> is a gallant Town</hi>.</l><l n="62" xml:id="spp-M10132D--line-62"> Now he gathers Riches in,</l><l n="63" xml:id="spp-M10132D--line-63"> Thicker, faster, Pin by Pin;<hi rend="underline">Pins a-piece to see his Show</hi>;</l><l n="64" xml:id="spp-M10132D--line-64"> Boys and Girls flock Row by Row;</l><l n="65" xml:id="spp-M10132D--line-65"> From their Cloaths the Pins they take,</l><l n="66" xml:id="spp-M10132D--line-66"> Risque a Whipping for his Sake;</l><l n="67" xml:id="spp-M10132D--line-67"> From their Frocks the Pins they pull,</l><l n="68" xml:id="spp-M10132D--line-68"> To fill <hi rend="underline">Namby</hi>'s Cushion full.</l><l n="69" xml:id="spp-M10132D--line-69"> So much Wit at such an Age,</l><l n="70" xml:id="spp-M10132D--line-70"> Does a Genius great presage.</l><l n="71" xml:id="spp-M10132D--line-71"> Second Childhood gone and past,</l><l n="72" xml:id="spp-M10132D--line-72"> Shou'd he prove a Man at last,</l><l n="73" xml:id="spp-M10132D--line-73"> What must Second Manhood be,</l><l n="74" xml:id="spp-M10132D--line-74"> In a Child so bright as he!</l></lg><lg n="2" type="stanza"><l n="75" xml:id="spp-M10132D--line-75">G<hi rend="SMALL-CAPS">UARD</hi> him, ye Poetic Powers;</l><l n="76" xml:id="spp-M10132D--line-76"> Watch his Minutes, watch his Hours,</l><l n="77" xml:id="spp-M10132D--line-77"> Let your Tuneful <hi rend="underline">Nine</hi> inspire him:</l><l n="78" xml:id="spp-M10132D--line-78"> Let Poetick Fury fire him:</l><l n="79" xml:id="spp-M10132D--line-79"> Let the Poets one and all</l><l n="80" xml:id="spp-M10132D--line-80"> To his Genius Victims fall.M10132D-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

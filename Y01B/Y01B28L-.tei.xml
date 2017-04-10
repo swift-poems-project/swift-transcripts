@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">The Original of </hi>Punning<hi rend="underline">, from</hi> P<hi rend="SMALL-CAPS">LATO</hi>'s<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CLee"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y01B28L-" type="poem"><head type="note" n="1" xml:id="spp-Y01B28L--headnote-1"><lg n="1" xml:id="spp-Y01B28L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y01B28L--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y01B28L--headnote-2"><lg n="1" xml:id="spp-Y01B28L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y01B28L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y01B28L--headnote-3"><lg n="1" xml:id="spp-Y01B28L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y01B28L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y01B28L--line-1"><hi rend="display-initial">O</hi>NCE on a Time, in merry Mood,</l><l n="2" xml:id="spp-Y01B28L--line-2"> Jove made a <hi rend="underline">Pun</hi> of Flesh and Blood;</l><l n="3" xml:id="spp-Y01B28L--line-3"> A double, two-fac'd living Creature,<hi rend="underline">Androgynos</hi>, of Two-fold Nature;</l><l n="4" xml:id="spp-Y01B28L--line-4"> For Back to Back, with single Skin,</l><l n="5" xml:id="spp-Y01B28L--line-5"> He bound the Male and Female in;</l><l n="6" xml:id="spp-Y01B28L--line-6"> So much alike, so near the same,</l><l n="7" xml:id="spp-Y01B28L--line-7"> They stuck as closely as their Name.</l><l n="8" xml:id="spp-Y01B28L--line-8"> Whatever Words the <hi rend="underline">Male</hi> exprest,</l><l n="9" xml:id="spp-Y01B28L--line-9"> The <hi rend="underline">Female</hi> turn'd them to a Jest;</l><l n="10" xml:id="spp-Y01B28L--line-10"> Whatever Words the <hi rend="underline">Female</hi> spoke;</l><l n="11" xml:id="spp-Y01B28L--line-11"> The <hi rend="underline">Male</hi> converted to a Joke:</l><l n="12" xml:id="spp-Y01B28L--line-12"> So, in this Form of Man and Wife,</l><l n="13" xml:id="spp-Y01B28L--line-13"> They led a merry <hi rend="underline">Punning</hi> Life.</l></lg><lg n="2" type="stanza"><l n="14" xml:id="spp-Y01B28L--line-14">The Gods from Heav'n descend to Earth,&#13;</l><l n="15" xml:id="spp-Y01B28L--line-15"> Drawn down by their alluring Mirth;</l><l n="16" xml:id="spp-Y01B28L--line-16"> So well they seem'd to like the Sport,<hi rend="underline">Jove</hi> cou'd not get them back to Court.</l><l n="17" xml:id="spp-Y01B28L--line-17"> Th' Infernal Gods ascend as well,</l><l n="18" xml:id="spp-Y01B28L--line-18"> Drawn up by magick <hi rend="underline">Puns</hi> from Hell.</l><l n="19" xml:id="spp-Y01B28L--line-19"> Judges and Furies quit their Post,</l><l n="20" xml:id="spp-Y01B28L--line-20"> And not a Soul to mind a Ghost.</l><l n="21" xml:id="spp-Y01B28L--line-21"> Hey day! says <hi rend="underline">Jove</hi>; says <hi rend="underline">Pluto</hi> too,</l><l n="22" xml:id="spp-Y01B28L--line-22"> I think the Devil's here to do;</l><l n="23" xml:id="spp-Y01B28L--line-23"> Here's Hell broke loose, and Heavn's quite empty,</l><l n="24" xml:id="spp-Y01B28L--line-24"> We scarce have left one God in Twenty:</l><l n="25" xml:id="spp-Y01B28L--line-25"> Pray, what has set them all a running?</l><l n="26" xml:id="spp-Y01B28L--line-26"> Dear Brother, nothing else but <hi rend="underline">Punning</hi>.</l><l n="27" xml:id="spp-Y01B28L--line-27"> Behold that double Creature yonder,</l><l n="28" xml:id="spp-Y01B28L--line-28"> Delights them with a double <hi rend="underline">Entendre</hi>.</l><l n="29" xml:id="spp-Y01B28L--line-29"> Ods-fish, says <hi rend="underline">Pluto</hi>, where's your Thunder,</l><l n="30" xml:id="spp-Y01B28L--line-30"> Let drive, and split this Thing asunder.</l><l n="31" xml:id="spp-Y01B28L--line-31"> That's right, quoth <hi rend="underline">Jove</hi>; with that he threw</l><l n="32" xml:id="spp-Y01B28L--line-32"> A Bolt, and split it into Two;</l><l n="33" xml:id="spp-Y01B28L--line-33"> And when the Thing was split in Twain,</l><l n="34" xml:id="spp-Y01B28L--line-34"> Why then it <hi rend="underline">Punn'd</hi> as much again.</l><l n="35" xml:id="spp-Y01B28L--line-35"> 'Tis thus that Diamonds we refine,</l><l n="36" xml:id="spp-Y01B28L--line-36"> The more we cut, the more they shine;</l><l n="37" xml:id="spp-Y01B28L--line-37"> And ever since, your Men of Wit,</l><l n="38" xml:id="spp-Y01B28L--line-38"> Until they're Cut, can't <hi rend="underline">Pun</hi> a Bit.</l><l n="39" xml:id="spp-Y01B28L--line-39"> So take a <hi rend="underline">Starling</hi> when 'tis young,</l><l n="40" xml:id="spp-Y01B28L--line-40"> And down the Middle slit the Tongue,</l><l n="41" xml:id="spp-Y01B28L--line-41"> With Groat or Six-pence, 'tis no Matter,</l><l n="42" xml:id="spp-Y01B28L--line-42"> You'll find the Bird will doubly chatter.</l><l n="43" xml:id="spp-Y01B28L--line-43"> Upon the whole, dear <hi rend="underline">Pluto</hi> you know,</l><l n="44" xml:id="spp-Y01B28L--line-44"> 'Tis well I did not split my <hi rend="underline">Juno</hi>:</l><l n="45" xml:id="spp-Y01B28L--line-45"> For had I don't, whene'er she'd scold me</l><l n="46" xml:id="spp-Y01B28L--line-46"> She'd make the Heav'ns too hot to hold me,</l><l n="47" xml:id="spp-Y01B28L--line-47"> The Gods upon this Application,</l><l n="48" xml:id="spp-Y01B28L--line-48"> Return'd each to his Habitation,</l><l n="49" xml:id="spp-Y01B28L--line-49"> Extreamly pleas'd with this new Joke,</l><l n="50" xml:id="spp-Y01B28L--line-50"> The best, they swore, he ever spoke.Y01B28L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

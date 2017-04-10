@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Probatur aliter.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="942-001A" type="poem"><head type="note" n="1" xml:id="spp-942-001A-headnote-1"><lg n="1" xml:id="spp-942-001A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-942-001A-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-942-001A-headnote-2"><lg n="1" xml:id="spp-942-001A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-942-001A-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-942-001A-headnote-3"><lg n="1" xml:id="spp-942-001A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-942-001A-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-942-001A-line-1" rend="align(center)">1</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-942-001A-line-2" rend="flush left">A long·ear'd beast &amp; a field-house for cattle&#13;</l><l n="3" xml:id="spp-942-001A-line-3" rend="align(center)"> Among the Coals does often rattle.3</l></lg><lg n="3" type="stanza"><l n="4" xml:id="spp-942-001A-line-4" rend="flush left">A long·ear'd beast &amp; a bird that prates&#13;</l><l n="5" xml:id="spp-942-001A-line-5"> The bridegroom's first gift to their Mates</l><l n="6" xml:id="spp-942-001A-line-6"> Is by all pious Christians thought</l><l n="7" xml:id="spp-942-001A-line-7" rend="align(center)"> In Clergymen the greatest fault.4</l></lg><lg n="4" type="stanza"><l n="8" xml:id="spp-942-001A-line-8" rend="flush left">A long·ear'd beast &amp; woman of Endor,&#13;</l><l n="9" xml:id="spp-942-001A-line-9" rend="align(center)"> If your wife be a scold, that will mend her.5</l></lg><lg n="5" type="stanza"><l n="10" xml:id="spp-942-001A-line-10" rend="flush left">With a long·ear'd beast, and Med'cines use,&#13;</l><l n="11" xml:id="spp-942-001A-line-11" rend="align(center)"> Cooks make their fowl look light &amp; spruce.6</l></lg><lg n="6" type="stanza"><l n="12" xml:id="spp-942-001A-line-12" rend="flush left">A long·ear'd beast &amp; holy fable,&#13;</l><l n="13" xml:id="spp-942-001A-line-13" rend="align(center)"> Strengthens the shoes of half the rabble.7</l></lg><lg n="7" type="stanza"><l n="14" xml:id="spp-942-001A-line-14" rend="flush left">A long·ear'd beast &amp; Rhenish wine,&#13;</l><l n="15" xml:id="spp-942-001A-line-15" rend="align(center)"> Lies in the lap of Ladies fine.2</l></lg><lg n="8" type="stanza"><l n="16" xml:id="spp-942-001A-line-16" rend="flush left">A long·ear'd beast and Flanders college&#13;</l><l n="17" xml:id="spp-942-001A-line-17" rend="align(center)"> Is Dr. T────l to my knowledge.8</l></lg><lg n="9" type="stanza"><l n="18" xml:id="spp-942-001A-line-18" rend="flush left">A long-ear'd beast and Building knight;&#13;</l><l n="19" xml:id="spp-942-001A-line-19" rend="align(center)"> Censorious people do in spight.9</l></lg><lg n="10" type="stanza"><l n="20" xml:id="spp-942-001A-line-20" rend="flush left">A long·ear'd beast &amp; bird of night,&#13;</l><l n="21" xml:id="spp-942-001A-line-21" rend="align(center)"> We sinners are too apt to slight.10</l></lg><lg n="11" type="stanza"><l n="22" xml:id="spp-942-001A-line-22" rend="flush left">A long-Ear'd beast &amp; shameful vermin,&#13;</l><l n="23" xml:id="spp-942-001A-line-23" rend="align(center)"> A Judge will eat, tho clad in ermine.11</l></lg><lg n="12" type="stanza"><l n="24" xml:id="spp-942-001A-line-24" rend="flush left">A long·ear'd beast &amp; Irish Cart,&#13;</l><l n="25" xml:id="spp-942-001A-line-25" rend="align(center)"> Can leave a mark and give a smart.12</l></lg><lg n="13" type="stanza"><l n="26" xml:id="spp-942-001A-line-26" rend="flush left">A long·ear'd beast in mud to lie,&#13;</l><l n="27" xml:id="spp-942-001A-line-27" rend="align(center)"> No bird in air so swift can flie.13</l></lg><lg n="14" type="stanza"><l n="28" xml:id="spp-942-001A-line-28" rend="flush left">A long·ear'd beast and sputt'ring old Whig,&#13;</l><l n="29" xml:id="spp-942-001A-line-29" rend="align(center)"> I wish he were in and dancing a Jig.14</l></lg><lg n="15" type="stanza"><l n="30" xml:id="spp-942-001A-line-30" rend="flush left">A long·ear'd beast, &amp; liquor to write,&#13;</l><l n="31" xml:id="spp-942-001A-line-31" rend="align(center)"> Is a damnable smell both morning and night.15</l></lg><lg n="16" type="stanza"><l n="32" xml:id="spp-942-001A-line-32" rend="flush left">A long·ear'd beast, &amp; child of a Sheep,&#13;</l><l n="33" xml:id="spp-942-001A-line-33" rend="align(center)"> A Whist they will make a desperate sweep.16</l></lg><lg n="17" type="stanza"><l n="34" xml:id="spp-942-001A-line-34" rend="flush left">A long·ear'd beast &amp; till midnight you stay,&#13;</l><l n="35" xml:id="spp-942-001A-line-35" rend="align(center)"> Will cover a house much better than clay.17</l></lg><lg n="18" type="stanza"><l n="36" xml:id="spp-942-001A-line-36" rend="flush left">A long·ear'd beast, &amp; the drink you love best,&#13;</l><l n="37" xml:id="spp-942-001A-line-37" rend="align(center)"> You call him a sloven in earnest or jest.18</l></lg><lg n="19" type="stanza"><l n="38" xml:id="spp-942-001A-line-38" rend="flush left">A long·ear'd beast &amp; the sixteenth Letter&#13;</l><l n="39" xml:id="spp-942-001A-line-39" rend="align(center)"> I'd not look at all, unless I look'd better.19</l></lg><lg n="20" type="stanza"><l n="40" xml:id="spp-942-001A-line-40" rend="flush left">A long·ear'd beast give me, and Eggs unsound&#13;</l><l n="41" xml:id="spp-942-001A-line-41" rend="align(center)"> Or else I will not ride one inch of Ground.20</l></lg><lg n="21" type="stanza"><l n="42" xml:id="spp-942-001A-line-42" rend="flush left">A long·ear'd beast, another name for Jeer,&#13;</l><l n="43" xml:id="spp-942-001A-line-43" rend="align(center)"> To ladies skins there's nothing comes so near.21</l></lg><lg n="22" type="stanza"><l n="44" xml:id="spp-942-001A-line-44" rend="flush left">A long·ear'd beast and kind noise of a Cat,&#13;</l><l n="45" xml:id="spp-942-001A-line-45" rend="align(center)"> Is useful in Journies, take notice of that.22</l></lg><lg n="23" type="stanza"><l n="46" xml:id="spp-942-001A-line-46" rend="flush left">A long·ear'd beast and what seasons yr beef&#13;</l><l n="47" xml:id="spp-942-001A-line-47" rend="align(center)"> On such an Occasion the Law gives relief.23</l></lg><lg n="24" type="stanza"><l n="48" xml:id="spp-942-001A-line-48" rend="flush left">A long·ear'd beast, a thing that force must drive in&#13;</l><l n="49" xml:id="spp-942-001A-line-49"> Bears up his house, that's of his own contriving.942-001A   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

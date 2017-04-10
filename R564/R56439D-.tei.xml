@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">The</hi> E<hi rend="SMALL-CAPS">LEPHANT</hi>: <hi rend="underline">or, The Parliament</hi></title>
+        <title>
+          <hi rend="underline">Man; written many Years since. Taken</hi>
+        </title>
+        <title><hi rend="underline">from </hi>Coke<hi rend="underline">'s Institutes</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R56439D-" type="poem"><head type="note" n="1" xml:id="spp-R56439D--headnote-1"><lg n="1" xml:id="spp-R56439D--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-R56439D--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-R56439D--headnote-2"><lg n="1" xml:id="spp-R56439D--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-R56439D--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-R56439D--headnote-3"><lg n="1" xml:id="spp-R56439D--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-R56439D--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-R56439D--line-1"><hi rend="display-initial">E</hi>'ER Bribes convince you whom to chuse,</l><l n="2" xml:id="spp-R56439D--line-2"> The Precepts of Lord <hi rend="underline">Coke</hi> peruse.</l><l n="3" xml:id="spp-R56439D--line-3"> Observe an <hi rend="underline">Elephant</hi>, says he,</l><l n="4" xml:id="spp-R56439D--line-4"> And let like him your Member be:</l><l n="5" xml:id="spp-R56439D--line-5"> First take a Man that's free from <hi rend="underline">Gall</hi>;</l><l n="6" xml:id="spp-R56439D--line-6"> For Elephants have none at all.</l><l n="7" xml:id="spp-R56439D--line-7"> In <hi rend="underline">Flocks</hi> or <hi rend="underline">Parties</hi> he must keep;</l><l n="8" xml:id="spp-R56439D--line-8"> For Elephants live just like Sheep:<hi rend="underline">Stubborn</hi> in Honour he must be;</l><l n="9" xml:id="spp-R56439D--line-9"> For Elephants <hi rend="underline">ne'er bend the knee</hi>:</l><l n="10" xml:id="spp-R56439D--line-10"> Last let his Memory be sound,</l><l n="11" xml:id="spp-R56439D--line-11"> In which your Elephant's profound;</l><l n="12" xml:id="spp-R56439D--line-12"> That <hi rend="underline">old Examples</hi> from the Wise,</l><l n="13" xml:id="spp-R56439D--line-13"> May prompt him in his No's and I's.Thus the Lord <hi rend="underline">Coke</hi> hath gravely writ,</l><l n="14" xml:id="spp-R56439D--line-14"> In all the Form of Lawyer's Wit;</l><l n="15" xml:id="spp-R56439D--line-15"> And then with <hi rend="underline">Latin</hi>, and all that,</l><l n="16" xml:id="spp-R56439D--line-16"> Shews the Comparison is pat.Yet in some Points my Lord is wrong;</l><l n="17" xml:id="spp-R56439D--line-17"> One's <hi rend="underline">Teeth</hi> are sold, and t'other's <hi rend="underline">Tongue</hi>:</l><l n="18" xml:id="spp-R56439D--line-18"> Now Men of Parliament, God knows,</l><l n="19" xml:id="spp-R56439D--line-19"> Are more like <hi rend="underline">Elephants of Shows</hi>;</l><l n="20" xml:id="spp-R56439D--line-20"> Whose docile Memory and Sense</l><l n="21" xml:id="spp-R56439D--line-21"> Are turn'd to trick, to gather Pence.</l><l n="22" xml:id="spp-R56439D--line-22"> To get their Master half a Crown,</l><l n="23" xml:id="spp-R56439D--line-23"> They spread the Flag, or lay it down.</l><l n="24" xml:id="spp-R56439D--line-24"> Those who bore Bulwarks on their Backs,</l><l n="25" xml:id="spp-R56439D--line-25"> And guarded Nations from Attacks,</l><l n="26" xml:id="spp-R56439D--line-26"> Now practice every pliant Gesture</l><l n="27" xml:id="spp-R56439D--line-27"> Op'ning their Trunk for ev'ry Tester.<hi rend="underline">Siam</hi>, for Elephants so fam'd,</l><l n="28" xml:id="spp-R56439D--line-28"> Is not with <hi rend="underline">England</hi> to be nam'd:</l><l n="29" xml:id="spp-R56439D--line-29"> Their Elephants by Men are sold;</l><l n="30" xml:id="spp-R56439D--line-30"> Ours sell themselves, and take the Gold.R56439D-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

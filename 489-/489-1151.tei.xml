@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-489-1151-title-1">A Dialogue between an eminent <ref target="#spp-489-1151-footnote-title-1">1</ref><note n="1" xml:id="spp-489-1151-footnote-title-1" place="foot"><hi rend="underline">Mr</hi>. L<hi rend="SMALL-CAPS">INDSAY</hi> <hi rend="underline">who, was afterwards a Judge of the</hi> Common-Pleas.</note> Lawyer,</title>
+        <title>and Dr. S<hi rend="SMALL-CAPS">WIFT</hi>, D. S. P. D. Being an</title>
+        <title>Allusion to the First Satyr or the Second</title>
+        <title>Book of <hi rend="underline">Horace,──Sunt quibus in Satyra</hi>, &amp;c.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-489-1151-footnote-title-1 #spp-489-1151-title-1"/>
+          <link target="#spp-489-1151-footnote-1 #spp-489-1151-line-25"/>
+          <link target="#spp-489-1151-footnote-2 #spp-489-1151-line-27"/>
+          <link target="#spp-489-1151-footnote-3 #spp-489-1151-line-29"/>
+          <link target="#spp-489-1151-footnote-4 #spp-489-1151-line-55"/>
+        </linkGrp>
+        <div n="489-1151" type="poem"><head type="note" n="1" xml:id="spp-489-1151-headnote-1"><lg n="1" xml:id="spp-489-1151-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-489-1151-headnote-1-line-group-1-line-1">Written <hi rend="underline">Feb</hi>. 1728.</l></lg></head><head type="note" n="2" xml:id="spp-489-1151-headnote-2"><lg n="1" xml:id="spp-489-1151-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-489-1151-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-489-1151-headnote-3"><lg n="1" xml:id="spp-489-1151-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-489-1151-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-489-1151-line-1"><hi rend="display-initial">S</hi>INCE there are Persons who complain</l><l n="2" xml:id="spp-489-1151-line-2"> There's too much Satyr in my Vein,</l><l n="3" xml:id="spp-489-1151-line-3"> That I am often found exceeding</l><l n="4" xml:id="spp-489-1151-line-4"> The Rules of Raillery and Breeding,</l><l n="5" xml:id="spp-489-1151-line-5"> With too much Freedom treat my Betters,</l><l n="6" xml:id="spp-489-1151-line-6"> Not sparing even Men of Letters:</l><l n="7" xml:id="spp-489-1151-line-7"> You, who are skill'd in Lawyers' Lore,</l><l n="8" xml:id="spp-489-1151-line-8"> What's your Advice? Shall I give o'er,</l><l n="9" xml:id="spp-489-1151-line-9"> Nor ever Fools or Knaves expose</l><l n="10" xml:id="spp-489-1151-line-10"> Either in Verse or hum'rous Prose,</l><l n="11" xml:id="spp-489-1151-line-11"> And to avoid all future ill,</l><l n="12" xml:id="spp-489-1151-line-12"> In my 'Scrutore lock up my Quill?</l></lg><lg n="2" type="stanza"><l n="13" xml:id="spp-489-1151-line-13">S<hi rend="SMALL-CAPS">INCE</hi> you are pleas'd to condescend</l><l n="14" xml:id="spp-489-1151-line-14"> To ask the judgment of a Friend,</l><l n="15" xml:id="spp-489-1151-line-15"> Your Case consider'd I must think</l><l n="16" xml:id="spp-489-1151-line-16"> You should withdraw from Pen and Ink,</l><l n="17" xml:id="spp-489-1151-line-17"> Forbear your Poetry and Jokes,</l><l n="18" xml:id="spp-489-1151-line-18"> And live like other Christian Folks;</l><l n="19" xml:id="spp-489-1151-line-19"> Or, if the Muses must inspire</l><l n="20" xml:id="spp-489-1151-line-20"> Your Fancy with their pleasing Fire,</l><l n="21" xml:id="spp-489-1151-line-21"> Take Subjects safer for your Wit,</l><l n="22" xml:id="spp-489-1151-line-22"> Than those on which you lately writ,</l><l n="23" xml:id="spp-489-1151-line-23"> Commend the Times, your Thoughts correct,</l><l n="24" xml:id="spp-489-1151-line-24"> And follow the prevailing Sect;</l><l n="25" xml:id="spp-489-1151-line-25"> Assert that <ref target="#spp-489-1151-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-489-1151-footnote-1"><hi rend="underline">Earl of </hi>Clarendon<hi rend="underline">, who wrote of the Civil Wars, begun in the Year</hi> 1641.</note><hi rend="underline">Hyde</hi>, in writing Story,</l><l n="26" xml:id="spp-489-1151-line-26"> Shews all the Malice of a Tory,</l><l n="27" xml:id="spp-489-1151-line-27"> While <ref target="#spp-489-1151-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-489-1151-footnote-2"><hi rend="underline">Bishop of </hi>Salisbury<hi rend="underline">, who wrote the History of his own Times</hi>, &amp;c.</note><hi rend="underline">Burnet</hi> in his deathless Page,</l><l n="28" xml:id="spp-489-1151-line-28"> Discovers Freedom without Rage;</l><l n="29" xml:id="spp-489-1151-line-29"> To <ref target="#spp-489-1151-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-489-1151-footnote-3"><hi rend="underline">A degraded Clergyman of the Church of </hi>England<hi rend="underline">, who wrote against the Miracles of our Saviour</hi>.</note><hi rend="underline">Woolston</hi> recommend our Youth</l><l n="30" xml:id="spp-489-1151-line-30"> For Learning, Probity, and Truth,</l><l n="31" xml:id="spp-489-1151-line-31"> That noble Genius who unbinds</l><l n="32" xml:id="spp-489-1151-line-32"> The Chains which fetter free-born Minds.</l><l n="33" xml:id="spp-489-1151-line-33"> Redeems us from the slavish Fears</l><l n="34" xml:id="spp-489-1151-line-34"> Which lasted near two thousand Years;</l><l n="35" xml:id="spp-489-1151-line-35"> He can alone the Priesthood humble,</l><l n="36" xml:id="spp-489-1151-line-36"> Make gilded Spires and Altars tumble.</l></lg><lg n="3" type="stanza"><l n="37" xml:id="spp-489-1151-line-37">M<hi rend="SMALL-CAPS">UST</hi> I commend against my Conscience</l><l n="38" xml:id="spp-489-1151-line-38"> Such stupid Blasphemy and Nonsense?</l><l n="39" xml:id="spp-489-1151-line-39"> To such a Subject tune my Lyre,</l><l n="40" xml:id="spp-489-1151-line-40"> And sing like one of <hi rend="underline">Milton</hi>'s Choir,</l><l n="41" xml:id="spp-489-1151-line-41"> Where Devils to a Vale retreat,</l><l n="42" xml:id="spp-489-1151-line-42"> And call the Laws of Wisdom Fate,</l><l n="43" xml:id="spp-489-1151-line-43"> Lament upon their hapless Fall,</l><l n="44" xml:id="spp-489-1151-line-44"> That Force free Virtue should enthral?</l><l n="45" xml:id="spp-489-1151-line-45"> Or, shall the Charms of Wealth and Pow'r</l><l n="46" xml:id="spp-489-1151-line-46"> Make me pollute the Muses' Bow'r?</l></lg><lg n="4" type="stanza"><l n="47" xml:id="spp-489-1151-line-47">A<hi rend="SMALL-CAPS">S</hi> from the Tripod of <hi rend="underline">Apollo</hi>,</l><l n="48" xml:id="spp-489-1151-line-48"> Hear from my Desk the Words that follow:</l><l n="49" xml:id="spp-489-1151-line-49"> Some by Philosophers misled,</l><l n="50" xml:id="spp-489-1151-line-50"> Must honour you alive and dead;</l><l n="51" xml:id="spp-489-1151-line-51"> And such as know what <hi rend="underline">Greece</hi> hath writ;</l><l n="52" xml:id="spp-489-1151-line-52"> Must taste your Irony and Wit.</l><l n="53" xml:id="spp-489-1151-line-53"> While most that are, or would be great,</l><l n="54" xml:id="spp-489-1151-line-54"> Must dread your Pen, your Person hate,</l><l n="55" xml:id="spp-489-1151-line-55"> And you on <ref target="#spp-489-1151-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-489-1151-footnote-4"><hi rend="underline">In the County of</hi> Armagh.</note><hi rend="underline">Drapier</hi>'s Hill must lye,</l><l n="56" xml:id="spp-489-1151-line-56"> And there without a Mitre dye.489-1151   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

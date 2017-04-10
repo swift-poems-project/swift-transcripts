@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An E<hi rend="SMALL-CAPS">XAMINATION</hi> of certain Abuses,</title>
+        <title>Corruptions, and Enormities, in the</title>
+        <title>City of D<hi rend="SMALL-CAPS">UBLIN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="P0220671" type="poem"><head type="note" n="1" xml:id="spp-P0220671-headnote-1"><lg n="1" xml:id="spp-P0220671-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-P0220671-headnote-1-line-group-1-line-1">I <hi rend="SMALL-CAPS">SHALL</hi> mention but one Cry more, which hath any Reference to Politicks; but is, indeed, of all others the most insolent, as well as treasonable, under our present happy Establishment. I mean, that of <hi rend="underline">Turnups</hi>; not of <hi rend="underline">Turnips</hi>, according to the best Orthography, but absolutely <hi rend="underline">Turnups</hi>. Although this Cry be of an older Date than some of the preceding Enormities, for it begun soon after the Revolution; yet was it never known to arrive at so great an Height, as during the Earl of <hi rend="underline">Oxford</hi>'s Power. Some People, (whom I take to be private Enemies) are, indeed, as ready as my self to profess their Disapprobation of this Cry, on Pretence that it began by the Contrivance of certain old Procuresses, who kept Houses of ill Fame, where lewd Women met to draw young Men into Vice. And this they pretend to prove by some Words in the Cry; because, after the Cryer had bawled out <hi rend="underline">Turnups, ho, buy my dainty Turnups</hi>, he would sometimes add the two following Verses.</l></lg></head><head type="note" n="2" xml:id="spp-P0220671-headnote-2"><lg n="1" xml:id="spp-P0220671-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-P0220671-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-P0220671-headnote-3"><lg n="1" xml:id="spp-P0220671-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-P0220671-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-P0220671-line-1"><hi rend="underline">Turn up the Mistress, and turn up the Maid,&#13;</hi>P0220671   </l><l n="2" xml:id="spp-P0220671-line-2"> And turn up the Daughter, and be not afraid.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">A RIDDLE</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="540-39RD" type="poem"><head type="note" n="1" xml:id="spp-540-39RD-headnote-1"><lg n="1" xml:id="spp-540-39RD-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-540-39RD-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-540-39RD-headnote-2"><lg n="1" xml:id="spp-540-39RD-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-540-39RD-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-540-39RD-headnote-3"><lg n="1" xml:id="spp-540-39RD-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-540-39RD-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-540-39RD-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><hi rend="display-initial">W</hi>ITH Favors, and Fortune fastidiously blest,</l><l n="2" xml:id="spp-540-39RD-line-2"> He's loud in his Laugh, he's Coarse in his Jest,</l><l n="3" xml:id="spp-540-39RD-line-3"> Of Favor and Fortune unmerited vain,</l><l n="4" xml:id="spp-540-39RD-line-4"> A Sharper in Trifles, a Dupe in the Main.</l><l n="5" xml:id="spp-540-39RD-line-5"> Atchieving of Nothing, still promising Wonders,</l><l n="6" xml:id="spp-540-39RD-line-6"> By Dint of Experience improving in Blunders;</l><l n="7" xml:id="spp-540-39RD-line-7"> Oppressing true Merir, exalting the Base,</l><l n="8" xml:id="spp-540-39RD-line-8"> And selling his Country to purchase a P────;</l><l n="9" xml:id="spp-540-39RD-line-9"> A Jobber of Stocks, by retailing false News,</l><l n="10" xml:id="spp-540-39RD-line-10"> A Prater at Court in the Stile of the Stews;</l><l n="11" xml:id="spp-540-39RD-line-11"> Of Virtue and Worth by Profession a Giber,</l><l n="12" xml:id="spp-540-39RD-line-12"> Of S────s and J────s the Bully and Briber:</l><l n="13" xml:id="spp-540-39RD-line-13"> Tho' I name not the Wretch, you'll guess who I mean,</l><l n="14" xml:id="spp-540-39RD-line-14"> 'Tis the Cur-Dog of <hi rend="underline">Britain</hi> and Spaniel of <hi rend="underline">Spain</hi>.<hi rend="underline">J.C</hi>.──Seven's the Main.540-39RD   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

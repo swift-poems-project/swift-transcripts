@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Excellent New</title>
+        <title>BALLAD:</title>
+        <title>OR,</title>
+        <title>The true <hi rend="underline">En────sh</hi> D──n to be hang'd<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="516-33D-" type="poem"><head type="note" n="1" xml:id="spp-516-33D--headnote-1"><lg n="1" xml:id="spp-516-33D--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-516-33D--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-516-33D--headnote-2"><lg n="1" xml:id="spp-516-33D--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-516-33D--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-516-33D--headnote-3"><lg n="1" xml:id="spp-516-33D--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-516-33D--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-516-33D--line-1" rend="align(center) flush left">I.<hi rend="display-initial">O</hi>UR Brethren of <hi rend="underline">E──nd</hi>, who love us so dear,</l><l n="2" xml:id="spp-516-33D--line-2"> And in all they do for us so kindly do mean,</l><l n="3" xml:id="spp-516-33D--line-3"> A Blessing upon them, have sent us this Year,</l><l n="4" xml:id="spp-516-33D--line-4"> For the Good of our Church a true <hi rend="underline">E──────sh</hi> D──n.A holier Priest ne'er was wrapt up in Crape,</l><l n="5" xml:id="spp-516-33D--line-5" rend="align(center) flush left"> The worst you can say, he committed a R-pe.II.In his Journey to <hi rend="underline">D-bl-n</hi>, he lighted at <hi rend="underline">Ch-st-r</hi>,</l><l n="6" xml:id="spp-516-33D--line-6"> And there he grew fond of another Man's Wife,</l><l n="7" xml:id="spp-516-33D--line-7"> Burst into her Chamber, and wou'd have Carest her,</l><l n="8" xml:id="spp-516-33D--line-8"> But she valu'd her Honour much more than her Life.She bustled and struggled, and made her Escape,</l><l n="9" xml:id="spp-516-33D--line-9" rend="align(center) flush left"> To a Room full of Guests for fear of a R-pe.III.The <hi rend="underline">D──n</hi> he pursu'd to recover his Game,</l><l n="10" xml:id="spp-516-33D--line-10"> And now to attack her again he prepares,</l><l n="11" xml:id="spp-516-33D--line-11"> But the Company stood in Defence of the Dame,</l><l n="12" xml:id="spp-516-33D--line-12"> They Cudgell'd, and Cuft him, and Kickt him down Stairs.His D--nship was now in a damnable Scrape,</l><l n="13" xml:id="spp-516-33D--line-13" rend="align(center) flush left"> And this was no Time for commiting a R-pe.IV.To <hi rend="underline">D-bl-n</hi> he comes, to the <hi rend="underline">Bagnio</hi> he goes,</l><l n="14" xml:id="spp-516-33D--line-14"> And orders the Landlord to bring him a Whore;</l><l n="15" xml:id="spp-516-33D--line-15"> No Scruple came on him his Gown to expose,</l><l n="16" xml:id="spp-516-33D--line-16"> 'Twas what all his Life he had practis'd before.He had made himself Drunk with the Juice of the Grape,</l><l n="17" xml:id="spp-516-33D--line-17" rend="align(center) flush left"> And got a good <hi rend="underline">Clap</hi>, but committed no R-pe.V.The D--n, and his Landlord, a jolly Comrade,</l><l n="18" xml:id="spp-516-33D--line-18"> Resolv'd for a Fortnight to swim in Delight,</l><l n="19" xml:id="spp-516-33D--line-19"> For why, they had both been brought up to the Trade</l><l n="20" xml:id="spp-516-33D--line-20"> Of drinking all Day, and whoring all Night.His Landlord was ready his D--nship to ape</l><l n="21" xml:id="spp-516-33D--line-21" rend="align(center) flush left"> In ev'ry Debauch, but committing a R-pe.VI.This <hi rend="underline">Protestant</hi> Zealot, this <hi rend="underline">En──sh</hi> Divine</l><l n="22" xml:id="spp-516-33D--line-22"> In Church and in State was of Principles sound,</l><l n="23" xml:id="spp-516-33D--line-23"> Was truer than <hi rend="underline">Steele</hi> to the <hi rend="underline">H──ver</hi> Line,</l><l n="24" xml:id="spp-516-33D--line-24"> And griev'd that a <hi rend="underline">Tory</hi> should live above Ground.Shall a Subject so Loyal be hang'd by the Nape,</l><l n="25" xml:id="spp-516-33D--line-25" rend="align(center) flush left"> For no other Crime but committing a R-pe.VII.By old <hi rend="underline">Popish</hi> Cannons, as wise Men have Penn'd 'em,</l><l n="26" xml:id="spp-516-33D--line-26"> Each Priest had a Concubine, <hi rend="underline">jure Ecclesi<unclear>ae</unclear></hi>;</l><l n="27" xml:id="spp-516-33D--line-27"> Who'd be D──n of <hi rend="underline">F──ns</hi> without a <hi rend="underline">Commendum</hi>?</l><l n="28" xml:id="spp-516-33D--line-28"> And Precedents we can produce, if it please ye,Then, why should the D--n, when Whores are so cheap,</l><l n="29" xml:id="spp-516-33D--line-29" rend="align(center) flush left"> Be put to the Peril, and Toyl of a R-pe?VIII.If Fortune should please to take such a Crotchet,</l><l n="30" xml:id="spp-516-33D--line-30"> (To thee I apply great <hi rend="underline">Smedley</hi>'s Successor)</l><l n="31" xml:id="spp-516-33D--line-31"> To give thee <hi rend="underline">Lawn-Sleeves</hi> a <hi rend="underline">Mitre</hi> and <hi rend="underline">Rotchet</hi>,</l><l n="32" xml:id="spp-516-33D--line-32"> Whom would'st thou resemble? I leave thee a Guesser;But I only behold thee in <hi rend="underline">Atherton</hi>'s Shape,</l><l n="33" xml:id="spp-516-33D--line-33" rend="align(center) flush left"> For <hi rend="underline">Sodomy</hi> hang'd, as thou for a R-pe.IX.Ah! dost thou not Envy the brave Colonel <hi rend="underline">Chartres</hi>,</l><l n="34" xml:id="spp-516-33D--line-34"> Condemn'd for thy Crime, at three score and ten?</l><l n="35" xml:id="spp-516-33D--line-35"> To Hang him all <hi rend="underline">En──nd</hi> would lend him their Garters;</l><l n="36" xml:id="spp-516-33D--line-36"> Yet he lives, and is ready to ravish agen,Then Throttle thy self with an Ell of strong Tape,</l><l n="37" xml:id="spp-516-33D--line-37" rend="align(center) flush left"> For thou hast not a Groat to Attone for a R-pe.X.The D--n he was vext that his Whores were so willing,</l><l n="38" xml:id="spp-516-33D--line-38"> He long'd for a Girl that would struggle and squal,</l><l n="39" xml:id="spp-516-33D--line-39"> He ravish'd her fairly, and sav'd a good Shilling;</l><l n="40" xml:id="spp-516-33D--line-40"> But, here was to pay the Devil and all.His Trouble and Sorrows now come in a Heap,</l><l n="41" xml:id="spp-516-33D--line-41" rend="align(center) flush left"> And hang'd he must be for committing a R-pe.XI.If Maidens are ravish't, it is their own Choice,</l><l n="42" xml:id="spp-516-33D--line-42"> Why are they so willful to struggle with Men?</l><l n="43" xml:id="spp-516-33D--line-43"> If they would but lye quiet, and stifle their Voice,</l><l n="44" xml:id="spp-516-33D--line-44"> No Devil nor D--n could Ravish 'em then,Nor would there be need of a strong Hempen Cape,</l><l n="45" xml:id="spp-516-33D--line-45" rend="align(center) flush left"> Ty'd round the D--n's Neck, for committing a R-pe.XII.Our Church and our State dear <hi rend="underline">En──d</hi> maintains,</l><l n="46" xml:id="spp-516-33D--line-46"> For which all true Protestant Hearts should be glad;</l><l n="47" xml:id="spp-516-33D--line-47"> She sends us our ────and ────and ────,</l><l n="48" xml:id="spp-516-33D--line-48"> And better would give us, if better she had;But, Lord how the Rabble will stare and will gape,</l><l n="49" xml:id="spp-516-33D--line-49"> When the good <hi rend="underline">En──sh</hi> D--n is hang'd up for a R-pe.516-33D-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

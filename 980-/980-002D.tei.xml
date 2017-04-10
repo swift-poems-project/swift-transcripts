@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To Tho: Sheridan</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-980-002D-footnote-1 #spp-980-002D-line-16"/>
+          <link target="#spp-980-002D-footnote-2 #spp-980-002D-line-16"/>
+          <link target="#spp-980-002D-footnote-3 #spp-980-002D-line-17"/>
+        </linkGrp>
+        <div n="980-002D" type="poem"><head type="note" n="1" xml:id="spp-980-002D-headnote-1"><lg n="1" xml:id="spp-980-002D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-980-002D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-980-002D-headnote-2"><lg n="1" xml:id="spp-980-002D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-980-002D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-980-002D-headnote-3"><lg n="1" xml:id="spp-980-002D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-980-002D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-980-002D-line-1"> Dear Tom, I'm surpriz'd that Your Verse did not jingle&#13;</l><l n="2" xml:id="spp-980-002D-line-2"> But Your Rhyme was not double, cause y<hi rend="sup">r</hi> sight was but single</l><l n="3" xml:id="spp-980-002D-line-3"> For as Helsham observes there's nothing can Chyme,</l><l n="4" xml:id="spp-980-002D-line-4"> Or fit more Exact than One Eye and One Rhyme.</l><l n="5" xml:id="spp-980-002D-line-5"> If You had not took Physick, I'd pay off Your Bacon</l><l n="6" xml:id="spp-980-002D-line-6"> But now I'll write short, for fear You're short taken.</l><l n="7" xml:id="spp-980-002D-line-7"> Besides Dick forbid me, and call'd me a Fool</l><l n="8" xml:id="spp-980-002D-line-8"> For he says short as 'tis it will give You a stool.</l></lg><lg n="2" type="stanza"><l n="9" xml:id="spp-980-002D-line-9">In Libris bellis tu parum parcis ocellis&#13;</l><l n="10" xml:id="spp-980-002D-line-10"> Dum nimium scribis, Vel Talpâ c<unclear>ae</unclear>cior ibis,</l><l n="11" xml:id="spp-980-002D-line-11"> Aut ad Vina redis, nam sic tua Lumina L<unclear>ae</unclear>dis.</l><l n="12" xml:id="spp-980-002D-line-12"> Sed tibi C<unclear>oe</unclear>nanti sunt Collyria tanti?</l><l n="13" xml:id="spp-980-002D-line-13"> Nunquid eges Visu d<unclear>u overa</unclear>m comples omnia risu?Heu! Sheridan c<unclear>ae</unclear>cus, heu eris nunc Circopithecus</l><l n="14" xml:id="spp-980-002D-line-14"> Nunc bene Nasutus mittet tibi carmina tutus,</l><l n="15" xml:id="spp-980-002D-line-15"> Nunc ope Burgundi malus Helsham ridet Abunde</l><l n="16" xml:id="spp-980-002D-line-16"> Nec Ph<unclear>oe</unclear>bi fili Versum <ref target="#spp-980-002D-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-980-002D-footnote-1">pro potes Hor:</note><hi rend="underline">quis</hi> mittere RylyQuid Tibi cum Libris, relavet tua Lumina <ref target="#spp-980-002D-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-980-002D-footnote-2">pro quovis fluvio: Virg:</note> Tybris</l><l n="17" xml:id="spp-980-002D-line-17"> Mixtus <ref target="#spp-980-002D-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-980-002D-footnote-3">Sacharo<unclear>tittle over "ac"</unclear> saturni.</note> Saturno, penso sed parce diurno</l><l n="18" xml:id="spp-980-002D-line-18"> Observes hoc tu, nec scriptis utere noctu.</l><l n="19" xml:id="spp-980-002D-line-19"> Nonnulli mingunt, et palpebras sibi tingunt</l><l n="20" xml:id="spp-980-002D-line-20"> Quidam purgantes, libros in stercore nantes</l><l n="21" xml:id="spp-980-002D-line-21"> Linquut, sic Vinces, Videndo, mi bone Lynces.</l><l n="22" xml:id="spp-980-002D-line-22"> Culum Oculum tergis, dum scripta hoc flumine mergis.</l><l n="23" xml:id="spp-980-002D-line-23"> Tunc Oculi et Nates, ni fallor agent tibi grates.</l><l n="24" xml:id="spp-980-002D-line-24"> Vim fuge Decani, nec sit tibi cura Delani,</l><l n="25" xml:id="spp-980-002D-line-25"> Heu tibi si scribant, aut si tibi fercula libant</l><l n="26" xml:id="spp-980-002D-line-26"> Pone loco Mortis Rupis fera pocula fortis,</l><l n="27" xml:id="spp-980-002D-line-27"> H<unclear>ae</unclear>c tibi pauca dedi, sed Consule Betty Mi Lady,</l><l n="28" xml:id="spp-980-002D-line-28" rend="flush right flush right flush right"> Huic te des Sol<unclear>ae</unclear>, nec Egebis Pharmacapol<unclear>ae</unclear>.H<unclear>ae</unclear>c somnians ceciniOctob: 23<hi rend="sup">d</hi> 1718J<hi rend="sup">n</hi>: Swift.980-002D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On y<hi rend="sup">e</hi> Death of y<hi rend="sup">e</hi> Duke of Orleans</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y20-340L" type="poem"><head type="note" n="1" xml:id="spp-Y20-340L-headnote-1"><lg n="1" xml:id="spp-Y20-340L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y20-340L-headnote-1-line-group-1-line-1">by M<hi rend="sup">r</hi> 08: Pope</l></lg></head><head type="note" n="2" xml:id="spp-Y20-340L-headnote-2"><lg n="1" xml:id="spp-Y20-340L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y20-340L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y20-340L-headnote-3"><lg n="1" xml:id="spp-Y20-340L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y20-340L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y20-340L-line-1"> How vain are Mortals mans Endeavours?&#13;</l><l n="2" xml:id="spp-Y20-340L-line-2"> Said att James his Master Travers.</l><l n="3" xml:id="spp-Y20-340L-line-3"> Good Orleans dead! in truth 'tis hard:──</l><l n="4" xml:id="spp-Y20-340L-line-4"> Oh, may all Statesmen dy prepared!</l><l n="5" xml:id="spp-Y20-340L-line-5"> I do foresee──(and in foreseeing</l><l n="6" xml:id="spp-Y20-340L-line-6"> He equals any man in being)</l><l n="7" xml:id="spp-Y20-340L-line-7"> The Army ne'er can be disbanded──</l><l n="8" xml:id="spp-Y20-340L-line-8"> ──I wish y<hi rend="sup">e</hi> King were safely landed.</l><l n="9" xml:id="spp-Y20-340L-line-9"> Ah Friends, great changes threat this land──</l><l n="10" xml:id="spp-Y20-340L-line-10"> All France &amp; England's att a Stand.</l><l n="11" xml:id="spp-Y20-340L-line-11"> Theres Mire-Weys, y<hi rend="sup">t</hi> makes strange work,</l><l n="12" xml:id="spp-Y20-340L-line-12"> And Theres y<hi rend="sup">e</hi> Czar, &amp; Theres y<hi rend="sup">e</hi> Turk;</l><l n="13" xml:id="spp-Y20-340L-line-13"> The Pope────an Indian Merchant by</l><l n="14" xml:id="spp-Y20-340L-line-14"> Cutt short his Speech with this reply.</l></lg><lg n="2" type="stanza"><l n="15" xml:id="spp-Y20-340L-line-15">Things att a stand! why dread such changes?&#13;</l><l n="16" xml:id="spp-Y20-340L-line-16"> Ah S<hi rend="sup">r</hi>, You never saw the Ganges──</l><l n="17" xml:id="spp-Y20-340L-line-17"> There dwelt a Race (we call 'em Monkeyes)</l><l n="18" xml:id="spp-Y20-340L-line-18"> Grave, sober, sage, like our Quid-nunc-ys:</l><l n="19" xml:id="spp-Y20-340L-line-19"> On either Bank, from bough to bough,</l><l n="20" xml:id="spp-Y20-340L-line-20"> they meet and chatt, as we do now.</l><l n="21" xml:id="spp-Y20-340L-line-21"> Whispers go round; they grin, they Shrug;</l><l n="22" xml:id="spp-Y20-340L-line-22"> They bow, they snarl, they scratch, they hugg:</l><l n="23" xml:id="spp-Y20-340L-line-23"> And just as chance, or whim provoke 'em,</l><l n="24" xml:id="spp-Y20-340L-line-24"> They either bite their friends, or stroke 'em.</l><l n="25" xml:id="spp-Y20-340L-line-25"> The<unclear>re overy</unclear> have I seen some active Prig,</l><l n="26" xml:id="spp-Y20-340L-line-26"> to shew his parts, bestride a Twig.</l><l n="27" xml:id="spp-Y20-340L-line-27"> L<hi rend="sup">d</hi>! How y<hi rend="sup">e</hi> Chattering Tribe admire!</l><l n="28" xml:id="spp-Y20-340L-line-28"> Not that he's wiser, but is higher:</l><l n="29" xml:id="spp-Y20-340L-line-29"> All long to try the venturous thing;</l><l n="30" xml:id="spp-Y20-340L-line-30"> For power is but to have ones swing.</l><l n="31" xml:id="spp-Y20-340L-line-31"> From side to side he Springs, he spurns,</l><l n="32" xml:id="spp-Y20-340L-line-32"> And bangs his Foes, &amp; friends by turns:</l><l n="33" xml:id="spp-Y20-340L-line-33"> Thus as in giddy Freaks he bounces,</l><l n="34" xml:id="spp-Y20-340L-line-34"> Crack goes y<hi rend="sup">e</hi> Twig &amp; in he flounces.</l><l n="35" xml:id="spp-Y20-340L-line-35"> Down y<hi rend="sup">e</hi> swift stream the wretch is born,</l><l n="36" xml:id="spp-Y20-340L-line-36"> Never, Ah, never to return.</l></lg><lg n="3" type="stanza"><l n="37" xml:id="spp-Y20-340L-line-37">Z────ds what a fall has our dear Brother!&#13;</l><l n="38" xml:id="spp-Y20-340L-line-38"> Morbleu, crys one, &amp; D──mnee t'other.</l><l n="39" xml:id="spp-Y20-340L-line-39"> The nations give a general screech;</l><l n="40" xml:id="spp-Y20-340L-line-40"> None cocks his tail; none claws his Br──ch:</l><l n="41" xml:id="spp-Y20-340L-line-41"> Each trembles for y<hi rend="sup">e</hi> Publick weal,</l><l n="42" xml:id="spp-Y20-340L-line-42"> And for a while forgett to steal:</l><l n="43" xml:id="spp-Y20-340L-line-43"> A while all eyes, intent &amp; steddy,</l><l n="44" xml:id="spp-Y20-340L-line-44"> Persue him whirling down y<hi rend="sup">e</hi> Eddy:</l><l n="45" xml:id="spp-Y20-340L-line-45"> But out of mind, when out of view,</l><l n="46" xml:id="spp-Y20-340L-line-46"> Some other mounts y<hi rend="sup">e</hi> twigg a·new;</l><l n="47" xml:id="spp-Y20-340L-line-47"> And Business, on each Monkey Shore,</l><l n="48" xml:id="spp-Y20-340L-line-48"> Runs y<hi rend="sup">e</hi> same tract it went before.Y20-340L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

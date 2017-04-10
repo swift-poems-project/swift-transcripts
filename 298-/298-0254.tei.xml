@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Upon the horrid P<hi rend="SMALL-CAPS">LOT</hi> discovered by</title>
+        <title xml:id="spp-298-0254-title-1"><hi rend="underline">Harlequin</hi> the <ref target="#spp-298-0254-footnote-title-1">1</ref><note n="1" xml:id="spp-298-0254-footnote-title-1" place="foot">Dr. <hi rend="underline">Atterbury</hi>, who was tryed by the Lords for a Plot against the Government, deprived of his Bishoprick, banished his native Country, and dyed in <hi rend="underline">France</hi>.</note> Bishop of R<hi rend="SMALL-CAPS">OCHES-</hi></title>
+        <title><hi rend="SMALL-CAPS">TER</hi>'s <hi rend="underline">French</hi> Dog.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JDurham"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-298-0254-footnote-title-1 #spp-298-0254-title-1"/>
+        </linkGrp>
+        <div n="298-0254" type="poem"><head type="note" n="1" xml:id="spp-298-0254-headnote-1"><lg n="1" xml:id="spp-298-0254-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-298-0254-headnote-1-line-group-1-line-1">In a D<hi rend="SMALL-CAPS">IALOGUE</hi> between a WHIG and a TORY.</l></lg></head><head type="note" n="2" xml:id="spp-298-0254-headnote-2"><lg n="1" xml:id="spp-298-0254-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-298-0254-headnote-2-line-group-1-line-1">Written in the Year 1722.</l></lg></head><head type="note" n="3" xml:id="spp-298-0254-headnote-3"><lg n="1" xml:id="spp-298-0254-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-298-0254-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-298-0254-line-1"><hi rend="display-initial">I</hi> Ask'd a <hi rend="underline">Whig</hi> the other Night,</l><l n="2" xml:id="spp-298-0254-line-2"> How came this wicked Plot to Light:</l><l n="3" xml:id="spp-298-0254-line-3"> He answer'd, that a <hi rend="underline">Dog</hi> of late</l><l n="4" xml:id="spp-298-0254-line-4"> Inform'd a Minister of State.</l><l n="5" xml:id="spp-298-0254-line-5"> Said I, from thence I nothing know;</l><l n="6" xml:id="spp-298-0254-line-6"> For are not all Informers so?</l><l n="7" xml:id="spp-298-0254-line-7"> A Villain, who his Friend betrays,</l><l n="8" xml:id="spp-298-0254-line-8"> We style him by no other Phrase;</l><l n="9" xml:id="spp-298-0254-line-9"> And so a perjur'd <hi rend="underline">Dog</hi> denotes<hi rend="underline">Porter</hi>, and P<hi rend="SMALL-CAPS">ENDERGAST</hi>, and <hi rend="underline">Oates</hi>.</l><l n="10" xml:id="spp-298-0254-line-10"> And forty others I could name──────</l></lg><lg n="2" type="stanza"><l n="11" xml:id="spp-298-0254-line-11"><hi rend="underline">Whig</hi>. But you must know this Dog was lame.</l></lg><lg n="3" type="stanza"><l n="12" xml:id="spp-298-0254-line-12"><hi rend="underline">Tory</hi>. A weighty Argument indeed;</l><l n="13" xml:id="spp-298-0254-line-13"> Your <hi rend="underline">Evidence</hi> was <hi rend="underline">lame</hi>. ·Proceed:</l><l n="14" xml:id="spp-298-0254-line-14" rend="indent(1)"> Come, help your <hi rend="underline">lame Dog o'er the Style._Whig</hi>. Sir, you mistake me all this while:</l><l n="15" xml:id="spp-298-0254-line-15"> I mean a <hi rend="underline">Dog</hi> without a Joke,</l><l n="16" xml:id="spp-298-0254-line-16"> Can howl, and bark, but never spoke.</l></lg><lg n="4" type="stanza"><l n="17" xml:id="spp-298-0254-line-17"><hi rend="underline">Tory</hi>. I'm still to seek, which <hi rend="underline">Dog</hi> you mean;</l><l n="18" xml:id="spp-298-0254-line-18"> Whether Curr <hi rend="underline">Plunket</hi>, or Whelp <hi rend="underline">Skean</hi>,</l><l n="19" xml:id="spp-298-0254-line-19"> An <hi rend="underline">English</hi> or an <hi rend="underline">Irish</hi> Hound;</l><l n="20" xml:id="spp-298-0254-line-20"> Or t'other <hi rend="underline">Puppy</hi> that was drown'd,</l><l n="21" xml:id="spp-298-0254-line-21"> Or <hi rend="underline">Mason</hi>, that abandon'd Bitch:</l><l n="22" xml:id="spp-298-0254-line-22"> Then pray be free, and tell me which;</l><l n="23" xml:id="spp-298-0254-line-23"> For ev'ry Stander-by was marking,</l><l n="24" xml:id="spp-298-0254-line-24"> That all the Noise they made was <hi rend="underline">Barking</hi>:</l><l n="25" xml:id="spp-298-0254-line-25"> You pay them well; the <hi rend="underline">Dogs have got</hi></l><l n="26" xml:id="spp-298-0254-line-26"> Their <hi rend="underline">Dogs-head in a Porridge-pot</hi>:</l><l n="27" xml:id="spp-298-0254-line-27"> And 'twas but just; for wise Men say,</l><l n="28" xml:id="spp-298-0254-line-28"> That, <hi rend="underline">ev'ry Dog must have his Day.</hi> laid a Quart of <hi rend="underline">Nog</hi> on't,</l><l n="29" xml:id="spp-298-0254-line-29"> Dog Walpole</l><l n="30" xml:id="spp-298-0254-line-30"> He'd either <hi rend="underline">makt a Hop or Dog on't</hi>,</l><l n="31" xml:id="spp-298-0254-line-31"> And lookt since he has got his Wish,</l><l n="32" xml:id="spp-298-0254-line-32"> As if he had <hi rend="underline">thrown down a Dish</hi>.</l><l n="33" xml:id="spp-298-0254-line-33"> Yet, this I dare foretel you from it,</l><l n="34" xml:id="spp-298-0254-line-34" rend="indent(1)"> He'll soon <hi rend="underline">return to his own Vomit._Whig</hi>. Besides, this horrid Plot was found</l><l n="35" xml:id="spp-298-0254-line-35"> By <hi rend="underline">Neyno</hi>, after he was drown'd.</l></lg><lg n="5" type="stanza"><l n="36" xml:id="spp-298-0254-line-36"><hi rend="underline">Tory</hi>. Why then the Proverb is not right,</l><l n="37" xml:id="spp-298-0254-line-37" rend="indent(1)"> Since you can teach <hi rend="underline">dead Dogs to bite._Whig</hi>. I prov'd my Proposition full;</l><l n="38" xml:id="spp-298-0254-line-38"> But, <hi rend="underline">Jacobites</hi> are strangely dull.</l><l n="39" xml:id="spp-298-0254-line-39"> Now let me tell you plainly, Sir,</l><l n="40" xml:id="spp-298-0254-line-40"> Our Witness is a real <hi rend="underline">Curr</hi>,</l><l n="41" xml:id="spp-298-0254-line-41"> A <hi rend="underline">Dog</hi> of Spirit for his Years,</l><l n="42" xml:id="spp-298-0254-line-42"> Has twice two Legs, two hanging Ears;</l><l n="43" xml:id="spp-298-0254-line-43"> His Name is <hi rend="underline">Harlequin</hi>, I wot,</l><l n="44" xml:id="spp-298-0254-line-44"> And that's a Name in ev'ry <hi rend="underline">Plot</hi>:</l><l n="45" xml:id="spp-298-0254-line-45"> Resolv'd to save the <hi rend="underline">British</hi> Nation,</l><l n="46" xml:id="spp-298-0254-line-46"> Though <hi rend="underline">French</hi> by Birth and Education:</l><l n="47" xml:id="spp-298-0254-line-47"> His Correspondence plainly dated,</l><l n="48" xml:id="spp-298-0254-line-48"> Was all <hi rend="underline">decypher'd</hi>, and <hi rend="underline">translated</hi>.</l><l n="49" xml:id="spp-298-0254-line-49"> His Answers were exceeding pretty</l><l n="50" xml:id="spp-298-0254-line-50"> Before the secret wise Committee,</l><l n="51" xml:id="spp-298-0254-line-51"> Confest as plain, as he could bark;</l><l n="52" xml:id="spp-298-0254-line-52" rend="indent(1)"> Then with his Fore-foot set his <hi rend="underline">Mark._Tory</hi>. Then all this while have I been bubbled;</l><l n="53" xml:id="spp-298-0254-line-53"> I thought it was a <hi rend="underline">Dog in Doublet</hi>:</l><l n="54" xml:id="spp-298-0254-line-54"> The Matter now no longer sticks;</l><l n="55" xml:id="spp-298-0254-line-55"> For Statesmen never want <hi rend="underline">Dog-tricks</hi>.</l><l n="56" xml:id="spp-298-0254-line-56"> But, since it was a real <hi rend="underline">Curr</hi>,</l><l n="57" xml:id="spp-298-0254-line-57"> And not a <hi rend="underline">Dog</hi> in metaphor.</l><l n="58" xml:id="spp-298-0254-line-58"> I give you Joy of the Report,</l><l n="59" xml:id="spp-298-0254-line-59"> That he's to have a Place at C────t.</l></lg><lg n="6" type="stanza"><l n="60" xml:id="spp-298-0254-line-60"><hi rend="underline">Whig</hi>. Yes, and a Place he will grow rich in,</l><l n="61" xml:id="spp-298-0254-line-61"> A Turn-spit in the Royal Kitchen.</l><l n="62" xml:id="spp-298-0254-line-62"> Sir, to be plain, I tell you what;</l><l n="63" xml:id="spp-298-0254-line-63"> We had Occasion for a Plot;</l><l n="64" xml:id="spp-298-0254-line-64"> And, when we found the <hi rend="underline">Dog</hi> begin it,</l><l n="65" xml:id="spp-298-0254-line-65" rend="indent(1)"> We guess'd the <hi rend="underline">Bishop's Foot was in it._Tory</hi>. I own it was a dang'rous Project,</l><l n="66" xml:id="spp-298-0254-line-66"> And you have prov'd it by <hi rend="underline">Dog Logick</hi>.</l><l n="67" xml:id="spp-298-0254-line-67"> Sure such Intelligence between</l><l n="68" xml:id="spp-298-0254-line-68"> A <hi rend="underline">Dog</hi> and <hi rend="underline">Bishop</hi> ne'er was seen,</l><l n="69" xml:id="spp-298-0254-line-69"> Till you began to change the Breed;</l><l n="70" xml:id="spp-298-0254-line-70"> Your <hi rend="underline">Bishops</hi> all are <hi rend="underline">Dogs</hi> indeed.298-0254   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

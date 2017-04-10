@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the River D<hi rend="SMALL-CAPS">ANUBE</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SB"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y54G27A5" type="poem"><head type="note" n="1" xml:id="spp-Y54G27A5-headnote-1"><lg n="1" xml:id="spp-Y54G27A5-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y54G27A5-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y54G27A5-headnote-2"><lg n="1" xml:id="spp-Y54G27A5-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y54G27A5-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y54G27A5-headnote-3"><lg n="1" xml:id="spp-Y54G27A5-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y54G27A5-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y54G27A5-line-1"><hi rend="display-initial">S</hi>EE how the wand'ring <hi rend="underline">Danube</hi> flows,Realms and Religions parting;</l><l n="2" xml:id="spp-Y54G27A5-line-2"> A friend to all true christian foes,To <hi rend="underline">Peter, Jack</hi>, and <hi rend="underline">Martin</hi>.</l><l n="3" xml:id="spp-Y54G27A5-line-3"> Now protestant, and papist now;Not constant long to either,</l><l n="4" xml:id="spp-Y54G27A5-line-4"> At length an infidel does grow,And ends his journey, neither.</l><l n="5" xml:id="spp-Y54G27A5-line-5"> Thus many a youth I've known set outHalf protestant, half papist,</l><l n="6" xml:id="spp-Y54G27A5-line-6"> And rambling long the world about,Turn infidel or atheist.Y54G27A5   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

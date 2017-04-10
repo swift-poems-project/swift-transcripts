@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-316-50D2-footnote-1 #spp-316-50D2-line-13"/>
+          <link target="#spp-316-50D2-footnote-2 #spp-316-50D2-line-28"/>
+        </linkGrp>
+        <div n="316-50D2" type="poem"><head type="note" n="1" xml:id="spp-316-50D2-headnote-1"><lg n="1" xml:id="spp-316-50D2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-316-50D2-headnote-1-line-group-1-line-1">Having made the same voyage more than once, I had the pleasure of observing that the Dean's descriptions were as just as his numbers were beautiful, which I shall beg leave to insert in this place.</l></lg></head><head type="note" n="2" xml:id="spp-316-50D2-headnote-2"><lg n="1" xml:id="spp-316-50D2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-316-50D2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-316-50D2-headnote-3"><lg n="1" xml:id="spp-316-50D2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-316-50D2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-316-50D2-line-1"><hi rend="underline">Ecce! ingens fragmen scopuli quod vertice summo&#13;</hi>Neptunus<hi rend="underline"> in undis.</hi>Pelion<hi rend="underline"> altum</hi><ref target="#spp-316-50D2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-316-50D2-footnote-1">This alludes to a stupendous arch through which a boat may row. It is in the parish of <hi rend="underline">Miros</hi>, and not far from the place where the Dean usually embarked. Near the W. head of <hi rend="underline">Castlehaven</hi> are deep caves which are low at the entrance, but grow higher within: The swell of the sea raises a boat up to the roof almost when one is in, which also by turns closes up the entrance, and makes them very dark and gloomy.</note><hi rend="underline">Hinc atq; hinc a ponto ad pontum pervia Ph<unclear>ae</unclear>bo,</hi>.<ref target="#spp-316-50D2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-316-50D2-footnote-2">For the sake of the <hi rend="underline">English</hi> reader, I shall subjoin the following translation by the Rev. Dr. <hi rend="underline">Dunkin</hi>._Lo! from the top of yonder cliff, that shrouds_Its airy head amidst the azure clouds,_Hangs a huge fragment, destitute of props,_Prone on the waves the rocky ruin drops._With hoarse rebuff the swelling seas rebound_From shore to shore, the rocks return the sound;_The dreadful murmur heav'n's high concave cleaves,_And <hi rend="underline">Neptune</hi> shrinks beneath his subject waves;_For long the whirling winds and beating tides_Had scoop'd a vault into its nether sides;_Now yields the base, the summits nod, now urge_Their headlong course, and lash the sounding surge._Not louder noise cou'd shake the guilty world,_When <hi rend="underline">Jove</hi> heap'd mountains upon mountains hurl'd,_Retorting <hi rend="underline">Pelion</hi> from his dread abode,_To crush earth's rebel sons beneath the load._Oft too with hideous yawn the cavern wide_Presents an orifice on either side;_A dismal orifice on either side;_A dismal orifice from sea to sea_Extended, pervious to the god of day:_Uncouthly join'd, the rocks stupendous form_An arch, the ruin of a future storm:_High on the cliff their nests wild pigeons make,_And sea calves stable in the ouzy lake._But when bleak winter with her sullen train,_Awakes the winds, to vex the watry plain;_When o'er the craggy steep without controul,_Big with the blast, the raging billows rowl;_Not towns beleagur'd, not the flaming brand_Darted from heav'n by <hi rend="underline">Jove</hi>'s avenging hand,_Oft as on impious men his wrath he pours;_Humbles their pride, and blasts their gilded tow'rs,_Equal the tumult of this wild uproar;_Waves rush o'er waves, rebellows shore to shore._The neighbouring race tho' wont to brave the shocks,_Of angry seas and run along the rocks;_Now pale with terror, while the ocean foams,_Fly far and wide, nor trust their native homes._The Goats while pendent from the mountain top,_The wither'd herb improvident they crop,_Wash'd down the precipice with sudden sweep,_Leave their sweet lives beneath th'unfathom'd deep._The frighted Fisher with desponding eyes,_Tho' safe yet trembling in the harbour lyes,_Nor hoping to behold the sky serene,_Wearies with vows the monarch of the main.</note>316-50D2   </l><l n="2" xml:id="spp-316-50D2-line-2"> Desuper impendet, nullo fundamine nixum</l><l n="3" xml:id="spp-316-50D2-line-3"> Decidit in fluctus: maria undiq; &amp; undiq; saxa</l><l n="4" xml:id="spp-316-50D2-line-4"> Horrisono stridore tonant, &amp; ad <unclear>ae</unclear>thera murmur</l><l n="5" xml:id="spp-316-50D2-line-5"> Erigitur; trepidatq; suis </l><l n="6" xml:id="spp-316-50D2-line-6"> Nam longâ venti rabie, atq; aspergine crebrâ</l><l n="7" xml:id="spp-316-50D2-line-7"> (Equorei laticis, specus imâ rupe cavatur:</l><l n="8" xml:id="spp-316-50D2-line-8"> Jam fultura ruit, jam summa cacumina nutant;</l><l n="9" xml:id="spp-316-50D2-line-9"> Jam cadit in pr<unclear>ae</unclear>ceps moles, &amp; verberat undas.</l><l n="10" xml:id="spp-316-50D2-line-10"> Attonitus credas, hinc dejecisse tonantem</l><l n="11" xml:id="spp-316-50D2-line-11"> Montibus impositos montes, &amp; </l><l n="12" xml:id="spp-316-50D2-line-12"> In capita anguipedum c<unclear>ae</unclear>lo jaculasse gigantum.S<unclear>ae</unclear>pe etiam spelunca immani apperitur hiatu</l><l n="13" xml:id="spp-316-50D2-line-13"> Exesa é scopulis, &amp; utrinq; foramina pandit,</l><l n="14" xml:id="spp-316-50D2-line-14"> Cautibus enormè junctis laquearia tecti</l><l n="15" xml:id="spp-316-50D2-line-15"> Formantur; moles olim ruitura supernè.</l><l n="16" xml:id="spp-316-50D2-line-16"> Fornice sublimi nidos posuere palumbes,</l><l n="17" xml:id="spp-316-50D2-line-17"> Inq; imo stagni posuere cubilia Phoc<unclear>ae</unclear>.Sed, cum s<unclear>ae</unclear>vit hyems, &amp; venti carcere rupto</l><l n="18" xml:id="spp-316-50D2-line-18"> Immensos volvunt fluctus ad culmina montis;</l><l n="19" xml:id="spp-316-50D2-line-19"> Non obsess<unclear>ae</unclear> arces, non fulmina vindice dextrâ</l><l n="20" xml:id="spp-316-50D2-line-20"> Missa Jovis, quoties inimicas s<unclear>ae</unclear>vit in urbes,</l><l n="21" xml:id="spp-316-50D2-line-21"> Ex<unclear>ae</unclear>quant sonitum undarum, veniente procellâ:</l><l n="22" xml:id="spp-316-50D2-line-22"> Littora littoribus reboant; vicinia latè,</l><l n="23" xml:id="spp-316-50D2-line-23"> Gens assueta mari, &amp; pedibus percurrere rupes,</l><l n="24" xml:id="spp-316-50D2-line-24"> Terretur tamen, &amp; longè fugit, arva relinquens.Gramina dum carpunt, pendentes rupe capell<unclear>ae</unclear></l><l n="25" xml:id="spp-316-50D2-line-25"> Vi salientis aqu<unclear>ae</unclear> de summo precipitantur,</l><l n="26" xml:id="spp-316-50D2-line-26"> Et dulces animas imo sub gurgite linquunt.Piscator terrâ non audet vellere funem</l><l n="27" xml:id="spp-316-50D2-line-27"> Sed latet in portu tremebundus, &amp; aëra sudum</l><l n="28" xml:id="spp-316-50D2-line-28"> Haud sperans, Nereum precibus votisq; fatigat</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-666B89L--title-1"><hi rend="underline">Upon </hi>CARTHY<hi rend="underline">'s <ref target="#spp-666B89L--footnote-title-1">1</ref><note n="1" xml:id="spp-666B89L--footnote-title-1" place="foot">Carthy, a scribbling schoolmaster, wrote some severe lines on Dr. Swift and his friends.</note> threatning to translate Pindar</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-666B89L--footnote-title-1 #spp-666B89L--title-1"/>
+        </linkGrp>
+        <div n="666B89L-" type="poem"><head type="note" n="1" xml:id="spp-666B89L--headnote-1"><lg n="1" xml:id="spp-666B89L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-666B89L--headnote-1-line-group-1-line-1">BY DR. SWIFT.</l></lg></head><head type="note" n="2" xml:id="spp-666B89L--headnote-2"><lg n="1" xml:id="spp-666B89L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-666B89L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-666B89L--headnote-3"><lg n="1" xml:id="spp-666B89L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-666B89L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-666B89L--line-1"><hi rend="display-initial">Y</hi>OU have undone Horace,──what should hinder</l><l n="2" xml:id="spp-666B89L--line-2"> Thy muse from falling upon Pindar?</l><l n="3" xml:id="spp-666B89L--line-3"> But e'er you mount his fiery steed,</l><l n="4" xml:id="spp-666B89L--line-4"> Beware, O <hi rend="underline">Bard</hi>, how you proceed:────</l><l n="5" xml:id="spp-666B89L--line-5"> For should you give him once the reins,</l><l n="6" xml:id="spp-666B89L--line-6"> High up in air he'll turn your brains;</l><l n="7" xml:id="spp-666B89L--line-7"> And if you should his fury check,</l><l n="8" xml:id="spp-666B89L--line-8"> 'Tis ten to one he breaks your neck.666B89L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The following Copy of Verses on the Death of the Regent of</title>
+        <title>France, was writ just after the Decease of that Prince, and<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y20-24MC" type="poem"><head type="note" n="1" xml:id="spp-Y20-24MC-headnote-1"><lg n="1" xml:id="spp-Y20-24MC-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y20-24MC-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y20-24MC-headnote-2"><lg n="1" xml:id="spp-Y20-24MC-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y20-24MC-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y20-24MC-headnote-3"><lg n="1" xml:id="spp-Y20-24MC-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y20-24MC-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y20-24MC-line-1"><hi rend="display-initial">H</hi>OW vain are mortal Man's endeavours!</l><l n="2" xml:id="spp-Y20-24MC-line-2"> (<hi rend="underline">Said, at Dame Elliot's, Master T────────s)</hi> dead! In Truth its hard,<hi rend="underline">Oh may all Statesmen die prepared</hi>!</l><l n="3" xml:id="spp-Y20-24MC-line-3"> Good Orleans</l><l n="4" xml:id="spp-Y20-24MC-line-4"> Ah Friends! Great changes threat the Land;</l><l n="5" xml:id="spp-Y20-24MC-line-5"> All <hi rend="underline">France</hi> and <hi rend="underline">England</hi> at a stand!</l><l n="6" xml:id="spp-Y20-24MC-line-6"> There's <hi rend="underline">Mereweis</hi>────Mark! Strange Work!</l><l n="7" xml:id="spp-Y20-24MC-line-7"> And there's the <hi rend="underline">Czar</hi>, and there's the <hi rend="underline">Turk</hi></l><l n="8" xml:id="spp-Y20-24MC-line-8"> I do foresee, (<hi rend="underline">and for foreseeing,</hi>)</l><l n="9" xml:id="spp-Y20-24MC-line-9"> He equals any Man in being</l><l n="10" xml:id="spp-Y20-24MC-line-10"> The Army ne'er can be disbanded,</l><l n="11" xml:id="spp-Y20-24MC-line-11"> I wish the KING were safely landed.</l><l n="12" xml:id="spp-Y20-24MC-line-12"> The <hi rend="underline">Pope.──────An Indian Merchant by,</hi>.</l><l n="13" xml:id="spp-Y20-24MC-line-13"> Cut short the Speech with this reply</l><l n="14" xml:id="spp-Y20-24MC-line-14"> All at a Stand! You see great Changes!</l><l n="15" xml:id="spp-Y20-24MC-line-15"> Ah, Sir, you never saw the <hi rend="underline">Ganges</hi>!</l><l n="16" xml:id="spp-Y20-24MC-line-16"> There dwell the Nations of <hi rend="underline">Quid-nunc-kies</hi>,</l><l n="17" xml:id="spp-Y20-24MC-line-17"> (So <hi rend="underline">Monopota</hi> calls <hi rend="underline">Monkies</hi>.)</l><l n="18" xml:id="spp-Y20-24MC-line-18"> On either Bank, from Bough to Bough,</l><l n="19" xml:id="spp-Y20-24MC-line-19"> They meet and chat (as we may now)</l><l n="20" xml:id="spp-Y20-24MC-line-20"> Whispers go round, they grin, they shrug,</l><l n="21" xml:id="spp-Y20-24MC-line-21"> They bow, they snarl, they scratch, they hug.</l><l n="22" xml:id="spp-Y20-24MC-line-22"> And just as Chance, or Whim provokes them,</l><l n="23" xml:id="spp-Y20-24MC-line-23"> They either bite their Friends, or stroke them.</l><l n="24" xml:id="spp-Y20-24MC-line-24"> There have I seen some active Prig,</l><l n="25" xml:id="spp-Y20-24MC-line-25"> To shew his Parts, bestride a Twig.</l><l n="26" xml:id="spp-Y20-24MC-line-26"> Lord! How the chattering Tribe admire,</l><l n="27" xml:id="spp-Y20-24MC-line-27"> Not that he's wiser, but he's higher:</l><l n="28" xml:id="spp-Y20-24MC-line-28"> All long to try the vent'rous Thing,</l><l n="29" xml:id="spp-Y20-24MC-line-29"> (<hi rend="underline">For Power's but to have one's Swing</hi>.)</l><l n="30" xml:id="spp-Y20-24MC-line-30"> From side to side he springs, he spurns,</l><l n="31" xml:id="spp-Y20-24MC-line-31"> And bangs his Foes and Friends by turns.</l><l n="32" xml:id="spp-Y20-24MC-line-32"> Thus as in giddy Freaks he bounces,</l><l n="33" xml:id="spp-Y20-24MC-line-33"> Crack goes the Twig, and in he flounces:</l><l n="34" xml:id="spp-Y20-24MC-line-34"> Down the swift Stream the Wretch is born,</l><l n="35" xml:id="spp-Y20-24MC-line-35"> Never.────Ah never to return!</l><l n="36" xml:id="spp-Y20-24MC-line-36"> Z──────ds what a Fall had our dear Brother,<hi rend="underline">Morblew</hi>! Cries one, and damme t'other.</l><l n="37" xml:id="spp-Y20-24MC-line-37"> The Nations give a general Screech,</l><l n="38" xml:id="spp-Y20-24MC-line-38"> None cocks his Tail, none claws his Breech:</l><l n="39" xml:id="spp-Y20-24MC-line-39"> Each trembles for the publick Weal,</l><l n="40" xml:id="spp-Y20-24MC-line-40"> And for a while <hi rend="underline">forgets to steal</hi>.</l><l n="41" xml:id="spp-Y20-24MC-line-41"> A while all Eyes intent and steddy,</l><l n="42" xml:id="spp-Y20-24MC-line-42"> Pursue him whirling down the Eddy;</l><l n="43" xml:id="spp-Y20-24MC-line-43"> But, out of Mind, when out of View,</l><l n="44" xml:id="spp-Y20-24MC-line-44"> Some other Mounts the Twig a-new.</l><l n="45" xml:id="spp-Y20-24MC-line-45"> And Business on each Monkey-Shore,</l><l n="46" xml:id="spp-Y20-24MC-line-46"> Runs the same Track it went before.Y20-24MC   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

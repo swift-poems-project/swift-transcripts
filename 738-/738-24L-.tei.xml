@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">JEALOUSY</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="738-24L-" type="poem"><head type="note" n="1" xml:id="spp-738-24L--headnote-1"><lg n="1" xml:id="spp-738-24L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-738-24L--headnote-1-line-group-1-line-1">By a L<hi rend="SMALL-CAPS">ADY</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-738-24L--headnote-2"><lg n="1" xml:id="spp-738-24L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-738-24L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-738-24L--headnote-3"><lg n="1" xml:id="spp-738-24L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-738-24L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-738-24L--line-1"><hi rend="display-initial">O</hi>H! shield me from his Rage, c<unclear>oe</unclear>lestial Powers!</l><l n="2" xml:id="spp-738-24L--line-2"> This Tyrant that imbitters all my Hours.</l><l n="3" xml:id="spp-738-24L--line-3"> Ah! Love, you've poorly play'd the Monarch's Part,</l><l n="4" xml:id="spp-738-24L--line-4"> You conquer'd, but you can't defend my Heart:</l><l n="5" xml:id="spp-738-24L--line-5"> So bless'd was I throughout thy happy Reign,</l><l n="6" xml:id="spp-738-24L--line-6"> I thought this Monster banish'd from thy Train;</l><l n="7" xml:id="spp-738-24L--line-7"> But you wou'd raise him to support your Throne,</l><l n="8" xml:id="spp-738-24L--line-8"> And now he claims your Empire as his own:</l><l n="9" xml:id="spp-738-24L--line-9"> Or tell me, Tyrants, have you both agreed,</l><l n="10" xml:id="spp-738-24L--line-10"> That where One reigns, the Other shall succeed.738-24L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

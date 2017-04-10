@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the back of the Print in M. S.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z727760L" type="poem"><head type="note" n="1" xml:id="spp-Z727760L-headnote-1"><lg n="1" xml:id="spp-Z727760L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Z727760L-headnote-1-line-group-1-line-1">A short Answer to a short Paper intitled A short way to a <hi rend="black-letter">Bishoprick</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-Z727760L-headnote-2"><lg n="1" xml:id="spp-Z727760L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Z727760L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Z727760L-headnote-3"><lg n="1" xml:id="spp-Z727760L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Z727760L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Z727760L-line-1"> Let News-boys cry the Scandal through the crowd&#13;</l><l n="2" xml:id="spp-Z727760L-line-2"> Let Beaus in Coffeehouses laugh aloud</l><l n="3" xml:id="spp-Z727760L-line-3"> Let good men hang their heads and Ladies titter</l><l n="4" xml:id="spp-Z727760L-line-4"> The matter neither is nor will be better</l><l n="5" xml:id="spp-Z727760L-line-5"> A Prelate I will be what e're it cost</l><l n="6" xml:id="spp-Z727760L-line-6"> If Sunderlnd or Walpole rule the roast.</l></lg><lg n="2" type="stanza"><l n="7" xml:id="spp-Z727760L-line-7" rend="align(center) flush left">Dublin printed and the impression bought up.Z727760L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

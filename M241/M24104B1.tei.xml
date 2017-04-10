@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mrs. Pilkington having heard that Dean Swift had</title>
+        <title>received a Paper Book from th Earl of Orrery, and</title>
+        <title>a Silver Standish from Dr. Delany, sent the Dean</title>
+        <title><hi rend="underline">an Eagle's Quill</hi>, with the following lines on the<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CCalella"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-M24104B1-footnote-1 #spp-M24104B1-line-5"/>
+          <link target="#spp-M24104B1-footnote-2 #spp-M24104B1-line-15"/>
+        </linkGrp>
+        <div n="M24104B1" type="poem"><head type="note" n="1" xml:id="spp-M24104B1-headnote-1"><lg n="1" xml:id="spp-M24104B1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M24104B1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-M24104B1-headnote-2"><lg n="1" xml:id="spp-M24104B1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M24104B1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M24104B1-headnote-3"><lg n="1" xml:id="spp-M24104B1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M24104B1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-M24104B1-line-1"> Shall then my kindred all my glory claim,&#13;</l><l n="2" xml:id="spp-M24104B1-line-2"> And boldly rob me of eternal fame?</l><l n="3" xml:id="spp-M24104B1-line-3"> To ev'ry art my gen'rous aid I lend,</l><l n="4" xml:id="spp-M24104B1-line-4"> To music, painting, poetry, a friend.</l><l n="5" xml:id="spp-M24104B1-line-5"> 'Tis I celestial harmony inspire,<ref target="#spp-M24104B1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-M24104B1-footnote-1">Quills of the harpsichord.</note>When fix'd to strike the sweetly warbling wire.</l><l n="6" xml:id="spp-M24104B1-line-6"> I to the faithful canvas have consign'd</l><l n="7" xml:id="spp-M24104B1-line-7"> Each bright idea of the painter's mind;</l><l n="8" xml:id="spp-M24104B1-line-8"> Behold from Raphael's sky-dipt pencils rise</l><l n="9" xml:id="spp-M24104B1-line-9"> Such heav'nly scenes as charm the gazer's eyes.</l><l n="10" xml:id="spp-M24104B1-line-10"> O let me now aspire to higher praise!</l><l n="11" xml:id="spp-M24104B1-line-11"> Ambitious to transcribe your deathless lays:</l><l n="12" xml:id="spp-M24104B1-line-12"> Nor thou, immortal bard! my aid refuse,</l><l n="13" xml:id="spp-M24104B1-line-13"> Accept me as the servant of your muse;</l><l n="14" xml:id="spp-M24104B1-line-14"> Then shall the world my wond'rous worth declare,</l><l n="15" xml:id="spp-M24104B1-line-15"> And all mankind your matchless pen revere.<ref target="#spp-M24104B1-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-M24104B1-footnote-2">The Dean in a letter to Mrs. Pilkington says, “I never saw better verses in their kind than those you have pleased to make upon me; of which opinion are some particular friends of genius and taste to whom I ventured to communicate them. I can only assure you, that I value your present as much as either of the others, only you must permit it to be turned into a pen; which office I will perform with my own hand, and never permit any other to use it.”</note>M24104B1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

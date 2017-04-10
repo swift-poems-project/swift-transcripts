@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Riddle y<hi rend="sup">e</hi> 2<hi rend="sup">d</hi>──by y<hi rend="sup">e</hi> Same</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="926-303B" type="poem"><head type="note" n="1" xml:id="spp-926-303B-headnote-1"><lg n="1" xml:id="spp-926-303B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-926-303B-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-926-303B-headnote-2"><lg n="1" xml:id="spp-926-303B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-926-303B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-926-303B-headnote-3"><lg n="1" xml:id="spp-926-303B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-926-303B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-926-303B-line-1"> Deprivd of root──and Branch──and Rind&#13;</l><l n="2" xml:id="spp-926-303B-line-2"> Yet flowr's I bear of Ev'ry Kind</l><l n="3" xml:id="spp-926-303B-line-3"> And such is my prolifick pow'r</l><l n="4" xml:id="spp-926-303B-line-4"> They bloom in less──than half an hour</l><l n="5" xml:id="spp-926-303B-line-5"> Yet standers·by may plainly See</l><l n="6" xml:id="spp-926-303B-line-6"> They get no nourishment from me</l><l n="7" xml:id="spp-926-303B-line-7"> My head w<hi rend="sup">tḥ</hi> giddiness goes round</l><l n="8" xml:id="spp-926-303B-line-8"> And yet I firmly stand my ground</l><l n="9" xml:id="spp-926-303B-line-9"> All over naked I am Seen</l><l n="10" xml:id="spp-926-303B-line-10"> And painted like an Indian queen</l><l n="11" xml:id="spp-926-303B-line-11"> No couple─beggar in y<hi rend="sup">e</hi> land</l><l n="12" xml:id="spp-926-303B-line-12"> E'er joynd such numbers hand in hand</l><l n="13" xml:id="spp-926-303B-line-13"> I Joyn them fairly in A ring</l><l n="14" xml:id="spp-926-303B-line-14"> Nor can our parson blame y<hi rend="sup">e</hi> thing</l><l n="15" xml:id="spp-926-303B-line-15"> And tho no marriage words are spoke</l><l n="16" xml:id="spp-926-303B-line-16"> They part not──till y<hi rend="sup">ẹ</hi> ring is broke</l><l n="17" xml:id="spp-926-303B-line-17"> Yet hippocrite Phanaticks cry</l><l n="18" xml:id="spp-926-303B-line-18"> I'm but An Idol rais'd on high</l><l n="19" xml:id="spp-926-303B-line-19"> And once A Weaver in Our town</l><l n="20" xml:id="spp-926-303B-line-20"> A cur'sd Cromwellian knockd me down</l><l n="21" xml:id="spp-926-303B-line-21"> I lay A Prisoner twenty years</l><l n="22" xml:id="spp-926-303B-line-22"> And then y<hi rend="sup">e</hi> Jovial Cavaliers</l><l n="23" xml:id="spp-926-303B-line-23"> To their old Post restord all three</l><l n="24" xml:id="spp-926-303B-line-24"> I mean the Church──y<hi rend="sup">e</hi> King──and me926-303B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Run upon the Bankers.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RPeres"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="239-05P1" type="poem"><head type="note" n="1" xml:id="spp-239-05P1-headnote-1"><lg n="1" xml:id="spp-239-05P1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-239-05P1-headnote-1-line-group-1-line-1">Written in the Year 1720.</l></lg></head><head type="note" n="2" xml:id="spp-239-05P1-headnote-2"><lg n="1" xml:id="spp-239-05P1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-239-05P1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-239-05P1-headnote-3"><lg n="1" xml:id="spp-239-05P1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-239-05P1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-239-05P1-line-1" rend="align(center)">I.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-239-05P1-line-2" rend="flush left"><hi rend="display-initial">T</hi>HE bold Encroachers of the Deep,Gain by Degrees huge Tracts of Land,</l><l n="3" xml:id="spp-239-05P1-line-3" rend="align(center)"> 'Till <hi rend="underline">Neptune</hi> with one gen'ral Sweep,Turns all again to barren Strand.II.</l></lg><lg n="3" type="stanza"><l n="4" xml:id="spp-239-05P1-line-4" rend="flush left align(center)">The Multitudes capricious Pranks&#13;Are said to represent the Seas;<hi rend="underline">Breaking</hi> the <hi rend="underline">Bankers</hi> and the <hi rend="underline">Banks</hi>,Resume <hi rend="underline">their own</hi> whene'er they please.III.</l></lg><lg n="4" type="stanza"><l n="5" xml:id="spp-239-05P1-line-5" rend="flush left">Money, the Life-blood of the Nation,&#13;Corrupts and stagnates in the Veins,</l><l n="6" xml:id="spp-239-05P1-line-6" rend="align(center)"> Unless a proper <hi rend="underline">Circulation</hi>Its Motion and its Heat maintains.IV.</l></lg><lg n="5" type="stanza"><l n="7" xml:id="spp-239-05P1-line-7" rend="flush left">Because 'tis <hi rend="underline">lordly</hi> not to pay,<hi rend="underline">Quakers</hi> and <hi rend="underline">Aldermen</hi>, in State,</l><l n="8" xml:id="spp-239-05P1-line-8" rend="align(center)"> Like <hi rend="underline">Peers</hi>, have <hi rend="underline">Levees</hi> ev'ry DayOf Duns attending at their Gate.V.</l></lg><lg n="6" type="stanza"><l n="9" xml:id="spp-239-05P1-line-9" rend="flush left">We count our Money on the Nail;&#13;The Banker's ruin'd if he pays:</l><l n="10" xml:id="spp-239-05P1-line-10" rend="align(center)"> They seem to act an ancient Tale;The <hi rend="underline">Birds</hi> are met to strip the <hi rend="underline">Jays</hi>.VI.</l></lg><lg n="7" type="stanza"><l n="11" xml:id="spp-239-05P1-line-11" rend="flush left">Riches, the wisest Monarch sings,&#13;<hi rend="underline">Make Pinions for themselves to fly</hi>:</l><l n="12" xml:id="spp-239-05P1-line-12" rend="align(center)"> They fly like Bats, on <hi rend="underline">Parchment Wings</hi>,And Geese their <hi rend="underline">Silver</hi> Plumes supply.VII.</l></lg><lg n="8" type="stanza"><l n="13" xml:id="spp-239-05P1-line-13" rend="flush left">No Money left for squand'ring Heirs!&#13;<hi rend="underline">Bills</hi> turn the Lenders into Debtors:</l><l n="14" xml:id="spp-239-05P1-line-14" rend="align(center)"> The Wish of <hi rend="underline">Nero</hi> now is theirs,That they <hi rend="underline">had never known their Letters</hi>.VIII.</l></lg><lg n="9" type="stanza"><l n="15" xml:id="spp-239-05P1-line-15" rend="flush left">Conceive the Works of Midnight Hags,&#13;Tormenting Fools behind their Backs;</l><l n="16" xml:id="spp-239-05P1-line-16" rend="align(center)"> Thus Bankers o'er their Bills and BagsSit squeezing <hi rend="underline">Images of Wax</hi>.IX.</l></lg><lg n="10" type="stanza"><l n="17" xml:id="spp-239-05P1-line-17" rend="flush left">Conceive the whole Enchantment broke;&#13;The Witches left in open Air,</l><l n="18" xml:id="spp-239-05P1-line-18" rend="align(center)"> With Pow'r no more than other Folk,Expos'd with all their <hi rend="underline">Magick</hi> Ware.X.</l></lg><lg n="11" type="stanza"><l n="19" xml:id="spp-239-05P1-line-19" rend="flush left">So pow'rful are a Banker's Bills,&#13;Where Creditors demand their Due;</l><l n="20" xml:id="spp-239-05P1-line-20" rend="align(center)"> They break up Counter, Doors and Tills,And leave the empty Chests in View.XI.</l></lg><lg n="12" type="stanza"><l n="21" xml:id="spp-239-05P1-line-21" rend="flush left">Thus when an Earthquake lets in Light&#13;Upon the God of <hi rend="underline">Gold</hi> and <hi rend="underline">Hell</hi>,</l><l n="22" xml:id="spp-239-05P1-line-22" rend="align(center)"> Unable to endure the Light,He hides within his darkest Cell.XII.</l></lg><lg n="13" type="stanza"><l n="23" xml:id="spp-239-05P1-line-23" rend="flush left">As when a Conj'rer takes a Lease&#13;From <hi rend="underline">Satan</hi> for a Term of Years,</l><l n="24" xml:id="spp-239-05P1-line-24" rend="align(center)"> The Tenant's in a dismal CaseWhene'er the <hi rend="underline">bloody Bond</hi> appears.XIII.</l></lg><lg n="14" type="stanza"><l n="25" xml:id="spp-239-05P1-line-25" rend="flush left">A <hi rend="underline">baited</hi> Banker thus desponds,From his own Hand foresees his Fall;</l><l n="26" xml:id="spp-239-05P1-line-26" rend="align(center)"> They have his <hi rend="underline">Soul</hi> who have his <hi rend="underline">Bonds</hi>;'Tis like the <hi rend="underline">Writing on the Wall</hi>.XIV.</l></lg><lg n="15" type="stanza"><l n="27" xml:id="spp-239-05P1-line-27" rend="flush left">How will the Caitiff Wretch be scar'd,&#13;When first he finds himself awake</l><l n="28" xml:id="spp-239-05P1-line-28" rend="align(center)"> At the last Trumpet, unprepar'd,And all his <hi rend="underline">Grand Account</hi> to make?XV.</l></lg><lg n="16" type="stanza"><l n="29" xml:id="spp-239-05P1-line-29" rend="flush left">For in that universal <hi rend="underline">Call</hi>Few Bankers will to Heav'n be Mounters;</l><l n="30" xml:id="spp-239-05P1-line-30" rend="align(center)"> They'll cry, <hi rend="underline">Ye</hi> Shops, <hi rend="underline">upon us fall</hi>,Conceal and <hi rend="underline">cover us, ye</hi> Counters.XVI.</l></lg><lg n="17" type="stanza"><l n="31" xml:id="spp-239-05P1-line-31" rend="flush left">When <hi rend="underline">other</hi> Hands the <hi rend="underline">Scales</hi> shall hold,And they in <hi rend="underline">Men and Angels Sight</hi>,</l><l n="32" xml:id="spp-239-05P1-line-32"> Produc'd with all their Bills and Gold,<hi rend="underline">Weigh'd in the Ballance, and found light</hi>.239-05P1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

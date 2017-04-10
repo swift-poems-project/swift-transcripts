@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y48A33IL" type="poem"><head type="note" n="1" xml:id="spp-Y48A33IL-headnote-1"><lg n="1" xml:id="spp-Y48A33IL-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y48A33IL-headnote-1-line-group-1-line-1">The following Lines are said to be written by Dr. S<hi rend="SMALL-CAPS">WIFT</hi> to a Friend, who asked him which were his favourite Furniture.</l></lg></head><head type="note" n="2" xml:id="spp-Y48A33IL-headnote-2"><lg n="1" xml:id="spp-Y48A33IL-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y48A33IL-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y48A33IL-headnote-3"><lg n="1" xml:id="spp-Y48A33IL-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y48A33IL-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y48A33IL-line-1"><hi rend="display-initial">T</hi>HE Furniture that best doth please</l><l n="2" xml:id="spp-Y48A33IL-line-2"> St. <hi rend="underline">Patrick</hi>'s Dean, good Sir, are these;</l><l n="3" xml:id="spp-Y48A33IL-line-3"> The <hi rend="underline">Knife</hi> and <hi rend="underline">Fork</hi>, with which I <hi rend="underline">eat</hi>,</l><l n="4" xml:id="spp-Y48A33IL-line-4"> And next the <hi rend="underline">Pot</hi> that <hi rend="underline">boils</hi> the <hi rend="underline">Meat</hi>;</l><l n="5" xml:id="spp-Y48A33IL-line-5"> The next to be preferr'd, I think,</l><l n="6" xml:id="spp-Y48A33IL-line-6"> Is the <hi rend="underline">Glass</hi> in which I <hi rend="underline">drink</hi>;</l><l n="7" xml:id="spp-Y48A33IL-line-7"> The Shelves on which my <hi rend="underline">Books</hi> I keep,</l><l n="8" xml:id="spp-Y48A33IL-line-8"> And the <hi rend="underline">Bed</hi> in which I <hi rend="underline">sleep</hi>;</l><l n="9" xml:id="spp-Y48A33IL-line-9"> An Antique <hi rend="underline">Elbow Chair</hi> between,</l><l n="10" xml:id="spp-Y48A33IL-line-10"> Big enough to hold the Dean;</l><l n="11" xml:id="spp-Y48A33IL-line-11"> And the <hi rend="underline">Stove</hi> that gives Delight,</l><l n="12" xml:id="spp-Y48A33IL-line-12"> In the cold, bleak, wintry Night:</l><l n="13" xml:id="spp-Y48A33IL-line-13"> To these we add a Thing <hi rend="underline">below</hi>,</l><l n="14" xml:id="spp-Y48A33IL-line-14"> More for <hi rend="underline">Use</hi> reserv'd than <hi rend="underline">Shew</hi>:</l><l n="15" xml:id="spp-Y48A33IL-line-15"> These are what the Dean do please;</l><l n="16" xml:id="spp-Y48A33IL-line-16"> All <hi rend="underline">superfluous</hi> are but <hi rend="underline">these</hi>.Y48A33IL   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

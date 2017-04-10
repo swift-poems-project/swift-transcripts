@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">The Dean's Answer to 'Upon Stealing a Crown'</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X33-ROGP" type="poem"><head type="note" n="1" xml:id="spp-X33-ROGP-headnote-1"><lg n="1" xml:id="spp-X33-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X33-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X33-ROGP-headnote-2"><lg n="1" xml:id="spp-X33-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X33-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X33-ROGP-headnote-3"><lg n="1" xml:id="spp-X33-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X33-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X33-ROGP-line-1"> So about twelve at night, the punk&#13;</l><l n="2" xml:id="spp-X33-ROGP-line-2"> Steals from the cully when he's drunk;</l><l n="3" xml:id="spp-X33-ROGP-line-3"> Nor is contented with a treat,</l><l n="4" xml:id="spp-X33-ROGP-line-4"> Without her privilege to cheat.</l><l n="5" xml:id="spp-X33-ROGP-line-5"> Nor can I the least difference find,</l><l n="6" xml:id="spp-X33-ROGP-line-6"> But that you left no clap behind.</l><l n="7" xml:id="spp-X33-ROGP-line-7"> But jest apart, restore, you capon ye,</l><l n="8" xml:id="spp-X33-ROGP-line-8"> My twelve thirteens and sixpence halfpenny.</l><l n="9" xml:id="spp-X33-ROGP-line-9"> To eat my meat, and drink my Medlicot,</l><l n="10" xml:id="spp-X33-ROGP-line-10"> And then to give me such a deadly cut──</l><l n="11" xml:id="spp-X33-ROGP-line-11"> But 'tis observed, that men in gowns</l><l n="12" xml:id="spp-X33-ROGP-line-12"> Are most inclined to plunder <hi rend="underline">crowns</hi>.</l><l n="13" xml:id="spp-X33-ROGP-line-13"> Could you but <hi rend="underline">change</hi> a crown as easy</l><l n="14" xml:id="spp-X33-ROGP-line-14"> As you can steal one, how 'twould please ye!</l><l n="15" xml:id="spp-X33-ROGP-line-15"> I thought the lady at St Catherine's</l><l n="16" xml:id="spp-X33-ROGP-line-16"> Knew how to set you better patterns;</l><l n="17" xml:id="spp-X33-ROGP-line-17"> For this I will not dine with Agmondisham,</l><l n="18" xml:id="spp-X33-ROGP-line-18"> And for his victuals let a ragman dish 'em.X33-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

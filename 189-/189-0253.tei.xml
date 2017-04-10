@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The FAGGOT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-189-0253-footnote-1 #spp-189-0253-line-28"/>
+          <link target="#spp-189-0253-footnote-2 #spp-189-0253-line-35"/>
+          <link target="#spp-189-0253-footnote-3 #spp-189-0253-line-38"/>
+          <link target="#spp-189-0253-footnote-4 #spp-189-0253-line-40"/>
+          <link target="#spp-189-0253-footnote-5 #spp-189-0253-line-45"/>
+          <link target="#spp-189-0253-footnote-6 #spp-189-0253-line-51"/>
+          <link target="#spp-189-0253-footnote-7 #spp-189-0253-line-51"/>
+          <link target="#spp-189-0253-footnote-8 #spp-189-0253-line-51"/>
+        </linkGrp>
+        <div n="189-0253" type="poem"><head type="note" n="1" xml:id="spp-189-0253-headnote-1"><lg n="1" xml:id="spp-189-0253-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-189-0253-headnote-1-line-group-1-line-1">Written in the Year, 1713, when the Queen's Ministers were quarrelling among themselves.</l></lg></head><head type="note" n="2" xml:id="spp-189-0253-headnote-2"><lg n="1" xml:id="spp-189-0253-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-189-0253-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-189-0253-headnote-3"><lg n="1" xml:id="spp-189-0253-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-189-0253-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-189-0253-line-1"><hi rend="display-initial">O</hi>BSERVE the dying Father speak:</l><l n="2" xml:id="spp-189-0253-line-2"> Try Lads, can you this Bundle break;</l><l n="3" xml:id="spp-189-0253-line-3"> Then bids the youngest of the Six</l><l n="4" xml:id="spp-189-0253-line-4"> Take up a well-bound Heap of Sticks.</l><l n="5" xml:id="spp-189-0253-line-5"> They thought it was an old Man's Maggot;</l><l n="6" xml:id="spp-189-0253-line-6"> And strove by turns to break the Faggot:</l><l n="7" xml:id="spp-189-0253-line-7"> In vain; the complicated Wands</l><l n="8" xml:id="spp-189-0253-line-8"> Were much too strong for all their Hands.</l><l n="9" xml:id="spp-189-0253-line-9"> See, said the Sire, how soon 'tis done:</l><l n="10" xml:id="spp-189-0253-line-10"> Then took and broke them one by one.</l><l n="11" xml:id="spp-189-0253-line-11"> So strong you'll be, in Friendship ty'd;</l><l n="12" xml:id="spp-189-0253-line-12"> So quickly broke, if you divide.</l><l n="13" xml:id="spp-189-0253-line-13"> Keep close then, Boys, and never quarrel,</l><l n="14" xml:id="spp-189-0253-line-14"> Here ends the Fable and the Moral.</l></lg><lg n="2" type="stanza"><l n="15" xml:id="spp-189-0253-line-15">T<hi rend="SMALL-CAPS">HIS</hi> Tale may be apply'd in few Words</l><l n="16" xml:id="spp-189-0253-line-16"> To Treasurers, Controllers, Stewards,</l><l n="17" xml:id="spp-189-0253-line-17"> And others, who in solemn Sort</l><l n="18" xml:id="spp-189-0253-line-18"> Appear with slender Wands at Court:</l><l n="19" xml:id="spp-189-0253-line-19"> Not firmly join'd to keep their Ground,</l><l n="20" xml:id="spp-189-0253-line-20"> But lashing one another round:</l><l n="21" xml:id="spp-189-0253-line-21"> While wise Men think they ought to fight</l><l n="22" xml:id="spp-189-0253-line-22"> With <hi rend="underline">Quarter</hi>-staffs, instead of <hi rend="underline">White</hi>;</l><l n="23" xml:id="spp-189-0253-line-23"> Or Constable with <hi rend="underline">Staff</hi> of Peace</l><l n="24" xml:id="spp-189-0253-line-24"> Should come, and make the Clatt'ring cease;</l><l n="25" xml:id="spp-189-0253-line-25"> Which now disturbs the Q<hi rend="SMALL-CAPS">UEEN</hi> and Court,</l><l n="26" xml:id="spp-189-0253-line-26"> And gives the <hi rend="underline">Whigs</hi> and Rabble Sport.</l></lg><lg n="3" type="stanza"><l n="27" xml:id="spp-189-0253-line-27">I<hi rend="SMALL-CAPS">N</hi> History we never found</l><l n="28" xml:id="spp-189-0253-line-28"> The Consuls <ref target="#spp-189-0253-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-189-0253-footnote-1"><hi rend="underline">A Bundle of Rods, or small Sticks, carried before the Consuls at</hi> Rome.</note> Fasces were unbound;</l><l n="29" xml:id="spp-189-0253-line-29"> Those <hi rend="underline">Romans</hi> were too wise to think on't,</l><l n="30" xml:id="spp-189-0253-line-30"> Except to lash some grand Delinquent.</l><l n="31" xml:id="spp-189-0253-line-31"> How would they blush to hear it said,</l><l n="32" xml:id="spp-189-0253-line-32"> The Pr<unclear>ae</unclear>tor broke the Consul's Head?</l><l n="33" xml:id="spp-189-0253-line-33"> Or Consul, in his Purple Gown,</l><l n="34" xml:id="spp-189-0253-line-34"> Came up, and knock'd the Pr<unclear>ae</unclear>tor down.</l></lg><lg n="4" type="stanza"><l n="35" xml:id="spp-189-0253-line-35">C<hi rend="SMALL-CAPS">OME</hi> Courtiers: Every Man his Stick:<ref target="#spp-189-0253-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-189-0253-footnote-2">R<hi rend="SMALL-CAPS">OBERT</hi>, <hi rend="underline">Earl of</hi> O<hi rend="SMALL-CAPS">XFORD</hi>.</note>Lord Treasurer; for once be quick:</l><l n="36" xml:id="spp-189-0253-line-36"> And that they may the closer cling,</l><l n="37" xml:id="spp-189-0253-line-37"> Take your blue Ribbon for a String.</l><l n="38" xml:id="spp-189-0253-line-38"> Come, trimming <ref target="#spp-189-0253-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-189-0253-footnote-3"><hi rend="underline">Lord Chancellor</hi>.</note><hi rend="underline">Harcourt</hi>, bring your Mace;</l><l n="39" xml:id="spp-189-0253-line-39"> And squeeze it in, or quit your Place:</l><l n="40" xml:id="spp-189-0253-line-40"> Dispatch, or else that Rascal <ref target="#spp-189-0253-footnote-4">4</ref><note place="foot" n="4" xml:id="spp-189-0253-footnote-4"><hi rend="underline">Sir </hi>E<hi rend="SMALL-CAPS">DWARD</hi> N<hi rend="SMALL-CAPS">ORTHEY<hi rend="underline">, Attorney-General, brought in by the Lord </hi></hi>H<hi rend="SMALL-CAPS">ARCOURT<hi rend="underline">; yet very desirous of the Great Seal</hi></hi>.</note><hi rend="underline">Northey</hi>,</l><l n="41" xml:id="spp-189-0253-line-41"> Will undertake to do it for thee:</l><l n="42" xml:id="spp-189-0253-line-42"> And, be assur'd, the Court will find him</l><l n="43" xml:id="spp-189-0253-line-43"> Prepar'd to <hi rend="underline">leap o'er Sticks</hi>, or bind 'em.</l></lg><lg n="5" type="stanza"><l n="44" xml:id="spp-189-0253-line-44">T<hi rend="SMALL-CAPS">O</hi> make the Bundle strong and safe,</l><l n="45" xml:id="spp-189-0253-line-45"> Great <ref target="#spp-189-0253-footnote-5">5</ref><note place="foot" n="5" xml:id="spp-189-0253-footnote-5">J<hi rend="SMALL-CAPS">AMES</hi> B<hi rend="SMALL-CAPS">UTLER</hi>, <hi rend="underline">Duke of </hi>O<hi rend="SMALL-CAPS">RMONDE<hi rend="underline">, then Captain-General, who left </hi></hi>England<hi rend="underline"> in the Year </hi>1714<hi rend="underline">, and lived at </hi>Avignon<hi rend="underline"> in </hi>France<hi rend="underline">, where he dyed without Issue in </hi>1746<hi rend="underline">. His Corps was brought to </hi>England<hi rend="underline">, and interred in</hi> Westminster-Abbey.</note><hi rend="underline">Ormonde</hi> lend thy Gen'ral's Staff:</l><l n="46" xml:id="spp-189-0253-line-46"> And, if the <hi rend="underline">Crosier</hi> could be cramm'd in,</l><l n="47" xml:id="spp-189-0253-line-47"> A Fig for <hi rend="underline">Lechmere, King</hi> and <hi rend="underline">Hambden</hi>;</l><l n="48" xml:id="spp-189-0253-line-48"> You'll then defy the strongest <hi rend="underline">Whig</hi>,</l><l n="49" xml:id="spp-189-0253-line-49"> With both his Hands to bend a Twig;</l><l n="50" xml:id="spp-189-0253-line-50"> Though with united Strength they all pull:</l><l n="51" xml:id="spp-189-0253-line-51"> From <ref target="#spp-189-0253-footnote-6">6</ref><note place="foot" n="6" xml:id="spp-189-0253-footnote-6"><hi rend="underline">Lord </hi>S<hi rend="SMALL-CAPS">OMERS<hi rend="underline">, who had been, at different Times, Lord Chancellor and President of the Council</hi></hi>.</note><hi rend="underline">Somers</hi> down to <ref target="#spp-189-0253-footnote-7">7</ref><note place="foot" n="7" xml:id="spp-189-0253-footnote-7">J<hi rend="SMALL-CAPS">AME</hi>s C<hi rend="SMALL-CAPS">RAGG</hi>s, <hi rend="underline">who hath since been Secretary of State</hi>.</note><hi rend="underline">Craggs</hi> and <ref target="#spp-189-0253-footnote-8">8</ref><note place="foot" n="8" xml:id="spp-189-0253-footnote-8">R<hi rend="SMALL-CAPS">OBERT</hi> W<hi rend="SMALL-CAPS">ALPOLE</hi>, <hi rend="underline">Esq; Prime-Minister of State for above </hi>20<hi rend="underline"> Years to King </hi>G<hi rend="SMALL-CAPS">EORGE</hi> I<hi rend="underline">. and </hi>II<hi rend="underline">. made Knight of the Bath </hi>May 1725<hi rend="underline">, and Knight of the Garter </hi>May 1726<hi rend="underline">, created Earl of </hi>O<hi rend="SMALL-CAPS">RFORD</hi> 1742<hi rend="underline">, and died</hi> 1745.</note><hi rend="underline">Walpole</hi>.189-0253   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

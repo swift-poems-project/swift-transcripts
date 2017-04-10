@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To the Earl of O<hi rend="SMALL-CAPS">XFORD</hi>, late Lord Treasurer.<lb/>Sent to him when he was in the Tower, be-<lb/>fore his trial.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-210-06E2-footnote-1 #spp-210-06E2-line-9"/>
+        </linkGrp>
+        <div n="210-06E2"><head type="note" n="1" xml:id="spp-210-06E2-headnote-1"><lg n="1" xml:id="spp-210-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-210-06E2-headnote-1-line-group-1-line-1">Out of Horace.&#13;</l></lg></head><head type="note" n="2" xml:id="spp-210-06E2-headnote-2"><lg n="1" xml:id="spp-210-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-210-06E2-headnote-2-line-group-1-line-1">Written in the year 1716.</l></lg></head><head type="note" n="3" xml:id="spp-210-06E2-headnote-3"><lg n="1" xml:id="spp-210-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-210-06E2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-210-06E2-line-1"><hi rend="display-initial">H</hi>OW bless'd is he who for his country dies,</l><l/><l n="2" xml:id="spp-210-06E2-line-2">Since death pursues the coward as he flies!</l><l/><l n="3" xml:id="spp-210-06E2-line-3">The youth in vain would fly from fate's attack,</l><l/><l n="4" xml:id="spp-210-06E2-line-4">With trembling knees, and terror at his back;</l><l/><l n="5" xml:id="spp-210-06E2-line-5">Though fear should lend him pinions like the wind,</l><l/><l n="6" xml:id="spp-210-06E2-line-6">Yet swifter fate will seize him from behind.</l><l/><l n="7" xml:id="spp-210-06E2-line-7"/></lg><lg n="2" type="stanza"><l>Virtue repuls'd, yet knows not to repine:&#13;</l><l/><l n="8" xml:id="spp-210-06E2-line-8">But shall with unattainted honour shine;</l><l/><l n="9" xml:id="spp-210-06E2-line-9">Nor stoops to take the <hi rend="underline">staff</hi><ref target="#spp-210-06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-210-06E2-footnote-1">A white <hi rend="underline">staff</hi> is the ensign of the Lord Treasurer's office.</note>, nor lays it down,</l><l/><l n="10" xml:id="spp-210-06E2-line-10">Just as the rabble please to smile or frown.</l><l/><l n="11" xml:id="spp-210-06E2-line-11"/></lg><lg n="3" type="stanza"><l>Virtue, to crown her fav'rites, loves to try&#13;</l><l/><l n="12" xml:id="spp-210-06E2-line-12">Some new unbeaten passage to the sky;</l><l/><l n="13" xml:id="spp-210-06E2-line-13">Where Jove a seat among the gods will give</l><l/><l n="14" xml:id="spp-210-06E2-line-14">To those who die for meriting to live.</l><l/><l n="15" xml:id="spp-210-06E2-line-15"/></lg><lg n="4" type="stanza"><l>Next, faithful silence hath a sure reward;&#13;</l><l/><l n="16" xml:id="spp-210-06E2-line-16">Within our breast be ev'ry secret barr'd:</l><l/><l n="17" xml:id="spp-210-06E2-line-17">He who betrays his friend, shall never be</l><l/><l n="18" xml:id="spp-210-06E2-line-18">Under one roof, or in one ship, with me.</l><l/><l n="19" xml:id="spp-210-06E2-line-19">For who with traitors would his safety trust,</l><l/><l n="20" xml:id="spp-210-06E2-line-20">Lest with the wicked heaven involve the just?</l><l/><l n="21" xml:id="spp-210-06E2-line-21">And though the villain 'scape a while, he feels</l><l/><l n="22" xml:id="spp-210-06E2-line-22">Slow vengeance, like a blood-hound, at his heels.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-875-06E2-title-1">D<hi rend="SMALL-CAPS">RAPIER</hi>'s H<hi rend="SMALL-CAPS">ILL</hi> <ref target="#spp-875-06E2-footnote-title-1">1</ref><note n="1" xml:id="spp-875-06E2-footnote-title-1" place="foot">The Dean gave this name to a farm call'd <hi rend="underline">Drumlack</hi>, which he took of Sir Arthur Acheson, whose seat lay between that and Market-hill, and intended to build a house upon it, but afterwards changed his mind. <hi rend="underline">Hawkes</hi></note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-875-06E2-footnote-title-1 #spp-875-06E2-title-1"/>
+          <link target="#spp-875-06E2-footnote-1 #spp-875-06E2-line-9"/>
+          <link target="#spp-875-06E2-footnote-2 #spp-875-06E2-line-18"/>
+        </linkGrp>
+        <div n="875-06E2"><head type="note" n="1" xml:id="spp-875-06E2-headnote-1"><lg n="1" xml:id="spp-875-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-875-06E2-headnote-1-line-group-1-line-1">Written in the year 1729.&#13;</l></lg></head><head type="note" n="2" xml:id="spp-875-06E2-headnote-2"><lg n="1" xml:id="spp-875-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-875-06E2-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-875-06E2-headnote-3"><lg n="1" xml:id="spp-875-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-875-06E2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-875-06E2-line-1"><hi rend="display-initial">W</hi>E give the world to understand,</l><l/><l n="2" xml:id="spp-875-06E2-line-2">Our thriving Dean has purchas'd land;</l><l/><l n="3" xml:id="spp-875-06E2-line-3">A purchase which will bring him clear</l><l/><l n="4" xml:id="spp-875-06E2-line-4">Above his rent four pounds a-year;</l><l/><l n="5" xml:id="spp-875-06E2-line-5">Provided, to improve the ground,</l><l/><l n="6" xml:id="spp-875-06E2-line-6">He will but add two hundred pound,</l><l/><l n="7" xml:id="spp-875-06E2-line-7">And from his endless hoarded store</l><l/><l n="8" xml:id="spp-875-06E2-line-8">To build a house five hundred more.</l><l/><l n="9" xml:id="spp-875-06E2-line-9">Sir Arthur <ref target="#spp-875-06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-875-06E2-footnote-1">Sir Arthur Acheson, from whom the purchase was made.</note> too shall have his will,</l><l/><l n="10" xml:id="spp-875-06E2-line-10">And  call the mansion <hi rend="underline">Drapier's hill</hi>:</l><l/><l n="11" xml:id="spp-875-06E2-line-11">That when a nation, long inslav'd,</l><l/><l n="12" xml:id="spp-875-06E2-line-12">Forgets by whom it once was sav'd;</l><l/><l n="13" xml:id="spp-875-06E2-line-13">When none the D<hi rend="SMALL-CAPS">RAPIER</hi>'s praise shall sing;</l><l/><l n="14" xml:id="spp-875-06E2-line-14">His signs aloft no longer swing;</l><l/><l n="15" xml:id="spp-875-06E2-line-15"><gap/></l><l/><l n="16" xml:id="spp-875-06E2-line-16"><gap/></l><l/><l n="17" xml:id="spp-875-06E2-line-17">His medals and his prints forgotten,</l><l/><l n="18" xml:id="spp-875-06E2-line-18">And all his handkerchiefs are rotten<ref target="#spp-875-06E2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-875-06E2-footnote-2">Medals were cast, many signs hung up, and handkerchiefs made with devices, in honour of the author, under the name of <hi rend="underline">M.B. Drapier</hi>.</note>;</l><l/><l n="19" xml:id="spp-875-06E2-line-19">His famous L<hi rend="SMALL-CAPS">ETTERS</hi> made waste paper;</l><l/><l n="20" xml:id="spp-875-06E2-line-20">This hill may keep the name of D<hi rend="SMALL-CAPS">RAPIER</hi>:</l><l/><l n="21" xml:id="spp-875-06E2-line-21">In spite of envy flourish still,</l><l/><l n="22" xml:id="spp-875-06E2-line-22">And D<hi rend="SMALL-CAPS">RAPIER</hi>'s vie with C<hi rend="SMALL-CAPS">OOPER</hi>'s hill.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

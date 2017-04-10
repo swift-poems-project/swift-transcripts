@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dean Swift upon his Curate Robert Hewit</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-675-412P-footnote-1 #spp-675-412P-line-3"/>
+        </linkGrp>
+        <div n="675-412P" type="poem"><head type="note" n="1" xml:id="spp-675-412P-headnote-1"><lg n="1" xml:id="spp-675-412P-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-675-412P-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-675-412P-headnote-2"><lg n="1" xml:id="spp-675-412P-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-675-412P-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-675-412P-headnote-3"><lg n="1" xml:id="spp-675-412P-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-675-412P-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-675-412P-line-1">I march'd four Miles thro' scorching sand,&#13;</l><l n="2" xml:id="spp-675-412P-line-2"> with Zeal in heart, and Notes in hand,</l><l n="3" xml:id="spp-675-412P-line-3"> and Rode four more to Little <ref target="#spp-675-412P-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-675-412P-footnote-1">St Mary Guildford</note> S<hi rend="sup">t</hi> Mary,</l><l n="4" xml:id="spp-675-412P-line-4"> useing four Leg's When two were weary,</l><l n="5" xml:id="spp-675-412P-line-5"> T<unclear>o overw</unclear> two fair Virgins I did tye men,</l><l n="6" xml:id="spp-675-412P-line-6"> In the Close Bands of Pleasing Hymen,</l><l n="7" xml:id="spp-675-412P-line-7"> I dipp'd three Babes in holy Watter,</l><l n="8" xml:id="spp-675-412P-line-8"> and purified their Mothers after;</l><l n="9" xml:id="spp-675-412P-line-9"> within two hours &amp; a half</l><l n="10" xml:id="spp-675-412P-line-10"> I preach'd three congregations Deaf</l><l n="11" xml:id="spp-675-412P-line-11"> and in the compass of one More</l><l n="12" xml:id="spp-675-412P-line-12"> Ran evening service Oe'r &amp; oe'r</l><l n="13" xml:id="spp-675-412P-line-13"> Which thunderd out with Lungs long winded</l><l n="14" xml:id="spp-675-412P-line-14"> I chopt so fast that few could mind it</l><l n="15" xml:id="spp-675-412P-line-15"> my emblem (the unwearied sun)</l><l n="16" xml:id="spp-675-412P-line-16"> Saw all these mighty Labours done</l><l n="17" xml:id="spp-675-412P-line-17"> before one Race of his was <unclear>Run overdone?</unclear>.</l><l n="18" xml:id="spp-675-412P-line-18"> all this performd <add>By</add><del>of</del> Robert Hewit,</l><l n="19" xml:id="spp-675-412P-line-19"> What mortal else coud e'er go thro' it,675-412P   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

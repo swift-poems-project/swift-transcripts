@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="540-560B" type="poem"><head type="note" n="1" xml:id="spp-540-560B-headnote-1"><lg n="1" xml:id="spp-540-560B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-540-560B-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-540-560B-headnote-2"><lg n="1" xml:id="spp-540-560B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-540-560B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-540-560B-headnote-3"><lg n="1" xml:id="spp-540-560B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-540-560B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-540-560B-line-1"> Confoudant du passe le leger Souvenir&#13;</l><l n="2" xml:id="spp-540-560B-line-2"> Ebloui du preseut sans percer l'avenir</l><l n="3" xml:id="spp-540-560B-line-3"> Dan's l'art de gouverner decrepit &amp; Novice</l><l n="4" xml:id="spp-540-560B-line-4"> Punissant la Vertu recompensant le vice</l><l n="5" xml:id="spp-540-560B-line-5"> Malgre son Tete altiere accable de son rang</l><l n="6" xml:id="spp-540-560B-line-6"> Fourbe dans le petit et dupe de le Grand</l><l n="7" xml:id="spp-540-560B-line-7"> On connoit a ces Traits sans mesme qu'on le nomme</l><l n="8" xml:id="spp-540-560B-line-8"> le Maitre de la France &amp; le Valet de Rome</l></lg><lg n="2" type="stanza"><l n="9" xml:id="spp-540-560B-line-9">With Favour &amp; fortune fastidiously blest&#13;</l><l n="10" xml:id="spp-540-560B-line-10"> he's loud in his laugh &amp; he's coarse in his Jest.</l><l n="11" xml:id="spp-540-560B-line-11"> Of favour &amp; fortune unmerited vain</l><l n="12" xml:id="spp-540-560B-line-12"> a Sharper in trifles a dupe in the main,</l><l n="13" xml:id="spp-540-560B-line-13"> atchieving of nothing still promising Wonder's</l><l n="14" xml:id="spp-540-560B-line-14"> by dint of Experience improving in Blunders</l><l n="15" xml:id="spp-540-560B-line-15"> oppressing true merit exalting the base</l><l n="16" xml:id="spp-540-560B-line-16"> and selling his Country to purchase a peace</l><l n="17" xml:id="spp-540-560B-line-17"> A Jobber of Stocks by retailing false news</l><l n="18" xml:id="spp-540-560B-line-18"> a prater at Court in the Stile of y<hi rend="sup">e</hi> Stews</l><l n="19" xml:id="spp-540-560B-line-19"> of Virtue &amp; worth by profession a Giber</l><l n="20" xml:id="spp-540-560B-line-20"> of Iuries &amp; Senates the bully &amp; briber</l><l n="21" xml:id="spp-540-560B-line-21"> Tho I name not y<hi rend="sup">e</hi> wretch you know who I mean</l><l n="22" xml:id="spp-540-560B-line-22"> Tis the Cur dog of Brittain &amp; spaniel of Spain<gap/>540-560B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

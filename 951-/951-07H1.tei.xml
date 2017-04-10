@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>APPLES.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="951-07H1" type="poem"><head type="note" n="1" xml:id="spp-951-07H1-headnote-1"><lg n="1" xml:id="spp-951-07H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-951-07H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-951-07H1-headnote-2"><lg n="1" xml:id="spp-951-07H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-951-07H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-951-07H1-headnote-3"><lg n="1" xml:id="spp-951-07H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-951-07H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-951-07H1-line-1"><hi rend="display-initial">C</hi>OME buy my fine wares,</l><l n="2" xml:id="spp-951-07H1-line-2"> Plumbs, apples, and pears,</l><l n="3" xml:id="spp-951-07H1-line-3"> A hundred a penny,</l><l n="4" xml:id="spp-951-07H1-line-4"> In conscience too many:</l><l n="5" xml:id="spp-951-07H1-line-5"> Come, will you have any?</l><l n="6" xml:id="spp-951-07H1-line-6"> My children are seven,</l><l n="7" xml:id="spp-951-07H1-line-7"> I wish them in heaven,</l><l n="8" xml:id="spp-951-07H1-line-8"> My husband a sot,</l><l n="9" xml:id="spp-951-07H1-line-9"> With his pipe and his pot,</l><l n="10" xml:id="spp-951-07H1-line-10"> Not a farthing will gain 'em,</l><l n="11" xml:id="spp-951-07H1-line-11"> And I must maintain 'em.951-07H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

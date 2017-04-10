@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Extempore By D<hi rend="sup">r</hi> Swift</title>
+        <title>on his Curate's Complaining<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="675-362Y" type="poem"><head type="note" n="1" xml:id="spp-675-362Y-headnote-1"><lg n="1" xml:id="spp-675-362Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-675-362Y-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-675-362Y-headnote-2"><lg n="1" xml:id="spp-675-362Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-675-362Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-675-362Y-headnote-3"><lg n="1" xml:id="spp-675-362Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-675-362Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-675-362Y-line-1">I March'd three Miles through Scorching Sand,&#13;</l><l n="2" xml:id="spp-675-362Y-line-2"> with zeal in heart &amp; Notes in hand,</l><l n="3" xml:id="spp-675-362Y-line-3"> I Rode four more to great St Mary,</l><l n="4" xml:id="spp-675-362Y-line-4"> Using four legs when two were weary,</l><l n="5" xml:id="spp-675-362Y-line-5"> To three fair Virgins I did tye Men,</l><l n="6" xml:id="spp-675-362Y-line-6"> In the Close Bands of Pleasing Hymen.</l><l n="7" xml:id="spp-675-362Y-line-7"> I Dipp'd two Babes in Holy Water</l><l n="8" xml:id="spp-675-362Y-line-8"> And purifyd their Mothers after</l><l n="9" xml:id="spp-675-362Y-line-9"> Within an Hour &amp; eke a half</l><l n="10" xml:id="spp-675-362Y-line-10"> I preach'd three Congregations deaf<gap/><gap/></l><l n="11" xml:id="spp-675-362Y-line-11"> Which thundring out with lungs long winded,</l><l n="12" xml:id="spp-675-362Y-line-12"> I Chopp'd so fast That few their minded,</l><l n="13" xml:id="spp-675-362Y-line-13"> My Emblem, the Laborious Sun</l><l n="14" xml:id="spp-675-362Y-line-14"> Saw all these mighty labours done,</l><l n="15" xml:id="spp-675-362Y-line-15"> before one Race of his was run.</l><l n="16" xml:id="spp-675-362Y-line-16"> All this perform'd by Robert Hewit,</l><l n="17" xml:id="spp-675-362Y-line-17"> What Mortal Else<del>beside</del> Could ee'r go through it,675-362Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

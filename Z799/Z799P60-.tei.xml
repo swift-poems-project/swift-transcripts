@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Paraphrase on the Seven</title>
+        <title>Penitential PSALMS, by the</title>
+        <title>Reverend Mr. <hi rend="underline">R---d D---l</hi>, D. of <hi rend="underline">A</hi>.</title>
+        <title>Or <hi rend="underline">Strephon</hi> to <hi rend="underline">Belinda</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z799P60-" type="poem"><head type="note" n="1" xml:id="spp-Z799P60--headnote-1"><lg n="1" xml:id="spp-Z799P60--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Z799P60--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Z799P60--headnote-2"><lg n="1" xml:id="spp-Z799P60--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Z799P60--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Z799P60--headnote-3"><lg n="1" xml:id="spp-Z799P60--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Z799P60--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Z799P60--line-1"><hi rend="display-initial">H</hi>EAR, fair <hi rend="underline">Belinda</hi>, hear thy Suppliant's cry,</l><l n="2" xml:id="spp-Z799P60--line-2"> I faint────oh! hear and pardon e're I die;</l><l n="3" xml:id="spp-Z799P60--line-3"> Wild and Distracted with thy Love I flee</l><l n="4" xml:id="spp-Z799P60--line-4"> Thou Lovely Charmer of my Soul to thee,</l><l n="5" xml:id="spp-Z799P60--line-5"> I know my follies must thy anger move</l><l n="6" xml:id="spp-Z799P60--line-6"> Chastise me──────but Chastise me in thy Love,</l><l n="7" xml:id="spp-Z799P60--line-7"> Oh! let thy wonted softness take my part</l><l n="8" xml:id="spp-Z799P60--line-8"> Vex'd are my Bones and broken──────is my Heart,</l><l n="9" xml:id="spp-Z799P60--line-9"> My Rivals, See, exulting in their Pride</l><l n="10" xml:id="spp-Z799P60--line-10"> Watch for my ruin, and my fate deride,</l><l n="11" xml:id="spp-Z799P60--line-11"> Must they in human cruel Triumph have</l><l n="12" xml:id="spp-Z799P60--line-12"> Is there no Hope, no Refuge, but the Grave.</l><l n="13" xml:id="spp-Z799P60--line-13"> Why heaves my swelling Heart with sorrows prest</l><l n="14" xml:id="spp-Z799P60--line-14"> Why do's it pant, and flutter in my Breast,</l><l n="15" xml:id="spp-Z799P60--line-15"> What would'st thou say my Heart, or how express</l><l n="16" xml:id="spp-Z799P60--line-16"> How tell the piteous Tale of thy Distress,</l><l n="17" xml:id="spp-Z799P60--line-17"> Be hush't fond thing, and let thy Sighs alone</l><l n="18" xml:id="spp-Z799P60--line-18"> Too well thy Follies, and thy Griefs are known,</l><l n="19" xml:id="spp-Z799P60--line-19"> She knows, she knows thee all, she sees thee through,</l><l n="20" xml:id="spp-Z799P60--line-20"> Ah! as she sees, wou'd she but pity too.</l><l n="21" xml:id="spp-Z799P60--line-21"> Oh! hear me, kind <hi rend="underline">Belinda</hi>, and forgive</l><l n="22" xml:id="spp-Z799P60--line-22"> Heal, heal a broken Heart and bid me rise and live;</l><l n="23" xml:id="spp-Z799P60--line-23"> Alass how chang'd──────all Comeliness is fled</l><l n="24" xml:id="spp-Z799P60--line-24"> No Sprightly Ardour plays around my Head,</l><l n="25" xml:id="spp-Z799P60--line-25"> Deep Eating Care has Furrow'd up my Face</l><l n="26" xml:id="spp-Z799P60--line-26"> Unhappy <hi rend="underline">Strephon</hi> is not────what he was,</l><l n="27" xml:id="spp-Z799P60--line-27"> Ah endless source of woe; ah fatal smart</l><l n="28" xml:id="spp-Z799P60--line-28"> Which inward Burns and preys upon my Heart,</l><l n="29" xml:id="spp-Z799P60--line-29"> What should I do; my easy Couch I prest</l><l n="30" xml:id="spp-Z799P60--line-30"> And thought that gentle Sleep would give me rest,</l><l n="31" xml:id="spp-Z799P60--line-31"> Sleep would not, could not come, the silent Night</l><l n="32" xml:id="spp-Z799P60--line-32"> Enlarg'd my woes, and gave them all to sight,</l></lg><lg n="2" type="stanza"><l n="33" xml:id="spp-Z799P60--line-33">From side to side I turn'd, I rav'd I tost&#13;</l><l n="34" xml:id="spp-Z799P60--line-34"> And wish'd my very sense of being lost;</l></lg><lg n="3" type="stanza"><l n="35" xml:id="spp-Z799P60--line-35">Thus pierc'd with grief, and wilder'd with despair&#13;</l><l n="36" xml:id="spp-Z799P60--line-36"> The Nightingale laments her tender care,</l></lg><lg n="4" type="stanza"><l n="37" xml:id="spp-Z799P60--line-37">To every wind her sorrow is addrest&#13;</l><l n="38" xml:id="spp-Z799P60--line-38"> When some rude hand has robb'd her downy Nest,</l></lg><lg n="5" type="stanza"><l n="39" xml:id="spp-Z799P60--line-39">She trys the brake, she Searches all the plain&#13;</l><l n="40" xml:id="spp-Z799P60--line-40"> Often she's heard to call but call in vain,</l></lg><lg n="6" type="stanza"><l n="41" xml:id="spp-Z799P60--line-41">She hangs her Wings, she hates the tedious Day&#13;</l><l n="42" xml:id="spp-Z799P60--line-42"> And pensive mourns the live long Night away;</l></lg><lg n="7" type="stanza"><l n="43" xml:id="spp-Z799P60--line-43">Oh hear me, save me, pity and forgive&#13;</l><l n="44" xml:id="spp-Z799P60--line-44"> Nor is it yet too late to bid me live,</l></lg><lg n="8" type="stanza"><l n="45" xml:id="spp-Z799P60--line-45">One kind reviving Word will set me free&#13;<hi rend="underline">Belinda</hi> let me live, that I may live for thee;</l></lg><lg n="9" type="stanza"><l n="46" xml:id="spp-Z799P60--line-46">Come, fair <hi rend="underline">Belinda</hi>, take thy Servants part</l><l n="47" xml:id="spp-Z799P60--line-47"> Come fair <hi rend="underline">Belinda</hi>, Triumph o're my Heart,</l></lg><lg n="10" type="stanza"><l n="48" xml:id="spp-Z799P60--line-48">Seise, take it all, and let the wand'rer be&#13;</l><l n="49" xml:id="spp-Z799P60--line-49"> Close knit in sweetest bonds to Love and Thee,</l></lg><lg n="11" type="stanza"><l n="50" xml:id="spp-Z799P60--line-50">Come, fair <hi rend="underline">Belinda</hi>, take my injur'd part</l><l n="51" xml:id="spp-Z799P60--line-51"> Oh come, and reign for ever in my Heart;</l></lg><lg n="12" type="stanza"><l n="52" xml:id="spp-Z799P60--line-52">The Boy, th' ambitious Boy comes thund'ring on&#13;</l><l n="53" xml:id="spp-Z799P60--line-53"> And with his powerful Darts do's hunt me down,</l></lg><lg n="13" type="stanza"><l n="54" xml:id="spp-Z799P60--line-54">Come quickly to my aid, thou welcome Guest&#13;</l><l n="55" xml:id="spp-Z799P60--line-55"> And gently lull my fainting Soul to rest,</l></lg><lg n="14" type="stanza"><l n="56" xml:id="spp-Z799P60--line-56">Oh haste thee, do not stop, make no delay&#13;</l><l n="57" xml:id="spp-Z799P60--line-57"> How pressing is my danger, haste away;</l></lg><lg n="15" type="stanza"><l n="58" xml:id="spp-Z799P60--line-58">She hears, she hears, go bear the Tidings round&#13;</l><l n="59" xml:id="spp-Z799P60--line-59"> My joyful Heart springs forward to the Sound;</l></lg><lg n="16" type="stanza"><l n="60" xml:id="spp-Z799P60--line-60">She heard, she saw, and willing to forgive&#13;</l><l n="61" xml:id="spp-Z799P60--line-61"> She pitied, nay she kindly bid me live,</l></lg><lg n="17" type="stanza"><l n="62" xml:id="spp-Z799P60--line-62">Then, then I felt a sudden transport rise&#13;</l><l n="63" xml:id="spp-Z799P60--line-63"> Spring in my Heart, and lighten in my Eyes,</l></lg><lg n="18" type="stanza"><l n="64" xml:id="spp-Z799P60--line-64">From my Charm'd Soul I banish'd every care,&#13;</l><l n="65" xml:id="spp-Z799P60--line-65"> All Heaven rush'd in, and took possession there.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

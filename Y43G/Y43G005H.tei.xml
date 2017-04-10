@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Nurses Song</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y43G005H" type="poem"><head type="note" n="1" xml:id="spp-Y43G005H-headnote-1"><lg n="1" xml:id="spp-Y43G005H-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y43G005H-headnote-1-line-group-1-line-1">1732</l></lg></head><head type="note" n="2" xml:id="spp-Y43G005H-headnote-2"><lg n="1" xml:id="spp-Y43G005H-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y43G005H-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y43G005H-headnote-3"><lg n="1" xml:id="spp-Y43G005H-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y43G005H-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y43G005H-line-1"> O my Kitten, my Kitten, &amp; o my Kitten a Deary,&#13;</l><l n="2" xml:id="spp-Y43G005H-line-2"> Such a sweet Pet as this, there is not far or neary;</l><l n="3" xml:id="spp-Y43G005H-line-3"> Here we go up, up, up, &amp; here we go down, down, downy,</l><l n="4" xml:id="spp-Y43G005H-line-4"> Here we go backward &amp; forward, &amp; here we go roun, roun, rouny.</l></lg><lg n="2" type="stanza"><l n="5" xml:id="spp-Y43G005H-line-5" rend="align(center)">2.</l></lg><lg n="3" type="stanza"><l n="6" xml:id="spp-Y43G005H-line-6" rend="flush left">Cucky, Cukoo my lilly Cock, see saw sacky Downy&#13;</l><l n="7" xml:id="spp-Y43G005H-line-7"> Gallop a trot, trot, trot, &amp; hey for London Towny:</l><l n="8" xml:id="spp-Y43G005H-line-8"> This Pig went to the market, &amp; creep mouse, mousy mousy,</l><l n="9" xml:id="spp-Y43G005H-line-9"> Shoe shoe shoe y<hi rend="sup">ẹ</hi> wild Colt: &amp; here is your own Doll Dowsy.</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-Y43G005H-line-10" rend="align(center)">3.</l></lg><lg n="5" type="stanza"><l n="11" xml:id="spp-Y43G005H-line-11" rend="flush left">Wher' was a jewel a Petsy, &amp; wher' was a Sugar a spicy&#13;</l><l n="12" xml:id="spp-Y43G005H-line-12"> Huza by by in a Cadle, &amp; we'll go abroad in a tricy:</l><l n="13" xml:id="spp-Y43G005H-line-13"> Did a Papa torment it: he kiss'd my Baby &amp; did he</l><l n="14" xml:id="spp-Y43G005H-line-14"> Husha in Mama's own bosom, &amp; take us own suck a diddy.</l></lg><lg n="6" type="stanza"><l n="15" xml:id="spp-Y43G005H-line-15" rend="align(center)">4.</l></lg><lg n="7" type="stanza"><l n="16" xml:id="spp-Y43G005H-line-16" rend="flush left">Good morrow; o there's a pudding broke, slobber o! threads o chrystal&#13;</l><l n="17" xml:id="spp-Y43G005H-line-17"> Oh the sweet Posset comes up; who s<hi rend="sup">ḍ</hi> y<hi rend="sup">ṭ</hi> my Child was pist all,</l><l n="18" xml:id="spp-Y43G005H-line-18"> Water my Chicken's come clock; leave off or I'll scrab ye &amp; rawb ye</l><l n="19" xml:id="spp-Y43G005H-line-19"> Come give me a hand to beat him; ah, ah, will you vex my Baby.</l></lg><lg n="8" type="stanza"><l n="20" xml:id="spp-Y43G005H-line-20" rend="align(center)">5.</l></lg><lg n="9" type="stanza"><l n="21" xml:id="spp-Y43G005H-line-21" rend="flush left">Whe is y<hi rend="sup">ẹ</hi> laugh &amp; the Crow, whe is the gigling bony</l><l n="22" xml:id="spp-Y43G005H-line-22"> A goody good child shall be fed, but naughty pack shall have nony</l><l n="23" xml:id="spp-Y43G005H-line-23"> Get ye gone raw head &amp; bloody bones here is a child does not fear ye</l><l n="24" xml:id="spp-Y43G005H-line-24"> Come pissy piss my Jewel; &amp; eh, eh, eh my deary.Y43G005H   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

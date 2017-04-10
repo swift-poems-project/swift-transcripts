@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Crambo on Ballyspellin,</title>
+        <title>a Place in Ireland, fam'd for<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="438-321L" type="poem"><head type="note" n="1" xml:id="spp-438-321L-headnote-1"><lg n="1" xml:id="spp-438-321L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-438-321L-headnote-1-line-group-1-line-1">To the Tune of Sally in our Ally.</l></lg></head><head type="note" n="2" xml:id="spp-438-321L-headnote-2"><lg n="1" xml:id="spp-438-321L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-438-321L-headnote-2-line-group-1-line-1">1728.</l></lg></head><head type="note" n="3" xml:id="spp-438-321L-headnote-3"><lg n="1" xml:id="spp-438-321L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-438-321L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-438-321L-line-1" rend="align(center)">1.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-438-321L-line-2" rend="flush left">All you that wou'd&#13;Refine your Blood,</l><l n="3" xml:id="spp-438-321L-line-3"> As pure as fam'd Luellin,By Waters clear;Come once a Year</l><l n="4" xml:id="spp-438-321L-line-4" rend="align(center)"> To drink at Ballyspellin.2.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-438-321L-line-5" rend="flush left">If Pox or Itch&#13;Your Skins inrich</l><l n="6" xml:id="spp-438-321L-line-6"> With Rubies past the telling;'Twill cure your Skin,Before you've been,</l><l n="7" xml:id="spp-438-321L-line-7" rend="align(center)"> A Month at Ballyspellin.3.</l></lg><lg n="4" type="stanza"><l n="8" xml:id="spp-438-321L-line-8" rend="flush left">If Lady's Cheek&#13;Be green as Leek</l><l n="9" xml:id="spp-438-321L-line-9"> When she comes from her Dwelling,The kindling RoseWithin it blows</l><l n="10" xml:id="spp-438-321L-line-10" rend="flush left"> When she's at Ballyspelling.4.</l></lg><lg n="5" type="stanza"><l n="11" xml:id="spp-438-321L-line-11" rend="flush left">The sooty Brown&#13;That comes from Town</l><l n="12" xml:id="spp-438-321L-line-12"> Grows here as fair as Hellen;Then back she goesTo kill the Beaux,</l><l n="13" xml:id="spp-438-321L-line-13" rend="align(center)"> By Dint of Ballyspelling.5.</l></lg><lg n="6" type="stanza"><l n="14" xml:id="spp-438-321L-line-14" rend="flush left">All Ladies here&#13;Are fresh and fair</l><l n="15" xml:id="spp-438-321L-line-15"> As Ross, or bright Dunkellin;And Mars might makeA fair Mistake,</l><l n="16" xml:id="spp-438-321L-line-16" rend="align(center) flush left"> Were he at Ballyspellin.6.We Men submitAs they think fit,</l><l n="17" xml:id="spp-438-321L-line-17"> And here is no rebelling;The Reason's plain,The Lady's reign,</l><l n="18" xml:id="spp-438-321L-line-18" rend="align(center) flush left"> They're Queens at Ballyspellin.7.By matchless CharmsUnconquer'd Arms</l><l n="19" xml:id="spp-438-321L-line-19"> They have the Power of quellingSuch desperate FoesAs dare oppose</l><l n="20" xml:id="spp-438-321L-line-20" rend="align(center) flush left"> Their Power at Ballyspellin.8.Cold Water turnsTo Fire, and burns,</l><l n="21" xml:id="spp-438-321L-line-21"> I know, because I fell inA Stream which cameFrom one bright Dame,</l><l n="22" xml:id="spp-438-321L-line-22" rend="align(center) flush left"> Who drank at Ballyspellin.9.Fine Beaux advanceEquipt for Dance,</l><l n="23" xml:id="spp-438-321L-line-23"> And bring their Ann or Nell in,With so much Grace,I'm sure no place</l><l n="24" xml:id="spp-438-321L-line-24" rend="align(center) flush left"> Can vie with Ballyspellin.10.No Politicks,No subtle Tricks,</l><l n="25" xml:id="spp-438-321L-line-25"> No Man his Country selling,We eat, we drink,We never think</l><l n="26" xml:id="spp-438-321L-line-26" rend="align(center) flush left"> Of these at Ballyspellin.11.The troubl'd in MindThe puff'd with Wind,</l><l n="27" xml:id="spp-438-321L-line-27"> Do all come here Pell-mell in,And they are sureTo work their Cure,</l><l n="28" xml:id="spp-438-321L-line-28" rend="align(center) flush left"> By drinking Ballyspellin.12.If Dropsy fillsYou to the Gills,</l><l n="29" xml:id="spp-438-321L-line-29"> From Top to Toe tho' swelling,Pour in, pour out,You'll find, no doubt,</l><l n="30" xml:id="spp-438-321L-line-30" rend="align(center) flush left"> A Cure at Ballyspellin.13.Thro' all these PartsDeath throws no Darts,</l><l n="31" xml:id="spp-438-321L-line-31"> No Sexton's here a Knelling;Come judge and tryYou'll never die,</l><l n="32" xml:id="spp-438-321L-line-32" rend="align(center) flush left"> But live at Ballyspellin.14.Except you feelDarts tipt with Steel,</l><l n="33" xml:id="spp-438-321L-line-33"> Which here are ev'ry Belle in,When from their EyesSweet Ruin flies,</l><l n="34" xml:id="spp-438-321L-line-34" rend="align(center) flush left"> We die at Ballyspellin.15.Good Cheer, sweet Air,Much Ioy, no Care,</l><l n="35" xml:id="spp-438-321L-line-35"> Your Taste, your Sight, your Smelling,Your Ears, your Touch,Transported much</l><l n="36" xml:id="spp-438-321L-line-36" rend="align(center) flush left"> Each day at Ballyspelling.16.Within this Ground,All Folks sleep sound,</l><l n="37" xml:id="spp-438-321L-line-37"> No noisy Dogs a yelling,Except you wake,For C<unclear>ae</unclear>lia's Sake,</l><l n="38" xml:id="spp-438-321L-line-38" rend="align(center) flush left"> All night at Ballyspellin.17.Here All you see,Both he and she,</l><l n="39" xml:id="spp-438-321L-line-39"> No Lady keeps her Cell in,But all partakeThe Mirth we make</l><l n="40" xml:id="spp-438-321L-line-40" rend="align(center) flush left"> Who drink at Ballyspellin.18.My Rhimes are gone,I think I'·ve none,</l><l n="41" xml:id="spp-438-321L-line-41"> Except I should bring Hell in;But since I'm here,To Heav'n so near,</l><l n="42" xml:id="spp-438-321L-line-42"> I can't at Ballyspellin.438-321L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

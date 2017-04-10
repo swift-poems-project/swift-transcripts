@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">The</hi> Pedagogue's ANSWER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-989-35D--footnote-1 #spp-989-35D--line-14"/>
+        </linkGrp>
+        <div n="989-35D-" type="poem"><head type="note" n="1" xml:id="spp-989-35D--headnote-1"><lg n="1" xml:id="spp-989-35D--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-989-35D--headnote-1-line-group-1-line-1">Written in the Year 1718.</l></lg></head><head type="note" n="2" xml:id="spp-989-35D--headnote-2"><lg n="1" xml:id="spp-989-35D--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-989-35D--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-989-35D--headnote-3"><lg n="1" xml:id="spp-989-35D--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-989-35D--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-989-35D--line-1"><hi rend="underline">SIR</hi>,</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-989-35D--line-2"><hi rend="display-initial">I</hi> Thank you for your Comedies,</l><l n="3" xml:id="spp-989-35D--line-3"> Against the Hipps the surest Remedies.</l><l n="4" xml:id="spp-989-35D--line-4"> Because <hi rend="underline">Pareus</hi> wrote but sorrily</l><l n="5" xml:id="spp-989-35D--line-5"> His Notes, I'll read <hi rend="underline">Lambinus</hi> thoroly.</l><l n="6" xml:id="spp-989-35D--line-6"> And then I shall be stoutly set a-gog,</l><l n="7" xml:id="spp-989-35D--line-7"> To challenge every <hi rend="underline">Irish</hi> Pedagogue.</l><l n="8" xml:id="spp-989-35D--line-8"> I like your nice Epistle Critical,</l><l n="9" xml:id="spp-989-35D--line-9"> Which does in threefold Rhymes so witty fall.</l><l n="10" xml:id="spp-989-35D--line-10"> Upon the Comick Drama and Tragedy,</l><l n="11" xml:id="spp-989-35D--line-11"> Your Notion's right, but Verses magotty.</l><l n="12" xml:id="spp-989-35D--line-12"> 'Tis just an hour since I heard a Man swear it,</l><l n="13" xml:id="spp-989-35D--line-13"> The Devil himself could hardly answer it.</l><l n="14" xml:id="spp-989-35D--line-14"> As for your Friend the Sage <ref target="#spp-989-35D--footnote-1">1</ref><note place="foot" n="1" xml:id="spp-989-35D--footnote-1"><hi rend="underline">N.B.</hi> You told me you forgot your <hi rend="underline">Greek</hi>.</note><hi rend="underline">Euripides</hi>,</l><l n="15" xml:id="spp-989-35D--line-15"> I believe you give him now the Slip a-days.</l><l n="16" xml:id="spp-989-35D--line-16"> But Mum for that──pray call a <hi rend="underline">Saturday</hi>,</l><l n="17" xml:id="spp-989-35D--line-17"> And dine with me, you can't a better Day.</l><l n="18" xml:id="spp-989-35D--line-18"> I'll give you nothing but a Mutton-Chop,</l><l n="19" xml:id="spp-989-35D--line-19"> Some nappy mellow'd Ale with rotten Hop.</l><l n="20" xml:id="spp-989-35D--line-20"> A Pint of Wine; as good as <hi rend="underline">Falern</hi>,</l><l n="21" xml:id="spp-989-35D--line-21"> Which, we Masters (God knows) all earn.</l><l n="22" xml:id="spp-989-35D--line-22"> We'll have a Friend or Two at Table,</l><l n="23" xml:id="spp-989-35D--line-23"> Right honest Men, for few are come at-able.</l><l n="24" xml:id="spp-989-35D--line-24"> Then when our Liquor makes us Talkative,</l><l n="25" xml:id="spp-989-35D--line-25"> We'll to the Fields, and take a Walk at Eve.Because I am troubled much with Laziness,These Rhymes I've chosen for their Easiness.989-35D-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

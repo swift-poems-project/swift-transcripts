@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">To the Author of a Poem call'd the</hi> Furniture<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-Z80435LD-footnote-1 #spp-Z80435LD-line-14"/>
+        </linkGrp>
+        <div n="Z80435LD" type="poem"><head type="note" n="1" xml:id="spp-Z80435LD-headnote-1"><lg n="1" xml:id="spp-Z80435LD-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Z80435LD-headnote-1-line-group-1-line-1">(<hi rend="underline">See p</hi>. 93)</l></lg></head><head type="note" n="2" xml:id="spp-Z80435LD-headnote-2"><lg n="1" xml:id="spp-Z80435LD-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Z80435LD-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Z80435LD-headnote-3"><lg n="1" xml:id="spp-Z80435LD-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Z80435LD-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Z80435LD-line-1"><hi rend="display-initial">I</hi>LLUSTRIOUS Doctor! pray excuse</l><l n="2" xml:id="spp-Z80435LD-line-2"> The sallies of a female muse.</l><l n="3" xml:id="spp-Z80435LD-line-3"> You criticise, tho' deaf, and blinking,</l><l n="4" xml:id="spp-Z80435LD-line-4"> On our bad <hi rend="underline">English</hi>, dressing, thinking.</l><l n="5" xml:id="spp-Z80435LD-line-5"> Now you'r become morose and stupid,</l><l n="6" xml:id="spp-Z80435LD-line-6"> Secure against the darts of <hi rend="underline">Cupid</hi>;</l><l n="7" xml:id="spp-Z80435LD-line-7"> Old <hi rend="underline">Pegasus</hi> you gall and tire,</l><l n="8" xml:id="spp-Z80435LD-line-8"> To spatter us with dirt and mire.</l><l n="9" xml:id="spp-Z80435LD-line-9"> It's to the world vast information,</l><l n="10" xml:id="spp-Z80435LD-line-10"> To tell we're fond of dress and fashion;</l><l n="11" xml:id="spp-Z80435LD-line-11"> And to the publick mighty useful,</l><l n="12" xml:id="spp-Z80435LD-line-12"> To read of dirty shift and close-st--l.</l><l n="13" xml:id="spp-Z80435LD-line-13"> We <hi rend="underline">never hold our tongues a minute</hi>,<hi rend="underline">Tho' all </hi>we<hi rend="underline"> say has nothing in it</hi>:</l><l n="14" xml:id="spp-Z80435LD-line-14"> Who's in the fault? if our <ref target="#spp-Z80435LD-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-Z80435LD-footnote-1"><hi rend="underline">According to Mr. </hi>Locke<hi rend="underline"> who won't allow innate Ideas</hi>.</note> creator</l><l n="15" xml:id="spp-Z80435LD-line-15"> Forms souls as blank as spotless paper;</l><l n="16" xml:id="spp-Z80435LD-line-16"> Then ladies by scholastick knowledge,</l><l n="17" xml:id="spp-Z80435LD-line-17"> Improv'd by tutors sent to college,</l><l n="18" xml:id="spp-Z80435LD-line-18"> Might tell a mood, a noun, or case,</l><l n="19" xml:id="spp-Z80435LD-line-19"> As ready as the price of lace:</l><l n="20" xml:id="spp-Z80435LD-line-20"> Might read old <hi rend="underline">Homer</hi> with more skill,</l><l n="21" xml:id="spp-Z80435LD-line-21"> Than chuse a silk, or play quadrill;</l><l n="22" xml:id="spp-Z80435LD-line-22"> Wou'd like a <hi rend="underline">Boyle</hi> before a <hi rend="underline">Handall</hi>,</l><l n="23" xml:id="spp-Z80435LD-line-23"> Nor doat on coxcombs, or on scandal.</l><l n="24" xml:id="spp-Z80435LD-line-24"> A skilful poet, like a painter,</l><l n="25" xml:id="spp-Z80435LD-line-25"> Whether he's serious or in banter,</l><l n="26" xml:id="spp-Z80435LD-line-26"> Keeps madam nature in his eye,</l><l n="27" xml:id="spp-Z80435LD-line-27"> Or else the work's not worth a fly.</l><l n="28" xml:id="spp-Z80435LD-line-28"> But you so far exceed her rules,</l><l n="29" xml:id="spp-Z80435LD-line-29"> And make our sex such monstrous fools,</l><l n="30" xml:id="spp-Z80435LD-line-30"> That were all men to think like you,</l><l n="31" xml:id="spp-Z80435LD-line-31"> A chaos must of course ensue.</l><l n="32" xml:id="spp-Z80435LD-line-32"> Your brother poets you have long since</l><l n="33" xml:id="spp-Z80435LD-line-33"> Accus'd of most egregious nonsense;</l><l n="34" xml:id="spp-Z80435LD-line-34"> You'r now become as good a diver,</l><l n="35" xml:id="spp-Z80435LD-line-35"> As <hi rend="underline">Dennis, Philips</hi>, or <hi rend="underline">Ce--livre</hi>.</l><l n="36" xml:id="spp-Z80435LD-line-36"> In your new region take the chair,<hi rend="underline">B----more</hi> resign, he's rightful heir.Z80435LD   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

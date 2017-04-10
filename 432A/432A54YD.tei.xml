@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>P<hi rend="SMALL-CAPS">AULUS</hi>, <hi rend="underline">by Mr</hi>. L────<hi rend="SMALL-CAPS">Y</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="432A54YD" type="poem"><head type="note" n="1" xml:id="spp-432A54YD-headnote-1"><lg n="1" xml:id="spp-432A54YD-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-432A54YD-headnote-1-line-group-1-line-1">Dublin, Sept. 7, 1728.</l></lg></head><head type="note" n="2" xml:id="spp-432A54YD-headnote-2"><lg n="1" xml:id="spp-432A54YD-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-432A54YD-headnote-2-line-group-1-line-1"><hi rend="underline">In a Piece lately published, called </hi>The Dreamer<hi rend="underline">, is inserted a Poem of Dean</hi> S<hi rend="SMALL-CAPS">WIFT</hi>'<hi rend="underline">s, which we shall here give our Readers. It was occasioned by the following Epigram, written by Mr.</hi>L────<hi rend="SMALL-CAPS">Y</hi>, <hi rend="underline">a polite and elegant Scholar, who was at that Time an eminent Pleader at the Bar in </hi>Dublin<hi rend="underline">, and was afterwards advanced to a more honourable Employment.</hi></l></lg></head><head type="note" n="3" xml:id="spp-432A54YD-headnote-3"><lg n="1" xml:id="spp-432A54YD-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-432A54YD-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-432A54YD-line-1"><hi rend="display-initial">A</hi> Slave to crouds, scorch'd with the summer's heats,</l><l n="2" xml:id="spp-432A54YD-line-2"> In court the wretched lawyer toils, and sweats:</l><l n="3" xml:id="spp-432A54YD-line-3"> While smiling nature, in her best attire,</l><l n="4" xml:id="spp-432A54YD-line-4"> Doth sooth each sense, and joy and love inspire,</l><l n="5" xml:id="spp-432A54YD-line-5"> Can he, who knows, that real good should please,</l><l n="6" xml:id="spp-432A54YD-line-6"> Barter for gold his liberty and ease?</l><l n="7" xml:id="spp-432A54YD-line-7"> Thus Paulus preach'd: when ent'ring at the door</l><l n="8" xml:id="spp-432A54YD-line-8"> Upon his board a client pours the ore:</l><l n="9" xml:id="spp-432A54YD-line-9"> He grasps the shining gift, pores o'er the cause,</l><l n="10" xml:id="spp-432A54YD-line-10"> Forgets the sun, and dozes on the laws.432A54YD   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

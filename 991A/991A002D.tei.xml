@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dan: Jackson's Picture<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley 13AP99, JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="991A002D" type="poem"><head type="note" n="1" xml:id="spp-991A002D-headnote-1"><lg n="1" xml:id="spp-991A002D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-991A002D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-991A002D-headnote-2"><lg n="1" xml:id="spp-991A002D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-991A002D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-991A002D-headnote-3"><lg n="1" xml:id="spp-991A002D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-991A002D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-991A002D-line-1"> To Fair Lady Betty Dan: Sat for his Picture,&#13;</l><l n="2" xml:id="spp-991A002D-line-2"> And Defy'd Her to Draw him so oft that he Piqu'd her</l><l n="3" xml:id="spp-991A002D-line-3"> He knew She'd no Pencil or Colouring by her;</l><l n="4" xml:id="spp-991A002D-line-4"> And therefore he thought he might safely defy her.</l><l n="5" xml:id="spp-991A002D-line-5"> Come Sit says my Lady then whips up her Scissars</l><l n="6" xml:id="spp-991A002D-line-6"> And Cuts out his Coxcomb in silk in a Trice sirs:</l><l n="7" xml:id="spp-991A002D-line-7"> Dan: sat with Attention, and saw with surprise,</l><l n="8" xml:id="spp-991A002D-line-8"> How She Lengthen'd his Chin, how she hollow'd his Eyes;</l><l n="9" xml:id="spp-991A002D-line-9"> And Flatter'd himself with a secret conceit,</l><l n="10" xml:id="spp-991A002D-line-10"> That his Leathern Jaws all her Art would defeat.</l><l n="11" xml:id="spp-991A002D-line-11"> Lady Betty observ'd it, then pulls out a Pin</l><l n="12" xml:id="spp-991A002D-line-12"> And Varies the Grain of the stuff to his Chin.</l><l n="13" xml:id="spp-991A002D-line-13"> And to make roasted silk resemble his Raw bone,</l><l n="14" xml:id="spp-991A002D-line-14"> She rais'd up a Thread to the Jett of his Jaw bone;</l><l n="15" xml:id="spp-991A002D-line-15"> 'Till at length in Exactest proportion he rose,</l><l n="16" xml:id="spp-991A002D-line-16"> From the Crown of his head to the Arch of his Nose.</l><l n="17" xml:id="spp-991A002D-line-17"> And if Lady Betty had Drawn him with Wigg &amp; all</l><l n="18" xml:id="spp-991A002D-line-18" rend="flush right"> 'Tis certain the Coppy had out done the OriginalWell that's but my Outside, says Dan: with a VapourSay You so says my Lady, I've Lin'd it with PaperPatt: Delany sculpsit.991A002D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

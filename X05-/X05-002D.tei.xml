@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cedo jam Miseræ cognoscens præmia rixæ_Si rixa est, ubi tu pulsas, Ego Vapulo tantum.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X05-002D" type="poem"><head type="note" n="1" xml:id="spp-X05-002D-headnote-1"><lg n="1" xml:id="spp-X05-002D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X05-002D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X05-002D-headnote-2"><lg n="1" xml:id="spp-X05-002D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X05-002D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X05-002D-headnote-3"><lg n="1" xml:id="spp-X05-002D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X05-002D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X05-002D-line-1"> To You Victorious and brave&#13;</l><l n="2" xml:id="spp-X05-002D-line-2"> Your now subdu'd and suplliant slaveMost humbly sues for Pardon</l><l n="3" xml:id="spp-X05-002D-line-3"> Who when I fought still cut me down</l><l n="4" xml:id="spp-X05-002D-line-4"> And When I Vanquish'd fled the TownPursu'd and lay'd me hard on.</l><l n="5" xml:id="spp-X05-002D-line-5"> Now lowly Crouch'd I cry Peccavi</l><l n="6" xml:id="spp-X05-002D-line-6"> And prostrate supplicate pour Ma Vie,Your Mercy I rely on;</l><l n="7" xml:id="spp-X05-002D-line-7"> For you my Conquerer and king</l><l n="8" xml:id="spp-X05-002D-line-8"> In Pardoning as in PunishingWill show your self a Lyon.</l><l n="9" xml:id="spp-X05-002D-line-9"> Alas! Sir I had no design</l><l n="10" xml:id="spp-X05-002D-line-10"> But was unwarily drawn in,For spight I ne'er had any:</l><l n="11" xml:id="spp-X05-002D-line-11"> 'Twas that damn'd squire w<hi rend="sup">th</hi> y<hi rend="sup">e</hi> hard name</l><l n="12" xml:id="spp-X05-002D-line-12"> The De──el too that ow'd me a shame,The Devil and Delauny.</l><l n="13" xml:id="spp-X05-002D-line-13"> They Tempted me t'attack your Highness</l><l n="14" xml:id="spp-X05-002D-line-14"> And then with wonted Wile and slynessThey left me in the Lurch.</l><l n="15" xml:id="spp-X05-002D-line-15"> Unhappy Wretch for now I ween,</l><l n="16" xml:id="spp-X05-002D-line-16"> I've nothing Left to Vent my SpleenBut Ferula and Birch</l><l n="17" xml:id="spp-X05-002D-line-17"> And they alass! Yield small relief,</l><l n="18" xml:id="spp-X05-002D-line-18"> Seem rather to Renew My GriefMy Wounds bleed all anew;</l><l n="19" xml:id="spp-X05-002D-line-19"> For ev'ry stroak goes to my heart</l><l n="20" xml:id="spp-X05-002D-line-20"> And at each Lash I feell the smartOf Lash lay'd on by You.<gap/><gap/><gap/><gap/>X05-002D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

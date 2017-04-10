@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE</title>
+        <title>SCALL'D CROW's NEST,</title>
+        <title>A<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-Y34CS128-footnote-1 #spp-Y34CS128-line-21"/>
+          <link target="#spp-Y34CS128-footnote-2 #spp-Y34CS128-line-29"/>
+        </linkGrp>
+        <div n="Y34CS128" type="poem"><head type="note" n="1" xml:id="spp-Y34CS128-headnote-1"><lg n="1" xml:id="spp-Y34CS128-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y34CS128-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y34CS128-headnote-2"><lg n="1" xml:id="spp-Y34CS128-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y34CS128-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y34CS128-headnote-3"><lg n="1" xml:id="spp-Y34CS128-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y34CS128-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y34CS128-line-1"><hi rend="display-initial">I</hi>N antient Days, as Sages write,</l><l n="2" xml:id="spp-Y34CS128-line-2"> The Time and Place are lost in Night,</l><l n="3" xml:id="spp-Y34CS128-line-3"> A Flock select of little <hi rend="underline">Scall'd-Crows</hi>,</l><l n="4" xml:id="spp-Y34CS128-line-4"> Wrote by modern Criticks, <hi rend="underline">Small-Beaux</hi>;</l><l n="5" xml:id="spp-Y34CS128-line-5"> A spurious Brood, with <hi rend="underline">harpy Claws</hi>,</l><l n="6" xml:id="spp-Y34CS128-line-6"> Begot 'twixt <hi rend="underline">Rooks</hi>, and <hi rend="underline">Kites</hi>, and <hi rend="underline">Daws</hi>;</l><l n="7" xml:id="spp-Y34CS128-line-7"> Those <hi rend="underline">airy Vermin</hi>, fraught with Pride,</l><l n="8" xml:id="spp-Y34CS128-line-8"> O'er better <hi rend="underline">Birds</hi> would seem to ride,</l><l n="9" xml:id="spp-Y34CS128-line-9"> And so one Day among the rest,</l><l n="10" xml:id="spp-Y34CS128-line-10"> Flew to consult into a Nest:</l><l n="11" xml:id="spp-Y34CS128-line-11"> But here I hint to save my Bones,</l><l n="12" xml:id="spp-Y34CS128-line-12"> The Nest was not compos'd of Stones;</l><l n="13" xml:id="spp-Y34CS128-line-13"> Tho' 'tis affirm'd, in Days of Yore</l><l n="14" xml:id="spp-Y34CS128-line-14"> The smallest One would hold a Score:</l><l n="15" xml:id="spp-Y34CS128-line-15"> Now down they sit────<hi rend="underline">O Yes</hi>'s ring!<hi rend="underline">Silence, ye BIRDS!────God save the King.A shabby Crow</hi> in dismal croak,</l><l n="16" xml:id="spp-Y34CS128-line-16"> The sable Audience thus bespoke;</l></lg><lg n="2" type="stanza"><l n="17" xml:id="spp-Y34CS128-line-17"><hi rend="black-letter">M</hi><hi rend="underline">OST honour'd Mates────, I rise to state</hi><ref target="#spp-Y34CS128-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-Y34CS128-footnote-1"><hi rend="underline">Milton</hi>.</note> monstrous Crimes<hi rend="underline">, and greater far</hi>Titans<hi rend="underline"> heavenly War;</hi>Pies<hi rend="underline"> commit, disdaining Rule,</hi>Plebian Sons<hi rend="underline"> proclaim me, FOOL,</hi>────<hi rend="underline">(if WE give Law)</hi>They all are doom'd to Cage and Straw;<hi rend="underline">Pr'ythee, then. shall we redress 'em.</hi>Who rack'd with<hi rend="underline"> Cholick, Winch, </hi>or<hi rend="underline"> F──t</hi>.</l><l n="18" xml:id="spp-Y34CS128-line-18"> A case of moment, and of weight;</l><l n="19" xml:id="spp-Y34CS128-line-19"> A case that calls for all our Might,</l><l n="20" xml:id="spp-Y34CS128-line-20"> To set the injur'd World aright!</l><l n="21" xml:id="spp-Y34CS128-line-21"> For </l><l n="22" xml:id="spp-Y34CS128-line-22"> Than Rebel </l><l n="23" xml:id="spp-Y34CS128-line-23"> Vile </l><l n="24" xml:id="spp-Y34CS128-line-24"> The </l><l n="25" xml:id="spp-Y34CS128-line-25"> And cry aloud</l><l n="26" xml:id="spp-Y34CS128-line-26"> No──────Damn me──────let's oppress 'em.</l><l n="27" xml:id="spp-Y34CS128-line-27"> So humbly Move, They get the Cart,</l></lg><lg n="3" type="stanza"><l n="28" xml:id="spp-Y34CS128-line-28">He said---- sudden they clap their Wings,&#13;</l><l n="29" xml:id="spp-Y34CS128-line-29"> With croaking praise Heav'ns convex rings!<ref target="#spp-Y34CS128-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-Y34CS128-footnote-2"><hi rend="underline">Milton</hi>.</note><hi rend="underline">Sweet Satan so</hi>, his Purpose vented,<hi rend="underline">Applauding so</hi>, all Hell assented;</l><l n="30" xml:id="spp-Y34CS128-line-30"> 'Twas then <hi rend="underline">Nem. Con</hi> Resolv'd, <hi rend="underline">A Grin,</hi>;</l><l n="31" xml:id="spp-Y34CS128-line-31"> A Hint, a Squint,────should be a Sin</l><l n="32" xml:id="spp-Y34CS128-line-32"> And the exploded trifle, <hi rend="underline">Reason</hi>,</l><l n="33" xml:id="spp-Y34CS128-line-33"> Was voted out of Doors for <hi rend="underline">Treason:</hi> were <hi rend="underline">done</hi> with <hi rend="underline">Bills</hi> and <hi rend="underline">Claws,</hi>,</l><l n="34" xml:id="spp-Y34CS128-line-34"> Wonders</l><l n="35" xml:id="spp-Y34CS128-line-35"> They punish'd Fleas, and murder'd Laws</l><l n="36" xml:id="spp-Y34CS128-line-36"> And wisely scorning <hi rend="underline">Heathen Rules</hi>,</l><l n="37" xml:id="spp-Y34CS128-line-37"> Left honesty to <hi rend="underline">starving Fools</hi>;</l><l n="38" xml:id="spp-Y34CS128-line-38"> They freely pick'd the Neighbours Oats,</l><l n="39" xml:id="spp-Y34CS128-line-39"> And to repay 'em, cut their Throats:</l><l n="40" xml:id="spp-Y34CS128-line-40"> Why should <hi rend="underline">Pyes</hi> or <hi rend="underline">Pidgeons</hi> blunder?<hi rend="underline">Sacred Scoundrels</hi> always plunder.</l></lg><lg n="4" type="stanza"><l n="41" xml:id="spp-Y34CS128-line-41">A pretty <hi rend="underline">Grow</hi> too thought it fit,</l><l n="42" xml:id="spp-Y34CS128-line-42"> To mind the World where <hi rend="underline">D────dy sh────t</hi>,</l><l n="43" xml:id="spp-Y34CS128-line-43"> For what great Purpose do you think?</l><l n="44" xml:id="spp-Y34CS128-line-44"> His Fondness for immortal Stink.</l><l n="45" xml:id="spp-Y34CS128-line-45"> Let <hi rend="underline">Peers</hi> love <hi rend="underline">Peers</hi>────for on my Word,</l><l n="46" xml:id="spp-Y34CS128-line-46"> 'Tis just Sir <hi rend="underline">T──────s</hi> love Sir <hi rend="underline">T──────d</hi>,</l><l n="47" xml:id="spp-Y34CS128-line-47"> They're Brothers, and may proudly boast,</l><l n="48" xml:id="spp-Y34CS128-line-48"> Illustrious Birth from <hi rend="underline">K</hi>──────of <hi rend="underline">Post</hi>.</l><l n="49" xml:id="spp-Y34CS128-line-49"> Some other Speakers <hi rend="underline">here</hi> was found,<hi rend="underline">Hirelings</hi>, whom the <hi rend="underline">D──────l</hi> confound!</l><l n="50" xml:id="spp-Y34CS128-line-50"> To mention all the <hi rend="underline">rascal Tribe,</hi> they spent within the Nest,<hi rend="underline">Five Months</hi> a Kingdoms scorn and pest!</l><l n="51" xml:id="spp-Y34CS128-line-51"> Requires a Pen for every Bribe;</l><l n="52" xml:id="spp-Y34CS128-line-52"> Five Months</l><l n="53" xml:id="spp-Y34CS128-line-53"> But when ev'ry <hi rend="underline">Bird</hi> had <hi rend="underline">hiss'd</hi> 'em,</l><l n="54" xml:id="spp-Y34CS128-line-54"> An <hi rend="underline">Eagle</hi> comes────, and so <hi rend="underline">bepiss'd</hi> 'em:</l><l n="55" xml:id="spp-Y34CS128-line-55"> Then out they flew with horrid squall,</l><l n="56" xml:id="spp-Y34CS128-line-56"> Belov'd by none, and curs'd by all.</l></lg><lg n="5" type="stanza"><l n="57" xml:id="spp-Y34CS128-line-57">Now ev'ry <hi rend="underline">Booby</hi> thinks he's able,</l><l n="58" xml:id="spp-Y34CS128-line-58"> Directly to apply my <hi rend="underline">Fable</hi>,</l><l n="59" xml:id="spp-Y34CS128-line-59"> Tho' I confess, I want the Wit,</l><l n="60" xml:id="spp-Y34CS128-line-60"> To name the Mortals it would hit;</l><l n="61" xml:id="spp-Y34CS128-line-61"> And dearly love the <hi rend="underline">Carrion Drones</hi>,</l><l n="62" xml:id="spp-Y34CS128-line-62"> That pick a dying <hi rend="underline">Nations Bones</hi>.</l></lg><lg n="6" type="stanza"><l n="63" xml:id="spp-Y34CS128-line-63">Then mark me!────le'st I suffer by't.&#13;</l><l n="64" xml:id="spp-Y34CS128-line-64"> For harmless <hi rend="underline">Birds</hi> alone, I write.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

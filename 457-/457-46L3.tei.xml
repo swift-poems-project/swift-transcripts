@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">On </hi>PADDY's<hi rend="underline"> Character of the</hi> I<hi rend="SMALL-CAPS">N-</hi></title>
+        <title><hi rend="SMALL-CAPS">TELLIGENCER</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-457-46L3-footnote-1 #spp-457-46L3-line-20"/>
+        </linkGrp>
+        <div n="457-46L3" type="poem"><head type="note" n="1" xml:id="spp-457-46L3-headnote-1"><lg n="1" xml:id="spp-457-46L3-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-457-46L3-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-457-46L3-headnote-2"><lg n="1" xml:id="spp-457-46L3-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-457-46L3-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-457-46L3-headnote-3"><lg n="1" xml:id="spp-457-46L3-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-457-46L3-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-457-46L3-line-1"><hi rend="display-initial">A</hi>S a <hi rend="underline">Thorn-bush</hi>, or <hi rend="underline">Oaken-bough,</hi> in an <hi rend="underline">Irish</hi> Cabbin's <hi rend="underline">Brow,</hi> the <hi rend="underline">Door</hi>, at <hi rend="underline">Country-fair</hi>,</l><l n="2" xml:id="spp-457-46L3-line-2"> Stuck</l><l n="3" xml:id="spp-457-46L3-line-3"> Above</l><l n="4" xml:id="spp-457-46L3-line-4"> Betokens <hi rend="underline">Entertainment there</hi>,</l><l n="5" xml:id="spp-457-46L3-line-5"> So, <hi rend="underline">Bays</hi> on Poets <hi rend="underline">Brows</hi> have been<hi rend="underline">Set</hi>, for a <hi rend="underline">Sign</hi> of <hi rend="underline">Wit within</hi>.</l><l n="6" xml:id="spp-457-46L3-line-6"> And as <hi rend="underline">ill Neighbours</hi> in the Night,<hi rend="underline">Pull down</hi> an Ale-house-Bush, <hi rend="underline">for Spite</hi>,</l><l n="7" xml:id="spp-457-46L3-line-7"> The <hi rend="underline">Laurel</hi> so, by Poets worn,</l><l n="8" xml:id="spp-457-46L3-line-8"> Is by the Teeth of <hi rend="underline">Envy</hi> torn,<hi rend="underline">Envy</hi>, a Canker-Worm which <hi rend="underline">tears</hi></l><l n="9" xml:id="spp-457-46L3-line-9"> Those <hi rend="underline">Sacred Leaves</hi> that <hi rend="underline">Lightning spares</hi>.</l><l n="10" xml:id="spp-457-46L3-line-10"> And now to <hi rend="underline">exemplify</hi> this <hi rend="underline">Moral</hi>,</l><l n="11" xml:id="spp-457-46L3-line-11"> T<hi rend="SMALL-CAPS">OM</hi> having <hi rend="underline">earn'd</hi> a <hi rend="underline">Twig</hi> of Lawrel.</l><l n="12" xml:id="spp-457-46L3-line-12"> (Which <hi rend="underline">measur'd</hi> on his <hi rend="underline">Head</hi>, was found</l><l n="13" xml:id="spp-457-46L3-line-13"> Not <hi rend="underline">long enough</hi> to reach <hi rend="underline">half round</hi>,</l><l n="14" xml:id="spp-457-46L3-line-14"> But like a Girl's <hi rend="underline">Cockade</hi>, was ty'd</l><l n="15" xml:id="spp-457-46L3-line-15"> A Trophy, on his <hi rend="underline">Temple-side</hi>.)</l><l n="16" xml:id="spp-457-46L3-line-16"> P<hi rend="SMALL-CAPS">ADDY</hi>, <hi rend="underline">repin'd</hi> to see him <hi rend="underline">wear</hi>,</l><l n="17" xml:id="spp-457-46L3-line-17"> This <hi rend="underline">Badge of Honour</hi> in his <hi rend="underline">Hair</hi>,</l><l n="18" xml:id="spp-457-46L3-line-18"> And thinking this <hi rend="underline">Cockade of Wit</hi></l><l n="19" xml:id="spp-457-46L3-line-19"> Would his <hi rend="underline">own Temples</hi> better fit,</l><l n="20" xml:id="spp-457-46L3-line-20"> Forming his Muse by <ref target="#spp-457-46L3-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-457-46L3-footnote-1"><hi rend="underline">A Dean then in </hi>Ireland<hi rend="underline">, and would be Poet, who hoped to arrive at Fame, by attacking that of other Writers Editions</hi>.</note> M<hi rend="SMALL-CAPS">EDLEY</hi>'s <hi rend="underline">Model</hi>,</l><l n="21" xml:id="spp-457-46L3-line-21"> Lets drive at T<hi rend="SMALL-CAPS">OM</hi>'s <hi rend="underline">devoted</hi> Noddle,</l><l n="22" xml:id="spp-457-46L3-line-22"> Pelts him by <hi rend="underline">Turns</hi> with <hi rend="underline">Verse</hi> and <hi rend="underline">Prose,</hi>, like a <hi rend="underline">Hornet</hi> at his Nose,</l><l n="23" xml:id="spp-457-46L3-line-23"> Humms</l><l n="24" xml:id="spp-457-46L3-line-24"> At Length, presumes to vent his Satyr on</l><l n="25" xml:id="spp-457-46L3-line-25"> The D<hi rend="SMALL-CAPS">EAN</hi>, T<hi rend="SMALL-CAPS">OM</hi>'s <hi rend="underline">honour'd Friend and Patron</hi>.</l><l n="26" xml:id="spp-457-46L3-line-26"> The E<hi rend="SMALL-CAPS">AGLE</hi> in the Tale, ye know,<hi rend="underline">Teaz'd</hi> by a <hi rend="underline">Buzzing Wasp, below</hi>,</l><l n="27" xml:id="spp-457-46L3-line-27"> Took Wing to J<hi rend="SMALL-CAPS">OVE</hi>, and hop'd to <hi rend="underline">rest</hi> in the <hi rend="underline">Thunderer</hi>'s Breast,</l><l n="28" xml:id="spp-457-46L3-line-28"> Securely</l><l n="29" xml:id="spp-457-46L3-line-29"> In vain; <hi rend="underline">even there</hi> to spoil his Nod,</l><l n="30" xml:id="spp-457-46L3-line-30"> The S<hi rend="SMALL-CAPS">PITEFUL</hi> I<hi rend="SMALL-CAPS">NSECT</hi><hi rend="underline">stung</hi> the <hi rend="underline">God</hi>.457-46L3   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

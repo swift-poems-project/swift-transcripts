@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the words Brother Protestant and fellow Christian.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="811-002H" type="poem"><head type="note" n="1" xml:id="spp-811-002H-headnote-1"><lg n="1" xml:id="spp-811-002H-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-811-002H-headnote-1-line-group-1-line-1">which were used by the Presbiterians when they were endea <lb/> vouring to get the Test taken off in the year 1733.</l></lg></head><head type="note" n="2" xml:id="spp-811-002H-headnote-2"><lg n="1" xml:id="spp-811-002H-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-811-002H-headnote-2-line-group-1-line-1">By Dean Swift.</l></lg></head><head type="note" n="3" xml:id="spp-811-002H-headnote-3"><lg n="1" xml:id="spp-811-002H-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-811-002H-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-811-002H-line-1"> An Inundation sais the Fable&#13;</l><l n="2" xml:id="spp-811-002H-line-2"> O'er·flow'd a Farmer's Barn and Stable</l><l n="3" xml:id="spp-811-002H-line-3"> Whole Ricks of Hay and Stacks of Corn</l><l n="4" xml:id="spp-811-002H-line-4"> Were down the suddain current born.</l><l n="5" xml:id="spp-811-002H-line-5"> While things of het'rogeneous kind</l><l n="6" xml:id="spp-811-002H-line-6"> Together float with Tide and wind.</l><l n="7" xml:id="spp-811-002H-line-7"> The generous Wheat forgot <subst reason="overwriting"><add>its</add><del>his</del></subst> pride</l><l n="8" xml:id="spp-811-002H-line-8"> And saild with litter <unclear>by erased</unclear>side-by-side,</l><l n="9" xml:id="spp-811-002H-line-9"> Uniting all to shew their Amity</l><l n="10" xml:id="spp-811-002H-line-10"> As in a general Calamity.</l><l n="11" xml:id="spp-811-002H-line-11"> A Ball of newdrop'd Horses dung</l><l n="12" xml:id="spp-811-002H-line-12"> Mingling with apples in the throng</l><l n="13" xml:id="spp-811-002H-line-13"> Said to the pippin plump &amp; trim</l><l n="14" xml:id="spp-811-002H-line-14"> See Brother<del>'s</del> how we apples swim.</l><l n="15" xml:id="spp-811-002H-line-15"> Thus <hi rend="black-letter">Lamb</hi> renown'd for cutting corns</l><l n="16" xml:id="spp-811-002H-line-16"> An Offer'd Fee from Radcliff scorns</l><l n="17" xml:id="spp-811-002H-line-17"> Not for the world──·──We Doctor's Brother</l><l n="18" xml:id="spp-811-002H-line-18"> Must take no Fees from one an' other.</l><l n="19" xml:id="spp-811-002H-line-19"> Thus to a Dean some Curate Sloven</l><l n="20" xml:id="spp-811-002H-line-20"> Subscribes Dear Sir your Brother loveing.</l><l n="21" xml:id="spp-811-002H-line-21"> Thus <subst reason="a later correction overwriting ?"><add>all</add><del><unclear/></del></subst> the Footmen Shoeboys, porters</l><l n="22" xml:id="spp-811-002H-line-22"> About S<hi rend="sup">t</hi> James·'s cry We Courtiers</l><l n="23" xml:id="spp-811-002H-line-23"> Thus Horace in the House will prate</l><l n="24" xml:id="spp-811-002H-line-24"> S<hi rend="sup">r</hi>- we the Ministers of State.</l><l n="25" xml:id="spp-811-002H-line-25"> Thus at the Bar the Booby Bettsworth</l><l n="26" xml:id="spp-811-002H-line-26"> Tho' half a crown out pays his Sweatsworth.</l><l n="27" xml:id="spp-811-002H-line-27"> Who knows in law nor Text nor Margin</l><l n="28" xml:id="spp-811-002H-line-28"> Calls Singleton his Bro<hi rend="sup">r</hi></l></lg><lg n="2" type="stanza"><l n="29" xml:id="spp-811-002H-line-29"> Sergeant&#13;</l><l n="30" xml:id="spp-811-002H-line-30"> And thus Fanatick Saints, tho' neither in</l><l n="31" xml:id="spp-811-002H-line-31"> Doctrine or Discipline Our Bretheren──</l><l n="32" xml:id="spp-811-002H-line-32"> Are Brother Protestant and Christian<unclear>s added later</unclear></l><l n="33" xml:id="spp-811-002H-line-33"> As much as Hebrews and Phylistians,</l><l n="34" xml:id="spp-811-002H-line-34"> But in no other Sence than nature</l><l n="35" xml:id="spp-811-002H-line-35"> Has made a Rat our fellow creature,</l><l n="36" xml:id="spp-811-002H-line-36"> Lice from your body suck their food</l><l n="37" xml:id="spp-811-002H-line-37"> But is a Louse your flesh and blood,</l><l n="38" xml:id="spp-811-002H-line-38"> Tho' born of human filth and Sweat it</l><l n="39" xml:id="spp-811-002H-line-39"> may not be said man did beget it.</l><l n="40" xml:id="spp-811-002H-line-40"> For Maggot in the nose and Chin</l><l n="41" xml:id="spp-811-002H-line-41"> As well may claim you for their kin.</l><l n="42" xml:id="spp-811-002H-line-42"> Yet Criticks may object why not</l><l n="43" xml:id="spp-811-002H-line-43"> Since Lice are Bretheren to a Scot</l><l n="44" xml:id="spp-811-002H-line-44"> Which made our Swarm of Scots determine</l><l n="45" xml:id="spp-811-002H-line-45"> Imployment for their Brother Vermin,</l><l n="46" xml:id="spp-811-002H-line-46"> But be they Irish English Scotish</l><l n="47" xml:id="spp-811-002H-line-47"> What Protestant can be so Sottish</l><l n="48" xml:id="spp-811-002H-line-48"> While Or'e  the Church these Clowds are gathering</l><l n="49" xml:id="spp-811-002H-line-49"> To call a Swarm of Lice their Bretheren</l><l n="50" xml:id="spp-811-002H-line-50"> As Moses by divine Advice</l><l n="51" xml:id="spp-811-002H-line-51"> In Egypt turn'd the Dust to Lice</l><l n="52" xml:id="spp-811-002H-line-52"> And as our Scots by all descriptions</l><l n="53" xml:id="spp-811-002H-line-53"> Have hearts more harden'd than Egyptians</l><l n="54" xml:id="spp-811-002H-line-54"> As from the trodden dust they spring</l><l n="55" xml:id="spp-811-002H-line-55"> And turn'd to Lice infest the King.</l><l n="56" xml:id="spp-811-002H-line-56"> For pitty' sake it would be just</l><l n="57" xml:id="spp-811-002H-line-57"> A Rod should turn them back to dust.</l><l n="58" xml:id="spp-811-002H-line-58"> Let Folkes in high and holy stations</l><l n="59" xml:id="spp-811-002H-line-59"> Be <subst reason="overwriting something erased and "><add>prowd</add><del><unclear/></del><add place="inserted above the line">proud</add></subst> of owning such Relations.</l><l n="60" xml:id="spp-811-002H-line-60"> Let Courtiers hug them to their bosom</l><l n="61" xml:id="spp-811-002H-line-61"> As if they were afraid to loose 'em.</l><l n="62" xml:id="spp-811-002H-line-62"> While I with humble Iob and rather</l><l n="63" xml:id="spp-811-002H-line-63"> Say to Coruption thou·'rt my Father</l><l n="64" xml:id="spp-811-002H-line-64"> For he that has so little wit</l><l n="65" xml:id="spp-811-002H-line-65"> To nourish Vermin must be bit811-002H   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="664C32YI" type="poem"><head type="note" n="1" xml:id="spp-664C32YI-headnote-1"><lg n="1" xml:id="spp-664C32YI-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-664C32YI-headnote-1-line-group-1-line-1">The following Lines were wrote on her Majesty's setting up the Bustoes of Mr. Locke, Sir Isaac Newton, Mr. Wollaston, and Dr. Clarke, in the Hermitage at Richmond.</l></lg></head><head type="note" n="2" xml:id="spp-664C32YI-headnote-2"><lg n="1" xml:id="spp-664C32YI-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-664C32YI-headnote-2-line-group-1-line-1"><hi rend="underline">Sic Siti lætantur Docti</hi>.</l></lg></head><head type="note" n="3" xml:id="spp-664C32YI-headnote-3"><lg n="1" xml:id="spp-664C32YI-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-664C32YI-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-664C32YI-line-1"> With Honour thus by <hi rend="underline">Carolina</hi> plac'd,</l><l n="2" xml:id="spp-664C32YI-line-2"> How are these venerable Bustoes grac'd!</l><l n="3" xml:id="spp-664C32YI-line-3"> O Queen! with more than Regal Titles crown'd,</l><l n="4" xml:id="spp-664C32YI-line-4"> For Love of Arts and Piety renown'd!</l><l n="5" xml:id="spp-664C32YI-line-5"> How do the Friends of Virtue joy to see</l><l n="6" xml:id="spp-664C32YI-line-6"> Her Darling Sons exalted thus by Thee?</l><l n="7" xml:id="spp-664C32YI-line-7"> Nought to their Fame can now be added more,</l><l n="8" xml:id="spp-664C32YI-line-8"> Rever'd by Her whom all Mankind adore.664C32YI   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

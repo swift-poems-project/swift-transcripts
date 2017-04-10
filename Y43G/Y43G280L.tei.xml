@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Song──Occasion'd by a Sermon</title>
+        <title>preach'd by D<hi rend="sup">r</hi> 08. Delany an Irish</title>
+        <title>Clergyman, wherein he exhorts the<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y43G280L" type="poem"><head type="note" n="1" xml:id="spp-Y43G280L-headnote-1"><lg n="1" xml:id="spp-Y43G280L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y43G280L-headnote-1-line-group-1-line-1">By D<hi rend="sup">r</hi> Swift</l></lg></head><head type="note" n="2" xml:id="spp-Y43G280L-headnote-2"><lg n="1" xml:id="spp-Y43G280L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y43G280L-headnote-2-line-group-1-line-1">To the Tune of──Mad Moll.</l></lg></head><head type="note" n="3" xml:id="spp-Y43G280L-headnote-3"><lg n="1" xml:id="spp-Y43G280L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y43G280L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y43G280L-line-1" rend="align(center)">1</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-Y43G280L-line-2" rend="flush left">O my Kitten a Kitten, &amp; O my deary a deary&#13;</l><l n="3" xml:id="spp-Y43G280L-line-3"> Such a sweet pet as this there is not far nor neary.</l><l n="4" xml:id="spp-Y43G280L-line-4"> Here we go up, up, up, &amp; here we go down a down downy,</l><l n="5" xml:id="spp-Y43G280L-line-5"> Here we go backwards &amp; forwards, &amp; here we go round a round roundy</l></lg><lg n="3" type="stanza"><l n="6" xml:id="spp-Y43G280L-line-6" rend="align(center)">2</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-Y43G280L-line-7" rend="flush left">Chicky Chuckoo, my Lilly cock, see saw saccary downy,&#13;</l><l n="8" xml:id="spp-Y43G280L-line-8"> Gallop a trot trot trot &amp; hey for Dublin Towny,</l><l n="9" xml:id="spp-Y43G280L-line-9"> This Pig went to Market, creep Mouse Mousy Mousy,</l><l n="10" xml:id="spp-Y43G280L-line-10"> Shoo, shoo, shoo the wild Colt, here is mine own Doll dowsy.</l></lg><lg n="5" type="stanza"><l n="11" xml:id="spp-Y43G280L-line-11" rend="align(center)">3</l></lg><lg n="6" type="stanza"><l n="12" xml:id="spp-Y43G280L-line-12" rend="flush left">We was a Iewel &amp; pretty, &amp; we was a Sugar &amp; Spicy,&#13;</l><l n="13" xml:id="spp-Y43G280L-line-13"> Hush a by by in a Cradle, &amp; we'll go abroad in a Tricy────</l><l n="14" xml:id="spp-Y43G280L-line-14"> Did e Pappa torment it, did he vex Baby, did he,</l><l n="15" xml:id="spp-Y43G280L-line-15"> Hushy in Mamma's none bosom, &amp; take a nown suck a diddy.</l></lg><lg n="7" type="stanza"><l n="16" xml:id="spp-Y43G280L-line-16" rend="align(center)">4</l></lg><lg n="8" type="stanza"><l n="17" xml:id="spp-Y43G280L-line-17" rend="flush left">Good Morrow, oh there's a Pudding broke, slabbers a Thread of Chrystal,&#13;</l><l n="18" xml:id="spp-Y43G280L-line-18"> See the sweet Posset comes up, who said my Child was bepist all;</l><l n="19" xml:id="spp-Y43G280L-line-19"> Water my Chickens, come clack, leave off or I'll scrawl you I'll scrawl you</l><l n="20" xml:id="spp-Y43G280L-line-20"> Give me a hand &amp; I'll beat him, go, go, w<hi rend="sup">ḍ</hi> you vex my Baby.</l></lg><lg n="9" type="stanza"><l n="21" xml:id="spp-Y43G280L-line-21" rend="align(center)">5</l></lg><lg n="10" type="stanza"><l n="22" xml:id="spp-Y43G280L-line-22" rend="flush left">We was a Pug &amp; a Crow, we was a giggling Bonny&#13;</l><l n="23" xml:id="spp-Y43G280L-line-23"> Goody, good Child shall be fed, but naughty Pack shall have noney.</l><l n="24" xml:id="spp-Y43G280L-line-24"> Get you gone raw head &amp; bloody bones, here is a Child that don't fear'ee</l><l n="25" xml:id="spp-Y43G280L-line-25"> Come pissy, pissy my Iewel &amp; a, a, a my Deary.Y43G280L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

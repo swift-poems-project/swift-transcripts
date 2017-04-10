@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="432B700V" type="poem"><head type="note" n="1" xml:id="spp-432B700V-headnote-1"><lg n="1" xml:id="spp-432B700V-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-432B700V-headnote-1-line-group-1-line-1">1728</l></lg></head><head type="note" n="2" xml:id="spp-432B700V-headnote-2"><lg n="1" xml:id="spp-432B700V-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-432B700V-headnote-2-line-group-1-line-1">Sep<hi rend="sup">r</hi>.7.</l></lg></head><head type="note" n="3" xml:id="spp-432B700V-headnote-3"><lg n="1" xml:id="spp-432B700V-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-432B700V-headnote-3-line-group-1-line-1">* * *</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-432B700V-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> I thus by Demonstration show&#13;</l><l n="2" xml:id="spp-432B700V-line-2"> What burthens Lawyers undergoWith early clients at his Door</l><l n="3" xml:id="spp-432B700V-line-3"> Tho' he was drunk the night before</l><l n="4" xml:id="spp-432B700V-line-4"> And cropsick w<hi rend="sup">th</hi>. <del></del><add>d</add> for wine</l><l n="5" xml:id="spp-432B700V-line-5"> The Wretch must be in Court by nine</l><l n="6" xml:id="spp-432B700V-line-6"> Half sunk beneath his brief &amp; bag</l><l n="7" xml:id="spp-432B700V-line-7"> As ridden by a midnight hag</l><l n="8" xml:id="spp-432B700V-line-8"> Then from the bar harangues the bench</l><l n="9" xml:id="spp-432B700V-line-9"> In English Vile <subst reason="overwriting"><add>&amp;</add><del>or</del></subst> viler french</l><l n="10" xml:id="spp-432B700V-line-10"> And Latin vilest of the three</l><l n="11" xml:id="spp-432B700V-line-11"> And all for poor 10 Moidores fee</l><l n="12" xml:id="spp-432B700V-line-12"> Of Parchm<hi rend="sup">t</hi>. how is he profuse</l><l n="13" xml:id="spp-432B700V-line-13"> With periods long in terms obstruse</l><l n="14" xml:id="spp-432B700V-line-14"> What pains he takes to be prolix</l><l n="15" xml:id="spp-432B700V-line-15"> A thousand <del>Words</del><add>Lines</add> to stand for Six</l><l n="16" xml:id="spp-432B700V-line-16"> Of Common Sense without a Word in</l><l n="17" xml:id="spp-432B700V-line-17"> And is not this a grievous burden.The Lawyer is a com<hi rend="sup">n</hi>. Drudge</l><l n="18" xml:id="spp-432B700V-line-18"> To plead our Cause before the Judge</l><l n="19" xml:id="spp-432B700V-line-19"> And what is yet a greater Curse</l><l n="20" xml:id="spp-432B700V-line-20"> Condemn'd to bear his Client's purse</l><l n="21" xml:id="spp-432B700V-line-21"> While he at ease secure &amp; light</l><l n="22" xml:id="spp-432B700V-line-22"> Walks boldly home at dead of night</l><l n="23" xml:id="spp-432B700V-line-23"> When Term is ended leaves the Town</l><l n="24" xml:id="spp-432B700V-line-24"> Trots to his Country Mansion down</l><l n="25" xml:id="spp-432B700V-line-25"> And disencumber'd of his load</l><l n="26" xml:id="spp-432B700V-line-26"> No danger fears upon the road</l><l n="27" xml:id="spp-432B700V-line-27"> Dispises Rapparees &amp; Rides</l><l n="28" xml:id="spp-432B700V-line-28"> Safe thro' the Newry Mountains sides</l><l n="29" xml:id="spp-432B700V-line-29"> * * * *<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>432B700V   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

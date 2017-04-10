@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">To</hi> D<hi rend="SMALL-CAPS">R. </hi>S<hi rend="SMALL-CAPS">WIFT</hi> <hi rend="underline">on his birth-day, Novem-</hi></title>
+        <title><hi rend="underline">ber</hi> 30, 1721.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="737-55B-" type="poem"><head type="note" n="1" xml:id="spp-737-55B--headnote-1"><lg n="1" xml:id="spp-737-55B--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-737-55B--headnote-1-line-group-1-line-1">The delicacy of her taste we may conjecture from the following copy of verses, the only remaining performance of hers that I know of in the poetick strain, which was given by D<hi rend="SMALL-CAPS">R. </hi>S<hi rend="SMALL-CAPS">WIFT</hi> to a lady of his acquaintance, who had a great esteem for the virtues and accomplishments of S<hi rend="SMALL-CAPS">TELLA</hi>, although she never had the least intimacy with her, and which the Doctor assured this lady was a piece intirely genuine from the hands of S<hi rend="SMALL-CAPS">TELLA</hi>, without any sort of correction whatsoever.</l></lg></head><head type="note" n="2" xml:id="spp-737-55B--headnote-2"><lg n="1" xml:id="spp-737-55B--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-737-55B--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-737-55B--headnote-3"><lg n="1" xml:id="spp-737-55B--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-737-55B--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-737-55B--line-1">S<hi rend="SMALL-CAPS">T. </hi>P<hi rend="SMALL-CAPS">ATRICK</hi>'s dean, your country's pride,</l><l n="2" xml:id="spp-737-55B--line-2"> My early and my only guide,</l><l n="3" xml:id="spp-737-55B--line-3"> Let me among the rest attend,</l><l n="4" xml:id="spp-737-55B--line-4"> Your pupil and your humble friend,</l><l n="5" xml:id="spp-737-55B--line-5"> To celebrate in female strains</l><l n="6" xml:id="spp-737-55B--line-6"> The day that paid your mother's pains;</l><l n="7" xml:id="spp-737-55B--line-7"> Descend to take that tribute due</l><l n="8" xml:id="spp-737-55B--line-8"> In gratitude alone to you.When men began to call me fair,</l><l n="9" xml:id="spp-737-55B--line-9"> You interpos'd your timely care;</l><l n="10" xml:id="spp-737-55B--line-10"> You early taught me to despise</l><l n="11" xml:id="spp-737-55B--line-11"> The ogling of a coxcomb's eyes;</l><l n="12" xml:id="spp-737-55B--line-12"> Shew'd where my judgment was misplac'd;</l><l n="13" xml:id="spp-737-55B--line-13"> Refin'd my fancy and my taste.Behold that beauty just decay'd,</l><l n="14" xml:id="spp-737-55B--line-14"> Invoking art to nature's aid;</l><l n="15" xml:id="spp-737-55B--line-15"> Forsook by her admiring train</l><l n="16" xml:id="spp-737-55B--line-16"> She spreads her tatter'd nets in vain;</l><l n="17" xml:id="spp-737-55B--line-17"> Short was her part upon the stage;</l><l n="18" xml:id="spp-737-55B--line-18"> Went smoothly on for half a page;</l><l n="19" xml:id="spp-737-55B--line-19"> Her bloom was gone, she wanted art,</l><l n="20" xml:id="spp-737-55B--line-20"> As the scene chang'd, to change her part:</l><l n="21" xml:id="spp-737-55B--line-21"> She, whom no lover could resist,</l><l n="22" xml:id="spp-737-55B--line-22"> Before the second act was hiss'd.</l><l n="23" xml:id="spp-737-55B--line-23"> Such is the fate of female race</l><l n="24" xml:id="spp-737-55B--line-24"> With no endowments but a face;</l><l n="25" xml:id="spp-737-55B--line-25"> Before the thirti'th year of life</l><l n="26" xml:id="spp-737-55B--line-26"> A maid forlorn, or hated wife.S<hi rend="SMALL-CAPS">TELLA</hi> to you, her tutor, owes</l><l n="27" xml:id="spp-737-55B--line-27"> That she has ne'er resembled those;</l><l n="28" xml:id="spp-737-55B--line-28"> Nor was a burthen to mankind</l><l n="29" xml:id="spp-737-55B--line-29"> With half her course of years behind.</l><l n="30" xml:id="spp-737-55B--line-30"> You taught how I might youth prolong</l><l n="31" xml:id="spp-737-55B--line-31"> By knowing what was right and wrong;</l><l n="32" xml:id="spp-737-55B--line-32"> How from my heart to bring supplies</l><l n="33" xml:id="spp-737-55B--line-33"> Of lustre to my fading eyes;</l><l n="34" xml:id="spp-737-55B--line-34"> How soon a beauteous mind repairs</l><l n="35" xml:id="spp-737-55B--line-35"> The loss of chang'd or falling hairs;</l><l n="36" xml:id="spp-737-55B--line-36"> How wit and virtue from within</l><l n="37" xml:id="spp-737-55B--line-37"> Send out a smoothness o'er the skin:</l><l n="38" xml:id="spp-737-55B--line-38"> Your lectures cou'd my fancy fix,</l><l n="39" xml:id="spp-737-55B--line-39"> And I can please at thirty-six.</l><l n="40" xml:id="spp-737-55B--line-40"> The sight of C<hi rend="SMALL-CAPS">HLOE</hi> at fifteen</l><l n="41" xml:id="spp-737-55B--line-41"> Coquetting, gives not me the spleen;</l><l n="42" xml:id="spp-737-55B--line-42"> The idol now of every fool</l><l n="43" xml:id="spp-737-55B--line-43"> 'Till time shall make their passions cool;</l><l n="44" xml:id="spp-737-55B--line-44"> Then tumbling down time's steepy hill,</l><l n="45" xml:id="spp-737-55B--line-45"> While S<hi rend="SMALL-CAPS">TELLA</hi> holds her station still.</l><l n="46" xml:id="spp-737-55B--line-46"> Oh! turn your precepts into laws,</l><l n="47" xml:id="spp-737-55B--line-47"> Redeem the women's ruin'd cause,</l><l n="48" xml:id="spp-737-55B--line-48"> Retrieve lost empire to our sex,</l><l n="49" xml:id="spp-737-55B--line-49"> That men may bow their rebel necks.Long be the day that gave you birth</l><l n="50" xml:id="spp-737-55B--line-50"> Sacred to friendship, wit, and mirth;</l><l n="51" xml:id="spp-737-55B--line-51"> Late dying may you cast a shred</l><l n="52" xml:id="spp-737-55B--line-52"> Of your rich mantle o'er my head;</l><l n="53" xml:id="spp-737-55B--line-53"> To bear with dignity my sorrow,</l><l n="54" xml:id="spp-737-55B--line-54"> One day <hi rend="underline">alone, then die to-morrow</hi>.737-55B-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

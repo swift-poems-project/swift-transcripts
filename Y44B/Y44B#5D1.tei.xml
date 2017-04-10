@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y44B#5D1" type="poem"><head type="note" n="1" xml:id="spp-Y44B#5D1-headnote-1"><lg n="1" xml:id="spp-Y44B#5D1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y44B#5D1-headnote-1-line-group-1-line-1">BONNELL, James, (the Life and Character of), the Accomptant General of Ireland, by W<hi rend="SMALL-CAPS">ILLIAM </hi>H<hi rend="SMALL-CAPS">AMILTON</hi>. 12mo, calf neat, 10<hi rend="underline">s</hi> 6<hi rend="underline">d</hi>.</l></lg><lg n="2" xml:id="spp-Y44B#5D1-headnote-1-line-group-2" type="headnote"><l n="1" xml:id="spp-Y44B#5D1-headnote-1-line-group-2-line-1"><note rend="flush right">Dublin, 1703</note></l></lg></head><head type="note" n="2" xml:id="spp-Y44B#5D1-headnote-2"><lg n="1" xml:id="spp-Y44B#5D1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y44B#5D1-headnote-2-line-group-1-line-1"><hi rend="underline">On the Fly-leaf is the following</hi>: “This Book belonged to Dean Swift: I bought it at the auction of Dr. Barret's library among other books of the Dean's.──J. F<hi rend="SMALL-CAPS">INLAY</hi>.</l></lg></head><head type="note" n="3" xml:id="spp-Y44B#5D1-headnote-3"><lg n="1" xml:id="spp-Y44B#5D1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y44B#5D1-headnote-3-line-group-1-line-1"><hi rend="underline">On the other fly leaf is</hi>, “The following in the hand-writing of Dean Swift.──J. F.\quote not closed\Y44B#5D1</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y44B#5D1-line-1">Y44B#5D1   1  `Thus James Bonnell lived, plainly doth appear,&#13;Y44B#5D1   2  A Book so Thick, a copper plate so neat,Y44B#5D1   3  To prove his money, like his life well spent:Y44B#5D1   4  They likewise here do Fix <hi rend="underline">his</hi> monument,Y44B#5D1   5  Who, as a mark upon his sacred Dust,Y44B#5D1   6  Oblidged the Public with his pretty bust.Y44B#5D1   7  What's wanting to make the book worth minding,Y44B#5D1   8  Is easily got, A pretty Binding.Y44B#5D1   9  Then surely none can doubt the book will sell,Y44B#5D1   10  James Bonnell lived and dyed so well;Y44B#5D1   11  Yet Thanks to the Gods his wife may wish up,Y44B#5D1   12  There survived a man not yet a Bishop.<unclear>quote not closed</unclear>Y44B#5D1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

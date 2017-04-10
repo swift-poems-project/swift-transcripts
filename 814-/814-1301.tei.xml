@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The YAHOO'S OVERTHROW;</title>
+        <title>Or, the K<hi rend="SMALL-CAPS">EVAN </hi>B<hi rend="SMALL-CAPS">AYL</hi>'s N<hi rend="SMALL-CAPS">EW </hi>B<hi rend="SMALL-CAPS">ALLAD</hi>,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="814-1301" type="poem"><head type="note" n="1" xml:id="spp-814-1301-headnote-1"><lg n="1" xml:id="spp-814-1301-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-814-1301-headnote-1-line-group-1-line-1">To the Tune of <hi rend="underline">Derry-down</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-814-1301-headnote-2"><lg n="1" xml:id="spp-814-1301-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-814-1301-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-814-1301-headnote-3"><lg n="1" xml:id="spp-814-1301-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-814-1301-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-814-1301-line-1"><hi rend="display-initial">J<hi rend="SMALL-CAPS">OLLY</hi></hi> boys of St. Kevan's, St. Patrick's, Donore,</l><l n="2" xml:id="spp-814-1301-line-2"> And Smithfield, I'll tell you, if not told before,</l><l n="3" xml:id="spp-814-1301-line-3"> How B──th, that booby, and S──l in grain,</l><l n="4" xml:id="spp-814-1301-line-4"> Hath insulted us all by insulting the Dean.<hi rend="underline">Knock him down, down, down, knock him down</hi>.</l></lg><lg n="2" type="stanza"><l n="5" xml:id="spp-814-1301-line-5">The Dean and his merits we ev'ry one know,&#13;</l><l n="6" xml:id="spp-814-1301-line-6"> But this skip of a Lawyer, where the De'el did he grow?</l><l n="7" xml:id="spp-814-1301-line-7"> How greater's his merit at Four Courts or House,</l><l n="8" xml:id="spp-814-1301-line-8" rend="flush right flush left"> Than the barking of Towzer, or leap of a louse?<hi rend="underline">Knock him down, &amp;c</hi>.</l></lg><lg n="3" type="stanza"><l n="9" xml:id="spp-814-1301-line-9">That he came from the Temple, his morals do show,&#13;</l><l n="10" xml:id="spp-814-1301-line-10"> But where his deep law is, few mortals yet know:</l><l n="11" xml:id="spp-814-1301-line-11"> His rhet'ric, bombast, silly jests, are by far</l><l n="12" xml:id="spp-814-1301-line-12" rend="flush right flush left"> More like to lampooning than pleading at bar.<hi rend="underline">Knock him down, &amp;c</hi>.</l></lg><lg n="4" type="stanza"><l n="13" xml:id="spp-814-1301-line-13">This pedlar at speaking and making of laws,&#13;</l><l n="14" xml:id="spp-814-1301-line-14"> Hath met with returns of all sorts but applause;</l><l n="15" xml:id="spp-814-1301-line-15"> Has, with noise and odd gestures, been prating some years,</l><l n="16" xml:id="spp-814-1301-line-16" rend="flush right flush left"> What honester folks never durst for their ears.<hi rend="underline">Knock him down, &amp;c</hi>.</l></lg><lg n="5" type="stanza"><l n="17" xml:id="spp-814-1301-line-17">Of all sizes and sorts, the Fanatical crew&#13;</l><l n="18" xml:id="spp-814-1301-line-18"> Are his Brother Protestants, good men and true;</l><l n="19" xml:id="spp-814-1301-line-19"> Red hat, and blue bonnet, and turbant's the same,</l><l n="20" xml:id="spp-814-1301-line-20" rend="flush right flush left"> What the De'el is't to him whence the Devil they came?<hi rend="underline">Knock him down, &amp;c</hi>.</l></lg><lg n="6" type="stanza"><l n="21" xml:id="spp-814-1301-line-21">Hobbes, Tindal, and Woolston, and Collins, and Nayler,&#13;</l><l n="22" xml:id="spp-814-1301-line-22"> And Muggleton, Toland and Bradley the taylor,</l><l n="23" xml:id="spp-814-1301-line-23"> Are Christians alike; and it may be averr'd,</l><l n="24" xml:id="spp-814-1301-line-24" rend="flush right flush left"> He's a Christian as good as the rest of the herd.<hi rend="underline">Knock him down, &amp;c</hi>.</l></lg><lg n="7" type="stanza"><l n="25" xml:id="spp-814-1301-line-25">He only the rights of the clergy debates,&#13;</l><l n="26" xml:id="spp-814-1301-line-26"> Their rights! their importance! We'll set on new rates</l><l n="27" xml:id="spp-814-1301-line-27"> On their tythes at half-nothing, their priesthood at less:</l><l n="28" xml:id="spp-814-1301-line-28" rend="flush right flush left"> What's next to be voted with ease you may guess.<hi rend="underline">Knock him down, &amp;c</hi>.</l></lg><lg n="8" type="stanza"><l n="29" xml:id="spp-814-1301-line-29">At length his old Master, (I need not him name)&#13;</l><l n="30" xml:id="spp-814-1301-line-30"> To this damnable Speaker had long ow'd a shame;</l><l n="31" xml:id="spp-814-1301-line-31"> When his speech came abroad, he paid him off clean,</l><l n="32" xml:id="spp-814-1301-line-32" rend="flush right flush left"> By leaving him under the pen of the Dean.<hi rend="underline">Knock him down, &amp;c</hi>.</l></lg><lg n="9" type="stanza"><l n="33" xml:id="spp-814-1301-line-33">He kindled, as if the whole Satire had been,&#13;</l><l n="34" xml:id="spp-814-1301-line-34"> The oppression of Virtue, not wages of Sin:</l><l n="35" xml:id="spp-814-1301-line-35"> He began as he bragg'd, with a rant and a roar;</l><l n="36" xml:id="spp-814-1301-line-36" rend="flush right flush left"> He bragg'd how he bounc'd, and he swore how he swore.<hi rend="underline">Knock him down, &amp;c</hi>.</l></lg><lg n="10" type="stanza"><l n="37" xml:id="spp-814-1301-line-37">Tho' he cring'd to his Deanship in very low strains,&#13;</l><l n="38" xml:id="spp-814-1301-line-38"> To others he boasted of knocking out brains,</l><l n="39" xml:id="spp-814-1301-line-39"> And slitting of noses, and cropping of ears,</l><l n="40" xml:id="spp-814-1301-line-40" rend="flush right flush left"> While his own ass's Zaggs were more fit for the shears.<hi rend="underline">Knock him down, &amp;c</hi>.</l></lg><lg n="11" type="stanza"><l n="41" xml:id="spp-814-1301-line-41">On this Worrier of Deans whene'er we can hit,&#13;</l><l n="42" xml:id="spp-814-1301-line-42"> We'll shew him the way how to crop and to slit;</l><l n="43" xml:id="spp-814-1301-line-43"> We'll teach him some better address to afford</l><l n="44" xml:id="spp-814-1301-line-44" rend="flush right flush left"> To the Dean of all Deans, tho' he wears not a sword.<hi rend="underline">Knock him down, &amp;c</hi>.</l></lg><lg n="12" type="stanza"><l n="45" xml:id="spp-814-1301-line-45">We'll colt him thro' Kevan, St. Patrick's, Donore,&#13;</l><l n="46" xml:id="spp-814-1301-line-46"> And Smithfield, as Rap was ne'er colted before;</l><l n="47" xml:id="spp-814-1301-line-47"> We'll oil him with kennel, and powd'r him with grains,</l><l n="48" xml:id="spp-814-1301-line-48" rend="flush right flush left"> A modus right fit for insulters of Deans.<hi rend="underline">Knock him down, &amp;c</hi>.</l></lg><lg n="13" type="stanza"><l n="49" xml:id="spp-814-1301-line-49">And, when this is over, we'll make him amends,&#13;</l><l n="50" xml:id="spp-814-1301-line-50"> To the Dean he shall go; they shall kiss, and be friends:</l><l n="51" xml:id="spp-814-1301-line-51"> But how? Why, the Dean shall to him disclose,</l><l n="52" xml:id="spp-814-1301-line-52" rend="flush right flush left"> A face for to kiss, without eyes, ears or nose.<hi rend="underline">Knock him down, &amp;c</hi>.</l></lg><lg n="14" type="stanza"><l n="53" xml:id="spp-814-1301-line-53">If you say this is hard, on a man that is reckon'd&#13;</l><l n="54" xml:id="spp-814-1301-line-54"> That serjeant at law, whom we call Kite the Second,</l><l n="55" xml:id="spp-814-1301-line-55"> You mistake; for a Slave, who will coax his superiors,</l><l n="56" xml:id="spp-814-1301-line-56" rend="flush right flush left"> May be proud to be licking a great man's posteriors.<hi rend="underline">Knock him down, &amp;c</hi>.</l></lg><lg n="15" type="stanza"><l n="57" xml:id="spp-814-1301-line-57">What care we how high runs his passion or pride?&#13;</l><l n="58" xml:id="spp-814-1301-line-58"> Tho' his soul he despises, he values his hide:</l><l n="59" xml:id="spp-814-1301-line-59"> Then fear not his tongue, or his sword, or his knife;</l><l n="60" xml:id="spp-814-1301-line-60"> He'll take his revenge on his innocent wife.<hi rend="underline">Knock him down, down, down,──keep him down</hi>.814-1301   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

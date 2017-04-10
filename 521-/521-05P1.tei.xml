@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On <hi rend="underline">Stephen Duck</hi>, the Thresher,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RPeres"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="521-05P1" type="poem"><head type="note" n="1" xml:id="spp-521-05P1-headnote-1"><lg n="1" xml:id="spp-521-05P1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-521-05P1-headnote-1-line-group-1-line-1"><hi rend="underline">A QUIBLING EPIGRAM</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-521-05P1-headnote-2"><lg n="1" xml:id="spp-521-05P1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-521-05P1-headnote-2-line-group-1-line-1">Written in the Year 1730.</l></lg></head><head type="note" n="3" xml:id="spp-521-05P1-headnote-3"><lg n="1" xml:id="spp-521-05P1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-521-05P1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-521-05P1-line-1"><hi rend="display-initial">T</hi>HE Thresher <hi rend="underline">Duck</hi>, could o'er the <hi rend="underline">Q</hi>────prevail.</l><l n="2" xml:id="spp-521-05P1-line-2"> The Proverb says; <hi rend="underline">No Fence against a Flail</hi>.</l><l n="3" xml:id="spp-521-05P1-line-3"> From <hi rend="underline">threshing</hi> Corn, he turns to <hi rend="underline">thresh</hi> his Brains;</l><l n="4" xml:id="spp-521-05P1-line-4"> For which Her <hi rend="underline">M────y</hi> allows him <hi rend="underline">Grains</hi>.</l><l n="5" xml:id="spp-521-05P1-line-5"> Though 'tis confest that those who ever saw</l><l n="6" xml:id="spp-521-05P1-line-6"> His Poems, think them all not worth a <hi rend="underline">Straw</hi>!</l><l n="7" xml:id="spp-521-05P1-line-7"> Thrice happy <hi rend="underline">Duck</hi>, employ'd in threshing <hi rend="underline">Stubble</hi>!</l><l n="8" xml:id="spp-521-05P1-line-8"> Thy Toil is lessen'd, and thy Profits double.521-05P1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

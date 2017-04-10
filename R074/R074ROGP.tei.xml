@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">A Description of Mother Ludwell's Cave</hi>
+        </title>
+        <title>HNl <hi rend="underline">Hae latebrae dulces, et si mihi credis, amoenae.</hi></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R074ROGP" type="poem"><head type="note" n="1" xml:id="spp-R074ROGP-headnote-1"><lg n="1" xml:id="spp-R074ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-R074ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-R074ROGP-headnote-2"><lg n="1" xml:id="spp-R074ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-R074ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-R074ROGP-headnote-3"><lg n="1" xml:id="spp-R074ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-R074ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-R074ROGP-line-1"> Let others with Parnassus swell their theme,&#13;</l><l n="2" xml:id="spp-R074ROGP-line-2"> Drink inspiration from the Aonian stream:</l><l n="3" xml:id="spp-R074ROGP-line-3"> Let them draw Phoebus down to patch a line,</l><l n="4" xml:id="spp-R074ROGP-line-4"> Invoke, that hackney fry, the tuneful nine:</l><l n="5" xml:id="spp-R074ROGP-line-5"> I that of Ludwell sing, to Ludwell run,</l><l n="6" xml:id="spp-R074ROGP-line-6"> Herself my muse, her spring my Helicon.</l><l n="7" xml:id="spp-R074ROGP-line-7"> The neighbouring park its friendly aid allows;</l><l n="8" xml:id="spp-R074ROGP-line-8"> Perfumed with thyme, o'erspread with shady boughs;</l><l n="9" xml:id="spp-R074ROGP-line-9"> Its leafy canopies new thoughts instil,</l><l n="10" xml:id="spp-R074ROGP-line-10"> And Crooksberry supplies the cloven hill.</l><l n="11" xml:id="spp-R074ROGP-line-11"> Pomona does Minerva's stores dispense,</l><l n="12" xml:id="spp-R074ROGP-line-12"> And Flora sheds her balmy influence;</l><l n="13" xml:id="spp-R074ROGP-line-13"> All things conspire to press my modest muse,</l><l n="14" xml:id="spp-R074ROGP-line-14"> The morning herbs adorned with pearly dews,</l><l n="15" xml:id="spp-R074ROGP-line-15"> The meadows interlaced with silver floods,</l><l n="16" xml:id="spp-R074ROGP-line-16"> The frizzled thickets, and the taller woods.</l><l n="17" xml:id="spp-R074ROGP-line-17"> The whispering zephyrs my more silent tongue</l><l n="18" xml:id="spp-R074ROGP-line-18"> Correct, and Philomela chirps a song.</l><l n="19" xml:id="spp-R074ROGP-line-19"> Is there a bird of all the blooming year,</l><l n="20" xml:id="spp-R074ROGP-line-20"> That has not sung his early matins here?</l><l n="21" xml:id="spp-R074ROGP-line-21"> That has not sipped the fairy matron's spring,</l><l n="22" xml:id="spp-R074ROGP-line-22"> Or hovered o'er her cave with wishful wing?</l><l n="23" xml:id="spp-R074ROGP-line-23"> An awful fabric built by nature's hand</l><l n="24" xml:id="spp-R074ROGP-line-24"> Does raise our wonder, our respect command.</l><l n="25" xml:id="spp-R074ROGP-line-25"> Three lucky trees to wilder art unknown</l><l n="26" xml:id="spp-R074ROGP-line-26"> Seem on the front a growing triple crown.</l><l n="27" xml:id="spp-R074ROGP-line-27"> At first the arched room is high and wide,</l><l n="28" xml:id="spp-R074ROGP-line-28"> The naked walls with mossy hangings hid;</l><l n="29" xml:id="spp-R074ROGP-line-29"> The ceiling sandy: as you forward press</l><l n="30" xml:id="spp-R074ROGP-line-30"> The roof is still declining into less;</l><l n="31" xml:id="spp-R074ROGP-line-31"> Despair to reach the end──a little arch</l><l n="32" xml:id="spp-R074ROGP-line-32"> Narrow and low forbids your utmost search.</l><l n="33" xml:id="spp-R074ROGP-line-33"> So to her lover the chaste, beauteous lass</l><l n="34" xml:id="spp-R074ROGP-line-34"> Without a blush vouchsafes to show her face,</l><l n="35" xml:id="spp-R074ROGP-line-35"> Her neck of ivory, her snowy breast,</l><l n="36" xml:id="spp-R074ROGP-line-36"> These shown, she modestly conceals the rest.</l><l n="37" xml:id="spp-R074ROGP-line-37"> A shallow brook, that restless underground</l><l n="38" xml:id="spp-R074ROGP-line-38"> Struggled with earth, here a moist passage found.</l><l n="39" xml:id="spp-R074ROGP-line-39"> Down through a stony vein the waters roll</l><l n="40" xml:id="spp-R074ROGP-line-40"> O'erflowing the capacious iron bowl:</l><l n="41" xml:id="spp-R074ROGP-line-41"> Oh! happy bowl, that gladness can infuse,</l><l n="42" xml:id="spp-R074ROGP-line-42"> And yet was never stained with heady juice.</l><l n="43" xml:id="spp-R074ROGP-line-43"> Here thirsty souls carouse with innocence,</l><l n="44" xml:id="spp-R074ROGP-line-44"> Nor owe their pleasure to their loss of sense.</l><l n="45" xml:id="spp-R074ROGP-line-45"> Here a smooth floor had many a figure shown,</l><l n="46" xml:id="spp-R074ROGP-line-46"> Had virgin footsteps made impression,</l><l n="47" xml:id="spp-R074ROGP-line-47"> That soft and swift Camilla-like advance,</l><l n="48" xml:id="spp-R074ROGP-line-48"> While even movements seem to fly a dance.</l><l n="49" xml:id="spp-R074ROGP-line-49"> No quilted couch, the sick man's daily bed,</l><l n="50" xml:id="spp-R074ROGP-line-50"> No seats to lull asleep diseases made,</l><l n="51" xml:id="spp-R074ROGP-line-51"> Are seen; but such as healthy persons please</l><l n="52" xml:id="spp-R074ROGP-line-52"> Of wood or stone, such as the wearied ease.</l><l n="53" xml:id="spp-R074ROGP-line-53"> O might I still enjoy this peaceful gloom!</l><l n="54" xml:id="spp-R074ROGP-line-54"> The truest entrance to Elysium.</l><l n="55" xml:id="spp-R074ROGP-line-55"> Who would to the Cumaean den repair?</l><l n="56" xml:id="spp-R074ROGP-line-56"> A better Sibyl, wiser power is here.</l><l n="57" xml:id="spp-R074ROGP-line-57"> Methinks I see him from his palace come,</l><l n="58" xml:id="spp-R074ROGP-line-58"> And with his presence grace the baleful room:</l><l n="59" xml:id="spp-R074ROGP-line-59"> Consider, Ludwell, what to him you owe,</l><l n="60" xml:id="spp-R074ROGP-line-60"> Who does for you the noisy court forego;</l><l n="61" xml:id="spp-R074ROGP-line-61"> Nay he a rich and gaudy silence leaves,</l><l n="62" xml:id="spp-R074ROGP-line-62"> You share the honour, sweet Moor Park receives.</l><l n="63" xml:id="spp-R074ROGP-line-63"> You with your wrinkles admiration move,</l><l n="64" xml:id="spp-R074ROGP-line-64"> That with its beauty better merits love.</l><l n="65" xml:id="spp-R074ROGP-line-65"> Here's careless Nature in her ancient dress,</l><l n="66" xml:id="spp-R074ROGP-line-66"> There's she more modish, and consults the glass.</l><l n="67" xml:id="spp-R074ROGP-line-67"> Here she's an old, but yet a pleasant dame;</l><l n="68" xml:id="spp-R074ROGP-line-68"> There she'll a fair, not painted virgin seem.</l><l n="69" xml:id="spp-R074ROGP-line-69"> Here the rich metal hath through no fire passed,</l><l n="70" xml:id="spp-R074ROGP-line-70"> There, though refined, by no alloy debased.</l><l n="71" xml:id="spp-R074ROGP-line-71"> Thus nature is preserved in every part,</l><l n="72" xml:id="spp-R074ROGP-line-72"> Sometimes adorned, but ne'er debauched by art.</l><l n="73" xml:id="spp-R074ROGP-line-73"> When scattered locks, that dangle on the brow,</l><l n="74" xml:id="spp-R074ROGP-line-74"> Into more decent hairy circles grow,</l><l n="75" xml:id="spp-R074ROGP-line-75"> After inquiry made, though no man love</l><l n="76" xml:id="spp-R074ROGP-line-76"> The curling iron, all the comb approve.R074ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

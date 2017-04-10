@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>C<hi rend="SMALL-CAPS">LAD ALL IN </hi>B<hi rend="SMALL-CAPS">ROWN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough 17JA08"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="786-07G1"><head type="note" n="1" xml:id="spp-786-07G1-headnote-1"><lg n="1" xml:id="spp-786-07G1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-786-07G1-headnote-1-line-group-1-line-1">Imitated from C<hi rend="SMALL-CAPS">OWLEY</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-786-07G1-headnote-2"><lg n="1" xml:id="spp-786-07G1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-786-07G1-headnote-2-line-group-1-line-1">T<hi rend="SMALL-CAPS">O </hi>D<hi rend="SMALL-CAPS">ICK</hi>.</l></lg></head><head type="note" n="3" xml:id="spp-786-07G1-headnote-3"><lg n="1" xml:id="spp-786-07G1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-786-07G1-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-786-07G1-line-1"><hi rend="display-initial">F</hi>Oulest brute that stinks below,</l><l/><l n="2" xml:id="spp-786-07G1-line-2">Why in this brown dost thou appear?</l><l/><l n="3" xml:id="spp-786-07G1-line-3">For, wouldst thou make a fouler show,</l><l/><l n="4" xml:id="spp-786-07G1-line-4">Thou must go naked all the year.</l><l/><l n="5" xml:id="spp-786-07G1-line-5">Fresh from the mud a wallowing sow</l><l/><l n="6" xml:id="spp-786-07G1-line-6">Would then be not so brown as thou.</l><l/><l n="7" xml:id="spp-786-07G1-line-7"/></lg><lg n="2" type="stanza"><l>'Tis not the coat that looks so dun;&#13;</l><l/><l n="8" xml:id="spp-786-07G1-line-8">His hide emits a foulness out;</l><l/><l n="9" xml:id="spp-786-07G1-line-9">Not one jot better looks the sun</l><l/><l n="10" xml:id="spp-786-07G1-line-10">Seen from behind a dirty clout:</l><l/><l n="11" xml:id="spp-786-07G1-line-11">So t────ds within a glass inclose,</l><l/><l n="12" xml:id="spp-786-07G1-line-12">The glass will seem as brown as those.</l><l/><l n="13" xml:id="spp-786-07G1-line-13"/></lg><lg n="3" type="stanza"><l>Thou now one heap of foulness art,&#13;</l><l/><l n="14" xml:id="spp-786-07G1-line-14">All outward and within is foul;</l><l/><l n="15" xml:id="spp-786-07G1-line-15">Condensed filth in ev'ry part,</l><l/><l n="16" xml:id="spp-786-07G1-line-16">Thy body's clothed like thy soul;</l><l/><l n="17" xml:id="spp-786-07G1-line-17">Thy soul, which, through thy hide of buff,</l><l/><l n="18" xml:id="spp-786-07G1-line-18">Scarce glimmers like a dying snuff.</l><l/><l n="19" xml:id="spp-786-07G1-line-19"/></lg><lg n="4" type="stanza"><l>Old carted bawds such garments wear,&#13;</l><l/><l n="20" xml:id="spp-786-07G1-line-20">When pelted all with dirt they shine;</l><l/><l n="21" xml:id="spp-786-07G1-line-21">Such their <hi rend="underline">exalted</hi> bodies are,</l><l/><l n="22" xml:id="spp-786-07G1-line-22">As shrivel'd and as black as thine.</l><l/><l n="23" xml:id="spp-786-07G1-line-23">If thou wert in a cart, I fear</l><l/><l n="24" xml:id="spp-786-07G1-line-24">Thou wouldst be pelted worse than they're.</l><l/><l n="25" xml:id="spp-786-07G1-line-25"/></lg><lg n="5" type="stanza"><l>Yet when we see thee thus array'd,&#13;</l><l/><l n="26" xml:id="spp-786-07G1-line-26">The neighbours think, it is but just,</l><l/><l n="27" xml:id="spp-786-07G1-line-27">That thou shouldst take an honest trade,</l><l/><l n="28" xml:id="spp-786-07G1-line-28">And weekly carry out the dust.</l><l/><l n="29" xml:id="spp-786-07G1-line-29">Of cleanly houses who will doubt,</l><l/><l n="30" xml:id="spp-786-07G1-line-30">When Dick cries, <hi rend="underline">Dust to carry out</hi>?</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

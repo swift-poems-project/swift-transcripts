@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On Fast days</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="949A281L" type="poem"><head type="note" n="1" xml:id="spp-949A281L-headnote-1"><lg n="1" xml:id="spp-949A281L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-949A281L-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-949A281L-headnote-2"><lg n="1" xml:id="spp-949A281L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-949A281L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-949A281L-headnote-3"><lg n="1" xml:id="spp-949A281L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-949A281L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-949A281L-line-1" rend="align(center)">French.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-949A281L-line-2" rend="flush left">Peut on croire avec bon Sens&#13;Qu'un Lardon le mit en colere?</l><l n="3" xml:id="spp-949A281L-line-3"> Ou que manger un harangC'est un Secret pour luy plaire,En sa Gloire envelopéSonge t'il a nôtre soupee.</l></lg><lg n="3" type="stanza"><l n="4" xml:id="spp-949A281L-line-4" rend="align(center)">in English.</l></lg><lg n="4" type="stanza"><l n="5" xml:id="spp-949A281L-line-5" rend="flush left"/></lg><lg n="5" type="stanza"><l n="6" xml:id="spp-949A281L-line-6">Who can beleeve w<hi rend="sup">tḥ</hi> comon<unclear>tittle above "mo"</unclear> Sence</l><l n="7" xml:id="spp-949A281L-line-7"> a Bacon Slice gives God offence!</l><l n="8" xml:id="spp-949A281L-line-8"> or how a Herring hath a Charm</l><l n="9" xml:id="spp-949A281L-line-9"> Allmighty Anger to disarm?</l><l n="10" xml:id="spp-949A281L-line-10"> Wrapt up in Majesty Divine,</l><l n="11" xml:id="spp-949A281L-line-11"> Does he regard on what we dine?949A281L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

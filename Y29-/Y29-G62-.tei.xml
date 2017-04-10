@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">A New SONG, in Praise of</hi>
+        </title>
+        <title><hi rend="underline">if</hi> Molly Mogg.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y29-G62-" type="poem"><head type="note" n="1" xml:id="spp-Y29-G62--headnote-1"><lg n="1" xml:id="spp-Y29-G62--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y29-G62--headnote-1-line-group-1-line-1">Tune of <hi rend="underline">The City Ramble, <lb/> Give Ear to my frol·cksome Ditty, <lb/> Of one that a Wager would lay</hi>, &amp;e.</l></lg></head><head type="note" n="2" xml:id="spp-Y29-G62--headnote-2"><lg n="1" xml:id="spp-Y29-G62--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y29-G62--headnote-2-line-group-1-line-1"><hi rend="underline">The Answer to the Authors of the Foregoing Verses</hi>. <lb/> When to Women you make your Address Sirs, <lb/> Rememember the old Decalogue, <lb/> Take heed that you never Transgress, Sirs, <lb/> With that beautiful Toast <hi rend="underline">Molly M</hi></l></lg></head><head type="note" n="3" xml:id="spp-Y29-G62--headnote-3"><lg n="1" xml:id="spp-Y29-G62--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y29-G62--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y29-G62--line-1"><hi rend="display-initial">S</hi>Ays my Uncle i pray now discoverWhat has been the Cause of your Woes,</l><l n="2" xml:id="spp-Y29-G62--line-2"> That you pine and whine like a Lover,I'have seen <hi rend="underline">Molly Mogg</hi> at the Rose.</l><l n="3" xml:id="spp-Y29-G62--line-3"> O Nephew, your Grief is a Folly.In town you may find your prog,</l><l n="4" xml:id="spp-Y29-G62--line-4"> Half a Crown there will get you a <hi rend="underline">Molly</hi>,A <hi rend="underline">Molly</hi> much better than <hi rend="underline">Mogg</hi>.<gap/><gap/><gap/><gap/></l><l n="5" xml:id="spp-Y29-G62--line-5"> The School-boys delight in a Play-day,School-master's Joy is to flog;</l><l n="6" xml:id="spp-Y29-G62--line-6"> Fop is the delight of a Lady,But mine is in sweet <hi rend="underline">Molly Mogg.</hi> leads the Trav'ller a gaddingthro' Ditch, thro' Quagmire and Bog;</l><l n="7" xml:id="spp-Y29-G62--line-7"> Will o' Wisp</l><l n="8" xml:id="spp-Y29-G62--line-8"> But no Light can set me a-madding.But the Eyes of my sweet <hi rend="underline">Molly Mogg</hi>,</l><l n="9" xml:id="spp-Y29-G62--line-9"> For Guineas in other Men's-breeches,Your Gamesters they'll palm and they'll cog</l><l n="10" xml:id="spp-Y29-G62--line-10"> But i envy them none of their Riches,So palm with my sweet <hi rend="underline">Molly Mogg</hi>.</l><l n="11" xml:id="spp-Y29-G62--line-11"> The Heart thats half wounded is ranging,It here and there leaps like a Frog:</l><l n="12" xml:id="spp-Y29-G62--line-12"> But my Heart it can never be changing,It's so fixed on my sweet <hi rend="underline">Molly Mogg</hi>,</l><l n="13" xml:id="spp-Y29-G62--line-13"> I know that by Wits 'tis recited,That Women at best are a Clog,</l><l n="14" xml:id="spp-Y29-G62--line-14"> But I am not easily frightedFrom loving my Sweet <hi rend="underline">Molly Mogg</hi>.<gap/><gap/><gap/><gap/></l><l n="15" xml:id="spp-Y29-G62--line-15"> A Letter when I am inditing.Comes <hi rend="underline">Cupid</hi> and gives me a Jog,</l><l n="16" xml:id="spp-Y29-G62--line-16"> And I fill all my Paper with Writing,Of nothing but sweet <hi rend="underline">Molly Mogg</hi>,</l><l n="17" xml:id="spp-Y29-G62--line-17"> I feell I'm in Love to Distraction,My Senses are lost in a Fog,</l><l n="18" xml:id="spp-Y29-G62--line-18"> And in nothing can find Satisfaction,But in thoughts of my Sweet <hi rend="underline">Molly Mogg</hi>,<gap/><gap/><gap/><gap/></l><l n="19" xml:id="spp-Y29-G62--line-19"> If I would not give up the three Graces,I wish I were hang'd like a Dog,</l><l n="20" xml:id="spp-Y29-G62--line-20"> And at Court all the Drawing-rooms faces,For a Glance of my Sweet <hi rend="underline">Molly Mogg</hi>.</l><l n="21" xml:id="spp-Y29-G62--line-21"> For those Faces want Nature and Spirit,and seem as cut out of a Log,</l><l n="22" xml:id="spp-Y29-G62--line-22"> Juno, Venus, and Pallas's merit,unite in my sweet Molly Mogg.<gap/><gap/><gap/><gap/></l><l n="23" xml:id="spp-Y29-G62--line-23"> Were <hi rend="underline">Virgil</hi> alive with his <hi rend="underline">Phillis</hi>,And writing another Eclogue,</l><l n="24" xml:id="spp-Y29-G62--line-24"> Both his <hi rend="underline">Phillis</hi> and fair <hi rend="underline">Amarillis</hi>,He'd give for my sweet <hi rend="underline">Molly Mogg</hi>.</l><l n="25" xml:id="spp-Y29-G62--line-25"> When <hi rend="underline">Molly</hi> comes up with the Liquor,Then Jealousy sets me a-gog.</l><l n="26" xml:id="spp-Y29-G62--line-26"> To besure she's a bit for the Vicar,And so I shall loose <hi rend="underline">Molly Mogg</hi>.<gap/><gap/><gap/><gap/></l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To The Rev<hi rend="sup">d</hi> D<hi rend="sup">r</hi> Swift, Dean of</title>
+        <title>S<hi rend="sup">t</hi> Patrick's.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="609-031Q" type="poem"><head type="note" n="1" xml:id="spp-609-031Q-headnote-1"><lg n="1" xml:id="spp-609-031Q-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-609-031Q-headnote-1-line-group-1-line-1"><note rend="flush right">Dublin. November 30<hi rend="sup">th:</hi> 08: 1732.</note></l></lg></head><head type="note" n="2" xml:id="spp-609-031Q-headnote-2"><lg n="1" xml:id="spp-609-031Q-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-609-031Q-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-609-031Q-headnote-3"><lg n="1" xml:id="spp-609-031Q-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-609-031Q-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-609-031Q-line-1"> To Thee, Dear Swift, these spottless Leaves J send,&#13;</l><l n="2" xml:id="spp-609-031Q-line-2"> Small is the Present, but sincere the Friend.</l><l n="3" xml:id="spp-609-031Q-line-3"> Think not so poor a Book below thy Care,</l><l n="4" xml:id="spp-609-031Q-line-4"> Who knows the Price that Thou canst make it bear?</l><l n="5" xml:id="spp-609-031Q-line-5"> Tho' tawdry now and like Tyrilla's Face,</l><l n="6" xml:id="spp-609-031Q-line-6"> The specious Front shines out with borrow'd Grace,</l><l n="7" xml:id="spp-609-031Q-line-7"> Tho' Pasteboards glitt'ring like a tinsel'd Coat</l><l n="8" xml:id="spp-609-031Q-line-8"> A Rasa Tabula within denote,</l><l n="9" xml:id="spp-609-031Q-line-9"> Yet if a venal and corrupted Age</l><l n="10" xml:id="spp-609-031Q-line-10"> And modern Vices should provoke thy Rage,</l><l n="11" xml:id="spp-609-031Q-line-11"> If warn'd once more by their impending Fate</l><l n="12" xml:id="spp-609-031Q-line-12"> A sinking Country and an injur'd State</l><l n="13" xml:id="spp-609-031Q-line-13"> Thy great Assistance should again demand,</l><l n="14" xml:id="spp-609-031Q-line-14"> And call forth Reason to defend the Land,</l><l n="15" xml:id="spp-609-031Q-line-15"> Then shall we view these Sheets with glad Surprize,</l><l n="16" xml:id="spp-609-031Q-line-16"> Inspir'd with Thought and speaking to our Eyes.</l><l n="17" xml:id="spp-609-031Q-line-17"> Each vacant Space shall then enrich'd dispence</l><l n="18" xml:id="spp-609-031Q-line-18"> True Force of Eloquence and nervous Sense,</l><l n="19" xml:id="spp-609-031Q-line-19"> Inform the Judgement, animate the Heart,</l><l n="20" xml:id="spp-609-031Q-line-20"> And sacred Rules of Policy impart,</l><l n="21" xml:id="spp-609-031Q-line-21"> The spangled Cov'ring bright with splendid Ore</l><l n="22" xml:id="spp-609-031Q-line-22"> Shall cheat the Sight with empty Show no more,</l><l n="23" xml:id="spp-609-031Q-line-23"> But lead us inward To those golden Mines</l><l n="24" xml:id="spp-609-031Q-line-24"> Where all thy Soul in native Lustre shines.</l><l n="25" xml:id="spp-609-031Q-line-25"> So when the Eye surveys some lovely Fair</l><l n="26" xml:id="spp-609-031Q-line-26"> With Bloom of Beauty grac'd, with Shape and Air,</l><l n="27" xml:id="spp-609-031Q-line-27"> How is the Rapture heighten'd when we find</l><l n="28" xml:id="spp-609-031Q-line-28"> Her Form excell'd by her C<unclear>oe</unclear>lestial Mind.</l></lg><lg n="2" type="stanza"><l n="29" xml:id="spp-609-031Q-line-29"><hi rend="black-letter">Orrery.</hi>609-031Q   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

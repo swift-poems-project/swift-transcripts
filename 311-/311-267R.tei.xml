@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To Charles Ford Esq<hi rend="sup">r</hi> 08. on his Birth-day</title>
+        <title>Jan<hi rend="sup">ry</hi>. 31<hi rend="sup">st</hi> 08. for the Year 1722-3</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-311-267R-footnote-1 #spp-311-267R-line-82"/>
+        </linkGrp>
+        <div n="311-267R" type="poem"><head type="note" n="1" xml:id="spp-311-267R-headnote-1"><lg n="1" xml:id="spp-311-267R-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-311-267R-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-311-267R-headnote-2"><lg n="1" xml:id="spp-311-267R-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-311-267R-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-311-267R-headnote-3"><lg n="1" xml:id="spp-311-267R-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-311-267R-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-311-267R-line-1"> Come, be content, since out it must,&#13;</l><l n="2" xml:id="spp-311-267R-line-2"> For, Stella has betray'd her Trust,</l><l n="3" xml:id="spp-311-267R-line-3"> And, whisp'ring, charg'd me not to say</l><l n="4" xml:id="spp-311-267R-line-4"> That M<hi rend="sup">r</hi>. Ford was born to day:</l><l n="5" xml:id="spp-311-267R-line-5"> Or if at last, I needs must blab it,</l><l n="6" xml:id="spp-311-267R-line-6"> According to my usuall habit,</l><l n="7" xml:id="spp-311-267R-line-7"> She bid me with a serious Face</l><l n="8" xml:id="spp-311-267R-line-8"> Be sure conceal the Time and Place,</l><l n="9" xml:id="spp-311-267R-line-9"> And not my Compliment to spoyl</l><l n="10" xml:id="spp-311-267R-line-10"> By calling This your native Soyl,</l><l n="11" xml:id="spp-311-267R-line-11"> Or vex the Ladyes, when they knew</l><l n="12" xml:id="spp-311-267R-line-12"> That you are turning fourty two.</l><l n="13" xml:id="spp-311-267R-line-13"> But if these Topicks should appear</l><l n="14" xml:id="spp-311-267R-line-14"> Strong Arguments to keep You here,</l><l n="15" xml:id="spp-311-267R-line-15"> We think, though You judge hardly of it,</l><l n="16" xml:id="spp-311-267R-line-16"> Good Manners must give Place to Profit.The Nymphs with whom You first began</l><l n="17" xml:id="spp-311-267R-line-17"> Are each become a Harridan;</l><l n="18" xml:id="spp-311-267R-line-18"> And Mountague so far decayd,</l><l n="19" xml:id="spp-311-267R-line-19"> That now her Lovers must be payd;</l><l n="20" xml:id="spp-311-267R-line-20"> And ev'ry Belle that since arose</l><l n="21" xml:id="spp-311-267R-line-21"> Has her Cotemporary Beaux.</l><l n="22" xml:id="spp-311-267R-line-22"> Your former Comrades, once so bright,</l><l n="23" xml:id="spp-311-267R-line-23"> With whom you toasted half the Night,</l><l n="24" xml:id="spp-311-267R-line-24"> Of Rheumatism and Pox complain,</l><l n="25" xml:id="spp-311-267R-line-25"> And bid adieu to dear Champain:</l><l n="26" xml:id="spp-311-267R-line-26"> Your great Protectors, once in Power,</l><l n="27" xml:id="spp-311-267R-line-27"> Are now in Exil, or the Tower,</l><l n="28" xml:id="spp-311-267R-line-28"> Your Foes, triumphant o'er the Laws,</l><l n="29" xml:id="spp-311-267R-line-29"> Who hate Your Person, and Your Cause,</l><l n="30" xml:id="spp-311-267R-line-30"> If once they get you on the Spot</l><l n="31" xml:id="spp-311-267R-line-31"> You must be guilty of the Plot,</l><l n="32" xml:id="spp-311-267R-line-32"> For, true or false, they'll ne'r enquire,</l><l n="33" xml:id="spp-311-267R-line-33"> But use <unclear>Y overy</unclear>ou ten times worse than Pri'r.In London! What would You do there?</l><l n="34" xml:id="spp-311-267R-line-34"> Can You, my Friend, with Patience bear,</l><l n="35" xml:id="spp-311-267R-line-35"> Nay would it not Your Passion raise</l><l n="36" xml:id="spp-311-267R-line-36"> Worse than a Pun, or Irish Phrase,</l><l n="37" xml:id="spp-311-267R-line-37"> To see a Scoundrel Strut and hector,</l><l n="38" xml:id="spp-311-267R-line-38"> A Foot-boy to some Rogue Director?</l><l n="39" xml:id="spp-311-267R-line-39"> To look on Vice triumphant round,</l><l n="40" xml:id="spp-311-267R-line-40"> And Virtue trampled on the Ground:</l><l n="41" xml:id="spp-311-267R-line-41"> Observe where bloody Townshend stands</l><l n="42" xml:id="spp-311-267R-line-42"> With <del>tort'ring Engins</del><add>Informations</add> in his Hands,</l><l n="43" xml:id="spp-311-267R-line-43"> Hear him Blaspheme; and swear, and Rayl,</l><l n="44" xml:id="spp-311-267R-line-44"> Threatning the Pillory and Iayl.</l><l n="45" xml:id="spp-311-267R-line-45"> If this you think a pleasing Scene</l><l n="46" xml:id="spp-311-267R-line-46"> To London strait return again,</l><l n="47" xml:id="spp-311-267R-line-47"> Where you have told us from Expe<unclear>rience overrian</unclear>,</l><l n="48" xml:id="spp-311-267R-line-48"> Are swarms of Bugs and Hanoverians.I thought my very Spleen would burst</l><l n="49" xml:id="spp-311-267R-line-49"> When Fortune hither drove me first;</l><l n="50" xml:id="spp-311-267R-line-50"> Was full as hard to please as You,</l><l n="51" xml:id="spp-311-267R-line-51"> Nor Persons Names, nor Places knew;</l><l n="52" xml:id="spp-311-267R-line-52"> But now I act as other Folk,</l><l n="53" xml:id="spp-311-267R-line-53"> Like Pris'ners when their Gall is broke.If you have London still at heart</l><l n="54" xml:id="spp-311-267R-line-54"> We'll make a small one here by Art:</l><l n="55" xml:id="spp-311-267R-line-55"> The Diff'rence is not much between</l><l n="56" xml:id="spp-311-267R-line-56"> S<hi rend="sup">t</hi> Iames's Park and Stephen's Green;</l><l n="57" xml:id="spp-311-267R-line-57"> And, Dawson street will serve as well</l><l n="58" xml:id="spp-311-267R-line-58"> To lead you thither, as Pell-mell,</l><l n="59" xml:id="spp-311-267R-line-59"> (Without your passing thro the Palace</l><l n="60" xml:id="spp-311-267R-line-60"> To choque your Sight, and raise your Malice)</l><l n="61" xml:id="spp-311-267R-line-61"> The Deanry-house may well be match't</l><l n="62" xml:id="spp-311-267R-line-62"> (Under Correction) with the thatcht,</l><l n="63" xml:id="spp-311-267R-line-63"> Nor shall I, when you hither come,</l><l n="64" xml:id="spp-311-267R-line-64"> Demand a Crown a Quart for Stumm.</l><l n="65" xml:id="spp-311-267R-line-65"> Then, for a middle-aged Charmer,</l><l n="66" xml:id="spp-311-267R-line-66"> Stella may vye with your Mountharmar:</l><l n="67" xml:id="spp-311-267R-line-67"> She's Now as handsom ev'ry bit,</l><l n="68" xml:id="spp-311-267R-line-68"> And has a thousand times her Wit.</l><l n="69" xml:id="spp-311-267R-line-69"> The Dean and Sheridan, I hope,</l><l n="70" xml:id="spp-311-267R-line-70"> Will half supply a Gay and Pope,</l><l n="71" xml:id="spp-311-267R-line-71"> Corbet, though yet I know his Worth not,</l><l n="72" xml:id="spp-311-267R-line-72"> No doubt, will prove a good Arburthnot:</l><l n="73" xml:id="spp-311-267R-line-73"> I throw into the Bargain, Iim:</l><l n="74" xml:id="spp-311-267R-line-74"> In London can you equall Him?What think you of my fav'rite Clan,</l><l n="75" xml:id="spp-311-267R-line-75"> Robin, and Iack, and Iack, and Dan?</l><l n="76" xml:id="spp-311-267R-line-76"> Fellows of modest Worth and Parts,</l><l n="77" xml:id="spp-311-267R-line-77"> With chearfull Looks, and honest Hearts.Can you on Dublin look with Scorn?</l><l n="78" xml:id="spp-311-267R-line-78"> Yet here were You and Ormonde born<del>Oh, were but You and I so wise</del></l><l n="79" xml:id="spp-311-267R-line-79"> To look with Robin Grattan's Eyes:</l><l n="80" xml:id="spp-311-267R-line-80"> Robin adores that Spot of Earth,</l><l n="81" xml:id="spp-311-267R-line-81"> That litt'rall Spot which gave him Birth,</l><l n="82" xml:id="spp-311-267R-line-82"> And swears, <del>Belcamp</del><add>The<figure><figDesc>caret</figDesc></figure></add><hi rend="underline">del·</hi>Iris<hi rend="underline">·and add</hi><ref target="#spp-311-267R-footnote-1">1</ref><unclear n="1" xml:id="spp-311-267R-footnote-1">true Name of Belcamp</unclear> is to his Tast,</l><l n="83" xml:id="spp-311-267R-line-83"> As fine as Hampton-court at least.When to your Friends you would enhance</l><l n="84" xml:id="spp-311-267R-line-84"> The Praise of Italy or France</l><l n="85" xml:id="spp-311-267R-line-85"> For Grandeur, Elegance and Wit,</l><l n="86" xml:id="spp-311-267R-line-86"> We gladly hear you, and submit:</l><l n="87" xml:id="spp-311-267R-line-87"> But then, to come and keep a Clutter</l><l n="88" xml:id="spp-311-267R-line-88"> For this, or that Side of a Gutter,</l><l n="89" xml:id="spp-311-267R-line-89"> To live in this or t'other Isle,</l><l n="90" xml:id="spp-311-267R-line-90"> We cannot think it worth your while.</l><l n="91" xml:id="spp-311-267R-line-91"> For, take it kindly, or amiss,</l><l n="92" xml:id="spp-311-267R-line-92"> The Diff'rence but amounts to this,<del>They</del> bury, on our Side the Channell</l><l n="93" xml:id="spp-311-267R-line-93"> In Linnen, and on Yours, in Flannell.</l><l n="94" xml:id="spp-311-267R-line-94"> You, for the News are ne'r to seek,</l><l n="95" xml:id="spp-311-267R-line-95"> While We perhaps must wait a Week.</l><l n="96" xml:id="spp-311-267R-line-96"> You, happy Folks, are sure to meet</l><l n="97" xml:id="spp-311-267R-line-97"> A hundred Whores in ev'ry Street,</l><l n="98" xml:id="spp-311-267R-line-98"> While <unclear>W overw</unclear>e may search all Dublin o'er</l><l n="99" xml:id="spp-311-267R-line-99"> And hardly hear of half a Score.You see, my Arguments are Strong;</l><l n="100" xml:id="spp-311-267R-line-100"> I wonder you held out so long,</l><l n="101" xml:id="spp-311-267R-line-101"> But since you are convinc't at last</l><l n="102" xml:id="spp-311-267R-line-102"> We'll pardon you for what is past.So──let us now for Whisk prepare;</l><l n="103" xml:id="spp-311-267R-line-103"> Twelvepence a Corner, if you dare.311-267R   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

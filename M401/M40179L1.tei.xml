@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A POEM, BY DR. DELANY,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M40179L1" type="poem"><head type="note" n="1" xml:id="spp-M40179L1-headnote-1"><lg n="1" xml:id="spp-M40179L1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M40179L1-headnote-1-line-group-1-line-1">On the preceding P<hi rend="SMALL-CAPS">ROLOGUE</hi> and E<hi rend="SMALL-CAPS">PILOGUE</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-M40179L1-headnote-2"><lg n="1" xml:id="spp-M40179L1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M40179L1-headnote-2-line-group-1-line-1">“Fœmineo generi tribuantur.”</l></lg></head><head type="note" n="3" xml:id="spp-M40179L1-headnote-3"><lg n="1" xml:id="spp-M40179L1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M40179L1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-M40179L1-line-1"><hi rend="display-initial">T</hi>HE Muses, whom the richest silks array,</l><l n="2" xml:id="spp-M40179L1-line-2"> Refuse to fling their shining gowns away:</l><l n="3" xml:id="spp-M40179L1-line-3"> The pencil cloaths the Nine in bright brocades,</l><l n="4" xml:id="spp-M40179L1-line-4"> And gives each colour to the pictur'd maids;</l><l n="5" xml:id="spp-M40179L1-line-5"> Far above mortal-dress the sisters shine,</l><l n="6" xml:id="spp-M40179L1-line-6"> Pride in their Indian robes, and must be fine.</l><l n="7" xml:id="spp-M40179L1-line-7"> And shall two Bards in concert rhyme and huff,</l><l n="8" xml:id="spp-M40179L1-line-8"> And fret these Muses with their Play-house stuff?The Player in mimic piety may storm,</l><l n="9" xml:id="spp-M40179L1-line-9"> Deplore the Comb, and bid her Heroes arm:</l><l n="10" xml:id="spp-M40179L1-line-10"> The arbitrary mob, in paltry rage,</l><l n="11" xml:id="spp-M40179L1-line-11"> May curse the Belles and Chintzes of the age:</l><l n="12" xml:id="spp-M40179L1-line-12"> Yet still the Artist Worm her Silk shall share,</l><l n="13" xml:id="spp-M40179L1-line-13"> And spin her thread of life in service of the fair.The Cotton-plant, whom satire cannot blast,</l><l n="14" xml:id="spp-M40179L1-line-14"> Shall bloom the favourite of these realms, and last;</l><l n="15" xml:id="spp-M40179L1-line-15"> Like yours, ye Fair, her fame from censure grows,</l><l n="16" xml:id="spp-M40179L1-line-16"> Prevails in charms, and glares above her foes:</l><l n="17" xml:id="spp-M40179L1-line-17"> Your injur'd plant shall meet a loud defence,</l><l n="18" xml:id="spp-M40179L1-line-18"> And be the emblem of your innocence.Some Bard, perhaps, whose landlord was a Weaver,</l><l n="19" xml:id="spp-M40179L1-line-19"> Penn'd the low Prologue, to return a favour:</l><l n="20" xml:id="spp-M40179L1-line-20"> Some neighbour Wit, that would be in the vogue,</l><l n="21" xml:id="spp-M40179L1-line-21"> Work'd with his friend, and wove the Epilogue.</l><l n="22" xml:id="spp-M40179L1-line-22"> Who weaves the chaplet, or provides the bays,</l><l n="23" xml:id="spp-M40179L1-line-23"> For such Wool-gathering Sonnetteers as these?</l><l n="24" xml:id="spp-M40179L1-line-24"> Hence then, ye <hi rend="underline">homespun</hi> Witlings, that persuade</l><l n="25" xml:id="spp-M40179L1-line-25"> Miss Cloe to the fashion of her maid.</l><l n="26" xml:id="spp-M40179L1-line-26"> Shall the <hi rend="underline">wide</hi> Hoop, that standard of the town,</l><l n="27" xml:id="spp-M40179L1-line-27"> Thus act subservient to a Poplin Gown?</l><l n="28" xml:id="spp-M40179L1-line-28"> Who·'d smell of wool all over? 'Tis enough</l><l n="29" xml:id="spp-M40179L1-line-29"> The under-petticoat be made of stuff.</l><l n="30" xml:id="spp-M40179L1-line-30"> Lord! to be wrapt in flannel just in May,</l><l n="31" xml:id="spp-M40179L1-line-31"> When the fields dress'd in flowers appears so gay!</l><l n="32" xml:id="spp-M40179L1-line-32"> And shall not Miss be <hi rend="underline">flower'd</hi> as well as they?In what weak colours would the plaid appear,</l><l n="33" xml:id="spp-M40179L1-line-33"> Work'd to a quilt, or studded in a chair!</l><l n="34" xml:id="spp-M40179L1-line-34"> The skin, that vies with silk, would fret with stuff;</l><l n="35" xml:id="spp-M40179L1-line-35"> Or who could bear in bed a thing so rough?</l><l n="36" xml:id="spp-M40179L1-line-36"> Ye knowing Fair, how eminent that bed,</l><l n="37" xml:id="spp-M40179L1-line-37"> Where the Chintze diamonds with the Silken Thread,</l><l n="38" xml:id="spp-M40179L1-line-38"> Where rustling curtains call the curious eye,</l><l n="39" xml:id="spp-M40179L1-line-39"> And boast the streaks and paintings of the sky!</l><l n="40" xml:id="spp-M40179L1-line-40"> Of flocks they·'d have your milky ticking full;</l><l n="41" xml:id="spp-M40179L1-line-41"> And all this for the benefit of wool!“But where,” say they, “shall we bestow these Weavers,</l><l n="42" xml:id="spp-M40179L1-line-42"> “That spread our streets, and are such piteous cravers?”</l><l n="43" xml:id="spp-M40179L1-line-43"> The Silk-worms (brittle beings!) prone to fate,</l><l n="44" xml:id="spp-M40179L1-line-44"> Demand their care to make their webs complete:</l><l n="45" xml:id="spp-M40179L1-line-45"> These may they tend, their promises receive;</l><l n="46" xml:id="spp-M40179L1-line-46"> We cannot pay <hi rend="underline">too much</hi> for what <hi rend="underline">they</hi> give!M40179L1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

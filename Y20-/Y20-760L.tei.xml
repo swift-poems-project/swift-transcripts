@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The <hi rend="black-letter">Monkey's</hi> occasion'd by the Death of the Duke of <hi rend="black-letter">Orleans</hi></title>
+        <title>Regent of <hi rend="black-letter">France</hi>. 172</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y20-760L" type="poem"><head type="note" n="1" xml:id="spp-Y20-760L-headnote-1"><lg n="1" xml:id="spp-Y20-760L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y20-760L-headnote-1-line-group-1-line-1">by D<hi rend="sup">r</hi> 08. <hi rend="black-letter">Arbuthnot</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-Y20-760L-headnote-2"><lg n="1" xml:id="spp-Y20-760L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y20-760L-headnote-2-line-group-1-line-1">Respicite Exemplar Vitæ────</l></lg></head><head type="note" n="3" xml:id="spp-Y20-760L-headnote-3"><lg n="1" xml:id="spp-Y20-760L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y20-760L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y20-760L-line-1"> “How vain are Mortal Man's Endeavours!&#13;</l><l n="2" xml:id="spp-Y20-760L-line-2"> “Said at S<hi rend="sup">ṭ</hi><hi rend="black-letter">James's</hi>, Master <hi rend="black-letter">Travers</hi>.</l><l n="3" xml:id="spp-Y20-760L-line-3"> “Good <hi rend="black-letter">Orleans Dead</hi>!──In truth, 'tis hard!</l><l n="4" xml:id="spp-Y20-760L-line-4"> “May <hi rend="black-letter">Statesmen</hi> all, dye so prepar'd!</l><l n="5" xml:id="spp-Y20-760L-line-5"> “I do foresee (and for foreseeing</l><l n="6" xml:id="spp-Y20-760L-line-6"> He equalls any Man in being)</l><l n="7" xml:id="spp-Y20-760L-line-7"> “The Army ne'er can be disbanded──</l><l n="8" xml:id="spp-Y20-760L-line-8"> “I wish the King were safely Landed:──</l><l n="9" xml:id="spp-Y20-760L-line-9"> “Ah friends! Great Changes threat this Land;</l><l n="10" xml:id="spp-Y20-760L-line-10"> “All <hi rend="black-letter">France</hi> and <hi rend="black-letter">England</hi> at a Stand!</l><l n="11" xml:id="spp-Y20-760L-line-11"> “There's <hi rend="black-letter">Miriweys</hi> d'ye mark! strange Work!</l><l n="12" xml:id="spp-Y20-760L-line-12"> “And there's the <hi rend="black-letter">Czar</hi>; and there's the <hi rend="black-letter">Turk</hi>!</l><l n="13" xml:id="spp-Y20-760L-line-13"> “The <hi rend="black-letter">Pope</hi>”────An<hi rend="black-letter"> India Merchant</hi> by</l><l n="14" xml:id="spp-Y20-760L-line-14"> Cut short his Speech with this Reply.</l><l n="15" xml:id="spp-Y20-760L-line-15"> “<hi rend="black-letter">All at a Stand! You see; Great Changes</hi>!</l><l n="16" xml:id="spp-Y20-760L-line-16"> “Sir, did you ever see the <hi rend="black-letter">Ganges</hi>?</l><l n="17" xml:id="spp-Y20-760L-line-17"> “There dwells a Race, we call 'em <hi rend="black-letter">Monkeys</hi></l><l n="18" xml:id="spp-Y20-760L-line-18"> (Grave, Sober, Sage, as our <hi rend="black-letter">Quid nuncis</hi>.)</l><l n="19" xml:id="spp-Y20-760L-line-19"> “On either Bank, from bough to bough,</l><l n="20" xml:id="spp-Y20-760L-line-20"> “They meet, and Chat as we do now:</l><l n="21" xml:id="spp-Y20-760L-line-21"> “Whispers go round, they grin, they Shrug,</l><l n="22" xml:id="spp-Y20-760L-line-22"> “They bow, they Snarle, they Scratch, they hug;</l><l n="23" xml:id="spp-Y20-760L-line-23"> “And just as <hi rend="black-letter">Chance</hi> or <hi rend="black-letter">Whim</hi> provoke 'em,</l><l n="24" xml:id="spp-Y20-760L-line-24"> “They either Bite their friends, or stroke 'em.“There have I seen some Active Prig,</l><l n="25" xml:id="spp-Y20-760L-line-25"> “To shew his Parts, bestride a twig;</l><l n="26" xml:id="spp-Y20-760L-line-26"> “<hi rend="black-letter">Lord</hi>! how the chatt'ring tribe admire</l><l n="27" xml:id="spp-Y20-760L-line-27"> “Not that he's Wiser, but is Higher!</l><l n="28" xml:id="spp-Y20-760L-line-28"> “All long to try the <hi rend="black-letter">Vent'rous thing</hi>,</l><l n="29" xml:id="spp-Y20-760L-line-29"> (For <hi rend="black-letter">Power</hi> is but to have one's <hi rend="black-letter">Swing</hi>)</l><l n="30" xml:id="spp-Y20-760L-line-30"> “From Side to Side he springs, he Spurns,</l><l n="31" xml:id="spp-Y20-760L-line-31"> “And bangs his Foes and Friends by turns.</l><l n="32" xml:id="spp-Y20-760L-line-32"> “Thus, as in giddy freaks he bounces,</l><l n="33" xml:id="spp-Y20-760L-line-33"> “Crack goes the twig, and in he flounces;</l><l n="34" xml:id="spp-Y20-760L-line-34"> “Down the Swift Stream the Wretch is born</l><l n="35" xml:id="spp-Y20-760L-line-35"> “Never, ah! never to return.“<hi rend="black-letter">Zounds</hi>! what a Fall has our Dear <hi rend="black-letter">Brother</hi>!</l><l n="36" xml:id="spp-Y20-760L-line-36"> “<hi rend="black-letter">Morbleu</hi>, cries one, and <hi rend="black-letter">Dam──e</hi> 'tother:</l><l n="37" xml:id="spp-Y20-760L-line-37"> “The <hi rend="black-letter">Nations</hi> give a <hi rend="black-letter">Gen'ral Sc</hi><unclear>insh</unclear><hi rend="black-letter">riech</hi>.</l><l n="38" xml:id="spp-Y20-760L-line-38"> “None cocks his Tail, none claws his br──ch;</l><l n="39" xml:id="spp-Y20-760L-line-39"> “Each trembles for the Publick Weal,</l><l n="40" xml:id="spp-Y20-760L-line-40"> “And for a while forgets to Steal:</l><l n="41" xml:id="spp-Y20-760L-line-41"> “A while, all Eyes intent and Steady,</l><l n="42" xml:id="spp-Y20-760L-line-42"> “Pursue Him whirling down the Eddy;</l><l n="43" xml:id="spp-Y20-760L-line-43"> “But, out of mind when out of View,</l><l n="44" xml:id="spp-Y20-760L-line-44"> “Some other mounts the twig a new,</l><l n="45" xml:id="spp-Y20-760L-line-45"> “And Bus'ness on Each <hi rend="black-letter">Monkey</hi> Shore</l><l n="46" xml:id="spp-Y20-760L-line-46"> “Runs the same track it went before.Y20-760L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

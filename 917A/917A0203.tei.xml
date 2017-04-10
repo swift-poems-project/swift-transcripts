@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<hi rend="SMALL-CAPS">NOTHER</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="917A0203" type="poem"><head type="note" n="1" xml:id="spp-917A0203-headnote-1"><lg n="1" xml:id="spp-917A0203-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-917A0203-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-917A0203-headnote-2"><lg n="1" xml:id="spp-917A0203-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-917A0203-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-917A0203-headnote-3"><lg n="1" xml:id="spp-917A0203-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-917A0203-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-917A0203-line-1"><hi rend="display-initial">B</hi>Y Fate <hi rend="underline">exalted high</hi> in Place;</l><l n="2" xml:id="spp-917A0203-line-2"> Lo, here I stand with <hi rend="underline">double Face;</hi> none on Earth I find;</l><l n="3" xml:id="spp-917A0203-line-3"> Superior</l><l n="4" xml:id="spp-917A0203-line-4"> But see <hi rend="underline">below me</hi> all Mankind.</l><l n="5" xml:id="spp-917A0203-line-5"> Yet, as it oft' attends the Great,</l><l n="6" xml:id="spp-917A0203-line-6"> I almost <hi rend="underline">sink</hi> with my own <hi rend="underline">Weight</hi>;</l><l n="7" xml:id="spp-917A0203-line-7"> At every <hi rend="underline">Motion</hi> undertook,</l><l n="8" xml:id="spp-917A0203-line-8"> The Vulgar all consult my <hi rend="underline">Look</hi>.</l><l n="9" xml:id="spp-917A0203-line-9"> I sometimes give Advice in <hi rend="underline">Writing</hi>,</l><l n="10" xml:id="spp-917A0203-line-10"> But never of my own <hi rend="underline">Inditing</hi>.</l></lg><lg n="2" type="stanza"><l n="11" xml:id="spp-917A0203-line-11">I <hi rend="SMALL-CAPS">AM</hi> a Courtier in my Way;</l><l n="12" xml:id="spp-917A0203-line-12"> For those who <hi rend="underline">rais'd</hi> me, I <hi rend="underline">betray</hi>;</l><l n="13" xml:id="spp-917A0203-line-13"> And some give out, that I entice</l><l n="14" xml:id="spp-917A0203-line-14"> To Lust, and Luxury, and Dice:</l><l n="15" xml:id="spp-917A0203-line-15"> Who Punishments on me inflict,</l><l n="16" xml:id="spp-917A0203-line-16"> Because they find their Pockets pickt.</l></lg><lg n="3" type="stanza"><l n="17" xml:id="spp-917A0203-line-17">B<hi rend="SMALL-CAPS">Y</hi> riding <hi rend="underline">Post</hi> I lose my Health;</l><l n="18" xml:id="spp-917A0203-line-18"> And only to get others Wealth.917A0203   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

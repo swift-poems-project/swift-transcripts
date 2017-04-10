@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">Desire</hi> and <hi rend="underline">Possession</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="411-36L-"><head type="note" n="1" xml:id="spp-411-36L--headnote-1"><lg n="1" xml:id="spp-411-36L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-411-36L--headnote-1-line-group-1-line-1"><hi rend="underline">Written in the Year</hi> 1727.</l></lg></head><head type="note" n="2" xml:id="spp-411-36L--headnote-2"><lg n="1" xml:id="spp-411-36L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-411-36L--headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-411-36L--headnote-3"><lg n="1" xml:id="spp-411-36L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-411-36L--headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-411-36L--line-1"><hi rend="display-initial">'T</hi>IS strange, what diff'rent Thoughts inspire</l><l/><l n="2" xml:id="spp-411-36L--line-2">In Man, <hi rend="underline">Possession</hi> and <hi rend="underline">Desire</hi>;</l><l/><l n="3" xml:id="spp-411-36L--line-3">Think what they wish so great a Blessing,</l><l/><l n="4" xml:id="spp-411-36L--line-4">So disappointed when possessing.</l><l/><l n="5" xml:id="spp-411-36L--line-5"/></lg><lg n="2" type="stanza"><l>A Moralist profoundly sage,&#13;</l><l/><l n="6" xml:id="spp-411-36L--line-6">I know not in what Book or Page,</l><l/><l n="7" xml:id="spp-411-36L--line-7">Or, whether o'er a Pot a Ale,</l><l/><l n="8" xml:id="spp-411-36L--line-8">Related thus the following Tale.</l><l/><l n="9" xml:id="spp-411-36L--line-9"/></lg><lg n="3" type="stanza"><l><hi rend="underline">Possession</hi>, and <hi rend="underline">Desire</hi>, his Brother.</l><l/><l n="10" xml:id="spp-411-36L--line-10">But, still at Variance with each other,</l><l/><l n="11" xml:id="spp-411-36L--line-11">Were seen contending in a Race;</l><l/><l n="12" xml:id="spp-411-36L--line-12">And, kept at first an equal Pace:</l><l/><l n="13" xml:id="spp-411-36L--line-13">'Tis said, their Course continu'd long;</l><l/><l n="14" xml:id="spp-411-36L--line-14">For, this was active, that was strong:</l><l/><l n="15" xml:id="spp-411-36L--line-15">Till Envy, Slander, Sloth, and Doubt,</l><l/><l n="16" xml:id="spp-411-36L--line-16">Misled them many a League about.</l><l/><l n="17" xml:id="spp-411-36L--line-17">Seduc'd by some deceiving Light,</l><l/><l n="18" xml:id="spp-411-36L--line-18">They take the wrong Way for the right.</l><l/><l n="19" xml:id="spp-411-36L--line-19">Through slipp'ry By-roads dark and deep,</l><l/><l n="20" xml:id="spp-411-36L--line-20">They often climb, and oftner creep.</l><l/><l n="21" xml:id="spp-411-36L--line-21"/></lg><lg n="4" type="stanza"><l><hi rend="underline">Desire</hi>, the swifter of the two,</l><l/><l n="22" xml:id="spp-411-36L--line-22">Along the Plain like Lightning flew:</l><l/><l n="23" xml:id="spp-411-36L--line-23">Till entring on a broad Highway,</l><l/><l n="24" xml:id="spp-411-36L--line-24">Where <hi rend="underline">Power</hi> and <hi rend="underline">Titles</hi> scatter'd lay,</l><l/><l n="25" xml:id="spp-411-36L--line-25">He strove to pick up all he found,</l><l/><l n="26" xml:id="spp-411-36L--line-26">And by Excursions lost his Ground:</l><l/><l n="27" xml:id="spp-411-36L--line-27">No sooner got, than with Disdain</l><l/><l n="28" xml:id="spp-411-36L--line-28">He threw them on the Ground again;</l><l/><l n="29" xml:id="spp-411-36L--line-29">And hasted forward to pursue</l><l/><l n="30" xml:id="spp-411-36L--line-30">Fresh Objects fairer to his View;</l><l/><l n="31" xml:id="spp-411-36L--line-31">In hope to spring some nobler Game:</l><l/><l n="32" xml:id="spp-411-36L--line-32">But, all he took was just the same:</l><l/><l n="33" xml:id="spp-411-36L--line-33">Too scornful now to stop his Pace,</l><l/><l n="34" xml:id="spp-411-36L--line-34">He spurn'd them in his Rival's Face.</l><l/><l n="35" xml:id="spp-411-36L--line-35"/></lg><lg n="5" type="stanza"><l><hi rend="underline">Possession</hi> kept the beaten Road;</l><l/><l n="36" xml:id="spp-411-36L--line-36">And, gather'd all his Brother strow'd;</l><l/><l n="37" xml:id="spp-411-36L--line-37">But overcharg'd, and out of Wind,</l><l/><l n="38" xml:id="spp-411-36L--line-38">Though strong in Limbs, he lagg'd behind.</l><l/><l n="39" xml:id="spp-411-36L--line-39"/></lg><lg n="6" type="stanza"><l><hi rend="underline">Desire</hi> had now the Goal in Sight:</l><l/><l n="40" xml:id="spp-411-36L--line-40">It was a Tow'r of monstrous Height,</l><l/><l n="41" xml:id="spp-411-36L--line-41">Where, on the Summit <hi rend="underline">Fortune</hi> stands:</l><l/><l n="42" xml:id="spp-411-36L--line-42">A Crown and Scepter in her Hands;</l><l/><l n="43" xml:id="spp-411-36L--line-43">Beneath, a Chasm as deep as Hell,</l><l/><l n="44" xml:id="spp-411-36L--line-44">Where many a bold Advent'rer fell.</l><l/><l n="45" xml:id="spp-411-36L--line-45"><hi rend="underline">Desire</hi>, in Rapture gaz'd a while,</l><l/><l n="46" xml:id="spp-411-36L--line-46">And saw the treach'rous Goddess smile;</l><l/><l n="47" xml:id="spp-411-36L--line-47">But, as he climb'd to grasp the Crown.</l><l/><l n="48" xml:id="spp-411-36L--line-48">She knock't him with the Scepter down,</l><l/><l n="49" xml:id="spp-411-36L--line-49">He tumbled in the Gulph profound;</l><l/><l n="50" xml:id="spp-411-36L--line-50">There doom'd to whirl an endless Round.</l><l/><l n="51" xml:id="spp-411-36L--line-51"/></lg><lg n="7" type="stanza"><l><hi rend="underline">Possession</hi>'s Load was grown so great,</l><l/><l n="52" xml:id="spp-411-36L--line-52">He sunk beneath the cumbrous Weight:</l><l/><l n="53" xml:id="spp-411-36L--line-53">And, as he now expiring lay,</l><l/><l n="54" xml:id="spp-411-36L--line-54">Flocks ev'ry ominous Bird of Prey;</l><l/><l n="55" xml:id="spp-411-36L--line-55">The Raven, Vulture, Owl, and Kite,</l><l/><l n="56" xml:id="spp-411-36L--line-56">At once upon his Carcase light;</l><l/><l n="57" xml:id="spp-411-36L--line-57">And strip his Hyde, and pick his Bones,</l><l/><l n="58" xml:id="spp-411-36L--line-58">Regardless of his dying Groans.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Place of the D<hi rend="SMALL-CAPS">AMN'D</hi></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="575-05M1" type="poem"><head type="note" n="1" xml:id="spp-575-05M1-headnote-1"><lg n="1" xml:id="spp-575-05M1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-575-05M1-headnote-1-line-group-1-line-1">Written in the Year 1731.</l></lg></head><head type="note" n="2" xml:id="spp-575-05M1-headnote-2"><lg n="1" xml:id="spp-575-05M1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-575-05M1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-575-05M1-headnote-3"><lg n="1" xml:id="spp-575-05M1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-575-05M1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-575-05M1-line-1"><hi rend="display-initial">A</hi>LL Folks, who pretend to <hi rend="underline">Religion</hi> and <hi rend="underline">Grace</hi>,</l><l n="2" xml:id="spp-575-05M1-line-2"> Allow there's a H<hi rend="SMALL-CAPS">ELL</hi>, but dispute of the Place:</l><l n="3" xml:id="spp-575-05M1-line-3"> But if H<hi rend="SMALL-CAPS">ELL</hi> may by Logical Rules be defin'd</l><l n="4" xml:id="spp-575-05M1-line-4"> The Place of the Damn'd──I'll tell you my Mind.</l></lg><lg n="2" type="stanza"><l n="5" xml:id="spp-575-05M1-line-5">W<hi rend="SMALL-CAPS">HEREVER</hi> the Damn'd do chiefly abound,</l><l n="6" xml:id="spp-575-05M1-line-6"> Most certainly there is H<hi rend="SMALL-CAPS">ELL</hi> to be found:</l><l n="7" xml:id="spp-575-05M1-line-7"> Damn'd <hi rend="underline">Poets</hi>, damn'd <hi rend="underline">Criticks</hi>, damn'd <hi rend="underline">Blockheads</hi>, damn'd <hi rend="underline">Knaves</hi>,</l><l n="8" xml:id="spp-575-05M1-line-8"> Damn'd <hi rend="underline">Senators</hi> brib'd, damn'd prostitute <hi rend="underline">Slaves</hi>;</l><l n="9" xml:id="spp-575-05M1-line-9"> Damn'd <hi rend="underline">Lawyers</hi> and <hi rend="underline">Judges</hi>, damn'd <hi rend="underline">Lords</hi> and damn'd <hi rend="underline">Squires</hi>;</l><l n="10" xml:id="spp-575-05M1-line-10"> Damn'd <hi rend="underline">Spies</hi> and <hi rend="underline">Informers</hi>, damn'd <hi rend="underline">Friends</hi> and damn'd <hi rend="underline">Lyars</hi>;</l><l n="11" xml:id="spp-575-05M1-line-11"> Damn'd <hi rend="underline">Villains</hi>, corrupted in every <hi rend="underline">Station</hi>;</l><l n="12" xml:id="spp-575-05M1-line-12"> Damn'd <hi rend="underline">Time-serving Priests</hi> all over the <hi rend="underline">Nation</hi>.<gap/><gap/><gap/><gap/></l><l n="13" xml:id="spp-575-05M1-line-13"> And into the Bargain I'll readily give you</l><l n="14" xml:id="spp-575-05M1-line-14"> Damn'd ignorant <hi rend="underline">Prelates</hi>, and <hi rend="underline">Counsellors Privy</hi>.</l><l n="15" xml:id="spp-575-05M1-line-15"> Then let us no longer by <hi rend="underline">Parsons</hi> be flamm'd,</l><l n="16" xml:id="spp-575-05M1-line-16"> For we know by these <hi rend="underline">Marks</hi>, the Place of the Damn'd:</l><l n="17" xml:id="spp-575-05M1-line-17"> And H<hi rend="SMALL-CAPS">ELL</hi> to be sure is at <hi rend="underline">Paris</hi> or <hi rend="underline">Rome</hi>,</l><l n="18" xml:id="spp-575-05M1-line-18"> How happy for <hi rend="underline">Us</hi> that it is not at <hi rend="underline">Home</hi>!575-05M1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

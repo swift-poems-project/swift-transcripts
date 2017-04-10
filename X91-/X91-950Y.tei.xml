@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X91-950Y" type="poem"><head type="note" n="1" xml:id="spp-X91-950Y-headnote-1"><lg n="1" xml:id="spp-X91-950Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X91-950Y-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X91-950Y-headnote-2"><lg n="1" xml:id="spp-X91-950Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X91-950Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X91-950Y-headnote-3"><lg n="1" xml:id="spp-X91-950Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X91-950Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X91-950Y-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> of Late our Recorder&#13;</l><l n="2" xml:id="spp-X91-950Y-line-2"> agt duty &amp; order</l><l n="3" xml:id="spp-X91-950Y-line-3"> has flown on y<hi rend="sup">e</hi> face of y<hi rend="sup">e</hi> Duke.</l><l n="4" xml:id="spp-X91-950Y-line-4"> but when he does Gabble</l><l n="5" xml:id="spp-X91-950Y-line-5"> to his Long Ar<hi rend="sup">d</hi> Rabble</l><l n="6" xml:id="spp-X91-950Y-line-6"> some are forc<hi rend="sup">d</hi> to Come off w<hi rend="sup">th</hi> a puk<unclear>cropped</unclear></l></lg><lg n="2" type="stanza"><l n="7" xml:id="spp-X91-950Y-line-7">This orator quaint&#13;</l><l n="8" xml:id="spp-X91-950Y-line-8"> his hearers does Taint</l><l n="9" xml:id="spp-X91-950Y-line-9"> hence some y<hi rend="sup">t</hi> are pleas<hi rend="sup">d</hi> to be witty</l><l n="10" xml:id="spp-X91-950Y-line-10"> to giue him a name</l><l n="11" xml:id="spp-X91-950Y-line-11"> which J sh<hi rend="sup">d</hi> hide for shame</l><l n="12" xml:id="spp-X91-950Y-line-12"> not y<hi rend="sup">e</hi> mouth but y<hi rend="sup">e</hi> A──of y<hi rend="sup">e</hi> City</l></lg><lg n="3" type="stanza"><l n="13" xml:id="spp-X91-950Y-line-13"><gap/><gap/><gap/><gap/><gap/><gap/></l></lg><lg n="4" type="stanza"><l n="14" xml:id="spp-X91-950Y-line-14">Henc Clod pate &amp; Rowley&#13;</l><l n="15" xml:id="spp-X91-950Y-line-15"> on y<hi rend="sup">e</hi> Dr fell fowley</l><l n="16" xml:id="spp-X91-950Y-line-16"> for sliteing a helth soe profaine</l><l n="17" xml:id="spp-X91-950Y-line-17"> &amp; his Champion my lord</l><l n="18" xml:id="spp-X91-950Y-line-18"> once a man of y<hi rend="sup">e</hi> Sword</l><l n="19" xml:id="spp-X91-950Y-line-19"> would his Co<hi rend="sup">ll</hi>s lost Hon<hi rend="sup">r</hi> maintey</l></lg><lg n="5" type="stanza"><l n="20" xml:id="spp-X91-950Y-line-20">This youngster soe smart</l></lg><lg n="6" type="stanza"><l n="21" xml:id="spp-X91-950Y-line-21"> has attempted a par<unclear>cropped</unclear></l><l n="22" xml:id="spp-X91-950Y-line-22"> to be for y<hi rend="sup">e</hi> faction a bully</l></lg><lg n="7" type="stanza"><l n="23" xml:id="spp-X91-950Y-line-23"> but mark y<hi rend="sup">e</hi> disaster</l><l n="24" xml:id="spp-X91-950Y-line-24"> of pert little maste<hi rend="sup">r</hi></l></lg><lg n="8" type="stanza"><l n="25" xml:id="spp-X91-950Y-line-25"> his worshipps Come off like a Cull<unclear>cropped</unclear></l></lg><lg n="9" type="stanza"><l n="26" xml:id="spp-X91-950Y-line-26"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> with these oules in the night</l></lg><lg n="10" type="stanza"><l n="27" xml:id="spp-X91-950Y-line-27"> was a swan thô not white&#13;</l><l n="28" xml:id="spp-X91-950Y-line-28"> a wittness y<hi rend="sup">t</hi> swore fast &amp; loose,</l></lg><lg n="11" type="stanza"><l n="29" xml:id="spp-X91-950Y-line-29"> but if birds of a feather&#13;</l><l n="30" xml:id="spp-X91-950Y-line-30"> doe still flocke together</l></lg><lg n="12" type="stanza"><l n="31" xml:id="spp-X91-950Y-line-31"> tis plaine y<hi rend="sup">t</hi> this swan was a goose<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l><l n="32" xml:id="spp-X91-950Y-line-32"> but before we Conclude</l></lg><lg n="13" type="stanza"><l n="33" xml:id="spp-X91-950Y-line-33"> y<hi rend="sup">e</hi> Cause of this fude</l><l n="34" xml:id="spp-X91-950Y-line-34"> tis fit should be told without fav<hi rend="sup">r</hi></l></lg><lg n="14" type="stanza"><l n="35" xml:id="spp-X91-950Y-line-35"> how a feale water</l></lg><lg n="15" type="stanza"><l n="36" xml:id="spp-X91-950Y-line-36">sold<hi rend="sup">r</hi></l></lg><lg n="16" type="stanza"><l n="37" xml:id="spp-X91-950Y-line-37"> y<hi rend="sup">t</hi> never smelt pouder</l></lg><lg n="17" type="stanza"><l n="38" xml:id="spp-X91-950Y-line-38"> was scard at y<hi rend="sup">e</hi> Cock of a bauer</l></lg><lg n="18" type="stanza"><l n="39" xml:id="spp-X91-950Y-line-39">but if a Cockt hat</l></lg><lg n="19" type="stanza"><l n="40" xml:id="spp-X91-950Y-line-40"> Could rayse such debate&#13;</l><l n="41" xml:id="spp-X91-950Y-line-41"> as did on this Scuff<hi rend="sup">ll</hi> befall</l></lg><lg n="20" type="stanza"><l n="42" xml:id="spp-X91-950Y-line-42"> oh what w<hi rend="sup">d</hi> he haue done</l><l n="43" xml:id="spp-X91-950Y-line-43"> if had then had he a Gun</l></lg><lg n="21" type="stanza"><l n="44" xml:id="spp-X91-950Y-line-44"> &amp; charg<hi rend="sup">d</hi> with poud<hi rend="sup">r</hi> &amp; ball<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>X91-950Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

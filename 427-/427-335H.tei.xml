@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The five Ladies Answer to the Beau<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="427-335H" type="poem"><head type="note" n="1" xml:id="spp-427-335H-headnote-1"><lg n="1" xml:id="spp-427-335H-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-427-335H-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-427-335H-headnote-2"><lg n="1" xml:id="spp-427-335H-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-427-335H-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-427-335H-headnote-3"><lg n="1" xml:id="spp-427-335H-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-427-335H-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-427-335H-line-1"> You Little scribling Beau&#13;What Demon Made you write?</l><l n="2" xml:id="spp-427-335H-line-2"> Because to write you knowAs much as you can fight.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-427-335H-line-3">For Complement so scurvy,&#13;I wish we had you here,</l><l n="4" xml:id="spp-427-335H-line-4"> We'd turn you topsie TurvyInto a Mug of Beer.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-427-335H-line-5">You thought to make a farce on&#13;The man, and place we Chose,</l><l n="6" xml:id="spp-427-335H-line-6"> We're sure a single parsonIs worth a hundred Beaux.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-427-335H-line-7">And you wou'd Make us Vassals&#13;Good M<hi rend="sup">r</hi> Wig and Wings,</l><l n="8" xml:id="spp-427-335H-line-8"> To silver Clocks and TasselsYou wou'd you thing of things.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-427-335H-line-9">Because around your Cane&#13;A ring of diamonds is set,</l><l n="10" xml:id="spp-427-335H-line-10"> And you in some by LaneHave gain'd a paltry Grisset.</l></lg><lg n="6" type="stanza"><l n="11" xml:id="spp-427-335H-line-11">Shall we of sence refin'd&#13;Your Trifling Nonsense bear,</l><l n="12" xml:id="spp-427-335H-line-12"> As Noisy as the wind,As empty as the Air?</l></lg><lg n="7" type="stanza"><l n="13" xml:id="spp-427-335H-line-13">We hate your empty prattle,&#13;And Vow and swear 'tis true</l><l n="14" xml:id="spp-427-335H-line-14"> There's More in one child's Rattle,Then twenty Fops like you────────427-335H   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

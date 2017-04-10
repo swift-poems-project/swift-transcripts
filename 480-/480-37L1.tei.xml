@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CDVIII.</title>
+        <title><hi rend="underline">The Poet's Way to thrive</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="480-37L1" type="poem"><head type="note" n="1" xml:id="spp-480-37L1-headnote-1"><lg n="1" xml:id="spp-480-37L1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-480-37L1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-480-37L1-headnote-2"><lg n="1" xml:id="spp-480-37L1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-480-37L1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-480-37L1-headnote-3"><lg n="1" xml:id="spp-480-37L1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-480-37L1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-480-37L1-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><hi rend="display-initial">D<hi rend="SMALL-CAPS">AN</hi></hi><hi rend="underline">Congreve</hi> spent in writing plays,</l><l n="2" xml:id="spp-480-37L1-line-2"> And one poor office, half his days;</l><l n="3" xml:id="spp-480-37L1-line-3"> While <hi rend="underline">Montague</hi>, who claim'd the station,</l><l n="4" xml:id="spp-480-37L1-line-4"> To be <hi rend="underline">Mec<unclear>ae</unclear>nas</hi> of the nation,</l><l n="5" xml:id="spp-480-37L1-line-5"> For poets open table kept,</l><l n="6" xml:id="spp-480-37L1-line-6"> But ne'er consider'd where they slept;</l><l n="7" xml:id="spp-480-37L1-line-7"> Himself as rich as fifty <hi rend="underline">Jews</hi>,</l><l n="8" xml:id="spp-480-37L1-line-8"> Was easy, tho' they wanted shoes;</l><l n="9" xml:id="spp-480-37L1-line-9"> And crazy <hi rend="underline">Congreve</hi>, scarce cou'd spare</l><l n="10" xml:id="spp-480-37L1-line-10"> A shilling to discharge his chair:</l><l n="11" xml:id="spp-480-37L1-line-11"> Till prudence taught him to appeal</l><l n="12" xml:id="spp-480-37L1-line-12"> From <hi rend="underline">P<unclear>ae</unclear>an</hi>'s fire, to party-zeal:</l><l n="13" xml:id="spp-480-37L1-line-13"> Not owing to his happy vein</l><l n="14" xml:id="spp-480-37L1-line-14"> The fortunes of his latter scene;</l><l n="15" xml:id="spp-480-37L1-line-15"> Took proper principles to thrive,</l><l n="16" xml:id="spp-480-37L1-line-16"> And so might ev'ry dunce alive.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>480-37L1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

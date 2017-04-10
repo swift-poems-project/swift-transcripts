@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the much lamented Death of Mr. <hi rend="underline">Demur</hi>, the famous<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JR"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="233-20WG" type="poem"><head type="note" n="1" xml:id="spp-233-20WG-headnote-1"><lg n="1" xml:id="spp-233-20WG-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-233-20WG-headnote-1-line-group-1-line-1">The Death of Mr. Demur produc'd the following Elegy, written by the Celebrated Author of the Art of Punning.</l></lg></head><head type="note" n="2" xml:id="spp-233-20WG-headnote-2"><lg n="1" xml:id="spp-233-20WG-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-233-20WG-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-233-20WG-headnote-3"><lg n="1" xml:id="spp-233-20WG-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-233-20WG-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-233-20WG-line-1"><hi rend="display-initial">K</hi><hi rend="underline">Now all Men by these Presents</hi>, Death the Tamer,</l><l n="2" xml:id="spp-233-20WG-line-2"> By Mortgage hath secur'd the Corps of <hi rend="underline">Demur</hi>;</l><l n="3" xml:id="spp-233-20WG-line-3"> Nor can Four hundred Thousand Sterling Pound</l><l n="4" xml:id="spp-233-20WG-line-4"> Redeem him from his Prison under Ground.</l><l n="5" xml:id="spp-233-20WG-line-5"> His Heirs might well, of all his Wealth possest,</l><l n="6" xml:id="spp-233-20WG-line-6"> Bestow to Bury him, one Iron Chest.<hi rend="underline">Pluto</hi>, the god of Wealth, will joy to know</l><l n="7" xml:id="spp-233-20WG-line-7"> His faithful Steward in the Shades below.</l><l n="8" xml:id="spp-233-20WG-line-8"> He walk'd the Streets, and wore a Thread-bare Cloak,</l><l n="9" xml:id="spp-233-20WG-line-9"> He din'd and supp'd at Change of other Folk;</l><l n="10" xml:id="spp-233-20WG-line-10"> And by his Looks, had he held out his Palms,</l><l n="11" xml:id="spp-233-20WG-line-11"> He might be thought an Object fit for Alms;</l><l n="12" xml:id="spp-233-20WG-line-12"> So to the Poor if he refus'd his Pelf,</l><l n="13" xml:id="spp-233-20WG-line-13"> He us'd 'em full as kindly as himself.Where-e'er he went he never saw his Betters,</l><l n="14" xml:id="spp-233-20WG-line-14"> Lords, Knights and 'Squires, were all his humble Debtors,</l><l n="15" xml:id="spp-233-20WG-line-15"> And under Hand and Seal the Irish Nation</l><l n="16" xml:id="spp-233-20WG-line-16"> Were forc'd to own to him their Obligation.He that could once have half a Kingdom bought,</l><l n="17" xml:id="spp-233-20WG-line-17"> In half a Minute is not worth one Groat;</l><l n="18" xml:id="spp-233-20WG-line-18"> His Coffers from the Coffin could not save,</l><l n="19" xml:id="spp-233-20WG-line-19"> Nor all his Int'rest keep him from the Grave.</l><l n="20" xml:id="spp-233-20WG-line-20"> A Golden Monument would not be right,</l><l n="21" xml:id="spp-233-20WG-line-21"> Because we wish the Earth upon him light.Oh London Tavern! Thou hast lost a Friend,</l><l n="22" xml:id="spp-233-20WG-line-22"> Tho' in thy Walls he ne'er did Farthing spend,</l><l n="23" xml:id="spp-233-20WG-line-23"> He touch'd the Pence, when others touch'd the Pot;</l><l n="24" xml:id="spp-233-20WG-line-24"> The Hand that Sign'd the Mortgage, paid the Shot.Old as he was, no vulgar known Disease</l><l n="25" xml:id="spp-233-20WG-line-25"> On him could ever boast a Pow'r to seize;</l><l n="26" xml:id="spp-233-20WG-line-26"> But as his Gold he weigh'd, grim Death in spight,</l><l n="27" xml:id="spp-233-20WG-line-27"> Cast in his Dart, which made three Moy'dores Light.</l><l n="28" xml:id="spp-233-20WG-line-28"> And as he saw his Darling Money fail,</l><l n="29" xml:id="spp-233-20WG-line-29"> Blew his last Breath to sink the lighter Scale.He who so long was Currant, 'twou'd be strange</l><l n="30" xml:id="spp-233-20WG-line-30"> If he shou'd now be cry'd down since his Change.The Sexton shall green Sods on thee bestow,</l><l n="31" xml:id="spp-233-20WG-line-31"> Alas the Sexton is thy Banker now!</l><l n="32" xml:id="spp-233-20WG-line-32"> A dismal Banker must that Banker be,</l><l n="33" xml:id="spp-233-20WG-line-33"> Who gives no Bills, but of Mortality.</l></lg><lg n="2" type="stanza"><l n="34" xml:id="spp-233-20WG-line-34" rend="align(center)">The EPITAPH,</l></lg><lg n="3" type="stanza"><l n="35" xml:id="spp-233-20WG-line-35" rend="flush left"><hi rend="display-initial">B</hi>Eneath this verdant Hillock, lies<hi rend="underline">Demar</hi>, the Wealthy and the Wise,His Heirs for Winding-Sheet bestow'dHis Money-Bags together sow'd.And that he might securely rest,Have put his Carcass in a Chest.The very Chest, in which, they say,His other Self, his Money, lay.And if his Heirs continue kindTo that dear Self he left behind,I dare believe that Four in FiveWill think his Better Half alive.233-20WG   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>T<hi rend="SMALL-CAPS">HE</hi> FABLE <hi rend="SMALL-CAPS">OF THE</hi> BITCHES.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-207-79L1-footnote-1 #spp-207-79L1-line-6"/>
+          <link target="#spp-207-79L1-footnote-2 #spp-207-79L1-line-14"/>
+        </linkGrp>
+        <div n="207-79L1" type="poem"><head type="note" n="1" xml:id="spp-207-79L1-headnote-1"><lg n="1" xml:id="spp-207-79L1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-207-79L1-headnote-1-line-group-1-line-1">Written in the Year 1715.</l></lg></head><head type="note" n="2" xml:id="spp-207-79L1-headnote-2"><lg n="1" xml:id="spp-207-79L1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-207-79L1-headnote-2-line-group-1-line-1">On an A<hi rend="SMALL-CAPS">TTEMPT</hi> to repeal the T<hi rend="SMALL-CAPS">EST </hi>A<hi rend="SMALL-CAPS">CT</hi>.</l></lg></head><head type="note" n="3" xml:id="spp-207-79L1-headnote-3"><lg n="1" xml:id="spp-207-79L1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-207-79L1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-207-79L1-line-1"><hi rend="display-initial">A</hi> BITCH that was full pregnant grown,</l><l n="2" xml:id="spp-207-79L1-line-2"> By all the dogs and curs in town,</l><l n="3" xml:id="spp-207-79L1-line-3"> Finding her ripen'd time was come,</l><l n="4" xml:id="spp-207-79L1-line-4"> Her litter teeming from her womb,</l><l n="5" xml:id="spp-207-79L1-line-5"> Went here and there, and every where,</l><l n="6" xml:id="spp-207-79L1-line-6"> To find an easy place to lay-her.At length to Musick's house <ref target="#spp-207-79L1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-207-79L1-footnote-1">The church of England.</note> she came,</l><l n="7" xml:id="spp-207-79L1-line-7"> And begg'd like one both blind and lame;</l><l n="8" xml:id="spp-207-79L1-line-8"> “My only friend, my dear,” said she,</l><l n="9" xml:id="spp-207-79L1-line-9"> “You see 'tis mere necessity,</l><l n="10" xml:id="spp-207-79L1-line-10"> “Hath sent me to your house to whelp;</l><l n="11" xml:id="spp-207-79L1-line-11"> “I·'ll die, if you deny your help.”With fawning whine, and rueful tone,</l><l n="12" xml:id="spp-207-79L1-line-12"> With artful sigh and feigned groan,</l><l n="13" xml:id="spp-207-79L1-line-13"> With couchant cringe, and flattering tale,</l><l n="14" xml:id="spp-207-79L1-line-14"> Smooth Bawty <ref target="#spp-207-79L1-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-207-79L1-footnote-2">A Scotch name for a bitch; alluding to the kirk.</note> did so far prevail,</l><l n="15" xml:id="spp-207-79L1-line-15"> That Musick gave her leave to litter;</l><l n="16" xml:id="spp-207-79L1-line-16"> But mark what follow'd──faith! she bit her.Whole baskets full of bits and scraps,</l><l n="17" xml:id="spp-207-79L1-line-17"> And broth enough to fill her paps;</l><l n="18" xml:id="spp-207-79L1-line-18"> For, well she knew, her numerous brood,</l><l n="19" xml:id="spp-207-79L1-line-19"> For want of milk, would suck her blood.But when she thought her pains were done,</l><l n="20" xml:id="spp-207-79L1-line-20"> And now 'twas high time to be gone;</l><l n="21" xml:id="spp-207-79L1-line-21"> In civil terms,──“My friend,” says she,</l><l n="22" xml:id="spp-207-79L1-line-22"> “My house you·'ve had on courtesy;</l><l n="23" xml:id="spp-207-79L1-line-23"> “And now I earnestly desire,</l><l n="24" xml:id="spp-207-79L1-line-24"> “That you would with your cubs retire:</l><l n="25" xml:id="spp-207-79L1-line-25"> “For, should you stay but one week longer,</l><l n="26" xml:id="spp-207-79L1-line-26"> “I shall be starv'd with cold and hunger.”The guest reply'd──“My friend, your leave</l><l n="27" xml:id="spp-207-79L1-line-27"> “I must a little longer crave;</l><l n="28" xml:id="spp-207-79L1-line-28"> “Stay till my tender cubs can find</l><l n="29" xml:id="spp-207-79L1-line-29"> “Their way──for now, you see, they·'re blind;</l><l n="30" xml:id="spp-207-79L1-line-30"> “But, when we·'ve gather'd strength, I swear,</l><l n="31" xml:id="spp-207-79L1-line-31"> “We·'ll to our barn again repair.”The time pass'd on; and Musick came,</l><l n="32" xml:id="spp-207-79L1-line-32"> Her kennel once again to claim;</l><l n="33" xml:id="spp-207-79L1-line-33"> But Bawty, lost to shame and honour,</l><l n="34" xml:id="spp-207-79L1-line-34"> Set all her cubs at once upon her;</l><l n="35" xml:id="spp-207-79L1-line-35"> Made her retire, and quit her right,</l><l n="36" xml:id="spp-207-79L1-line-36"> And loudly cry'd──“A bite! a bite!”</l></lg><lg n="2" type="stanza"><l n="37" xml:id="spp-207-79L1-line-37" rend="align(center)">THE MORAL.</l></lg><lg n="3" type="stanza"><l n="38" xml:id="spp-207-79L1-line-38" rend="flush left"/></lg><lg n="4" type="stanza"><l n="39" xml:id="spp-207-79L1-line-39">Thus did the Grecian wooden horse&#13;</l><l n="40" xml:id="spp-207-79L1-line-40"> Conceal a fatal armed force:</l><l n="41" xml:id="spp-207-79L1-line-41"> No sooner brought within the walls,</l><l n="42" xml:id="spp-207-79L1-line-42"> But Ilium·'s lost, and Priam falls.207-79L1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

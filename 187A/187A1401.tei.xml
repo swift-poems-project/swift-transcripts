@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LETTER CXVIII.<lb/>More Lines of Humour, by Lord TREA-<lb/>SURER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="187A1401"><head type="note" n="1" xml:id="spp-187A1401-headnote-1"><lg n="1" xml:id="spp-187A1401-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-187A1401-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-187A1401-headnote-2"><lg n="1" xml:id="spp-187A1401-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-187A1401-headnote-2-line-group-1-line-1">April 14, 1714.</l></lg></head><head type="note" n="3" xml:id="spp-187A1401-headnote-3"><lg n="1" xml:id="spp-187A1401-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-187A1401-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-187A1401-line-1"><hi rend="display-initial">I</hi> HONOUR the men, Sir,</l><l/><l n="2" xml:id="spp-187A1401-line-2">Who are ready to answer,</l><l/><l n="3" xml:id="spp-187A1401-line-3">When I ask them to stand by the queen;</l><l/><l n="4" xml:id="spp-187A1401-line-4">In spite of orâtors,</l><l/><l n="5" xml:id="spp-187A1401-line-5">And blood thirsty praters,</l><l/><l n="6" xml:id="spp-187A1401-line-6">Whose hatred I highly esteem.</l><l/><l n="7" xml:id="spp-187A1401-line-7">Let our faith's defender</l><l/><l n="8" xml:id="spp-187A1401-line-8">Keep out every pretender,</l><l/><l n="9" xml:id="spp-187A1401-line-9">And long enjoy her own;</l><l/><l n="10" xml:id="spp-187A1401-line-10">Thus you four, five,</l><l/><l n="11" xml:id="spp-187A1401-line-11">May merrily live,</l><l/><l n="12" xml:id="spp-187A1401-line-12">Till faction is dead as a stone.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

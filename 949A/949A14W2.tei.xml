@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>EPIGRAM.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-949A14W2-footnote-1"/>
+        </linkGrp>
+        <div n="949A14W2" type="poem"><head type="note" n="1" xml:id="spp-949A14W2-headnote-1"><lg n="1" xml:id="spp-949A14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-949A14W2-headnote-1-line-group-1-line-1">FROM THE FRENCH.<«FN1·>A French gentleman dining with some company on a fast-day, called for some bacon and eggs. The rest were very angry, and reproved him for so heinous a sin; whereupon he wrote the following lines, which are translated above;</«FN1·></l><lg n="2" xml:id="spp-949A14W2-headnote-1-line-group-2" type="headnote"><l n="1" xml:id="spp-949A14W2-headnote-1-line-group-2-line-1"><«FN1·><lb/>Peut on croire avec bon sens</«FN1·></l><lg n="3" xml:id="spp-949A14W2-headnote-1-line-group-3" type="headnote"><l n="1" xml:id="spp-949A14W2-headnote-1-line-group-3-line-1"><«FN1·><lb/><lb/>Qu'un lardon le mit en colère,</«FN1·></l><lg n="4" xml:id="spp-949A14W2-headnote-1-line-group-4" type="headnote"><l n="1" xml:id="spp-949A14W2-headnote-1-line-group-4-line-1"><«FN1·><lb/>Ou, que manger un hareng,</«FN1·></l><lg n="5" xml:id="spp-949A14W2-headnote-1-line-group-5" type="headnote"><l n="1" xml:id="spp-949A14W2-headnote-1-line-group-5-line-1"><«FN1·><lb/><lb/>C'est un secret pour lui plaire?</«FN1·></l><lg n="6" xml:id="spp-949A14W2-headnote-1-line-group-6" type="headnote"><l n="1" xml:id="spp-949A14W2-headnote-1-line-group-6-line-1"><«FN1·><lb/>En sa glorie envelopé,</«FN1·></l><lg n="7" xml:id="spp-949A14W2-headnote-1-line-group-7" type="headnote"><l n="1" xml:id="spp-949A14W2-headnote-1-line-group-7-line-1"><ref target="#spp-949A14W2-footnote-1">1</ref><note n="1" xml:id="spp-949A14W2-footnote-1" place="foot"><lb/>Songe-t-il bien de nos soupés?──H</note></l></lg></lg></lg></lg></lg></lg></lg></head><head type="note" n="2" xml:id="spp-949A14W2-headnote-2"><lg n="1" xml:id="spp-949A14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-949A14W2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-949A14W2-headnote-3"><lg n="1" xml:id="spp-949A14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-949A14W2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-949A14W2-line-1"> &lt;Peut on croire avec bon sens&#13;</l><l n="2" xml:id="spp-949A14W2-line-2"> &lt;Qu'un lardon le mit en colère,</l><l n="3" xml:id="spp-949A14W2-line-3"> &lt;Ou, que manger un hareng,</l><l n="4" xml:id="spp-949A14W2-line-4"> &lt;C'est un secret pour lui plaire?</l><l n="5" xml:id="spp-949A14W2-line-5"> &lt;En sa glorie envelopé,</l><l n="6" xml:id="spp-949A14W2-line-6"> &lt;Songe-t-il bien de nos soupés?</l><l n="7" xml:id="spp-949A14W2-line-7"> W<hi rend="SMALL-CAPS">HO</hi> can believe with common sense,</l><l n="8" xml:id="spp-949A14W2-line-8"> A bacon slice gives God offence;</l><l n="9" xml:id="spp-949A14W2-line-9"> Or, how a herring has a charm</l><l n="10" xml:id="spp-949A14W2-line-10"> Almighty vengeance to disarm?</l><l n="11" xml:id="spp-949A14W2-line-11"> Wrapp'd up in majesty divine,</l><l n="12" xml:id="spp-949A14W2-line-12"> Does he regard on what we dine?949A14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

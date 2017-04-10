@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To his Grace the<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="339-WILH" type="poem"><head type="note" n="1" xml:id="spp-339-WILH-headnote-1"><lg n="1" xml:id="spp-339-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-339-WILH-headnote-1-line-group-1-line-1">A POEM.</l></lg></head><head type="note" n="2" xml:id="spp-339-WILH-headnote-2"><lg n="1" xml:id="spp-339-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-339-WILH-headnote-2-line-group-1-line-1"><hi rend="underline">Serus in cœlum redeas diuq; <lb/> Lætus intersis Populo</hi>────Hor.</l></lg></head><head type="note" n="3" xml:id="spp-339-WILH-headnote-3"><lg n="1" xml:id="spp-339-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-339-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-339-WILH-line-1"><hi rend="display-initial">G</hi>REAT, <hi rend="SMALL-CAPS">GOOD</hi> and <hi rend="SMALL-CAPS">JUST</hi> was once apply'd</l><l n="2" xml:id="spp-339-WILH-line-2"> To <hi rend="underline">One</hi> who for his Country died,</l><l n="3" xml:id="spp-339-WILH-line-3"> To <hi rend="underline">One</hi> who lives in its Defence,</l><l n="4" xml:id="spp-339-WILH-line-4"> We speak it in a Happier Sense.</l><l n="5" xml:id="spp-339-WILH-line-5"> O may the <hi rend="underline">Fates</hi> thy Life prolong!</l><l n="6" xml:id="spp-339-WILH-line-6"> Our Country then can dread no Wrong:</l><l n="7" xml:id="spp-339-WILH-line-7"> In thy great Care we place our Trust,</l><l n="8" xml:id="spp-339-WILH-line-8"> Because thour't <hi rend="SMALL-CAPS">GREAT</hi>, and <hi rend="SMALL-CAPS">GOOD</hi>, and <hi rend="SMALL-CAPS">JUST</hi>.</l><l n="9" xml:id="spp-339-WILH-line-9"> Thy <hi rend="underline">Breast unshaken</hi> can oppose</l><l n="10" xml:id="spp-339-WILH-line-10"> Our Private and our <hi rend="underline">Publick Foes</hi>,</l><l n="11" xml:id="spp-339-WILH-line-11"> The Latent Wiles, and <hi rend="underline">Tricks of State</hi>,</l><l n="12" xml:id="spp-339-WILH-line-12"> Your <hi rend="underline">Wisdom</hi> can with Ease Defeat.</l><l n="13" xml:id="spp-339-WILH-line-13"> When Pow'r in all its Pomp appears,</l><l n="14" xml:id="spp-339-WILH-line-14"> It falls before thy Rev'rend Years,</l><l n="15" xml:id="spp-339-WILH-line-15"> And willingly resigns its Place</l><l n="16" xml:id="spp-339-WILH-line-16"> To Something Nobler in thy Face.</l><l n="17" xml:id="spp-339-WILH-line-17"> When once the fierce pursuing <hi rend="underline">Gaul</hi></l><l n="18" xml:id="spp-339-WILH-line-18"> Had drawn his Sword for <hi rend="underline">Marius</hi>' Fall,</l><l n="19" xml:id="spp-339-WILH-line-19"> The Godlike Hero with one frown</l><l n="20" xml:id="spp-339-WILH-line-20"> Struck all his Rage and Malice down;</l><l n="21" xml:id="spp-339-WILH-line-21"> Then how can we dread <hi rend="underline">William Wood</hi>,</l><l n="22" xml:id="spp-339-WILH-line-22"> If by <hi rend="underline">thy Presence</hi> he's withstood?</l><l n="23" xml:id="spp-339-WILH-line-23"> Where Wisdom stands to keep the Field,</l><l n="24" xml:id="spp-339-WILH-line-24"> In Vain he brings his <hi rend="underline">Brazen Shield</hi>.</l><l n="25" xml:id="spp-339-WILH-line-25"> Tho' like the <hi rend="underline">Cybel</hi>'s Priest he comes,</l><l n="26" xml:id="spp-339-WILH-line-26"> With furious Din of <hi rend="underline">Brazen Drums</hi>,</l><l n="27" xml:id="spp-339-WILH-line-27"> The Force of thy superior Voice</l><l n="28" xml:id="spp-339-WILH-line-28"> Shall strike him dumb, and quell their Noise.339-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

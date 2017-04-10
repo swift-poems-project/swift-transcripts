@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">A </hi>P<hi rend="SMALL-CAPS">OEM<hi rend="underline"> upon </hi>Rover<hi rend="underline">, a Lady's</hi></hi></title>
+        <title><hi rend="underline">Spaniel</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CLee"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y25-28L-" type="poem"><head type="note" n="1" xml:id="spp-Y25-28L--headnote-1"><lg n="1" xml:id="spp-Y25-28L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y25-28L--headnote-1-line-group-1-line-1"><hi rend="display-initial">T</hi>HE following Poem was writ to affront a Lady of eminent Virtue, through Envy to her Husband, who was in an high Station above the <hi rend="underline">Captain</hi>, and to ridicule Mr. <hi rend="underline">Philip</hi>'s Poem on Miss <hi rend="underline">Carteret</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-Y25-28L--headnote-2"><lg n="1" xml:id="spp-Y25-28L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y25-28L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y25-28L--headnote-3"><lg n="1" xml:id="spp-Y25-28L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y25-28L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y25-28L--line-1"><hi rend="display-initial">H</hi>Appiest of the Spaniel Race,</l><l n="2" xml:id="spp-Y25-28L--line-2"> Painter, with thy Colours grace,</l><l n="3" xml:id="spp-Y25-28L--line-3"> Draw his Forehead large and high,</l><l n="4" xml:id="spp-Y25-28L--line-4"> Draw his blue and humid Eye,</l><l n="5" xml:id="spp-Y25-28L--line-5"> Draw his Neck so smooth and round,<hi rend="underline">Little Neck, with Ribbons bound</hi>,</l><l n="6" xml:id="spp-Y25-28L--line-6"> And the <hi rend="underline">Muscly</hi> swelling Breast,</l><l n="7" xml:id="spp-Y25-28L--line-7"> Where the Loves and Graces rest,</l><l n="8" xml:id="spp-Y25-28L--line-8"> And the spreading even Back,</l><l n="9" xml:id="spp-Y25-28L--line-9"> Soft and sleek, and glossy Black,</l><l n="10" xml:id="spp-Y25-28L--line-10"> And the Tail that gently twines</l><l n="11" xml:id="spp-Y25-28L--line-11"> Like the Tendrils of the Vines,</l><l n="12" xml:id="spp-Y25-28L--line-12"> And the silky twisted Hair,</l><l n="13" xml:id="spp-Y25-28L--line-13"> Shadowing thick the <hi rend="underline">Velvet</hi> Ear,<hi rend="underline">Velvet</hi> Ears, which hanging low,</l><l n="14" xml:id="spp-Y25-28L--line-14"> O'er the <hi rend="underline">Veiny</hi> Temples flow.</l></lg><lg n="2" type="stanza"><l n="15" xml:id="spp-Y25-28L--line-15">With a proper Light and Shade,&#13;</l><l n="16" xml:id="spp-Y25-28L--line-16"> Let the Winding Hoop be laid,</l><l n="17" xml:id="spp-Y25-28L--line-17"> And within that arching Bow'r</l><l n="18" xml:id="spp-Y25-28L--line-18"> (Sacred Circle, mystick Pow'r)</l><l n="19" xml:id="spp-Y25-28L--line-19"> In a downy Slumber place,</l><l n="20" xml:id="spp-Y25-28L--line-20"> Happiest of the Spaniel Race,</l><l n="21" xml:id="spp-Y25-28L--line-21"> While the soft perspiring Dame,</l><l n="22" xml:id="spp-Y25-28L--line-22"> Glowing with the softest Flame,</l><l n="23" xml:id="spp-Y25-28L--line-23"> On the ravish'd Fav'rite powers</l><l n="24" xml:id="spp-Y25-28L--line-24"> Balmy Dews, Ambrosial Show'rs.</l></lg><lg n="3" type="stanza"><l n="25" xml:id="spp-Y25-28L--line-25">With thy utmost Skill express&#13;</l><l n="26" xml:id="spp-Y25-28L--line-26"> Nature in her richest Dress,</l><l n="27" xml:id="spp-Y25-28L--line-27"> Limped <hi rend="underline">Rivers</hi> smoothly flowing,<hi rend="underline">Orchards</hi> by those <hi rend="underline">Rivers</hi> blowing,</l><l n="28" xml:id="spp-Y25-28L--line-28"> Curling <hi rend="underline">Woodbine</hi>, Myrtle Shade,</l><l n="29" xml:id="spp-Y25-28L--line-29"> And the gay enamel'd Mead,</l><l n="30" xml:id="spp-Y25-28L--line-30"> Where the <hi rend="underline">Linnets</hi> sit and sing,</l><l n="31" xml:id="spp-Y25-28L--line-31"> Little Sportlings of the <hi rend="underline">Spring</hi>,</l><l n="32" xml:id="spp-Y25-28L--line-32"> Where the breathing <hi rend="underline">Field</hi> and <hi rend="underline">Grove</hi>,</l><l n="33" xml:id="spp-Y25-28L--line-33"> Smooth the Heart and kindle Love;</l><l n="34" xml:id="spp-Y25-28L--line-34"> Here for me and for the Muse</l><l n="35" xml:id="spp-Y25-28L--line-35"> Colours of Resemblance choose,</l><l n="36" xml:id="spp-Y25-28L--line-36"> Make of <hi rend="underline">Lineaments</hi> divine</l><l n="37" xml:id="spp-Y25-28L--line-37"> Dapply Female <hi rend="underline">Spaniels</hi> shine,</l><l n="38" xml:id="spp-Y25-28L--line-38"> Pretty Fondlings of the Fair,</l><l n="39" xml:id="spp-Y25-28L--line-39"> Gentle <hi rend="underline">Damsels</hi>, gentle <hi rend="underline">Care</hi>:</l><l n="40" xml:id="spp-Y25-28L--line-40"> But to one alone impart</l><l n="41" xml:id="spp-Y25-28L--line-41"> All the Flatt'ry of thy Art;</l><l n="42" xml:id="spp-Y25-28L--line-42"> Crowd each Feature, crowd each Grace,</l><l n="43" xml:id="spp-Y25-28L--line-43"> Which compleat the DESPERATE FACE.</l><l n="44" xml:id="spp-Y25-28L--line-44"> Let the spotted wanton Dame</l><l n="45" xml:id="spp-Y25-28L--line-45"> Feel a new resistless Flame;</l><l n="46" xml:id="spp-Y25-28L--line-46"> Let the happiest of his Race</l><l n="47" xml:id="spp-Y25-28L--line-47"> Win the Fair to his <hi rend="underline">Embrace</hi>;</l><l n="48" xml:id="spp-Y25-28L--line-48"> But in Shade the rest conceal,</l><l n="49" xml:id="spp-Y25-28L--line-49"> Nor to Sight their Joys reveal,</l><l n="50" xml:id="spp-Y25-28L--line-50"> Lest the <hi rend="underline">Pencil</hi> and the <hi rend="underline">Muse</hi></l><l n="51" xml:id="spp-Y25-28L--line-51"> Loose Desires and Thoughts <hi rend="underline">infuse</hi>.Y25-28L-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

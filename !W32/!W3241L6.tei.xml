@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-!W3241L6-footnote-1 #spp-!W3241L6-line-1"/>
+        </linkGrp>
+        <div n="!W3241L6" type="poem"><head type="note" n="1" xml:id="spp-!W3241L6-headnote-1"><lg n="1" xml:id="spp-!W3241L6-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-!W3241L6-headnote-1-line-group-1-line-1">Dr. <hi rend="underline">Swift</hi>, one Day after Dinner at the Alderman's, made the following Division of this Gentlewoman's Name, <hi rend="underline">viz. A Mark in a Dale</hi>, and presented her with the following <hi rend="underline">Rebus</hi>:</l></lg></head><head type="note" n="2" xml:id="spp-!W3241L6-headnote-2"><lg n="1" xml:id="spp-!W3241L6-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-!W3241L6-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-!W3241L6-headnote-3"><lg n="1" xml:id="spp-!W3241L6-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-!W3241L6-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-!W3241L6-line-1"> What few Men can hit, <ref target="#spp-!W3241L6-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-!W3241L6-footnote-1"><hi rend="underline">i. e</hi>. The <hi rend="underline">Mark</hi>.</note> tho' most Men can spy;</l><l n="2" xml:id="spp-!W3241L6-line-2"> At the Foot of a Hill or from Mountain on high,</l><l n="3" xml:id="spp-!W3241L6-line-3"> Is that fair Lady's Name, with a Black rolling Eye.!W3241L6   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

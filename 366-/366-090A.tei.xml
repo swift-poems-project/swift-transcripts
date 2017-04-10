@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Answer</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="366-090A" type="poem"><head type="note" n="1" xml:id="spp-366-090A-headnote-1"><lg n="1" xml:id="spp-366-090A-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-366-090A-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-366-090A-headnote-2"><lg n="1" xml:id="spp-366-090A-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-366-090A-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-366-090A-headnote-3"><lg n="1" xml:id="spp-366-090A-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-366-090A-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-366-090A-line-1"> The Wise pretend to make it clear,&#13;</l><l n="2" xml:id="spp-366-090A-line-2"> 'Tis no great Loss to lose an Ear;</l><l n="3" xml:id="spp-366-090A-line-3"> Why are we then so fond of Two,</l><l n="4" xml:id="spp-366-090A-line-4"> When by Experience One would do?</l></lg><lg n="2" type="stanza"><l n="5" xml:id="spp-366-090A-line-5">'Tis true say they cut of the Head,&#13;</l><l n="6" xml:id="spp-366-090A-line-6"> And there's an End, the Man is dead;</l><l n="7" xml:id="spp-366-090A-line-7"> Because among all human Race,</l><l n="8" xml:id="spp-366-090A-line-8"> None e'er was known to have a Brace,</l><l n="9" xml:id="spp-366-090A-line-9"> But confidently they maintain,</l><l n="10" xml:id="spp-366-090A-line-10"> That, where we find the Members twain,</l><l n="11" xml:id="spp-366-090A-line-11"> The loss of one is no such Trouble,</l><l n="12" xml:id="spp-366-090A-line-12"> Since 'tother will in Strength be double;</l><l n="13" xml:id="spp-366-090A-line-13"> The Limb surviving you may swear,</l><l n="14" xml:id="spp-366-090A-line-14"> Becomes his Brothers lawful Heir:</l><l n="15" xml:id="spp-366-090A-line-15"> Thus for a Tryal, let me beg of</l><l n="16" xml:id="spp-366-090A-line-16"> Your Rev'rence but to cut one Legg of,</l><l n="17" xml:id="spp-366-090A-line-17"> And you shall find by this Device,</l><l n="18" xml:id="spp-366-090A-line-18"> The 'tother will be stronger twice,</l><l n="19" xml:id="spp-366-090A-line-19"> For, ev'ry Day you shall be gaining</l><l n="20" xml:id="spp-366-090A-line-20"> New Vigour to the Leg remaining,</l><l n="21" xml:id="spp-366-090A-line-21"> So when an Eye hath lost its Brother,</l><l n="22" xml:id="spp-366-090A-line-22"> You see the better with the other:</l><l n="23" xml:id="spp-366-090A-line-23"> Cut of your Hand and you may do</l><l n="24" xml:id="spp-366-090A-line-24"> With 'tother Hand the Work of two:</l><l n="25" xml:id="spp-366-090A-line-25"> Because the Soul her Pow'r contracts,</l><l n="26" xml:id="spp-366-090A-line-26"> And on the Brother Limb re-acts.</l></lg><lg n="3" type="stanza"><l n="27" xml:id="spp-366-090A-line-27">But yet the Point is not so clear in&#13;</l><l n="28" xml:id="spp-366-090A-line-28"> Another Case the Sense of hearing:</l><l n="29" xml:id="spp-366-090A-line-29"> For tho the place of either Ear,</l><l n="30" xml:id="spp-366-090A-line-30"> Be distant as One Head can bear;</l><l n="31" xml:id="spp-366-090A-line-31"> Yet Galen most acutely shews you,</l><l n="32" xml:id="spp-366-090A-line-32"> (Consult his Book De Partium usu)</l><l n="33" xml:id="spp-366-090A-line-33"> That from each ear, as he observes,</l><l n="34" xml:id="spp-366-090A-line-34"> There creeps Two auditory Nerves,</l><l n="35" xml:id="spp-366-090A-line-35"> (Not to be seen without a Glass)</l><l n="36" xml:id="spp-366-090A-line-36"> Which near the Os Petrosum pass;</l><l n="37" xml:id="spp-366-090A-line-37"> Thence to the Neck; and moving thorow there</l><l n="38" xml:id="spp-366-090A-line-38"> One goes to this, and One to t'other Ear.</l><l n="39" xml:id="spp-366-090A-line-39"> Which made my Grand-Dame always Stuff-her-Ears,</l><l n="40" xml:id="spp-366-090A-line-40"> Both right and Left as Fellow-Sufferers.</l><l n="41" xml:id="spp-366-090A-line-41"> You see my Learning but to shorten it,</l><l n="42" xml:id="spp-366-090A-line-42"> When my Left Ear was Deaf a Fortnight,</l><l n="43" xml:id="spp-366-090A-line-43"> To t'other Ear I felt it coming on</l><l n="44" xml:id="spp-366-090A-line-44"> And thus I solve this hard Pheenomenon.'Tis true, a Glass will bring Supplies</l><l n="45" xml:id="spp-366-090A-line-45"> To weak, or old, or clouded Eyes.</l><l n="46" xml:id="spp-366-090A-line-46"> Your Arms, tho both your Eyes were lost</l><l n="47" xml:id="spp-366-090A-line-47"> Would guard your Nose against a Post.</l><l n="48" xml:id="spp-366-090A-line-48"> Without you Legs, Two Legs of Wood</l><l n="49" xml:id="spp-366-090A-line-49"> Are stronger and almost as good.</l><l n="50" xml:id="spp-366-090A-line-50"> And as for Hand there have been those</l><l n="51" xml:id="spp-366-090A-line-51"> Who wanting both have usd their Toes.</l><l n="52" xml:id="spp-366-090A-line-52"> But no Contrivance yet appears,</l><l n="53" xml:id="spp-366-090A-line-53"> To furnish artificial Ears.366-090A   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

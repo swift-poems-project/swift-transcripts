@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="970-002D" type="poem"><head type="note" n="1" xml:id="spp-970-002D-headnote-1"><lg n="1" xml:id="spp-970-002D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-970-002D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-970-002D-headnote-2"><lg n="1" xml:id="spp-970-002D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-970-002D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-970-002D-headnote-3"><lg n="1" xml:id="spp-970-002D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-970-002D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-970-002D-line-1"> Oft have I been by Poets told&#13;</l><l n="2" xml:id="spp-970-002D-line-2"> That poor Jonathan thou grows old.</l><l n="3" xml:id="spp-970-002D-line-3"> Alas! thy Number falling all!</l><l n="4" xml:id="spp-970-002D-line-4"> Poor Jonathan how they do fall.</l><l n="5" xml:id="spp-970-002D-line-5"> Thy Rhymes Which whilom made thy Pride swell</l><l n="6" xml:id="spp-970-002D-line-6"> Now Jingle like a Rusty Bridle</l><l n="7" xml:id="spp-970-002D-line-7"> Thy Verse which ran both smooth and sweet,</l><l n="8" xml:id="spp-970-002D-line-8"> Now Limp upon their Gouty feet:</l><l n="9" xml:id="spp-970-002D-line-9"> Thy Thoughts which were the true sublime,</l><l n="10" xml:id="spp-970-002D-line-10"> Are humbled by the Tyrant Time.</l><l n="11" xml:id="spp-970-002D-line-11"> Alas! what cannot Time subdue?</l><l n="12" xml:id="spp-970-002D-line-12"> Time has reduc'd my Wine and You.</l><l n="13" xml:id="spp-970-002D-line-13"> Emptied my Casks, and clipt Your Wings,</l><l n="14" xml:id="spp-970-002D-line-14"> Disabl'd both·both in Our Main Springs:</l><l n="15" xml:id="spp-970-002D-line-15"> So that of late We Two are grown</l><l n="16" xml:id="spp-970-002D-line-16"> The Jest and Scorn of all the Town.</l><l n="17" xml:id="spp-970-002D-line-17"> But Yet if My Advice be Ta'en,</l><l n="18" xml:id="spp-970-002D-line-18"> We Two may be as great again,</l><l n="19" xml:id="spp-970-002D-line-19"> I'll send You Wings, and send me Wine</l><l n="20" xml:id="spp-970-002D-line-20"> Then You will Fly, and I shall Shine</l></lg><lg n="2" type="stanza"><l n="21" xml:id="spp-970-002D-line-21">This was written with my Right hand att the same time with the Other.&#13;</l></lg><lg n="3" type="stanza"><l n="22" xml:id="spp-970-002D-line-22">How does Melpy like this? I think I have Vext her&#13;</l><l n="23" xml:id="spp-970-002D-line-23" rend="flush right"> Little did she know I was Ambidexter.T: Sheridan970-002D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>W<hi rend="SMALL-CAPS">OOD</hi> an I<hi rend="SMALL-CAPS">NSECT</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-350B06E2-footnote-1 #spp-350B06E2-line-10"/>
+          <link target="#spp-350B06E2-footnote-1 #spp-350B06E2-line-38"/>
+          <link target="#spp-350B06E2-footnote-2 #spp-350B06E2-line-40"/>
+        </linkGrp>
+        <div n="350B06E2"><head type="note" n="1" xml:id="spp-350B06E2-headnote-1"><lg n="1" xml:id="spp-350B06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-350B06E2-headnote-1-line-group-1-line-1">Written in the year 1725.&#13;</l></lg></head><head type="note" n="2" xml:id="spp-350B06E2-headnote-2"><lg n="1" xml:id="spp-350B06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-350B06E2-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-350B06E2-headnote-3"><lg n="1" xml:id="spp-350B06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-350B06E2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-350B06E2-line-1"><hi rend="display-initial">B</hi>Y long observation I have understood,</l><l/><l n="2" xml:id="spp-350B06E2-line-2">That two little vermin are kin to Will Wood.</l><l/><l n="3" xml:id="spp-350B06E2-line-3">The first is an insect they call a <hi rend="underline">wood-louse</hi>,</l><l/><l n="4" xml:id="spp-350B06E2-line-4">That folds up itself in itself for a house,</l><l/><l n="5" xml:id="spp-350B06E2-line-5">As round as a ball, without head, without tail,</l><l/><l n="6" xml:id="spp-350B06E2-line-6">Inclos'd <hi rend="underline">cap-a-pee</hi> in a strong coat of mail.</l><l/><l n="7" xml:id="spp-350B06E2-line-7">And thus William Wood to my fancy appears</l><l/><l n="8" xml:id="spp-350B06E2-line-8">In fillets of brass roll'd up to his ears:</l><l/><l n="9" xml:id="spp-350B06E2-line-9">And over these fillets he wisely has thrown,</l><l/><l n="10" xml:id="spp-350B06E2-line-10">To keep out of danger, a doublet of stone<ref target="#spp-350B06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-350B06E2-footnote-1">He was in jail for debt.</note>.</l><l/><l n="11" xml:id="spp-350B06E2-line-11"/></lg><lg n="2" type="stanza"><l>The louse of the <hi rend="underline">wood</hi> for a med'cine is us'd,</l><l/><l n="12" xml:id="spp-350B06E2-line-12">Or swallow'd alive, or skilfully bruis'd.</l><l/><l n="13" xml:id="spp-350B06E2-line-13">And let but our mother Hibernia contrive</l><l/><l n="14" xml:id="spp-350B06E2-line-14">To swallow Will Wood either bruis'd or alive,</l><l/><l n="15" xml:id="spp-350B06E2-line-15">She need be no more with the jaundice possest,</l><l/><l n="16" xml:id="spp-350B06E2-line-16">Or sick of <hi rend="underline">obstructions</hi>, and <hi rend="underline">pains in her chest</hi>.</l><l/><l n="17" xml:id="spp-350B06E2-line-17"/></lg><lg n="3" type="stanza"><l>The next is an insect we call a <hi rend="underline">wood-worm</hi>,</l><l/><l n="18" xml:id="spp-350B06E2-line-18">That lies in old wood like a hare in her form:</l><l/><l n="19" xml:id="spp-350B06E2-line-19">With teeth or with claws it will bite or will scratch;</l><l/><l n="20" xml:id="spp-350B06E2-line-20">And chambermaids christen this worm a death-</l></lg><lg n="4" type="stanza"><l>watch;&#13;</l><l/><l n="21" xml:id="spp-350B06E2-line-21">Because, like a watch, it always cries <hi rend="underline">click</hi>:</l><l/><l n="22" xml:id="spp-350B06E2-line-22">Then woe be to those in the house who are sick;</l><l/><l n="23" xml:id="spp-350B06E2-line-23">For, as sure as a gun, they will give up the ghost,</l><l/><l n="24" xml:id="spp-350B06E2-line-24">If the maggot cries <hi rend="underline">click</hi>, when it scratches the post.</l><l/><l n="25" xml:id="spp-350B06E2-line-25">But a kettle of scalding hot water injected</l><l/><l n="26" xml:id="spp-350B06E2-line-26">Infallibly cures the timber affected:</l><l/><l n="27" xml:id="spp-350B06E2-line-27">The omen is broken, the danger is over;</l><l/><l n="28" xml:id="spp-350B06E2-line-28">The maggot will die, and the sick will recover.</l><l/><l n="29" xml:id="spp-350B06E2-line-29"/></lg><lg n="5" type="stanza"><l>Such a worm was Will Wood, when he scratch'd at the door&#13;</l><l/><l n="30" xml:id="spp-350B06E2-line-30">Of a governing statesman or favourite whore:</l><l/><l n="31" xml:id="spp-350B06E2-line-31">The death of our nation he seem'd to foretel,</l><l/><l n="32" xml:id="spp-350B06E2-line-32">And the sound of his brass we took for our knell.</l><l/><l n="33" xml:id="spp-350B06E2-line-33">But now since the Drapier hath heartily maul'd him,</l><l/><l n="34" xml:id="spp-350B06E2-line-34">I think the best thing we can do is to scald him.</l><l/><l n="35" xml:id="spp-350B06E2-line-35">For which operation there's nothing more proper</l><l/><l n="36" xml:id="spp-350B06E2-line-36">Than the liquor he deals in, his own melted copper;</l><l/><l n="37" xml:id="spp-350B06E2-line-37">Unless, like the Dutch, you rather would boil</l><l/><l n="38" xml:id="spp-350B06E2-line-38">This coiner of <hi rend="underline">raps</hi><ref target="#spp-350B06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-350B06E2-footnote-1">A cant word in Ireland for a counterfeit halfpenny.</note> in a cauldron of oil.</l><l/><l n="39" xml:id="spp-350B06E2-line-39">Then chuse which you please, and let each bring a faggot,</l><l/><l n="40" xml:id="spp-350B06E2-line-40">For our fear's at an end with the death of the maggot<ref target="#spp-350B06E2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-350B06E2-footnote-2">See vol. 3. p. 143.</note>.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

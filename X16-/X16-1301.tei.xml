@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A LETTER from Dr. SHERI-<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X16-1301-footnote-1 #spp-X16-1301-line-13"/>
+        </linkGrp>
+        <div n="X16-1301" type="letter"><head type="note" n="1" xml:id="spp-X16-1301-headnote-1"><lg n="1" xml:id="spp-X16-1301-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X16-1301-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X16-1301-headnote-2"><lg n="1" xml:id="spp-X16-1301-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X16-1301-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X16-1301-headnote-3"><lg n="1" xml:id="spp-X16-1301-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X16-1301-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-X16-1301-line-1"><hi rend="display-initial">I</hi>'D have you to know, as sure as you're Dean,</l><l n="2" xml:id="spp-X16-1301-line-2"> On Thursday my cask of Obrien I'll drain:</l><l n="3" xml:id="spp-X16-1301-line-3"> If my wife is not willing, I say she's a quean,</l><l n="4" xml:id="spp-X16-1301-line-4"> And my right to the cellar, I Gad I'll maintain</l><l n="5" xml:id="spp-X16-1301-line-5"> As bravely as any that fought at Dunblain:</l><l n="6" xml:id="spp-X16-1301-line-6"> Go tell her it over and over again.</l><l n="7" xml:id="spp-X16-1301-line-7"> I hope, as I ride to the town, it won't rain;</l><l n="8" xml:id="spp-X16-1301-line-8"> For, should it, I fear it will cool my hot brain,</l><l n="9" xml:id="spp-X16-1301-line-9"> Intirely extinguish my poetic vein;</l><l n="10" xml:id="spp-X16-1301-line-10"> And then I should be as stupid as Kain,</l><l n="11" xml:id="spp-X16-1301-line-11"> Who preach'd on three heads, tho' he mention'd but twain.</l><l n="12" xml:id="spp-X16-1301-line-12"> Now Wardel's in haste, and begins to complain;</l><l n="13" xml:id="spp-X16-1301-line-13" rend="flush right"> Your most humble servant, Dear Sir, I remain,T. S────<hi rend="SMALL-CAPS">N</hi>.Get Helsham, Walmsley, Delany,And some Grattans, if there be any <ref target="#spp-X16-1301-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-X16-1301-footnote-1"><hi rend="underline">i.e</hi>. In Dublin, for they were country-clergy, living near the city.</note>,Take care you do not bid too many.X16-1301   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

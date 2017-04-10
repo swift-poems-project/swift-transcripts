@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X31A1651" type="poem"><head type="note" n="1" xml:id="spp-X31A1651-headnote-1"><lg n="1" xml:id="spp-X31A1651-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X31A1651-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X31A1651-headnote-2"><lg n="1" xml:id="spp-X31A1651-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X31A1651-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X31A1651-headnote-3"><lg n="1" xml:id="spp-X31A1651-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X31A1651-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X31A1651-line-1"> This morning I'm growing by smelling of yew sick,&#13;</l><l n="2" xml:id="spp-X31A1651-line-2"> My brother's come over with gold from Peru sick;</l><l n="3" xml:id="spp-X31A1651-line-3"> Last night I came home in a storm that blew sick,</l><l n="4" xml:id="spp-X31A1651-line-4"> This moment my dog, at a cat, I hooloo sick;</l><l n="5" xml:id="spp-X31A1651-line-5"> I hear from good hands, that my poor cousin Hugh's sick,</l><l n="6" xml:id="spp-X31A1651-line-6"> By quaffing a bottle, and pulling a screw sick:</l><l n="7" xml:id="spp-X31A1651-line-7"> And there's no more I can write (you'll excuse) sick,</l><l n="8" xml:id="spp-X31A1651-line-8"> You see that I scorn to mention word musick.</l></lg><lg n="2" type="stanza"><l n="9" xml:id="spp-X31A1651-line-9">I'll do my best,&#13;To send the rest,Without a jest,I'll stand the test.</l></lg><lg n="3" type="stanza"><l n="10" xml:id="spp-X31A1651-line-10">These lines that I send you, I hope you'll peruse sick,&#13;</l><l n="11" xml:id="spp-X31A1651-line-11"> I'll make you with writing a little more news sick;</l><l n="12" xml:id="spp-X31A1651-line-12"> Last night I came home with drink of booze sick,</l><l n="13" xml:id="spp-X31A1651-line-13"> My carpenter swears that he'll hack and he'll hew sick:</l><l n="14" xml:id="spp-X31A1651-line-14"> An Officer's lady I'm told is tattoo-sick,</l><l n="15" xml:id="spp-X31A1651-line-15"> I'm afraid that the line thirty-four you will view sick.</l></lg><lg n="4" type="stanza"><l n="16" xml:id="spp-X31A1651-line-16">Lord! I could write a dozen more,&#13;You see, I've mounted thirty-four.X31A1651   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

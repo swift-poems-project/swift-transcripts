@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-X35B08G1-title-1">Letter CVII.<ref target="#spp-X35B08G1-footnote-title-1">1</ref><note n="1" xml:id="spp-X35B08G1-footnote-title-1" place="foot">This seems to be written from Quilca.</note></title>
+        <title><hi rend="underline">Dr</hi> S<hi rend="SMALL-CAPS">WIFT</hi> <hi rend="underline">to Dr</hi> S<hi rend="SMALL-CAPS">HERIDAN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X35B08G1-footnote-title-1 #spp-X35B08G1-title-1"/>
+        </linkGrp>
+        <div n="X35B08G1" type="letter"><head type="note" n="1" xml:id="spp-X35B08G1-headnote-1"><lg n="1" xml:id="spp-X35B08G1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X35B08G1-headnote-1-line-group-1-line-1"><hi rend="underline">Jan</hi>. 25. 1725.</l></lg></head><head type="note" n="2" xml:id="spp-X35B08G1-headnote-2"><lg n="1" xml:id="spp-X35B08G1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X35B08G1-headnote-2-line-group-1-line-1">The ladies room smokes; the rain drops from the skies into the kitchen; our servants eat and drink like the devil, and pray for rain, which entertains them at cards and sleep; which are much lighter than spades, sledges, and crows. Their maxim is,</l></lg></head><head type="note" n="3" xml:id="spp-X35B08G1-headnote-3"><lg n="1" xml:id="spp-X35B08G1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X35B08G1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-X35B08G1-line-1" rend="indent(1)"><hi rend="underline">Eat like a Turk,&#13;Sleep like a dormouse;</hi>.X35B08G1   </l><l n="2" xml:id="spp-X35B08G1-line-2"> Be last at work,At victuals foremost</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

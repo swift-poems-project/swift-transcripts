@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>R<hi rend="SMALL-CAPS">IDDLE</hi> LXV.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="924-45L8" type="poem"><head type="note" n="1" xml:id="spp-924-45L8-headnote-1"><lg n="1" xml:id="spp-924-45L8-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-924-45L8-headnote-1-line-group-1-line-1"><hi rend="underline">Louisa to Strephon</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-924-45L8-headnote-2"><lg n="1" xml:id="spp-924-45L8-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-924-45L8-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-924-45L8-headnote-3"><lg n="1" xml:id="spp-924-45L8-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-924-45L8-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-924-45L8-line-1"><hi rend="display-initial">A</hi>H <hi rend="underline">Strephon</hi>, how can you despise,</l><l n="2" xml:id="spp-924-45L8-line-2"> Her, who, without thy Pity, dies?</l><l n="3" xml:id="spp-924-45L8-line-3"> To <hi rend="underline">Strephon</hi> I have still been true,</l><l n="4" xml:id="spp-924-45L8-line-4"> And of as noble Blood as you;</l><l n="5" xml:id="spp-924-45L8-line-5"> Fair Issue of the genial Bed,</l><l n="6" xml:id="spp-924-45L8-line-6"> A Virgin in thy Bosom bred;</l><l n="7" xml:id="spp-924-45L8-line-7"> Embrac'd thee closer than a Wife;</l><l n="8" xml:id="spp-924-45L8-line-8"> When thee I leave, I leave my Life.</l><l n="9" xml:id="spp-924-45L8-line-9"> Why should my Shepherd take amiss</l><l n="10" xml:id="spp-924-45L8-line-10"> That oft' I wake thee with a Kiss?</l><l n="11" xml:id="spp-924-45L8-line-11"> Yet you of every Kiss complain;</l><l n="12" xml:id="spp-924-45L8-line-12"> Ah, is not Love a pleasing Pain?</l><l n="13" xml:id="spp-924-45L8-line-13"> A Pain, which every happy Night</l><l n="14" xml:id="spp-924-45L8-line-14"> You cure with Ease and with Delight;</l><l n="15" xml:id="spp-924-45L8-line-15"> With Pleasure, as the Poet sings,</l><l n="16" xml:id="spp-924-45L8-line-16"> Too great for Mortals less than Kings.<hi rend="underline">Chloe</hi>, when on thy Breast I lye,</l><l n="17" xml:id="spp-924-45L8-line-17"> Observes me with revengeful Eye:</l><l n="18" xml:id="spp-924-45L8-line-18"> If <hi rend="underline">Chloe</hi> o'er thy Heart prevails,</l><l n="19" xml:id="spp-924-45L8-line-19"> She'll tear me with her desp'rate Nails;</l><l n="20" xml:id="spp-924-45L8-line-20"> And with relentless Hands destroy</l><l n="21" xml:id="spp-924-45L8-line-21"> The tender Pledges of our Joy.</l><l n="22" xml:id="spp-924-45L8-line-22"> Nor have I bred a spurious Race;</l><l n="23" xml:id="spp-924-45L8-line-23"> They all were born from thy Embrace.Consider, <hi rend="underline">Strephon</hi>, what you do;</l><l n="24" xml:id="spp-924-45L8-line-24"> For should I die for Love of you,</l><l n="25" xml:id="spp-924-45L8-line-25"> I'll haunt thy Dreams, a bloodless Ghost;</l><l n="26" xml:id="spp-924-45L8-line-26"> And all my Kin, a numerous Host,</l><l n="27" xml:id="spp-924-45L8-line-27"> Who down direct our Lineage bring</l><l n="28" xml:id="spp-924-45L8-line-28"> From Victors o'er the <hi rend="underline">Memphian</hi> King,</l><l n="29" xml:id="spp-924-45L8-line-29"> Renown'd in Sieges and Campaigns;</l><l n="30" xml:id="spp-924-45L8-line-30"> Who never fled the bloody Plains;</l><l n="31" xml:id="spp-924-45L8-line-31"> Who in tempestuous Seas can sport,</l><l n="32" xml:id="spp-924-45L8-line-32"> And scorn the Pleasures of a Court;</l><l n="33" xml:id="spp-924-45L8-line-33"> From whom great <hi rend="underline">Sylla</hi> found his Doom;</l><l n="34" xml:id="spp-924-45L8-line-34"> Who scourg'd to Death that Scourge of <hi rend="underline">Rome</hi>,</l><l n="35" xml:id="spp-924-45L8-line-35"> Shall on thee take a Vengeance dire;</l><l n="36" xml:id="spp-924-45L8-line-36"> Thou, like <hi rend="underline">Alcides</hi>, shalt expire,</l><l n="37" xml:id="spp-924-45L8-line-37"> When his envenom'd Shirt he wore,</l><l n="38" xml:id="spp-924-45L8-line-38"> And Skin and Flesh in Pieces tore.</l><l n="39" xml:id="spp-924-45L8-line-39"> Nor less that Shirt, my Rival's Gift,</l><l n="40" xml:id="spp-924-45L8-line-40"> Cut from the Piece that made her Shift,</l><l n="41" xml:id="spp-924-45L8-line-41"> Shall in thy dearest Blood be dy'd,</l><l n="42" xml:id="spp-924-45L8-line-42"> And make thee tear thy tainted Hyde.924-45L8   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

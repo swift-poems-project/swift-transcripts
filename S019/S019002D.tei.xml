@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S019002D" type="poem"><head type="note" n="1" xml:id="spp-S019002D-headnote-1"><lg n="1" xml:id="spp-S019002D-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-S019002D-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-S019002D-headnote-2"><lg n="1" xml:id="spp-S019002D-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-S019002D-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-S019002D-headnote-3"><lg n="1" xml:id="spp-S019002D-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-S019002D-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-S019002D-line-1"> You made me in your last a Goose&#13;I lay my Life upon't You're wrong;</l><l n="2" xml:id="spp-S019002D-line-2"> To raise me by such foul AbuseMy Quill You'll find's a Woman's Tongue.</l><l n="3" xml:id="spp-S019002D-line-3"> And slitt just like a Bird will ChatterAnd Like a Bird do something more</l><l n="4" xml:id="spp-S019002D-line-4"> When I lett fly 'twill so bespatterI'll Change You to a Blackamoor.S019002D   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

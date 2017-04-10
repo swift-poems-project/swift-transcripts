@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Epitaph on y<hi rend="sup">e</hi> B──p of S──b──y.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y49-233Y" type="poem"><head type="note" n="1" xml:id="spp-Y49-233Y-headnote-1"><lg n="1" xml:id="spp-Y49-233Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-233Y-headnote-1-line-group-1-line-1">Bramstone.</l></lg></head><head type="note" n="2" xml:id="spp-Y49-233Y-headnote-2"><lg n="1" xml:id="spp-Y49-233Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-233Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y49-233Y-headnote-3"><lg n="1" xml:id="spp-Y49-233Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-233Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y49-233Y-line-1"> Here Sarum lies of late so wise&#13;&amp; learn'd as Tom Aquinas.</l><l n="2" xml:id="spp-Y49-233Y-line-2"> Lawnsleeves he wore, but was no moreA Xtian y<hi rend="sup">n</hi> Socinus.</l><l n="3" xml:id="spp-Y49-233Y-line-3"> Oaths pro &amp; con, he swallow'd down,Lov'd Gold like any Layman,</l><l n="4" xml:id="spp-Y49-233Y-line-4"> Wrote, preach'd &amp; pray'd, but yet betray'dGod's Holy Word for Mammon.</l><l n="5" xml:id="spp-Y49-233Y-line-5"> Of every Vice he had a Spice,Altho' a Rev<hi rend="sup">d</hi></l></lg><lg n="2" type="stanza"><l n="6" xml:id="spp-Y49-233Y-line-6"> Prelate,&#13;</l><l n="7" xml:id="spp-Y49-233Y-line-7"> Yet liv'd &amp; dy'd, if not bel<subst reason="overwriting"><add>y</add><del>ie</del></subst>'d,A true dissenting Zeal<subst reason="overwriting"><add>ate.</add><del>ot.</del></subst></l><l n="8" xml:id="spp-Y49-233Y-line-8"> If such a Soul to Heaven sh<hi rend="sup">d</hi></l></lg><lg n="3" type="stanza"><l n="9" xml:id="spp-Y49-233Y-line-9"> strole&#13;&amp; 'scape old Satan's Clutches,</l><l n="10" xml:id="spp-Y49-233Y-line-10"> We may presume there may be RoomFor Marlborough &amp; his Dutchess.Y49-233Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LETTER CXIX.<lb/>The Duchess of ORMOND, to<lb/>Dr. SWIFT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="189-1401"><head type="note" n="1" xml:id="spp-189-1401-headnote-1"><lg n="1" xml:id="spp-189-1401-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-189-1401-headnote-1-line-group-1-line-1">In this letter the duchess alludes to the division then subsisting among the ministers at court; and it is probable, that the hint <hi rend="underline">about the story of the arrows</hi> produced the poem called <hi rend="underline">the faggot</hi>, which the dean wrote about this time. It is said, under the title, to have been written in the year 1713, when the queen's ministers were quarrelling among themselves. It begins thus,</l></lg></head><head type="note" n="2" xml:id="spp-189-1401-headnote-2"><lg n="1" xml:id="spp-189-1401-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-189-1401-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-189-1401-headnote-3"><lg n="1" xml:id="spp-189-1401-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-189-1401-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-189-1401-line-1">Observe the dying father speak;&#13;</l><l/><l n="2" xml:id="spp-189-1401-line-2">Try lads can you this bundle break?</l><l/><l n="3" xml:id="spp-189-1401-line-3">Then bids the youngest of the six</l><l/><l n="4" xml:id="spp-189-1401-line-4">Take up a heap of well-bound sticks.</l><l/><l n="5" xml:id="spp-189-1401-line-5">They thought it was an old man's maggot,</l><l/><l n="6" xml:id="spp-189-1401-line-6">And strove by turns to break the faggot.</l><l/><l n="7" xml:id="spp-189-1401-line-7">In vain: the complicated wands,</l><l/><l n="8" xml:id="spp-189-1401-line-8">Were much too strong for all their hands.</l><l/><l n="9" xml:id="spp-189-1401-line-9">See, said the sire, how soon 'tis done:</l><l/><l n="10" xml:id="spp-189-1401-line-10">Then took and broke them one by one.</l><l/><l n="11" xml:id="spp-189-1401-line-11" rend="align(center) flush left"><hi rend="underline">&amp;c</hi>.</l><l/><l n="12" xml:id="spp-189-1401-line-12"><gap/></l><l/><l n="13" xml:id="spp-189-1401-line-13"><gap/></l><l/><l n="14" xml:id="spp-189-1401-line-14"><gap/></l><l/><l n="15" xml:id="spp-189-1401-line-15"><gap/></l><l/><l n="16" xml:id="spp-189-1401-line-16"><gap/></l><l/><l n="17" xml:id="spp-189-1401-line-17"><gap/></l><l/><l n="18" xml:id="spp-189-1401-line-18"><gap/></l><l/><l n="19" xml:id="spp-189-1401-line-19"><gap/></l><l/><l n="20" xml:id="spp-189-1401-line-20"><gap/></l><l/><l n="21" xml:id="spp-189-1401-line-21"><gap/></l><l/><l n="22" xml:id="spp-189-1401-line-22"><gap/></l><l/><l n="23" xml:id="spp-189-1401-line-23"><gap/></l><l/><l n="24" xml:id="spp-189-1401-line-24"><gap/></l><l/><l n="25" xml:id="spp-189-1401-line-25"><gap/></l><l/><l n="26" xml:id="spp-189-1401-line-26"><gap/></l><l/><l n="27" xml:id="spp-189-1401-line-27"><gap/></l><l/><l n="28" xml:id="spp-189-1401-line-28"><gap/></l><l/><l n="29" xml:id="spp-189-1401-line-29"><gap/></l><l/><l n="30" xml:id="spp-189-1401-line-30"><gap/></l><l/><l n="31" xml:id="spp-189-1401-line-31"><gap/></l><l/><l n="32" xml:id="spp-189-1401-line-32"><gap/></l><l/><l n="33" xml:id="spp-189-1401-line-33"><gap/></l><l/><l n="34" xml:id="spp-189-1401-line-34"><gap/></l><l/><l n="35" xml:id="spp-189-1401-line-35"><gap/></l><l/><l n="36" xml:id="spp-189-1401-line-36"><gap/></l><l/><l n="37" xml:id="spp-189-1401-line-37"><gap/></l><l/><l n="38" xml:id="spp-189-1401-line-38"><gap/></l><l/><l n="39" xml:id="spp-189-1401-line-39"><gap/></l><l/><l n="40" xml:id="spp-189-1401-line-40"><gap/></l><l/><l n="41" xml:id="spp-189-1401-line-41"><gap/></l><l/><l n="42" xml:id="spp-189-1401-line-42"><gap/></l><l/><l n="43" xml:id="spp-189-1401-line-43"><gap/></l><l/><l n="44" xml:id="spp-189-1401-line-44"><gap/></l><l/><l n="45" xml:id="spp-189-1401-line-45"><gap/></l><l/><l n="46" xml:id="spp-189-1401-line-46"><gap/></l><l/><l n="47" xml:id="spp-189-1401-line-47"><gap/></l><l/><l n="48" xml:id="spp-189-1401-line-48"><gap/></l><l/><l n="49" xml:id="spp-189-1401-line-49"><gap/></l><l/><l n="50" xml:id="spp-189-1401-line-50"><gap/></l><l/><l n="51" xml:id="spp-189-1401-line-51"><gap/></l><l/><l n="52" xml:id="spp-189-1401-line-52"><gap/></l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

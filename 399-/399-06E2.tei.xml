@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Clever T<hi rend="SMALL-CAPS">OM </hi>C<hi rend="SMALL-CAPS">LINCH</hi> going to be hanged.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-399-06E2-footnote-1 #spp-399-06E2-line-16"/>
+          <link target="#spp-399-06E2-footnote-2 #spp-399-06E2-line-17"/>
+        </linkGrp>
+        <div n="399-06E2"><head type="note" n="1" xml:id="spp-399-06E2-headnote-1"><lg n="1" xml:id="spp-399-06E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-399-06E2-headnote-1-line-group-1-line-1">Written in the year 1727.&#13;</l></lg></head><head type="note" n="2" xml:id="spp-399-06E2-headnote-2"><lg n="1" xml:id="spp-399-06E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-399-06E2-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-399-06E2-headnote-3"><lg n="1" xml:id="spp-399-06E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-399-06E2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-399-06E2-line-1"><hi rend="display-initial">A</hi>S clever Tom Clinch, while the rabble was bawling,</l><l/><l n="2" xml:id="spp-399-06E2-line-2">Rode stately through Holbourn to die in his calling,</l><l/><l n="3" xml:id="spp-399-06E2-line-3">He stopt at the George for a bottle of sack,</l><l/><l n="4" xml:id="spp-399-06E2-line-4">And promis'd to pay for it when he came back.</l><l/><l n="5" xml:id="spp-399-06E2-line-5">His waistcoat, and stockings, and breeches were white;</l><l/><l n="6" xml:id="spp-399-06E2-line-6">His cap had a new cherry riband to tye't.</l><l/><l n="7" xml:id="spp-399-06E2-line-7">The maids to the doors and the balconies ran,</l><l/><l n="8" xml:id="spp-399-06E2-line-8">And said, Lack-a-day! he's a proper young man.</l><l/><l n="9" xml:id="spp-399-06E2-line-9">But as from the windows the ladies he spy'd,</l><l/><l n="10" xml:id="spp-399-06E2-line-10">Like a beau in the box, he bow'd low on each side;</l><l/><l n="11" xml:id="spp-399-06E2-line-11">And when his last speech the loud hawkers did cry,</l><l/><l n="12" xml:id="spp-399-06E2-line-12">He swore from his cart, it was all a damn'd lie.</l><l/><l n="13" xml:id="spp-399-06E2-line-13">The hangman for pardon fell down on his knee;</l><l/><l n="14" xml:id="spp-399-06E2-line-14">Tom gave him a kick in the guts for his fee:</l><l/><l n="15" xml:id="spp-399-06E2-line-15">Then said, I must speak to the people a little,</l><l/><l n="16" xml:id="spp-399-06E2-line-16">But I'll see you all damn'd before I will <hi rend="underline">whittle</hi><ref target="#spp-399-06E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-399-06E2-footnote-1">A cant word for confessing at the gallows.</note>.</l><l/><l n="17" xml:id="spp-399-06E2-line-17">My honest friend Wild<ref target="#spp-399-06E2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-399-06E2-footnote-2">Jonathan Wild, the noted thief-catcher, under-keeper of Newgate, who was hanged for receiving stolen goods.</note>, may he long hold his place,</l><l/><l n="18" xml:id="spp-399-06E2-line-18">He lengthen'd my life with a whole year of grace.</l><l/><l n="19" xml:id="spp-399-06E2-line-19">Take courage, dear comrades, and be not afraid,</l><l/><l n="20" xml:id="spp-399-06E2-line-20">Nor slip this occasion to follow your trade;</l><l/><l n="21" xml:id="spp-399-06E2-line-21">My conscience is clear, and my spirits are calm,</l><l/><l n="22" xml:id="spp-399-06E2-line-22">And thus I go off without pray'r-book or psalm;</l><l/><l n="23" xml:id="spp-399-06E2-line-23">Then follow the practice of clever Tom Clinch,</l><l/><l n="24" xml:id="spp-399-06E2-line-24">Who hung like a hero, and never would flinch.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

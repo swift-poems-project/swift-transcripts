@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To STELLA. By the same.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M40471H1" type="poem"><head type="note" n="1" xml:id="spp-M40471H1-headnote-1"><lg n="1" xml:id="spp-M40471H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M40471H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-M40471H1-headnote-2"><lg n="1" xml:id="spp-M40471H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M40471H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M40471H1-headnote-3"><lg n="1" xml:id="spp-M40471H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M40471H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-M40471H1-line-1"><hi rend="black-letter">S</hi><hi rend="underline">TELLA</hi>, when we your beauties trace,How easily we find,</l><l n="2" xml:id="spp-M40471H1-line-2"> That Nature, when she form'd your face,But copied from your mind:</l><l n="3" xml:id="spp-M40471H1-line-3"> And, lest your form should make you vain,She wisely did provide</l><l n="4" xml:id="spp-M40471H1-line-4"> Superior Beauty, both to painAnd moderate your pride.</l><l n="5" xml:id="spp-M40471H1-line-5"> Resolving that no vice should spoilWhat she so well design'd,</l><l n="6" xml:id="spp-M40471H1-line-6"> She wisely made your face a foilTo your more lovely mind.M40471H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

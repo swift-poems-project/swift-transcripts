@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>* AY AND NO:<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-R56506H1-footnote-1 #spp-R56506H1-line-2"/>
+          <link target="#spp-R56506H1-footnote-2 #spp-R56506H1-line-18"/>
+        </linkGrp>
+        <div n="R56506H1" type="poem"><head type="note" n="1" xml:id="spp-R56506H1-headnote-1"><lg n="1" xml:id="spp-R56506H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-R56506H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-R56506H1-headnote-2"><lg n="1" xml:id="spp-R56506H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-R56506H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-R56506H1-headnote-3"><lg n="1" xml:id="spp-R56506H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-R56506H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-R56506H1-line-1"><hi rend="display-initial">I</hi>N fable all things hold discourse;</l><l n="2" xml:id="spp-R56506H1-line-2"> Then <hi rend="underline">words</hi>, no doubt, must talk of course.Once on a time, near <hi rend="underline">Channel-row</hi><ref target="#spp-R56506H1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-R56506H1-footnote-1"><hi rend="underline">Channel-row</hi> is a dirty street near the parliament-house, <hi rend="underline">Westminster</hi>.</note>,</l><l n="3" xml:id="spp-R56506H1-line-3"> Two hostile adverbs, <hi rend="underline">ay</hi> and <hi rend="underline">no</hi>,</l><l n="4" xml:id="spp-R56506H1-line-4"> Were hast'ning to the field of fight,</l><l n="5" xml:id="spp-R56506H1-line-5"> And front to front stood opposite.</l><l n="6" xml:id="spp-R56506H1-line-6"> Before each gen'ral join'd the van,<hi rend="underline">Ay</hi>, the more courteous knight, began:Stop, peevish particle, beware!</l><l n="7" xml:id="spp-R56506H1-line-7"> I'm told you are not such a bear,</l><l n="8" xml:id="spp-R56506H1-line-8"> But sometimes <hi rend="underline">yield</hi>, when <hi rend="underline">offer'd fair</hi>.</l><l n="9" xml:id="spp-R56506H1-line-9"> Suffer yon' folks a while to tattle;</l><l n="10" xml:id="spp-R56506H1-line-10"> 'Tis <hi rend="underline">we</hi> who must decide the battle.</l><l n="11" xml:id="spp-R56506H1-line-11"> Whene'er we war on yonder stage</l><l n="12" xml:id="spp-R56506H1-line-12"> With various fate and equal rage,</l><l n="13" xml:id="spp-R56506H1-line-13"> The nation trembles at each blow,</l><l n="14" xml:id="spp-R56506H1-line-14"> That <hi rend="underline">no</hi> gives <hi rend="underline">ay</hi>, and <hi rend="underline">ay</hi> gives <hi rend="underline">no</hi>:</l><l n="15" xml:id="spp-R56506H1-line-15"> Yet in expensive long contention</l><l n="16" xml:id="spp-R56506H1-line-16"> We gain nor office, grant, or pension:</l><l n="17" xml:id="spp-R56506H1-line-17"> Why then shou'd <hi rend="underline">kinsfolks</hi> quarrel thus?</l><l n="18" xml:id="spp-R56506H1-line-18"> (For <hi rend="underline">two</hi> of <hi rend="underline">you</hi> make <hi rend="underline">one</hi> of <hi rend="underline">us</hi><ref target="#spp-R56506H1-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-R56506H1-footnote-2">In <hi rend="underline">English</hi> two negatives make an affirmative.</note>.)</l><l n="19" xml:id="spp-R56506H1-line-19"> To some wise statesman let us go,</l><l n="20" xml:id="spp-R56506H1-line-20"> Where each his <hi rend="underline">proper use</hi> may know:</l><l n="21" xml:id="spp-R56506H1-line-21"> He may admit two such commanders,</l><l n="22" xml:id="spp-R56506H1-line-22"> And make those wait who serv'd in <hi rend="underline">Flanders</hi>.</l><l n="23" xml:id="spp-R56506H1-line-23"> Let's quarter on a great man's tongue,</l><l n="24" xml:id="spp-R56506H1-line-24"> A treas'ry lord, not master <hi rend="underline">Y---g</hi>.</l><l n="25" xml:id="spp-R56506H1-line-25"> Obsequious at his high command<hi rend="underline">Ay</hi> shall march forth to tax the land.</l><l n="26" xml:id="spp-R56506H1-line-26"> Impeachments <hi rend="underline">no</hi> can best resist,</l><l n="27" xml:id="spp-R56506H1-line-27"> And <hi rend="underline">ay</hi> support the civil list:<hi rend="underline">Ay</hi> quick as <hi rend="underline">C<unclear>ae</unclear>sar</hi> wins the day;</l><l n="28" xml:id="spp-R56506H1-line-28"> And <hi rend="underline">no</hi>, like <hi rend="underline">Fabius</hi>, by delay.</l><l n="29" xml:id="spp-R56506H1-line-29"> Sometimes, in mutual sly disguise,</l><l n="30" xml:id="spp-R56506H1-line-30"> Let <hi rend="underline">ay's</hi> seem <hi rend="underline">no's</hi>, and <hi rend="underline">no's</hi> seem <hi rend="underline">I's</hi>;<hi rend="underline"/> be in courts denials meant,</l><l n="31" xml:id="spp-R56506H1-line-31"> Ay's</l><l n="32" xml:id="spp-R56506H1-line-32"> And <hi rend="underline">no's</hi> in bishops give consent.Thus <hi rend="underline">ay</hi> propos'd--- and for reply<hi rend="underline">No</hi> for the first time answer'd <hi rend="underline">I</hi>.</l><l n="33" xml:id="spp-R56506H1-line-33"> They parted with a thousand kisses,</l><l n="34" xml:id="spp-R56506H1-line-34"> And fight e'er since for <hi rend="underline">pay</hi>, like <hi rend="underline">Swisses</hi>.R56506H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

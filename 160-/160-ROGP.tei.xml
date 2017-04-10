@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">Atlas</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="160-ROGP" type="poem"><head type="note" n="1" xml:id="spp-160-ROGP-headnote-1"><lg n="1" xml:id="spp-160-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-160-ROGP-headnote-1-line-group-1-line-1">OR THE MINISTER OF STATE TO THE LORD TREASURER OXFORD</l></lg></head><head type="note" n="2" xml:id="spp-160-ROGP-headnote-2"><lg n="1" xml:id="spp-160-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-160-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-160-ROGP-headnote-3"><lg n="1" xml:id="spp-160-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-160-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-160-ROGP-line-1"> Atlas, we read in ancient song,&#13;</l><l n="2" xml:id="spp-160-ROGP-line-2"> Was so exceeding tall and strong,</l><l n="3" xml:id="spp-160-ROGP-line-3"> He bore the skies upon his back,</l><l n="4" xml:id="spp-160-ROGP-line-4"> Just as a pedlar does his pack;</l><l n="5" xml:id="spp-160-ROGP-line-5"> But, as a pedlar overpressed,</l><l n="6" xml:id="spp-160-ROGP-line-6"> Unloads upon a stall to rest;</l><l n="7" xml:id="spp-160-ROGP-line-7"> Or when he can no longer stand,</l><l n="8" xml:id="spp-160-ROGP-line-8"> Desires a friend to lend a hand;</l><l n="9" xml:id="spp-160-ROGP-line-9"> So Atlas, lest the ponderous spheres</l><l n="10" xml:id="spp-160-ROGP-line-10"> Should sink and fall about his ears,</l><l n="11" xml:id="spp-160-ROGP-line-11"> Got Hercules to bear the pile,</l><l n="12" xml:id="spp-160-ROGP-line-12"> That he might sit and rest awhile.</l><l n="13" xml:id="spp-160-ROGP-line-13"> Yet Hercules was not so strong,</l><l n="14" xml:id="spp-160-ROGP-line-14"> Nor could have borne it half so long.</l></lg><lg n="2" type="stanza"><l n="15" xml:id="spp-160-ROGP-line-15">Great statesmen are in this condition;&#13;</l><l n="16" xml:id="spp-160-ROGP-line-16"> And Atlas is a politician;</l><l n="17" xml:id="spp-160-ROGP-line-17"> A premier minister of state;</l><l n="18" xml:id="spp-160-ROGP-line-18"> Alcides, one of second rate.</l><l n="19" xml:id="spp-160-ROGP-line-19"> Suppose then Atlas ne'er so wise,</l><l n="20" xml:id="spp-160-ROGP-line-20"> Yet when the weight of kingdom lies</l><l n="21" xml:id="spp-160-ROGP-line-21"> Too long upon his single shoulders,</l><l n="22" xml:id="spp-160-ROGP-line-22"> Sink down he must, or find upholders.160-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

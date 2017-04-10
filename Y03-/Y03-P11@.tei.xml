@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE</title>
+        <title>
+          <lb/>
+          <lb/>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y03-P11@" type="poem"><head type="note" n="1" xml:id="spp-Y03-P11@-headnote-1"><lg n="1" xml:id="spp-Y03-P11@-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y03-P11@-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y03-P11@-headnote-2"><lg n="1" xml:id="spp-Y03-P11@-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y03-P11@-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y03-P11@-headnote-3"><lg n="1" xml:id="spp-Y03-P11@-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y03-P11@-headnote-3-line-group-1-line-1">Y03-P11@</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y03-P11@-line-1" rend="align(center)">Y03-P11@   1  I.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-Y03-P11@-line-2" rend="flush left align(center)"><hi rend="display-initial">T</hi>HE Life of MAN to represent,Y03-P11@   2  And turn it all to Ridicule,Y03-P11@   3  <hi rend="underline">Wit</hi> did a <hi rend="underline">Puppet-show</hi> invent,Y03-P11@   4  Where the <hi rend="underline">Chief Actor</hi> is a <hi rend="underline">Fool</hi>.Y03-P11@   5  II.</l></lg><lg n="3" type="stanza"><l n="3" xml:id="spp-Y03-P11@-line-3" rend="flush left align(center)">The <hi rend="underline">Gods</hi> of Old were Logs of Wood,Y03-P11@   6  And Worship was to <hi rend="underline">Puppets</hi> paid,Y03-P11@   7  In Antick Dress the <hi rend="underline">Idol</hi> stood,Y03-P11@   8  And <hi rend="underline">Priests</hi> and <hi rend="underline">People</hi> bow'd the Head.Y03-P11@   9  III.</l></lg><lg n="4" type="stanza"><l n="4" xml:id="spp-Y03-P11@-line-4" rend="flush left align(center)">No wonder then if <hi rend="underline">ART</hi> began,Y03-P11@   10  The simple Votaries to frame,Y03-P11@   11  To Shape in <hi rend="underline">Timber</hi> foolish Man,Y03-P11@   12  And consecrate the <hi rend="underline">Block</hi> to Fame.Y03-P11@   13  IV.</l></lg><lg n="5" type="stanza"><l n="5" xml:id="spp-Y03-P11@-line-5" rend="flush left align(center)">From hence Poetick Fancy learn'd,&#13;Y03-P11@   14  That Trees might rise from Human Forms,Y03-P11@   15  The Body to a Trunk be turn'd,Y03-P11@   16  And Branches issue from the Arms.Y03-P11@   17  V.</l></lg><lg n="6" type="stanza"><l n="6" xml:id="spp-Y03-P11@-line-6" rend="flush left align(center)">Thus <hi rend="underline">D<unclear>ae</unclear>dalus</hi> and <hi rend="underline">Ovid</hi> too,Y03-P11@   18  That <hi rend="underline">Man</hi>'s a <hi rend="underline">Blockhead</hi> have confest,Y03-P11@   19  <hi rend="underline">Powel</hi> and <hi rend="underline">Stretch</hi> the Hint pursue,Y03-P11@   20  Life is a <hi rend="underline">Farce</hi>, the World a Jest.Y03-P11@   21  VI.</l></lg><lg n="7" type="stanza"><l n="7" xml:id="spp-Y03-P11@-line-7" rend="flush left align(center)">The same great Truth <hi rend="underline">South-Sea</hi> has prov'dY03-P11@   22  On that fam'd <hi rend="underline">Theatre</hi>, the <hi rend="underline">Ally</hi>,Y03-P11@   23  Where Thousands by <hi rend="underline">Directors</hi> mov'dY03-P11@   24  Are now sad Monuments of Folly.Y03-P11@   25  VII.</l></lg><lg n="8" type="stanza"><l n="8" xml:id="spp-Y03-P11@-line-8" rend="flush left align(center)">What <hi rend="underline">Momus</hi> was of old to <hi rend="underline">Jove</hi>Y03-P11@   26  The same a <hi rend="underline">Harlequin</hi> is now,Y03-P11@   27  The Former was <hi rend="underline">Buffoon</hi> aboveY03-P11@   28  The Latter is a <hi rend="underline">Punch</hi> below,Y03-P11@   29  VIII.</l></lg><lg n="9" type="stanza"><l n="9" xml:id="spp-Y03-P11@-line-9" rend="flush left align(center)">This Fleeting-Scene is but a Stage,&#13;Y03-P11@   30  Where various Images appear,Y03-P11@   31  In different Parts of Youth and AgeY03-P11@   32  Alike the <hi rend="underline">Prince</hi> and <hi rend="underline">Peasant</hi> share.Y03-P11@   33  IX.</l></lg><lg n="10" type="stanza"><l n="10" xml:id="spp-Y03-P11@-line-10" rend="flush left align(center)">Some draw our Eyes by being Great,&#13;Y03-P11@   34  False Pomp conceals mere Wood within,Y03-P11@   35  And <hi rend="underline">Legislators</hi> rang'd in StateY03-P11@   36  Are oft but Wisdom in <hi rend="underline">Machine</hi>.Y03-P11@   37  X.</l></lg><lg n="11" type="stanza"><l n="11" xml:id="spp-Y03-P11@-line-11" rend="flush left align(center)">A Stock may chance to wear a Crown,&#13;Y03-P11@   38  And <hi rend="underline">Timber</hi> as a Lord take Place,Y03-P11@   39  A <hi rend="underline">Statue</hi> may put on a FrownY03-P11@   40  And cheat us with a thinking Face.Y03-P11@   41  XI.</l></lg><lg n="12" type="stanza"><l n="12" xml:id="spp-Y03-P11@-line-12" rend="flush left align(center)">Others are blindly led away,&#13;Y03-P11@   42  And made to act for Ends unknown,Y03-P11@   43  By the mere Spring of Wires they playY03-P11@   44  And speak in Language not their own.Y03-P11@   45  XII.</l></lg><lg n="13" type="stanza"><l n="13" xml:id="spp-Y03-P11@-line-13" rend="flush left align(center)">Too oft, alas! a Scolding Wife&#13;Y03-P11@   46  Usurps a Jolly Fellow's Throne,Y03-P11@   47  And many drink the Cup of Life,Y03-P11@   48  Mix't and Embitter'd by a JOAN.Y03-P11@   49  XIII.</l></lg><lg n="14" type="stanza"><l n="14" xml:id="spp-Y03-P11@-line-14" rend="flush left align(center)">In short, whatever Men pursue&#13;Y03-P11@   50  Of Pleasure, Folly, War, or Love:Y03-P11@   51  This Mimick-Race brings all to View,Y03-P11@   52  Alike they dress, they talk, they move.Y03-P11@   53  XIV.</l></lg><lg n="15" type="stanza"><l n="15" xml:id="spp-Y03-P11@-line-15" rend="flush left align(center)">Go on, Great <hi rend="underline">Stretch</hi>, with Artful Hand,Y03-P11@   54  Mortals to please and to deride,Y03-P11@   55  And when Death breaks thy Vital Band,Y03-P11@   56  Thou shalt put on a <hi rend="underline">Puppet</hi>'s Pride.Y03-P11@   57  XV.</l></lg><lg n="16" type="stanza"><l n="16" xml:id="spp-Y03-P11@-line-16" rend="flush left align(center)">Thou shalt in Puny Wood be shewn,&#13;Y03-P11@   58  Thy Image shall preserve thy Fame,Y03-P11@   59  Ages to come thy Worth shall own,Y03-P11@   60  Point at thy Limbs, and tell thy Name.Y03-P11@   61  XVI.</l></lg><lg n="17" type="stanza"><l n="17" xml:id="spp-Y03-P11@-line-17" rend="flush left align(center)">Tell TOM he draws a <hi rend="underline">Farce</hi> in vain,Y03-P11@   62  Before he looks in Nature's Glass,Y03-P11@   63  <hi rend="underline">Puns</hi> cannot form a Witty Scene,Y03-P11@   64  Nor <hi rend="underline">Pedantry</hi> for Humour pass.Y03-P11@   65  XVII.</l></lg><lg n="18" type="stanza"><l n="18" xml:id="spp-Y03-P11@-line-18" rend="flush left align(center)">To make Men act as Senseless Wood,&#13;Y03-P11@   66  And chatter in a Mystick Strain,Y03-P11@   67  Is a mere Force on Flesh and Blood,Y03-P11@   68  And shews some Error in the Brain.Y03-P11@   69  XVIII.</l></lg><lg n="19" type="stanza"><l n="19" xml:id="spp-Y03-P11@-line-19" rend="flush left">He that wou'd thus refine on THEE,&#13;Y03-P11@   70  And turn thy Stage into a School,Y03-P11@   71  The jest of <hi rend="underline">Punch</hi> will ever be,Y03-P11@   72  And Stand confest the greater FOOL.Y03-P11@   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

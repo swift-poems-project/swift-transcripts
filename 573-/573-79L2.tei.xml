@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>HELTER SKELTER;</title>
+        <title>OR,</title>
+        <title>The H<hi rend="SMALL-CAPS">UE</hi> and C<hi rend="SMALL-CAPS">RY</hi> after the A<hi rend="SMALL-CAPS">TTORNIES</hi>,</title>
+        <title>upon their riding the C<hi rend="SMALL-CAPS">IRCUIT</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="573-79L2" type="poem"><head type="note" n="1" xml:id="spp-573-79L2-headnote-1"><lg n="1" xml:id="spp-573-79L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-573-79L2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-573-79L2-headnote-2"><lg n="1" xml:id="spp-573-79L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-573-79L2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-573-79L2-headnote-3"><lg n="1" xml:id="spp-573-79L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-573-79L2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-573-79L2-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><hi rend="display-initial">N</hi>OW the active young attornies</l><l n="2" xml:id="spp-573-79L2-line-2"> Briskly travel on their journies,<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l><l n="3" xml:id="spp-573-79L2-line-3"> Looking big as any giants,</l><l n="4" xml:id="spp-573-79L2-line-4"> On the horses of their clients,</l><l n="5" xml:id="spp-573-79L2-line-5"> Like so many little Mars's</l><l n="6" xml:id="spp-573-79L2-line-6"> With their tilters at their a──s,</l><l n="7" xml:id="spp-573-79L2-line-7"> Brazen-hilted, lately burnish'd,</l><l n="8" xml:id="spp-573-79L2-line-8"> And with harness-buckles furnish'd,</l><l n="9" xml:id="spp-573-79L2-line-9"> And with whips and spurs so neat,</l><l n="10" xml:id="spp-573-79L2-line-10"> And with jockey-coats compleat,</l><l n="11" xml:id="spp-573-79L2-line-11"> And with boots so very greasy,</l><l n="12" xml:id="spp-573-79L2-line-12"> And with saddles eke so easy,</l><l n="13" xml:id="spp-573-79L2-line-13"> And with bridles fine and gay,</l><l n="14" xml:id="spp-573-79L2-line-14"> Bridles borrow'd for a day,</l><l n="15" xml:id="spp-573-79L2-line-15"> Bridles destin'd far to roam,</l><l n="16" xml:id="spp-573-79L2-line-16"> Ah! never, never to come home.</l><l n="17" xml:id="spp-573-79L2-line-17"> And with hats so very big, Sir,</l><l n="18" xml:id="spp-573-79L2-line-18"> And with powder'd caps and wigs, Sir,</l><l n="19" xml:id="spp-573-79L2-line-19"> And with ruffles to be shewn,</l><l n="20" xml:id="spp-573-79L2-line-20"> Cambrick ruffles not their own,</l><l n="21" xml:id="spp-573-79L2-line-21"> And with Holland shirts so white,</l><l n="22" xml:id="spp-573-79L2-line-22"> Shirts becoming to the sight,</l><l n="23" xml:id="spp-573-79L2-line-23"> Shirts be-wrought with different letters,</l><l n="24" xml:id="spp-573-79L2-line-24"> As belonging to their betters,</l><l n="25" xml:id="spp-573-79L2-line-25"> With their pretty tinsel'd boxes,</l><l n="26" xml:id="spp-573-79L2-line-26"> Gotten from their dainty doxies,</l><l n="27" xml:id="spp-573-79L2-line-27"> And with rings so very trim,</l><l n="28" xml:id="spp-573-79L2-line-28"> Lately taken out of lim──</l><l n="29" xml:id="spp-573-79L2-line-29"> And with very little pence,</l><l n="30" xml:id="spp-573-79L2-line-30"> And as very little sense,</l><l n="31" xml:id="spp-573-79L2-line-31"> With some law, but little justice,</l><l n="32" xml:id="spp-573-79L2-line-32"> Having stolen from my hostess,</l><l n="33" xml:id="spp-573-79L2-line-33"> From the barber and the cutler,</l><l n="34" xml:id="spp-573-79L2-line-34"> Like the soldier from the sutler;</l><l n="35" xml:id="spp-573-79L2-line-35"> From the vintner and the taylor,</l><l n="36" xml:id="spp-573-79L2-line-36"> Like the felon from the jaylor;</l><l n="37" xml:id="spp-573-79L2-line-37"> Into this and t'other county,</l><l n="38" xml:id="spp-573-79L2-line-38"> Living on the public bounty;</l><l n="39" xml:id="spp-573-79L2-line-39"> Thorough town and thorough village,</l><l n="40" xml:id="spp-573-79L2-line-40"> All to plunder, all to pillage;</l><l n="41" xml:id="spp-573-79L2-line-41"> Thorough mountains, thorough vallies,</l><l n="42" xml:id="spp-573-79L2-line-42"> Thorough stinking lanes and alleys,</l><l n="43" xml:id="spp-573-79L2-line-43"> Some to──kiss with farmers spouses,</l><l n="44" xml:id="spp-573-79L2-line-44"> And make merry in their houses;</l><l n="45" xml:id="spp-573-79L2-line-45"> Some to──tumble country wenches</l><l n="46" xml:id="spp-573-79L2-line-46"> On their rushy-beds and benches,</l><l n="47" xml:id="spp-573-79L2-line-47"> And, if they begin a fray,</l><l n="48" xml:id="spp-573-79L2-line-48"> Draw their swords, and──run away;</l><l n="49" xml:id="spp-573-79L2-line-49"> All to murder equity,</l><l n="50" xml:id="spp-573-79L2-line-50"> And to take a double fee;</l><l n="51" xml:id="spp-573-79L2-line-51"> Till the people all are quiet,</l><l n="52" xml:id="spp-573-79L2-line-52"> And forget to broil and riot,</l><l n="53" xml:id="spp-573-79L2-line-53"> Low in pocket, cow'd in courage,</l><l n="54" xml:id="spp-573-79L2-line-54"> Safely glad to sup their porridge,</l><l n="55" xml:id="spp-573-79L2-line-55"> And Vacation·'s over──then,</l><l n="56" xml:id="spp-573-79L2-line-56"> Hey, for London town again.573-79L2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

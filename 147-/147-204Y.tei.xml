@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Windsor Prophecy.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="147-204Y" type="poem"><head type="note" n="1" xml:id="spp-147-204Y-headnote-1"><lg n="1" xml:id="spp-147-204Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-147-204Y-headnote-1-line-group-1-line-1">Printed in y<hi rend="sup">e</hi> year 1711.</l></lg></head><head type="note" n="2" xml:id="spp-147-204Y-headnote-2"><lg n="1" xml:id="spp-147-204Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-147-204Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-147-204Y-headnote-3"><lg n="1" xml:id="spp-147-204Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-147-204Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-147-204Y-line-1"> When a Holy black <hi rend="underline">Swede</hi>, y<hi rend="sup">e</hi><hi rend="underline">Son</hi> of <hi rend="underline">Bob</hi>,</l><l n="2" xml:id="spp-147-204Y-line-2"> With a <hi rend="underline">Saint</hi> at his chin, &amp; a <hi rend="underline">Seal</hi> in his fob;</l><l n="3" xml:id="spp-147-204Y-line-3"> Shall not see one new-year's day in y<hi rend="sup">t</hi> year,</l><l n="4" xml:id="spp-147-204Y-line-4"> Then let old <hi rend="underline">Englond</hi> make good cheer.</l><l n="5" xml:id="spp-147-204Y-line-5"> Windsor &amp; Bristow then shall be</l><l n="6" xml:id="spp-147-204Y-line-6"> Ioyned together in y<hi rend="sup">e</hi><hi rend="underline">Low-Country</hi>.</l><l n="7" xml:id="spp-147-204Y-line-7"> Then shall y<hi rend="sup">e</hi> tall black <hi rend="underline">Daventry bird</hi></l><l n="8" xml:id="spp-147-204Y-line-8"> Speak against Peace right many a word;</l><l n="9" xml:id="spp-147-204Y-line-9"> And some shall admire his coning witt;</l><l n="10" xml:id="spp-147-204Y-line-10"> For many good groats his tongue shall slitt:</l><l n="11" xml:id="spp-147-204Y-line-11"> But spight of y<hi rend="sup">e</hi>. <hi rend="underline">harpy</hi> y<hi rend="sup">t</hi><hi rend="underline">crawls on all four</hi>,</l><l n="12" xml:id="spp-147-204Y-line-12"> There shall be peace, pardie, &amp; war no more.</l><l n="13" xml:id="spp-147-204Y-line-13"> But <hi rend="underline">Englond</hi> must cry alack &amp; well a day,</l><l n="14" xml:id="spp-147-204Y-line-14"> If y<hi rend="sup">e</hi><hi rend="underline">Stick</hi> be taken from y<hi rend="sup">e</hi><hi rend="underline">Dead Sea</hi>.</l><l n="15" xml:id="spp-147-204Y-line-15"> And dear <hi rend="underline">Englond</hi>, if ought I understond,</l><l n="16" xml:id="spp-147-204Y-line-16"> Beware of <hi rend="underline">Carrots</hi> from <hi rend="underline">Northumberlond.</hi> sown <hi rend="underline">Thyn</hi> a deep root may get,</l><l n="17" xml:id="spp-147-204Y-line-17"> Carrots</l><l n="18" xml:id="spp-147-204Y-line-18"> If so be they are in <hi rend="underline">Sommer-set</hi>.</l><l n="19" xml:id="spp-147-204Y-line-19"> Their <hi rend="underline">Conings-mark</hi> thou, for I have been told,</l><l n="20" xml:id="spp-147-204Y-line-20"> They <hi rend="underline">assassine</hi> when young, &amp; <hi rend="underline">poyson</hi> when old.</l><l n="21" xml:id="spp-147-204Y-line-21"> Root out these <hi rend="underline">Carrots</hi>, O thou, whose <hi rend="underline">name</hi></l><l n="22" xml:id="spp-147-204Y-line-22"> Is backwards &amp; forwards always y<hi rend="sup">e</hi> same.</l><l n="23" xml:id="spp-147-204Y-line-23"> And keep close to Thee always y<hi rend="sup">t</hi><hi rend="underline">name</hi>,</l><l n="24" xml:id="spp-147-204Y-line-24"> Which backwards &amp; forwards is almost y<hi rend="sup">e</hi> same.</l><l n="25" xml:id="spp-147-204Y-line-25"> And <hi rend="underline">Englond</hi> wouldst thou be happy still,</l><l n="26" xml:id="spp-147-204Y-line-26"> Bury those <hi rend="underline">Carrots</hi> under a hill.147-204Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

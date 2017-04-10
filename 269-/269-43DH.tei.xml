@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="269-43DH" type="poem"><head type="note" n="1" xml:id="spp-269-43DH-headnote-1"><lg n="1" xml:id="spp-269-43DH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-269-43DH-headnote-1-line-group-1-line-1">IRELAND.</l></lg></head><head type="note" n="2" xml:id="spp-269-43DH-headnote-2"><lg n="1" xml:id="spp-269-43DH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-269-43DH-headnote-2-line-group-1-line-1">Belfast, Aug. 16. The following Lines on the late Countess of Donegal, shewing the Sentiments of so good a Judge of Merit as Dean Swift, were published here upon her Ladyship's Interment in her Family Vault at Carrickfergus last Wednesday.</l></lg></head><head type="note" n="3" xml:id="spp-269-43DH-headnote-3"><lg n="1" xml:id="spp-269-43DH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-269-43DH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-269-43DH-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> Unerring Heav'n, with bounteous Hand,&#13;</l><l n="2" xml:id="spp-269-43DH-line-2"> Has form'd a Model for your Land,</l><l n="3" xml:id="spp-269-43DH-line-3"> Whom Jove endow'd with ev'ry Grace:</l><l n="4" xml:id="spp-269-43DH-line-4"> The Glory of the Granard Race;</l><l n="5" xml:id="spp-269-43DH-line-5"> Now destin'd by the Pow'rs divine,</l><l n="6" xml:id="spp-269-43DH-line-6"> The Blessing of another Line.</l><l n="7" xml:id="spp-269-43DH-line-7"> Then, would you paint a matchless Dame,</l><l n="8" xml:id="spp-269-43DH-line-8"> Whom you'd consign to endless Fame?</l><l n="9" xml:id="spp-269-43DH-line-9"> Invoke not Cytharea's Aid,</l><l n="10" xml:id="spp-269-43DH-line-10"> Nor borrow from the blue-eye'd Maid,</l><l n="11" xml:id="spp-269-43DH-line-11"> Nor need you on the Graces call;────</l><l n="12" xml:id="spp-269-43DH-line-12"> Take Qualities from <hi rend="underline">Donegal</hi>.269-43DH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="540-001E" type="poem"><head type="note" n="1" xml:id="spp-540-001E-headnote-1"><lg n="1" xml:id="spp-540-001E-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-540-001E-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-540-001E-headnote-2"><lg n="1" xml:id="spp-540-001E-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-540-001E-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-540-001E-headnote-3"><lg n="1" xml:id="spp-540-001E-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-540-001E-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-540-001E-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> With Favor and fortune Fastidiously blest&#13;</l><l n="2" xml:id="spp-540-001E-line-2"> He's loud in his laugh, and hes Coarse in his Jest</l><l n="3" xml:id="spp-540-001E-line-3"> Of Favor and Fortune unmerited Vain</l><l n="4" xml:id="spp-540-001E-line-4"> A Sharper in Trifles, a Dupe in the Main.</l><l n="5" xml:id="spp-540-001E-line-5"> Atchieving of nothing, still promising Wonders</l><l n="6" xml:id="spp-540-001E-line-6"> By dint of experience Improving in blunders.</l><l n="7" xml:id="spp-540-001E-line-7"> Oppressing true Merit, Exalting the case,</l><l n="8" xml:id="spp-540-001E-line-8"> And selling his Country to purchase his Place.</l><l n="9" xml:id="spp-540-001E-line-9"> A Jobber of Stocks by retailing false News</l><l n="10" xml:id="spp-540-001E-line-10"> A Prater at Court in the Stile of the Stews</l><l n="11" xml:id="spp-540-001E-line-11"> Of Virtue and worth by profession a Giber</l><l n="12" xml:id="spp-540-001E-line-12"> Of Juries and Senate the Bully and Briber.</l><l n="13" xml:id="spp-540-001E-line-13"> Tho' I name not the Wretch You know who I mean,</l><l n="14" xml:id="spp-540-001E-line-14"> 'Tis the Cur Dog of Brittain, and Spaniel of <hi rend="underline">Spain</hi><gap/>540-001E   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

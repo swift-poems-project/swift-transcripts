@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-978-15W1-title-1">THE DEAN TO THOMAS SHERIDAN. <ref target="#spp-978-15W1-footnote-title-1">1</ref><note n="1" xml:id="spp-978-15W1-footnote-title-1" place="foot">Whimsical Medley, p. 360.</note></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-978-15W1-footnote-title-1 #spp-978-15W1-title-1"/>
+          <link target="#spp-978-15W1-footnote-1 #spp-978-15W1-line-20"/>
+          <link target="#spp-978-15W1-footnote-2 #spp-978-15W1-line-21"/>
+        </linkGrp>
+        <div n="978-15W1" type="poem"><head type="note" n="1" xml:id="spp-978-15W1-headnote-1"><lg n="1" xml:id="spp-978-15W1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-978-15W1-headnote-1-line-group-1-line-1">S<hi rend="SMALL-CAPS">IR</hi>,</l></lg></head><head type="note" n="2" xml:id="spp-978-15W1-headnote-2"><lg n="1" xml:id="spp-978-15W1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-978-15W1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-978-15W1-headnote-3"><lg n="1" xml:id="spp-978-15W1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-978-15W1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-978-15W1-line-1"> W<hi rend="SMALL-CAPS">HEN</hi> I saw you to-day, as I went with Lord Anglesey,</l><l n="2" xml:id="spp-978-15W1-line-2"> Lord, said I, who's that parson, how awkwardly dangles he!</l><l n="3" xml:id="spp-978-15W1-line-3"> When whip you trot up, without minding your betters,</l><l n="4" xml:id="spp-978-15W1-line-4"> To the very coach side, and threaten your letters.Is the poison [and dagger] you boast in your jaws, trow?</l><l n="5" xml:id="spp-978-15W1-line-5"> Are you still in your cart with <hi rend="underline">convitia ex plaustro</hi>?</l><l n="6" xml:id="spp-978-15W1-line-6"> But to scold is your trade, which I soon should be foil'd in,</l><l n="7" xml:id="spp-978-15W1-line-7"> For scolding is just <hi rend="underline">quasi diceres</hi>──school-din:</l><l n="8" xml:id="spp-978-15W1-line-8"> And I think I may say, you could many good shillings get,</l><l n="9" xml:id="spp-978-15W1-line-9"> Were you drest like a bawd, and sold oysters at Billingsgate:</l><l n="10" xml:id="spp-978-15W1-line-10"> But coach it or cart it, I'd have you know, sirrah,</l><l n="11" xml:id="spp-978-15W1-line-11"> I'll write, tho' I'm forced to write in a wheel-barrow:</l><l n="12" xml:id="spp-978-15W1-line-12"> Nay, hector and swagger, you'll still find me stanch,</l><l n="13" xml:id="spp-978-15W1-line-13"> And you and your cart shall give me <hi rend="underline">carte blanche</hi>.</l><l n="14" xml:id="spp-978-15W1-line-14"> Since you write in a cart, keep it <hi rend="underline">tecta et sarta</hi>,</l><l n="15" xml:id="spp-978-15W1-line-15"> 'Tis all you have for it, 'tis your best Magna Carta;</l><l n="16" xml:id="spp-978-15W1-line-16"> And I love you so well, as I told you long ago,</l><l n="17" xml:id="spp-978-15W1-line-17"> That I'll ne'er give my vote for <hi rend="underline">Delenda Cart-ago</hi>.</l><l n="18" xml:id="spp-978-15W1-line-18"> Now you write from your cellar, I find out your art,</l><l n="19" xml:id="spp-978-15W1-line-19"> Your rhyme as folks fence, in <hi rend="underline">tierce</hi> and in <hi rend="underline">cart</hi>:</l><l n="20" xml:id="spp-978-15W1-line-20"> Your ink is your poison, <ref target="#spp-978-15W1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-978-15W1-footnote-1">Viz. ut tu pr<unclear>ae</unclear>dicas.</note> your pen is what not;</l><l n="21" xml:id="spp-978-15W1-line-21"> Your ink is your drink, <ref target="#spp-978-15W1-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-978-15W1-footnote-2">Viz. ut ego assero verius.</note> your pen is your pot.</l><l n="22" xml:id="spp-978-15W1-line-22"> To my goddess Melpomene, pride of her sex,</l><l n="23" xml:id="spp-978-15W1-line-23"> I gave, as you beg, your most humble respects:</l><l n="24" xml:id="spp-978-15W1-line-24"> The rest of your compliment I dare not tell her,</l><l n="25" xml:id="spp-978-15W1-line-25"> For she never descends so low as the cellar;</l><l n="26" xml:id="spp-978-15W1-line-26"> But before you can put yourself under her banners,</l><l n="27" xml:id="spp-978-15W1-line-27"> She declares from her throne, you must learn better manners.</l><l n="28" xml:id="spp-978-15W1-line-28"> If once in your cellar my Ph<unclear>oe</unclear>bus should shine,</l><l n="29" xml:id="spp-978-15W1-line-29"> I tell you I'd not give a fig for your wine;</l><l n="30" xml:id="spp-978-15W1-line-30"> So I'll leave him behind, for I certainly know it,</l><l n="31" xml:id="spp-978-15W1-line-31"> What he ripens above ground, he sours below it.</l><l n="32" xml:id="spp-978-15W1-line-32"> But why should we fight thus, my partner so dear,</l><l n="33" xml:id="spp-978-15W1-line-33"> With three hundred and sixty-five poems a-year?</l><l n="34" xml:id="spp-978-15W1-line-34"> Let's quarrel no longer, since Dan and George Rochfort</l><l n="35" xml:id="spp-978-15W1-line-35"> Will laugh in their sleeves: I can tell you they watch for't.</l><l n="36" xml:id="spp-978-15W1-line-36"> Then George will rejoice, and Dan will sing high-day:</l><l n="37" xml:id="spp-978-15W1-line-37" rend="flush right"> Hoc Ithacus velit, et magni mercentur Atridae.J<hi rend="SMALL-CAPS">ON</hi>. S<hi rend="SMALL-CAPS">WIFT</hi>.</l></lg><lg n="2" type="stanza"><l n="38" xml:id="spp-978-15W1-line-38">Written, signed and sealed, five minutes and eleven seconds after the receipt of yours, allowing seven seconds for sealing and superscribing, from my bed-side, just eleven minutes after eleven, Sept. 15, 1718.&#13;</l></lg><lg n="3" type="stanza"><l n="39" xml:id="spp-978-15W1-line-39"><gap/><gap/><gap/><gap/><gap/> Erratum in your last, l. antepenult, pro “fear a <hi rend="underline">Dun</hi>,” lege “fear a <hi rend="underline">Dan</hi>:” ita omnes MSS. quos ego legi, et ita magis congruum tam sensui quam veritati.<gap/><gap/><gap/><gap/>978-15W1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

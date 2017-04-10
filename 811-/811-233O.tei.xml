@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the word, brother Protestants, and Fellow<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-811-233O-footnote-1 #spp-811-233O-line-43"/>
+        </linkGrp>
+        <div n="811-233O" type="poem"><head type="note" n="1" xml:id="spp-811-233O-headnote-1"><lg n="1" xml:id="spp-811-233O-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-811-233O-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-811-233O-headnote-2"><lg n="1" xml:id="spp-811-233O-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-811-233O-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-811-233O-headnote-3"><lg n="1" xml:id="spp-811-233O-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-811-233O-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-811-233O-line-1"> An Inundation, says the fable,&#13;</l><l n="2" xml:id="spp-811-233O-line-2"> O'erflow'd a farmer's barn and stable;</l><l n="3" xml:id="spp-811-233O-line-3"> Whole ricks of hay and stacks of Corn</l><l n="4" xml:id="spp-811-233O-line-4"> Were down the Sudden Current borne,</l><l n="5" xml:id="spp-811-233O-line-5"> While things of heterogeneous kind</l><l n="6" xml:id="spp-811-233O-line-6"> Together float with tyde and wind:</l><l n="7" xml:id="spp-811-233O-line-7"> The generous wheat forgot his pride,</l><l n="8" xml:id="spp-811-233O-line-8"> And sail'd with litter side by side,</l><l n="9" xml:id="spp-811-233O-line-9"> Uniting all, to shew their amity,</l><l n="10" xml:id="spp-811-233O-line-10"> As in a general calamity;</l><l n="11" xml:id="spp-811-233O-line-11"> A ball of new-dropt horses dung,</l><l n="12" xml:id="spp-811-233O-line-12"> Mingling with apples in the throng,</l><l n="13" xml:id="spp-811-233O-line-13"> Said to the quippin plump and prim</l><l n="14" xml:id="spp-811-233O-line-14"> See, brothers! how we apples swim.</l><l n="15" xml:id="spp-811-233O-line-15"> Thus Lamb, renown'd for Cutting Corns,</l><l n="16" xml:id="spp-811-233O-line-16"> An offerd fee from Ratcliff scorns;</l><l n="17" xml:id="spp-811-233O-line-17"> Not for the world! we doctors, brothers,</l><l n="18" xml:id="spp-811-233O-line-18"> Must take no fees from one another.</l><l n="19" xml:id="spp-811-233O-line-19"> Thus to a dean some Curate sloven</l><l n="20" xml:id="spp-811-233O-line-20"> Subscribes, dear Sir your brother loving.</l><l n="21" xml:id="spp-811-233O-line-21"> Thus all y<hi rend="sup">e</hi> footmen, shoeboys, porters,</l><l n="22" xml:id="spp-811-233O-line-22"> About Saint Iames's cry we Courters!</l><l n="23" xml:id="spp-811-233O-line-23"> Thus H──ce in y<hi rend="sup">e</hi> house will prate,</l><l n="24" xml:id="spp-811-233O-line-24"> S<hi rend="sup">ir</hi>────we ministers of state.</l><l n="25" xml:id="spp-811-233O-line-25"> Thus at the bar y<hi rend="sup">e</hi> booby B────,</l><l n="26" xml:id="spp-811-233O-line-26"> Tho' half a Crown out-pays his sweats worth,</l><l n="27" xml:id="spp-811-233O-line-27"> Who knows in·in law nor text nor Margent,</l><l n="28" xml:id="spp-811-233O-line-28"> Calls Singleton his brother Sergeant:</l><l n="29" xml:id="spp-811-233O-line-29"> And thus fanatick saints tho' neither in</l><l n="30" xml:id="spp-811-233O-line-30"> Doctrine or discipline our brethren,</l><l n="31" xml:id="spp-811-233O-line-31"> Are brothers protestants and christians,</l><l n="32" xml:id="spp-811-233O-line-32"> As much as Hebrews &amp; plilistians.</l><l n="33" xml:id="spp-811-233O-line-33"> But in no other sense than nature</l><l n="34" xml:id="spp-811-233O-line-34"> Hath made a rat our fellow creature.</l><l n="35" xml:id="spp-811-233O-line-35"> Lice from your body Suck their food,──</l><l n="36" xml:id="spp-811-233O-line-36"> But is a louse your flesh and blood?</l><l n="37" xml:id="spp-811-233O-line-37"> Tho' born of human filth and sweat, it</l><l n="38" xml:id="spp-811-233O-line-38"> May be said man did beget it;</l><l n="39" xml:id="spp-811-233O-line-39"> But maggots in your nose &amp; chin</l><l n="40" xml:id="spp-811-233O-line-40"> As well may claim you for their kin.</l><l n="41" xml:id="spp-811-233O-line-41"> Yet criticks may object, why not?</l><l n="42" xml:id="spp-811-233O-line-42"> Since lice are brethren to a Sc──t.</l><l n="43" xml:id="spp-811-233O-line-43"> Which made our Swarm of Sects determine<ref target="#spp-811-233O-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-811-233O-footnote-1">alluding to what is advanc'd in the Presbyterian<del>s off the test</del> plea of merit for taking of the Test in Ireland impartially examin'd.</note> Employments for their brother Vermin.</l><l n="44" xml:id="spp-811-233O-line-44"> But be they Irish, English, Scottish,</l><l n="45" xml:id="spp-811-233O-line-45"> What protestant can be so Sottish,</l><l n="46" xml:id="spp-811-233O-line-46"> While o'er the church these clouds are gathering,</l><l n="47" xml:id="spp-811-233O-line-47"> To call a swarm of lice their brethren?</l><l n="48" xml:id="spp-811-233O-line-48"> As Moses by divine advice</l><l n="49" xml:id="spp-811-233O-line-49"> In Egypt turn'd the dust to lice,</l><l n="50" xml:id="spp-811-233O-line-50"> And as our sects by all descriptions,</l><l n="51" xml:id="spp-811-233O-line-51"> Have hearts more harden'd than Egyptians;</l><l n="52" xml:id="spp-811-233O-line-52"> As from y<hi rend="sup">e</hi> trodden dust they spring,</l><l n="53" xml:id="spp-811-233O-line-53"> And turn'd to lice infest the King;</l><l n="54" xml:id="spp-811-233O-line-54"> For pity's sake it would be just,</l><l n="55" xml:id="spp-811-233O-line-55"> A rod should turn them back to dust.</l><l n="56" xml:id="spp-811-233O-line-56"> Let folks in high or holy stations</l><l n="57" xml:id="spp-811-233O-line-57"> Be proud of owning such relations,</l><l n="58" xml:id="spp-811-233O-line-58"> Let courtiers hug them to their bosom,</l><l n="59" xml:id="spp-811-233O-line-59"> As if they were afraid to lose 'em;</l><l n="60" xml:id="spp-811-233O-line-60"> While I with humble job had rather</l><l n="61" xml:id="spp-811-233O-line-61"> Say to Corruption thou·'rt my father:</l><l n="62" xml:id="spp-811-233O-line-62"> For he that has so littl wit</l><l n="63" xml:id="spp-811-233O-line-63"> To nourish vermin, may be bit.811-233O   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

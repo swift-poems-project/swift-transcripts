@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Upon a Nettle</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X85-600L" type="poem"><head type="note" n="1" xml:id="spp-X85-600L-headnote-1"><lg n="1" xml:id="spp-X85-600L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X85-600L-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X85-600L-headnote-2"><lg n="1" xml:id="spp-X85-600L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X85-600L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X85-600L-headnote-3"><lg n="1" xml:id="spp-X85-600L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X85-600L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X85-600L-line-1"> A man w<hi rend="sup">th</hi> expence &amp; infinite Toyle</l><l n="2" xml:id="spp-X85-600L-line-2"> By planting &amp; dunging enobled his Soil</l><l n="3" xml:id="spp-X85-600L-line-3"> where fruits of y<hi rend="sup">e</hi>  best <unclear>the overtast</unclear> tast did invite</l><l n="4" xml:id="spp-X85-600L-line-4"> And uniform order still courted y<hi rend="sup">e</hi> Sight</l><l n="5" xml:id="spp-X85-600L-line-5"> No degenerate weed y<hi rend="sup">e</hi> ground did produce</l><l n="6" xml:id="spp-X85-600L-line-6"> But all things aforded for beauty &amp; use</l><l n="7" xml:id="spp-X85-600L-line-7"> Till from y<hi rend="sup">e</hi> Dunghill transplanted while yet but a seed</l><l n="8" xml:id="spp-X85-600L-line-8"> A Nettle rear'd up his inglorious head</l><l n="9" xml:id="spp-X85-600L-line-9"> The gardner would wisely have rooted him up</l><l n="10" xml:id="spp-X85-600L-line-10"> To stop y<hi rend="sup">e</hi> encrease of a barbarous Crop</l><l n="11" xml:id="spp-X85-600L-line-11"> But y<hi rend="sup">e</hi> Master forbad him &amp; after y<hi rend="sup">e</hi> fashion</l><l n="12" xml:id="spp-X85-600L-line-12"> of foolish good Nature &amp; blind Moderation</l><l n="13" xml:id="spp-X85-600L-line-13"> Forbore him thro pity &amp; chose y<hi rend="sup">e</hi> much rather</l><l n="14" xml:id="spp-X85-600L-line-14"> To ask him Some questions first how he came thither</l><l n="15" xml:id="spp-X85-600L-line-15"> Kind S<hi rend="sup">r</hi> quoth y<hi rend="sup">e</hi> Nettle a Stranger J come</l><l n="16" xml:id="spp-X85-600L-line-16"> a Wanderer thro conscience J relinquishd my Home</l><l n="17" xml:id="spp-X85-600L-line-17"> Cause I would not subscribe to a Mistery dark</l><l n="18" xml:id="spp-X85-600L-line-18"> That y<hi rend="sup">e</hi> N. of all Trees was y<hi rend="sup">e</hi> Jesuits Bark</l><l n="19" xml:id="spp-X85-600L-line-19"> An erroneous Tenet J know S<hi rend="sup">r</hi> that you</l><l n="20" xml:id="spp-X85-600L-line-20"> No more then my self will allow to be true</l><l n="21" xml:id="spp-X85-600L-line-21"> To you J for Refuge and sanctuary <unclear>del ?come</unclear>sue</l><l n="22" xml:id="spp-X85-600L-line-22"> There's none So renownd for compassion as you</l><l n="23" xml:id="spp-X85-600L-line-23"> and tho in some things J may differ from these</l><l n="24" xml:id="spp-X85-600L-line-24"> The rest of your fruitfull and beautifull Trees</l><l n="25" xml:id="spp-X85-600L-line-25"> as your digging &amp; dunging my nature much harms</l><l n="26" xml:id="spp-X85-600L-line-26"> and J cannot comply w<hi rend="sup">th</hi> your Garden in forms</l><l n="27" xml:id="spp-X85-600L-line-27"> Yet J and our family (after our fashion</l><l n="28" xml:id="spp-X85-600L-line-28"> will peaceably stick to our own Education</l><l n="29" xml:id="spp-X85-600L-line-29"> Be pleasd to allow us a place for to rest in</l><l n="30" xml:id="spp-X85-600L-line-30"> For y<hi rend="sup">e</hi> rest of your trees we will never molest them</l><l n="31" xml:id="spp-X85-600L-line-31"> a kind Shelter to me and protection aford</l><l n="32" xml:id="spp-X85-600L-line-32"> we'll do you no harm J give you my word</l><l n="33" xml:id="spp-X85-600L-line-33"> The good man was soon movd w<hi rend="sup">th</hi> a plausible Tale</l><l n="34" xml:id="spp-X85-600L-line-34"> So Fraud on good Nature does often prevail</l><l n="35" xml:id="spp-X85-600L-line-35"> He welcoms his guest gives him free toleration</l><l n="36" xml:id="spp-X85-600L-line-36"> Jn y<hi rend="sup">e</hi> midst of his garden to take up his Station</l><l n="37" xml:id="spp-X85-600L-line-37"> and into his Bosom does his enemy bring</l><l n="38" xml:id="spp-X85-600L-line-38"> He little suspected the Nettle could Sting</l><l n="39" xml:id="spp-X85-600L-line-39"> Till flush'd w<hi rend="sup">th</hi> Success &amp; Strength to be feard</l><l n="40" xml:id="spp-X85-600L-line-40"> around him a Numerous offspring he reard</l><l n="41" xml:id="spp-X85-600L-line-41"> Then the master grew sensible what he had done</l><l n="42" xml:id="spp-X85-600L-line-42"> And fain would have had his new Guest to be gone</l><l n="43" xml:id="spp-X85-600L-line-43"> But now 'twas too late to bid him turn out</l><l n="44" xml:id="spp-X85-600L-line-44"> a wellrooted possession allready was gott</l><l n="45" xml:id="spp-X85-600L-line-45"> The old Trees decayd and in their Room grew</l><l n="46" xml:id="spp-X85-600L-line-46"> a stubborn, rank, pestilent turbulent Crew</l><l n="47" xml:id="spp-X85-600L-line-47"> The master who first the young brood had admitted</l><l n="48" xml:id="spp-X85-600L-line-48"> They Stung like ungrates and left him unpityed</l><l n="49" xml:id="spp-X85-600L-line-49"> No help from mannuring or planting was found</l><l n="50" xml:id="spp-X85-600L-line-50"> The weeds had eat up y<hi rend="sup">e</hi> Heart of y<hi rend="sup">e</hi> Ground</l><l n="51" xml:id="spp-X85-600L-line-51"> Now all weeds are lett in and none they refuse</l><l n="52" xml:id="spp-X85-600L-line-52"> That would Joyne to opose y<hi rend="sup">e</hi> Good man of y<hi rend="sup">e</hi> House</l><l n="53" xml:id="spp-X85-600L-line-53"> Thus one nettle uncropt increas'd to such store</l><l n="54" xml:id="spp-X85-600L-line-54"> That was nothing but weeds which was Garden before<gap/><gap/><gap/><gap/><gap/><gap/>X85-600L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

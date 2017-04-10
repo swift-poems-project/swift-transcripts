@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>PHYLLIS;</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="222-14W2" type="poem"><head type="note" n="1" xml:id="spp-222-14W2-headnote-1"><lg n="1" xml:id="spp-222-14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-222-14W2-headnote-1-line-group-1-line-1">OR, THE PROGRESS OF LOVE. 1716.</l></lg></head><head type="note" n="2" xml:id="spp-222-14W2-headnote-2"><lg n="1" xml:id="spp-222-14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-222-14W2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-222-14W2-headnote-3"><lg n="1" xml:id="spp-222-14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-222-14W2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-222-14W2-line-1"> D<hi rend="SMALL-CAPS">ESPONDING</hi> Phyllis was endued</l><l n="2" xml:id="spp-222-14W2-line-2"> With every talent of a prude:</l><l n="3" xml:id="spp-222-14W2-line-3"> She trembled when a man drew near;</l><l n="4" xml:id="spp-222-14W2-line-4"> Salute her, and she turn'd her ear:</l><l n="5" xml:id="spp-222-14W2-line-5"> If o'er against her you were placed,</l><l n="6" xml:id="spp-222-14W2-line-6"> She durst not look above your waist:</l><l n="7" xml:id="spp-222-14W2-line-7"> She'd rather take you to her bed,</l><l n="8" xml:id="spp-222-14W2-line-8"> Than let you see her dress her head;</l><l n="9" xml:id="spp-222-14W2-line-9"> In church you hear her, through the crowd,</l><l n="10" xml:id="spp-222-14W2-line-10"> Repeat the absolution loud:</l><l n="11" xml:id="spp-222-14W2-line-11"> In church, secure behind her fan,</l><l n="12" xml:id="spp-222-14W2-line-12"> She durst behold that monster man:</l><l n="13" xml:id="spp-222-14W2-line-13"> There practised how to place her head,</l><l n="14" xml:id="spp-222-14W2-line-14"> And bite her lips to make them red;</l><l n="15" xml:id="spp-222-14W2-line-15"> Or, on the mat devoutly kneeling,</l><l n="16" xml:id="spp-222-14W2-line-16"> Would lift her eyes up to the ceiling,</l><l n="17" xml:id="spp-222-14W2-line-17"> And heave her bosom unaware,</l><l n="18" xml:id="spp-222-14W2-line-18"> For neighbouring beaux to see it bare.At length a lucky lover came,</l><l n="19" xml:id="spp-222-14W2-line-19"> And found admittance to the dame.</l><l n="20" xml:id="spp-222-14W2-line-20"> Suppose all parties now agreed,</l><l n="21" xml:id="spp-222-14W2-line-21"> The writings drawn, the lawyer feed,</l><l n="22" xml:id="spp-222-14W2-line-22"> The vicar and the ring bespoke:</l><l n="23" xml:id="spp-222-14W2-line-23"> Guess, how could such a match be broke?</l><l n="24" xml:id="spp-222-14W2-line-24"> See then what mortals place their bliss in!</l><l n="25" xml:id="spp-222-14W2-line-25"> Next morn betimes the bride was missing:</l><l n="26" xml:id="spp-222-14W2-line-26"> The mother scream'd, the father chid;</l><l n="27" xml:id="spp-222-14W2-line-27"> Where can this idle wench be hid?</l><l n="28" xml:id="spp-222-14W2-line-28"> No news of Phyl! the bridegroom came,</l><l n="29" xml:id="spp-222-14W2-line-29"> And thought his bride had skulk'd for shame;</l><l n="30" xml:id="spp-222-14W2-line-30"> Because her father used to say,</l><l n="31" xml:id="spp-222-14W2-line-31"> The girl had such a bashful way!Now John the butler must be sent</l><l n="32" xml:id="spp-222-14W2-line-32"> To learn the road that Phyllis went:</l><l n="33" xml:id="spp-222-14W2-line-33"> The groom was wish'd to saddle Crop;</l><l n="34" xml:id="spp-222-14W2-line-34"> For John must neither light nor stop,</l><l n="35" xml:id="spp-222-14W2-line-35"> But find her, wheresoe'er she fled,</l><l n="36" xml:id="spp-222-14W2-line-36"> And bring her back alive or dead.See here again the devil to do!</l><l n="37" xml:id="spp-222-14W2-line-37"> For truly John was missing too:</l><l n="38" xml:id="spp-222-14W2-line-38"> The horse and pillion both were gone!</l><l n="39" xml:id="spp-222-14W2-line-39"> Phyllis, it seems, was fled with John.Old Madam, who went up to find</l><l n="40" xml:id="spp-222-14W2-line-40"> What papers Phyl had left behind,</l><l n="41" xml:id="spp-222-14W2-line-41"> A letter on the toilet sees,</l><l n="42" xml:id="spp-222-14W2-line-42"> “To my much honour'd father──these──”</l><l n="43" xml:id="spp-222-14W2-line-43"> ('Tis always done, romances tell us,</l><l n="44" xml:id="spp-222-14W2-line-44"> When daughters run away with fellows,)</l><l n="45" xml:id="spp-222-14W2-line-45"> Fill'd with the choicest common-places,</l><l n="46" xml:id="spp-222-14W2-line-46"> By others used in the like cases.</l><l n="47" xml:id="spp-222-14W2-line-47"> “That long ago a fortune-teller</l><l n="48" xml:id="spp-222-14W2-line-48"> Exactly said what now befell her;</l><l n="49" xml:id="spp-222-14W2-line-49"> And in a glass had made her see</l><l n="50" xml:id="spp-222-14W2-line-50"> A serving-man of low degree.</l><l n="51" xml:id="spp-222-14W2-line-51"> It was her fate, must be forgiven;</l><l n="52" xml:id="spp-222-14W2-line-52"> For marriages were made in Heaven:</l><l n="53" xml:id="spp-222-14W2-line-53"> His pardon begg'd: but, to be plain,</l><l n="54" xml:id="spp-222-14W2-line-54"> She'd do't if 'twere to do again:</l><l n="55" xml:id="spp-222-14W2-line-55"> Thank'd God, 'twas neither shame nor sin;</l><l n="56" xml:id="spp-222-14W2-line-56"> For John was come of honest kin.</l><l n="57" xml:id="spp-222-14W2-line-57"> Love never thinks of rich and poor;</l><l n="58" xml:id="spp-222-14W2-line-58"> She'd beg with John from door to door</l><l n="59" xml:id="spp-222-14W2-line-59"> Forgive her, if it be a crime;</l><l n="60" xml:id="spp-222-14W2-line-60"> She'll never do't another time.</l><l n="61" xml:id="spp-222-14W2-line-61"> She ne'er before in all her life</l><l n="62" xml:id="spp-222-14W2-line-62"> Once disobey'd him, maid nor wife.”</l><l n="63" xml:id="spp-222-14W2-line-63"> One argument she summ'd up all in,</l><l n="64" xml:id="spp-222-14W2-line-64"> “The thing was done and past recalling;</l><l n="65" xml:id="spp-222-14W2-line-65"> And therefore hoped she should recover</l><l n="66" xml:id="spp-222-14W2-line-66"> His favour when his passion's over.</l><l n="67" xml:id="spp-222-14W2-line-67"> She valued not what others thought her,</l><l n="68" xml:id="spp-222-14W2-line-68"> And was──his most obedient daughter.”</l><l n="69" xml:id="spp-222-14W2-line-69"> Fair maidens all, attend the Muse,</l><l n="70" xml:id="spp-222-14W2-line-70"> Who now the wandering pair pursues:</l><l n="71" xml:id="spp-222-14W2-line-71"> Away they rode in homely sort,</l><l n="72" xml:id="spp-222-14W2-line-72"> Their journey long, their money short;</l><l n="73" xml:id="spp-222-14W2-line-73"> The loving couple well bemired;</l><l n="74" xml:id="spp-222-14W2-line-74"> The horse and both the riders tired:</l><l n="75" xml:id="spp-222-14W2-line-75"> Their victuals bad, their lodgings worse;</l><l n="76" xml:id="spp-222-14W2-line-76"> Phyl cried! and John began to curse:</l><l n="77" xml:id="spp-222-14W2-line-77"> Phyl wish'd that she had strain'd a limb,</l><l n="78" xml:id="spp-222-14W2-line-78"> When first she ventured out with him;</l><l n="79" xml:id="spp-222-14W2-line-79"> John wish'd that he had broke a leg,</l><l n="80" xml:id="spp-222-14W2-line-80"> When first for her he quitted Peg.But what adventures more befell them,</l><l n="81" xml:id="spp-222-14W2-line-81"> The Muse has now no time to tell them;</l><l n="82" xml:id="spp-222-14W2-line-82"> How Johny wheedled, threaten'd, fawn'd,</l><l n="83" xml:id="spp-222-14W2-line-83"> Till Phyllis all her trinkets pawn'd:</l><l n="84" xml:id="spp-222-14W2-line-84"> How oft she broke her marriage vows,</l><l n="85" xml:id="spp-222-14W2-line-85"> In kindness to maintain her spouse,</l><l n="86" xml:id="spp-222-14W2-line-86"> Till swains unwholesome spoil'd the trade;</l><l n="87" xml:id="spp-222-14W2-line-87"> For now the surgeons must be paid,</l><l n="88" xml:id="spp-222-14W2-line-88"> To whom those perquisites are gone,</l><l n="89" xml:id="spp-222-14W2-line-89"> In Christian justice due to John.When food and raiment now grew scarce,</l><l n="90" xml:id="spp-222-14W2-line-90"> Fate put a period to the farce,</l><l n="91" xml:id="spp-222-14W2-line-91"> And with exact poetic justice;</l><l n="92" xml:id="spp-222-14W2-line-92"> For John was landlord, Phyllis hostess;</l><l n="93" xml:id="spp-222-14W2-line-93"> They keep, at Staines, the Old Blue Boar,</l><l n="94" xml:id="spp-222-14W2-line-94"> Are cat and dog, and rogue and whore.222-14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

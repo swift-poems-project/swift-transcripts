@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">The</hi> SONG. By <hi rend="underline">Sh──────n</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-M12835D--footnote-1 #spp-M12835D--line-1"/>
+        </linkGrp>
+        <div n="M12835D-" type="poem"><head type="note" n="1" xml:id="spp-M12835D--headnote-1"><lg n="1" xml:id="spp-M12835D--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M12835D--headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-M12835D--headnote-2"><lg n="1" xml:id="spp-M12835D--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M12835D--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M12835D--headnote-3"><lg n="1" xml:id="spp-M12835D--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M12835D--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-M12835D--line-1"><ref target="#spp-M12835D--footnote-1">1</ref><note place="foot" n="1" xml:id="spp-M12835D--footnote-1">Sh──────n <hi rend="underline">took this from Spectator</hi>, No. 603. Vol. 8.</note><hi rend="display-initial">M</hi>Y Time, O ye <hi rend="underline">Grattans</hi>, was happily spent,</l><l n="2" xml:id="spp-M12835D--line-2"> When <hi rend="underline">Bacchus</hi> went with me, wherever I went.</l><l n="3" xml:id="spp-M12835D--line-3"> For then I did nothing but sing, laugh and jest,</l><l n="4" xml:id="spp-M12835D--line-4"> Was ever a Toaper so merrily blest.</l><l n="5" xml:id="spp-M12835D--line-5"> But now I so cross and peevish am grown,</l><l n="6" xml:id="spp-M12835D--line-6"> Because I must go to my Wife back to Town.</l><l n="7" xml:id="spp-M12835D--line-7"> To the fondling and toying of <hi rend="underline">Honey</hi> and <hi rend="underline">Dear</hi>,</l><l n="8" xml:id="spp-M12835D--line-8"> And the Conjugal Comforts of horrid small Beer.My Daughter I ever was pleased to see,</l><l n="9" xml:id="spp-M12835D--line-9"> Come fawning and begging to sit on my Knee.</l><l n="10" xml:id="spp-M12835D--line-10"> My Wife too was pleased, and to the Child said,</l><l n="11" xml:id="spp-M12835D--line-11"> Come hold in your Belly, and hold up your Head.</l><l n="12" xml:id="spp-M12835D--line-12"> But now out of Humour, I, with a sour Look,</l><l n="13" xml:id="spp-M12835D--line-13"> Cry, <hi rend="underline">Huzzy</hi>, and give her a Souse with my Book.</l><l n="14" xml:id="spp-M12835D--line-14"> And I'll give her another──for why should she play,</l><l n="15" xml:id="spp-M12835D--line-15"> Since my <hi rend="underline">Bacchus</hi>, and Glasses, and Friends are away.</l><l n="16" xml:id="spp-M12835D--line-16"> Wine! what of thy delicate Hue is become?</l><l n="17" xml:id="spp-M12835D--line-17"> That tinged our Glasses with Blew like a Plumb.</l><l n="18" xml:id="spp-M12835D--line-18"> Those Bottles, those Bumpers, why do they not smite,</l><l n="19" xml:id="spp-M12835D--line-19"> While we sit carowsing and drinking the White.</l><l n="20" xml:id="spp-M12835D--line-20"> Ah, Bumpers, I see, that our Wine is all done,</l><l n="21" xml:id="spp-M12835D--line-21"> Our Mirth falls of Course, when our Liquor is gone.</l><l n="22" xml:id="spp-M12835D--line-22"> Then since it is so, bring me here a supply,</l><l n="23" xml:id="spp-M12835D--line-23"> Begone froward Wife, for I'll drink till I dye.M12835D-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Beau's reply to the five Ladyes<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="428-WILH" type="poem"><head type="note" n="1" xml:id="spp-428-WILH-headnote-1"><lg n="1" xml:id="spp-428-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-428-WILH-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-428-WILH-headnote-2"><lg n="1" xml:id="spp-428-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-428-WILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-428-WILH-headnote-3"><lg n="1" xml:id="spp-428-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-428-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-428-WILH-line-1"> Why, how now dapper black&#13;</l><l n="2" xml:id="spp-428-WILH-line-2"> I smell your gown and cassock</l><l n="3" xml:id="spp-428-WILH-line-3"> As strong upon your back</l><l n="4" xml:id="spp-428-WILH-line-4"> As Tisdel smells of a sock:</l></lg><lg n="2" type="stanza"><l n="5" xml:id="spp-428-WILH-line-5">To write such scurvy stuff!&#13;</l><l n="6" xml:id="spp-428-WILH-line-6"> Fine Ladyes never do't</l><l n="7" xml:id="spp-428-WILH-line-7"> I know you well enough,</l><l n="8" xml:id="spp-428-WILH-line-8"> And eke your cloven foot.</l></lg><lg n="3" type="stanza"><l n="9" xml:id="spp-428-WILH-line-9">Fine Ladyes when they write,&#13;</l><l n="10" xml:id="spp-428-WILH-line-10"> Nor scold, nor keep a splutter.</l><l n="11" xml:id="spp-428-WILH-line-11"> Their verses give delight</l><l n="12" xml:id="spp-428-WILH-line-12"> Are soft and sweet as butter.</l></lg><lg n="4" type="stanza"><l n="13" xml:id="spp-428-WILH-line-13">But, Satan never saw&#13;</l><l n="14" xml:id="spp-428-WILH-line-14"> Such haggard lines as these</l><l n="15" xml:id="spp-428-WILH-line-15"> They stick athwart my maw</l><l n="16" xml:id="spp-428-WILH-line-16"> As bad as Suffolk cheese.428-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

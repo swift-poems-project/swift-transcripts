@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R56428L-" type="poem"><head type="note" n="1" xml:id="spp-R56428L--headnote-1"><lg n="1" xml:id="spp-R56428L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-R56428L--headnote-1-line-group-1-line-1">\<hi rend="underline">from Gulliveriana's introductory "Critique," and printed above 20</hi>\ 1. A C<hi rend="SMALL-CAPS">OMPARISON BETWEEN AN </hi>OX<hi rend="SMALL-CAPS"> AND AN</hi> ELEPHANT.</l></lg></head><head type="note" n="2" xml:id="spp-R56428L--headnote-2"><lg n="1" xml:id="spp-R56428L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-R56428L--headnote-2-line-group-1-line-1">\<hi rend="underline">above 25</hi>\ 2. B<hi rend="SMALL-CAPS">ETWEEN AN </hi>ELEPHANT<hi rend="SMALL-CAPS"> AND A</hi> PARLIAMENT-MAN.</l></lg></head><head type="note" n="3" xml:id="spp-R56428L--headnote-3"><lg n="1" xml:id="spp-R56428L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-R56428L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-R56428L--line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><hi rend="underline">One's </hi>Teeth<hi rend="underline"> are sold, and t'other's</hi> Tongue.<gap/><gap/><gap/><gap/><hi rend="underline">To get their Masters Half a Crown</hi>.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>R56428L-   </l><l n="2" xml:id="spp-R56428L--line-2"> They spread the Flag, or lay it down</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

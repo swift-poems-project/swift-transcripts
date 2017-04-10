@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>T<hi rend="SMALL-CAPS">OM</hi>'s metamorphosis into a P<hi rend="SMALL-CAPS">OET</hi> and</title>
+        <title>S<hi rend="SMALL-CAPS">PANIEL</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-M08007E2-footnote-1 #spp-M08007E2-line-23"/>
+          <link target="#spp-M08007E2-footnote-2 #spp-M08007E2-line-24"/>
+          <link target="#spp-M08007E2-footnote-3 #spp-M08007E2-line-30"/>
+        </linkGrp>
+        <div n="M08007E2" type="poem"><head type="note" n="1" xml:id="spp-M08007E2-headnote-1"><lg n="1" xml:id="spp-M08007E2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M08007E2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-M08007E2-headnote-2"><lg n="1" xml:id="spp-M08007E2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M08007E2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M08007E2-headnote-3"><lg n="1" xml:id="spp-M08007E2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M08007E2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-M08007E2-line-1"><hi rend="display-initial">T</hi>OM was a little merry grig,</l><l n="2" xml:id="spp-M08007E2-line-2"> Fiddled and danc'd to his own jig;</l><l n="3" xml:id="spp-M08007E2-line-3"> Good-natur'd, but a little silly,</l><l n="4" xml:id="spp-M08007E2-line-4"> Irresolute, and shally-shilly;</l><l n="5" xml:id="spp-M08007E2-line-5"> What he should do, he could not guess:</l><l n="6" xml:id="spp-M08007E2-line-6"> They mov'd him like a man at chess.</l><l n="7" xml:id="spp-M08007E2-line-7"> Swift told him once that he had wit:</l><l n="8" xml:id="spp-M08007E2-line-8"> Swift was in jest, poor Tom was bit;</l><l n="9" xml:id="spp-M08007E2-line-9"> Thought himself son of second Ph<unclear>oe</unclear>bus,</l><l n="10" xml:id="spp-M08007E2-line-10"> For ballad, pun, lampoon, and rebus.</l><l n="11" xml:id="spp-M08007E2-line-11"> He took a draught of Helicon,</l><l n="12" xml:id="spp-M08007E2-line-12"> But swallow'd so much water down,</l><l n="13" xml:id="spp-M08007E2-line-13"> He got a dropsy: now they say 'tis</l><l n="14" xml:id="spp-M08007E2-line-14"> Turn'd to poetic diabetes;</l><l n="15" xml:id="spp-M08007E2-line-15"> And all the liquor he has past,</l><l n="16" xml:id="spp-M08007E2-line-16"> Is without spirit, salt, or taste.</l><l n="17" xml:id="spp-M08007E2-line-17"> But since it past, Tom thought it wit;</l><l n="18" xml:id="spp-M08007E2-line-18"> And therefore writ, and writ, and writ.</l><l n="19" xml:id="spp-M08007E2-line-19"> He writ the wonder of all wonders,</l><l n="20" xml:id="spp-M08007E2-line-20"> He writ the blunder of all blunders:</l><l n="21" xml:id="spp-M08007E2-line-21"> He writ a merry farce for poppet,</l><l n="22" xml:id="spp-M08007E2-line-22"> Taught actors how to squeak and hop it;</l><l n="23" xml:id="spp-M08007E2-line-23"> A treatise on the wooden man <ref target="#spp-M08007E2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-M08007E2-footnote-1">The sign of a wooden man in Essex-street, Dublin.</note>;</l><l n="24" xml:id="spp-M08007E2-line-24"> A ballad on the nose of Dan <ref target="#spp-M08007E2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-M08007E2-footnote-2">A person remarkable for a nose of an enormous size.</note>;</l><l n="25" xml:id="spp-M08007E2-line-25"> The art of making April fools,</l><l n="26" xml:id="spp-M08007E2-line-26"> And four and thirty punning rules:</l><l n="27" xml:id="spp-M08007E2-line-27"> The learned say, that Tom went snacks</l><l n="28" xml:id="spp-M08007E2-line-28"> With philomaths for almanacks;</l><l n="29" xml:id="spp-M08007E2-line-29"> Though they divided are, and some say</l><l n="30" xml:id="spp-M08007E2-line-30"> He writ for Whaley, some for Campsay <ref target="#spp-M08007E2-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-M08007E2-footnote-3">Two almanack-makers in Dublin.</note>.</l><l n="31" xml:id="spp-M08007E2-line-31"> Hundreds there are who will make oath,</l><l n="32" xml:id="spp-M08007E2-line-32"> He wrote alternately for both:</l><l n="33" xml:id="spp-M08007E2-line-33"> For though they made the calculations,</l><l n="34" xml:id="spp-M08007E2-line-34"> Tom writ the monthly observations.</l><l n="35" xml:id="spp-M08007E2-line-35"> Such were his writings; but his chatter</l><l n="36" xml:id="spp-M08007E2-line-36"> Was one continued clitter clatter.</l><l n="37" xml:id="spp-M08007E2-line-37"> Swift slit his tongue, and made him talk,</l><l n="38" xml:id="spp-M08007E2-line-38"> Cry <hi rend="underline">Cup of sack</hi>, and <hi rend="underline">Walk, knaves, walk</hi>:</l><l n="39" xml:id="spp-M08007E2-line-39"> And fitted little prating Poll,</l><l n="40" xml:id="spp-M08007E2-line-40"> For wiry cage in common hall;</l><l n="41" xml:id="spp-M08007E2-line-41"> Made him expert at quibble jargon,</l><l n="42" xml:id="spp-M08007E2-line-42"> And quaint at selling of a bargain.</l><l n="43" xml:id="spp-M08007E2-line-43"> Poll he could talk in different linguo's,</l><l n="44" xml:id="spp-M08007E2-line-44"> But he could never learn distinguo's:</l><l n="45" xml:id="spp-M08007E2-line-45"> Swift tried in vain, and angry thereat;</l><l n="46" xml:id="spp-M08007E2-line-46"> Into a spaniel turn'd his parrot:</l><l n="47" xml:id="spp-M08007E2-line-47"> Made him to walk on his hind-legs,</l><l n="48" xml:id="spp-M08007E2-line-48"> And now he dances, fawns, and begs;</l><l n="49" xml:id="spp-M08007E2-line-49"> Then cuts a caper o'er a stick,</l><l n="50" xml:id="spp-M08007E2-line-50"> Lies close, will whine, and creep, and lick.</l><l n="51" xml:id="spp-M08007E2-line-51"> Swift puts a bit upon his snout,</l><l n="52" xml:id="spp-M08007E2-line-52"> Poor Tom he dares not look about;</l><l n="53" xml:id="spp-M08007E2-line-53"> But soon as Swift once gives the word,</l><l n="54" xml:id="spp-M08007E2-line-54"> He snaps it up, though 'twere a t──d.M08007E2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

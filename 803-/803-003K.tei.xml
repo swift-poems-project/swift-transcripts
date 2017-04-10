@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-803-003K-footnote-1 #spp-803-003K-line-25"/>
+        </linkGrp>
+        <div n="803-003K" type="poem"><head type="note" n="1" xml:id="spp-803-003K-headnote-1"><lg n="1" xml:id="spp-803-003K-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-803-003K-headnote-1-line-group-1-line-1"><hi rend="underline">We found the following Poem printed in </hi>Fog's<hi rend="underline"> Journal of the </hi>17<hi rend="underline">th of </hi>Sept. 1733<hi rend="underline">. It was written in the last Session, and many Copies were taken, but never printed here. The Subject of it is now over; but our </hi>Author's<hi rend="underline"> known Zeal against that Project made him generally supposed to be the Author. We reprint it just as it lyes in </hi>Fog's<hi rend="underline"> Journal</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-803-003K-headnote-2"><lg n="1" xml:id="spp-803-003K-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-803-003K-headnote-2-line-group-1-line-1"><hi rend="underline">The following Poem is the Product of </hi>Ireland<hi rend="underline">; it was occasioned by the B────s of that Kingdom endeavouring to get an Act to divide the Church Livings, which Bill was rejected by the </hi>Irish<hi rend="underline"> House of Commons. It is said to be written by an honest Curate; the Reader of Taste perhaps, may guess who the Curate could be, that was capable of writing it</hi>.</l></lg></head><head type="note" n="3" xml:id="spp-803-003K-headnote-3"><lg n="1" xml:id="spp-803-003K-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-803-003K-headnote-3-line-group-1-line-1">Written in the Year 1731.</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-803-003K-line-1"><hi rend="display-initial">O</hi>LD <hi rend="underline">Latimer</hi> preaching did fairly describe</l><l n="2" xml:id="spp-803-003K-line-2"> A B──────who rul'd all the rest of his Tribe;</l><l n="3" xml:id="spp-803-003K-line-3"> And who is this B──────? And where does he dwell?</l><l n="4" xml:id="spp-803-003K-line-4"> Why truly 'tis <hi rend="underline">Satan</hi>, Arch-b──────of Hell:</l><l n="5" xml:id="spp-803-003K-line-5"> And HE was a Primate, and HE wore a Mitre,</l><l n="6" xml:id="spp-803-003K-line-6"> Surrounded with Jewels of Sulphur and Nitre.</l><l n="7" xml:id="spp-803-003K-line-7"> How nearly this B──────our B──────resembles!</l><l n="8" xml:id="spp-803-003K-line-8"> But his has the Odds, who <hi rend="underline">believes and who trembles</hi>.</l><l n="9" xml:id="spp-803-003K-line-9"> Cou'd you see his grim <hi rend="underline">Grace</hi>, for a Pound to a Penny,</l><l n="10" xml:id="spp-803-003K-line-10"> You'd swear it must be the <hi rend="underline">Baboon</hi> of <hi rend="underline">K──────y</hi>:</l><l n="11" xml:id="spp-803-003K-line-11"> Poor <hi rend="underline">Satan</hi> will think the Comparison odious;</l><l n="12" xml:id="spp-803-003K-line-12"> I wish I could find him out one more commodious.</l><l n="13" xml:id="spp-803-003K-line-13"> But this I am sure, the <hi rend="underline">Most Rev'rend old Dragon</hi>,</l><l n="14" xml:id="spp-803-003K-line-14"> Has got on the Bench many B──────s suffragan:</l><l n="15" xml:id="spp-803-003K-line-15"> And all Men believe he presides there <hi rend="underline">incog</hi>.</l><l n="16" xml:id="spp-803-003K-line-16"> To give them by Turns an invisible Jog.</l></lg><lg n="2" type="stanza"><l n="17" xml:id="spp-803-003K-line-17">O<hi rend="SMALL-CAPS">UR</hi> B──────s puft up with Wealth and with Pride.</l><l n="18" xml:id="spp-803-003K-line-18"> To Hell on the Backs of the Clergy wou'd ride;</l><l n="19" xml:id="spp-803-003K-line-19"> They mounted, and labour'd with Whip and with Spur,</l><l n="20" xml:id="spp-803-003K-line-20"> In vain────for the Devil a Parson wou'd stir.</l><l n="21" xml:id="spp-803-003K-line-21"> So the <hi rend="underline">Commons</hi> unhors'd them, and this was their Doom,</l><l n="22" xml:id="spp-803-003K-line-22"> On their Crosiers to ride, like a Witch on a Bro<gap/></l><l n="23" xml:id="spp-803-003K-line-23"> Tho' they gallop so fast; on the Road you may find 'em,</l><l n="24" xml:id="spp-803-003K-line-24"> And have left us but Three out of Twenty behind 'em.</l><l n="25" xml:id="spp-803-003K-line-25"> Lord <hi rend="underline">B</hi>────'s good Grace, Lord <hi rend="underline">C</hi>────, and Lord <hi rend="underline">H</hi>────, <ref target="#spp-803-003K-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-803-003K-footnote-1"><hi rend="black-letter">Bolton, Carr, Howard.</hi></note></l><l n="26" xml:id="spp-803-003K-line-26"> In spight of the Devil would still be untoward.</l><l n="27" xml:id="spp-803-003K-line-27"> They came of good Kindred, and cou'd not endure,</l><l n="28" xml:id="spp-803-003K-line-28"> Their former Companions should beg at their Door.</l></lg><lg n="3" type="stanza"><l n="29" xml:id="spp-803-003K-line-29">W<hi rend="SMALL-CAPS">HEN</hi><hi rend="underline">CHRIST</hi> was betray'd to <hi rend="underline">Pilate</hi>, the Pr<unclear>ae</unclear>tor,</l><l n="30" xml:id="spp-803-003K-line-30"> In a Dozen Apostles but one prov'd a Traytor!</l><l n="31" xml:id="spp-803-003K-line-31"> One Traytor alone, and faithful Eleven;</l><l n="32" xml:id="spp-803-003K-line-32"> But we can afford you Six Traytors in Seven.</l></lg><lg n="4" type="stanza"><l n="33" xml:id="spp-803-003K-line-33">W<hi rend="SMALL-CAPS">HAT</hi> a Clutter with Clippings, Dividings, and Cleavings!</l><l n="34" xml:id="spp-803-003K-line-34"> And the Clergy, forsooth, must take up with their Leavings.</l><l n="35" xml:id="spp-803-003K-line-35"> If making <hi rend="underline">Divisions</hi> was all their Intent,</l><l n="36" xml:id="spp-803-003K-line-36"> They've done it, we thank 'em, but not as they meant;</l><l n="37" xml:id="spp-803-003K-line-37"> And so may such B────s for ever <hi rend="underline">divide</hi>,</l><l n="38" xml:id="spp-803-003K-line-38"> That no honest Heathen would be on their Side.</l><l n="39" xml:id="spp-803-003K-line-39"> How shou'd we rejoice, if, like <hi rend="underline">Judas</hi> the first,</l><l n="40" xml:id="spp-803-003K-line-40"> Those Splitters of Parsons in sunder shou'd burst?</l></lg><lg n="5" type="stanza"><l n="41" xml:id="spp-803-003K-line-41">N<hi rend="SMALL-CAPS">OW</hi> hear an Allusion!────A Mitre, you know,</l><l n="42" xml:id="spp-803-003K-line-42"> Is divided above, but united below.</l><l n="43" xml:id="spp-803-003K-line-43"> If this you consider, our Emblem is right;</l><l n="44" xml:id="spp-803-003K-line-44"> The B──────s <hi rend="underline">divide</hi>, but the Clergy <hi rend="underline">unite</hi>.</l><l n="45" xml:id="spp-803-003K-line-45"> Should the Bottom be split, our B──────s wou'd dread</l><l n="46" xml:id="spp-803-003K-line-46"> That the Mitre wou'd never stick fast on their Head,</l><l n="47" xml:id="spp-803-003K-line-47"> And yet they have learnt the chief Art of a Sov'reign,</l><l n="48" xml:id="spp-803-003K-line-48"> As <hi rend="underline">Machiavel</hi> taught 'em; <hi rend="underline">divide and ye govern</hi>.</l><l n="49" xml:id="spp-803-003K-line-49"> But, Courage, my L──ds, tho' it cannot be said</l><l n="50" xml:id="spp-803-003K-line-50"> That one <hi rend="underline">cloven Tongue</hi>, ever sat on your Head;</l><l n="51" xml:id="spp-803-003K-line-51"> I'll hold you a Groat, and I wish I cou'd see't,</l><l n="52" xml:id="spp-803-003K-line-52"> If your Stockings were off, you cou'd show <hi rend="underline">cloven Feet</hi>.</l></lg><lg n="6" type="stanza"><l n="53" xml:id="spp-803-003K-line-53">B<hi rend="SMALL-CAPS">UT</hi> hold, cry the B────s; and give us fair Play;</l><l n="54" xml:id="spp-803-003K-line-54"> Before you condemn us, hear what we can say.</l><l n="55" xml:id="spp-803-003K-line-55"> What truer Affection cou'd ever be shown,</l><l n="56" xml:id="spp-803-003K-line-56"> Than saving your Souls, by damning our own?</l><l n="57" xml:id="spp-803-003K-line-57"> And have we not practis'd all Methods to gain you;</l><l n="58" xml:id="spp-803-003K-line-58"> With the Tyth of the Tyth of the Tyth to maintain you;</l><l n="59" xml:id="spp-803-003K-line-59"> Provided a Fund for building you Spittles:</l><l n="60" xml:id="spp-803-003K-line-60"> You are only to live four Years without Vittles!</l><l n="61" xml:id="spp-803-003K-line-61"> Content, my good L──ds; but let us change Hands;</l><l n="62" xml:id="spp-803-003K-line-62"> First take you our Tyths, and give us your Lands</l></lg><lg n="7" type="stanza"><l n="63" xml:id="spp-803-003K-line-63">S<hi rend="SMALL-CAPS">O </hi>G<hi rend="SMALL-CAPS">OD</hi> bless the Church, and three of our Mitres;</l><l n="64" xml:id="spp-803-003K-line-64"> And G<hi rend="SMALL-CAPS">OD</hi> bless the <hi rend="underline">Commons</hi> for <hi rend="underline">Biting</hi> the <hi rend="underline">Biters</hi>.803-003K   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

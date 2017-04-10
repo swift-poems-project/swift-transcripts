@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Lullaby<lb/>For the D--n of St. <hi rend="underline">P--ks</hi>:<lb/>OR,<lb/>The D--r fed with his own Spoon</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z421L322"><head type="note" n="1" xml:id="spp-Z421L322-headnote-1"><lg n="1" xml:id="spp-Z421L322-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Z421L322-headnote-1-line-group-1-line-1"><hi rend="underline">To the Tune of the Nurse's Ballad</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-Z421L322-headnote-2"><lg n="1" xml:id="spp-Z421L322-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Z421L322-headnote-2-line-group-1-line-1">Risum teneatis amici.	<hi rend="underline">Hor, de Art, Poet,</hi></l></lg></head><head type="note" n="3" xml:id="spp-Z421L322-headnote-3"><lg n="1" xml:id="spp-Z421L322-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Z421L322-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Z421L322-line-1"><hi rend="display-initial">O</hi> MY sweet <hi rend="underline">J──n──n, J──n-----n</hi>,</l><l/><l n="2" xml:id="spp-Z421L322-line-2">O my sweet <hi rend="underline">J----n-----n S────ftee</hi>,</l><l/><l n="3" xml:id="spp-Z421L322-line-3">Goody good D────n be so kind,</l><l/><l n="4" xml:id="spp-Z421L322-line-4">T'accept of a <hi rend="underline">New-Years-Giftee</hi>:</l><l/><l n="5" xml:id="spp-Z421L322-line-5">Sure thy <hi rend="underline">Lilliput, Lilliput</hi>,</l><l/><l n="6" xml:id="spp-Z421L322-line-6">Sure thy <hi rend="underline">Tale of a Tubbee</hi>,</l><l/><l n="7" xml:id="spp-Z421L322-line-7">Shews us that you have been Sucking,</l><l/><l n="8" xml:id="spp-Z421L322-line-8">Each MUSES lilly-white Bubbee.</l><l/><l n="9" xml:id="spp-Z421L322-line-9"/></lg><lg n="2" type="stanza"><l>Chucky chuckow my prety Face,&#13;</l><l/><l n="10" xml:id="spp-Z421L322-line-10">Fair as Alabaster,</l><l/><l n="11" xml:id="spp-Z421L322-line-11">Kneel on both Knees to his G────ce,</l><l/><l n="12" xml:id="spp-Z421L322-line-12">And he'll make a B──sh──p of Master:</l><l/><l n="13" xml:id="spp-Z421L322-line-13">A B──sh──p, indeed, you shall be,</l><l/><l n="14" xml:id="spp-Z421L322-line-14">If you'll quit your Pen, Ink, and Paper;</l><l/><l n="15" xml:id="spp-Z421L322-line-15">But, if you Rail at G<hi rend="SMALL-CAPS">REAT </hi>F<hi rend="SMALL-CAPS">OLKS</hi>,</l><l/><l n="16" xml:id="spp-Z421L322-line-16">You still shall continue the <hi rend="underline">Dr──p──r</hi>.</l><l/><l n="17" xml:id="spp-Z421L322-line-17"/></lg><lg n="3" type="stanza"><l>We was the D──n of St. <hi rend="underline">P──t──k's</hi>,</l><l/><l n="18" xml:id="spp-Z421L322-line-18">And we was a Womanee Hater;</l><l/><l n="19" xml:id="spp-Z421L322-line-19">If ever we get us a Wife,</l><l/><l n="20" xml:id="spp-Z421L322-line-20">Efekins, we'll sorely beat Her:</l><l/><l n="21" xml:id="spp-Z421L322-line-21">We'll beat her from Morn 'till Night,</l><l/><l n="22" xml:id="spp-Z421L322-line-22">If she do's n't do what we bid her;</l><l/><l n="23" xml:id="spp-Z421L322-line-23">And when the poor Soul dies for <hi rend="underline">Grief</hi>,</l><l/><l n="24" xml:id="spp-Z421L322-line-24">The dear D──n must die a Wid'er.</l><l/><l n="25" xml:id="spp-Z421L322-line-25"/></lg><lg n="4" type="stanza"><l>Were was a Laugh and a Jest?&#13;</l><l/><l n="26" xml:id="spp-Z421L322-line-26">And, were was a Punn and a Quibble?</l><l/><l n="27" xml:id="spp-Z421L322-line-27">Were was a Song and a Poem?</l><l/><l n="28" xml:id="spp-Z421L322-line-28">And, were was a Ballad and Scribble?</l><l/><l n="29" xml:id="spp-Z421L322-line-29">When <hi rend="underline">People</hi> grow <hi rend="underline">old</hi> they grow <hi rend="underline">peevish</hi>,</l><l/><l n="30" xml:id="spp-Z421L322-line-30">And that is thy Case, dear D──nee;</l><l/><l n="31" xml:id="spp-Z421L322-line-31">You shall have a Nurse and a Cradle,</l><l/><l n="32" xml:id="spp-Z421L322-line-32">As well as the Child of <hi rend="underline">D──l────ny</hi>.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

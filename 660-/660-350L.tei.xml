@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Swifts Song in the Modern Taste</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="660-350L" type="poem"><head type="note" n="1" xml:id="spp-660-350L-headnote-1"><lg n="1" xml:id="spp-660-350L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-660-350L-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-660-350L-headnote-2"><lg n="1" xml:id="spp-660-350L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-660-350L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-660-350L-headnote-3"><lg n="1" xml:id="spp-660-350L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-660-350L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-660-350L-line-1"> Flutt'ring spread thy Purple Pinions&#13;</l><l n="2" xml:id="spp-660-350L-line-2"> gentle Cupid o'er my heart</l><l n="3" xml:id="spp-660-350L-line-3"> I a slave in thy dominions</l><l n="4" xml:id="spp-660-350L-line-4"> Nature must give way to art·I·a·slave·in·thy·dominions·Nature·must·give·way·to·art</l></lg><lg n="2" type="stanza"><l n="5" xml:id="spp-660-350L-line-5">Mild arcadians ever blooming&#13;</l><l n="6" xml:id="spp-660-350L-line-6"> nightly nodding o'er your flocks</l><l n="7" xml:id="spp-660-350L-line-7"> see my weary days consuming</l><l n="8" xml:id="spp-660-350L-line-8"> all beneath yon flowery rocks:</l><l n="9" xml:id="spp-660-350L-line-9"> Thus the Cyprian Goddess weeping</l><l n="10" xml:id="spp-660-350L-line-10"> mourn'd Adonis darling Youth</l><l n="11" xml:id="spp-660-350L-line-11"> Him the Boar in silence creeping</l><l n="12" xml:id="spp-660-350L-line-12"> gor'd with unrelenting tooth</l><l n="13" xml:id="spp-660-350L-line-13"> Cynthia tune harmonious numbers</l><l n="14" xml:id="spp-660-350L-line-14"> Fair discretion string the Lyre</l><l n="15" xml:id="spp-660-350L-line-15"> sooth my ever·ever waking slumbers</l><l n="16" xml:id="spp-660-350L-line-16"> bright Apollo lend thy choir</l><l n="17" xml:id="spp-660-350L-line-17"> Gloomy Pluto King of Terrors</l><l n="18" xml:id="spp-660-350L-line-18"> arm'd in adamantine chains</l><l n="19" xml:id="spp-660-350L-line-19"> Lead me to the Crystal Mirrors</l><l n="20" xml:id="spp-660-350L-line-20"> wat'ring soft Elysian plains</l><l n="21" xml:id="spp-660-350L-line-21"> mournful Cypress verdant willow</l><l n="22" xml:id="spp-660-350L-line-22"> gilding my Aurelias brows</l><l n="23" xml:id="spp-660-350L-line-23"> Morpheus hov'ring o'er my pillow</l><l n="24" xml:id="spp-660-350L-line-24"> hear me pay my dying vows</l><l n="25" xml:id="spp-660-350L-line-25"> melancholy smooth Meander</l><l n="26" xml:id="spp-660-350L-line-26"> swiftly purling in a round</l><l n="27" xml:id="spp-660-350L-line-27"> On thy margin Lovers wander</l><l n="28" xml:id="spp-660-350L-line-28"> with thy flow'ry Chaplets crown'd</l><l n="29" xml:id="spp-660-350L-line-29"> Thus when Philomela drooping</l><l n="30" xml:id="spp-660-350L-line-30"> softly seeks her silent Mate</l><l n="31" xml:id="spp-660-350L-line-31"> See the bird of Iuno stooping</l><l n="32" xml:id="spp-660-350L-line-32"> Melody·resigns·Melody resigns to fate·Melody·resigns·to·fate660-350L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

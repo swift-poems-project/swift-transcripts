@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Writen in a Window of Dublin Castle by the Reverend</title>
+        <title>D<hi rend="sup">r</hi> Jonathan Swift Dean of S<hi rend="sup">t</hi> Patricks</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="368A229Y" type="poem"><head type="note" n="1" xml:id="spp-368A229Y-headnote-1"><lg n="1" xml:id="spp-368A229Y-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-368A229Y-headnote-1-line-group-1-line-1">The R<hi rend="sup">t</hi> Hon<hi rend="sup">ble</hi> 08 08 08.   the Lord Carteret then Lord Leiuten<hi rend="sup">t</hi> 08. of Ireland and there Resideing.</l></lg></head><head type="note" n="2" xml:id="spp-368A229Y-headnote-2"><lg n="1" xml:id="spp-368A229Y-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-368A229Y-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-368A229Y-headnote-3"><lg n="1" xml:id="spp-368A229Y-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-368A229Y-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-368A229Y-line-1"> My Very good Lord 'tis a very hard Task&#13;</l><l n="2" xml:id="spp-368A229Y-line-2"> For a Man to Wait here Who has nothing to ask.368A229Y   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

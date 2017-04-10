@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>VERSES ON I KNOW NOT WHAT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="608-14W2" type="poem"><head type="note" n="1" xml:id="spp-608-14W2-headnote-1"><lg n="1" xml:id="spp-608-14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-608-14W2-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-608-14W2-headnote-2"><lg n="1" xml:id="spp-608-14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-608-14W2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-608-14W2-headnote-3"><lg n="1" xml:id="spp-608-14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-608-14W2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-608-14W2-line-1"> M<hi rend="SMALL-CAPS">Y</hi> latest tribute here I send,</l><l n="2" xml:id="spp-608-14W2-line-2"> With this let your collection end.</l><l n="3" xml:id="spp-608-14W2-line-3"> Thus I consign you down to fame</l><l n="4" xml:id="spp-608-14W2-line-4"> A character to praise or blame:</l><l n="5" xml:id="spp-608-14W2-line-5"> And if the whole may pass for true,</l><l n="6" xml:id="spp-608-14W2-line-6"> Contented rest, you have your due.</l><l n="7" xml:id="spp-608-14W2-line-7"> Give future time for satisfaction,</l><l n="8" xml:id="spp-608-14W2-line-8"> To leave one handle for detraction.608-14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

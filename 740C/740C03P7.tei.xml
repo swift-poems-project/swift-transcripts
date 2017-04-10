@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>S<hi rend="SMALL-CAPS">TELLA</hi>'s <hi rend="underline">Birth-Day. A great</hi></title>
+        <title>
+          <hi rend="underline">Bottle of Wine, long buried, being</hi>
+        </title>
+        <title><hi rend="underline">that Day dug up</hi>. 1722.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-740C03P7-footnote-1 #spp-740C03P7-line-44"/>
+          <link target="#spp-740C03P7-footnote-2 #spp-740C03P7-line-50"/>
+          <link target="#spp-740C03P7-footnote-3 #spp-740C03P7-line-51"/>
+        </linkGrp>
+        <div n="740C03P7" type="poem"><head type="note" n="1" xml:id="spp-740C03P7-headnote-1"><lg n="1" xml:id="spp-740C03P7-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-740C03P7-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-740C03P7-headnote-2"><lg n="1" xml:id="spp-740C03P7-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-740C03P7-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-740C03P7-headnote-3"><lg n="1" xml:id="spp-740C03P7-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-740C03P7-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-740C03P7-line-1"><hi rend="display-initial">R</hi>ESOLV'D my annual Verse to pay,</l><l n="2" xml:id="spp-740C03P7-line-2"> By Duty bound, on <hi rend="underline">Stella</hi>'s Day;</l><l n="3" xml:id="spp-740C03P7-line-3"> Furnish'd with Paper, Pens, and Ink,</l><l n="4" xml:id="spp-740C03P7-line-4"> I gravely sat me down to think:</l><l n="5" xml:id="spp-740C03P7-line-5"> I bit my Nails, and scratch'd my Head,</l><l n="6" xml:id="spp-740C03P7-line-6"> But found my Wit and Fancy fled;</l><l n="7" xml:id="spp-740C03P7-line-7"> Or, if with more than usual Pain,</l><l n="8" xml:id="spp-740C03P7-line-8"> A Thought came slowly from my Brain,</l><l n="9" xml:id="spp-740C03P7-line-9"> It cost me Lord knows how much Time</l><l n="10" xml:id="spp-740C03P7-line-10"> To shape it into Sense and Rhyme;</l><l n="11" xml:id="spp-740C03P7-line-11"> And, what was yet a greater Curse,</l><l n="12" xml:id="spp-740C03P7-line-12"> Long-Thinking made my Fancy worse.F<hi rend="SMALL-CAPS">ORSAKEN</hi> by th' inspiring Nine,</l><l n="13" xml:id="spp-740C03P7-line-13"> I waited at <hi rend="underline">Apollo</hi>'s Shrine;</l><l n="14" xml:id="spp-740C03P7-line-14"> I told him what the World would say</l><l n="15" xml:id="spp-740C03P7-line-15"> If <hi rend="underline">Stella</hi> were unsung to Day;</l><l n="16" xml:id="spp-740C03P7-line-16"> How I should hide my Head for Shame,</l><l n="17" xml:id="spp-740C03P7-line-17"> When both the <hi rend="underline">Jacks</hi> and <hi rend="underline">Robin</hi> came;</l><l n="18" xml:id="spp-740C03P7-line-18"> How <hi rend="underline">Ford</hi> would frown, how <hi rend="underline">Jim</hi> would leer,</l><l n="19" xml:id="spp-740C03P7-line-19"> How <hi rend="underline">Sh────r</hi> the Rogue would sneer,</l><l n="20" xml:id="spp-740C03P7-line-20"> And swear it does not always follow,</l><l n="21" xml:id="spp-740C03P7-line-21"> That <hi rend="underline">Semel'n anno ridet Apollo</hi>.</l><l n="22" xml:id="spp-740C03P7-line-22"> I have assur'd them twenty Times,</l><l n="23" xml:id="spp-740C03P7-line-23"> That <hi rend="underline">Ph<unclear>oe</unclear>bus</hi> help'd me in my Rhymes,<hi rend="underline">Ph<unclear>oe</unclear>bus</hi> inspir'd me from above,</l><l n="24" xml:id="spp-740C03P7-line-24"> And he and I were Hand and Glove.</l><l n="25" xml:id="spp-740C03P7-line-25"> But finding me so dull and dry since,</l><l n="26" xml:id="spp-740C03P7-line-26"> They'll call it all poetick Licence,</l><l n="27" xml:id="spp-740C03P7-line-27"> And when I brag of Aid divine,</l><l n="28" xml:id="spp-740C03P7-line-28"> Think <hi rend="underline">Eusden</hi>'s Right as good as mine.N<hi rend="SMALL-CAPS">OR</hi> do I ask for <hi rend="underline">Stella</hi>'s Sake;</l><l n="29" xml:id="spp-740C03P7-line-29"> 'Tis my own Credit lies at Stake.</l><l n="30" xml:id="spp-740C03P7-line-30"> And <hi rend="underline">Stella</hi> will be sung, while I</l><l n="31" xml:id="spp-740C03P7-line-31"> Can only be a Stander-by.<hi rend="underline">APOLLO</hi> having thought a little,</l><l n="32" xml:id="spp-740C03P7-line-32"> Return'd this Answer to a Tittle.T<hi rend="SMALL-CAPS">HO</hi>' you should live like old <hi rend="underline">Methusalem</hi>,</l><l n="33" xml:id="spp-740C03P7-line-33"> I furnish Hints, and you should use all 'em,</l><l n="34" xml:id="spp-740C03P7-line-34"> You yearly sing as she grows old,</l><l n="35" xml:id="spp-740C03P7-line-35"> You'd leave her Virtues half untold.</l><l n="36" xml:id="spp-740C03P7-line-36"> But to say Truth, such Dulness reigns</l><l n="37" xml:id="spp-740C03P7-line-37"> Thro' the whole Set of <hi rend="underline">I──rish</hi> D──ns;</l><l n="38" xml:id="spp-740C03P7-line-38"> I'm daily stunn'd with such a Medley,</l><l n="39" xml:id="spp-740C03P7-line-39"> D──n <hi rend="underline">W</hi>──, D──n <hi rend="underline">D──l</hi>, and D──n <hi rend="underline">S</hi>────;</l><l n="40" xml:id="spp-740C03P7-line-40"> That let what D──n soever come,</l><l n="41" xml:id="spp-740C03P7-line-41"> My Orders are, I'm not at Home;</l><l n="42" xml:id="spp-740C03P7-line-42"> And if your Voice had not been loud,</l><l n="43" xml:id="spp-740C03P7-line-43"> You must have pass'd among the Crowd.B<hi rend="SMALL-CAPS">UT</hi>, now, your Danger to prevent,</l><l n="44" xml:id="spp-740C03P7-line-44"> You must apply to <ref target="#spp-740C03P7-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-740C03P7-footnote-1"><hi rend="underline">The House-Keeper</hi>.</note> Mrs. <hi rend="underline">Brent</hi>,</l><l n="45" xml:id="spp-740C03P7-line-45"> For she, as Priestess, knows the Rites</l><l n="46" xml:id="spp-740C03P7-line-46"> Wherein the God of <hi rend="underline">Earth</hi> delights.</l><l n="47" xml:id="spp-740C03P7-line-47"> First, nine Ways looking, let her stand</l><l n="48" xml:id="spp-740C03P7-line-48"> With an old Poker in her Hand;</l><l n="49" xml:id="spp-740C03P7-line-49"> Let her describe a Circle round</l><l n="50" xml:id="spp-740C03P7-line-50"> In <ref target="#spp-740C03P7-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-740C03P7-footnote-2"><hi rend="underline">The Butler</hi>.</note><hi rend="underline">Saunder</hi>'s Cellar on the Ground;</l><l n="51" xml:id="spp-740C03P7-line-51"> A Spade let prudent <ref target="#spp-740C03P7-footnote-3">3</ref><note place="foot" n="3" xml:id="spp-740C03P7-footnote-3"><hi rend="underline">The Footman</hi>.</note><hi rend="underline">Archy</hi> hold,</l><l n="52" xml:id="spp-740C03P7-line-52"> And with Discretion dig the Mould;</l><l n="53" xml:id="spp-740C03P7-line-53"> Let <hi rend="underline">Stella</hi> look with watchful Eye,<hi rend="underline">Rebecca, Ford</hi> and <hi rend="underline">Grattons</hi> by.B<hi rend="SMALL-CAPS">EHOLD</hi> the B<hi rend="SMALL-CAPS">OTTLE</hi>, where it lies</l><l n="54" xml:id="spp-740C03P7-line-54"> With Neck elated tow'rds the Skies!</l><l n="55" xml:id="spp-740C03P7-line-55"> The God of Winds, and God of Fire,</l><l n="56" xml:id="spp-740C03P7-line-56"> Did to its wond'rous Birth conspire;</l><l n="57" xml:id="spp-740C03P7-line-57"> And <hi rend="underline">Bacchus</hi> for the Poet's Use</l><l n="58" xml:id="spp-740C03P7-line-58"> Pour'd in a strong inspiring Juice:</l><l n="59" xml:id="spp-740C03P7-line-59"> See! as you raise it from its Tomb,</l><l n="60" xml:id="spp-740C03P7-line-60"> It drags behind a spacious Womb,</l><l n="61" xml:id="spp-740C03P7-line-61"> And in the spacious Womb contains</l><l n="62" xml:id="spp-740C03P7-line-62"> A sov'reign Medicine for the Brains.Y<hi rend="SMALL-CAPS">OU'LL</hi> find it soon, if Fate consents;</l><l n="63" xml:id="spp-740C03P7-line-63"> If not, a thousand Mrs. <hi rend="underline">Brents</hi>,</l><l n="64" xml:id="spp-740C03P7-line-64"> Ten thousand <hi rend="underline">Archy</hi>'s arm'd with Spades,</l><l n="65" xml:id="spp-740C03P7-line-65"> May dig in vain to <hi rend="underline">Pluto</hi>'s Shades.F<hi rend="SMALL-CAPS">ROM</hi> thence a plenteous Draught infuse,</l><l n="66" xml:id="spp-740C03P7-line-66"> And boldly then invoke the Muse;</l><l n="67" xml:id="spp-740C03P7-line-67"> (But first let <hi rend="underline">Robert</hi> on his Knees</l><l n="68" xml:id="spp-740C03P7-line-68"> With Caution drain it from the Lees)</l><l n="69" xml:id="spp-740C03P7-line-69"> The Muse will at your Call appear,</l><l n="70" xml:id="spp-740C03P7-line-70"> With <hi rend="underline">Stella</hi>'s Praise to crown the Year.740C03P7   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

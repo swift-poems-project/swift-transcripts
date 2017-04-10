@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CXII. MR. PARVISOL.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CCalella"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="170-04B2" type="poem"><head type="note" n="1" xml:id="spp-170-04B2-headnote-1"><lg n="1" xml:id="spp-170-04B2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-170-04B2-headnote-1-line-group-1-line-1">In his Imitation of the Seventh Ode of the First Book of Horace, addressed to Lord Oxford in 1713; in which Swift humorously describes his first introduction to Lord Oxford, their subsequent intimacy, and his appointment to the deanery. In enumerating all the vexations with which his entrance to that situation was attended, he says,</l></lg></head><head type="note" n="2" xml:id="spp-170-04B2-headnote-2"><lg n="1" xml:id="spp-170-04B2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-170-04B2-headnote-2-line-group-1-line-1">And he concludes with this neat hint to his patron, expressive of his wish to be removed to some preferment in England:</l></lg></head><head type="note" n="3" xml:id="spp-170-04B2-headnote-3"><lg n="1" xml:id="spp-170-04B2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-170-04B2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-170-04B2-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> “The farmers, spitefully combin'd,&#13;</l><l n="2" xml:id="spp-170-04B2-line-2"> Force him to take his tythes in kind:</l><l n="3" xml:id="spp-170-04B2-line-3"> And <hi rend="underline">Parvisol</hi> discounts arrears</l><l n="4" xml:id="spp-170-04B2-line-4"> By bills for taxes and repairs.”<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/></l><l n="5" xml:id="spp-170-04B2-line-5"> “Then since you now have done your worst,</l><l n="6" xml:id="spp-170-04B2-line-6"> Pray leave me <hi rend="underline">where you found me first</hi>.”<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>170-04B2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

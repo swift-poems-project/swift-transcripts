@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prometheus A poem</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="344-269R" type="poem"><head type="note" n="1" xml:id="spp-344-269R-headnote-1"><lg n="1" xml:id="spp-344-269R-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-344-269R-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-344-269R-headnote-2"><lg n="1" xml:id="spp-344-269R-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-344-269R-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-344-269R-headnote-3"><lg n="1" xml:id="spp-344-269R-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-344-269R-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-344-269R-line-1"> when first the squire &amp; Tinker wood&#13;</l><l n="2" xml:id="spp-344-269R-line-2"> gravely consentting Irland good</l><l n="3" xml:id="spp-344-269R-line-3"> to geather mingled in a mass</l><l n="4" xml:id="spp-344-269R-line-4"> smith dust &amp; Copper lead &amp; Brass</l><l n="5" xml:id="spp-344-269R-line-5"> the mixture thus by Chimick art</l><l n="6" xml:id="spp-344-269R-line-6"> united Close in Every part</l><l n="7" xml:id="spp-344-269R-line-7"> in fillets rolled or cut in pieces</l><l n="8" xml:id="spp-344-269R-line-8"> appeared like one continued species</l><l n="9" xml:id="spp-344-269R-line-9"> and by the forming engine struck</l><l n="10" xml:id="spp-344-269R-line-10"> on all the same impression stuck</l></lg><lg n="2" type="stanza"><l n="11" xml:id="spp-344-269R-line-11">soe to confound the hated Coin&#13;</l><l n="12" xml:id="spp-344-269R-line-12"> all partys &amp; religions Join</l><l n="13" xml:id="spp-344-269R-line-13"> whigs Tories Trimmers hannoveriens</l><l n="14" xml:id="spp-344-269R-line-14"> Quakers conformist presbeterians</l><l n="15" xml:id="spp-344-269R-line-15"> scatch Irish Inglish french unite</l><l n="16" xml:id="spp-344-269R-line-16"> with equall interest Equall spight</l><l n="17" xml:id="spp-344-269R-line-17"> together mingled in a lump</l><l n="18" xml:id="spp-344-269R-line-18"> doe all in one opinione jump</l><l n="19" xml:id="spp-344-269R-line-19"> and Every one begins to find</l><l n="20" xml:id="spp-344-269R-line-20"> the same impressione one his mind</l></lg><lg n="3" type="stanza"><l n="21" xml:id="spp-344-269R-line-21">a strange Event when gold incites&#13;</l><l n="22" xml:id="spp-344-269R-line-22"> to bood &amp; quarrells Brass unites</l><l n="23" xml:id="spp-344-269R-line-23"> for goldsmith say the Coarsest stuff</l><l n="24" xml:id="spp-344-269R-line-24"> will serve for sodder well Enought</l><l n="25" xml:id="spp-344-269R-line-25"> soe by the kitles laud a larme</l><l n="26" xml:id="spp-344-269R-line-26"> the bees are gathered to a swarm</l><l n="27" xml:id="spp-344-269R-line-27"> so by the Brasen trumpets Blusters</l><l n="28" xml:id="spp-344-269R-line-28"> Trapes of all tongues &amp; nations muster</l><l n="29" xml:id="spp-344-269R-line-29"> and so the harp of jrland brings</l><l n="30" xml:id="spp-344-269R-line-30"> whole crouds about its Brason stringes</l></lg><lg n="4" type="stanza"><l n="31" xml:id="spp-344-269R-line-31">There is a chain let down from Jove&#13;</l><l n="32" xml:id="spp-344-269R-line-32"> but fastned to his throne aboue</l><l n="33" xml:id="spp-344-269R-line-33"> soe strang that from the lower end</l><l n="34" xml:id="spp-344-269R-line-34"> they Lay all human things depend</l><l n="35" xml:id="spp-344-269R-line-35"> this chain as ancient poets hold</l><l n="36" xml:id="spp-344-269R-line-36"> when jove was yo<add>u</add>ng was made of gold</l><l n="37" xml:id="spp-344-269R-line-37"> prometheus once this chain purloined</l><l n="38" xml:id="spp-344-269R-line-38"> disolved &amp; into mony coined</l><l n="39" xml:id="spp-344-269R-line-39"> then whipt mee on a Chain of Brass</l><l n="40" xml:id="spp-344-269R-line-40"> Venus was bribed to let it pass</l><l n="41" xml:id="spp-344-269R-line-41"> now while this Brazen chain prevailled</l><l n="42" xml:id="spp-344-269R-line-42"> Jove saw that all devotion failled</l><l n="43" xml:id="spp-344-269R-line-43"> no Temple to his godshipe Raised</l><l n="44" xml:id="spp-344-269R-line-44"> no sacrifice an alters blazed</l><l n="45" xml:id="spp-344-269R-line-45"> in short such dire confusions followed</l><l n="46" xml:id="spp-344-269R-line-46"> Earth must have been in <unclear>C overi</unclear>haos swallowed</l><l n="47" xml:id="spp-344-269R-line-47"> jove stood amazed but Looking round</l><l n="48" xml:id="spp-344-269R-line-48"> with much a doe the Cheat he found</l><l n="49" xml:id="spp-344-269R-line-49"> twas plaine he cauld no longer hold</l><l n="50" xml:id="spp-344-269R-line-50"> the world in any chain but gold</l><l n="51" xml:id="spp-344-269R-line-51"> &amp; to y<hi rend="sup">e</hi> god of wealth his his brother</l><l n="52" xml:id="spp-344-269R-line-52"> sent mercury to get another</l></lg><lg n="5" type="stanza"><l n="53" xml:id="spp-344-269R-line-53">prometheus on a rock is laid&#13;</l><l n="54" xml:id="spp-344-269R-line-54"> tyed with the Chain himself has made</l><l n="55" xml:id="spp-344-269R-line-55"> an icy Cascasus to shiver</l><l n="56" xml:id="spp-344-269R-line-56"> while vltures Eat his growing liver</l></lg><lg n="6" type="stanza"><l n="57" xml:id="spp-344-269R-line-57">Y<hi rend="sup">e</hi> powers of grubstreet make me able</l><l n="58" xml:id="spp-344-269R-line-58"> discretly to apply this fable</l><l n="59" xml:id="spp-344-269R-line-59"> say who is to be understood</l><l n="60" xml:id="spp-344-269R-line-60"> by that old thief prometheus wood</l><l n="61" xml:id="spp-344-269R-line-61"> for jove it is not hard to guess him</l><l n="62" xml:id="spp-344-269R-line-62"> j mean his m god bless him</l><l n="63" xml:id="spp-344-269R-line-63"> this thief &amp; Blacksmith was so bold</l><l n="64" xml:id="spp-344-269R-line-64"> he strove to steal that Chain of gold</l><l n="65" xml:id="spp-344-269R-line-65"> which links the subiect to the king</l><l n="66" xml:id="spp-344-269R-line-66"> &amp; chainge it for a Brazen string</l><l n="67" xml:id="spp-344-269R-line-67"> but sure if nothing Elce must pass</l><l n="68" xml:id="spp-344-269R-line-68"> between the king &amp; us but Brass</l><l n="69" xml:id="spp-344-269R-line-69"> altho the chain will <unclear>nev overa</unclear>er Crack</l><l n="70" xml:id="spp-344-269R-line-70"> yet our devotione may grow slack</l></lg><lg n="7" type="stanza"><l n="71" xml:id="spp-344-269R-line-71">but jove will sown Convert j hope&#13;</l><l n="72" xml:id="spp-344-269R-line-72"> this Brazen Chain into a rope</l><l n="73" xml:id="spp-344-269R-line-73"> with w<add>h</add>ich prometheus shall be tyed</l><l n="74" xml:id="spp-344-269R-line-74"> &amp; high in air for ever ride</l><l n="75" xml:id="spp-344-269R-line-75"> where if wee find his liver grows</l><l n="76" xml:id="spp-344-269R-line-76"> for want of Vultures wee have Crows344-269R   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

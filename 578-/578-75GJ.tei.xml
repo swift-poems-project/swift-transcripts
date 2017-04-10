@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the DAY of JUDGMENT,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="578-75GJ" type="letter"><head type="note" n="1" xml:id="spp-578-75GJ-headnote-1"><lg n="1" xml:id="spp-578-75GJ-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-578-75GJ-headnote-1-line-group-1-line-1">By D<hi rend="SMALL-CAPS">EAN </hi>S<hi rend="SMALL-CAPS">WIFT</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-578-75GJ-headnote-2"><lg n="1" xml:id="spp-578-75GJ-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-578-75GJ-headnote-2-line-group-1-line-1">Mr. U<hi rend="SMALL-CAPS">RBAN</hi>,</l></lg><lg n="2" xml:id="spp-578-75GJ-headnote-2-line-group-2" type="headnote"><l n="1" xml:id="spp-578-75GJ-headnote-2-line-group-2-line-1"><hi rend="display-initial">I</hi>N return for the pleasure which I often receive from the perusal of your agreeable miscellaneous work. I send you an original poem of Dean Swift's, which he never published. The discerning part of your readers will be at no loss to guess at the Dean's reasons for not making this piece public. His brethren of the cloth would certainly never have forgiven him, even though his satire seems to be levelled only at the <hi rend="underline">Fanatics</hi>. You may be assured of the authenticity of this little poem, when I refer you to the authority of Lord Chesterfield, who mentions it in letter LXVI. of the 2d vol. of the collection lately published. His Lordship expressly says he had the original, in the Dean's own hand writing; but there is no copy of it in the Barl's book. I am happy, however, in having it in my power to send you a correct copy for the entertainment of your readers.</l></lg><lg n="3" xml:id="spp-578-75GJ-headnote-2-line-group-3" type="headnote"><l n="1" xml:id="spp-578-75GJ-headnote-2-line-group-3-line-1"><note rend="flush right">MERCUTIO.</note></l></lg></head><head type="note" n="3" xml:id="spp-578-75GJ-headnote-3"><lg n="1" xml:id="spp-578-75GJ-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-578-75GJ-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-578-75GJ-line-1"> WITH a whirl of thought oppress'd,&#13;</l><l n="2" xml:id="spp-578-75GJ-line-2"> I sink from reverie to rest.</l><l n="3" xml:id="spp-578-75GJ-line-3"> An horrid vision seiz'd my head,</l><l n="4" xml:id="spp-578-75GJ-line-4"> I saw the graves give up their dead.</l><l n="5" xml:id="spp-578-75GJ-line-5"> Jove, arm'd with terrors, burst the skies,</l><l n="6" xml:id="spp-578-75GJ-line-6"> And thunder roars, and lightning flies!</l><l n="7" xml:id="spp-578-75GJ-line-7"> Amaz'd, confus'd, its fate unknown,</l><l n="8" xml:id="spp-578-75GJ-line-8"> The world stands trembling at his throne.</l><l n="9" xml:id="spp-578-75GJ-line-9"> While each pale sinner hangs his head,</l><l n="10" xml:id="spp-578-75GJ-line-10"> Jove, nodding, shook the heav'ns, and said,</l><l n="11" xml:id="spp-578-75GJ-line-11"> “Offending race of human kind,</l><l n="12" xml:id="spp-578-75GJ-line-12"> By nature, reason, learning, blind;</l><l n="13" xml:id="spp-578-75GJ-line-13"> You who through frailty step'd aside,</l><l n="14" xml:id="spp-578-75GJ-line-14"> And you who never fell──<hi rend="underline">thro' pride</hi>;</l><l n="15" xml:id="spp-578-75GJ-line-15"> You who in different sects have shamm'd,</l><l n="16" xml:id="spp-578-75GJ-line-16"> And come to see each other damn'd;</l><l n="17" xml:id="spp-578-75GJ-line-17"> (So some folks told you, but they knew</l><l n="18" xml:id="spp-578-75GJ-line-18"> No more of Jove's designs than you)</l><l n="19" xml:id="spp-578-75GJ-line-19"> The world's mad business now is o'er,</l><l n="20" xml:id="spp-578-75GJ-line-20"> And I resent these pranks no more.</l><l n="21" xml:id="spp-578-75GJ-line-21"> I to such blockheads set my wit!</l><l n="22" xml:id="spp-578-75GJ-line-22"> I damn such fools!──Go, go, you're bit.”578-75GJ   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

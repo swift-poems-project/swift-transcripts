@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><lb/>THEATRE-ROYAL</title>
+        <title>IN</title>
+        <title><hi rend="underline">Behalf of the Poor </hi>Weavers<hi rend="underline"> of the City</hi></title>
+        <title><hi rend="underline">of </hi>Dublin<hi rend="underline">, April, </hi>1<hi rend="underline">st</hi>. 1720</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JR"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S053S413" type="poem"><head type="note" n="1" xml:id="spp-S053S413-headnote-1"><lg n="1" xml:id="spp-S053S413-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-S053S413-headnote-1-line-group-1-line-1">By Mr. ELRINGTON.</l></lg></head><head type="note" n="2" xml:id="spp-S053S413-headnote-2"><lg n="1" xml:id="spp-S053S413-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-S053S413-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-S053S413-headnote-3"><lg n="1" xml:id="spp-S053S413-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-S053S413-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-S053S413-line-1"><hi rend="display-initial">G</hi>REAT Cry and little <hi rend="underline">Wool</hi>────is now become,</l><l n="2" xml:id="spp-S053S413-line-2"> The Plague and Proverb of the <hi rend="underline">Weavers Loom</hi>:</l><l n="3" xml:id="spp-S053S413-line-3"> No <hi rend="underline">Wool</hi> to Work on, neither <hi rend="underline">Weft</hi> nor <hi rend="underline">Warp</hi>,</l><l n="4" xml:id="spp-S053S413-line-4"> Their Pockets empty, and their Stomachs Sharp;</l><l n="5" xml:id="spp-S053S413-line-5"> Provok'd in loud Complaints, to you they cry,</l><l n="6" xml:id="spp-S053S413-line-6"> Ladies, <hi rend="underline">Relieve the Weavers, or they Die</hi>;</l><l n="7" xml:id="spp-S053S413-line-7"> Forsake your <hi rend="underline">Silks</hi> for <hi rend="underline">Stuffs</hi>, nor think it strange</l><l n="8" xml:id="spp-S053S413-line-8"> To shift your Cloaths, since you delight in Change;</l><l n="9" xml:id="spp-S053S413-line-9"> One thing with Freedom I'll presume to tell,<hi rend="underline">The Men will like you every bit as well</hi>.</l></lg><lg n="2" type="triplet"><l n="10" xml:id="spp-S053S413-line-10">See, I am dress'd from Top to Toe in <hi rend="underline">Stuff</hi>,</l><l n="11" xml:id="spp-S053S413-line-11"> And by my Troth I think I'm fine enough:</l><l n="12" xml:id="spp-S053S413-line-12"> My Wife Admires me more, and Swears she never</l><l n="13" xml:id="spp-S053S413-line-13"> In any Dress beheld me look so Clever.</l><l n="14" xml:id="spp-S053S413-line-14"> And if a Man be better in such <hi rend="underline">Ware</hi>,</l><l n="15" xml:id="spp-S053S413-line-15"> What great Advantage must it give the Fair.</l><l n="16" xml:id="spp-S053S413-line-16"> Our <hi rend="underline">Wool</hi> from <hi rend="underline">Lambs</hi> of Innocence proceeds,</l><l n="17" xml:id="spp-S053S413-line-17"> Silk comes from <hi rend="underline">Maggots, Callicoes</hi> from <hi rend="underline">Weeds</hi>.</l><l n="18" xml:id="spp-S053S413-line-18"> Hence 'tis by sad Experience that we find,</l><l n="19" xml:id="spp-S053S413-line-19"> Ladies in <hi rend="underline">Silk</hi> to <hi rend="underline">Vapours</hi> are inclin'd,</l><l n="20" xml:id="spp-S053S413-line-20"> And what are they but <hi rend="underline">Maggots</hi> in the Mind.</l><l n="21" xml:id="spp-S053S413-line-21"> For which I think it Reason to Conclude</l><l n="22" xml:id="spp-S053S413-line-22"> That Cloaths may change our Tempers with our Food.<hi rend="underline">Chinces</hi> are gawdy, and engage our Eyes,</l><l n="23" xml:id="spp-S053S413-line-23"> Too much about the party colour'd Dies:</l><l n="24" xml:id="spp-S053S413-line-24"> Altho' the Luster is from you begun,</l><l n="25" xml:id="spp-S053S413-line-25"> We see the <hi rend="underline">Rain-bow</hi>, and neglect the <hi rend="underline">Sun</hi>.</l></lg><lg n="3" type="stanza"><l n="26" xml:id="spp-S053S413-line-26">How Sweet and Innocent's the Country Maid&#13;</l><l n="27" xml:id="spp-S053S413-line-27"> With small expence, in Native <hi rend="underline">Wool</hi> array'd;</l><l n="28" xml:id="spp-S053S413-line-28"> Who copies from the Fields her homely Green,</l><l n="29" xml:id="spp-S053S413-line-29"> While by her Shepherd with delight she's seen;</l><l n="30" xml:id="spp-S053S413-line-30"> Shou'd our Fair Ladies dress like her in <hi rend="underline">Wooll</hi>,</l><l n="31" xml:id="spp-S053S413-line-31"> How much more Lovely, and how Beautiful!</l><l n="32" xml:id="spp-S053S413-line-32"> Without their <hi rend="underline">Indian</hi> Drapery they'd prove</l><l n="33" xml:id="spp-S053S413-line-33"> And <hi rend="underline">Wool</hi> wou'd help to warm them into Love;</l><l n="34" xml:id="spp-S053S413-line-34"> Then like the famous <hi rend="underline">Argonauts</hi> of <hi rend="underline">Greece</hi>,</l><l n="35" xml:id="spp-S053S413-line-35"> We'd all contend to gain the <hi rend="underline">Golden-Fleece</hi>.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

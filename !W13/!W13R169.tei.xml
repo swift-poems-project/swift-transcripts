@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Rev<hi rend="sup">d.</hi> Dr. <hi rend="underline">S</hi>---- Answer to the Di-</title>
+        <title>stress'd Maids Petition,</title>
+        <title>Being a State of the Case, setting forth<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="!W13R169" type="poem"><head type="note" n="1" xml:id="spp-!W13R169-headnote-1"><lg n="1" xml:id="spp-!W13R169-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-!W13R169-headnote-1-line-group-1-line-1"><hi rend="underline">Ditto</hi>, In Imitation of <hi rend="underline">Frances Harris</hi>'s Petition.</l></lg></head><head type="note" n="2" xml:id="spp-!W13R169-headnote-2"><lg n="1" xml:id="spp-!W13R169-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-!W13R169-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-!W13R169-headnote-3"><lg n="1" xml:id="spp-!W13R169-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-!W13R169-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-!W13R169-line-1"><hi rend="underline">MADAM</hi>,</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-!W13R169-line-2"><hi rend="display-initial">W</hi>HEREAS you were never Marry'd, tho' come to the Years of Five and twenty,</l><l n="3" xml:id="spp-!W13R169-line-3"> Being <hi rend="underline">Co-Heiress</hi> to an Estate of 800 l. <hi rend="underline">per Annum, Nemine Contradicente</hi>,</l><l n="4" xml:id="spp-!W13R169-line-4"> Which said Estate is somewhat Incumber'd, as you have hinted,</l><l n="5" xml:id="spp-!W13R169-line-5"> And briefly set forth in your <hi rend="underline">Petition</hi>, lately printed.</l><l n="6" xml:id="spp-!W13R169-line-6" rend="indent(1)"> And now <hi rend="underline">Whereas</hi> you are well-disposed and willing to <hi rend="underline">Make-  over</hi></l><l n="7" xml:id="spp-!W13R169-line-7"> Your <hi rend="underline">Body</hi> and <hi rend="underline">Estate</hi>, to the <hi rend="underline">said</hi> certain C────k, your Lover;</l><l n="8" xml:id="spp-!W13R169-line-8"> As he also on the other hand, with his Body and Purse,</l><l n="9" xml:id="spp-!W13R169-line-9"> Is satisfy'd to take with you, <hi rend="underline">for better or worse,</hi>, during all the Days of his Life,</l><l n="10" xml:id="spp-!W13R169-line-10"> To Have and to Hold</l><l n="11" xml:id="spp-!W13R169-line-11"> (<hi rend="underline">Notwithstanding any thing to the contrary</hi>) as his lawful Wife</l><l n="12" xml:id="spp-!W13R169-line-12"> But <hi rend="underline">Whereas</hi>, in case that you shou'd happen to Marry</l><l n="13" xml:id="spp-!W13R169-line-13"> Without your Mother's Consent, you are likely to Miscarry;</l><l n="14" xml:id="spp-!W13R169-line-14"> And <hi rend="underline">Whereas</hi>, tho' at First, it was her Good-will and and Pleasure,</l><l n="15" xml:id="spp-!W13R169-line-15"> That you should Marry the aforesaid C────k, on account of his Treasure;</l><l n="16" xml:id="spp-!W13R169-line-16"> She now seemeth <hi rend="underline">Therein</hi> altogether unwilling,</l><l n="17" xml:id="spp-!W13R169-line-17"> And Vows, <hi rend="underline">If you do it, to cut you off with a Shilling:</hi> of the <hi rend="underline">said Defendant</hi>, you may depend on't;<hi rend="underline">Wherefore</hi> as far as I have hitherto taken Notice,</l><l n="18" xml:id="spp-!W13R169-line-18"> All which Actings and Doings</l><l n="19" xml:id="spp-!W13R169-line-19"> Are contrary to Equity and Law</l><l n="20" xml:id="spp-!W13R169-line-20"> And as <hi rend="underline">I humbly Conceive</hi>, in <hi rend="underline">Verbum Sacerdotis</hi>,</l><l n="21" xml:id="spp-!W13R169-line-21"> That the said <hi rend="underline">Defendant</hi> may be brought fairly to Answer ye,</l><l n="22" xml:id="spp-!W13R169-line-22"> The only way you have, is to <hi rend="underline">File a BILL in</hi> Chancery<hi rend="underline">And to the End that</hi> you and the C────k may have a Release,</l><l n="23" xml:id="spp-!W13R169-line-23"> According to the Nature and Circumstances of the Case.</l></lg><lg n="3" type="stanza"><l n="24" xml:id="spp-!W13R169-line-24">Pray a <hi rend="underline">Subp<unclear>ae</unclear>na</hi> to Answer against the <hi rend="underline">Defendant'</hi>s<hi rend="underline"> Clause</hi>,</l><l n="25" xml:id="spp-!W13R169-line-25"> That She be obliged to <hi rend="underline">shew good and sufficient Cause,</hi> She, <hi rend="underline">contrary</hi> to her former Compunction,<hi rend="underline">Refuses</hi> to Consent to the Match; and pray an <hi rend="underline">Injunction</hi>,</l><l n="26" xml:id="spp-!W13R169-line-26"> Wherefore</l><l n="27" xml:id="spp-!W13R169-line-27"> Directed to the Sheriffs of the City of <hi rend="underline">Dublin</hi> quickly;</l><l n="28" xml:id="spp-!W13R169-line-28"> Another to the Sheriff of the County of <hi rend="underline">Wicklow</hi>,</l><l n="29" xml:id="spp-!W13R169-line-29"> The One, in order to put the aforesaid <hi rend="underline">P────f────g</hi> Noddy,<hi rend="underline">In Possession of your Estate</hi>, and the Other, <hi rend="underline">in Possession of your Body</hi>.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

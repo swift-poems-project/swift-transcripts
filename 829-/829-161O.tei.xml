@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Legion-club.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle"/>
+          <resp>transcription</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="829-161O" type="poem"><head type="note" n="1" xml:id="spp-829-161O-headnote-1"><lg n="1" xml:id="spp-829-161O-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-829-161O-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-829-161O-headnote-2"><lg n="1" xml:id="spp-829-161O-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-829-161O-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-829-161O-headnote-3"><lg n="1" xml:id="spp-829-161O-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-829-161O-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-829-161O-line-1"><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/> How I want thee, hum'rous Hogarth!&#13;</l><l n="2" xml:id="spp-829-161O-line-2"> Thou, I hear, a pleasant Rogue art;</l><l n="3" xml:id="spp-829-161O-line-3"> Were but you &amp; I acquainted,</l><l n="4" xml:id="spp-829-161O-line-4"> Ev'ry Monster should be painted:</l><l n="5" xml:id="spp-829-161O-line-5"> You should try your graving Tools</l><l n="6" xml:id="spp-829-161O-line-6"> On this odious Group of fools,</l><l n="7" xml:id="spp-829-161O-line-7"> Draw the Beasts as I describe them,</l><l n="8" xml:id="spp-829-161O-line-8"> Form their features, while I gibe them;</l><l n="9" xml:id="spp-829-161O-line-9"> Draw them like, for, I assure ye,</l><l n="10" xml:id="spp-829-161O-line-10"> You will need no Car'catura;</l><l n="11" xml:id="spp-829-161O-line-11"> Draw them so that we may trace</l><l n="12" xml:id="spp-829-161O-line-12"> All the Soul in ev'ry face.<gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/><gap/>829-161O   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

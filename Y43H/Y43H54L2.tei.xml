@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LXXIX.<lb/><hi rend="underline">On Sir</hi> M<hi rend="SMALL-CAPS">ARMADUKE</hi> W<hi rend="SMALL-CAPS">YVILL<hi rend="underline">'s receiving three<lb/>Letters by the same Post, advising of the Death of<lb/>his Mistress, his Wife, and his Horse</hi>.</hi></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y43H54L2"><head type="note" n="1" xml:id="spp-Y43H54L2-headnote-1"><lg n="1" xml:id="spp-Y43H54L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y43H54L2-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-Y43H54L2-headnote-2"><lg n="1" xml:id="spp-Y43H54L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y43H54L2-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-Y43H54L2-headnote-3"><lg n="1" xml:id="spp-Y43H54L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y43H54L2-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-Y43H54L2-line-1"><hi rend="display-initial">I</hi>'VE lost my Mistress, Horse and Wife;</l><l/><l n="2" xml:id="spp-Y43H54L2-line-2">But when I think on human Life,</l><l/><l n="3" xml:id="spp-Y43H54L2-line-3">I'm glad it is no worse.</l><l/><l n="4" xml:id="spp-Y43H54L2-line-4">My Wife was ugly, and a Scold;</l><l/><l n="5" xml:id="spp-Y43H54L2-line-5">My Mistress was grown lean, and old;</l><l/><l n="6" xml:id="spp-Y43H54L2-line-6">I'm sorry for my Horse.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1731.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="540-281L" type="poem"><head type="note" n="1" xml:id="spp-540-281L-headnote-1"><lg n="1" xml:id="spp-540-281L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-540-281L-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-540-281L-headnote-2"><lg n="1" xml:id="spp-540-281L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-540-281L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-540-281L-headnote-3"><lg n="1" xml:id="spp-540-281L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-540-281L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-540-281L-line-1"> Conservant du passé vn leger Souvenir&#13;</l><l n="2" xml:id="spp-540-281L-line-2"> Eblouij du present, sans percer l'avenir;</l><l n="3" xml:id="spp-540-281L-line-3"> Dans l'art de gouvener Decrepit, et Novice,</l><l n="4" xml:id="spp-540-281L-line-4"> Punissant La Vertue, Recompansant Le Vice;</l><l n="5" xml:id="spp-540-281L-line-5"> Malgré Sa Tête Altiere, Accablé de son Rang,</l><l n="6" xml:id="spp-540-281L-line-6"> Fourbe dans Le Petit, Dupe dans le Grand.L'on connoit a ces traits, sans même qu'on le nomne,La Maïtre de La France, et Le Valet de Rome.</l></lg><lg n="2" type="stanza"><l n="7" xml:id="spp-540-281L-line-7" rend="align(center)"><hi rend="underline">Translated to a certain M──r</hi>.</l></lg><lg n="3" type="stanza"><l n="8" xml:id="spp-540-281L-line-8" rend="flush left"/></lg><lg n="4" type="stanza"><l n="9" xml:id="spp-540-281L-line-9">With Favour and Fortune fastidiously blest,&#13;</l><l n="10" xml:id="spp-540-281L-line-10"> He is Loud in his Laugh, &amp; he's course in his jest:</l><l n="11" xml:id="spp-540-281L-line-11"> Of Favour and Fortune Unmerited Vain,</l><l n="12" xml:id="spp-540-281L-line-12"> A Sharper in Trifles, a Dupe in the main.</l><l n="13" xml:id="spp-540-281L-line-13"> Atchieving of nothing, Still promising Wonders,</l><l n="14" xml:id="spp-540-281L-line-14"> By dint of Experience, Improving in Blunders,<gap/><gap/></l><l n="15" xml:id="spp-540-281L-line-15"> A Iobber of Stocks, by retailing False Newes,</l><l n="16" xml:id="spp-540-281L-line-16"> A Prater att Court, in the Style of the Stews;</l><l n="17" xml:id="spp-540-281L-line-17"> Of Vertu and Worth, by profession a Giber,</l><l n="18" xml:id="spp-540-281L-line-18"> Of Iuryes and Senates, the Bully, and Briber.Thô I name not this Wretch, You know Who I mean'Tis the Currdogg of Brittain, &amp; Spaniel of Spain.<gap/>540-281L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

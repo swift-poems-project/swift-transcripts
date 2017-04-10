@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">Extempore Verses</hi> by <hi rend="underline">D<hi rend="sup">r.</hi> <hi rend="underline">Swift</hi>, on his</hi></title>
+        <title><hi rend="underline">Curate's</hi> complaining of <hi rend="underline">hard Duty</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="675-052L" type="poem"><head type="note" n="1" xml:id="spp-675-052L-headnote-1"><lg n="1" xml:id="spp-675-052L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-675-052L-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-675-052L-headnote-2"><lg n="1" xml:id="spp-675-052L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-675-052L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-675-052L-headnote-3"><lg n="1" xml:id="spp-675-052L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-675-052L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-675-052L-line-1"> I march'd <hi rend="underline">three Miles</hi> on scorching Sand,</l><l n="2" xml:id="spp-675-052L-line-2"> With Zeal in Heart, &amp; Notes in Hand.</l><l n="3" xml:id="spp-675-052L-line-3"> I rode <hi rend="underline">four more</hi> to <hi rend="underline">Great S<hi rend="sup">t.<hi rend="underline"> Mary</hi></hi></hi>,</l><l n="4" xml:id="spp-675-052L-line-4"> Using <hi rend="underline">four Legs</hi>, when <hi rend="underline">two</hi> were weary.</l><l n="5" xml:id="spp-675-052L-line-5"> To <hi rend="underline">two fair Virgins</hi> did I tie Men</l><l n="6" xml:id="spp-675-052L-line-6"> In the close Bands of pleasing <hi rend="underline">Hymen</hi>.</l><l n="7" xml:id="spp-675-052L-line-7"> I dipt <hi rend="underline">three Babes</hi> in <hi rend="underline">Holy Water</hi>,</l><l n="8" xml:id="spp-675-052L-line-8"> And <hi rend="underline">purified</hi> their <hi rend="underline">Mothers</hi> after.</l><l n="9" xml:id="spp-675-052L-line-9"> Within an <hi rend="underline">Hour</hi> &amp; eke <hi rend="underline">an half</hi>,</l><l n="10" xml:id="spp-675-052L-line-10"> I preach'd <hi rend="underline">three Congregations</hi> deaf:<gap/><gap/></l><l n="11" xml:id="spp-675-052L-line-11"> Which thundring out with Lungs Long-winded,</l><l n="12" xml:id="spp-675-052L-line-12"> I chopt so fast, that few there minded.</l><l n="13" xml:id="spp-675-052L-line-13"> My <hi rend="underline">Emblem</hi>, the <hi rend="underline">unwearied Sun</hi>,</l><l n="14" xml:id="spp-675-052L-line-14"> Saw all these mighty Labours done,</l><l n="15" xml:id="spp-675-052L-line-15"> Before <hi rend="underline">one Race</hi> of his was run.</l><l n="16" xml:id="spp-675-052L-line-16"> All this perform'd by <hi rend="underline">Robert Hewitt</hi>.</l><l n="17" xml:id="spp-675-052L-line-17"> What Mortal else could e're go thro' it?675-052L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y42B563J" type="poem"><head type="note" n="1" xml:id="spp-Y42B563J-headnote-1"><lg n="1" xml:id="spp-Y42B563J-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y42B563J-headnote-1-line-group-1-line-1">I must tell you in Prose that since I writ this, I am Loose; I think to go Orleans in a day or two from whence you shall hear from me again.</l></lg></head><head type="note" n="2" xml:id="spp-Y42B563J-headnote-2"><lg n="1" xml:id="spp-Y42B563J-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y42B563J-headnote-2-line-group-1-line-1">Paris 28<hi rend="sup">th</hi> 08. Aug<hi rend="sup">t</hi> 08. NS. <lb/> 1713</l></lg></head><head type="note" n="3" xml:id="spp-Y42B563J-headnote-3"><lg n="1" xml:id="spp-Y42B563J-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y42B563J-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y42B563J-line-1"> Good M<hi rend="sup">ṛ</hi> Ford I shoud be glad to Know,</l><l n="2" xml:id="spp-Y42B563J-line-2"> How all Affairs w<hi rend="sup">tḥ</hi> you at Present go.</l><l n="3" xml:id="spp-Y42B563J-line-3"> Whether Fresh Air at Windsor you respire,</l><l n="4" xml:id="spp-Y42B563J-line-4"> Or breath in Town the smoak of sea coal Fire;</l><l n="5" xml:id="spp-Y42B563J-line-5"> What Now y<hi rend="sup">ṛ</hi> Learned Authors are About,</l><l n="6" xml:id="spp-Y42B563J-line-6"> And What New plays since Cato are come out.</l><l n="7" xml:id="spp-Y42B563J-line-7"> How do the Tribe of Whiggish scriblers thrive,</l><l n="8" xml:id="spp-Y42B563J-line-8"> Now peace is made, is Ridpath still alive?</l><l n="9" xml:id="spp-Y42B563J-line-9"> What News from Dublin of our Friend the Dean,</l><l n="10" xml:id="spp-Y42B563J-line-10"> And When he Talks of seeing you again?</l><l n="11" xml:id="spp-Y42B563J-line-11"> You I suppose too woud be glad to hear,</l><l n="12" xml:id="spp-Y42B563J-line-12"> What I &amp; others are a doing here.</l><l n="13" xml:id="spp-Y42B563J-line-13"> I'me·<unclear>del illegible</unclear> Confin'd the rest of the world is free</l><l n="14" xml:id="spp-Y42B563J-line-14"> And Ev'ry body's happy here butt me.</l><l n="15" xml:id="spp-Y42B563J-line-15"> T'is all my Fault &amp; greatly I'me to blame,</l><l n="16" xml:id="spp-Y42B563J-line-16"> Oft was I told of this before I came.</l><l n="17" xml:id="spp-Y42B563J-line-17"> So th'·unexperienc'd youth as Ovid sings,</l><l n="18" xml:id="spp-Y42B563J-line-18"> Still woud soar on &amp; Melted both his Wings.</l><l n="19" xml:id="spp-Y42B563J-line-19"> Besett w<hi rend="sup">tḥ</hi> Guards I'me watch'd w<hi rend="sup">tḥ</hi> greater Care,</l><l n="20" xml:id="spp-Y42B563J-line-20"> Than ere the Fleece or golden Apples were.</l><l n="21" xml:id="spp-Y42B563J-line-21"> O that <unclear>ins with caretnow</unclear> y<hi rend="sup">ẹ</hi> Gods a Theseus woud send,</l><l n="22" xml:id="spp-Y42B563J-line-22"> To doze these Dogs &amp; Carry of his Friend.</l><l n="23" xml:id="spp-Y42B563J-line-23"> Excuse then If after w<hi rend="sup">ṭ</hi> I've told,</l><l n="24" xml:id="spp-Y42B563J-line-24"> My Words are faint, my fancy not so bold.</l><l n="25" xml:id="spp-Y42B563J-line-25"> Ph<unclear>oe</unclear>bus &amp; y<hi rend="sup">ẹ</hi> Muses refuse t'inspire,</l><l n="26" xml:id="spp-Y42B563J-line-26"> And to Anxious Mind Forbid y<hi rend="sup">ẹ</hi> Lyre.</l><l n="27" xml:id="spp-Y42B563J-line-27"> No more w<hi rend="sup">tḥ</hi> strength or pleasure can I write,</l><l n="28" xml:id="spp-Y42B563J-line-28"> Than a poor soldier when he's wounded fight,</l><l n="29" xml:id="spp-Y42B563J-line-29"> W<hi rend="sup">tḥ</hi> Ev'ry Line My Drooping spirits sink,</l><l n="30" xml:id="spp-Y42B563J-line-30"> And still I'me more Confus'd the More <hi rend="underline">I think</hi>.</l></lg><lg n="2" type="stanza"><l n="31" xml:id="spp-Y42B563J-line-31">Y<hi rend="sup">ṛ</hi> Most humble S<hi rend="sup">ṭ</hi> BVanHomrighY42B563J   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

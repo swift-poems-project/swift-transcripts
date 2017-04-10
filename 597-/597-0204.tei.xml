@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">APOLLO</hi>: or a PROBLEM solved.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder "/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-597-0204-footnote-1 #spp-597-0204-line-30"/>
+        </linkGrp>
+        <div n="597-0204" type="poem"><head type="note" n="1" xml:id="spp-597-0204-headnote-1"><lg n="1" xml:id="spp-597-0204-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-597-0204-headnote-1-line-group-1-line-1">Written in the Year 1731.</l></lg></head><head type="note" n="2" xml:id="spp-597-0204-headnote-2"><lg n="1" xml:id="spp-597-0204-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-597-0204-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-597-0204-headnote-3"><lg n="1" xml:id="spp-597-0204-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-597-0204-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-597-0204-line-1"><hi rend="display-initial">A</hi><hi rend="underline">POLLO</hi>, God of Light and Wit,</l><l n="2" xml:id="spp-597-0204-line-2"> Could Verse inspire, but seldom writ:</l><l n="3" xml:id="spp-597-0204-line-3"> Refin'd all Metals with his Looks,</l><l n="4" xml:id="spp-597-0204-line-4"> As well as Chymists by their Books:</l><l n="5" xml:id="spp-597-0204-line-5"> As handsome as my Lady's Page;</l><l n="6" xml:id="spp-597-0204-line-6"> Sweet Five-and-twenty was his Age.</l><l n="7" xml:id="spp-597-0204-line-7"> His Wig was made of sunny Rays,</l><l n="8" xml:id="spp-597-0204-line-8"> He crown'd his youthful Head with Bays:</l><l n="9" xml:id="spp-597-0204-line-9"> Not all the Court of Heav'n could shew</l><l n="10" xml:id="spp-597-0204-line-10"> So nice and so compleat a Beau.</l><l n="11" xml:id="spp-597-0204-line-11"> No Heir, upon his first Appearance,</l><l n="12" xml:id="spp-597-0204-line-12"> With twenty Thousand Pounds a Year Rents,</l><l n="13" xml:id="spp-597-0204-line-13"> E'er drove, before he sold his Land,</l><l n="14" xml:id="spp-597-0204-line-14"> So fine a Coach along the Strand;</l><l n="15" xml:id="spp-597-0204-line-15"> The Spokes, we are by <hi rend="underline">Ovid</hi> told,</l><l n="16" xml:id="spp-597-0204-line-16"> Were Silver, and the Axle Gold.</l><l n="17" xml:id="spp-597-0204-line-17"> I own, 'twas but a Coach and Four,</l><l n="18" xml:id="spp-597-0204-line-18"> For <hi rend="underline">Jupiter</hi> allows no more.</l></lg><lg n="2" type="stanza"><l n="19" xml:id="spp-597-0204-line-19">Yet, with his Beauty, Wealth, and Parts,&#13;</l><l n="20" xml:id="spp-597-0204-line-20"> Enough to win ten thousand Hearts;</l><l n="21" xml:id="spp-597-0204-line-21"> No vulgar Deity above</l><l n="22" xml:id="spp-597-0204-line-22"> Was so unfortunate in Love.</l></lg><lg n="3" type="stanza"><l n="23" xml:id="spp-597-0204-line-23">Three weighty Causes were assign'd,&#13;</l><l n="24" xml:id="spp-597-0204-line-24"> That mov'd the Nymphs to be unkind.</l><l n="25" xml:id="spp-597-0204-line-25"> Nine Muses always waiting round him,</l><l n="26" xml:id="spp-597-0204-line-26"> He left them Virgins as he found 'em.</l><l n="27" xml:id="spp-597-0204-line-27"> His Singing was another Fault;</l><l n="28" xml:id="spp-597-0204-line-28"> For he could reach to <hi rend="underline">B</hi> in <hi rend="underline">alt</hi>:</l><l n="29" xml:id="spp-597-0204-line-29"> And, by the Sentiments of <hi rend="underline">Pliny</hi>,</l><l n="30" xml:id="spp-597-0204-line-30"> Such Singers are like <ref target="#spp-597-0204-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-597-0204-footnote-1">An Eunuch, a famous <hi rend="underline">Italian</hi> Singer.</note><hi rend="underline">Nicolini</hi>.</l><l n="31" xml:id="spp-597-0204-line-31"> At last, the Point was fully clear'd;</l><l n="32" xml:id="spp-597-0204-line-32"> In short; <hi rend="underline">Apollo</hi> had no Beard.597-0204   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE WIDOW AND HER CAT.</title>
+        <title xml:id="spp-153-72H1-title-1">A FABLE <ref target="#spp-153-72H1-footnote-title-1">1</ref><note n="1" xml:id="spp-153-72H1-footnote-title-1" place="foot">This and the following Fable are not positively ascribed to <hi rend="underline">Swift</hi>. They are very much in the manner of <hi rend="underline">Prior</hi>.</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-153-72H1-footnote-title-1 #spp-153-72H1-title-1"/>
+        </linkGrp>
+        <div n="153-72H1" type="poem"><head type="note" n="1" xml:id="spp-153-72H1-headnote-1"><lg n="1" xml:id="spp-153-72H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-153-72H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-153-72H1-headnote-2"><lg n="1" xml:id="spp-153-72H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-153-72H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-153-72H1-headnote-3"><lg n="1" xml:id="spp-153-72H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-153-72H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-153-72H1-line-1" rend="align(center)">I.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-153-72H1-line-2" rend="flush left"><hi rend="display-initial">A</hi> Widow kept a favourite cat,At first a gentle creature;</l><l n="3" xml:id="spp-153-72H1-line-3"> But when he was grown sleek and fat,</l><l n="4" xml:id="spp-153-72H1-line-4"> With many a mouse, and many a rat,He soon disclos'd his nature.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-153-72H1-line-5" rend="align(center)">II.</l></lg><lg n="4" type="stanza"><l n="6" xml:id="spp-153-72H1-line-6" rend="flush left">The fox and he were friends of old,&#13;Nor could they now be parted;</l><l n="7" xml:id="spp-153-72H1-line-7"> They nightly slunk to rob the fold,</l><l n="8" xml:id="spp-153-72H1-line-8"> Devour'd the lambs, the fleeces sold;And <hi rend="underline">Puss</hi> grew lion-hearted.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-153-72H1-line-9" rend="align(center)">III.</l></lg><lg n="6" type="stanza"><l n="10" xml:id="spp-153-72H1-line-10" rend="flush left">He scratch'd her maid, he stole the cream,&#13;He tore her best lac'd pinner;</l><l n="11" xml:id="spp-153-72H1-line-11"> Nor <hi rend="underline">Chanticleer</hi> upon the beam,</l><l n="12" xml:id="spp-153-72H1-line-12"> Nor chick, nor duckling, 'scapes, when <hi rend="underline">Grim</hi>Invites the fox to dinner.</l></lg><lg n="7" type="stanza"><l n="13" xml:id="spp-153-72H1-line-13" rend="align(center)">IV.</l></lg><lg n="8" type="stanza"><l n="14" xml:id="spp-153-72H1-line-14" rend="flush left">The dame full wisely did decree,&#13;For fear he should dispatch more,</l><l n="15" xml:id="spp-153-72H1-line-15"> That the false wretch should worried be;</l><l n="16" xml:id="spp-153-72H1-line-16"> But in a saucy manner heThus speech'd it, like a <hi rend="underline">Lechmere</hi>:</l></lg><lg n="9" type="stanza"><l n="17" xml:id="spp-153-72H1-line-17" rend="align(center)">V.</l></lg><lg n="10" type="stanza"><l n="18" xml:id="spp-153-72H1-line-18" rend="flush left">“Must I, against all right and law,&#13;“Like pole-cat vile be treated?</l><l n="19" xml:id="spp-153-72H1-line-19"> “I! who so long with tooth and claw</l><l n="20" xml:id="spp-153-72H1-line-20"> “Have kept domestic mice in awe,“And foreign foes defeated!</l></lg><lg n="11" type="stanza"><l n="21" xml:id="spp-153-72H1-line-21" rend="align(center)">VI.</l></lg><lg n="12" type="stanza"><l n="22" xml:id="spp-153-72H1-line-22" rend="flush left">“Your golden-pippins, and your pies,&#13;“How oft' have I defended!</l><l n="23" xml:id="spp-153-72H1-line-23"> “Tis true, the pinner which you prize</l><l n="24" xml:id="spp-153-72H1-line-24"> “I tore in frolick; to your eyes“I never harm intended.</l></lg><lg n="13" type="stanza"><l n="25" xml:id="spp-153-72H1-line-25" rend="align(center)">VII.</l></lg><lg n="14" type="stanza"><l n="26" xml:id="spp-153-72H1-line-26" rend="flush left">“I am a cat of honour”──“Stay!”&#13;Quoth she, “no longer parley;</l><l n="27" xml:id="spp-153-72H1-line-27"> “Whate'er you did in battle slay,</l><l n="28" xml:id="spp-153-72H1-line-28"> “By law of arms became your prey:“I hope you won it fairly.</l></lg><lg n="15" type="stanza"><l n="29" xml:id="spp-153-72H1-line-29" rend="align(center)">VIII.</l></lg><lg n="16" type="stanza"><l n="30" xml:id="spp-153-72H1-line-30" rend="flush left">“Of this we·'ll grant you stand acquit,&#13;“But not of your outrages:</l><l n="31" xml:id="spp-153-72H1-line-31"> “Tell me, Perfidious! was it fit</l><l n="32" xml:id="spp-153-72H1-line-32"> “To make my cream a perquisite,“And steal, to mend your wages?</l></lg><lg n="17" type="stanza"><l n="33" xml:id="spp-153-72H1-line-33" rend="align(center)">IX.</l></lg><lg n="18" type="stanza"><l n="34" xml:id="spp-153-72H1-line-34" rend="flush left">“So flagrant is thy insolence,&#13;“So vile thy breach of trust is;</l><l n="35" xml:id="spp-153-72H1-line-35"> “That longer with thee to dispense,</l><l n="36" xml:id="spp-153-72H1-line-36"> “Were want of power, or want of sense──“Here, <hi rend="underline">Towzer</hi>!──do him justice.”153-72H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

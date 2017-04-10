@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X99B85AJ" type="poem"><head type="note" n="1" xml:id="spp-X99B85AJ-headnote-1"><lg n="1" xml:id="spp-X99B85AJ-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X99B85AJ-headnote-1-line-group-1-line-1"><hi rend="underline">The following Lines were written on a Pane of Glass in one of the Windows of Bishop</hi> B<hi rend="SMALL-CAPS">EDELL</hi>'s <hi rend="underline">House, adjoining the Church-Yard till a few Years ago, when the Sash was taken down. They are supposed to be written by Doctor</hi> S<hi rend="SMALL-CAPS">HERIDAN</hi>, <hi rend="underline">about the Year 1731</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-X99B85AJ-headnote-2"><lg n="1" xml:id="spp-X99B85AJ-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X99B85AJ-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X99B85AJ-headnote-3"><lg n="1" xml:id="spp-X99B85AJ-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X99B85AJ-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X99B85AJ-line-1"><hi rend="display-initial">R</hi>ESOLVE me this, ye happy dead,</l><l n="2" xml:id="spp-X99B85AJ-line-2"> Whov'e lain some hundred years in bed,</l><l n="3" xml:id="spp-X99B85AJ-line-3"> From every persecution free,</l><l n="4" xml:id="spp-X99B85AJ-line-4"> Which in this wretched life we see;</l><l n="5" xml:id="spp-X99B85AJ-line-5"> Would ye resume a second birth,</l><l n="6" xml:id="spp-X99B85AJ-line-6"> And chuse once more to live on earth?X99B85AJ   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

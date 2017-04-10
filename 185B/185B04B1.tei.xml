@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>XCIX. LINES BY LORD TREA-</title>
+        <title>SURER OXFORD; SENT TO DEAN SWIFT,</title>
+        <title>DR. ARBUTHNOT, MR. POPE, AND</title>
+        <title>MR. GAY; WITH THEIR ANSWER:<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CCalella"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-185B04B1-footnote-1 #spp-185B04B1-line-2"/>
+          <link target="#spp-185B04B1-footnote-2 #spp-185B04B1-line-4"/>
+        </linkGrp>
+        <div n="185B04B1" type="poem"><head type="note" n="1" xml:id="spp-185B04B1-headnote-1"><lg n="1" xml:id="spp-185B04B1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-185B04B1-headnote-1-line-group-1-line-1">April 14, 1714, Back Stairs, past eight.</l></lg></head><head type="note" n="2" xml:id="spp-185B04B1-headnote-2"><lg n="1" xml:id="spp-185B04B1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-185B04B1-headnote-2-line-group-1-line-1"> <hi rend="underline">Gay</hi>.</l></lg></head><head type="note" n="3" xml:id="spp-185B04B1-headnote-3"><lg n="1" xml:id="spp-185B04B1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-185B04B1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-185B04B1-line-1"> In a summons so large which all clergy contains,&#13;</l><l n="2" xml:id="spp-185B04B1-line-2"> I must turn Dismal's <ref target="#spp-185B04B1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-185B04B1-footnote-1">Dismal was Lord Nottingham.</note> convert, or part with my brains,</l><l n="3" xml:id="spp-185B04B1-line-3"> Should I scruple to quit the back-stairs for your blind ones,</l><l n="4" xml:id="spp-185B04B1-line-4"> Or refuse your true Junto <ref target="#spp-185B04B1-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-185B04B1-footnote-2">Dr. Swift, Dr. Arbuthnot, Mr. Pope, and Mr. Gay, were writing the History of Martinus Scriblerus; and these four wits in conjunction, are styled by the Lord Treasurer the Junto.</note> for one of ──────185B04B1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

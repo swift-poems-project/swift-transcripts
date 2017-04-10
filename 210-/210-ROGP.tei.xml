@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">To the Earl of Oxford, Late Lord Treasurer</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="210-ROGP" type="poem"><head type="note" n="1" xml:id="spp-210-ROGP-headnote-1"><lg n="1" xml:id="spp-210-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-210-ROGP-headnote-1-line-group-1-line-1">SENT TO HIM WHEN HE WAS IN THE TOWER, BEFORE HIS TRIAL</l></lg></head><head type="note" n="2" xml:id="spp-210-ROGP-headnote-2"><lg n="1" xml:id="spp-210-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-210-ROGP-headnote-2-line-group-1-line-1">OUT OF HORACE</l></lg></head><head type="note" n="3" xml:id="spp-210-ROGP-headnote-3"><lg n="1" xml:id="spp-210-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-210-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-210-ROGP-line-1"> How blessed is he, who for his country dies;&#13;</l><l n="2" xml:id="spp-210-ROGP-line-2"> Since death pursues the coward as he flies.</l><l n="3" xml:id="spp-210-ROGP-line-3"> The youth, in vain, would fly from Fate's attack,</l><l n="4" xml:id="spp-210-ROGP-line-4"> With trembling knees, and terror at his back;</l><l n="5" xml:id="spp-210-ROGP-line-5"> Though fear should lend him pinions like the wind,</l><l n="6" xml:id="spp-210-ROGP-line-6"> Yet swifter Fate will seize him from behind.</l></lg><lg n="2" type="stanza"><l n="7" xml:id="spp-210-ROGP-line-7">Virtue repulsed, yet knows not to repine;&#13;</l><l n="8" xml:id="spp-210-ROGP-line-8"> But shall with unattainted honour shine;</l><l n="9" xml:id="spp-210-ROGP-line-9"> Nor stoops to take the Staff, nor lays it down,</l><l n="10" xml:id="spp-210-ROGP-line-10"> Just as the rabble please to smile or frown.</l></lg><lg n="3" type="stanza"><l n="11" xml:id="spp-210-ROGP-line-11">Virtue, to crown her favourites, loves to try&#13;</l><l n="12" xml:id="spp-210-ROGP-line-12"> Some new unbeaten passage to the sky;</l><l n="13" xml:id="spp-210-ROGP-line-13"> Where Jove a seat among the gods will give</l><l n="14" xml:id="spp-210-ROGP-line-14"> To those who die, for meriting to live.</l></lg><lg n="4" type="stanza"><l n="15" xml:id="spp-210-ROGP-line-15">Next, faithful silence hath a sure reward:&#13;</l><l n="16" xml:id="spp-210-ROGP-line-16"> Within our breast be every secret barred:</l><l n="17" xml:id="spp-210-ROGP-line-17"> He who betrays his friend, shall never be</l><l n="18" xml:id="spp-210-ROGP-line-18"> Under one roof, or in one ship with me.</l><l n="19" xml:id="spp-210-ROGP-line-19"> For, who with traitors would his safety trust,</l><l n="20" xml:id="spp-210-ROGP-line-20"> Lest with the wicked, heaven involve the just?</l><l n="21" xml:id="spp-210-ROGP-line-21"> And, though the villain 'scape a while, he feels</l><l n="22" xml:id="spp-210-ROGP-line-22"> Slow vengeance, like a bloodhound at his heels.210-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

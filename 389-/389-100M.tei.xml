@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the Same Subject.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-389-100M-footnote-1 #spp-389-100M-line-1"/>
+        </linkGrp>
+        <div n="389-100M" type="poem"><head type="note" n="1" xml:id="spp-389-100M-headnote-1"><lg n="1" xml:id="spp-389-100M-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-389-100M-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-389-100M-headnote-2"><lg n="1" xml:id="spp-389-100M-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-389-100M-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-389-100M-headnote-3"><lg n="1" xml:id="spp-389-100M-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-389-100M-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-389-100M-line-1" rend="indent(1)"> Quoth King <note rend="foot indent(1)"><ref target="#spp-389-100M-footnote-1">1</ref><unclear n="1" xml:id="spp-389-100M-footnote-1">uncued marginal note, evidently to "King Robbin":Walpole  Sṛ Robert. Robbin, our Ribbands I see are too Few,</unclear></note></l><l n="2" xml:id="spp-389-100M-line-2"> Of Saint Andrews the Green, &amp; Saint George's y<hi rend="sup">ẹ</hi> Blew,</l><l n="3" xml:id="spp-389-100M-line-3"> I must find out a Red One, A Coulour more Gay</l><l n="4" xml:id="spp-389-100M-line-4"> W<hi rend="sup">cḥ</hi> will tye up, my Subjects with Pride to Obey,</l><l n="5" xml:id="spp-389-100M-line-5"> Tho' the Exchequer, may Suffer by Prodigal Donor,</l><l n="6" xml:id="spp-389-100M-line-6"> Yett the Kings, ne'er Exhausted the Fountain of Honour;</l><l n="7" xml:id="spp-389-100M-line-7"> Men of more Witt y<hi rend="sup">ṇ</hi> Money our Pensions will fitt</l><l n="8" xml:id="spp-389-100M-line-8"> But this will Bribe those, of more Money y<hi rend="sup">ṇ</hi> witt,</l><l n="9" xml:id="spp-389-100M-line-9"> With Faith most Implicit, they Obey my Commands,</l><l n="10" xml:id="spp-389-100M-line-10"> Tho 'as Empty as Young, &amp; as Sawcy as Sandys,</l><l n="11" xml:id="spp-389-100M-line-11"> Who will soonest leap Over, a Stick for the King</l><l n="12" xml:id="spp-389-100M-line-12"> Is Qualify'd best for a Dog in a String.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

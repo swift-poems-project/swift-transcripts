@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="949A35JC" type="poem"><head type="note" n="1" xml:id="spp-949A35JC-headnote-1"><lg n="1" xml:id="spp-949A35JC-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-949A35JC-headnote-1-line-group-1-line-1">A French Gentleman dining with some Company on a Fast-day, call'd for some Bacon and Eggs. The rest were very angry, and reproved him for so heinous a Sin: Whereupon he writ the following Lines <hi rend="underline">extempore</hi>, which are here translated.</l></lg></head><head type="note" n="2" xml:id="spp-949A35JC-headnote-2"><lg n="1" xml:id="spp-949A35JC-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-949A35JC-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-949A35JC-headnote-3"><lg n="1" xml:id="spp-949A35JC-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-949A35JC-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-949A35JC-line-1" rend="align(center) indent(1)"><hi rend="underline">Peut on croire avec bon sens&#13;Qu'un lardon le mit en colere;</hi>.In English. By Dean S<hi rend="SMALL-CAPS">WIFT</hi>.</l><l n="2" xml:id="spp-949A35JC-line-2"> Ou, que manger un harangC'est un secret pour luy plaire?</l><l n="3" xml:id="spp-949A35JC-line-3"> En sa gloire envelopé</l><l n="4" xml:id="spp-949A35JC-line-4"> Songe t'il bien de nos soupé</l></lg><lg n="2" type="stanza"><l n="5" xml:id="spp-949A35JC-line-5" rend="flush left">Who can believe with common Sense,&#13;</l><l n="6" xml:id="spp-949A35JC-line-6"> A Bacon-slice gives God Offence!</l><l n="7" xml:id="spp-949A35JC-line-7"> Or, how a Herring hath a Charm</l><l n="8" xml:id="spp-949A35JC-line-8"> Almighty Anger to disarm?</l><l n="9" xml:id="spp-949A35JC-line-9"> Wrapt up in Majesty divine,</l><l n="10" xml:id="spp-949A35JC-line-10"> Does he regard on what we dine?949A35JC   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

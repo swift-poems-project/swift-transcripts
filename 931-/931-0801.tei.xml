@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ANOTHER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="931-0801"><head type="note" n="1" xml:id="spp-931-0801-headnote-1"><lg n="1" xml:id="spp-931-0801-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-931-0801-headnote-1-line-group-1-line-1">&#13;</l></lg></head><head type="note" n="2" xml:id="spp-931-0801-headnote-2"><lg n="1" xml:id="spp-931-0801-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-931-0801-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-931-0801-headnote-3"><lg n="1" xml:id="spp-931-0801-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-931-0801-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-931-0801-line-1"><hi rend="display-initial">A</hi>LL of us in one you'll find,</l><l/><l n="2" xml:id="spp-931-0801-line-2">Brethren of a wond'rous Kind,</l><l/><l n="3" xml:id="spp-931-0801-line-3">Yet among us all no Brother</l><l/><l n="4" xml:id="spp-931-0801-line-4">Knows one Tittle of the other;</l><l/><l n="5" xml:id="spp-931-0801-line-5">We in frequent Councils are,</l><l/><l n="6" xml:id="spp-931-0801-line-6">And our Marks of Things declare,</l><l/><l n="7" xml:id="spp-931-0801-line-7">Where, to us unknown, a Clerk</l><l/><l n="8" xml:id="spp-931-0801-line-8">Sits, and takes them in the Dark.</l><l/><l n="9" xml:id="spp-931-0801-line-9">He's the Register of All</l><l/><l n="10" xml:id="spp-931-0801-line-10">In our Ken, both great and small;</l><l/><l n="11" xml:id="spp-931-0801-line-11">By us forms his Laws, and Rules,</l><l/><l n="12" xml:id="spp-931-0801-line-12">He's our Master, we his Tools;</l><l/><l n="13" xml:id="spp-931-0801-line-13">Yet we can, with greatest Ease,</l><l/><l n="14" xml:id="spp-931-0801-line-14">Turn and wind him where we please.</l><l/><l n="15" xml:id="spp-931-0801-line-15">One of us alone can sleep,</l><l/><l n="16" xml:id="spp-931-0801-line-16">Yet no Watch the rest will keep,</l><l/><l n="17" xml:id="spp-931-0801-line-17">But the Moment that he closes,</l><l/><l n="18" xml:id="spp-931-0801-line-18">Ev'ry Brother else reposes.</l><l/><l n="19" xml:id="spp-931-0801-line-19">If Wine's bought, or Victuals drest</l><l/><l n="20" xml:id="spp-931-0801-line-20">One enjoys them for the Rest.</l><l/><l n="21" xml:id="spp-931-0801-line-21">Pierce us all with wounding Steel,</l><l/><l n="22" xml:id="spp-931-0801-line-22">One for all of us will feel.</l><l/><l n="23" xml:id="spp-931-0801-line-23">Tho' ten thousand Canons roar,</l><l/><l n="24" xml:id="spp-931-0801-line-24">Add to them ten thousand more,</l><l/><l n="25" xml:id="spp-931-0801-line-25">Yet but one of us is found</l><l/><l n="26" xml:id="spp-931-0801-line-26">Who regards the dreadful Sound.</l><l/><l n="27" xml:id="spp-931-0801-line-27">Do what is not fit to tell,</l><l/><l n="28" xml:id="spp-931-0801-line-28">There's but one of us can smell.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

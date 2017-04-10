@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A BYOUNG NYMPH GOING<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-581-14W2-footnote-1 #spp-581-14W2-line-45"/>
+        </linkGrp>
+        <div n="581-14W2" type="poem"><head type="note" n="1" xml:id="spp-581-14W2-headnote-1"><lg n="1" xml:id="spp-581-14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-581-14W2-headnote-1-line-group-1-line-1">WRITTEN FOR THE HONOUR OF THE FAIR SEX.</l></lg></head><head type="note" n="2" xml:id="spp-581-14W2-headnote-2"><lg n="1" xml:id="spp-581-14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-581-14W2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-581-14W2-headnote-3"><lg n="1" xml:id="spp-581-14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-581-14W2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-581-14W2-line-1"> C<hi rend="SMALL-CAPS">ORINNA</hi>, pride of Drury-Lane,</l><l n="2" xml:id="spp-581-14W2-line-2"> For whom no shepherd sighs in vain;</l><l n="3" xml:id="spp-581-14W2-line-3"> Never did Covent-Garden boast</l><l n="4" xml:id="spp-581-14W2-line-4"> So bright a batter'd strolling toast!</l><l n="5" xml:id="spp-581-14W2-line-5"> No drunken rake to pick her up,</l><l n="6" xml:id="spp-581-14W2-line-6"> No cellar where on tick to sup;</l><l n="7" xml:id="spp-581-14W2-line-7"> Returning at the midnight hour,</l><l n="8" xml:id="spp-581-14W2-line-8"> Four stories climbing to her bower;</l><l n="9" xml:id="spp-581-14W2-line-9"> Then, seated on a three-legg'd chair,</l><l n="10" xml:id="spp-581-14W2-line-10"> Takes off her artificial hair;</l><l n="11" xml:id="spp-581-14W2-line-11"> Now picking out a crystal eye,</l><l n="12" xml:id="spp-581-14W2-line-12"> She wipes it clean, and lays it by.</l><l n="13" xml:id="spp-581-14W2-line-13"> Her eye-brows from a mouse's hide</l><l n="14" xml:id="spp-581-14W2-line-14"> Stuck on with art on either side,</l><l n="15" xml:id="spp-581-14W2-line-15"> Pulls off with care, and first displays 'em,</l><l n="16" xml:id="spp-581-14W2-line-16"> Then in a play-book smoothly lays 'em.</l><l n="17" xml:id="spp-581-14W2-line-17"> Now dex'trously her plumpers draws,</l><l n="18" xml:id="spp-581-14W2-line-18"> That serve to fill her hollow jaws,</l><l n="19" xml:id="spp-581-14W2-line-19"> Untwists a wire, and from her gums</l><l n="20" xml:id="spp-581-14W2-line-20"> A set of teeth completely comes;</l><l n="21" xml:id="spp-581-14W2-line-21"> Pulls out the rags contrived to prop</l><l n="22" xml:id="spp-581-14W2-line-22"> Her flabby dugs, and down they drop.</l><l n="23" xml:id="spp-581-14W2-line-23"> Proceeding on, the lovely goddess</l><l n="24" xml:id="spp-581-14W2-line-24"> Unlaces next her steel-ribb'd bodice,</l><l n="25" xml:id="spp-581-14W2-line-25"> Which, by the operator's skill,</l><l n="26" xml:id="spp-581-14W2-line-26"> Press down the lumps, the hollows fill.</l><l n="27" xml:id="spp-581-14W2-line-27"> Up goes her hand, and off she slips</l><l n="28" xml:id="spp-581-14W2-line-28"> The bolsters that supply her hips;</l><l n="29" xml:id="spp-581-14W2-line-29"> With gentlest touch she next explores</l><l n="30" xml:id="spp-581-14W2-line-30"> Her chancres, issues, running sores;</l><l n="31" xml:id="spp-581-14W2-line-31"> Effects of many a sad disaster,</l><l n="32" xml:id="spp-581-14W2-line-32"> And then to each applies a plaster:</l><l n="33" xml:id="spp-581-14W2-line-33"> But must, before she goes to bed,</l><l n="34" xml:id="spp-581-14W2-line-34"> Rub off the daubs of white and red,</l><l n="35" xml:id="spp-581-14W2-line-35"> And smooth the furrows in her front</l><l n="36" xml:id="spp-581-14W2-line-36"> With greasy paper stuck upon't.</l><l n="37" xml:id="spp-581-14W2-line-37"> She takes a bolus ere she sleeps;</l><l n="38" xml:id="spp-581-14W2-line-38"> And then between two blankets creeps.</l><l n="39" xml:id="spp-581-14W2-line-39"> With pains of love tormented lies;</l><l n="40" xml:id="spp-581-14W2-line-40"> Or, if she chance to close her eyes,</l><l n="41" xml:id="spp-581-14W2-line-41"> Of Bridewell and the Compter dreams,</l><l n="42" xml:id="spp-581-14W2-line-42"> And feels the lash, and faintly screams;</l><l n="43" xml:id="spp-581-14W2-line-43"> Or, by a faithless bully drawn,</l><l n="44" xml:id="spp-581-14W2-line-44"> At some hedge-tavern lies in pawn;</l><l n="45" xml:id="spp-581-14W2-line-45"> Or to Jamaica seems transported<ref target="#spp-581-14W2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-581-14W2-footnote-1">────Et longam incomitata videtur_Ire viam.──Ed. 1772.</note>Alone, and by no planter courted;</l><l n="46" xml:id="spp-581-14W2-line-46"> Or, near Fleet-ditch's oozy brinks,</l><l n="47" xml:id="spp-581-14W2-line-47"> Surrounded with a hundred stinks,</l><l n="48" xml:id="spp-581-14W2-line-48"> Belated, seems on watch to lie,</l><l n="49" xml:id="spp-581-14W2-line-49"> And snap some cully passing by;</l><l n="50" xml:id="spp-581-14W2-line-50"> Or, struck with fear, her fancy runs</l><l n="51" xml:id="spp-581-14W2-line-51"> On watchmen, constables, and duns,</l><l n="52" xml:id="spp-581-14W2-line-52"> From whom she meets with frequent rubs;</l><l n="53" xml:id="spp-581-14W2-line-53"> But never from religious clubs;</l><l n="54" xml:id="spp-581-14W2-line-54"> Whose favour she is sure to find,</l><l n="55" xml:id="spp-581-14W2-line-55"> Because she pays them all in kind.Corinna wakes. A dreadful sight!</l><l n="56" xml:id="spp-581-14W2-line-56"> Behold the ruins of the night!</l><l n="57" xml:id="spp-581-14W2-line-57"> A wicked rat her plaster stole,</l><l n="58" xml:id="spp-581-14W2-line-58"> Half eat, and dragg'd it to his hole.</l><l n="59" xml:id="spp-581-14W2-line-59"> The crystal eye, alas! was miss'd;</l><l n="60" xml:id="spp-581-14W2-line-60"> And puss had on her plumpers p──ss'd.</l><l n="61" xml:id="spp-581-14W2-line-61"> A pigeon pick'd her issue-pease:</l><l n="62" xml:id="spp-581-14W2-line-62"> And Shock her tresses fill'd with fleas.The nymph, though in this mangled plight,</l><l n="63" xml:id="spp-581-14W2-line-63"> Must every morn her limbs unite.</l><l n="64" xml:id="spp-581-14W2-line-64"> But how shall I describe her arts</l><l n="65" xml:id="spp-581-14W2-line-65"> To re-collect the scatter'd parts?</l><l n="66" xml:id="spp-581-14W2-line-66"> Or shew the anguish, toil, and pain,</l><l n="67" xml:id="spp-581-14W2-line-67"> Of gathering up herself again?</l><l n="68" xml:id="spp-581-14W2-line-68"> The bashful Muse will never bear</l><l n="69" xml:id="spp-581-14W2-line-69"> In such a scene to interfere.</l><l n="70" xml:id="spp-581-14W2-line-70"> Corinna, in the morning dizen'd,</l><l n="71" xml:id="spp-581-14W2-line-71"> Who sees, will spew; who smells, be poison'd.581-14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>laid open:</title>
+        <title>AND</title>
+        <title>The Loyal <hi rend="underline">Church-man</hi>'s Health.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="!W17W391" type="poem"><head type="note" n="1" xml:id="spp-!W17W391-headnote-1"><lg n="1" xml:id="spp-!W17W391-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-!W17W391-headnote-1-line-group-1-line-1">To the TUNE of <hi rend="underline">Old Simon the King</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-!W17W391-headnote-2"><lg n="1" xml:id="spp-!W17W391-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-!W17W391-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-!W17W391-headnote-3"><lg n="1" xml:id="spp-!W17W391-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-!W17W391-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-!W17W391-line-1" rend="align(center)">I.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-!W17W391-line-2" rend="flush left"><hi rend="display-initial">N</hi>OW the <hi rend="black-letter">Whigs</hi> and their Friends are confounded,And all their Designs are made known,</l><l n="3" xml:id="spp-!W17W391-line-3"> Which so strongly have smelt of the <hi rend="black-letter">Round-head</hi>And Treason of <hi rend="black-letter">forty-one</hi>;</l></lg><lg n="3" type="stanza"><l n="4" xml:id="spp-!W17W391-line-4">For all their Pious Pretensions&#13;To <hi rend="underline">Property, Liberty, Laws</hi>,</l><l n="5" xml:id="spp-!W17W391-line-5" rend="align(center)"> Are found to be only InventionsTo bring in the <hi rend="black-letter">Good Old Cause</hi>.<hi rend="underline">For all their</hi>, &amp;c.II.</l></lg><lg n="4" type="stanza"><l n="6" xml:id="spp-!W17W391-line-6" rend="flush left">By the Struggle and Pother they've made&#13;To subvert the Laws of the Nation,</l><l n="7" xml:id="spp-!W17W391-line-7"> And have Rules of Government laidIn their Antimonarchical Fashion.</l></lg><lg n="5" type="stanza"><l n="8" xml:id="spp-!W17W391-line-8">As appear'd at the DOCTOR's Tryal,&#13;And in their own Words is exprest;</l><l n="9" xml:id="spp-!W17W391-line-9"> They the CHURCH's Doctrines deny all,By persecuting her Priest.<hi rend="underline">As appear'd</hi>, &amp;c.</l></lg><lg n="6" type="stanza"><l n="10" xml:id="spp-!W17W391-line-10" rend="align(center)">III.</l></lg><lg n="7" type="stanza"><l n="11" xml:id="spp-!W17W391-line-11" rend="flush left">By prolonging a chargeable War,&#13;To the Ruine of Credit and Trade;</l><l n="12" xml:id="spp-!W17W391-line-12"> When, more to our Honour by far,A lasting Peace might ha' been made.</l></lg><lg n="8" type="stanza"><l n="13" xml:id="spp-!W17W391-line-13">Tho all we have got by the Bargain,&#13;Is the Loss of our Money and Men;</l><l n="14" xml:id="spp-!W17W391-line-14"> And we'd been left not worth a Farthing,Hadn't <hi rend="underline"/> stood our Friend,<hi rend="underline">Tho all we</hi>, &amp;c.</l></lg><lg n="9" type="stanza"><l n="15" xml:id="spp-!W17W391-line-15" rend="align(center)">IV.</l></lg><lg n="10" type="stanza"><l n="16" xml:id="spp-!W17W391-line-16" rend="flush left">No more of the Maryrdom Murther,&#13;They think it high time 'twas forgot;</l><l n="17" xml:id="spp-!W17W391-line-17"> Tho' they'd carry'd those Schemes on further,But that we discover'd their Plot:</l></lg><lg n="11" type="stanza"><l n="18" xml:id="spp-!W17W391-line-18">If our QUEEN shall be told to her Face&#13;That her Title on them must depend;</l><l n="19" xml:id="spp-!W17W391-line-19"> What else cou'd they mean? But her GraceMust beware of the self-same End.<hi rend="underline">If our QUEEN</hi>, &amp;c.</l></lg><lg n="12" type="stanza"><l n="20" xml:id="spp-!W17W391-line-20" rend="align(center)">V.</l></lg><lg n="13" type="stanza"><l n="21" xml:id="spp-!W17W391-line-21" rend="flush left">Setting up an <hi rend="underline">Elective King</hi>,And extinguishing all the Right Line,</l><l n="22" xml:id="spp-!W17W391-line-22"> Was a Geud and a Godly thing,And most worthy the <hi rend="black-letter">Whigs</hi> Design.</l></lg><lg n="14" type="stanza"><l n="23" xml:id="spp-!W17W391-line-23"><hi rend="underline">Church</hi> and <hi rend="underline">State</hi> under Cure must be put,For their crazy State of Health,</l><l n="24" xml:id="spp-!W17W391-line-24"> To <hi rend="underline">Calvin's Geneva</hi> Cut,And a Boorish <hi rend="underline">Commonwealth</hi>.<hi rend="underline">Church and State</hi>, &amp;c.</l></lg><lg n="15" type="stanza"><l n="25" xml:id="spp-!W17W391-line-25" rend="align(center)">VI.</l></lg><lg n="16" type="stanza"><l n="26" xml:id="spp-!W17W391-line-26" rend="flush left">But Thanks to the Friends of the <hi rend="SMALL-CAPS">CHURCH</hi>,Who have rescu'd her Majesty's <hi rend="underline">Right</hi>;</l><l n="27" xml:id="spp-!W17W391-line-27"> Now her Foes are all left in the Lurch,And will burst with meer Malice and Spite.</l></lg><lg n="17" type="stanza"><l n="28" xml:id="spp-!W17W391-line-28">May <hi rend="underline">England</hi> for ever be blestWith a <hi rend="underline">Ministry</hi> Loyal and True;</l><l n="29" xml:id="spp-!W17W391-line-29"> Then we'll hope for many Years Rest,And the Gallows may claim her due.<hi rend="underline">May England</hi>, &amp;c.</l></lg><lg n="18" type="stanza"><l n="30" xml:id="spp-!W17W391-line-30" rend="align(center)">VII.</l></lg><lg n="19" type="stanza"><l n="31" xml:id="spp-!W17W391-line-31" rend="flush left">Let the Names of a <hi rend="black-letter">Whig</hi> and a <hi rend="black-letter">Tory</hi>No longer disquiet the Nation;</l><l n="32" xml:id="spp-!W17W391-line-32"> Since we aim at the <hi rend="SMALL-CAPS">CHURCH</hi>'s Glory,And pray for this Reformation;</l></lg><lg n="20" type="stanza"><l n="33" xml:id="spp-!W17W391-line-33" rend="align(center)"><hi rend="underline">viz</hi>.</l></lg><lg n="21" type="stanza"><l n="34" xml:id="spp-!W17W391-line-34" rend="flush left">May every Factious Professor,&#13;And all our Zealous Pretenders,</l><l n="35" xml:id="spp-!W17W391-line-35"> Submit to the QUEEN and Successor,Our Nation's Brave Defenders.<hi rend="underline">May every Factious</hi>, &amp;c.</l></lg><lg n="22" type="stanza"><l n="36" xml:id="spp-!W17W391-line-36" rend="align(center)">VIII.</l></lg><lg n="23" type="stanza"><l n="37" xml:id="spp-!W17W391-line-37" rend="flush left">Or else may they have their Desert,&#13;And the Ax and the Rope have their Due;</l><l n="38" xml:id="spp-!W17W391-line-38"> That the Hangman may grow more expert,And in time be as rich as a <hi rend="underline">Jew</hi>.</l></lg><lg n="24" type="stanza"><l n="39" xml:id="spp-!W17W391-line-39">Then this Health let us now begin,&#13;All Joy to great ANNE and her Right,</l><l n="40" xml:id="spp-!W17W391-line-40"> A Glorious Reign to our QUEEN,And when she has occasion we'll fight.<hi rend="underline">Then this Health</hi>, &amp;c.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

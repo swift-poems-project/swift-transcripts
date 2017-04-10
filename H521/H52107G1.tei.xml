@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>* W<hi rend="SMALL-CAPS">ILL. </hi>W<hi rend="SMALL-CAPS">OOD</hi>'s petition to the people of<lb/>I<hi rend="SMALL-CAPS">RELAND</hi>, being an excellent new S<hi rend="SMALL-CAPS">ONG</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough 17JA08"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-H52107G1-footnote-1 #spp-H52107G1-line-18"/>
+          <link target="#spp-H52107G1-footnote-2 #spp-H52107G1-line-39"/>
+        </linkGrp>
+        <div n="H52107G1"><head type="note" n="1" xml:id="spp-H52107G1-headnote-1"><lg n="1" xml:id="spp-H52107G1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-H52107G1-headnote-1-line-group-1-line-1">Supposed to be made and sung in the streets of Dublin, by W<hi rend="SMALL-CAPS">ILLIAM </hi>W<hi rend="SMALL-CAPS">OOD</hi>, ironmonger and halfpenny-<lb/>monger. 1725.</l></lg></head><head type="note" n="2" xml:id="spp-H52107G1-headnote-2"><lg n="1" xml:id="spp-H52107G1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-H52107G1-headnote-2-line-group-1-line-1"></l></lg></head><head type="note" n="3" xml:id="spp-H52107G1-headnote-3"><lg n="1" xml:id="spp-H52107G1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-H52107G1-headnote-3-line-group-1-line-1"></l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-H52107G1-line-1"><hi rend="display-initial">M</hi>Y dear Irish folks,</l><l/><l n="2" xml:id="spp-H52107G1-line-2">Come leave off your jokes,</l><l/><l n="3" xml:id="spp-H52107G1-line-3">And buy up my halfpence so fine;</l><l/><l n="4" xml:id="spp-H52107G1-line-4">So fair and so bright,</l><l/><l n="5" xml:id="spp-H52107G1-line-5">They'll give you delight;</l><l/><l n="6" xml:id="spp-H52107G1-line-6">Observe how they glister and shine.</l><l/><l n="7" xml:id="spp-H52107G1-line-7"/></lg><lg n="2" type="stanza"><l>They'll sell to my grief,&#13;</l><l/><l n="8" xml:id="spp-H52107G1-line-8">As cheap as neck-beef,</l><l/><l n="9" xml:id="spp-H52107G1-line-9">For counters at cards to your wife;</l><l/><l n="10" xml:id="spp-H52107G1-line-10">And every day</l><l/><l n="11" xml:id="spp-H52107G1-line-11">Your children may play</l><l/><l n="12" xml:id="spp-H52107G1-line-12">Span-farthing, or toss on the knife.</l><l/><l n="13" xml:id="spp-H52107G1-line-13"/></lg><lg n="3" type="stanza"><l>Come hither and try;&#13;</l><l/><l n="14" xml:id="spp-H52107G1-line-14">I'll teach you to buy</l><l/><l n="15" xml:id="spp-H52107G1-line-15">A pot of good ale for a farthing:</l><l/><l n="16" xml:id="spp-H52107G1-line-16">Come; threepence a score,</l><l/><l n="17" xml:id="spp-H52107G1-line-17">I ask you no more,</l><l/><l n="18" xml:id="spp-H52107G1-line-18">And a fig for the Drapier and Harding<ref target="#spp-H52107G1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-H52107G1-footnote-1">The Drapier's printer.</note>.</l><l/><l n="19" xml:id="spp-H52107G1-line-19"/></lg><lg n="4" type="stanza"><l>When tradesmen have gold,&#13;</l><l/><l n="20" xml:id="spp-H52107G1-line-20">The thief will be bold,</l><l/><l n="21" xml:id="spp-H52107G1-line-21">By day and by night for to rob him:</l><l/><l n="22" xml:id="spp-H52107G1-line-22">My copper is such,</l><l/><l n="23" xml:id="spp-H52107G1-line-23">No robber will touch,</l><l/><l n="24" xml:id="spp-H52107G1-line-24">And so you may daintily bob him.</l><l/><l n="25" xml:id="spp-H52107G1-line-25"/></lg><lg n="5" type="stanza"><l>The little blackguard,&#13;</l><l/><l n="26" xml:id="spp-H52107G1-line-26">Who gets very hard</l><l/><l n="27" xml:id="spp-H52107G1-line-27">His halfpence for cleaning your shoes;</l><l/><l n="28" xml:id="spp-H52107G1-line-28">When his pockets are cramm'd</l><l/><l n="29" xml:id="spp-H52107G1-line-29">With mine, and be d────'d,</l><l/><l n="30" xml:id="spp-H52107G1-line-30">He may swear he has nothing to lose.</l><l/><l n="31" xml:id="spp-H52107G1-line-31"/></lg><lg n="6" type="stanza"><l>Here's halfpence in plenty,&#13;</l><l/><l n="32" xml:id="spp-H52107G1-line-32">For one you'll have twenty,</l><l/><l n="33" xml:id="spp-H52107G1-line-33">Though thousands are not worth a pudden.</l><l/><l n="34" xml:id="spp-H52107G1-line-34">Your neighbours will think,</l><l/><l n="35" xml:id="spp-H52107G1-line-35">When your pocket cries chink,</l><l/><l n="36" xml:id="spp-H52107G1-line-36">You are grown plaguy rich on a sudden.</l><l/><l n="37" xml:id="spp-H52107G1-line-37"/></lg><lg n="7" type="stanza"><l>You will be my thankers,&#13;</l><l/><l n="38" xml:id="spp-H52107G1-line-38">I'll make you my bankers,</l><l/><l n="39" xml:id="spp-H52107G1-line-39">As good as Ben Burton or Fade<ref target="#spp-H52107G1-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-H52107G1-footnote-2">Two famous bankers.</note>:</l><l/><l n="40" xml:id="spp-H52107G1-line-40">For nothing shall pass</l><l/><l n="41" xml:id="spp-H52107G1-line-41">But my pretty brass,</l><l/><l n="42" xml:id="spp-H52107G1-line-42">And then you'll be all of a trade.</l><l/><l n="43" xml:id="spp-H52107G1-line-43"/></lg><lg n="8" type="stanza"><l>I'm a son of a whore,&#13;</l><l/><l n="44" xml:id="spp-H52107G1-line-44">If I have a word more</l><l/><l n="45" xml:id="spp-H52107G1-line-45">To say in this wretched condition.</l><l/><l n="46" xml:id="spp-H52107G1-line-46">If my coin will not pass,</l><l/><l n="47" xml:id="spp-H52107G1-line-47">I must die like an ass;</l><l/><l n="48" xml:id="spp-H52107G1-line-48">And so I conclude my petition.</l><l/><l/></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

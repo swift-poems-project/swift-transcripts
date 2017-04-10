@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the Clergy of Chester.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="401C020B" type="poem"><head type="note" n="1" xml:id="spp-401C020B-headnote-1"><lg n="1" xml:id="spp-401C020B-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-401C020B-headnote-1-line-group-1-line-1">by the Same \<hi rend="underline">meaning Swift</hi>\</l></lg></head><head type="note" n="2" xml:id="spp-401C020B-headnote-2"><lg n="1" xml:id="spp-401C020B-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-401C020B-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-401C020B-headnote-3"><lg n="1" xml:id="spp-401C020B-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-401C020B-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-401C020B-line-1"> Your Moud'ring Walls are mending Still&#13;Your Churches in Neglect lye</l><l n="2" xml:id="spp-401C020B-line-2"> But yet the Scripture you full-fillBy Walking Circumspectly</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-401C020B-line-3">The Church and Clergy here no Doubt&#13;Are Very Much A Kin</l><l n="4" xml:id="spp-401C020B-line-4"> Both Weather beaten are WithoutAnd Empty both Within────401C020B   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

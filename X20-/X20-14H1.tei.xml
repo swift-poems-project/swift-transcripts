@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>G<hi rend="SMALL-CAPS">EORGE</hi> N<hi rend="SMALL-CAPS">IM-</hi>D<hi rend="SMALL-CAPS">AN-</hi>D<hi rend="SMALL-CAPS">EAN</hi>, Esq; to Mr.</title>
+        <title>S<hi rend="SMALL-CAPS">HERIDAN</hi>, on his Verses, written <hi rend="underline">July</hi> 15,<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X20-14H1-footnote-1 #spp-X20-14H1-line-2"/>
+        </linkGrp>
+        <div n="X20-14H1" type="poem"><head type="note" n="1" xml:id="spp-X20-14H1-headnote-1"><lg n="1" xml:id="spp-X20-14H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X20-14H1-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X20-14H1-headnote-2"><lg n="1" xml:id="spp-X20-14H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X20-14H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X20-14H1-headnote-3"><lg n="1" xml:id="spp-X20-14H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X20-14H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X20-14H1-line-1"><hi rend="display-initial">D</hi>EAR <hi rend="underline">Sheridan</hi>; a loving pair</l><l n="2" xml:id="spp-X20-14H1-line-2"> Of <hi rend="underline">Galstown</hi> lads <ref target="#spp-X20-14H1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-X20-14H1-footnote-1">The country seat of Lord Chief Baron R<hi rend="SMALL-CAPS">OCHFORT</hi>.</note> (for so they are)</l><l n="3" xml:id="spp-X20-14H1-line-3"> Beside a brace of grave divines,</l><l n="4" xml:id="spp-X20-14H1-line-4"> Adore the smoothness of thy lines:</l><l n="5" xml:id="spp-X20-14H1-line-5"> Smooth as our bason's gentle flood,</l><l n="6" xml:id="spp-X20-14H1-line-6"> 'Ere <hi rend="underline">George</hi> had robb'd it of its mud.</l><l n="7" xml:id="spp-X20-14H1-line-7"> Smoother than <hi rend="underline">Pegasus</hi>' old shoe,</l><l n="8" xml:id="spp-X20-14H1-line-8"> 'Ere <hi rend="underline">Vulcan</hi> comes to make him new.<gap/><gap/></l><l n="9" xml:id="spp-X20-14H1-line-9"> Compar'd with which (and that's enough)</l><l n="10" xml:id="spp-X20-14H1-line-10"> A smoothing iron, itself is rough.</l></lg><lg n="2" type="stanza"><l n="11" xml:id="spp-X20-14H1-line-11">Nor praise we less that circumcision,&#13;</l><l n="12" xml:id="spp-X20-14H1-line-12"> By modern poets, call'd <hi rend="underline">Elision</hi>;</l><l n="13" xml:id="spp-X20-14H1-line-13"> Which in its proper station plac'd,</l><l n="14" xml:id="spp-X20-14H1-line-14"> Makes thy verse smooth, and makes them last.</l><l n="15" xml:id="spp-X20-14H1-line-15"> Thus a wise taylor is not pinching,</l><l n="16" xml:id="spp-X20-14H1-line-16"> But turns at every seam, an inch in.</l><l n="17" xml:id="spp-X20-14H1-line-17"> Or, else be sure, your broad-cloath breeches,</l><l n="18" xml:id="spp-X20-14H1-line-18"> Will ne'er be smooth, nor hold the stitches.</l><l n="19" xml:id="spp-X20-14H1-line-19"> Thy verse like bricks, defy the weather,</l><l n="20" xml:id="spp-X20-14H1-line-20"> When smooth'd by rubbing them together:</l><l n="21" xml:id="spp-X20-14H1-line-21"> Thy words so closely wedg'd, and short are,</l><l n="22" xml:id="spp-X20-14H1-line-22"> Like walls, more lasting without mortar:</l><l n="23" xml:id="spp-X20-14H1-line-23"> By leaving out the needless vowels,</l><l n="24" xml:id="spp-X20-14H1-line-24"> You save the charge of lime and trowels.</l><l n="25" xml:id="spp-X20-14H1-line-25"> One letter still another locks;</l><l n="26" xml:id="spp-X20-14H1-line-26"> Each groov'd, and dove-tail'ed, like a box.</l><l n="27" xml:id="spp-X20-14H1-line-27"> Thy muse is tuck'd up, and succinct;</l><l n="28" xml:id="spp-X20-14H1-line-28"> In chains, thy syllables are link'd.</l><l n="29" xml:id="spp-X20-14H1-line-29"> Thy words together ty'd in small hanks,</l><l n="30" xml:id="spp-X20-14H1-line-30"> Close, as the <hi rend="underline">Macedonian</hi> phalanx:</l><l n="31" xml:id="spp-X20-14H1-line-31"> Or, like the umbo of the <hi rend="underline">Romans</hi>,</l><l n="32" xml:id="spp-X20-14H1-line-32"> Which fiercest foes, cou'd break by no means.</l><l n="33" xml:id="spp-X20-14H1-line-33"> The critic to his cost will find,</l><l n="34" xml:id="spp-X20-14H1-line-34"> How firmly these indentures bind.</l><l n="35" xml:id="spp-X20-14H1-line-35"> So in the kindred painter's art,</l><l n="36" xml:id="spp-X20-14H1-line-36"> The short'ning, is the nicest part.</l></lg><lg n="3" type="stanza"><l n="37" xml:id="spp-X20-14H1-line-37">Philologers of future ages,&#13;</l><l n="38" xml:id="spp-X20-14H1-line-38"> How will they pore upon thy pages?</l><l n="39" xml:id="spp-X20-14H1-line-39"> Nor will they dare to break to joints,</l><l n="40" xml:id="spp-X20-14H1-line-40"> But help thee to be read with points.</l><l n="41" xml:id="spp-X20-14H1-line-41"> Or else, to shew their learned labour, you</l><l n="42" xml:id="spp-X20-14H1-line-42"> May backward be perus'd, like <hi rend="underline">Hebrew</hi>.</l><l n="43" xml:id="spp-X20-14H1-line-43"> Wherein they need not lose a bit,</l><l n="44" xml:id="spp-X20-14H1-line-44"> Or, of thy harmony, or wit.</l><l n="45" xml:id="spp-X20-14H1-line-45"> To make a work compleatly fine,</l><l n="46" xml:id="spp-X20-14H1-line-46"> Number, and weight, and measure join.</l><l n="47" xml:id="spp-X20-14H1-line-47"> Then all must grant, your lines are weighty,</l><l n="48" xml:id="spp-X20-14H1-line-48"> Where thirty weigh, as much as eighty.</l><l n="49" xml:id="spp-X20-14H1-line-49"> All must allow, your numbers more,</l><l n="50" xml:id="spp-X20-14H1-line-50"> Where forty lines, exceed fourscore.</l><l n="51" xml:id="spp-X20-14H1-line-51"> Nor can we think your measure short,</l><l n="52" xml:id="spp-X20-14H1-line-52"> Where less than forty, fill a quart.</l><l n="53" xml:id="spp-X20-14H1-line-53"> With <hi rend="underline">Alexandrian</hi> in the close,</l><l n="54" xml:id="spp-X20-14H1-line-54"> Long, long, long, long, like <hi rend="underline">Dan's</hi> long nose.X20-14H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

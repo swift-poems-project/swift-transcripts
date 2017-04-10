@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">Stella</hi>'s Birth-Day.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-763B36L--footnote-1 #spp-763B36L--line-71"/>
+        </linkGrp>
+        <div n="763B36L-" type="poem"><head type="note" n="1" xml:id="spp-763B36L--headnote-1"><lg n="1" xml:id="spp-763B36L--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-763B36L--headnote-1-line-group-1-line-1"><hi rend="underline">March</hi> 13. 1726-7.</l></lg></head><head type="note" n="2" xml:id="spp-763B36L--headnote-2"><lg n="1" xml:id="spp-763B36L--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-763B36L--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-763B36L--headnote-3"><lg n="1" xml:id="spp-763B36L--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-763B36L--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-763B36L--line-1"><hi rend="display-initial">T</hi>HIS Day, whate'er the Fates decree,</l><l n="2" xml:id="spp-763B36L--line-2"> Shall still be kept with Joy by me:</l><l n="3" xml:id="spp-763B36L--line-3"> This Day then, let us not be told,</l><l n="4" xml:id="spp-763B36L--line-4"> That you are sick, and I grown old,</l><l n="5" xml:id="spp-763B36L--line-5"> Nor think on our approaching Ills,</l><l n="6" xml:id="spp-763B36L--line-6"> And talk of Spectacles and Pills.</l><l n="7" xml:id="spp-763B36L--line-7"> To-morrow will be time enough</l><l n="8" xml:id="spp-763B36L--line-8"> To hear such mortifying Stuff.</l><l n="9" xml:id="spp-763B36L--line-9"> Yet, since from Reason may be brought</l><l n="10" xml:id="spp-763B36L--line-10"> A better and more pleasing thought,</l><l n="11" xml:id="spp-763B36L--line-11"> Which can in spite of all Decays,</l><l n="12" xml:id="spp-763B36L--line-12"> Support a few remaining Days:</l><l n="13" xml:id="spp-763B36L--line-13"> From not the gravest of Divines,</l><l n="14" xml:id="spp-763B36L--line-14"> Accept for once some serious Lines.Although we now can form no more</l><l n="15" xml:id="spp-763B36L--line-15"> Long Schemes of Life, as heretofore;</l><l n="16" xml:id="spp-763B36L--line-16"> Yet you, while time is running fast,</l><l n="17" xml:id="spp-763B36L--line-17"> Can look with Joy on what is past.Were future Happiness and Pain,</l><l n="18" xml:id="spp-763B36L--line-18"> A mere Contrivance of the Brain,</l><l n="19" xml:id="spp-763B36L--line-19"> As <hi rend="underline">Atheists</hi> argue, to entice,</l><l n="20" xml:id="spp-763B36L--line-20"> And fit their Proselytes for Vice;</l><l n="21" xml:id="spp-763B36L--line-21"> (The only Comfort they propose,</l><l n="22" xml:id="spp-763B36L--line-22"> To have Companions in their Woes.)</l><l n="23" xml:id="spp-763B36L--line-23"> Grant this the Case; yet sure 'tis hard,</l><l n="24" xml:id="spp-763B36L--line-24"> That Virtue, stil'd its own Reward,</l><l n="25" xml:id="spp-763B36L--line-25"> And by all Sages understood</l><l n="26" xml:id="spp-763B36L--line-26"> To be the chief of human Good,</l><l n="27" xml:id="spp-763B36L--line-27"> Should, acting, die, nor leave behind</l><l n="28" xml:id="spp-763B36L--line-28"> Some lasting Pleasure in the Mind;</l><l n="29" xml:id="spp-763B36L--line-29"> Which by Remembrance will asswage</l><l n="30" xml:id="spp-763B36L--line-30"> Grief, Sickness, Poverty, and Age;</l><l n="31" xml:id="spp-763B36L--line-31"> And strongly shoot a radiant Dart,</l><l n="32" xml:id="spp-763B36L--line-32"> To shine through Life's declining Part.Say, <hi rend="underline">Stella</hi>, feel you no Content,</l><l n="33" xml:id="spp-763B36L--line-33"> Reflecting on a Life well spent?</l><l n="34" xml:id="spp-763B36L--line-34"> Your skilful Hand employ'd to save</l><l n="35" xml:id="spp-763B36L--line-35"> Despairing Wretches from the Grave;</l><l n="36" xml:id="spp-763B36L--line-36"> And then supporting, with your Store,</l><l n="37" xml:id="spp-763B36L--line-37"> Those, whom you dragg'd from Death before:</l><l n="38" xml:id="spp-763B36L--line-38"> (So Providence on Mortals waits,</l><l n="39" xml:id="spp-763B36L--line-39"> Preserving what it first creates)</l><l n="40" xml:id="spp-763B36L--line-40"> Your gen'rous Boldness to defend</l><l n="41" xml:id="spp-763B36L--line-41"> An innocent and absent Friend;</l><l n="42" xml:id="spp-763B36L--line-42"> That Courage which can make you just,</l><l n="43" xml:id="spp-763B36L--line-43"> To Merit humbled in the Dust;</l><l n="44" xml:id="spp-763B36L--line-44"> The Detestation you express</l><l n="45" xml:id="spp-763B36L--line-45"> For Vice in all it's glitt'ring Dress:</l><l n="46" xml:id="spp-763B36L--line-46"> That Patience under tort'ring Pain,</l><l n="47" xml:id="spp-763B36L--line-47"> Where stubborn Stoicks would complain.</l></lg><lg n="2" type="stanza"><l n="48" xml:id="spp-763B36L--line-48">Shall these, like empty Shadows, pass,&#13;</l><l n="49" xml:id="spp-763B36L--line-49"> Or Forms reflected from a Glass?</l><l n="50" xml:id="spp-763B36L--line-50"> Or mere Chim<unclear>ae</unclear>ra's in the Mind,</l><l n="51" xml:id="spp-763B36L--line-51"> (That fly and leave no Marks behind)</l><l n="52" xml:id="spp-763B36L--line-52"> Does not the Body thrive and grow</l><l n="53" xml:id="spp-763B36L--line-53"> By Food of twenty Years ago?</l><l n="54" xml:id="spp-763B36L--line-54"> And, had it not been still supply'd,</l><l n="55" xml:id="spp-763B36L--line-55"> It must a thousand Times have dy'd.</l><l n="56" xml:id="spp-763B36L--line-56"> Then, who with Reason can maintain,</l><l n="57" xml:id="spp-763B36L--line-57"> That no Effects of Food remain?</l><l n="58" xml:id="spp-763B36L--line-58"> And, is not Virtue in Mankind</l><l n="59" xml:id="spp-763B36L--line-59"> The Nutriment that feeds the Mind?</l><l n="60" xml:id="spp-763B36L--line-60"> Upheld by each good Action past,</l><l n="61" xml:id="spp-763B36L--line-61"> And still continued by the last:</l><l n="62" xml:id="spp-763B36L--line-62"> Then, who with Reason can pretend,</l><l n="63" xml:id="spp-763B36L--line-63"> That all Effects of Virtue end?</l></lg><lg n="3" type="stanza"><l n="64" xml:id="spp-763B36L--line-64">Believe me <hi rend="underline">Stella</hi>, when you show</l><l n="65" xml:id="spp-763B36L--line-65"> That true Contempt for things below,</l><l n="66" xml:id="spp-763B36L--line-66"> Nor prize your Life for other Ends</l><l n="67" xml:id="spp-763B36L--line-67"> Than merely to oblige your Friends;</l><l n="68" xml:id="spp-763B36L--line-68"> Your former Actions claim their Part,</l><l n="69" xml:id="spp-763B36L--line-69"> And join to fortify your Heart.</l><l n="70" xml:id="spp-763B36L--line-70"> For Virtue in her daily Race;</l><l n="71" xml:id="spp-763B36L--line-71"> Like <ref target="#spp-763B36L--footnote-1">1</ref><note place="foot" n="1" xml:id="spp-763B36L--footnote-1"><hi rend="underline">Janus</hi> the God of <hi rend="underline">January</hi> was fabled to have two Faces, as viewing at once the Year past and to come.</note><hi rend="underline">Janus</hi>, bears a double Face;</l><l n="72" xml:id="spp-763B36L--line-72"> Looks back with Joy where she has gone,</l><l n="73" xml:id="spp-763B36L--line-73"> And therefore goes with Courage on.</l><l n="74" xml:id="spp-763B36L--line-74"> She at your sickly Couch will wait,</l><l n="75" xml:id="spp-763B36L--line-75"> And guide you to a better State.</l></lg><lg n="4" type="stanza"><l n="76" xml:id="spp-763B36L--line-76">O then, whatever Heav'n intends,&#13;</l><l n="77" xml:id="spp-763B36L--line-77"> Take Pity on your pitying Friends;</l><l n="78" xml:id="spp-763B36L--line-78"> Nor let your Ills affect your Mind,</l><l n="79" xml:id="spp-763B36L--line-79"> To fancy they can be unkind.</l><l n="80" xml:id="spp-763B36L--line-80"> Me, surely me, you ought to spare,</l><l n="81" xml:id="spp-763B36L--line-81"> Who gladly would your Suff'rings share;</l><l n="82" xml:id="spp-763B36L--line-82"> Or give my Scrap of Life to you,</l><l n="83" xml:id="spp-763B36L--line-83"> And think it far beneath your Due;</l><l n="84" xml:id="spp-763B36L--line-84"> You, to whose Care so oft I owe,</l><l n="85" xml:id="spp-763B36L--line-85"> That I'm alive to tell you so.</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

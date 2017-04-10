@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">A </hi>DIALOGUE<hi rend="underline"> between Sir </hi>Arthur</title>
+        <title>Atcheson<hi rend="underline"> Bart. and his</hi> L<hi rend="SMALL-CAPS">ADY</hi>:</title>
+        <title>OR,<lb/><hi rend="underline">The</hi> L<hi rend="SMALL-CAPS">ADY</hi> <hi rend="underline">weary of Dean</hi> Sw──ft.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-859-30PE-footnote-1 #spp-859-30PE-line-2"/>
+        </linkGrp>
+        <div n="859-30PE" type="poem"><head type="note" n="1" xml:id="spp-859-30PE-headnote-1"><lg n="1" xml:id="spp-859-30PE-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-859-30PE-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-859-30PE-headnote-2"><lg n="1" xml:id="spp-859-30PE-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-859-30PE-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-859-30PE-headnote-3"><lg n="1" xml:id="spp-859-30PE-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-859-30PE-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-859-30PE-line-1"> I.</l></lg><lg n="2" type="stanza"><l n="2" xml:id="spp-859-30PE-line-2"><hi rend="display-initial">T</hi>HE Dean would visit <ref target="#spp-859-30PE-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-859-30PE-footnote-1"><hi rend="underline">Sir </hi>Arthur<hi rend="underline">'s Seat</hi>.</note><hi rend="underline">Market-Hill</hi>,Our Invitation was but slight;</l><l n="3" xml:id="spp-859-30PE-line-3"> I said, why────let him if he will,And so I bid Sir <hi rend="underline">Arthur</hi> write.</l></lg><lg n="3" type="stanza"><l n="4" xml:id="spp-859-30PE-line-4">II.</l></lg><lg n="4" type="stanza"><l n="5" xml:id="spp-859-30PE-line-5">His Manners would not let him wait,&#13;Lest we should think ourselves neglected;</l><l n="6" xml:id="spp-859-30PE-line-6"> And so we saw him at our GateThree Days before he was expected.</l></lg><lg n="5" type="stanza"><l n="7" xml:id="spp-859-30PE-line-7">III.</l></lg><lg n="6" type="stanza"><l n="8" xml:id="spp-859-30PE-line-8">After a Week, a Month, a Quarter,&#13;And Day succeeding after Day,</l><l n="9" xml:id="spp-859-30PE-line-9"> Says not a Word of his Departure,Tho' not a Soul would have him stay.</l></lg><lg n="7" type="stanza"><l n="10" xml:id="spp-859-30PE-line-10">IV.</l></lg><lg n="8" type="stanza"><l n="11" xml:id="spp-859-30PE-line-11">I've said enough to make him blush,&#13;Methinks, or else the Devil's in't;</l><l n="12" xml:id="spp-859-30PE-line-12"> But he cares for it not a Rush,Nor for my Life will take the Hint.</l></lg><lg n="9" type="stanza"><l n="13" xml:id="spp-859-30PE-line-13">V.</l></lg><lg n="10" type="stanza"><l n="14" xml:id="spp-859-30PE-line-14">But you, my Life, may let him know&#13;In civil Language, if he stays,</l><l n="15" xml:id="spp-859-30PE-line-15"> How deep and foul the Roads may grow,And that he may command the Chaise.</l></lg><lg n="11" type="stanza"><l n="16" xml:id="spp-859-30PE-line-16">VI.</l></lg><lg n="12" type="stanza"><l n="17" xml:id="spp-859-30PE-line-17">Or, you may say, my Wife intends,&#13;Tho' I should be exceeding proud,</l><l n="18" xml:id="spp-859-30PE-line-18"> This Winter to invite some Friends,And, Sir, I know you hate a Crowd.</l></lg><lg n="13" type="stanza"><l n="19" xml:id="spp-859-30PE-line-19">VII.</l></lg><lg n="14" type="stanza"><l n="20" xml:id="spp-859-30PE-line-20">Or, Mr. Dean,────I should────with Joy&#13;Beg you would here continue still;</l><l n="21" xml:id="spp-859-30PE-line-21"> But we must go to Aghnacloy,Or Mr. <hi rend="underline">Moor</hi> will take it ill.</l></lg><lg n="15" type="stanza"><l n="22" xml:id="spp-859-30PE-line-22">VIII.</l></lg><lg n="16" type="stanza"><l n="23" xml:id="spp-859-30PE-line-23">The House-Accounts are daily rising,&#13;So much his Stay does swell the Bills;</l><l n="24" xml:id="spp-859-30PE-line-24"> My dearest Life, it is surprizingHow much he eats, how much he swills!</l></lg><lg n="17" type="stanza"><l n="25" xml:id="spp-859-30PE-line-25">IX.</l></lg><lg n="18" type="stanza"><l n="26" xml:id="spp-859-30PE-line-26">His Brace of Puppies, how they stuff!!&#13;And they must have three Meals a Day;</l><l n="27" xml:id="spp-859-30PE-line-27"> Yet never think they get enough,His Horses too eat all our Hay.</l></lg><lg n="19" type="stanza"><l n="28" xml:id="spp-859-30PE-line-28">X.</l></lg><lg n="20" type="stanza"><l n="29" xml:id="spp-859-30PE-line-29">Oh! if I could, how I would mawl&#13;His Tallow Face, and Wainscot Paws,</l><l n="30" xml:id="spp-859-30PE-line-30"> His Beetle Brows, and Eyes of Wall,And make him soon give up his Cause.</l></lg><lg n="21" type="stanza"><l n="31" xml:id="spp-859-30PE-line-31">XI.</l></lg><lg n="22" type="stanza"><l n="32" xml:id="spp-859-30PE-line-32">Must I be ev'ry Moment chid&#13;With Skinny, Bonny, Snip and Lean?</l><l n="33" xml:id="spp-859-30PE-line-33"> Oh! that I could but once be ridOf this insulting Tyrant-Dean.859-30PE   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

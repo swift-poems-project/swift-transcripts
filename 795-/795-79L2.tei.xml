@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TRAULUS.</title>
+        <title>A</title>
+        <title>BETWEEN<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-795-79L2-footnote-1 #spp-795-79L2-line-1"/>
+          <link target="#spp-795-79L2-footnote-2 #spp-795-79L2-line-51"/>
+        </linkGrp>
+        <div n="795-79L2" type="poem"><head type="note" n="1" xml:id="spp-795-79L2-headnote-1"><lg n="1" xml:id="spp-795-79L2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-795-79L2-headnote-1-line-group-1-line-1">THE FIRST PART.</l></lg></head><head type="note" n="2" xml:id="spp-795-79L2-headnote-2"><lg n="1" xml:id="spp-795-79L2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-795-79L2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-795-79L2-headnote-3"><lg n="1" xml:id="spp-795-79L2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-795-79L2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-795-79L2-line-1"><hi rend="underline">Tom</hi>. <hi rend="display-initial">S</hi>AY, Robin, what can Traulus <ref target="#spp-795-79L2-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-795-79L2-footnote-1">Lord Allen. D. S.</note> mean</l><l n="2" xml:id="spp-795-79L2-line-2"> By bellowing thus against the Dean?</l><l n="3" xml:id="spp-795-79L2-line-3"> Why does he call him paltry scribbler,</l><l n="4" xml:id="spp-795-79L2-line-4"> Papist, and Jacobite, and Libeler;</l><l n="5" xml:id="spp-795-79L2-line-5"> Yet cannot prove a single fact?<hi rend="underline">Robin</hi>. Forgive him, Tom: his head is crackt.<hi rend="underline">T</hi>. What mischief can the Dean have done him,</l><l n="6" xml:id="spp-795-79L2-line-6"> That Traulus calls for vengeance on him?</l><l n="7" xml:id="spp-795-79L2-line-7"> Why must he sputter, spawl, and slaver it</l><l n="8" xml:id="spp-795-79L2-line-8"> In vain against the people's favourite?</l><l n="9" xml:id="spp-795-79L2-line-9"> Revile that nation-saving paper,</l><l n="10" xml:id="spp-795-79L2-line-10"> Which gave the Dean the name of Drapier?<hi rend="underline">R</hi>. Why, Tom, I think the case is plain;</l><l n="11" xml:id="spp-795-79L2-line-11"> Party and spleen have turn'd his brain.<hi rend="underline">T</hi>. Such friendship never man profest,</l><l n="12" xml:id="spp-795-79L2-line-12"> The Dean was never so carest;</l><l n="13" xml:id="spp-795-79L2-line-13"> For Traulus long his rancour nurs'd,</l><l n="14" xml:id="spp-795-79L2-line-14"> Till, God knows why, at last it burst.</l><l n="15" xml:id="spp-795-79L2-line-15"> That clumsy outside of a porter,</l><l n="16" xml:id="spp-795-79L2-line-16"> How could it thus conceal a courtier?<hi rend="underline">R</hi>. I own, appearances are bad;</l><l n="17" xml:id="spp-795-79L2-line-17"> Yet still insist the man is mad.<hi rend="underline">T</hi>. Yet many a wretch in Bedlam knows</l><l n="18" xml:id="spp-795-79L2-line-18"> How to distinguish friends from foes;</l><l n="19" xml:id="spp-795-79L2-line-19"> And, though perhaps among the rout</l><l n="20" xml:id="spp-795-79L2-line-20"> He wildly flings his filth about,</l><l n="21" xml:id="spp-795-79L2-line-21"> He still has gratitude and sap'ence,</l><l n="22" xml:id="spp-795-79L2-line-22"> To spare the folks that give him ha'pence;</l><l n="23" xml:id="spp-795-79L2-line-23"> Nor in their eyes at random pisses,</l><l n="24" xml:id="spp-795-79L2-line-24"> But turns aside like mad Ulysses:</l><l n="25" xml:id="spp-795-79L2-line-25"> While Traulus all his ordure scatters</l><l n="26" xml:id="spp-795-79L2-line-26"> To foul the man he chiefly flatters.</l><l n="27" xml:id="spp-795-79L2-line-27"> Whence come these inconsistent fits?<hi rend="underline">R</hi>. Why, Tom, the man has lost his wits.<hi rend="underline">T</hi>. Agreed: and yet, when Towzer snaps</l><l n="28" xml:id="spp-795-79L2-line-28"> At people's heels with frothy chaps,</l><l n="29" xml:id="spp-795-79L2-line-29"> Hangs down his head, and drops his tail,</l><l n="30" xml:id="spp-795-79L2-line-30"> To say he·'s mad, will not avail;</l><l n="31" xml:id="spp-795-79L2-line-31"> The neighbours all cry, “Shoot him dead,</l><l n="32" xml:id="spp-795-79L2-line-32"> “Hang, drown, or knock him on the head.”</l><l n="33" xml:id="spp-795-79L2-line-33"> So Traulus when he first harangu'd,</l><l n="34" xml:id="spp-795-79L2-line-34"> I wonder why he was not hang'd;</l><l n="35" xml:id="spp-795-79L2-line-35"> For of the two, without dispute,</l><l n="36" xml:id="spp-795-79L2-line-36"> Towzer·'s the less offensive brute.<hi rend="underline">R</hi>. Tom, you mistake the matter quite;</l><l n="37" xml:id="spp-795-79L2-line-37"> Your barking curs will seldom bite;</l><l n="38" xml:id="spp-795-79L2-line-38"> And though you hear him stut-tut-tut-ter,</l><l n="39" xml:id="spp-795-79L2-line-39"> He barks as fast as he can utter.</l><l n="40" xml:id="spp-795-79L2-line-40"> He prates in spite of all impediment,</l><l n="41" xml:id="spp-795-79L2-line-41"> While none believes that what he said he meant;</l><l n="42" xml:id="spp-795-79L2-line-42"> Puts in his finger and his thumb</l><l n="43" xml:id="spp-795-79L2-line-43"> To grope for words, and out they come.</l><l n="44" xml:id="spp-795-79L2-line-44"> He calls you rogue; there·'s nothing in it,</l><l n="45" xml:id="spp-795-79L2-line-45"> He fawns upon you in a minute:</l><l n="46" xml:id="spp-795-79L2-line-46"> “Begs leave to rail, but, d──n his blood!</l><l n="47" xml:id="spp-795-79L2-line-47"> “He only meant it for your good:</l><l n="48" xml:id="spp-795-79L2-line-48"> “His friendship was exactly tim'd,</l><l n="49" xml:id="spp-795-79L2-line-49"> “He shot before your foes were prim'd.</l><l n="50" xml:id="spp-795-79L2-line-50"> “By this contrivance, Mr. Dean;</l><l n="51" xml:id="spp-795-79L2-line-51"> “By G──! I·'ll bring you off as clean──<ref target="#spp-795-79L2-footnote-2">2</ref><note place="foot" n="2" xml:id="spp-795-79L2-footnote-2">This is the usual excuse of Traulus, when he abuses you to others without provocation. F.</note>”</l><l n="52" xml:id="spp-795-79L2-line-52"> Then let him use you e'er so rough,</l><l n="53" xml:id="spp-795-79L2-line-53"> “'Twas all for love,” and that·'s enough.</l><l n="54" xml:id="spp-795-79L2-line-54"> But, though he sputter through a session,</l><l n="55" xml:id="spp-795-79L2-line-55"> It never makes the least impression:</l><l n="56" xml:id="spp-795-79L2-line-56"> Whate'er he speaks for madness goes,</l><l n="57" xml:id="spp-795-79L2-line-57"> With no effect on friends or foes.<hi rend="underline">T</hi>. The scrubbiest cur in all the pack</l><l n="58" xml:id="spp-795-79L2-line-58"> Can set the mastiff on your back.</l><l n="59" xml:id="spp-795-79L2-line-59"> I own, his madness is a jest,</l><l n="60" xml:id="spp-795-79L2-line-60"> If that were all. But he·'s possest,</l><l n="61" xml:id="spp-795-79L2-line-61"> Incarnate with a thousand imps,</l><l n="62" xml:id="spp-795-79L2-line-62"> To work whose ends his madness pimps;</l><l n="63" xml:id="spp-795-79L2-line-63"> Who o'er each string and wire preside,</l><l n="64" xml:id="spp-795-79L2-line-64"> Fill every pipe, each motion guide;</l><l n="65" xml:id="spp-795-79L2-line-65"> Directing every vice we find</l><l n="66" xml:id="spp-795-79L2-line-66"> In Scripture, to the devil assign'd;</l><l n="67" xml:id="spp-795-79L2-line-67"> Sent from the dark infernal region,</l><l n="68" xml:id="spp-795-79L2-line-68"> In him they lodge, and make him <hi rend="underline">legion</hi>.</l><l n="69" xml:id="spp-795-79L2-line-69"> Of <hi rend="underline">brethren</hi> he·'s a <hi rend="underline">false accuser</hi>;</l><l n="70" xml:id="spp-795-79L2-line-70"> A slanderer, traitor, and seducer;</l><l n="71" xml:id="spp-795-79L2-line-71"> A fawning, base, trepanning liar;</l><l n="72" xml:id="spp-795-79L2-line-72"> The marks peculiar of his sire.</l><l n="73" xml:id="spp-795-79L2-line-73"> Or, grant him but a drone at best;</l><l n="74" xml:id="spp-795-79L2-line-74"> A drone can raise a hornet's nest.</l><l n="75" xml:id="spp-795-79L2-line-75"> The Dean had felt their stings before;</l><l n="76" xml:id="spp-795-79L2-line-76"> And must their malice ne'er give o'er?</l><l n="77" xml:id="spp-795-79L2-line-77"> Still swarm and buzz about his nose?</l><l n="78" xml:id="spp-795-79L2-line-78"> But Ireland's friends ne'er wanted foes.</l><l n="79" xml:id="spp-795-79L2-line-79"> A patriot is a dangerous post,</l><l n="80" xml:id="spp-795-79L2-line-80"> When wanted by his country most;</l><l n="81" xml:id="spp-795-79L2-line-81"> Perversely comes in evil times,</l><l n="82" xml:id="spp-795-79L2-line-82"> Where virtues are imputed crimes.</l><l n="83" xml:id="spp-795-79L2-line-83"> His guilt is clear, the proofs are pregnant;</l><l n="84" xml:id="spp-795-79L2-line-84"> A traitor to the vices regnant.What spirit, since the world began,</l><l n="85" xml:id="spp-795-79L2-line-85"> Could <hi rend="underline">always</hi> bear to <hi rend="underline">strive with man</hi>?</l><l n="86" xml:id="spp-795-79L2-line-86"> Which God pronounc'd, he never would,</l><l n="87" xml:id="spp-795-79L2-line-87"> And soon convinc'd them by a flood.</l><l n="88" xml:id="spp-795-79L2-line-88"> Yet still the Dean on freedom raves;</l><l n="89" xml:id="spp-795-79L2-line-89"> His spirit always strives with slaves.</l><l n="90" xml:id="spp-795-79L2-line-90"> 'Tis time at last to spare his ink,</l><l n="91" xml:id="spp-795-79L2-line-91"> And let them rot, or hang, or sink.795-79L2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

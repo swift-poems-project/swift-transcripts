@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A POEM<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y25-WILH" type="poem"><head type="note" n="1" xml:id="spp-Y25-WILH-headnote-1"><lg n="1" xml:id="spp-Y25-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y25-WILH-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y25-WILH-headnote-2"><lg n="1" xml:id="spp-Y25-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y25-WILH-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y25-WILH-headnote-3"><lg n="1" xml:id="spp-Y25-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y25-WILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y25-WILH-line-1"><hi rend="display-initial">H</hi>Appiest of the <hi rend="underline">Spaniel-Race</hi></l><l n="2" xml:id="spp-Y25-WILH-line-2"> Painter with thy colours Grace,</l><l n="3" xml:id="spp-Y25-WILH-line-3"> Draw his Forehead large and high</l><l n="4" xml:id="spp-Y25-WILH-line-4"> Draw his Blew and humid Eye,</l><l n="5" xml:id="spp-Y25-WILH-line-5"> Draw his Neck so smooth and round</l><l n="6" xml:id="spp-Y25-WILH-line-6"> Little Neck with <hi rend="underline">Ribbons</hi> bound,</l><l n="7" xml:id="spp-Y25-WILH-line-7"> And the <hi rend="underline">Muscly</hi> swelling breast</l><l n="8" xml:id="spp-Y25-WILH-line-8"> Where the Love and Graces rest,</l><l n="9" xml:id="spp-Y25-WILH-line-9"> And the spreading even Back</l><l n="10" xml:id="spp-Y25-WILH-line-10"> Soft and Sleek, and glossey Black,</l><l n="11" xml:id="spp-Y25-WILH-line-11"> And the Tail that gently Twines</l><l n="12" xml:id="spp-Y25-WILH-line-12"> Like the tendrils of the Vines,</l><l n="13" xml:id="spp-Y25-WILH-line-13"> And the Silkey twisted Hair</l><l n="14" xml:id="spp-Y25-WILH-line-14"> Shadowing thick the <hi rend="underline">Velvet</hi> Ear,<hi rend="underline">Velvet</hi> Ears which hanging Low</l><l n="15" xml:id="spp-Y25-WILH-line-15"> Or'e the <hi rend="underline">Veiny</hi> temples Flow.</l></lg><lg n="2" type="stanza"><l n="16" xml:id="spp-Y25-WILH-line-16">With a proper Light and Shade&#13;</l><l n="17" xml:id="spp-Y25-WILH-line-17"> Let the winding Hoop be laid,</l><l n="18" xml:id="spp-Y25-WILH-line-18"> And within that arching Bower</l><l n="19" xml:id="spp-Y25-WILH-line-19"> (Sacret Circle mystick Power)</l><l n="20" xml:id="spp-Y25-WILH-line-20"> In a <hi rend="underline">Dow[n]ey</hi> Slumber place</l><l n="21" xml:id="spp-Y25-WILH-line-21"> Happiest of the <hi rend="underline">Spaniel</hi> race,</l><l n="22" xml:id="spp-Y25-WILH-line-22"> While the Soft perspiring Dame</l><l n="23" xml:id="spp-Y25-WILH-line-23"> Glowing with the softest Flame,</l><l n="24" xml:id="spp-Y25-WILH-line-24"> On the Ravish'd Fav'rite powers</l><l n="25" xml:id="spp-Y25-WILH-line-25"> Balmy Dews, Ambrosial Showers.</l></lg><lg n="3" type="stanza"><l n="26" xml:id="spp-Y25-WILH-line-26">With thy utmost skill Express&#13;</l><l n="27" xml:id="spp-Y25-WILH-line-27"> Nature in her Richest Dress,</l><l n="28" xml:id="spp-Y25-WILH-line-28"> Limpid <hi rend="underline">Rivers</hi> smoothly Flowing<hi rend="underline">Orchards</hi> by those <hi rend="underline">Rivers</hi> Blowing,</l><l n="29" xml:id="spp-Y25-WILH-line-29"> Curling <hi rend="underline">Wood-Bine</hi> myrtle Shade</l><l n="30" xml:id="spp-Y25-WILH-line-30"> And the Gay enamel'd Mead,</l><l n="31" xml:id="spp-Y25-WILH-line-31"> Where the <hi rend="underline">Linnets</hi> sit and Sing</l><l n="32" xml:id="spp-Y25-WILH-line-32"> Little Sportlings of the <hi rend="underline">Spring</hi>,</l><l n="33" xml:id="spp-Y25-WILH-line-33"> Where the breathing <hi rend="underline">Field</hi> and <hi rend="underline">Grove</hi></l><l n="34" xml:id="spp-Y25-WILH-line-34"> Sooth the Heart, and kindle Love,</l><l n="35" xml:id="spp-Y25-WILH-line-35"> Here for me and for the Muse</l><l n="36" xml:id="spp-Y25-WILH-line-36"> Colours of Resemblance Chuse,</l><l n="37" xml:id="spp-Y25-WILH-line-37"> Make of <hi rend="underline">Lineaments</hi> divine</l><l n="38" xml:id="spp-Y25-WILH-line-38"> Dapply Female <hi rend="underline">Spaniels</hi> shine.</l><l n="39" xml:id="spp-Y25-WILH-line-39"> Pretty <hi rend="underline">Fondlings</hi> of the Fair</l><l n="40" xml:id="spp-Y25-WILH-line-40"> Gentle <hi rend="underline">Damsels</hi> Gentle <hi rend="underline">Care</hi>,</l><l n="41" xml:id="spp-Y25-WILH-line-41"> But to one alone impart</l><l n="42" xml:id="spp-Y25-WILH-line-42"> All the Flatt'ry of thy art,</l><l n="43" xml:id="spp-Y25-WILH-line-43"> Crowd each Feature, Crowd each Grace</l><l n="44" xml:id="spp-Y25-WILH-line-44"> Which Compleat the Desprate Face,</l><l n="45" xml:id="spp-Y25-WILH-line-45"> Let the spotted Wanton Dame</l><l n="46" xml:id="spp-Y25-WILH-line-46"> Feel a new resistless Flame,</l><l n="47" xml:id="spp-Y25-WILH-line-47"> Let the Happiest of his <hi rend="underline">Race</hi></l><l n="48" xml:id="spp-Y25-WILH-line-48"> Win the fair to his <hi rend="underline">Embrace</hi>,</l><l n="49" xml:id="spp-Y25-WILH-line-49"> But in Shade the rest Conceal</l><l n="50" xml:id="spp-Y25-WILH-line-50"> Nor the Sight their Joys Reveal,</l><l n="51" xml:id="spp-Y25-WILH-line-51"> Least the <hi rend="underline">Pencil</hi> and the <hi rend="underline">Muse</hi></l><l n="52" xml:id="spp-Y25-WILH-line-52"> Loose desires, and thoughts <hi rend="underline">Infuse</hi>.Y25-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

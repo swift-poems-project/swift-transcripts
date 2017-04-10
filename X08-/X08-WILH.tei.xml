@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE LAST SPEECH AND</title>
+        <title>DYING WORDS OF<lb/></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X08-WILH" type="poem"><head type="note" n="1" xml:id="spp-X08-WILH-headnote-1"><lg n="1" xml:id="spp-X08-WILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X08-WILH-headnote-1-line-group-1-line-1">MY DEAR COUNTRYMEN,</l></lg></head><head type="note" n="2" xml:id="spp-X08-WILH-headnote-2"><lg n="1" xml:id="spp-X08-WILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X08-WILH-headnote-2-line-group-1-line-1"><lb/>────mediocribus esse poetis <lb/> Non funes, non gryps, non concessere columnae.</l></lg></head><head type="note" n="3" xml:id="spp-X08-WILH-headnote-3"><lg n="1" xml:id="spp-X08-WILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X08-WILH-headnote-3-line-group-1-line-1"><lb/>To give you a short Translation of these two Lines from Horace's Art of Poetry, which I have chosen for my Neck-Verse, before I proceed to my Speech, you will find they fall naturally into this Sense:</l></lg></head><head type="note" n="4" xml:id="spp-X08-WILH-headnote-4"><lg n="1" xml:id="spp-X08-WILH-headnote-4-line-group-1" type="headnote"><l n="1" xml:id="spp-X08-WILH-headnote-4-line-group-1-line-1"><lb/>For Poets who can't tell [high] Rocks from Stones, <lb/> <lb/>The Rope, the Hangman, and the Gallows groans.</l></lg></head><head type="note" n="5" xml:id="spp-X08-WILH-headnote-5"><lg n="1" xml:id="spp-X08-WILH-headnote-5-line-group-1" type="headnote"><l n="1" xml:id="spp-X08-WILH-headnote-5-line-group-1-line-1"><lb/>I was born in a Fen near the Foot of Mount Parnassus, commonly called the Logwood Bog. My Mother, whose Name was Stanza, conceiv'd me in a Dream, and was deliver'd of me in her Sleep. Her Dream was, that Apollo, in the Shape of a Gander, with a prodigious Long Bill, had embrac'd her: upon which she consulted the Oracle of Delphos, and the following Answer was made:</l></lg></head>
+      <lg n="1" type="triplet"><l n="1" xml:id="spp-X08-WILH-line-1"> You'll have a Gosling, call it Dan,&#13;</l><l n="2" xml:id="spp-X08-WILH-line-2"> And do not make your Goose a Swan.</l><l n="3" xml:id="spp-X08-WILH-line-3"> 'Tis true, because the God of Wit</l><l n="4" xml:id="spp-X08-WILH-line-4"> To get him in that Shape thought fit,</l><l n="5" xml:id="spp-X08-WILH-line-5"> He'll have some Glow-worm Sparks of it.</l><l n="6" xml:id="spp-X08-WILH-line-6"> Venture you may to turn him loose,</l><l n="7" xml:id="spp-X08-WILH-line-7"> But let it be another Goose.</l><l n="8" xml:id="spp-X08-WILH-line-8"> The Time will come, the fatal Time,</l><l n="9" xml:id="spp-X08-WILH-line-9"> When he shall dare a Swan to rhyme;</l><l n="10" xml:id="spp-X08-WILH-line-10"> The tow'ring Swan comes sousing down,</l><l n="11" xml:id="spp-X08-WILH-line-11"> And breaks his Pinions, cracks his Crown.</l><l n="12" xml:id="spp-X08-WILH-line-12"> From that sad Time, and sad Disaster,</l><l n="13" xml:id="spp-X08-WILH-line-13"> He'll be a lame, crack'd Poetaster.</l><l n="14" xml:id="spp-X08-WILH-line-14"> At length, for stealing Rhymes and Triplets,</l><l n="15" xml:id="spp-X08-WILH-line-15"> He'll be condemn'd to hang in Giblets.</l></lg><lg n="2" type="stanza"><l n="16" xml:id="spp-X08-WILH-line-16">You see now, Gentlemen, this is fatally and literally come to pass; for it was my Misfortune to engage with that Pindar of the Times, Tom: Sheridan, who did so confound me by sousing on my Crown, and did so batter my Pinions, that I was forc'd to make use of borrow'd Wings, tho' my false Accusers have depos'd that I stole my Feathers from Hopkins, Sternhold, Silvester, Ogilby, Durfey, &amp;c., for which I now forgive them and all the World. I die a Poet; and this Ladder shall be my Gradus ad Parnassum; and I hope the Criticks will have Mercy on my Works.&#13;</l></lg><lg n="3" type="stanza"><l n="17" xml:id="spp-X08-WILH-line-17">Then lo! I mount as slowly as I sung,&#13;</l><l n="18" xml:id="spp-X08-WILH-line-18"> And  then I'll make a Line for ev'ry Rung.</l><l n="19" xml:id="spp-X08-WILH-line-19"> There's Nine, I see,──the Muses, too, are Nine,</l><l n="20" xml:id="spp-X08-WILH-line-20"> Who wou'd refuse to die a Death like mine?</l></lg><lg n="4" type="triplet"><l n="21" xml:id="spp-X08-WILH-line-21">1.· Thou first Rung, Clio, celebrate my Name;&#13;</l><l n="22" xml:id="spp-X08-WILH-line-22"> 2.· Euterp', in tragick Numbers do the same.</l><l n="23" xml:id="spp-X08-WILH-line-23"> 3.· This Rung, I see, Terpsichore's thy Flute.</l><l n="24" xml:id="spp-X08-WILH-line-24"> 4.· Erato, sing me to the Gods,──ah, do't!</l><l n="25" xml:id="spp-X08-WILH-line-25"> 5.· Thalia, don't make me a Comedy;</l><l n="26" xml:id="spp-X08-WILH-line-26"> 6.· Urania, raise me toward the starry Sky;</l><l n="27" xml:id="spp-X08-WILH-line-27"> 7.· Calliope, to Ballad Strains descend,</l><l n="28" xml:id="spp-X08-WILH-line-28"> 8.· And Polyhymnia, tune them for your Friend;</l><l n="29" xml:id="spp-X08-WILH-line-29"> 9.· So shall Melpom'ne mourn my fatal End.</l></lg><lg n="5" type="stanza"><l n="30" xml:id="spp-X08-WILH-line-30" rend="flush right">Poor Dan: Jackson.&#13;X08-WILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

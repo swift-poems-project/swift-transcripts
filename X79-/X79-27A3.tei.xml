@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underline">A</hi> B<hi rend="SMALL-CAPS">ALLAD</hi>: <hi rend="underline">On the Victory at</hi></title>
+        <title>A<hi rend="SMALL-CAPS">UDENARDE</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X79-27A3" type="poem"><head type="note" n="1" xml:id="spp-X79-27A3-headnote-1"><lg n="1" xml:id="spp-X79-27A3-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X79-27A3-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X79-27A3-headnote-2"><lg n="1" xml:id="spp-X79-27A3-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X79-27A3-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X79-27A3-headnote-3"><lg n="1" xml:id="spp-X79-27A3-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X79-27A3-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X79-27A3-line-1"><hi rend="display-initial">Y</hi>E Commons and Peers,Pray lend me your Ears,</l><l n="2" xml:id="spp-X79-27A3-line-2"> I'll sing you a Song, if I can;How <hi rend="underline">Louis le Grand</hi>Was put to a Stand,</l><l n="3" xml:id="spp-X79-27A3-line-3" rend="align(center)"> By the Arms of our Gracious Queen <hi rend="underline">Anne</hi>.II.</l></lg><lg n="2" type="stanza"><l n="4" xml:id="spp-X79-27A3-line-4" rend="flush left">How his Army so great&#13;Had a total Defeat,</l><l n="5" xml:id="spp-X79-27A3-line-5"> Not far from the River of <hi rend="underline">Dender</hi>;Where his Grand-Children twain,For fear of being Slain,</l><l n="6" xml:id="spp-X79-27A3-line-6" rend="align(center)"> Gallop'd off with the Popish Pretender.III.</l></lg><lg n="3" type="stanza"><l n="7" xml:id="spp-X79-27A3-line-7" rend="flush left">To a Steeple on High&#13;The Battel to Spy,</l><l n="8" xml:id="spp-X79-27A3-line-8"> Up Mounted these clever Young Men;And when from the SpireThey saw so much Fire</l><l n="9" xml:id="spp-X79-27A3-line-9" rend="align(center)"> They cleverly came down again.IV.</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-X79-27A3-line-10" rend="flush left">Then a Horse-back they got&#13;All upon the same Spot,</l><l n="11" xml:id="spp-X79-27A3-line-11"> By Advice of their Cousin <hi rend="underline">Vendome</hi>;O Lord! cry'd out HeUnto Young <hi rend="underline">Burgundy</hi>,</l><l n="12" xml:id="spp-X79-27A3-line-12" rend="align(center)"> Wou'd your Brother and you were at Home.V.</l></lg><lg n="5" type="stanza"><l n="13" xml:id="spp-X79-27A3-line-13" rend="flush left">Just so did he say,&#13;When without more delay</l><l n="14" xml:id="spp-X79-27A3-line-14"> Away the Young Gentry Fled;Whose Heels for that WorkWere much lighter than Cork,</l><l n="15" xml:id="spp-X79-27A3-line-15" rend="align(center)"> But their Hearts were more heavy than Lead.VI.</l></lg><lg n="6" type="stanza"><l n="16" xml:id="spp-X79-27A3-line-16" rend="flush left">Not so did behave&#13;The Young <hi rend="underline">Hannover</hi> Brave</l><l n="17" xml:id="spp-X79-27A3-line-17"> In this bloody Field, I assure you;When his War-Horse was shotYet He matter'd it not,</l><l n="18" xml:id="spp-X79-27A3-line-18" rend="align(center)"> But Charg'd still on Foot like a Fury.VII.</l></lg><lg n="7" type="stanza"><l n="19" xml:id="spp-X79-27A3-line-19" rend="flush left">While Death flew about,&#13;Aloud He call'd out,</l><l n="20" xml:id="spp-X79-27A3-line-20"> Hoh! You Chevalier of St. <hi rend="underline">George</hi>,If you'll neither standBy Sea nor by Land,</l><l n="21" xml:id="spp-X79-27A3-line-21" rend="align(center)"> Pretender, that Title you forge.VIII.</l></lg><lg n="8" type="stanza"><l n="22" xml:id="spp-X79-27A3-line-22" rend="flush left">Thus boldly he stood&#13;As became that High Blood,</l><l n="23" xml:id="spp-X79-27A3-line-23"> Which runs in his Veins so blue;This Gallant Young ManBeing Kin to Queen <hi rend="underline">Anne</hi>,</l><l n="24" xml:id="spp-X79-27A3-line-24" rend="align(center)"> Fought, as were she a Man, she wou'd do.IX.</l></lg><lg n="9" type="stanza"><l n="25" xml:id="spp-X79-27A3-line-25" rend="flush left">What a Racket was here,&#13;(I think 'twas last Year)</l><l n="26" xml:id="spp-X79-27A3-line-26"> For a little ill Fortune in <hi rend="underline">Spain</hi>;When by letting 'em win,We have drawn the Puts in</l><l n="27" xml:id="spp-X79-27A3-line-27" rend="align(center)"> To lose all they are worth this Campaign.X.</l></lg><lg n="10" type="stanza"><l n="28" xml:id="spp-X79-27A3-line-28" rend="flush left">Tho' <hi rend="underline">Bruges</hi> and <hi rend="underline">Ghent</hi>To <hi rend="underline">Monsieur</hi> we Lent,</l><l n="29" xml:id="spp-X79-27A3-line-29" rend="align(center)"> With Int'rest he soon shall Re-pay 'em;While <hi rend="underline">Paris</hi> may singWith her Sorrowful King,<hi rend="underline">De Profundis</hi>, instead of <hi rend="underline">Te Deum</hi>.XI.</l></lg><lg n="11" type="stanza"><l n="30" xml:id="spp-X79-27A3-line-30" rend="flush left">From their Dream of Success,&#13;They'll awaken, we Guess,</l><l n="31" xml:id="spp-X79-27A3-line-31"> At the Sound of Great <hi rend="underline">Marlborough</hi>'s Drums;They may think, if they will,Of <hi rend="underline">Almanza</hi> still,</l><l n="32" xml:id="spp-X79-27A3-line-32" rend="align(center)"> But 'tis <hi rend="underline">Blenheim</hi> where-ever he comes.XII.</l></lg><lg n="12" type="stanza"><l n="33" xml:id="spp-X79-27A3-line-33" rend="flush left">O <hi rend="underline">Louis</hi> perplex'd,What General's next?</l><l n="34" xml:id="spp-X79-27A3-line-34"> Thou hast hitherto chang'd 'em in Vain:He has Beat 'em all round,If no New ones are found,</l><l n="35" xml:id="spp-X79-27A3-line-35" rend="align(center)"> He shall Beat the Old over again.XIII.</l></lg><lg n="13" type="stanza"><l n="36" xml:id="spp-X79-27A3-line-36" rend="flush left">We'll let <hi rend="underline">Tallard</hi> outIf he'll take t'other Bout;</l><l n="37" xml:id="spp-X79-27A3-line-37"> And much he's Improv'd, let me tell ye,With <hi rend="underline">Nottingham</hi> AleAt ev'ry Meal,</l><l n="38" xml:id="spp-X79-27A3-line-38" rend="align(center)"> And good Pudding and Beef in his Belly.XIV.</l></lg><lg n="14" type="stanza"><l n="39" xml:id="spp-X79-27A3-line-39" rend="flush left">As Losers at Play&#13;Their Dice throw away,</l><l n="40" xml:id="spp-X79-27A3-line-40"> While the Winner he still wins on:Let who will Command,Thou hadst better Disband,</l><l n="41" xml:id="spp-X79-27A3-line-41"> For, Old Bully, thy Doctors are gone.X79-27A3   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

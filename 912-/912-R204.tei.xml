@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ANSWER'D</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SB"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="912-R204" type="poem"><head type="note" n="1" xml:id="spp-912-R204-headnote-1"><lg n="1" xml:id="spp-912-R204-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-912-R204-headnote-1-line-group-1-line-1">By Dr, S────g,</l></lg></head><head type="note" n="2" xml:id="spp-912-R204-headnote-2"><lg n="1" xml:id="spp-912-R204-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-912-R204-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-912-R204-headnote-3"><lg n="1" xml:id="spp-912-R204-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-912-R204-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-912-R204-line-1"><hi rend="display-initial">Y</hi>OUR House of Hair and Lady's Hand,</l><l n="2" xml:id="spp-912-R204-line-2"> At first did put me to a stand.</l><l n="3" xml:id="spp-912-R204-line-3"> I have it now,────'tis plain enough,</l><l n="4" xml:id="spp-912-R204-line-4"> Your hairy Business is a <hi rend="underline">Muff</hi>.</l><l n="5" xml:id="spp-912-R204-line-5"> Your Engine fraught with cooling Gales,</l><l n="6" xml:id="spp-912-R204-line-6"> At once so like your Mast and Sails.<gap/><gap/></l><l n="7" xml:id="spp-912-R204-line-7"> And for the Rhime to you're the Man,</l><l n="8" xml:id="spp-912-R204-line-8"> What fits it better than a <hi rend="underline">Fann</hi>?</l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

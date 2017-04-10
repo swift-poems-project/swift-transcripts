@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>I. A CEROF MARRIAGE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CCalella"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y46B04B2" type="poem"><head type="note" n="1" xml:id="spp-Y46B04B2-headnote-1"><lg n="1" xml:id="spp-Y46B04B2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y46B04B2-headnote-1-line-group-1-line-1">Swift, in one of his pedestrian journies from London toward Chester, is reported to have taken shelter from a summer-tempest under a large oak on the road side, at no great distance from Litchfield. Presently, a man, with a pregnant woman, were driven by the like impulse, to avail themselves of the same covert. The Dean, entering into conversation, found the parties were destined for Litchfield, to be married. As the situation of the woman indicated no time should be lost, a proposition was made on his part, to save them the rest of the journey, by performing the ceremony on the spot. The offer was gladly accepted, and thanks being duly returned, the bridal pair, as the sky brightened, was about to return; but the bridegroom suddenly recollecting that a certificate was requisite to authenticate the marriage, requested one, which the Dean wrote in these words:</l></lg></head><head type="note" n="2" xml:id="spp-Y46B04B2-headnote-2"><lg n="1" xml:id="spp-Y46B04B2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y46B04B2-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y46B04B2-headnote-3"><lg n="1" xml:id="spp-Y46B04B2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y46B04B2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y46B04B2-line-1"> Under an oak, in stormy weather,&#13;</l><l n="2" xml:id="spp-Y46B04B2-line-2"> I join'd this rogue and whore together;</l><l n="3" xml:id="spp-Y46B04B2-line-3"> And none but he who rules the thunder</l><l n="4" xml:id="spp-Y46B04B2-line-4"> Can put this whore and rogue asunder.Y46B04B2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

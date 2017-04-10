@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ON WINDOWS.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-403B14W2-footnote-1"/>
+        </linkGrp>
+        <div n="403B14W2" type="poem"><head type="note" n="1" xml:id="spp-403B14W2-headnote-1"><lg n="1" xml:id="spp-403B14W2-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-403B14W2-headnote-1-line-group-1-line-1">SEVERAL OF THEM WRITTEN IN 1726.</l></lg></head><head type="note" n="2" xml:id="spp-403B14W2-headnote-2"><lg n="1" xml:id="spp-403B14W2-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-403B14W2-headnote-2-line-group-1-line-1">VII. ANOTHER, AT HOLYHEAD. <ref target="#spp-403B14W2-footnote-1">1</ref><note n="1" xml:id="spp-403B14W2-footnote-1" place="foot">These verses are signed J────K────; but written, as it is presumed, in Dr Swift's hand.──D.S</note></l></lg></head><head type="note" n="3" xml:id="spp-403B14W2-headnote-3"><lg n="1" xml:id="spp-403B14W2-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-403B14W2-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-403B14W2-line-1"> O N<hi rend="SMALL-CAPS">EPTUNE</hi>! Neptune! must I still</l><l n="2" xml:id="spp-403B14W2-line-2"> Be here detain'd against my will?</l><l n="3" xml:id="spp-403B14W2-line-3"> Is this your justice, when I'm come</l><l n="4" xml:id="spp-403B14W2-line-4"> Above two hundred miles from home;</l><l n="5" xml:id="spp-403B14W2-line-5"> O'er mountains steep, o'er dusty plains,</l><l n="6" xml:id="spp-403B14W2-line-6"> Half choked with dust, half drown'd with rains,</l><l n="7" xml:id="spp-403B14W2-line-7"> Only your godship to implore,</l><l n="8" xml:id="spp-403B14W2-line-8"> To let me kiss your other shore?</l><l n="9" xml:id="spp-403B14W2-line-9"> A boon so small! But I may weep,</l><l n="10" xml:id="spp-403B14W2-line-10"> While you're like Baal, fast asleep.403B14W2   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

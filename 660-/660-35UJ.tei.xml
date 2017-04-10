@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>SONG IV.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="660-35UJ" type="poem"><head type="note" n="1" xml:id="spp-660-35UJ-headnote-1"><lg n="1" xml:id="spp-660-35UJ-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-660-35UJ-headnote-1-line-group-1-line-1"><hi rend="underline">Whilst I gaze on </hi>Chloe<hi rend="underline"> trembling</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-660-35UJ-headnote-2"><lg n="1" xml:id="spp-660-35UJ-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-660-35UJ-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-660-35UJ-headnote-3"><lg n="1" xml:id="spp-660-35UJ-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-660-35UJ-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-660-35UJ-line-1"><hi rend="display-initial">F</hi>Lutt'ring spread thy purple pinions,Gentle Cupid, o'er my heart;</l><l n="2" xml:id="spp-660-35UJ-line-2"> I a slave in thy dominions,Nature must give way to art.</l></lg><lg n="2" type="stanza"><l n="3" xml:id="spp-660-35UJ-line-3">Mild Arcadian, ever blooming,&#13;Nightly nodding o'er their flocks,</l><l n="4" xml:id="spp-660-35UJ-line-4"> See my weary days consuming,All beneath yon flow'ry rocks.</l></lg><lg n="3" type="stanza"><l n="5" xml:id="spp-660-35UJ-line-5">Thus the Cyprian goddess weeping,&#13;Mourn'd Adonis, darling youth;</l><l n="6" xml:id="spp-660-35UJ-line-6"> Him the boar, in silence creeping,Gor'd with unrelenting tooth.</l></lg><lg n="4" type="stanza"><l n="7" xml:id="spp-660-35UJ-line-7">Cynthia, tune harmonious numbers,&#13;Fair discretion string the lyre,</l><l n="8" xml:id="spp-660-35UJ-line-8"> Sooth my ever-waking slumbers,Bright Apollo, lend thy choir.</l></lg><lg n="5" type="stanza"><l n="9" xml:id="spp-660-35UJ-line-9">Gloomy Pluto, king of terrors,&#13;Arm'd in adamantine chains,</l><l n="10" xml:id="spp-660-35UJ-line-10"> Lead me to the crystal mirrors,Wat'ring soft Elysium plains.</l></lg><lg n="6" type="stanza"><l n="11" xml:id="spp-660-35UJ-line-11">Mournful cypress, verdant willow,&#13;Gilding my Aurelia's brow,</l><l n="12" xml:id="spp-660-35UJ-line-12"> Morpheus hov'ring o'er my pillow,Hear me make my dying vow.</l></lg><lg n="7" type="stanza"><l n="13" xml:id="spp-660-35UJ-line-13">Melancholy smooth Meander,&#13;Swiftly purling in a round,</l><l n="14" xml:id="spp-660-35UJ-line-14"> On thy margin lovers wander,With thy flow'ry chaplets crown'd.</l></lg><lg n="8" type="stanza"><l n="15" xml:id="spp-660-35UJ-line-15">Thus when Philomela drooping,&#13;Softly seeks some silent mate,</l><l n="16" xml:id="spp-660-35UJ-line-16"> See the bird of Juno stooping,Melody <unclear>scorchesigns to fate.660-35UJ   </unclear></l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

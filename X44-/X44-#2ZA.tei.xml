@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">An Inventory of Dr. Swift's Goods, upon lending his House to the</hi>
+        </title>
+        <title><hi rend="underline">Bishop of M────, (not printed in his Works</hi>.)</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X44-#2ZA" type="poem"><head type="note" n="1" xml:id="spp-X44-#2ZA-headnote-1"><lg n="1" xml:id="spp-X44-#2ZA-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-#2ZA-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-X44-#2ZA-headnote-2"><lg n="1" xml:id="spp-X44-#2ZA-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-#2ZA-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X44-#2ZA-headnote-3"><lg n="1" xml:id="spp-X44-#2ZA-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X44-#2ZA-headnote-3-line-group-1-line-1">X44-#2ZA</l></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-X44-#2ZA-line-1">X44-#2ZA   1  An oaken broken elbow-chair&#13;X44-#2ZA   2  A caudle cup without an ear;X44-#2ZA   3  A battered, shattered ash bedstead;X44-#2ZA   4  A box of deal without a lid;X44-#2ZA   5  A pair of tongs, but out of joint;X44-#2ZA   6  A poor old poker without a point;X44-#2ZA   7  A pot that's crack'd, aroundX44-#2ZA   8  With an old garter bound;X44-#2ZA   9  An iron lock without a key;X44-#2ZA   10  A wig with hanging quite grown grey;X44-#2ZA   11  <gap/>X44-#2ZA   12  <gap/>X44-#2ZA   13  <gap/>X44-#2ZA   14  <gap/>X44-#2ZA   15  A pair of bellows without a pipe;X44-#2ZA   16  A curtain worn to half a stripe;X44-#2ZA   17  A dish which might good meat have held once;X44-#2ZA   18  An Ovid and an old Concordance;X44-#2ZA   19  A bottle bottom, wooden platter,X44-#2ZA   20  One for meal, and one for water;X44-#2ZA   21  There is, besides, a copper skellet,X44-#2ZA   22  Which runs as fast as you can fill it;X44-#2ZA   23  A candlestick, a pan, a save-all,X44-#2ZA   24  And this his household you have all.X44-#2ZA   25  These to his Lordship as a friend,X44-#2ZA   26  Till he has built I'd recommeud;X44-#2ZA   27  They'd serve his Lordship for a shiftX44-#2ZA   28  Why not as well as Doctor Swift?X44-#2ZA   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

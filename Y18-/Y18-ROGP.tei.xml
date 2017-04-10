@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">On Wisdom's Defeat in a Learned Debate</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y18-ROGP" type="poem"><head type="note" n="1" xml:id="spp-Y18-ROGP-headnote-1"><lg n="1" xml:id="spp-Y18-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y18-ROGP-headnote-1-line-group-1-line-1"><hi rend="underline">Quid est sapientia? semper idem velle atque idem nolle.</hi></l></lg></head><head type="note" n="2" xml:id="spp-Y18-ROGP-headnote-2"><lg n="1" xml:id="spp-Y18-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y18-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y18-ROGP-headnote-3"><lg n="1" xml:id="spp-Y18-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y18-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y18-ROGP-line-1"> Minerva has vowed since the bishops do slight her,&#13;</l><l n="2" xml:id="spp-Y18-ROGP-line-2"> Should the reverend peers, by chance e'er invite her,</l><l n="3" xml:id="spp-Y18-ROGP-line-3"> She's resolved never more to be known by the mitre.</l></lg><lg n="2" type="stanza"><l n="4" xml:id="spp-Y18-ROGP-line-4">The temporal lords, who voted against her,&#13;</l><l n="5" xml:id="spp-Y18-ROGP-line-5"> She frankly forgives, as not having incensed her,</l><l n="6" xml:id="spp-Y18-ROGP-line-6"> For securing their pensions is best proof of their sense, sir.</l></lg><lg n="3" type="stanza"><l n="7" xml:id="spp-Y18-ROGP-line-7">At first putting the question, their lordships were for 't,&#13;</l><l n="8" xml:id="spp-Y18-ROGP-line-8"> And his Grace's wise motion did bravely support,</l><l n="9" xml:id="spp-Y18-ROGP-line-9"> Till positive orders was whispered from court.</l></lg><lg n="4" type="stanza"><l n="10" xml:id="spp-Y18-ROGP-line-10">So this they allege in their justification,&#13;</l><l n="11" xml:id="spp-Y18-ROGP-line-11"> They vote for their bread in undoing the nation,</l><l n="12" xml:id="spp-Y18-ROGP-line-12"> And the first law of nature is self-preservation.</l></lg><lg n="5" type="stanza"><l n="13" xml:id="spp-Y18-ROGP-line-13"><hi rend="underline">Rose Common</hi>,      Shameless woman.Y18-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y49-640L" type="poem"><head type="note" n="1" xml:id="spp-Y49-640L-headnote-1"><lg n="1" xml:id="spp-Y49-640L-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-640L-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-Y49-640L-headnote-2"><lg n="1" xml:id="spp-Y49-640L-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-640L-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-Y49-640L-headnote-3"><lg n="1" xml:id="spp-Y49-640L-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-Y49-640L-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-Y49-640L-line-1">Here Sarum lyes&#13;of late as wise</l><l n="2" xml:id="spp-Y49-640L-line-2"> And learn'd as Tom AquinasLawn sleeves he woreYet was no more</l><l n="3" xml:id="spp-Y49-640L-line-3"> A Christian than Socinus.</l></lg><lg n="2" type="stanza"><l n="4" xml:id="spp-Y49-640L-line-4">Oaths pro &amp; con&#13;</l><l n="5" xml:id="spp-Y49-640L-line-5"> he swallow'd down</l><l n="6" xml:id="spp-Y49-640L-line-6"> loved gold like any Layman</l><l n="7" xml:id="spp-Y49-640L-line-7"> Wrote preach'd &amp; pray'dbut yet betray'd</l><l n="8" xml:id="spp-Y49-640L-line-8"> Gods holy Church to Mammon</l></lg><lg n="3" type="stanza"><l n="9" xml:id="spp-Y49-640L-line-9">Of every vice&#13;he had a spice</l><l n="10" xml:id="spp-Y49-640L-line-10"> Altho' a Rever<hi rend="sup">d</hi> PrelateYet lived &amp; died</l><l n="11" xml:id="spp-Y49-640L-line-11"> If not belyed,</l><l n="12" xml:id="spp-Y49-640L-line-12"> A true dissenting Zealot.</l></lg><lg n="4" type="stanza"><l n="13" xml:id="spp-Y49-640L-line-13">If such a Soul&#13;To Heaven is stole</l><l n="14" xml:id="spp-Y49-640L-line-14"> And Scap'd Old Satans clutchesWe then presumeThere may be room</l><l n="15" xml:id="spp-Y49-640L-line-15"> for M────&amp; his D<hi rend="sup">s.</hi>Y49-640L   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

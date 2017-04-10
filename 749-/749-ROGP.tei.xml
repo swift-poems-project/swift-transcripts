@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">Stella at Woodpark</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="749-ROGP" type="poem"><head type="note" n="1" xml:id="spp-749-ROGP-headnote-1"><lg n="1" xml:id="spp-749-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-749-ROGP-headnote-1-line-group-1-line-1">A HOUSE OF CHARLES FORD ESQ. EIGHT MILES FROM DUBLIN</l></lg></head><head type="note" n="2" xml:id="spp-749-ROGP-headnote-2"><lg n="1" xml:id="spp-749-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-749-ROGP-headnote-2-line-group-1-line-1"><hi rend="underline">Cuicunque nocere volebat <lb/> Vestimenta dabat pretiosa.</hi></l></lg></head><head type="note" n="3" xml:id="spp-749-ROGP-headnote-3"><lg n="1" xml:id="spp-749-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-749-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-749-ROGP-line-1"> Don Carlos in a merry spite,&#13;</l><l n="2" xml:id="spp-749-ROGP-line-2"> Did Stella to his house invite:</l><l n="3" xml:id="spp-749-ROGP-line-3"> He entertained her half a year</l><l n="4" xml:id="spp-749-ROGP-line-4"> With generous wines and costly cheer.</l><l n="5" xml:id="spp-749-ROGP-line-5"> Don Carlos made her chief director,</l><l n="6" xml:id="spp-749-ROGP-line-6"> That she might o'er the servants hector.</l><l n="7" xml:id="spp-749-ROGP-line-7"> In half a week the dame grows nice,</l><l n="8" xml:id="spp-749-ROGP-line-8"> Got all things at the highest price.</l><l n="9" xml:id="spp-749-ROGP-line-9"> Now at the table-head she sits,</l><l n="10" xml:id="spp-749-ROGP-line-10"> Presented with the nicest bits:</l><l n="11" xml:id="spp-749-ROGP-line-11"> She looked on partridges with scorn,</l><l n="12" xml:id="spp-749-ROGP-line-12"> Except they tasted of the corn:</l><l n="13" xml:id="spp-749-ROGP-line-13"> A haunch of venison made her sweat,</l><l n="14" xml:id="spp-749-ROGP-line-14"> Unless it had the right <hi rend="underline">fumette</hi>.</l><l n="15" xml:id="spp-749-ROGP-line-15"> Don Carlos earnestly would beg,</l><l n="16" xml:id="spp-749-ROGP-line-16"> `Dear madam, try this pigeon's leg ;</l><l n="17" xml:id="spp-749-ROGP-line-17"> Was happy when he could prevail</l><l n="18" xml:id="spp-749-ROGP-line-18"> To make her only touch a quail.</l><l n="19" xml:id="spp-749-ROGP-line-19"> Through candle-light she viewed the wine,</l><l n="20" xml:id="spp-749-ROGP-line-20"> To see that every glass was fine.</l><l n="21" xml:id="spp-749-ROGP-line-21"> At last grown prouder than the devil,</l><l n="22" xml:id="spp-749-ROGP-line-22"> With feeding high, and treatment civil,</l><l n="23" xml:id="spp-749-ROGP-line-23"> Don Carlos now began to find</l><l n="24" xml:id="spp-749-ROGP-line-24"> His malice work as he designed:</l><l n="25" xml:id="spp-749-ROGP-line-25"> The winter sky began to frown,</l><l n="26" xml:id="spp-749-ROGP-line-26"> Poor Stella must pack off to town.</l><l n="27" xml:id="spp-749-ROGP-line-27"> From purling streams and fountains bubbling,</l><l n="28" xml:id="spp-749-ROGP-line-28"> To Liffey's stinking tide in Dublin:</l><l n="29" xml:id="spp-749-ROGP-line-29"> From wholesome exercise and air</l><l n="30" xml:id="spp-749-ROGP-line-30"> To sossing in an easy chair;</l><l n="31" xml:id="spp-749-ROGP-line-31"> From stomach sharp and hearty feeding,</l><l n="32" xml:id="spp-749-ROGP-line-32"> To piddle like a lady breeding:</l><l n="33" xml:id="spp-749-ROGP-line-33"> From ruling there the household singly,</l><l n="34" xml:id="spp-749-ROGP-line-34"> To be directed here by Dingley:</l><l n="35" xml:id="spp-749-ROGP-line-35"> From every day a lordly banquet,</l><l n="36" xml:id="spp-749-ROGP-line-36"> To half a joint, and God be thank it:</l><l n="37" xml:id="spp-749-ROGP-line-37"> From every meal Pontac in plenty,</l><l n="38" xml:id="spp-749-ROGP-line-38"> To half a pint one day in twenty.</l><l n="39" xml:id="spp-749-ROGP-line-39"> From Ford attending at her call,</l><l n="40" xml:id="spp-749-ROGP-line-40"> To visits of Archdeacon Wall.</l><l n="41" xml:id="spp-749-ROGP-line-41"> From Ford, who thinks of nothing mean,</l><l n="42" xml:id="spp-749-ROGP-line-42"> To the poor doings of the Dean.</l><l n="43" xml:id="spp-749-ROGP-line-43"> From growing richer with good cheer,</l><l n="44" xml:id="spp-749-ROGP-line-44"> To running out by starving here.</l></lg><lg n="2" type="stanza"><l n="45" xml:id="spp-749-ROGP-line-45">But now arrives the dismal day:&#13;</l><l n="46" xml:id="spp-749-ROGP-line-46"> She must return to Ormond Quay:</l><l n="47" xml:id="spp-749-ROGP-line-47"> The coachman stopped, she looked, and swore</l><l n="48" xml:id="spp-749-ROGP-line-48"> The rascal had mistook the door:</l><l n="49" xml:id="spp-749-ROGP-line-49"> At coming in you saw her stoop;</l><l n="50" xml:id="spp-749-ROGP-line-50"> The entry brushed against her hoop:</l><l n="51" xml:id="spp-749-ROGP-line-51"> Each moment rising in her airs,</l><l n="52" xml:id="spp-749-ROGP-line-52"> She cursed the narrow winding stairs:</l><l n="53" xml:id="spp-749-ROGP-line-53"> Began a thousand faults to spy;</l><l n="54" xml:id="spp-749-ROGP-line-54"> The ceiling hardly six foot high;</l><l n="55" xml:id="spp-749-ROGP-line-55"> The smutty wainscot full of cracks,</l><l n="56" xml:id="spp-749-ROGP-line-56"> And half the chairs with broken backs:</l><l n="57" xml:id="spp-749-ROGP-line-57"> Her quarter's out at Lady Day,</l><l n="58" xml:id="spp-749-ROGP-line-58"> She vows she will no longer stay,</l><l n="59" xml:id="spp-749-ROGP-line-59"> In lodgings, like a poor <hi rend="underline">grisette</hi>,</l><l n="60" xml:id="spp-749-ROGP-line-60"> While there are houses to be let.</l></lg><lg n="3" type="stanza"><l n="61" xml:id="spp-749-ROGP-line-61">Howe'er, to keep her spirits up,&#13;</l><l n="62" xml:id="spp-749-ROGP-line-62"> She sent for company to sup;</l><l n="63" xml:id="spp-749-ROGP-line-63"> When all the while you might remark,</l><l n="64" xml:id="spp-749-ROGP-line-64"> She strove in vain to ape Woodpark.</l><l n="65" xml:id="spp-749-ROGP-line-65"> Two bottles called for, (half her store;</l><l n="66" xml:id="spp-749-ROGP-line-66"> The cupboard could contain but four;)</l><l n="67" xml:id="spp-749-ROGP-line-67"> A supper worthy of her self,</l><l n="68" xml:id="spp-749-ROGP-line-68"> Five nothings in five plates of Delf.</l></lg><lg n="4" type="stanza"><l n="69" xml:id="spp-749-ROGP-line-69">Thus, for a week the farce went on;&#13;</l><l n="70" xml:id="spp-749-ROGP-line-70"> When all her country-savings gone,</l><l n="71" xml:id="spp-749-ROGP-line-71"> She fell into her former scene.</l><l n="72" xml:id="spp-749-ROGP-line-72"> Small beer, a herring, and the Dean.</l></lg><lg n="5" type="stanza"><l n="73" xml:id="spp-749-ROGP-line-73">Thus far in jest. Though now I fear&#13;</l><l n="74" xml:id="spp-749-ROGP-line-74"> You think my jesting too severe:</l><l n="75" xml:id="spp-749-ROGP-line-75"> But poets when a hint is new</l><l n="76" xml:id="spp-749-ROGP-line-76"> Regard not whether false or true:</l><l n="77" xml:id="spp-749-ROGP-line-77"> Yet raillery gives no offence,</l><l n="78" xml:id="spp-749-ROGP-line-78"> Where truth has not the least pretence;</l><l n="79" xml:id="spp-749-ROGP-line-79"> Nor can be more securely placed</l><l n="80" xml:id="spp-749-ROGP-line-80"> Than on a nymph of Stella's taste.</l><l n="81" xml:id="spp-749-ROGP-line-81"> I must confess, your wine and victual</l><l n="82" xml:id="spp-749-ROGP-line-82"> I was too hard upon <hi rend="underline">a little</hi>;</l><l n="83" xml:id="spp-749-ROGP-line-83"> Your table neat, your linen fine;</l><l n="84" xml:id="spp-749-ROGP-line-84"> And, though in miniature, you shine.</l><l n="85" xml:id="spp-749-ROGP-line-85"> Yet, when you sigh to leave Woodpark,</l><l n="86" xml:id="spp-749-ROGP-line-86"> The scene, the welcome, and the spark,</l><l n="87" xml:id="spp-749-ROGP-line-87"> To languish in this odious town,</l><l n="88" xml:id="spp-749-ROGP-line-88"> And pull your haughty stomach down;</l><l n="89" xml:id="spp-749-ROGP-line-89"> We think you quite mistake the case;</l><l n="90" xml:id="spp-749-ROGP-line-90"> The virtue lies not in the place:</l><l n="91" xml:id="spp-749-ROGP-line-91"> For though my raillery were true,</l><l n="92" xml:id="spp-749-ROGP-line-92"> A cottage is Woodpark with you.749-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

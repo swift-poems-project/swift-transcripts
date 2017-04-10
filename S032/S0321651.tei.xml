@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>PALINODIA. Hor. Od. 16. lib. 1.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S0321651" type="poem"><head type="note" n="1" xml:id="spp-S0321651-headnote-1"><lg n="1" xml:id="spp-S0321651-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-S0321651-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-S0321651-headnote-2"><lg n="1" xml:id="spp-S0321651-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-S0321651-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-S0321651-headnote-3"><lg n="1" xml:id="spp-S0321651-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-S0321651-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-S0321651-line-1"><hi rend="display-initial">G</hi>REAT Sir, than Ph<unclear>oe</unclear>bus more divine,</l><l n="2" xml:id="spp-S0321651-line-2"> Whose verses far his rays out-shine;Look down upon your quondam foe,</l><l n="3" xml:id="spp-S0321651-line-3"> Oh let me never write again,</l><l n="4" xml:id="spp-S0321651-line-4"> If e'er I disoblige your Dean,Should you compassion shew.</l></lg><lg n="2" type="stanza"><l n="5" xml:id="spp-S0321651-line-5">Take those Iambicks, which I wrote,&#13;</l><l n="6" xml:id="spp-S0321651-line-6"> When anger made me piping hot,And give them to your cook,</l><l n="7" xml:id="spp-S0321651-line-7"> To sindge your fowl, or save your paste,</l><l n="8" xml:id="spp-S0321651-line-8"> The next time when you have a feast;They'll save you many a book.</l></lg><lg n="3" type="stanza"><l n="9" xml:id="spp-S0321651-line-9">To burn them if you're not content,&#13;</l><l n="10" xml:id="spp-S0321651-line-10"> I give you then my free consent,To sink them in the harbour;</l><l n="11" xml:id="spp-S0321651-line-11"> If not, they'll serve to set off blocks,</l><l n="12" xml:id="spp-S0321651-line-12"> To roll on pipes, and twist in locks;So give them to your barber.</l></lg><lg n="4" type="stanza"><l n="13" xml:id="spp-S0321651-line-13">Or when you next your physick take,&#13;</l><l n="14" xml:id="spp-S0321651-line-14"> I must entreat you then to make,A proper application,</l><l n="15" xml:id="spp-S0321651-line-15"> 'Tis what I've done myself before,</l><l n="16" xml:id="spp-S0321651-line-16"> With Dan's fine thoughts, and many more,Who gave me provocation.</l></lg><lg n="5" type="stanza"><l n="17" xml:id="spp-S0321651-line-17">What cannot mighty anger do,&#13;</l><l n="18" xml:id="spp-S0321651-line-18"> It makes the weak, the strong pursue;A goose attack a swan,</l><l n="19" xml:id="spp-S0321651-line-19"> It makes a woman tooth and nail,</l><l n="20" xml:id="spp-S0321651-line-20"> Her husbands hands and face assail,While he's no longer man.</l></lg><lg n="6" type="stanza"><l n="21" xml:id="spp-S0321651-line-21">Tho' some we find are more discreet,&#13;</l><l n="22" xml:id="spp-S0321651-line-22"> Before the world are wond'rous sweet,And let their husband's hector,</l><l n="23" xml:id="spp-S0321651-line-23"> But when the world's asleep, they wake.</l><l n="24" xml:id="spp-S0321651-line-24"> That is the time they chuse to speak;Witness the curtain lecture.</l></lg><lg n="7" type="stanza"><l n="25" xml:id="spp-S0321651-line-25">Such was the case, with you I find,&#13;</l><l n="26" xml:id="spp-S0321651-line-26"> All day you could conceal your mind,But when St. Patrick's chymes</l><l n="27" xml:id="spp-S0321651-line-27"> Awak'd your muse (my midnight curse,</l><l n="28" xml:id="spp-S0321651-line-28"> When I engag'd for better for worse)You scolded with your rhymes.</l></lg><lg n="8" type="stanza"><l n="29" xml:id="spp-S0321651-line-29">Have done, have done, I quit the field,&#13;</l><l n="30" xml:id="spp-S0321651-line-30"> To you, as to my wife I yield,As she must wear the breeches,</l><l n="31" xml:id="spp-S0321651-line-31"> So shall you wear the laurel crown,</l><l n="32" xml:id="spp-S0321651-line-32"> Win it, and wear it, 'tis your own;The poet's only riches.S0321651   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

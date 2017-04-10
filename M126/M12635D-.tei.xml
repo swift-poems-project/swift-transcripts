@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A</title>
+        <title>LETTER</title>
+        <title>TO</title>
+        <title>Mr. <hi rend="underline">A────P────s</hi>, on his Landing in</title>
+        <title><hi rend="underline">Ireland</hi>, and being abused for his</title>
+        <title>Poems, on Lord <hi rend="underline">Carteret</hi>'s Family,</title>
+        <title>by many <hi rend="underline">Irish</hi> Bards, especially Doctor</title>
+        <title><hi rend="underline">Gulliver</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M12635D-" type="letter"><head type="note" n="1" xml:id="spp-M12635D--headnote-1"><lg n="1" xml:id="spp-M12635D--headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-M12635D--headnote-1-line-group-1-line-1"><hi rend="underline">By an</hi> Irish Clergyman, <hi rend="underline">living privately</hi>, in <hi rend="underline">London</hi>.</l></lg></head><head type="note" n="2" xml:id="spp-M12635D--headnote-2"><lg n="1" xml:id="spp-M12635D--headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-M12635D--headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-M12635D--headnote-3"><lg n="1" xml:id="spp-M12635D--headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-M12635D--headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-M12635D--line-1"><hi rend="display-initial">F</hi>ROM Noise retir'd, and busy Life;</l><l n="2" xml:id="spp-M12635D--line-2"> Estrang'd from Care, and freed from Strife.</l><l n="3" xml:id="spp-M12635D--line-3"> Forgetful of the, once-lov'd, Town;</l><l n="4" xml:id="spp-M12635D--line-4"> From <hi rend="underline">Court</hi> to <hi rend="underline">Change</hi>, my Name, unknown;</l><l n="5" xml:id="spp-M12635D--line-5"> Careless, which <hi rend="underline">Miss</hi> or <hi rend="underline">Madam</hi> boasts</l><l n="6" xml:id="spp-M12635D--line-6"> Herself, amongst the <hi rend="underline">First-rate Toasts</hi>;</l><l n="7" xml:id="spp-M12635D--line-7"> Careless, who <hi rend="underline">Chief</hi>, thro' powerful Tongue,</l><l n="8" xml:id="spp-M12635D--line-8"> At <hi rend="underline">Bar</hi>, directs <hi rend="underline">The Right and Wrong</hi>;</l><l n="9" xml:id="spp-M12635D--line-9"> Or who, from <hi rend="underline">Pulpit</hi>, painting <hi rend="underline">Evil</hi>,</l><l n="10" xml:id="spp-M12635D--line-10"> In blackest Colours <hi rend="underline">shades the Devil</hi>;</l><l n="11" xml:id="spp-M12635D--line-11"> Who smoaks at <hi rend="underline">Jo</hi>'s, the <hi rend="underline">sagest Cit</hi>;</l><l n="12" xml:id="spp-M12635D--line-12"> Whom <hi rend="underline">Button</hi> dubbs the <hi rend="underline">Tip-top Wit</hi>;</l><l n="13" xml:id="spp-M12635D--line-13"> To thee, my lov'd, and much fam'd Friend,</l><l n="14" xml:id="spp-M12635D--line-14"> Obscure, these silent Lines I send.</l><l n="15" xml:id="spp-M12635D--line-15"> I send, to greet the Man, ere while,</l><l n="16" xml:id="spp-M12635D--line-16"> Own'd, <hi rend="underline">First in Wit</hi>, thro' <hi rend="underline">Britain</hi>'s <hi rend="underline">Isle</hi>;</l><l n="17" xml:id="spp-M12635D--line-17"> To greet, That <hi rend="underline">Ph<unclear>oe</unclear>bus</hi> gives to boast,</l><l n="18" xml:id="spp-M12635D--line-18"> He's not so averse, to th' <hi rend="underline">Irish Coast</hi>:</l><l n="19" xml:id="spp-M12635D--line-19"> Since, when <hi rend="underline">he sets</hi> and <hi rend="underline">quits</hi> our Skies,</l><l n="20" xml:id="spp-M12635D--line-20"> He bids his Favourite <hi rend="underline">Philips rise</hi>.</l><l n="21" xml:id="spp-M12635D--line-21"> But, hark! my Friend, whene'er you <hi rend="underline">Land</hi>,</l><l n="22" xml:id="spp-M12635D--line-22"> And print your Foot on <hi rend="underline">Irish</hi> Sand;</l><l n="23" xml:id="spp-M12635D--line-23"> Unless of <hi rend="underline">Temper</hi> you have store,</l><l n="24" xml:id="spp-M12635D--line-24"> You'll meet <hi rend="underline">th' inhospitable Shore</hi>;</l><l n="25" xml:id="spp-M12635D--line-25"> Where Swarms of <hi rend="underline">Witlings</hi> buz, and prey</l><l n="26" xml:id="spp-M12635D--line-26"> On every thing, brought new from Sea;</l><l n="27" xml:id="spp-M12635D--line-27"> Where, <hi rend="underline">Eastern Winds</hi>, with foreign News,</l><l n="28" xml:id="spp-M12635D--line-28"> Some <hi rend="underline">Home-spun Nonsense</hi>, still, produce.Regret not, that thy <hi rend="underline">Virgin Muse</hi>,</l><l n="29" xml:id="spp-M12635D--line-29"> To sing of <hi rend="underline">Virgin Charms</hi>, did chuse;</l><l n="30" xml:id="spp-M12635D--line-30"> Regret not, thy well-worded Praise;<hi rend="underline">The sweetest Subject, softest Lays</hi>:</l><l n="31" xml:id="spp-M12635D--line-31"> Tho' puny Rhimers have thought fit</l><l n="32" xml:id="spp-M12635D--line-32"> To shew, from thence, their want of Wit;</l><l n="33" xml:id="spp-M12635D--line-33"> Tho' want of Manners they have shewn,</l><l n="34" xml:id="spp-M12635D--line-34"> With Ribaldry, to teize the Town.Thus, in <hi rend="underline">A Country-Village</hi>, bawl</l><l n="35" xml:id="spp-M12635D--line-35"> Crowds of that Animal, we call</l><l n="36" xml:id="spp-M12635D--line-36"> A <hi rend="underline">Cabbin-Cur</hi>; whene'er they spy</l><l n="37" xml:id="spp-M12635D--line-37"> A true <hi rend="underline">Molossian-bred</hi>, pass by.<hi rend="underline">They Run; they Bark; they Rage; they Foam</hi>:</l><l n="38" xml:id="spp-M12635D--line-38"> Scarce looking back, he trudges home.M12635D-   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

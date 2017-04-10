@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="underline">On Mr Pulteney being Put Out of the Council</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="537-ROGP" type="poem"><head type="note" n="1" xml:id="spp-537-ROGP-headnote-1"><lg n="1" xml:id="spp-537-ROGP-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-537-ROGP-headnote-1-line-group-1-line-1"/></lg></head><head type="note" n="2" xml:id="spp-537-ROGP-headnote-2"><lg n="1" xml:id="spp-537-ROGP-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-537-ROGP-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-537-ROGP-headnote-3"><lg n="1" xml:id="spp-537-ROGP-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-537-ROGP-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-537-ROGP-line-1"> Sir Robert wearied by Will Pulteney's teasings,&#13;</l><l n="2" xml:id="spp-537-ROGP-line-2"> Who interrupted him in all his leasings;</l><l n="3" xml:id="spp-537-ROGP-line-3"> Resolved that Will and he should meet no more;</l><l n="4" xml:id="spp-537-ROGP-line-4"> Full in his face Bob shuts the council door:</l><l n="5" xml:id="spp-537-ROGP-line-5"> Nor lets him sit as justice on the bench,</l><l n="6" xml:id="spp-537-ROGP-line-6"> To punish thieves, or lash a suburb wench.</l><l n="7" xml:id="spp-537-ROGP-line-7"> Yet still St Stephen's Chapel open lies</l><l n="8" xml:id="spp-537-ROGP-line-8"> For Will to enter──what shall I advise?</l><l n="9" xml:id="spp-537-ROGP-line-9"> E'en quit the House, for thou too long hast sat in't,</l><l n="10" xml:id="spp-537-ROGP-line-10"> Produce at last thy dormant ducal patent:</l><l n="11" xml:id="spp-537-ROGP-line-11"> There, near thy master's throne in shelter placed,</l><l n="12" xml:id="spp-537-ROGP-line-12"> Let Will, unheard by thee, his thunder waste.</l><l n="13" xml:id="spp-537-ROGP-line-13"> Yet still I fear your work is done but half;</l><l n="14" xml:id="spp-537-ROGP-line-14"> For while he keeps his pen, you are not safe.</l></lg><lg n="2" type="stanza"><l n="15" xml:id="spp-537-ROGP-line-15">Hear an old fable, and a dull one too;&#13;</l><l n="16" xml:id="spp-537-ROGP-line-16"> Yet bears a moral, when applied to you.</l></lg><lg n="3" type="stanza"><l n="17" xml:id="spp-537-ROGP-line-17">A hare who long had 'scaped pursuing hounds,&#13;</l><l n="18" xml:id="spp-537-ROGP-line-18"> By often shifting into distant grounds;</l><l n="19" xml:id="spp-537-ROGP-line-19"> But, finding all his artifices vain;</l><l n="20" xml:id="spp-537-ROGP-line-20"> To save his life he leapt into the main.</l><l n="21" xml:id="spp-537-ROGP-line-21"> But there, alas! he could no safety find;</l><l n="22" xml:id="spp-537-ROGP-line-22"> A pack of dog-fish had him in the wind:</l><l n="23" xml:id="spp-537-ROGP-line-23"> He scours away; and to avoid the foe,</l><l n="24" xml:id="spp-537-ROGP-line-24"> Descends for shelter to the shades below.</l><l n="25" xml:id="spp-537-ROGP-line-25"> There Cerberus lay watching in his den,</l><l n="26" xml:id="spp-537-ROGP-line-26"> (He had not seen a hare the Lord knows when)</l><l n="27" xml:id="spp-537-ROGP-line-27"> Out bounced the mastiff of the triple head;</l><l n="28" xml:id="spp-537-ROGP-line-28"> Away the hare with double swiftness fled.</l><l n="29" xml:id="spp-537-ROGP-line-29"> Hunted from earth, and sea, and hell, he flies</l><l n="30" xml:id="spp-537-ROGP-line-30"> (Fear lent him wings) for safety to the skies.</l><l n="31" xml:id="spp-537-ROGP-line-31"> How was the fearful animal distressed!</l><l n="32" xml:id="spp-537-ROGP-line-32"> Behold a foe more fierce than all the rest:</l><l n="33" xml:id="spp-537-ROGP-line-33"> Sirius, the swiftest of the heavenly pack,</l><l n="34" xml:id="spp-537-ROGP-line-34"> Failed but an inch to seize him by the back.</l><l n="35" xml:id="spp-537-ROGP-line-35"> He fled to earth, but first it cost him dear;</l><l n="36" xml:id="spp-537-ROGP-line-36"> He left his scut behind, and half an ear.</l></lg><lg n="4" type="stanza"><l n="37" xml:id="spp-537-ROGP-line-37">Thus was the hare pursued, though free from guilt;&#13;</l><l n="38" xml:id="spp-537-ROGP-line-38"> Thus Bob shalt thou be mauled, fly where thou wilt:</l><l n="39" xml:id="spp-537-ROGP-line-39"> Then, honest Robin, of thy corpse beware:</l><l n="40" xml:id="spp-537-ROGP-line-40"> Thou art not half so nimble as a hare:</l><l n="41" xml:id="spp-537-ROGP-line-41"> Too ponderous is thy bulk to mount the sky;</l><l n="42" xml:id="spp-537-ROGP-line-42"> Nor can you go to hell before you die.</l><l n="43" xml:id="spp-537-ROGP-line-43"> So keen thy hunters, and thy scent so strong;</l><l n="44" xml:id="spp-537-ROGP-line-44"> Thy turns and doublings cannot save thee long.537-ROGP   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

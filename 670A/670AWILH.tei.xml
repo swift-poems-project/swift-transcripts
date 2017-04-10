@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <lb/>
+          <lb/>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="670AWILH" type="poem"><head type="note" n="1" xml:id="spp-670AWILH-headnote-1"><lg n="1" xml:id="spp-670AWILH-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-670AWILH-headnote-1-line-group-1-line-1"><hi rend="underline">By</hi> S<hi rend="SMALL-CAPS">WIFT</hi> <hi rend="underline">and Others</hi></l></lg></head><head type="note" n="2" xml:id="spp-670AWILH-headnote-2"><lg n="1" xml:id="spp-670AWILH-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-670AWILH-headnote-2-line-group-1-line-1"><hi rend="underline">On the same Occasion</hi>.</l></lg></head><head type="note" n="3" xml:id="spp-670AWILH-headnote-3"><lg n="1" xml:id="spp-670AWILH-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-670AWILH-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="stanza"><l n="1" xml:id="spp-670AWILH-line-1"><hi rend="display-initial">M</hi>Y Lines to him you give──to speak your due,</l><l n="2" xml:id="spp-670AWILH-line-2"> 'Tis what no Man alive will say of you.</l><l n="3" xml:id="spp-670AWILH-line-3"> Your Works are like old <hi rend="underline">Jacob</hi>'s speckled Goats,</l><l n="4" xml:id="spp-670AWILH-line-4"> Known by the Verse, yet better by the Notes.<hi rend="underline">Pope</hi>'s Essays upon some for <hi rend="underline">Young</hi>'s may pass,</l><l n="5" xml:id="spp-670AWILH-line-5"> But all distinguish thy dull leaden Mass.</l><l n="6" xml:id="spp-670AWILH-line-6"> So green in different Lights may pass for blue,</l><l n="7" xml:id="spp-670AWILH-line-7"> But what's dy'd black will take no other hue.670AWILH   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>

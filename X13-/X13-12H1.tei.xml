@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LETTER IX.</title>
+        <title><hi rend="underline">Dr</hi>. S<hi rend="SMALL-CAPS">WIFT</hi> <hi rend="underline">to Dr</hi>. S<hi rend="SMALL-CAPS">HERIDAN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>To be drafted.</p>
+        </correction>
+        <normalization>
+          <p>To be drafted.</p>
+        </normalization>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X13-12H1-footnote-1 #spp-X13-12H1-line-2"/>
+        </linkGrp>
+        <div n="X13-12H1" type="letter"><head type="note" n="1" xml:id="spp-X13-12H1-headnote-1"><lg n="1" xml:id="spp-X13-12H1-headnote-1-line-group-1" type="headnote"><l n="1" xml:id="spp-X13-12H1-headnote-1-line-group-1-line-1"><note rend="flush right"><hi rend="underline">Dec</hi>. 14, 1719. 9 at night.</note></l></lg></head><head type="note" n="2" xml:id="spp-X13-12H1-headnote-2"><lg n="1" xml:id="spp-X13-12H1-headnote-2-line-group-1" type="headnote"><l n="1" xml:id="spp-X13-12H1-headnote-2-line-group-1-line-1"/></lg></head><head type="note" n="3" xml:id="spp-X13-12H1-headnote-3"><lg n="1" xml:id="spp-X13-12H1-headnote-3-line-group-1" type="headnote"><l n="1" xml:id="spp-X13-12H1-headnote-3-line-group-1-line-1"/></lg></head>
+      <lg n="1" type="verse-paragraph"><l n="1" xml:id="spp-X13-12H1-line-1"> SIR,</l></lg><lg n="2" type="verse-paragraph"><l n="2" xml:id="spp-X13-12H1-line-2"><hi rend="display-initial">I</hi>T is impossible to know by your letter whether the wine is to be bottled tomorrow, or no.If it be, or be not, why did not you in plain <hi rend="underline">english</hi> tell us so?For my part, it was by mere chance I came to sit with the ladies <ref target="#spp-X13-12H1-footnote-1">1</ref><note place="foot" n="1" xml:id="spp-X13-12H1-footnote-1">Mrs. <hi rend="underline">Dingley</hi> and Mrs. <hi rend="underline">Johnson</hi>, who lived at a little distance from the deanry._<hi rend="underline">Swift</hi> was resident at the deanry when this letter was written, of which every paragraph ends with a rhime. And_<hi rend="underline">Sheridan</hi> was at his country house called <hi rend="underline">Quilca</hi>, in the county of <hi rend="underline">Cavan</hi>, about eight miles from <hi rend="underline">Dublin</hi>.</note> this night.And if they had not told me there was a letter from you, and your man <hi rend="underline">Alexander</hi> had not gone, and come back from the deanry, and the boy here had not been sent to let <hi rend="underline">Alexander</hi> know I was here, I should have mist the letter outright.Truly I don't know who's bound to be sending for corks to stop your bottles, with a vengeance.Make a page of your own age, and send your man <hi rend="underline">Alexander</hi> to buy corks, for <hi rend="underline">Saunders</hi> already has gone above ten jaunts.Mrs. <hi rend="underline">Dingley</hi> and Mrs. <hi rend="underline">Johnson</hi> say, truly they don't care for your wife's company, though they like your wine; but they had rather have it at their own house to drink in quiet.However they own it is very civil in Mr. <hi rend="underline">Sheridan</hi> to make the offer; and they cannot deny it.I wish <hi rend="underline">Alexander</hi> safe at <hi rend="underline">St. Catherine</hi>'s to-night, with all my heart and soul, upon my word and honour.But I think it base in you to send a poor fellow out so late at this time of year, when one would not turn out a dog that one valued; I appeal to your friend Mr. <hi rend="underline">Conna</hi>.I would present my humble service to my lady <hi rend="underline">Mountcashel</hi>; but truly I thought she would have made advances to have been acquainted with me, as she pretended.But now I can write no more, for you see plainly my paper is ended.</l><l n="3" xml:id="spp-X13-12H1-line-3" rend="indent(18)"> P.S. <hi rend="underline">I wish when you prated,Your letter you'd dated,Much plague it created,I scolded and rated,My soul it much grated,For your man I long waited.I think you are fated,Like a bear to be baited:Your man is belated,The case I have stated,And me you have cheated.My stable's unslated,Come back t' us well freighted;I remember my late-head,And wish you translated,For teazing me</hi>.</l></lg><lg n="3" type="verse-paragraph"><l n="4" xml:id="spp-X13-12H1-line-4" rend="indent(3) indent(3)">2 P.S. <hi rend="underline">Mrs</hi>. Dingley<hi rend="underline">Desires me singlyHer service to present you,Hopes that will content you;But </hi>Johnson<hi rend="underline"> madamIs grown a sad dame,For want of your converse,And cannot send one verse</hi>.</l></lg><lg n="4" type="verse-paragraph"><l n="5" xml:id="spp-X13-12H1-line-5" rend="flush right flush right flush right indent(20)">3 P.S. <hi rend="underline">You keep such a twattling</hi>[Vida<hi rend="underline">,</hi><hi rend="underline">With you and your bottling,</hi>[Rule 34<hi rend="underline">But I see the sum total,We shall ne'er have one bottle;The long and the short,We shall not have a quart.I wish you wou'd sign't,That we may have a pint.For all your colloguing,I'd be glad of a knogging:But I doubt 'tis a sham,You won't give us a dram.'Tis of shine, a mouth moon-full,You won't part with a spoonfull,And I must be nimble,If I can fill my thimble.You see I won't stop,Till I come to a drop;But I doubt the oraculum,Is a poor supernaculum;Tho' perhaps you tell itFor a grace, if we smell it</hi>.STELLA.<gap/>X13-12H1   </l></lg></div>
+      </div>
+    </body>
+  </text>
+</TEI>
